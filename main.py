@@ -1,67 +1,52 @@
 import os
 import json
 from datetime import datetime
-import apify_client
 from apify_client import ApifyClient
-import google.generativeai as genai
+from google import genai
 
-# 1. Cargar llaves desde Secrets de GitHub
+# 1. Cargar llaves
 APIFY_TOKEN = os.environ.get('APIFY_API_TOKEN')
 GEMINI_KEY = os.environ.get('GEMINI_API_KEY')
 
 # 2. Inicializar
 apify_client = ApifyClient(APIFY_TOKEN)
-genai.configure(api_key=GEMINI_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+client = genai.Client(api_key=GEMINI_KEY)
 
 def ejecutar_monitoreo():
-    # Leer base de datos
     with open('gobernadores.json', 'r', encoding='utf-8') as f:
         gobernadores = json.load(f)
 
     handles = [g['usuario_x'] for g in gobernadores]
-    
     print(f"--- Iniciando extracción para {len(handles)} perfiles ---")
 
-    # 3. Extraer tweets con Apify (Actor: apidojo/tweet-scraper)
+    # 3. Extraer tweets (Corregido: "Latest" con mayúscula)
     run_input = {
         "handle": handles,
         "maxItems": 3, 
-        "sort": "latest"
+        "sort": "Latest" 
     }
     
     run = apify_client.actor("apidojo/tweet-scraper").call(run_input=run_input)
     tweets_raw = list(apify_client.dataset(run["defaultDatasetId"]).iterate_items())
 
-    # 4. Formatear datos para la IA
     data_context = ""
     for t in tweets_raw:
         user = t.get('user', {}).get('screen_name', 'Desconocido')
         text = t.get('full_text', '')
         data_context += f"[@{user}]: {text}\n---\n"
 
-    # 5. Prompt para Gemini (Diseñado para Textual Político)
-    prompt = f"""
-    Eres un analista político especializado en Argentina. 
-    Analiza los tweets de los gobernadores del {datetime.now().strftime('%d/%m/%Y')}.
-    Produce un JSON con esta estructura:
-    {{
-        "resumen_general": "Párrafo breve con la tendencia del día",
-        "tweet_destacado": {{ "usuario": "@handle", "texto": "contenido" }},
-        "temas_calientes": ["Tema 1", "Tema 2", "Tema 3"],
-        "gobernador_mas_activo": "@handle"
-    }}
+    # 4. Generar Resumen con Gemini 2.0 (la más nueva)
+    prompt = f"Eres un analista político. Analiza estos tweets de gobernadores del {datetime.now().strftime('%d/%m/%Y')} y haz un resumen JSON con: resumen_general (párrafo), tweet_destacado (usuario y texto), temas_calientes (lista) y gobernador_mas_activo. TWEETS: {data_context}"
     
-    TWEETS:
-    {data_context}
-    """
+    response = client.models.generate_content(
+        model="gemini-2.0-flash", 
+        contents=prompt,
+        config={'response_mime_type': 'application/json'}
+    )
+    
+    resumen_data = json.loads(response.text)
 
-    # 6. Generar Resumen
-    response = model.generate_content(prompt)
-    clean_json = response.text.replace('```json', '').replace('```', '').strip()
-    resumen_data = json.loads(clean_json)
-
-    # 7. Guardar Histórico en carpeta 'data'
+    # 5. Guardar
     fecha_hoy = datetime.now().strftime('%Y-%m-%d')
     if not os.path.exists('data'):
         os.makedirs('data')
