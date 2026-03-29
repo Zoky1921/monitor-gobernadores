@@ -1,0 +1,218 @@
+[
+  {
+    "id_provincia": "BUE",
+    "nombre_gobernador": "Axel Kicillof",
+    "usuario_x": "Kicillofok",
+    "partido_coalicion": "Partido Justicialista",
+    "inicio_mandato": "10-12-2019",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Axel_Kicillof_2019.jpg/800px-Axel_Kicillof_2019.jpg"
+  },
+  {
+    "id_provincia": "CABA",
+    "nombre_gobernador": "Jorge Macri",
+    "usuario_x": "jorgemacri",
+    "partido_coalicion": "Propuesta Republicana",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jorge_Macri_2023.jpg/800px-Jorge_Macri_2023.jpg"
+  },
+  {
+    "id_provincia": "CAT",
+    "nombre_gobernador": "Raúl Jalil",
+    "usuario_x": "RaulJalil_ok",
+    "partido_coalicion": "Partido Justicialista",
+    "inicio_mandato": "10-12-2019",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/d/de/Raul_Jalil_2021.jpg"
+  },
+  {
+    "id_provincia": "CBA",
+    "nombre_gobernador": "Martín Llaryora",
+    "usuario_x": "MartinLlaryora",
+    "partido_coalicion": "Partido Justicialista",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/0/06/Martin_Llaryora_2023.jpg"
+  },
+  {
+    "id_provincia": "CHA",
+    "nombre_gobernador": "Leandro Zdero",
+    "usuario_x": "LeandroZdero",
+    "partido_coalicion": "Unión Cívica Radical",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Leandro_Zdero.jpg"
+  },
+  {
+    "id_provincia": "CHU",
+    "nombre_gobernador": "Ignacio Torres",
+    "usuario_x": "NachoTorresCH",
+    "partido_coalicion": "Propuesta Republicana",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ignacio_Torres_2024.jpg"
+  },
+  {
+    "id_provincia": "COR",
+    "nombre_gobernador": "Gustavo Valdés",
+    "usuario_x": "gustavovaldesok",
+    "partido_coalicion": "Unión Cívica Radical",
+    "inicio_mandato": "10-12-2017",
+    "fin_mandato": "10-12-2025",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gustavo_Vald%C3%A9s_%28cropped%29.jpg"
+  },
+  {
+    "id_provincia": "ENT",
+    "nombre_gobernador": "Rogelio Frigerio",
+    "usuario_x": "frigeriorogelio",
+    "partido_coalicion": "Propuesta Republicana",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Frigerio_%28cropped%29.jpg"
+  },
+  {
+    "id_provincia": "FOR",
+    "nombre_gobernador": "Gildo Insfrán",
+    "usuario_x": "insfran_gildo",
+    "partido_coalicion": "Partido Justicialista",
+    "inicio_mandato": "10-12-1995",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gildo_Insfran.jpg"
+  },
+  {
+    "id_provincia": "JUJ",
+    "nombre_gobernador": "Carlos Sadir",
+    "usuario_x": "carlossadirjuy",
+    "partido_coalicion": "Unión Cívica Radical",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/2/23/Carlos_Sadir_Gobernador.jpg"
+  },
+  {
+    "id_provincia": "LAP",
+    "nombre_gobernador": "Sergio Ziliotto",
+    "usuario_x": "ZiliottoSergio",
+    "partido_coalicion": "Partido Justicialista",
+    "inicio_mandato": "10-12-2019",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sergio_Ziliotto_gobernador_pampeano.jpg"
+  },
+  {
+    "id_provincia": "LRI",
+    "nombre_gobernador": "Ricardo Quintela",
+    "usuario_x": "QuintelaRicardo",
+    "partido_coalicion": "Partido Justicialista",
+    "inicio_mandato": "10-12-2019",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/a/af/RQ_Wikipedia_%28cropped%29.jpg"
+  },
+  {
+    "id_provincia": "MEN",
+    "nombre_gobernador": "Alfredo Cornejo",
+    "usuario_x": "alfredocornejo",
+    "partido_coalicion": "Unión Cívica Radical",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/d/da/Alfredo-Cornejo-2025.jpg"
+  },
+  {
+    "id_provincia": "MIZ",
+    "nombre_gobernador": "Hugo Passalacqua",
+    "usuario_x": "passalacquaok",
+    "partido_coalicion": "Frente Renovador",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hugo_Passalacqua_gobernador.jpg"
+  },
+  {
+    "id_provincia": "NEU",
+    "nombre_gobernador": "Rolando Figueroa",
+    "usuario_x": "Rolo_Figueroa",
+    "partido_coalicion": "Comunidad",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Rolando_Figueroa.png"
+  },
+  {
+    "id_provincia": "RNE",
+    "nombre_gobernador": "Alberto Weretilneck",
+    "usuario_x": "WeretilneckOK",
+    "partido_coalicion": "Juntos Somos Río Negro",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gobernador_Alberto_Weretilneck.jpg"
+  },
+  {
+    "id_provincia": "SDE",
+    "nombre_gobernador": "Elías Suárez",
+    "usuario_x": "EliasSuarezSDE",
+    "partido_coalicion": "Frente Cívico por Santiago",
+    "inicio_mandato": "10-12-2025",
+    "fin_mandato": "10-12-2029",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Elias_Suarez_SDE01.jpg"
+  },
+  {
+    "id_provincia": "SFD",
+    "nombre_gobernador": "Gustavo Sáenz",
+    "usuario_x": "GustavoSaenzOK",
+    "partido_coalicion": "Partido Identidad Salteña",
+    "inicio_mandato": "10-12-2019",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Gustavo_Saenz_2023.jpg"
+  },
+  {
+    "id_provincia": "SJU",
+    "nombre_gobernador": "Marcelo Orrego",
+    "usuario_x": "DrMarceloOrrego",
+    "partido_coalicion": "Producción y Trabajo",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marcelo_Orrego_2023.jpg"
+  },
+  {
+    "id_provincia": "SLU",
+    "nombre_gobernador": "Claudio Poggi",
+    "usuario_x": "claudiopoggi",
+    "partido_coalicion": "Propuesta Republicana",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Claudio_Poggi_2023.jpg"
+  },
+  {
+    "id_provincia": "SCZ",
+    "nombre_gobernador": "Claudio Vidal",
+    "usuario_x": "ClaudioVidalSer",
+    "partido_coalicion": "SER Santa Cruz",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Claudio_Vidal_2023.jpg"
+  },
+  {
+    "id_provincia": "SFE",
+    "nombre_gobernador": "Maximiliano Pullaro",
+    "usuario_x": "maxipullaro",
+    "partido_coalicion": "Unión Cívica Radical",
+    "inicio_mandato": "10-12-2023",
+    "fin_mandato": "10-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Maximiliano_Pullaro_2023.jpg"
+  },
+  {
+    "id_provincia": "TDF",
+    "nombre_gobernador": "Gustavo Melella",
+    "usuario_x": "gustavomelella",
+    "partido_coalicion": "Partido FORJA",
+    "inicio_mandato": "17-12-2019",
+    "fin_mandato": "17-12-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/d/df/Gustavo_Melella_2021.jpg"
+  },
+  {
+    "id_provincia": "TUC",
+    "nombre_gobernador": "Osvaldo Jaldo",
+    "usuario_x": "OsvaldoJaldo",
+    "partido_coalicion": "Partido Justicialista",
+    "inicio_mandato": "29-10-2023",
+    "fin_mandato": "29-10-2027",
+    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/1/1a/JaldoREORarg_%28cropped%29.png"
+  }
+]
