@@ -1,218 +1,194 @@
 [
-  {
-    "id_provincia": "BUE",
-    "nombre_gobernador": "Axel Kicillof",
-    "usuario_x": "Kicillofok",
-    "partido_coalicion": "Partido Justicialista",
-    "inicio_mandato": "10-12-2019",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Axel_Kicillof_2019.jpg/800px-Axel_Kicillof_2019.jpg"
-  },
-  {
-    "id_provincia": "CABA",
-    "nombre_gobernador": "Jorge Macri",
-    "usuario_x": "jorgemacri",
-    "partido_coalicion": "Propuesta Republicana",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jorge_Macri_2023.jpg/800px-Jorge_Macri_2023.jpg"
-  },
-  {
-    "id_provincia": "CAT",
-    "nombre_gobernador": "Raúl Jalil",
-    "usuario_x": "RaulJalil_ok",
-    "partido_coalicion": "Partido Justicialista",
-    "inicio_mandato": "10-12-2019",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/d/de/Raul_Jalil_2021.jpg"
-  },
-  {
-    "id_provincia": "CBA",
-    "nombre_gobernador": "Martín Llaryora",
-    "usuario_x": "MartinLlaryora",
-    "partido_coalicion": "Partido Justicialista",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/0/06/Martin_Llaryora_2023.jpg"
-  },
-  {
-    "id_provincia": "CHA",
-    "nombre_gobernador": "Leandro Zdero",
-    "usuario_x": "LeandroZdero",
-    "partido_coalicion": "Unión Cívica Radical",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Leandro_Zdero.jpg"
-  },
-  {
-    "id_provincia": "CHU",
-    "nombre_gobernador": "Ignacio Torres",
-    "usuario_x": "NachoTorresCH",
-    "partido_coalicion": "Propuesta Republicana",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ignacio_Torres_2024.jpg"
-  },
-  {
-    "id_provincia": "COR",
-    "nombre_gobernador": "Gustavo Valdés",
-    "usuario_x": "gustavovaldesok",
-    "partido_coalicion": "Unión Cívica Radical",
-    "inicio_mandato": "10-12-2017",
-    "fin_mandato": "10-12-2025",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gustavo_Vald%C3%A9s_%28cropped%29.jpg"
-  },
-  {
-    "id_provincia": "ENT",
-    "nombre_gobernador": "Rogelio Frigerio",
-    "usuario_x": "frigeriorogelio",
-    "partido_coalicion": "Propuesta Republicana",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Frigerio_%28cropped%29.jpg"
-  },
-  {
-    "id_provincia": "FOR",
-    "nombre_gobernador": "Gildo Insfrán",
-    "usuario_x": "insfran_gildo",
-    "partido_coalicion": "Partido Justicialista",
-    "inicio_mandato": "10-12-1995",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gildo_Insfran.jpg"
-  },
-  {
-    "id_provincia": "JUJ",
-    "nombre_gobernador": "Carlos Sadir",
-    "usuario_x": "carlossadirjuy",
-    "partido_coalicion": "Unión Cívica Radical",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/2/23/Carlos_Sadir_Gobernador.jpg"
-  },
-  {
-    "id_provincia": "LAP",
-    "nombre_gobernador": "Sergio Ziliotto",
-    "usuario_x": "ZiliottoSergio",
-    "partido_coalicion": "Partido Justicialista",
-    "inicio_mandato": "10-12-2019",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sergio_Ziliotto_gobernador_pampeano.jpg"
-  },
-  {
-    "id_provincia": "LRI",
-    "nombre_gobernador": "Ricardo Quintela",
-    "usuario_x": "QuintelaRicardo",
-    "partido_coalicion": "Partido Justicialista",
-    "inicio_mandato": "10-12-2019",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/a/af/RQ_Wikipedia_%28cropped%29.jpg"
-  },
-  {
-    "id_provincia": "MEN",
-    "nombre_gobernador": "Alfredo Cornejo",
-    "usuario_x": "alfredocornejo",
-    "partido_coalicion": "Unión Cívica Radical",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/d/da/Alfredo-Cornejo-2025.jpg"
-  },
-  {
-    "id_provincia": "MIZ",
-    "nombre_gobernador": "Hugo Passalacqua",
-    "usuario_x": "passalacquaok",
-    "partido_coalicion": "Frente Renovador",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hugo_Passalacqua_gobernador.jpg"
-  },
-  {
-    "id_provincia": "NEU",
-    "nombre_gobernador": "Rolando Figueroa",
-    "usuario_x": "Rolo_Figueroa",
-    "partido_coalicion": "Comunidad",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Rolando_Figueroa.png"
-  },
-  {
-    "id_provincia": "RNE",
-    "nombre_gobernador": "Alberto Weretilneck",
-    "usuario_x": "WeretilneckOK",
-    "partido_coalicion": "Juntos Somos Río Negro",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gobernador_Alberto_Weretilneck.jpg"
-  },
-  {
-    "id_provincia": "SDE",
-    "nombre_gobernador": "Elías Suárez",
-    "usuario_x": "EliasSuarezSDE",
-    "partido_coalicion": "Frente Cívico por Santiago",
-    "inicio_mandato": "10-12-2025",
-    "fin_mandato": "10-12-2029",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Elias_Suarez_SDE01.jpg"
-  },
-  {
-    "id_provincia": "SFD",
-    "nombre_gobernador": "Gustavo Sáenz",
-    "usuario_x": "GustavoSaenzOK",
-    "partido_coalicion": "Partido Identidad Salteña",
-    "inicio_mandato": "10-12-2019",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Gustavo_Saenz_2023.jpg"
-  },
-  {
-    "id_provincia": "SJU",
-    "nombre_gobernador": "Marcelo Orrego",
-    "usuario_x": "DrMarceloOrrego",
-    "partido_coalicion": "Producción y Trabajo",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marcelo_Orrego_2023.jpg"
-  },
-  {
-    "id_provincia": "SLU",
-    "nombre_gobernador": "Claudio Poggi",
-    "usuario_x": "claudiopoggi",
-    "partido_coalicion": "Propuesta Republicana",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Claudio_Poggi_2023.jpg"
-  },
-  {
-    "id_provincia": "SCZ",
-    "nombre_gobernador": "Claudio Vidal",
-    "usuario_x": "ClaudioVidalSer",
-    "partido_coalicion": "SER Santa Cruz",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Claudio_Vidal_2023.jpg"
-  },
-  {
-    "id_provincia": "SFE",
-    "nombre_gobernador": "Maximiliano Pullaro",
-    "usuario_x": "maxipullaro",
-    "partido_coalicion": "Unión Cívica Radical",
-    "inicio_mandato": "10-12-2023",
-    "fin_mandato": "10-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Maximiliano_Pullaro_2023.jpg"
-  },
-  {
-    "id_provincia": "TDF",
-    "nombre_gobernador": "Gustavo Melella",
-    "usuario_x": "gustavomelella",
-    "partido_coalicion": "Partido FORJA",
-    "inicio_mandato": "17-12-2019",
-    "fin_mandato": "17-12-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/d/df/Gustavo_Melella_2021.jpg"
-  },
-  {
-    "id_provincia": "TUC",
-    "nombre_gobernador": "Osvaldo Jaldo",
-    "usuario_x": "OsvaldoJaldo",
-    "partido_coalicion": "Partido Justicialista",
-    "inicio_mandato": "29-10-2023",
-    "fin_mandato": "29-10-2027",
-    "url_foto": "https://upload.wikimedia.org/wikipedia/commons/1/1a/JaldoREORarg_%28cropped%29.png"
-  }
+    {
+        "provincia": "Buenos Aires",
+        "nombre": "Axel Kicillof",
+        "usuario_x": "Kicillofok",
+        "partido": "Unión por la Patria",
+        "foto_url": "https://unavatar.io/x/Kicillofok",
+        "bio": "Economista y político peronista. Exministro de Economía. Gobernador de Buenos Aires desde 2019. Reelecto en 2023."
+    },
+    {
+        "provincia": "CABA",
+        "nombre": "Jorge Macri",
+        "usuario_x": "jorgemacri",
+        "partido": "PRO",
+        "foto_url": "https://unavatar.io/x/jorgemacri",
+        "bio": "Político del PRO. Exintendente de Vicente López. Jefe de Gobierno porteño desde diciembre de 2023."
+    },
+    {
+        "provincia": "Catamarca",
+        "nombre": "Raúl Jalil",
+        "usuario_x": "RaulJalil_ok",
+        "partido": "Unión por la Patria",
+        "foto_url": "https://unavatar.io/x/RaulJalil_ok",
+        "bio": "Licenciado en Administración y político peronista. Gobernador de Catamarca desde 2019. Reelecto en 2023."
+    },
+    {
+        "provincia": "Chaco",
+        "nombre": "Leandro Zdero",
+        "usuario_x": "LeandroZdero",
+        "partido": "Juntos por el Cambio",
+        "foto_url": "https://unavatar.io/x/LeandroZdero",
+        "bio": "Arquitecto y político radical. Primer gobernador no peronista del Chaco en más de una década. Asumió en 2023."
+    },
+    {
+        "provincia": "Chubut",
+        "nombre": "Ignacio Torres",
+        "usuario_x": "NachoTorresCH",
+        "partido": "Juntos por el Cambio",
+        "foto_url": "https://unavatar.io/x/NachoTorresCH",
+        "bio": "Licenciado en Administración y político del PRO. El gobernador más joven al asumir en 2023, con 35 años."
+    },
+    {
+        "provincia": "Córdoba",
+        "nombre": "Martín Llaryora",
+        "usuario_x": "MartinLlaryora",
+        "partido": "Hacemos por Córdoba",
+        "foto_url": "https://unavatar.io/x/MartinLlaryora",
+        "bio": "Abogado y político peronista cordobés. Exintendente de Córdoba capital. Gobernador desde diciembre de 2023."
+    },
+    {
+        "provincia": "Corrientes",
+        "nombre": "Gustavo Valdés",
+        "usuario_x": "gustavovaldesok",
+        "partido": "UCR / Juntos por el Cambio",
+        "foto_url": "https://unavatar.io/x/gustavovaldesok",
+        "bio": "Abogado y político radical. Gobernador de Corrientes desde 2017. Reelecto en 2021 con amplia mayoría."
+    },
+    {
+        "provincia": "Entre Ríos",
+        "nombre": "Rogelio Frigerio",
+        "usuario_x": "frigeriorogelio",
+        "partido": "PRO / Juntos por el Cambio",
+        "foto_url": "https://unavatar.io/x/frigeriorogelio",
+        "bio": "Economista y político del PRO. Exministro del Interior. Gobernador de Entre Ríos desde diciembre de 2023."
+    },
+    {
+        "provincia": "Formosa",
+        "nombre": "Gildo Insfrán",
+        "usuario_x": "insfran_gildo",
+        "partido": "Unión por la Patria",
+        "foto_url": "https://unavatar.io/x/insfran_gildo",
+        "bio": "Médico veterinario y político peronista. Gobernador de Formosa ininterrumpidamente desde 1995."
+    },
+    {
+        "provincia": "Jujuy",
+        "nombre": "Carlos Sadir",
+        "usuario_x": "carlossadirjuy",
+        "partido": "UCR / Juntos por el Cambio",
+        "foto_url": "https://unavatar.io/x/carlossadirjuy",
+        "bio": "Contador público y político radical. Sucesor de Gerardo Morales. Gobernador de Jujuy desde diciembre de 2023."
+    },
+    {
+        "provincia": "La Pampa",
+        "nombre": "Sergio Ziliotto",
+        "usuario_x": "ZiliottoSergio",
+        "partido": "Unión por la Patria",
+        "foto_url": "https://unavatar.io/x/ZiliottoSergio",
+        "bio": "Político peronista. Gobernador de La Pampa desde 2019. Reelecto en 2023."
+    },
+    {
+        "provincia": "La Rioja",
+        "nombre": "Ricardo Quintela",
+        "usuario_x": "QuintelaRicardo",
+        "partido": "Unión por la Patria",
+        "foto_url": "https://unavatar.io/x/QuintelaRicardo",
+        "bio": "Político peronista. Gobernador de La Rioja desde 2019. Reelecto en 2023. Presidente del PJ riojano."
+    },
+    {
+        "provincia": "Mendoza",
+        "nombre": "Alfredo Cornejo",
+        "usuario_x": "alfredocornejo",
+        "partido": "UCR / Cambia Mendoza",
+        "foto_url": "https://unavatar.io/x/alfredocornejo",
+        "bio": "Licenciado en Ciencia Política y dirigente radical. Exgobernador (2015-2019). Retomó la gobernación en 2023."
+    },
+    {
+        "provincia": "Misiones",
+        "nombre": "Hugo Passalacqua",
+        "usuario_x": "passalacquaok",
+        "partido": "Frente Renovador de la Concordia",
+        "foto_url": "https://unavatar.io/x/passalacquaok",
+        "bio": "Docente y político. Exgobernador (2015-2019). Volvió a gobernar Misiones desde diciembre de 2023."
+    },
+    {
+        "provincia": "Neuquén",
+        "nombre": "Rolando Figueroa",
+        "usuario_x": "Rolo_Figueroa",
+        "partido": "Comunidad",
+        "foto_url": "https://unavatar.io/x/Rolo_Figueroa",
+        "bio": "Contador y político. Gobernador desde dic. 2023 por el partido Comunidad, venciendo al tradicional MPN."
+    },
+    {
+        "provincia": "Río Negro",
+        "nombre": "Alberto Weretilneck",
+        "usuario_x": "Weretilneck",
+        "partido": "Juntos Somos Río Negro",
+        "foto_url": "https://unavatar.io/x/Weretilneck",
+        "bio": "Político rionegrino. Gobernador desde 2012 (con intermedio). Fundador de Juntos Somos Río Negro."
+    },
+    {
+        "provincia": "Salta",
+        "nombre": "Gustavo Sáenz",
+        "usuario_x": "GustavoSaenzOK",
+        "partido": "Alianza Gustavo Gobernador",
+        "foto_url": "https://unavatar.io/x/GustavoSaenzOK",
+        "bio": "Abogado y político. Exintendente de Salta capital. Gobernador de Salta desde 2019. Reelecto en 2023."
+    },
+    {
+        "provincia": "San Juan",
+        "nombre": "Marcelo Orrego",
+        "usuario_x": "DrMarceloOrrego",
+        "partido": "Juntos por el Cambio",
+        "foto_url": "https://unavatar.io/x/DrMarceloOrrego",
+        "bio": "Abogado y político. Exintendente de Santa Lucía. Gobernador desde 2023, cortando 20 años de hegemonía peronista."
+    },
+    {
+        "provincia": "San Luis",
+        "nombre": "Claudio Poggi",
+        "usuario_x": "claudiojpoggi",
+        "partido": "Juntos por el Cambio",
+        "foto_url": "https://unavatar.io/x/claudiojpoggi",
+        "bio": "Contador público y político. Exgobernador (2011-2015). Volvió al ejecutivo provincial en diciembre de 2023."
+    },
+    {
+        "provincia": "Santa Cruz",
+        "nombre": "Claudio Vidal",
+        "usuario_x": "ClaudioVidalSer",
+        "partido": "Por Santa Cruz",
+        "foto_url": "https://unavatar.io/x/ClaudioVidalSer",
+        "bio": "Dirigente sindical petrolero y político. Gobernador desde 2023, primer no kirchnerista en décadas en la provincia."
+    },
+    {
+        "provincia": "Santa Fe",
+        "nombre": "Maximiliano Pullaro",
+        "usuario_x": "maxipullaro",
+        "partido": "UCR / Juntos por el Cambio",
+        "foto_url": "https://unavatar.io/x/maxipullaro",
+        "bio": "Licenciado en Ciencia Política y dirigente radical. Exministro de Seguridad. Gobernador de Santa Fe desde 2023."
+    },
+    {
+        "provincia": "Santiago del Estero",
+        "nombre": "Gerardo Zamora",
+        "usuario_x": "GZamoraSDE",
+        "partido": "Frente Cívico por Santiago",
+        "foto_url": "https://unavatar.io/x/GZamoraSDE",
+        "bio": "Abogado y político radical, líder del Frente Cívico. Gobernador de Santiago del Estero con múltiples mandatos."
+    },
+    {
+        "provincia": "Tierra del Fuego",
+        "nombre": "Gustavo Melella",
+        "usuario_x": "gustavomelella",
+        "partido": "Unión por la Patria / FORJA",
+        "foto_url": "https://unavatar.io/x/gustavomelella",
+        "bio": "Profesor y político de FORJA. Exintendente de Río Grande. Gobernador desde 2019. Reelecto en 2023."
+    },
+    {
+        "provincia": "Tucumán",
+        "nombre": "Osvaldo Jaldo",
+        "usuario_x": "OsvaldoJaldo",
+        "partido": "Unión por la Patria",
+        "foto_url": "https://unavatar.io/x/OsvaldoJaldo",
+        "bio": "Contador público y político peronista. Exvicegobernador. Asumió la gobernación de Tucumán en 2023."
+    }
 ]
