@@ -5,7 +5,7 @@ on:
     - cron: '0 23 * * *' # Corre todos los días a las 20:00 hs Argentina
   workflow_dispatch:
 
-permissions:           # ✅ AGREGADO: necesario para poder hacer push
+permissions:
   contents: write
 
 jobs:
@@ -33,6 +33,10 @@ jobs:
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "Observatorio Bot"
-          git add data/                          # ✅ carpeta entera, no glob del shell
-          git diff --staged --quiet || git commit -m "Actualizacion diaria: $(date +'%Y-%m-%d')"
-          git push
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git add data/
+            git commit -m "Actualizacion diaria: $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "Sin cambios en data/, no hay nada que commitear."
+          fi
