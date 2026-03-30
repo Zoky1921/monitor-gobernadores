@@ -1,67 +1,74 @@
 {
-    "resumen_general": "El clima político de hoy, 30 de marzo de 2026, muestra a los gobernadores focalizados intensamente en la gestión provincial y en la comunicación de acciones concretas que impactan directamente en la vida de los ciudadanos. Los ejes principales giran en torno al desarrollo de infraestructura clave en áreas como la educación (Buenos Aires, Chaco, Neuquén), la salud (Chaco, Río Negro) y la conectividad vial (Río Negro, Jujuy). La seguridad ciudadana y el control fronterizo son prioritarios para la Ciudad de Buenos Aires y Jujuy, reafirmando una agenda de \"Ley y Orden\". El impulso económico regional se manifiesta a través de la promoción del turismo (Neuquén, San Juan), la visión estratégica en el sector energético (Río Negro) y el apoyo a productores y acceso a la tierra (Chaco). También se observa una respuesta activa ante desastres naturales (Córdoba). Los principales conflictos, aunque no explícitamente declarados como tales en los tweets filtrados, se insinúan en la demanda de intervención federal urgente para infraestructura (Río Negro) y en la constante reafirmación de agendas propias con \"fondos propios\" que pueden interpretarse como una respuesta a la retirada o redefinición del rol del Estado nacional. Predomina una narrativa de autonomía y capacidad de gestión local.",
+    "resumen_general": "El clima político de hoy, 30 de marzo de 2026, entre los gobernadores argentinos se caracteriza por un fuerte énfasis en la gestión local y la resolución de problemas concretos en sus respectivas provincias. Se observa una marcada agenda de obras públicas y mejoras en servicios esenciales, como la entrega de viviendas y títulos de tierras en Chaco, la finalización de obras escolares en Neuquén, o la inversión hospitalaria en Río Negro. La seguridad es un tema recurrente, con Jorge Macri reforzando su discurso de 'Ley y orden' en CABA y Carlos Sadir impulsando la tecnología en el control fronterizo de Jujuy. Un eje importante es el fomento del turismo y los eventos deportivos, con gobernadores como Rolando Figueroa y Marcelo Orrego destacando la importancia de competencias nacionales e internacionales para dinamizar sus economías. También se percibe la necesidad de coordinación con el gobierno nacional, evidenciada por la solicitud de Alberto Weretilneck a Vialidad Nacional para la reparación urgente de un puente clave, lo que subraya una latente tensión sobre la inversión federal. En general, los mensajes de los mandatarios buscan transmitir proactividad, cercanía con las comunidades y orgullo regional, enfocándose en el desarrollo y el bienestar de sus ciudadanos frente a los desafíos cotidianos y económicos.",
     "analisis_por_gobernador": [
         {
             "gobernador": "@Kicillofok",
-            "analisis": "El gobernador Axel Kicillof, a través de un retuit, comunicó el fortalecimiento de la educación pública en la capital bonaerense, enfocándose en la entrega de equipamiento. Su mensaje se centra en la continuidad de la gestión y el apoyo a servicios públicos esenciales a nivel local.",
-            "cita_textual_relevante": "Seguimos fortaleciendo la educación pública en la capital de los bonaerenses"
+            "analisis": "El gobernador, a través de un retuit, destacó el fortalecimiento de la educación pública en la capital bonaerense mediante la entrega de electrodomésticos, en una acción conjunta con el municipio. Su postura se alinea con la inversión en políticas sociales y educativas a nivel local.",
+            "cita_textual_relevante": "📚 Seguimos fortaleciendo la educación pública en la capital de los bonaerenses"
         },
         {
             "gobernador": "@jorgemacri",
-            "analisis": "El jefe de Gobierno porteño, Jorge Macri, se focalizó en la seguridad, anunciando un 'operativo de saturación' en Retiro. Su comunicación refuerza su compromiso con la 'Ley y orden' y la protección de los 'porteños de bien', buscando proyectar una imagen de autoridad y firmeza.",
-            "cita_textual_relevante": "Operativo de saturación en el barrio de Retiro. Se terminó el vale todo. La Ciudad es de los porteños de bien. Ley y orden."
+            "analisis": "El gobernador de la Ciudad de Buenos Aires comunicó un operativo de saturación en el barrio de Retiro, reafirmando su política de seguridad bajo el lema 'Ley y orden'. Su postura es de firmeza y control ante lo que denomina el 'vale todo' en la ciudad.",
+            "cita_textual_relevante": "Se terminó el vale todo. La Ciudad es de los porteños de bien. Ley y orden."
         },
         {
             "gobernador": "@MartinLlaryora",
-            "analisis": "El gobernador de Córdoba, Martín Llaryora, informó sobre la asistencia y el trabajo coordinado de su gobierno ante un temporal que afectó el este provincial. Destacó la activación del Fondo Permanente para Atención de Situaciones de Desastre, demostrando una respuesta rápida y organizada frente a emergencias climáticas.",
-            "cita_textual_relevante": "Tras el #temporal que provocó intensas precipitaciones y afectó a distintas localidades del este provincial, estamos acompañando y asistiendo a las familias damnificadas..."
+            "analisis": "El gobernador de Córdoba informó sobre la asistencia a familias afectadas por un temporal en el este provincial, con equipos trabajando en terreno y la activación de un fondo de desastre. Su postura es de respuesta rápida y presencia estatal frente a emergencias climáticas, destacando el trabajo coordinado.",
+            "cita_textual_relevante": "estamos acompañando y asistiendo a las familias damnificadas a través de un trabajo coordinado entre diferentes áreas de Gobierno."
         },
         {
             "gobernador": "@LeandroZdero",
-            "analisis": "Leandro Zdero, gobernador de Chaco, comunicó múltiples iniciativas de gestión. Informó sobre operativos sanitarios en Fuerte Esperanza, avances en el programa 'Mejor Escuela' para refacciones edilicias, y la entrega de títulos de tierras a familias productoras en El Impenetrable. Sus mensajes resaltan la inversión en el interior provincial y el compromiso con la salud, educación y desarrollo rural.",
-            "cita_textual_relevante": "DESPUÉS DE 45 AÑOS, LA TIERRA EN MANOS DE QUIENES LA TRABAJAN."
+            "analisis": "El gobernador chaqueño reportó una intensa actividad de gestión en El Impenetrable y Colonias Unidas, incluyendo la entrega de viviendas y títulos de tierras, operativos sanitarios y avances en refacciones escolares. Su postura es de fuerte presencia territorial, enfocada en el desarrollo social y el arraigo en zonas postergadas.",
+            "cita_textual_relevante": "Más arraigo, más producción y previsibilidad para seguir creciendo. 💪🏼"
         },
         {
             "gobernador": "@NachoTorresCH",
-            "analisis": "El gobernador de Chubut, Ignacio Torres, celebró el éxito de una orquesta juvenil del Barrio INTA de Trelew que se presentará en el Teatro Colón. Su comunicación enfatiza el valor del esfuerzo, la disciplina y las oportunidades que brinda la cultura y la educación para la juventud chubutense.",
-            "cita_textual_relevante": "Hoy, casi cien jóvenes y sus docentes están cumpliendo un sueño enorme: tocar en el Teatro Colón. Y no van solos. Llevan con ellos el orgullo de todos los chubutenses."
+            "analisis": "El gobernador de Chubut compartió el orgullo por la presentación de una orquesta juvenil de un barrio de Trelew en el Teatro Colón, resaltando el esfuerzo y la superación de los jóvenes. Su postura es de apoyo a la cultura como herramienta de contención social y generadora de oportunidades.",
+            "cita_textual_relevante": "Detrás hay esfuerzo, disciplina y chicos que eligieron superarse todos los días."
         },
         {
             "gobernador": "@carlossadirjuy",
-            "analisis": "Carlos Sadir, gobernador de Jujuy, anunció la implementación de nueva tecnología y más cámaras en el paso fronterizo de La Quiaca para mejorar el control de carga y documentación. Su foco está en la seguridad, la optimización de la transitabilidad y el impulso al desarrollo comercial y turístico de la región, mencionando la futura Zona Franca.",
+            "analisis": "El gobernador jujeño comunicó la inauguración de nueva tecnología (escáneres y cámaras) para el control en el paso fronterizo La Quiaca-Villazón, destacando su impacto en la seguridad y el desarrollo comercial y turístico de la región, en la que se prevé una futura Zona Franca.",
             "cita_textual_relevante": "Mayor y mejor control en nuestro paso fronterizo de La Quiaca. Inauguramos nueva tecnología: un nuevo escáner de carga, identidad y documentación y más de 60 cámaras de videovigilancia para revisar lo que ingresa y sale del país."
         },
         {
+            "gobernador": "@passalacquaok",
+            "analisis": "El gobernador de Misiones celebró el 80° aniversario de Campo Grande, resaltando el esfuerzo y la resiliencia de su gente en la construcción del municipio. Su postura es de cercanía con las comunidades locales, valorando el trabajo colectivo como motor de desarrollo.",
+            "cita_textual_relevante": "Cada vez que vuelvo la encuentro más linda y más viva. Eso es mérito de su gente que no se detiene y que, aun en las dificultades, sigue construyendo. 💪🏻"
+        },
+        {
             "gobernador": "@Rolo_Figueroa",
-            "analisis": "Rolando Figueroa, gobernador de Neuquén, destacó la celebración del Turismo Carretera en la provincia, resaltando su impacto económico y turístico. También puso énfasis en la educación como prioridad, mencionando el avance en la erradicación de aulas tráiler en zonas rurales, buscando garantizar condiciones dignas para los estudiantes.",
-            "cita_textual_relevante": "EN NEUQUÉN LA EDUCACIÓN ES PRIORIDAD: avanzamos en la erradicación de las aulas tráiler, una decisión política clara para garantizar condiciones dignas y equitativas para todos los estudiantes."
+            "analisis": "El gobernador neuquino destacó la realización del Turismo Carretera en la provincia como un evento que impulsa el deporte, el turismo y la economía regional. Además, reafirmó la educación como prioridad, mencionando avances en la erradicación de aulas tráiler. Su postura combina la promoción de eventos de gran escala con la mejora de servicios esenciales.",
+            "cita_textual_relevante": "EN NEUQUÉN YA SE VIVE EL TURISMO CARRETERA (...) Seguimos posicionando a la provincia en todo el país, generando oportunidades y poniendo a Neuquén en lo más alto."
         },
         {
             "gobernador": "@WeretilneckOK",
-            "analisis": "El gobernador de Río Negro, Alberto Weretilneck, tuvo una jornada intensa, destacando el aniversario de Río Colorado con anuncios de inversión en salud y obras. Asimismo, solicitó a Vialidad Nacional la reparación urgente de un puente clave y articuló una visión estratégica para la provincia como 'epicentro de una nueva historia energética', posicionándola como conector de la energía patagónica con el mundo.",
-            "cita_textual_relevante": "RÍO NEGRO, EPICENTRO DE UNA NUEVA HISTORIA ENERGÉTICA... Neuquén produce. Río Negro conecta esa energía con el mundo."
+            "analisis": "El gobernador rionegrino celebró el aniversario de Río Colorado con anuncios de inversión en salud, obras de desagüe y entrega de escrituras. Realizó un llamado urgente a Vialidad Nacional para reparar un puente clave y proyectó a Río Negro como un futuro 'epicentro de una nueva historia energética'. Su postura es de gestión integral y defensa de los intereses provinciales ante la Nación.",
+            "cita_textual_relevante": "Le solicitamos a Vialidad Nacional que arbitren de manera inmediata las medidas necesarias para reparar esta infraestructura clave y garantizar condiciones seguras de circulación."
         },
         {
             "gobernador": "@EliasSuarezSDE",
-            "analisis": "El gobernador de Santiago del Estero, Gerardo Zamora (cuya cuenta de gobierno fue retuiteada), se limitó a difundir mensajes institucionales, deseando un Feliz Domingo de Ramos y conmemorando el aniversario de Radio LV11. Su comunicación se mantuvo en el ámbito de las efemérides y festividades religiosas.",
-            "cita_textual_relevante": "Hoy comienza la Semana Santa, un tiempo de reflexión, fe y esperanza para todos los santiagueños."
+            "analisis": "El gobernador santiagueño, mediante retuits, se enfocó en el inicio de la Semana Santa con el 'Domingo de Ramos' y el aniversario de la radio local LV11. Su comunicación hoy fue de carácter más institucional, cultural y religioso, mostrando un acompañamiento a las tradiciones de su provincia.",
+            "cita_textual_relevante": "🌿 Domingo de Ramos Hoy comienza la Semana Santa, un tiempo de reflexión, fe y esperanza para todos los santiagueños."
         },
         {
             "gobernador": "@DrMarceloOrrego",
-            "analisis": "Marcelo Orrego, gobernador de San Juan, celebró el éxito de una nueva edición del #IRONMAN703, destacando la capacidad de la provincia para organizar eventos deportivos de gran magnitud. Enfatizó el impacto positivo en el turismo, el empleo y la economía local, consolidando a San Juan como un destino internacional para el triatlón.",
-            "cita_textual_relevante": "Una vez más, San Juan fue escenario de un evento que nos llena de orgullo."
+            "analisis": "El gobernador de San Juan comunicó con éxito la realización del Ironman 70.3, destacando la participación internacional y su impacto positivo en el turismo y la economía local (comercio, gastronomía, hotelería). Su postura es de consolidar a San Juan como un hub internacional para eventos deportivos.",
+            "cita_textual_relevante": "La fuerza del deporte y todo el potencial de nuestra provincia se hicieron sentir en una jornada que volvió a demostrar por qué estamos preparados para recibir grandes competencias que impulsan el turismo, el trabajo y el movimiento económico."
         }
     ],
     "tweet_destacado": {
         "usuario": "@WeretilneckOK",
-        "texto": "RÍO NEGRO, EPICENTRO DE UNA NUEVA HISTORIA ENERGÉTICA César Cipolletti entendió que el agua era el futuro y, con el Dique Ballester, hizo posible el sistema de riego que transformó para siempre la producción rionegrina. Guido Jacobacci entendió que la integración era el camino y unió el mar con la cordillera a través del ferrocarril, conectando la Región Sur con el desarrollo. Edgardo Castello entendió que había que planificar el futuro y sentó las bases del Río Negro moderno. Distintas épocas. Distintos desafíos. Pero la misma convicción: animarse a dar el próximo paso. Hoy la historia nos vuelve a poner en ese lugar. El mundo necesita energía. Y la Norpatagonia tiene lo que el mundo busca. Neuquén produce. Río Negro conecta esa energía con el mundo. Desde nuestra costa estamos construyendo uno de los polos exportadores de energía más importantes del continente. Una decisión estratégica que vuelve a cambiar el destino de la provincia. Como antes fueron el agua, el tren y la planificación, hoy es la energía la que nos pone frente a una nueva era. Una era en la que Río Negro no mira pasar las oportunidades. Las convierte en desarrollo, en trabajo y en futuro. Porque cuando Río Negro se anima a dar un salto, la historia cambia. Y este es uno de esos momentos. Río Negro tiene rumbo. Río Negro tiene con qué.",
-        "por_que_es_clave": "Este tweet es clave porque articula una visión de desarrollo a largo plazo para Río Negro, posicionando a la provincia como un actor fundamental en la estrategia energética del país y del continente. Utiliza un marco histórico para legitimar la actual apuesta por la energía, destacando la interconexión con Neuquén y la construcción de un polo exportador, lo que implica una fuerte agenda de inversión y desarrollo económico con una clara mirada de futuro."
+        "texto": "LA SEGURIDAD DE LOS RIONEGRINOS NO PUEDE ESPERAR\n\nEl estado del puente sobre el Río Colorado, sobre la Ruta Nacional 22, es preocupante y requiere una intervención urgente.\n\nLe solicitamos a Vialidad Nacional que arbitren de manera inmediata las medidas necesarias para reparar esta infraestructura clave y garantizar condiciones seguras de circulación.\n\nPor esta vía transitan todos los días miles de vecinos, trabajadores y transportistas. No se trata solo de una obra: se trata de cuidar la vida de los rionegrinos y de todos los argentinos que utilizan este corredor estratégico.",
+        "por_que_es_clave": "Este tweet es clave porque, además de señalar un problema crítico de infraestructura que afecta directamente la seguridad y la vida cotidiana de los ciudadanos, pone en evidencia la dinámica de reclamo y la necesidad de acción por parte del gobierno nacional. Muestra la postura de un gobernador que defiende los intereses y la seguridad de su provincia, en un contexto donde la inversión en obra pública nacional es un tema sensible."
     },
     "temas_calientes": [
-        "Infraestructura y Servicios Públicos",
-        "Seguridad y Control Fronterizo",
-        "Desarrollo Económico Regional (Energía, Turismo, Producción)",
-        "Educación y Calidad de Vida",
-        "Gestión de Emergencias y Asistencia Social"
+        "Gestión de infraestructura y obras públicas (viviendas, escuelas, puentes, desagües)",
+        "Desarrollo social y acceso a servicios básicos (salud, educación, titulación de tierras)",
+        "Seguridad ciudadana y control fronterizo",
+        "Fomento del turismo y eventos deportivos como motores económicos",
+        "Relación y reclamos a la Nación por fondos y obras",
+        "Atención y respuesta a emergencias climáticas",
+        "Orgullo regional y fomento de la identidad local"
     ]
 }
