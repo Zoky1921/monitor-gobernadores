@@ -77,11 +77,11 @@ def ejecutar_monitoreo():
             f"TWEETS:\n{data_context}"
         )
 
-        time.sleep(2)
+        time.sleep(15)
 
         # 4. Enviar a Gemini
         response = client.models.generate_content(
-            model="gemini-1.5-flash",
+            model="gemini-2.0-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json"
