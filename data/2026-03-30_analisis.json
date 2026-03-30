@@ -1,134 +1,67 @@
 {
-    "resumen_general": "El clima político del 30 de marzo de 2026, según los tweets de los gobernadores, se caracteriza por una fuerte centralidad en la gestión provincial y la búsqueda de soluciones a problemas concretos, a menudo con un tono de autoafirmación frente a la administración nacional. Los ejes de gestión se dividen entre la seguridad y el orden, el fomento de sectores productivos estratégicos (minería, agro, energía, turismo), la inversión en infraestructura y la defensa de la educación pública. Conflictos latentes o explícitos con el gobierno central emergen en reclamos por fondos adeudados o paralización de obras nacionales (Córdoba, Salta, Río Negro), y en la reafirmación de agendas provinciales propias (Frigerio con Uruguay, Ziliotto con universidades). La conmemoración de fechas clave como el Día de la Memoria (Insfrán, Quintela) contrasta con una postura de 'mano dura' en seguridad (Jorge Macri), evidenciando las diferentes identidades ideológicas dentro del arco provincial. Hay un énfasis recurrente en la transparencia, la eficiencia del Estado y la generación de empleo como pilares del desarrollo regional, con una clara orientación hacia la concreción de 'hechos' y 'obras terminadas'.",
+    "resumen_general": "El clima político de hoy, 30 de marzo de 2026, muestra a los gobernadores focalizados intensamente en la gestión provincial y en la comunicación de acciones concretas que impactan directamente en la vida de los ciudadanos. Los ejes principales giran en torno al desarrollo de infraestructura clave en áreas como la educación (Buenos Aires, Chaco, Neuquén), la salud (Chaco, Río Negro) y la conectividad vial (Río Negro, Jujuy). La seguridad ciudadana y el control fronterizo son prioritarios para la Ciudad de Buenos Aires y Jujuy, reafirmando una agenda de \"Ley y Orden\". El impulso económico regional se manifiesta a través de la promoción del turismo (Neuquén, San Juan), la visión estratégica en el sector energético (Río Negro) y el apoyo a productores y acceso a la tierra (Chaco). También se observa una respuesta activa ante desastres naturales (Córdoba). Los principales conflictos, aunque no explícitamente declarados como tales en los tweets filtrados, se insinúan en la demanda de intervención federal urgente para infraestructura (Río Negro) y en la constante reafirmación de agendas propias con \"fondos propios\" que pueden interpretarse como una respuesta a la retirada o redefinición del rol del Estado nacional. Predomina una narrativa de autonomía y capacidad de gestión local.",
     "analisis_por_gobernador": [
         {
             "gobernador": "@Kicillofok",
-            "analisis": "Kicillof comunicó las actividades de gestión de su provincia, destacando el fortalecimiento de la educación pública y un resumen semanal de logros. Adicionalmente, mostró su postura política a favor de la integración regional y la colaboración internacional al reunirse con el presidente de Uruguay, Orsi Yamandu, enfatizando el respeto y la cooperación para 'transformar la realidad de la gente'.",
-            "cita_textual_relevante": "Desde la provincia de Buenos Aires siempre vamos a fomentar el respeto y la colaboración para transformar la realidad de la gente."
+            "analisis": "El gobernador Axel Kicillof, a través de un retuit, comunicó el fortalecimiento de la educación pública en la capital bonaerense, enfocándose en la entrega de equipamiento. Su mensaje se centra en la continuidad de la gestión y el apoyo a servicios públicos esenciales a nivel local.",
+            "cita_textual_relevante": "Seguimos fortaleciendo la educación pública en la capital de los bonaerenses"
         },
         {
             "gobernador": "@jorgemacri",
-            "analisis": "Jorge Macri centró su comunicación en la seguridad y el orden público en la Ciudad de Buenos Aires. Anunció operativos de saturación y detenciones importantes relacionadas con el narcotráfico, reiterando una postura firme de 'ley y orden' y señalando el fin de la impunidad en ciertos barrios, con un mensaje claro hacia la ciudadanía 'de bien'.",
-            "cita_textual_relevante": "Se terminó el vale todo. La Ciudad es de los porteños de bien. Ley y orden."
-        },
-        {
-            "gobernador": "@RaulJalil_ok",
-            "analisis": "Jalil comunicó la aprobación de una importante ampliación del proyecto Fénix de litio dentro del RIGI, destacando la inversión, la producción y la generación de empleo. Su postura política es claramente pro-minería y pro-inversión, consolidando a Catamarca como un actor clave en el desarrollo de este sector y un motor económico provincial.",
-            "cita_textual_relevante": "Así seguimos consolidando a Catamarca como un actor clave en el desarrollo del litio, generando crecimiento y oportunidades reales."
+            "analisis": "El jefe de Gobierno porteño, Jorge Macri, se focalizó en la seguridad, anunciando un 'operativo de saturación' en Retiro. Su comunicación refuerza su compromiso con la 'Ley y orden' y la protección de los 'porteños de bien', buscando proyectar una imagen de autoridad y firmeza.",
+            "cita_textual_relevante": "Operativo de saturación en el barrio de Retiro. Se terminó el vale todo. La Ciudad es de los porteños de bien. Ley y orden."
         },
         {
             "gobernador": "@MartinLlaryora",
-            "analisis": "Llaryora informó sobre la asistencia a familias afectadas por un temporal y la activación de fondos de desastre. Su principal foco político estuvo en la infraestructura, destacando el avance de la Autopista Nacional Ruta 19. Subrayó que, ante la paralización por parte de la Nación, Córdoba decidió 'hacerse cargo' con fondos propios, lo que marca una postura de autonomía y acción provincial ante la inacción federal.",
-            "cita_textual_relevante": "Durante mucho tiempo, esta obra estuvo paralizada y abandonada por la Nación. Frente a eso, decidimos hacernos cargo. Y lo hacemos con fondos propios, con el esfuerzo de todos los cordobeses."
+            "analisis": "El gobernador de Córdoba, Martín Llaryora, informó sobre la asistencia y el trabajo coordinado de su gobierno ante un temporal que afectó el este provincial. Destacó la activación del Fondo Permanente para Atención de Situaciones de Desastre, demostrando una respuesta rápida y organizada frente a emergencias climáticas.",
+            "cita_textual_relevante": "Tras el #temporal que provocó intensas precipitaciones y afectó a distintas localidades del este provincial, estamos acompañando y asistiendo a las familias damnificadas..."
         },
         {
             "gobernador": "@LeandroZdero",
-            "analisis": "Zdero comunicó operativos sanitarios en El Impenetrable Chaqueño para garantizar acceso a la salud, el avance de un programa de refacciones escolares y la entrega de títulos de propiedad después de décadas. Su postura política se enfoca en resolver demandas sociales históricas y mejorar los servicios básicos con 'hechos' concretos en áreas postergadas.",
+            "analisis": "Leandro Zdero, gobernador de Chaco, comunicó múltiples iniciativas de gestión. Informó sobre operativos sanitarios en Fuerte Esperanza, avances en el programa 'Mejor Escuela' para refacciones edilicias, y la entrega de títulos de tierras a familias productoras en El Impenetrable. Sus mensajes resaltan la inversión en el interior provincial y el compromiso con la salud, educación y desarrollo rural.",
             "cita_textual_relevante": "DESPUÉS DE 45 AÑOS, LA TIERRA EN MANOS DE QUIENES LA TRABAJAN."
         },
         {
             "gobernador": "@NachoTorresCH",
-            "analisis": "Torres destacó la historia inspiradora de una orquesta juvenil que llegó al Teatro Colón, celebrando el 50° aniversario de una escuela y reconociendo el trabajo de la Policía provincial en la resolución de un homicidio. Su postura política equilibra el fomento de la cultura y la educación como herramientas de inclusión social con el reconocimiento a la labor de las fuerzas de seguridad.",
+            "analisis": "El gobernador de Chubut, Ignacio Torres, celebró el éxito de una orquesta juvenil del Barrio INTA de Trelew que se presentará en el Teatro Colón. Su comunicación enfatiza el valor del esfuerzo, la disciplina y las oportunidades que brinda la cultura y la educación para la juventud chubutense.",
             "cita_textual_relevante": "Hoy, casi cien jóvenes y sus docentes están cumpliendo un sueño enorme: tocar en el Teatro Colón. Y no van solos. Llevan con ellos el orgullo de todos los chubutenses."
         },
         {
-            "gobernador": "@gustavovaldesok",
-            "analisis": "Valdés comunicó su participación en un encuentro de 'Radicales en Gestión' para fortalecer el trabajo territorial. También promocionó el ecoturismo y el desarrollo del Plan Iberá, destacando la inversión público-privada y la preservación de la biodiversidad. Su postura es de articulación política dentro de su partido y de promoción de políticas de desarrollo sostenible a través del turismo de naturaleza.",
-            "cita_textual_relevante": "Desde la preservación tanto de la biodiversidad como de la identidad comunitaria y la inversión público-privada en servicios e infraestructura, la provincia se jerarquiza como destino de naturaleza."
-        },
-        {
-            "gobernador": "@frigeriorogelio",
-            "analisis": "Frigerio anunció una inversión histórica para el sector apícola y la firma de créditos con BICE para productores, promoviendo un Estado que 'abre puertas' y 'acompaña al que produce'. Políticamente, mostró una postura de apertura al diálogo y búsqueda de consensos con Uruguay, pero con una firme defensa de los intereses locales de Entre Ríos, especialmente en el desarrollo turístico y el empleo provincial.",
-            "cita_textual_relevante": "Apoyamos la llegada de nuevas inversiones tanto en Uruguay, país hermano, como en Argentina. Eso no es contradictorio con nuestro planteo de relocalizar el proyecto para cuidar el desarrollo turístico y el empleo entrerriano."
-        },
-        {
-            "gobernador": "@insfran_gildo",
-            "analisis": "Insfrán envió un saludo por el aniversario de Misión Laishí y dedicó varios tweets al Día Nacional de la Memoria por la Verdad y la Justicia. Su postura política es una reafirmación de los valores democráticos, los derechos humanos y la memoria histórica, en línea con la tradición del peronismo y su enfoque en la cohesión social bajo el lema '#TodosUnidos'.",
-            "cita_textual_relevante": "La lucha por los derechos humanos y los valores democráticos siguen vivos en nuestro pueblo y, por ello, reafirmamos el compromiso de construir un presente y un futuro con más verdad y más justicia."
-        },
-        {
             "gobernador": "@carlossadirjuy",
-            "analisis": "Sadir comunicó la implementación de nueva tecnología y mayor control en el paso fronterizo La Quiaca-Villazón, destacando la presencia de la ministra de Seguridad de la Nación. Su postura política se centra en la seguridad fronteriza y el desarrollo comercial y turístico de la provincia a través de la mejora de la conectividad y la futura Zona Franca.",
-            "cita_textual_relevante": "un punto clave para el desarrollo comercial y turístico de nuestra provincia, especialmente con la futura Zona Franca que vamos a construir y que potenciará aún más la actividad y circulación en la región."
-        },
-        {
-            "gobernador": "@ZiliottoSergio",
-            "analisis": "Ziliotto defendió la universidad pública, gratuita y de calidad, recibiendo al Consejo Interuniversitario Nacional y lanzando un programa de becas que vincula estudiantes con empresas. Su postura política es de un firme defensor de la educación superior como pilar del desarrollo económico y productivo, articulando el sector académico con el empresarial para generar soluciones locales.",
-            "cita_textual_relevante": "No hay desarrollo sin universidad. No hay futuro sin educación."
-        },
-        {
-            "gobernador": "@QuintelaRicardo",
-            "analisis": "Quintela compartió un momento de memoria por Monseñor Angelelli, destacando la construcción de comunidad. Anunció el Parlamento Victoria Romero 2026 sobre 'Minería 360: Mujeres Impulsando el Desarrollo Local', y la creación de un robot humanoide por estudiantes universitarios. Su postura política combina la reivindicación de la memoria y la justicia social con el fomento de la innovación tecnológica y la capacitación con perspectiva de género, ligando todo a la educación pública.",
-            "cita_textual_relevante": "La universidad pública sigue formando mentes que transforman realidades y llevan a la sociedad a tener grandes avances."
-        },
-        {
-            "gobernador": "@alfredocornejo",
-            "analisis": "Cornejo se reunió con el ministro del Interior para avanzar en la agenda parlamentaria nacional y obras inconclusas, anunciando su acompañamiento a las reformas de Milei. También presentó una línea de financiamiento para paneles solares y la entrega de escrituras de viviendas. Su postura es de alineamiento con la agenda nacional de reformas, sumando iniciativas propias en energía sustentable y seguridad jurídica habitacional.",
-            "cita_textual_relevante": "Desde Mendoza acompañamos este proceso entendiendo la necesidad de avanzar en reformas que den previsibilidad, ordenen reglas y generen condiciones para la inversión y el crecimiento."
-        },
-        {
-            "gobernador": "@passalacquaok",
-            "analisis": "No se encontraron tweets con contenido relevante para analizar en la fecha indicada. Los tweets fueron 'None'.",
-            "cita_textual_relevante": ""
+            "analisis": "Carlos Sadir, gobernador de Jujuy, anunció la implementación de nueva tecnología y más cámaras en el paso fronterizo de La Quiaca para mejorar el control de carga y documentación. Su foco está en la seguridad, la optimización de la transitabilidad y el impulso al desarrollo comercial y turístico de la región, mencionando la futura Zona Franca.",
+            "cita_textual_relevante": "Mayor y mejor control en nuestro paso fronterizo de La Quiaca. Inauguramos nueva tecnología: un nuevo escáner de carga, identidad y documentación y más de 60 cámaras de videovigilancia para revisar lo que ingresa y sale del país."
         },
         {
             "gobernador": "@Rolo_Figueroa",
-            "analisis": "Figueroa comunicó la celebración del Turismo Carretera en Neuquén, destacándolo como un evento que dinamiza la economía y posiciona a la provincia. También reiteró su compromiso con la educación. Su postura política es de impulso al deporte y el turismo como motores de desarrollo económico bajo el 'Modelo Neuquino', y de priorización de la educación.",
-            "cita_textual_relevante": "Estos eventos reflejan el impulso al deporte, el turismo y la economía real a la que apostamos desde el Modelo Neuquino."
+            "analisis": "Rolando Figueroa, gobernador de Neuquén, destacó la celebración del Turismo Carretera en la provincia, resaltando su impacto económico y turístico. También puso énfasis en la educación como prioridad, mencionando el avance en la erradicación de aulas tráiler en zonas rurales, buscando garantizar condiciones dignas para los estudiantes.",
+            "cita_textual_relevante": "EN NEUQUÉN LA EDUCACIÓN ES PRIORIDAD: avanzamos en la erradicación de las aulas tráiler, una decisión política clara para garantizar condiciones dignas y equitativas para todos los estudiantes."
         },
         {
             "gobernador": "@WeretilneckOK",
-            "analisis": "Weretilneck celebró el aniversario de Río Colorado con anuncios de inversión y entrega de escrituras, resaltando la gestión. Realizó un llamado de urgencia a Vialidad Nacional por el estado crítico de un puente en la Ruta 22. Políticamente, proyectó una visión estratégica para Río Negro como 'epicentro de una nueva historia energética', posicionando a la provincia como un polo exportador de energía y un actor clave en la Norpatagonia, con una postura de liderazgo provincial y exigencia al gobierno nacional.",
-            "cita_textual_relevante": "Le solicitamos a Vialidad Nacional que arbitren de manera inmediata las medidas necesarias para reparar esta infraestructura clave y garantizar condiciones seguras de circulación."
+            "analisis": "El gobernador de Río Negro, Alberto Weretilneck, tuvo una jornada intensa, destacando el aniversario de Río Colorado con anuncios de inversión en salud y obras. Asimismo, solicitó a Vialidad Nacional la reparación urgente de un puente clave y articuló una visión estratégica para la provincia como 'epicentro de una nueva historia energética', posicionándola como conector de la energía patagónica con el mundo.",
+            "cita_textual_relevante": "RÍO NEGRO, EPICENTRO DE UNA NUEVA HISTORIA ENERGÉTICA... Neuquén produce. Río Negro conecta esa energía con el mundo."
         },
         {
             "gobernador": "@EliasSuarezSDE",
-            "analisis": "Suárez (a través de retweets del Gobierno de Santiago del Estero) compartió mensajes institucionales relacionados con el Domingo de Ramos, el aniversario de una radio local y la entrega de viviendas sociales. Su postura política es de continuidad de las políticas de estado en materia social y de apoyo a eventos comunitarios y religiosos.",
-            "cita_textual_relevante": "Entrega de #ViviendasSociales en #VillaLaPunta 🔑🏡"
-        },
-        {
-            "gobernador": "@GustavoSaenzOK",
-            "analisis": "Sáenz anunció un proyecto de aeropuerto internacional en Cafayate junto al Gobierno Nacional para potenciar el turismo. Al mismo tiempo, exigió a la Nación los fondos comprometidos para obras viales clave, destacando que Salta ya absorbió otras obras nacionales. Supervisó una escuela técnica. Su postura es de impulsar el desarrollo turístico, pero también de firme reclamo por los recursos que considera propios de la provincia, con un énfasis en la inversión en educación.",
-            "cita_textual_relevante": "No vamos a dejar de reclamar lo que nos pertenece para fortalecer nuestra conectividad y progreso."
+            "analisis": "El gobernador de Santiago del Estero, Gerardo Zamora (cuya cuenta de gobierno fue retuiteada), se limitó a difundir mensajes institucionales, deseando un Feliz Domingo de Ramos y conmemorando el aniversario de Radio LV11. Su comunicación se mantuvo en el ámbito de las efemérides y festividades religiosas.",
+            "cita_textual_relevante": "Hoy comienza la Semana Santa, un tiempo de reflexión, fe y esperanza para todos los santiagueños."
         },
         {
             "gobernador": "@DrMarceloOrrego",
-            "analisis": "Orrego comunicó la realización del Ironman 70.3 en San Juan, resaltando su impacto turístico y económico, y la posición de la provincia como epicentro de triatlón. También recibió al embajador de Canadá para fortalecer vínculos estratégicos en desarrollo minero sostenible. Su postura es de promoción del deporte y el turismo como motores económicos, y de apertura a inversiones internacionales en minería con una visión de planificación y sostenibilidad.",
-            "cita_textual_relevante": "Hoy el interés internacional por invertir en nuestra provincia es cada vez mayor, y el desafío pasa por cómo hacerlo bien: con planificación, con sostenibilidad y con una visión de largo plazo."
-        },
-        {
-            "gobernador": "@ClaudioVidalSer",
-            "analisis": "Vidal comunicó reuniones de trabajo para dar 'una respuesta real' a la situación habitacional en El Chaltén, buscando soluciones sostenibles y garantizando medidas inmediatas. También acompañó la jura de un nuevo ministro de Desarrollo Social. Su postura política se centra en la resolución de problemas sociales urgentes como la vivienda, con un enfoque en la 'presencia del Estado' y la construcción de un equipo de gestión sólido.",
-            "cita_textual_relevante": "Sabemos que no es un tema más. Hay familias que hoy viven con incertidumbre y eso requiere decisiones y presencia del Estado."
-        },
-        {
-            "gobernador": "@maxipullaro",
-            "analisis": "Pullaro inauguró obras de infraestructura como la repavimentación de la Ruta Provincial 14 y una pista de atletismo en Venado Tuerto, enfatizando el fin de los 'elefantes blancos' y la concreción de los compromisos. Su postura política es de eficiencia en la gestión, priorización de obras públicas y posicionamiento de Santa Fe como 'motor productivo del país' y 'capital del deporte argentino'.",
-            "cita_textual_relevante": "Así gestionamos en Santa Fe: las obras que encontramos paralizadas las ponemos en marcha, y las que nos comprometemos, las cumplimos."
-        },
-        {
-            "gobernador": "@gustavomelella",
-            "analisis": "Melella comunicó el lanzamiento de un 'Nuevo Impulso Fueguino' con un paquete de leyes en la Legislatura para generar trabajo, simplificar trámites y construir un Estado más eficiente. Su postura política es pro-reformas, enfocada en la modernización del Estado y la desburocratización para fomentar el desarrollo y el empleo.",
-            "cita_textual_relevante": "Presentamos en la Legislatura un paquete de leyes para avanzar en las transformaciones que Tierra del Fuego necesita."
-        },
-        {
-            "gobernador": "@OsvaldoJaldo",
-            "analisis": "Jaldo agradeció la solidaridad de Santa Fe por el envío de repelentes para la emergencia de dengue tras inundaciones, destacando el 'compromiso federal y solidario'. Tuvo reuniones con senadores nacionales para trabajar en la agenda parlamentaria federal y defender los intereses de Tucumán. Su postura es de gestión de emergencias con apoyo interprovincial y de diálogo institucional para la defensa de la provincia en el ámbito nacional.",
-            "cita_textual_relevante": "Valoramos especialmente este acompañamiento que surge del trabajo conjunto y de un compromiso federal y solidario entre provincias."
+            "analisis": "Marcelo Orrego, gobernador de San Juan, celebró el éxito de una nueva edición del #IRONMAN703, destacando la capacidad de la provincia para organizar eventos deportivos de gran magnitud. Enfatizó el impacto positivo en el turismo, el empleo y la economía local, consolidando a San Juan como un destino internacional para el triatlón.",
+            "cita_textual_relevante": "Una vez más, San Juan fue escenario de un evento que nos llena de orgullo."
         }
     ],
     "tweet_destacado": {
-        "usuario": "@frigeriorogelio",
-        "texto": "Celebro y acompaño la voluntad de alcanzar acuerdos. \n\nCoincido con el Presidente @OrsiYamandu: el camino siempre es el diálogo y la búsqueda de consensos, en eso estamos trabajando hace más de un año. Apoyamos la llegada de nuevas inversiones tanto en Uruguay, país hermano, como en Argentina. Eso no es contradictorio con nuestro planteo de relocalizar el proyecto para cuidar el desarrollo turístico y el empleo entrerriano.",
-        "por_que_es_clave": "Este tweet es clave porque, si bien muestra una apertura al diálogo y la inversión internacional, Frigerio introduce una condición clara y una defensa explícita de los intereses provinciales (turismo y empleo entrerriano) que podría generar tensión o negociación con futuros proyectos de inversión, incluso con un 'país hermano'. Demuestra una postura de equilibrio entre la integración regional y la autonomía provincial."
+        "usuario": "@WeretilneckOK",
+        "texto": "RÍO NEGRO, EPICENTRO DE UNA NUEVA HISTORIA ENERGÉTICA César Cipolletti entendió que el agua era el futuro y, con el Dique Ballester, hizo posible el sistema de riego que transformó para siempre la producción rionegrina. Guido Jacobacci entendió que la integración era el camino y unió el mar con la cordillera a través del ferrocarril, conectando la Región Sur con el desarrollo. Edgardo Castello entendió que había que planificar el futuro y sentó las bases del Río Negro moderno. Distintas épocas. Distintos desafíos. Pero la misma convicción: animarse a dar el próximo paso. Hoy la historia nos vuelve a poner en ese lugar. El mundo necesita energía. Y la Norpatagonia tiene lo que el mundo busca. Neuquén produce. Río Negro conecta esa energía con el mundo. Desde nuestra costa estamos construyendo uno de los polos exportadores de energía más importantes del continente. Una decisión estratégica que vuelve a cambiar el destino de la provincia. Como antes fueron el agua, el tren y la planificación, hoy es la energía la que nos pone frente a una nueva era. Una era en la que Río Negro no mira pasar las oportunidades. Las convierte en desarrollo, en trabajo y en futuro. Porque cuando Río Negro se anima a dar un salto, la historia cambia. Y este es uno de esos momentos. Río Negro tiene rumbo. Río Negro tiene con qué.",
+        "por_que_es_clave": "Este tweet es clave porque articula una visión de desarrollo a largo plazo para Río Negro, posicionando a la provincia como un actor fundamental en la estrategia energética del país y del continente. Utiliza un marco histórico para legitimar la actual apuesta por la energía, destacando la interconexión con Neuquén y la construcción de un polo exportador, lo que implica una fuerte agenda de inversión y desarrollo económico con una clara mirada de futuro."
     },
     "temas_calientes": [
-        "Gestión de Infraestructura y Obras Públicas (a menudo contrastando con Nación)",
-        "Seguridad y 'Ley y Orden'",
-        "Fomento a la Producción y la Inversión (minería, agro, energía, turismo)",
-        "Defensa de la Educación Pública y la Universidad",
-        "Reclamo y Defensa de Fondos Provinciales frente a la Nación",
-        "Memoria y Derechos Humanos (conmemoraciones)",
-        "Asistencia Social y Gestión de Emergencias"
+        "Infraestructura y Servicios Públicos",
+        "Seguridad y Control Fronterizo",
+        "Desarrollo Económico Regional (Energía, Turismo, Producción)",
+        "Educación y Calidad de Vida",
+        "Gestión de Emergencias y Asistencia Social"
     ]
 }
