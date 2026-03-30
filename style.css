@@ -176,3 +176,38 @@ body {
     .header-content p { font-size: 0.8rem; }
     .modal-content { width: 95%; padding: 20px; }
 }
+/* --- ARREGLO QUIRÚRGICO PARA LA FOTO Y EL TEXTO INTERNO --- */
+
+#modal-bio {
+    display: flex; 
+    align-items: center; 
+    gap: 20px; 
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--borde);
+}
+
+/* Limitamos la foto a un tamaño humano */
+#modal-bio img {
+    width: 100px !important; /* Forzamos el tamaño */
+    height: 100px !important;
+    border-radius: 50% !important; /* La hacemos redonda */
+    object-fit: cover;
+    border: 3px solid var(--azul-acento);
+    flex-shrink: 0; /* Para que no se aplaste */
+}
+
+#modal-bio div {
+    flex: 1;
+}
+
+#modal-bio h2 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+    color: #fff;
+}
+
+#modal-bio p {
+    font-size: 0.9rem;
+    margin: 2px 0;
+}
