@@ -1,65 +1,84 @@
 import os
 import json
 import time
+import requests
 from datetime import datetime
-from apify_client import ApifyClient
 from google import genai
 from google.genai import types
 
-APIFY_TOKEN = os.environ.get('APIFY_API_TOKEN')
+# 1. Cargar llaves
+RAPIDAPI_KEY = os.environ.get('RAPIDAPI_KEY')
 GEMINI_KEY = os.environ.get('GEMINI_API_KEY')
 
-apify_client = ApifyClient(APIFY_TOKEN)
+# 2. Inicializar Gemini
 client = genai.Client(api_key=GEMINI_KEY)
+
+def obtener_tweets_rapidapi(handle):
+    url = "https://twitter-api45.p.rapidapi.com/timeline.php"
+    querystring = {"screenname": handle}
+    headers = {
+        "x-rapidapi-key": RAPIDAPI_KEY,
+        "x-rapidapi-host": "twitter-api45.p.rapidapi.com"
+    }
+    
+    try:
+        response = requests.get(url, headers=headers, params=querystring)
+        response.raise_for_status()
+        data = response.json()
+        
+        # Extraer los textos de los tweets
+        tweets_texto = []
+        # La estructura típica de esta API devuelve una lista o un dict con 'timeline'
+        # Adaptamos la búsqueda de los textos
+        if isinstance(data, list):
+            for t in data[:3]: # Traemos los 3 últimos
+                if 'text' in t:
+                    tweets_texto.append(t['text'])
+        elif isinstance(data, dict) and 'timeline' in data:
+            for t in data['timeline'][:3]:
+                if 'text' in t:
+                    tweets_texto.append(t['text'])
+                    
+        return tweets_texto
+    except Exception as e:
+        print(f"Error buscando a @{handle}: {e}")
+        return []
 
 def ejecutar_monitoreo():
     try:
-        ahora = datetime.now()
-        fecha_display = ahora.strftime("%d/%m/%Y")
-        fecha_archivo = ahora.strftime("%Y-%m-%d")
-
         with open('gobernadores.json', 'r', encoding='utf-8') as f:
             gobernadores = json.load(f)
 
-        seleccion = gobernadores[:12]
+        # Probamos con 5 para asegurar que funcione rápido
+        seleccion = gobernadores[:5]
         handles = [g['usuario_x'] for g in seleccion]
 
-        print("--- Iniciando extraccion para " + str(len(handles)) + " perfiles ---")
+        print(f"--- Iniciando extracción con RapidAPI para {len(handles)} perfiles ---")
 
-        run_input = {
-            "twitterHandles": handles,
-            "maxItems": len(handles) * 5,
-        }
+        data_context = ""
+        for handle in handles:
+            print(f"Buscando tweets de @{handle}...")
+            tweets = obtener_tweets_rapidapi(handle)
+            for t in tweets:
+                data_context += f"[@{handle}]: {t}\n---\n"
+            time.sleep(1) # Pequeña pausa entre cada gobernador para no saturar
 
-        run = apify_client.actor("apidojo/tweet-scraper").call(run_input=run_input)
-        tweets_raw = list(apify_client.dataset(run["defaultDatasetId"]).iterate_items())
-
-        if not tweets_raw:
+        if not data_context:
             print("No se encontraron tweets nuevos hoy.")
             return
 
-        data_context = ""
-        for t in tweets_raw:
-            author = t.get('author', {})
-            user = author.get('userName', author.get('name', 'Desconocido'))
-            text = t.get('text', '')
-            if text:
-                data_context += "[@" + user + "]: " + text + "\n---\n"
-
-        if not data_context:
-            print("Tweets vacios luego del procesamiento.")
-            return
-
+        # 3. Prompt para Gemini
         prompt = (
-            "Analiza estos tweets de gobernadores argentinos del " + fecha_display + ". "
-            "Responde SOLO con un JSON valido con esta estructura exacta: "
-            '{"resumen_general": "...", "tweet_destacado": {"usuario": "...", "texto": "..."}, '
-            '"temas_calientes": ["tema1", "tema2", "tema3"]}. '
-            "TWEETS:\n" + data_context
+            f"Analiza estos tweets de gobernadores argentinos del {datetime.now().strftime('%d/%m/%Y')}. "
+            f"Responde SOLO con un JSON válido con esta estructura: "
+            f"{{\"resumen_general\": \"...\", \"tweet_destacado\": {{\"usuario\": \"...\", \"texto\": \"...\"}}, "
+            f"\"temas_calientes\": [\"...\", \"...\"]}}. "
+            f"TWEETS:\n{data_context}"
         )
 
         time.sleep(2)
 
+        # 4. Enviar a Gemini
         response = client.models.generate_content(
             model="gemini-1.5-flash",
             contents=prompt,
@@ -70,10 +89,18 @@ def ejecutar_monitoreo():
 
         resumen_data = json.loads(response.text)
 
+        # 5. Guardar
+        fecha_hoy = datetime.now().strftime('%Y-%m-%d')
         os.makedirs('data', exist_ok=True)
 
-        ruta = "data/" + fecha_archivo + ".json"
-        with open(ruta, 'w', encoding='utf-8') as f:
+        with open(f'data/{fecha_hoy}.json', 'w', encoding='utf-8') as f:
             json.dump(resumen_data, f, ensure_ascii=False, indent=4)
 
-        print("Exito! Archivo " + ruta + 
+        print(f"✅ ¡Éxito! Archivo data/{fecha_hoy}.json creado usando RapidAPI.")
+
+    except Exception as e:
+        print(f"❌ Error fatal: {str(e)}")
+        raise e
+
+if __name__ == "__main__":
+    ejecutar_monitoreo()
