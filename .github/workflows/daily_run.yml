@@ -2,8 +2,11 @@ name: Monitor Politico Diario
 
 on:
   schedule:
-    - cron: '0 23 * * *' # Esto corre todos los días a las 20:00 hs de Argentina
-  workflow_dispatch: # Este botón nos permite probarlo a mano cuando queramos
+    - cron: '0 23 * * *' # Corre todos los días a las 20:00 hs Argentina
+  workflow_dispatch:
+
+permissions:           # ✅ AGREGADO: necesario para poder hacer push
+  contents: write
 
 jobs:
   run-bot:
@@ -18,8 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar librerias
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Ejecutar Robot
         env:
@@ -31,6 +33,6 @@ jobs:
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "Observatorio Bot"
-          git add data/*.json
-          git commit -m "Actualizacion diaria: $(date +'%Y-%m-%d')" || echo "Sin cambios nuevos"
+          git add data/                          # ✅ carpeta entera, no glob del shell
+          git diff --staged --quiet || git commit -m "Actualizacion diaria: $(date +'%Y-%m-%d')"
           git push
