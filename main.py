@@ -3,14 +3,15 @@ import json
 import time
 import requests
 from datetime import datetime
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 # 1. Cargar llaves
 RAPIDAPI_KEY = os.environ.get('RAPIDAPI_KEY')
 GEMINI_KEY = os.environ.get('GEMINI_API_KEY')
 
-# 2. Inicializar Gemini (Usando la librería clásica)
-genai.configure(api_key=GEMINI_KEY)
+# 2. Inicializar Gemini (Librería moderna)
+client = genai.Client(api_key=GEMINI_KEY)
 
 def obtener_tweets_rapidapi(handle):
     url = "https://twitter-api45.p.rapidapi.com/timeline.php"
@@ -64,7 +65,6 @@ def ejecutar_monitoreo():
             print("No se encontraron tweets nuevos hoy.")
             return
 
-        # 3. Prompt para Gemini
         prompt = (
             f"Analiza estos tweets de gobernadores argentinos del {datetime.now().strftime('%d/%m/%Y')}. "
             f"Responde SOLO con un JSON válido con esta estructura: "
@@ -76,11 +76,13 @@ def ejecutar_monitoreo():
         print("Enviando a Gemini...")
         time.sleep(5)
 
-        # 4. Enviar a Gemini (Modelo 1.5 Flash - El más estable para esto)
-        model = genai.GenerativeModel('gemini-1.5-flash')
-        response = model.generate_content(
-            prompt,
-            generation_config={"response_mime_type": "application/json"}
+        # 4. Enviar a Gemini (Usamos el 2.5 Flash, el modelo gratuito actual)
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json"
+            )
         )
 
         resumen_data = json.loads(response.text)
@@ -92,7 +94,7 @@ def ejecutar_monitoreo():
         with open(f'data/{fecha_hoy}.json', 'w', encoding='utf-8') as f:
             json.dump(resumen_data, f, ensure_ascii=False, indent=4)
 
-        print(f"✅ ¡Éxito! Archivo data/{fecha_hoy}.json creado usando RapidAPI.")
+        print(f"✅ ¡Éxito! Archivo data/{fecha_hoy}.json creado.")
 
     except Exception as e:
         print(f"❌ Error fatal: {str(e)}")
