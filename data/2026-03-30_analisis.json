@@ -1,0 +1,134 @@
+{
+    "resumen_general": "El clima político del 30 de marzo de 2026, según los tweets de los gobernadores, se caracteriza por una fuerte centralidad en la gestión provincial y la búsqueda de soluciones a problemas concretos, a menudo con un tono de autoafirmación frente a la administración nacional. Los ejes de gestión se dividen entre la seguridad y el orden, el fomento de sectores productivos estratégicos (minería, agro, energía, turismo), la inversión en infraestructura y la defensa de la educación pública. Conflictos latentes o explícitos con el gobierno central emergen en reclamos por fondos adeudados o paralización de obras nacionales (Córdoba, Salta, Río Negro), y en la reafirmación de agendas provinciales propias (Frigerio con Uruguay, Ziliotto con universidades). La conmemoración de fechas clave como el Día de la Memoria (Insfrán, Quintela) contrasta con una postura de 'mano dura' en seguridad (Jorge Macri), evidenciando las diferentes identidades ideológicas dentro del arco provincial. Hay un énfasis recurrente en la transparencia, la eficiencia del Estado y la generación de empleo como pilares del desarrollo regional, con una clara orientación hacia la concreción de 'hechos' y 'obras terminadas'.",
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "analisis": "Kicillof comunicó las actividades de gestión de su provincia, destacando el fortalecimiento de la educación pública y un resumen semanal de logros. Adicionalmente, mostró su postura política a favor de la integración regional y la colaboración internacional al reunirse con el presidente de Uruguay, Orsi Yamandu, enfatizando el respeto y la cooperación para 'transformar la realidad de la gente'.",
+            "cita_textual_relevante": "Desde la provincia de Buenos Aires siempre vamos a fomentar el respeto y la colaboración para transformar la realidad de la gente."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "analisis": "Jorge Macri centró su comunicación en la seguridad y el orden público en la Ciudad de Buenos Aires. Anunció operativos de saturación y detenciones importantes relacionadas con el narcotráfico, reiterando una postura firme de 'ley y orden' y señalando el fin de la impunidad en ciertos barrios, con un mensaje claro hacia la ciudadanía 'de bien'.",
+            "cita_textual_relevante": "Se terminó el vale todo. La Ciudad es de los porteños de bien. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "analisis": "Jalil comunicó la aprobación de una importante ampliación del proyecto Fénix de litio dentro del RIGI, destacando la inversión, la producción y la generación de empleo. Su postura política es claramente pro-minería y pro-inversión, consolidando a Catamarca como un actor clave en el desarrollo de este sector y un motor económico provincial.",
+            "cita_textual_relevante": "Así seguimos consolidando a Catamarca como un actor clave en el desarrollo del litio, generando crecimiento y oportunidades reales."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "analisis": "Llaryora informó sobre la asistencia a familias afectadas por un temporal y la activación de fondos de desastre. Su principal foco político estuvo en la infraestructura, destacando el avance de la Autopista Nacional Ruta 19. Subrayó que, ante la paralización por parte de la Nación, Córdoba decidió 'hacerse cargo' con fondos propios, lo que marca una postura de autonomía y acción provincial ante la inacción federal.",
+            "cita_textual_relevante": "Durante mucho tiempo, esta obra estuvo paralizada y abandonada por la Nación. Frente a eso, decidimos hacernos cargo. Y lo hacemos con fondos propios, con el esfuerzo de todos los cordobeses."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "analisis": "Zdero comunicó operativos sanitarios en El Impenetrable Chaqueño para garantizar acceso a la salud, el avance de un programa de refacciones escolares y la entrega de títulos de propiedad después de décadas. Su postura política se enfoca en resolver demandas sociales históricas y mejorar los servicios básicos con 'hechos' concretos en áreas postergadas.",
+            "cita_textual_relevante": "DESPUÉS DE 45 AÑOS, LA TIERRA EN MANOS DE QUIENES LA TRABAJAN."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "analisis": "Torres destacó la historia inspiradora de una orquesta juvenil que llegó al Teatro Colón, celebrando el 50° aniversario de una escuela y reconociendo el trabajo de la Policía provincial en la resolución de un homicidio. Su postura política equilibra el fomento de la cultura y la educación como herramientas de inclusión social con el reconocimiento a la labor de las fuerzas de seguridad.",
+            "cita_textual_relevante": "Hoy, casi cien jóvenes y sus docentes están cumpliendo un sueño enorme: tocar en el Teatro Colón. Y no van solos. Llevan con ellos el orgullo de todos los chubutenses."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "analisis": "Valdés comunicó su participación en un encuentro de 'Radicales en Gestión' para fortalecer el trabajo territorial. También promocionó el ecoturismo y el desarrollo del Plan Iberá, destacando la inversión público-privada y la preservación de la biodiversidad. Su postura es de articulación política dentro de su partido y de promoción de políticas de desarrollo sostenible a través del turismo de naturaleza.",
+            "cita_textual_relevante": "Desde la preservación tanto de la biodiversidad como de la identidad comunitaria y la inversión público-privada en servicios e infraestructura, la provincia se jerarquiza como destino de naturaleza."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "analisis": "Frigerio anunció una inversión histórica para el sector apícola y la firma de créditos con BICE para productores, promoviendo un Estado que 'abre puertas' y 'acompaña al que produce'. Políticamente, mostró una postura de apertura al diálogo y búsqueda de consensos con Uruguay, pero con una firme defensa de los intereses locales de Entre Ríos, especialmente en el desarrollo turístico y el empleo provincial.",
+            "cita_textual_relevante": "Apoyamos la llegada de nuevas inversiones tanto en Uruguay, país hermano, como en Argentina. Eso no es contradictorio con nuestro planteo de relocalizar el proyecto para cuidar el desarrollo turístico y el empleo entrerriano."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "analisis": "Insfrán envió un saludo por el aniversario de Misión Laishí y dedicó varios tweets al Día Nacional de la Memoria por la Verdad y la Justicia. Su postura política es una reafirmación de los valores democráticos, los derechos humanos y la memoria histórica, en línea con la tradición del peronismo y su enfoque en la cohesión social bajo el lema '#TodosUnidos'.",
+            "cita_textual_relevante": "La lucha por los derechos humanos y los valores democráticos siguen vivos en nuestro pueblo y, por ello, reafirmamos el compromiso de construir un presente y un futuro con más verdad y más justicia."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "analisis": "Sadir comunicó la implementación de nueva tecnología y mayor control en el paso fronterizo La Quiaca-Villazón, destacando la presencia de la ministra de Seguridad de la Nación. Su postura política se centra en la seguridad fronteriza y el desarrollo comercial y turístico de la provincia a través de la mejora de la conectividad y la futura Zona Franca.",
+            "cita_textual_relevante": "un punto clave para el desarrollo comercial y turístico de nuestra provincia, especialmente con la futura Zona Franca que vamos a construir y que potenciará aún más la actividad y circulación en la región."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "analisis": "Ziliotto defendió la universidad pública, gratuita y de calidad, recibiendo al Consejo Interuniversitario Nacional y lanzando un programa de becas que vincula estudiantes con empresas. Su postura política es de un firme defensor de la educación superior como pilar del desarrollo económico y productivo, articulando el sector académico con el empresarial para generar soluciones locales.",
+            "cita_textual_relevante": "No hay desarrollo sin universidad. No hay futuro sin educación."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "analisis": "Quintela compartió un momento de memoria por Monseñor Angelelli, destacando la construcción de comunidad. Anunció el Parlamento Victoria Romero 2026 sobre 'Minería 360: Mujeres Impulsando el Desarrollo Local', y la creación de un robot humanoide por estudiantes universitarios. Su postura política combina la reivindicación de la memoria y la justicia social con el fomento de la innovación tecnológica y la capacitación con perspectiva de género, ligando todo a la educación pública.",
+            "cita_textual_relevante": "La universidad pública sigue formando mentes que transforman realidades y llevan a la sociedad a tener grandes avances."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "analisis": "Cornejo se reunió con el ministro del Interior para avanzar en la agenda parlamentaria nacional y obras inconclusas, anunciando su acompañamiento a las reformas de Milei. También presentó una línea de financiamiento para paneles solares y la entrega de escrituras de viviendas. Su postura es de alineamiento con la agenda nacional de reformas, sumando iniciativas propias en energía sustentable y seguridad jurídica habitacional.",
+            "cita_textual_relevante": "Desde Mendoza acompañamos este proceso entendiendo la necesidad de avanzar en reformas que den previsibilidad, ordenen reglas y generen condiciones para la inversión y el crecimiento."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "analisis": "No se encontraron tweets con contenido relevante para analizar en la fecha indicada. Los tweets fueron 'None'.",
+            "cita_textual_relevante": ""
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "analisis": "Figueroa comunicó la celebración del Turismo Carretera en Neuquén, destacándolo como un evento que dinamiza la economía y posiciona a la provincia. También reiteró su compromiso con la educación. Su postura política es de impulso al deporte y el turismo como motores de desarrollo económico bajo el 'Modelo Neuquino', y de priorización de la educación.",
+            "cita_textual_relevante": "Estos eventos reflejan el impulso al deporte, el turismo y la economía real a la que apostamos desde el Modelo Neuquino."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "analisis": "Weretilneck celebró el aniversario de Río Colorado con anuncios de inversión y entrega de escrituras, resaltando la gestión. Realizó un llamado de urgencia a Vialidad Nacional por el estado crítico de un puente en la Ruta 22. Políticamente, proyectó una visión estratégica para Río Negro como 'epicentro de una nueva historia energética', posicionando a la provincia como un polo exportador de energía y un actor clave en la Norpatagonia, con una postura de liderazgo provincial y exigencia al gobierno nacional.",
+            "cita_textual_relevante": "Le solicitamos a Vialidad Nacional que arbitren de manera inmediata las medidas necesarias para reparar esta infraestructura clave y garantizar condiciones seguras de circulación."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "analisis": "Suárez (a través de retweets del Gobierno de Santiago del Estero) compartió mensajes institucionales relacionados con el Domingo de Ramos, el aniversario de una radio local y la entrega de viviendas sociales. Su postura política es de continuidad de las políticas de estado en materia social y de apoyo a eventos comunitarios y religiosos.",
+            "cita_textual_relevante": "Entrega de #ViviendasSociales en #VillaLaPunta 🔑🏡"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "analisis": "Sáenz anunció un proyecto de aeropuerto internacional en Cafayate junto al Gobierno Nacional para potenciar el turismo. Al mismo tiempo, exigió a la Nación los fondos comprometidos para obras viales clave, destacando que Salta ya absorbió otras obras nacionales. Supervisó una escuela técnica. Su postura es de impulsar el desarrollo turístico, pero también de firme reclamo por los recursos que considera propios de la provincia, con un énfasis en la inversión en educación.",
+            "cita_textual_relevante": "No vamos a dejar de reclamar lo que nos pertenece para fortalecer nuestra conectividad y progreso."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "analisis": "Orrego comunicó la realización del Ironman 70.3 en San Juan, resaltando su impacto turístico y económico, y la posición de la provincia como epicentro de triatlón. También recibió al embajador de Canadá para fortalecer vínculos estratégicos en desarrollo minero sostenible. Su postura es de promoción del deporte y el turismo como motores económicos, y de apertura a inversiones internacionales en minería con una visión de planificación y sostenibilidad.",
+            "cita_textual_relevante": "Hoy el interés internacional por invertir en nuestra provincia es cada vez mayor, y el desafío pasa por cómo hacerlo bien: con planificación, con sostenibilidad y con una visión de largo plazo."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "analisis": "Vidal comunicó reuniones de trabajo para dar 'una respuesta real' a la situación habitacional en El Chaltén, buscando soluciones sostenibles y garantizando medidas inmediatas. También acompañó la jura de un nuevo ministro de Desarrollo Social. Su postura política se centra en la resolución de problemas sociales urgentes como la vivienda, con un enfoque en la 'presencia del Estado' y la construcción de un equipo de gestión sólido.",
+            "cita_textual_relevante": "Sabemos que no es un tema más. Hay familias que hoy viven con incertidumbre y eso requiere decisiones y presencia del Estado."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "analisis": "Pullaro inauguró obras de infraestructura como la repavimentación de la Ruta Provincial 14 y una pista de atletismo en Venado Tuerto, enfatizando el fin de los 'elefantes blancos' y la concreción de los compromisos. Su postura política es de eficiencia en la gestión, priorización de obras públicas y posicionamiento de Santa Fe como 'motor productivo del país' y 'capital del deporte argentino'.",
+            "cita_textual_relevante": "Así gestionamos en Santa Fe: las obras que encontramos paralizadas las ponemos en marcha, y las que nos comprometemos, las cumplimos."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "analisis": "Melella comunicó el lanzamiento de un 'Nuevo Impulso Fueguino' con un paquete de leyes en la Legislatura para generar trabajo, simplificar trámites y construir un Estado más eficiente. Su postura política es pro-reformas, enfocada en la modernización del Estado y la desburocratización para fomentar el desarrollo y el empleo.",
+            "cita_textual_relevante": "Presentamos en la Legislatura un paquete de leyes para avanzar en las transformaciones que Tierra del Fuego necesita."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "analisis": "Jaldo agradeció la solidaridad de Santa Fe por el envío de repelentes para la emergencia de dengue tras inundaciones, destacando el 'compromiso federal y solidario'. Tuvo reuniones con senadores nacionales para trabajar en la agenda parlamentaria federal y defender los intereses de Tucumán. Su postura es de gestión de emergencias con apoyo interprovincial y de diálogo institucional para la defensa de la provincia en el ámbito nacional.",
+            "cita_textual_relevante": "Valoramos especialmente este acompañamiento que surge del trabajo conjunto y de un compromiso federal y solidario entre provincias."
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@frigeriorogelio",
+        "texto": "Celebro y acompaño la voluntad de alcanzar acuerdos. \n\nCoincido con el Presidente @OrsiYamandu: el camino siempre es el diálogo y la búsqueda de consensos, en eso estamos trabajando hace más de un año. Apoyamos la llegada de nuevas inversiones tanto en Uruguay, país hermano, como en Argentina. Eso no es contradictorio con nuestro planteo de relocalizar el proyecto para cuidar el desarrollo turístico y el empleo entrerriano.",
+        "por_que_es_clave": "Este tweet es clave porque, si bien muestra una apertura al diálogo y la inversión internacional, Frigerio introduce una condición clara y una defensa explícita de los intereses provinciales (turismo y empleo entrerriano) que podría generar tensión o negociación con futuros proyectos de inversión, incluso con un 'país hermano'. Demuestra una postura de equilibrio entre la integración regional y la autonomía provincial."
+    },
+    "temas_calientes": [
+        "Gestión de Infraestructura y Obras Públicas (a menudo contrastando con Nación)",
+        "Seguridad y 'Ley y Orden'",
+        "Fomento a la Producción y la Inversión (minería, agro, energía, turismo)",
+        "Defensa de la Educación Pública y la Universidad",
+        "Reclamo y Defensa de Fondos Provinciales frente a la Nación",
+        "Memoria y Derechos Humanos (conmemoraciones)",
+        "Asistencia Social y Gestión de Emergencias"
+    ]
+}
