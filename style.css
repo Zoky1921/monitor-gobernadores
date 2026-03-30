@@ -107,28 +107,72 @@ body {
 .tarjeta-gob p { color: var(--texto-secundario); font-size: 0.8rem; }
 
 /* MODAL */
+#modal-detalle {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.9); /* Fondo negro traslúcido */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999; 
+}
+
+/* La caja donde está la info del gobernador */
 .modal-content {
     background: #1e293b;
     color: var(--texto-principal);
+    width: 90%;
+    max-width: 850px;
+    max-height: 90vh;
+    padding: 35px;
     border-radius: 15px;
     border: 1px solid var(--azul-acento);
+    position: relative;
+    overflow-y: auto; /* Permite scroll si el análisis es largo */
+    box-shadow: 0 20px 50px rgba(0,0,0,0.8);
 }
 
+/* Botón de cerrar (la X) */
+.close-btn {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 2.5rem;
+    cursor: pointer;
+    color: var(--texto-secundario);
+    transition: 0.3s;
+}
+
+.close-btn:hover { color: var(--rojo-alerta); }
+
+/* Estilos internos del contenido (lo que ya tenías) */
 .analisis-ia-box { 
     background: #0f172a; 
     border-left: 5px solid var(--azul-acento); 
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 0 8px 8px 0;
 }
 
 .tweet-item { 
     border-bottom: 1px solid var(--borde); 
     padding: 15px 0;
     color: #cbd5e1;
+    font-size: 0.95rem;
 }
 
-.tweet-date { color: var(--azul-acento); }
+.tweet-date { color: var(--azul-acento); font-weight: bold; }
 
-/* RESPONSIVE */
+/* Clase fundamental para ocultar/mostrar */
+.oculta { display: none !important; }
+
+/* --- AJUSTES PARA CELULARES --- */
 @media (max-width: 768px) {
     .dashboard-macro { grid-template-columns: 1fr; }
-    .header-content h1 { font-size: 2rem; }
+    .header-content h1 { font-size: 2.2rem; }
+    .header-content p { font-size: 0.8rem; }
+    .modal-content { width: 95%; padding: 20px; }
 }
