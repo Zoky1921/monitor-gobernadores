@@ -1,124 +1,134 @@
-/* VARIABLES DE COLOR (Estilo FiveThirtyEight) */
+/* VARIABLES DE COLOR - MODO OSCURO (Estilo Dashboard de Inteligencia) */
 :root {
-    --azul-oscuro: #002f5d;
-    --rojo-fuerte: #ed1c24;
-    --gris-fondo: #f0f0f0;
-    --gris-borde: #dcdcdc;
-    --texto-principal: #333333;
-    --blanco: #ffffff;
+    --fondo-oscuro: #0f172a;        /* Azul pizarra muy profundo */
+    --fondo-tarjeta: #1e293b;      /* Gris azulado para las cards */
+    --azul-acento: #38bdf8;         /* Azul brillante para links/títulos */
+    --rojo-alerta: #ef4444;         /* Rojo vibrante para el borde superior */
+    --texto-principal: #f1f5f9;     /* Blanco suave (no cansa la vista) */
+    --texto-secundario: #94a3b8;    /* Gris para bios y fechas */
+    --borde: #334155;               /* Bordes sutiles */
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: var(--gris-fondo);
+    background-color: var(--fondo-oscuro);
     color: var(--texto-principal);
     line-height: 1.6;
 }
 
 /* HEADER */
 .top-bar {
-    background-color: var(--azul-oscuro);
-    color: var(--blanco);
-    padding: 20px;
+    background-color: #020617; /* Casi negro para el header */
+    color: #ffffff;
+    padding: 35px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 5px solid var(--rojo-fuerte);
+    border-bottom: 4px solid var(--rojo-alerta);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
 }
 
-.header-content h1 { font-family: 'Merriweather', serif; font-size: 2rem; }
-.date-selector input { padding: 5px; border-radius: 4px; border: none; }
+.header-content h1 { 
+    font-family: 'Merriweather', serif; 
+    font-size: 3rem; 
+    letter-spacing: -1px;
+}
 
-/* CONTENEDOR PRINCIPAL */
-.container { max-width: 1200px; margin: 20px auto; padding: 0 15px; }
+.header-content p { 
+    font-size: 1rem; 
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--azul-acento);
+    font-weight: 700;
+}
 
-/* DASHBOARD MACRO */
+/* DASHBOARD */
+.container { max-width: 1200px; margin: 30px auto; padding: 0 15px; }
+
 .dashboard-macro {
     display: grid;
     grid-template-columns: 2fr 1fr;
-    gap: 20px;
+    gap: 25px;
     margin-bottom: 40px;
 }
 
 .card {
-    background: var(--blanco);
-    padding: 20px;
-    border: 1px solid var(--gris-borde);
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.05);
+    background: var(--fondo-tarjeta);
+    padding: 25px;
+    border-radius: 12px;
+    border: 1px solid var(--borde);
 }
 
-.resumen-card h2 { color: var(--azul-oscuro); margin-bottom: 15px; border-bottom: 2px solid var(--gris-fondo); }
-#resumen-general { font-family: 'Merriweather', serif; font-size: 1.1rem; }
+.resumen-card h2 { color: var(--azul-acento); margin-bottom: 15px; }
+#resumen-general { font-family: 'Merriweather', serif; font-size: 1.2rem; color: #cbd5e1; }
 
-.temas-card ul { list-style: none; margin-top: 10px; }
 .temas-card li { 
-    background: var(--gris-fondo); 
-    margin-bottom: 5px; 
-    padding: 5px 10px; 
-    border-left: 4px solid var(--rojo-fuerte);
-    font-weight: bold;
+    background: #0f172a; 
+    margin-bottom: 8px; 
+    padding: 8px 12px; 
+    border-left: 4px solid var(--azul-acento);
     font-size: 0.9rem;
+    color: var(--texto-principal);
 }
 
-/* GRILLA DE GOBERNADORES */
+/* GRILLA */
 .grilla {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-    gap: 15px;
-    margin-top: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
 }
 
 .tarjeta-gob {
-    background: var(--blanco);
+    background: var(--fondo-tarjeta);
     text-align: center;
-    padding: 15px;
+    padding: 20px;
     cursor: pointer;
-    border: 1px solid var(--gris-borde);
-    transition: transform 0.2s;
+    border-radius: 12px;
+    border: 1px solid var(--borde);
+    transition: all 0.3s ease;
 }
 
-.tarjeta-gob:hover { transform: translateY(-5px); border-color: var(--azul-oscuro); }
-.tarjeta-gob img { width: 80px; height: 80px; border-radius: 50%; object-fit: cover; border: 2px solid var(--gris-fondo); }
-.tarjeta-gob h4 { margin-top: 10px; font-size: 0.9rem; color: var(--azul-oscuro); }
-.tarjeta-gob p { font-size: 0.75rem; color: #777; }
-
-/* MODAL (Popup) */
-.modal {
-    position: fixed;
-    top: 0; left: 0; width: 100%; height: 100%;
-    background: rgba(0,0,0,0.8);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 1000;
+.tarjeta-gob:hover { 
+    transform: translateY(-8px); 
+    border-color: var(--azul-acento);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
 }
 
-.modal.oculta { display: none; }
+.tarjeta-gob img { 
+    width: 90px; height: 90px; 
+    border-radius: 50%; 
+    border: 3px solid var(--borde); 
+    margin-bottom: 10px;
+}
 
+.tarjeta-gob h4 { color: #fff; font-size: 1.1rem; }
+.tarjeta-gob p { color: var(--texto-secundario); font-size: 0.8rem; }
+
+/* MODAL */
 .modal-content {
-    background: var(--blanco);
-    width: 90%;
-    max-width: 800px;
-    max-height: 90vh;
-    overflow-y: auto;
-    padding: 30px;
-    position: relative;
+    background: #1e293b;
+    color: var(--texto-principal);
+    border-radius: 15px;
+    border: 1px solid var(--azul-acento);
 }
 
-.close-btn { position: absolute; top: 15px; right: 20px; font-size: 2rem; cursor: pointer; }
+.analisis-ia-box { 
+    background: #0f172a; 
+    border-left: 5px solid var(--azul-acento); 
+}
 
-.modal-header { display: flex; gap: 20px; align-items: center; margin-bottom: 25px; padding-bottom: 15px; border-bottom: 2px solid var(--gris-fondo); }
-.modal-header img { width: 100px; height: 100px; border-radius: 50%; }
+.tweet-item { 
+    border-bottom: 1px solid var(--borde); 
+    padding: 15px 0;
+    color: #cbd5e1;
+}
 
-.analisis-ia-box { background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 20px; border-left: 5px solid var(--azul-oscuro); }
-.cita-box { margin-top: 15px; font-style: italic; color: #555; padding: 10px; background: #fff; border: 1px dashed var(--gris-borde); }
-
-.tweet-item { padding: 10px; border-bottom: 1px solid var(--gris-fondo); font-size: 0.9rem; }
-.tweet-date { color: var(--rojo-fuerte); font-weight: bold; font-size: 0.7rem; display: block; }
+.tweet-date { color: var(--azul-acento); }
 
 /* RESPONSIVE */
 @media (max-width: 768px) {
     .dashboard-macro { grid-template-columns: 1fr; }
+    .header-content h1 { font-size: 2rem; }
 }
