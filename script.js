@@ -1,63 +1,58 @@
-// Variable global para almacenar la base de gobernadores
 let gobernadoresBase = [];
 
-// Cuando la página carga, ejecutamos esto
 document.addEventListener("DOMContentLoaded", async () => {
-    // 1. Poner el calendario en la fecha de hoy
+    console.log("Web iniciada. Cargando base de gobernadores...");
     const inputFecha = document.getElementById("fecha-select");
-    const fechaHoy = new Date().toISOString().split('T')[0];
+    
+    // Forzamos la fecha de hoy (formato YYYY-MM-DD)
+    const hoy = new Date();
+    const fechaHoy = hoy.getFullYear() + '-' + String(hoy.getMonth() + 1).padStart(2, '0') + '-' + String(hoy.getDate()).padStart(2, '0');
     inputFecha.value = fechaHoy;
 
-    // 2. Cargar la base de gobernadores con las fotos y biografías
     try {
-        const res = await fetch("gobernadores.json");
+        // Usamos ./ para asegurar que busque en la misma carpeta
+        const res = await fetch("./gobernadores.json");
+        if (!res.ok) throw new Error("No se pudo cargar gobernadores.json");
         gobernadoresBase = await res.json();
+        console.log("Base de gobernadores cargada con éxito.");
+        
+        // Cargamos el tablero
+        cargarTablero(fechaHoy);
     } catch (error) {
-        console.error("Error al cargar la base de gobernadores:", error);
+        console.error("Error crítico al iniciar:", error);
+        document.getElementById("resumen-general").innerHTML = "Error al cargar la base de datos de gobernadores.";
     }
 
-    // 3. Cargar los datos del día seleccionado
-    cargarTablero(fechaHoy);
-
-    // 4. Si el usuario cambia la fecha, recargamos el tablero
-    inputFecha.addEventListener("change", (e) => {
-        cargarTablero(e.target.value);
-    });
-
-    // 5. Configurar el botón de cerrar de la ventana emergente (Modal)
+    inputFecha.addEventListener("change", (e) => cargarTablero(e.target.value));
     document.querySelector(".close-btn").addEventListener("click", () => {
         document.getElementById("modal-detalle").classList.add("oculta");
     });
 });
 
-// Función principal que va a buscar los JSON del robot
 async function cargarTablero(fecha) {
+    console.log(`Intentando cargar datos para la fecha: ${fecha}`);
     const resumenGral = document.getElementById("resumen-general");
     const temasLista = document.getElementById("temas-lista");
     const grilla = document.getElementById("grilla-gobernadores");
 
-    resumenGral.innerHTML = "<i>Buscando archivos en el servidor...</i>";
+    resumenGral.innerHTML = "<i>Buscando archivos del día...</i>";
     grilla.innerHTML = "";
     temasLista.innerHTML = "<li>Cargando...</li>";
 
     try {
-        // Vamos a buscar los dos archivos del día
-        const resAnalisis = await fetch(`data/${fecha}_analisis.json`);
-        const resCrudo = await fetch(`data/${fecha}_crudo.json`);
+        const resAnalisis = await fetch(`./data/${fecha}_analisis.json`);
+        const resCrudo = await fetch(`./data/${fecha}_crudo.json`);
 
-        // Si el archivo no existe (error 404), tiramos alerta
         if (!resAnalisis.ok || !resCrudo.ok) {
-            resumenGral.innerHTML = `<b>No hay informes para el ${fecha}.</b><br>Recordá que el robot procesa la información a las 23:30 hs.`;
+            console.warn(`Archivos no encontrados para la fecha ${fecha}`);
+            resumenGral.innerHTML = `<b>No hay informes para el ${fecha}.</b><br>El robot procesa datos a las 20:30 hs (Arg).`;
             temasLista.innerHTML = "<li>Sin datos</li>";
-            alert(`No se encontraron archivos del día ${fecha}.`);
             return;
         }
 
-        // Si existen, los convertimos a variables legibles
         const analisis = await resAnalisis.json();
         const crudo = await resCrudo.json();
 
-        // --- LLENAMOS LA SECCIÓN MACRO ---
         resumenGral.textContent = analisis.resumen_general;
 
         // Temas calientes
@@ -74,4 +69,55 @@ async function cargarTablero(fecha) {
             document.getElementById("tweet-destacado-autor").textContent = `- ${analisis.tweet_destacado.usuario}`;
         }
 
-        // --- LLENAMOS LA SECCIÓN MICRO (La Grilla) ---
+        // Grilla de Gobernadores
+        gobernadoresBase.forEach(gob => {
+            const analisisGob = analisis.analisis_por_gobernador.find(
+                a => a.gobernador.toLowerCase().includes(gob.usuario_x.toLowerCase())
+            );
+            const crudoGob = crudo[gob.usuario_x] || [];
+
+            let tarjeta = document.createElement("div");
+            tarjeta.className = "tarjeta-gob";
+            tarjeta.innerHTML = `
+                <img src="${gob.foto_url}" alt="${gob.nombre}" onerror="this.src='https://via.placeholder.com/80'">
+                <h4>${gob.nombre}</h4>
+                <p>${gob.provincia}</p>
+            `;
+            tarjeta.addEventListener("click", () => abrirModal(gob, analisisGob, crudoGob));
+            grilla.appendChild(tarjeta);
+        });
+
+    } catch (error) {
+        console.error("Error al cargar el tablero:", error);
+        resumenGral.innerHTML = "Hubo un error al leer los archivos JSON. Puede que el formato sea incorrecto.";
+    }
+}
+
+function abrirModal(gobernador, analisisGob, crudoGob) {
+    const modal = document.getElementById("modal-detalle");
+    document.getElementById("modal-bio").innerHTML = `
+        <img src="${gobernador.foto_url}" alt="${gobernador.nombre}" onerror="this.src='https://via.placeholder.com/100'">
+        <div>
+            <h2>${gobernador.nombre} (@${gobernador.usuario_x})</h2>
+            <p><strong>${gobernador.provincia}</strong> | ${gobernador.partido}</p>
+            <p style="font-size: 0.85rem; color: #666;">${gobernador.bio}</p>
+        </div>
+    `;
+
+    document.getElementById("modal-analisis").textContent = analisisGob ? analisisGob.analisis : "Sin análisis disponible.";
+    document.getElementById("modal-cita-textual").textContent = analisisGob ? (analisisGob.cita_textual_relevante || "-") : "-";
+
+    const divCrudo = document.getElementById("modal-tweets-crudos");
+    divCrudo.innerHTML = "";
+    if (crudoGob.length > 0) {
+        crudoGob.forEach(tweet => {
+            let div = document.createElement("div");
+            div.className = "tweet-item";
+            div.innerHTML = tweet;
+            divCrudo.appendChild(div);
+        });
+    } else {
+        divCrudo.innerHTML = "<p>No hay tweets registrados.</p>";
+    }
+    modal.classList.remove("oculta");
+}
