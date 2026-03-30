@@ -3,15 +3,14 @@ import json
 import time
 import requests
 from datetime import datetime
-from google import genai
-from google.genai import types
+import google.generativeai as genai
 
 # 1. Cargar llaves
 RAPIDAPI_KEY = os.environ.get('RAPIDAPI_KEY')
 GEMINI_KEY = os.environ.get('GEMINI_API_KEY')
 
-# 2. Inicializar Gemini
-client = genai.Client(api_key=GEMINI_KEY)
+# 2. Inicializar Gemini (Usando la librería clásica)
+genai.configure(api_key=GEMINI_KEY)
 
 def obtener_tweets_rapidapi(handle):
     url = "https://twitter-api45.p.rapidapi.com/timeline.php"
@@ -26,10 +25,9 @@ def obtener_tweets_rapidapi(handle):
         response.raise_for_status()
         data = response.json()
         
-        # Extraer los textos de los tweets
         tweets_texto = []
         if isinstance(data, list):
-            for t in data[:3]: # Traemos los 3 últimos
+            for t in data[:3]: 
                 if 'text' in t:
                     tweets_texto.append(t['text'])
         elif isinstance(data, dict) and 'timeline' in data:
@@ -47,7 +45,6 @@ def ejecutar_monitoreo():
         with open('gobernadores.json', 'r', encoding='utf-8') as f:
             gobernadores = json.load(f)
 
-        # Probamos con 5 para asegurar que funcione bien
         seleccion = gobernadores[:5]
         handles = [g['usuario_x'] for g in seleccion]
 
@@ -60,7 +57,6 @@ def ejecutar_monitoreo():
             for t in tweets:
                 data_context += f"[@{handle}]: {t}\n---\n"
             
-            # 🔥 ACÁ ESTÁ EL CAMBIO: 5 segundos de espera
             print("Esperando 5 segundos para no saturar la API...")
             time.sleep(5) 
 
@@ -77,15 +73,14 @@ def ejecutar_monitoreo():
             f"TWEETS:\n{data_context}"
         )
 
-        time.sleep(15)
+        print("Enviando a Gemini...")
+        time.sleep(5)
 
-        # 4. Enviar a Gemini
-        response = client.models.generate_content(
-            model="gemini-1.5-pro",
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json"
-            )
+        # 4. Enviar a Gemini (Modelo 1.5 Flash - El más estable para esto)
+        model = genai.GenerativeModel('gemini-1.5-flash')
+        response = model.generate_content(
+            prompt,
+            generation_config={"response_mime_type": "application/json"}
         )
 
         resumen_data = json.loads(response.text)
