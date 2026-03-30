@@ -18,28 +18,24 @@ def ejecutar_monitoreo():
         with open('gobernadores.json', 'r', encoding='utf-8') as f:
             gobernadores = json.load(f)
 
-        # Para no saturar el plan gratis de Apify, probemos con los primeros 10 
-        # Si esto funciona, mañana probamos con los 24.
-        seleccion = gobernadores[:12] 
+        # Probamos con 5 para que el plan gratis de Apify no nos rebote
+        seleccion = gobernadores[:5] 
         handles = [g['usuario_x'] for g in seleccion]
         
-        print(f"--- Iniciando extracción para {len(handles)} perfiles ---")
+        print(f"--- Iniciando extracción para: {', '.join(handles)} ---")
 
-        # 3. Cambiamos a un Actor diferente: 'microworlds/twitter-scraper'
-        # Es más liviano y suele permitir el plan gratis.
+        # 3. Usamos 'apidojo/twitter-scraper-lite' (Suele ser el más estable)
         run_input = {
-            "searchMode": "live",
             "twitterHandles": handles,
-            "maxTweetsPerQuery": 2,
-            "addUserInfo": True
+            "maxItems": 2,
+            "sort": "Latest"
         }
         
-        # Llamada al nuevo Actor
-        run = apify_client.actor("microworlds/twitter-scraper").call(run_input=run_input)
+        run = apify_client.actor("apidojo/twitter-scraper-lite").call(run_input=run_input)
         tweets_raw = list(apify_client.dataset(run["defaultDatasetId"]).iterate_items())
 
         if not tweets_raw:
-            print("No se encontraron tweets nuevos hoy.")
+            print("⚠️ No se recuperaron tweets. Puede que el scraper esté saturado.")
             return
 
         data_context = ""
@@ -48,11 +44,11 @@ def ejecutar_monitoreo():
             text = t.get('full_text', t.get('text', ''))
             data_context += f"[@{user}]: {text}\n---\n"
 
-        # 4. Gemini 1.5 Flash (Más estable para el plan gratis)
-        prompt = f"Analiza estos tweets de gobernadores argentinos del {datetime.now().strftime('%d/%m/%Y')}. Resumen en JSON: resumen_general, tweet_destacado (usuario y texto), temas_calientes (lista). TWEETS: {data_context}"
+        # 4. Gemini 1.5 Flash (Más generoso con la cuota gratis)
+        prompt = f"Analiza estos tweets de gobernadores del {datetime.now().strftime('%d/%m/%Y')} y haz un resumen JSON: resumen_general, tweet_destacado, temas_calientes. TWEETS: {data_context}"
         
-        # Agregamos un pequeño delay para que la API no se asuste
-        time.sleep(2) 
+        # Pausa de seguridad para no saturar la API
+        time.sleep(5) 
 
         response = client.models.generate_content(
             model="gemini-1.5-flash", 
@@ -62,19 +58,19 @@ def ejecutar_monitoreo():
         
         resumen_data = json.loads(response.text)
 
-        # 5. Guardar
+        # 5. Guardar resultados
         fecha_hoy = datetime.now().strftime('%Y-%m-%d')
         if not os.path.exists('data'):
             os.makedirs('data')
 
-        with open(f'data/{fecha_hoy}.json', 'w', encoding='utf-8') as f:
+        archivo_final = f'data/{fecha_hoy}.json'
+        with open(archivo_final, 'w', encoding='utf-8') as f:
             json.dump(resumen_data, f, ensure_ascii=False, indent=4)
         
-        print(f"✅ ¡Éxito! Archivo data/{fecha_hoy}.json creado.")
+        print(f"✅ ¡LO LOGRAMOS! Revisá la carpeta data/ y vas a ver el archivo.")
 
     except Exception as e:
-        print(f"❌ Error fatal: {str(e)}")
-        # Si falla, tiramos el error para verlo en el log de GitHub
+        print(f"❌ Error detallado: {str(e)}")
         raise e
 
 if __name__ == "__main__":
