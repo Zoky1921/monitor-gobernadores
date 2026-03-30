@@ -2,21 +2,18 @@ name: Monitor Politico Diario
 
 on:
   schedule:
-    - cron: '0 23 * * *' # Corre todos los días a las 20:00 hs Argentina
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '0 23 * * *'
+  workflow_dispatch: 
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
     steps:
       - name: Descargar codigo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Instalar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -26,17 +23,13 @@ jobs:
       - name: Ejecutar Robot
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: python main.py
 
       - name: Guardar resultados en el repositorio
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "Observatorio Bot"
-          if [ -n "$(git status --porcelain data/)" ]; then
-            git add data/
-            git commit -m "Actualizacion diaria: $(date +'%Y-%m-%d')"
-            git push
-          else
-            echo "Sin cambios en data/, no hay nada que commitear."
-          fi
+          git add data/*.json
+          git commit -m "Actualizacion diaria: $(date +'%Y-%m-%d')" || echo "Sin cambios nuevos"
+          git push
