@@ -81,7 +81,7 @@ def ejecutar_monitoreo():
 
         # 4. Enviar a Gemini
         response = client.models.generate_content(
-            model="gemini-1.5-flash-8b",
+            model="gemini-1.5-pro",
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json"
