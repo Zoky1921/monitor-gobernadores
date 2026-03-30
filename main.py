@@ -28,8 +28,6 @@ def obtener_tweets_rapidapi(handle):
         
         # Extraer los textos de los tweets
         tweets_texto = []
-        # La estructura típica de esta API devuelve una lista o un dict con 'timeline'
-        # Adaptamos la búsqueda de los textos
         if isinstance(data, list):
             for t in data[:3]: # Traemos los 3 últimos
                 if 'text' in t:
@@ -49,7 +47,7 @@ def ejecutar_monitoreo():
         with open('gobernadores.json', 'r', encoding='utf-8') as f:
             gobernadores = json.load(f)
 
-        # Probamos con 5 para asegurar que funcione rápido
+        # Probamos con 5 para asegurar que funcione bien
         seleccion = gobernadores[:5]
         handles = [g['usuario_x'] for g in seleccion]
 
@@ -61,7 +59,10 @@ def ejecutar_monitoreo():
             tweets = obtener_tweets_rapidapi(handle)
             for t in tweets:
                 data_context += f"[@{handle}]: {t}\n---\n"
-            time.sleep(1) # Pequeña pausa entre cada gobernador para no saturar
+            
+            # 🔥 ACÁ ESTÁ EL CAMBIO: 5 segundos de espera
+            print("Esperando 5 segundos para no saturar la API...")
+            time.sleep(5) 
 
         if not data_context:
             print("No se encontraron tweets nuevos hoy.")
