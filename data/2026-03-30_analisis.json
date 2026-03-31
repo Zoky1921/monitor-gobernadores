@@ -1,74 +1,221 @@
 {
-    "resumen_general": "El clima político de hoy, 30 de marzo de 2026, entre los gobernadores argentinos se caracteriza por un fuerte énfasis en la gestión local y la resolución de problemas concretos en sus respectivas provincias. Se observa una marcada agenda de obras públicas y mejoras en servicios esenciales, como la entrega de viviendas y títulos de tierras en Chaco, la finalización de obras escolares en Neuquén, o la inversión hospitalaria en Río Negro. La seguridad es un tema recurrente, con Jorge Macri reforzando su discurso de 'Ley y orden' en CABA y Carlos Sadir impulsando la tecnología en el control fronterizo de Jujuy. Un eje importante es el fomento del turismo y los eventos deportivos, con gobernadores como Rolando Figueroa y Marcelo Orrego destacando la importancia de competencias nacionales e internacionales para dinamizar sus economías. También se percibe la necesidad de coordinación con el gobierno nacional, evidenciada por la solicitud de Alberto Weretilneck a Vialidad Nacional para la reparación urgente de un puente clave, lo que subraya una latente tensión sobre la inversión federal. En general, los mensajes de los mandatarios buscan transmitir proactividad, cercanía con las comunidades y orgullo regional, enfocándose en el desarrollo y el bienestar de sus ciudadanos frente a los desafíos cotidianos y económicos.",
+    "resumen_ejecutivo": "La agenda federal de hoy, 30 de marzo de 2026, se centró en la gestión de emergencias y la seguridad, con Maximiliano Pullaro (Santa Fe) y Gustavo Sáenz (Salta) desplegando respuestas a eventos críticos y Rolando Figueroa (Neuquén) enfocado en infraestructura con financiamiento innovador. En el ámbito económico, Carlos Sadir (Jujuy) impulsó proyectos mineros con inversión internacional, mientras que Claudio Vidal (Santa Cruz) se abocó a la reactivación petrolera y asistencia financiera. Las relaciones con la Nación mostraron polaridad, desde la crítica explícita de Ricardo Quintela (La Rioja) por desfinanciamiento, hasta la coordinación en obras nacionales por Rogelio Frigerio (Entre Ríos), reflejando las diversas dinámicas del federalismo argentino.",
+    "analisis_profundo": "La actividad de los gobernadores provinciales el 30 de marzo de 2026 y la última hora del 29 de marzo revela una agenda diversa, dominada por la gestión de crisis, el impulso a la infraestructura y estrategias económicas diferenciadas, todo enmarcado en complejas relaciones federales. Maximiliano Pullaro (Santa Fe) y Gustavo Sáenz (Salta), así como Elías Suárez (Santiago del Estero), demuestran una fuerte capacidad de respuesta ante emergencias, ya sean trágicos sucesos o inundaciones, priorizando la presencia estatal y la coordinación interministerial. Esta gestión inmediata de lo urgente es un sello distintico de la autonomía provincial frente a eventos imprevistos.\n\nEn cuanto a infraestructura, Martín Llaryora (Córdoba) destaca con la pavimentación de rutas clave y una modernización del alumbrado público, enfatizando la articulación con municipios y la eficiencia de empresas provinciales como EPEC. Rolando Figueroa (Neuquén) presenta un ambicioso plan quinquenal de infraestructura, incluyendo la construcción de la Ruta 8 mediante un fideicomiso con operadoras petroleras y la erradicación de aulas tráiler, lo que subraya un modelo de desarrollo integral y con financiamiento innovador. Alfredo Cornejo (Mendoza) se enfoca en la repavimentación vial y la entrega de viviendas, reafirmando la capacidad de gestión provincial pese a las dificultades nacionales. Alberto Weretilneck (Río Negro) también prioriza obras de cloacas y demanda a Vialidad Nacional la reparación urgente de un puente, poniendo de manifiesto la necesidad de la coordinación interjurisdiccional para la seguridad y conectividad.\n\nEstratégicamente, las provincias del norte y la Patagonia apuntan a la valorización de sus recursos. Carlos Sadir (Jujuy) consolida la provincia como polo minero y tecnológico mediante inversiones en litio bajo el RIGI y la creación de laboratorios con instituciones nacionales e internacionales, sumado a la mejora de la seguridad fronteriza. Claudio Vidal (Santa Cruz) trabaja en la reactivación del sector petrolero, la refinanciación de deudas de empleados públicos y medidas para precios accesibles, buscando estabilidad económica y social. Hugo Passalacqua (Misiones) extiende sus programas de fomento al consumo local, mostrando una intervención directa en la economía. Axel Kicillof (Buenos Aires) mantiene su perfil mediático y resalta acciones de gestión educativa, mientras Raúl Jalil (Catamarca) impulsa la Ley de Biocombustibles y la cooperación educativa. Osvaldo Jaldo (Tucumán) presenta resultados positivos en seguridad y lucha contra el narcotráfico, consolidando esta área como política de Estado. Marcelo Orrego (San Juan) apuesta al turismo deportivo de alto impacto para dinamizar la economía local. La tensión federal se manifiesta claramente en Ricardo Quintela (La Rioja), quien critica abiertamente el desfinanciamiento nacional en cultura y educación, contrastando con la política de inversión provincial, mientras Rogelio Frigerio (Entre Ríos) destaca la coordinación con el gobierno nacional en obras viales. La gestión actual evidencia la resiliencia provincial y la diversidad de enfoques para enfrentar un escenario nacional complejo, con algunos gobernadores optando por la confrontación discursiva y otros por la pragmática coordinación.",
+    "temas_calientes": [
+        "Infraestructura y Conectividad Provincial",
+        "Seguridad Pública y Lucha Antinarco",
+        "Desarrollo Económico Regional y Atracción de Inversiones",
+        "Relaciones Federales y Reclamos a Nación",
+        "Asistencia Social y Gestión de Emergencias Climáticas"
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Generamos oportunidades para fortalecer la cultura en toda la provincia. Desde la @CulturasLaRioja junto a la @UNdeC presentamos una nueva diplomatura en gestión cultural con enfoque comunitario, pensada para formar profesionales comprometidos con la identidad, los derechos culturales y el desarrollo de las comunidades. Con modalidad híbrida, alcance nacional e internacional y 80 becas otorgadas por el Gobierno de La Rioja, esta propuesta garantiza acceso real a una formación de calidad. En un contexto donde la cultura y la educación pública atraviesan un fuerte desfinanciamiento a nivel nacional, en La Rioja sostenemos una decisión clara, invertir en formación y en el trabajo conjunto con las universidades públicas. Transformamos políticas en herramientas concretas, generando oportunidades y fortaleciendo el entramado cultural de toda la provincia.",
+        "por_que_es_clave": "Este tweet es clave porque no solo anuncia una iniciativa concreta de gestión provincial (diplomatura en gestión cultural y becas), sino que lo hace enmarcando explícitamente una crítica al 'fuerte desfinanciamiento a nivel nacional' en esos mismos rubros. Esto posiciona al gobernador de La Rioja como un defensor de políticas públicas que el gobierno nacional estaría descuidando, marcando una clara tensión federal y un contraste de modelos de gestión."
+    },
     "analisis_por_gobernador": [
         {
             "gobernador": "@Kicillofok",
-            "analisis": "El gobernador, a través de un retuit, destacó el fortalecimiento de la educación pública en la capital bonaerense mediante la entrega de electrodomésticos, en una acción conjunta con el municipio. Su postura se alinea con la inversión en políticas sociales y educativas a nivel local.",
-            "cita_textual_relevante": "📚 Seguimos fortaleciendo la educación pública en la capital de los bonaerenses"
+            "temas_mencionados": [
+                "Gestión de gobierno",
+                "Educación",
+                "Apariciones mediáticas"
+            ],
+            "postura_politica": "Se enfoca en la difusión de su gestión y mantiene una alta visibilidad mediática, utilizando RTs para mostrar acciones de su gobierno en áreas clave como educación.",
+            "frase_fuerte": "A las 20 hs voy a estar conversando con el @Gatosylvestre en @C5N."
         },
         {
             "gobernador": "@jorgemacri",
-            "analisis": "El gobernador de la Ciudad de Buenos Aires comunicó un operativo de saturación en el barrio de Retiro, reafirmando su política de seguridad bajo el lema 'Ley y orden'. Su postura es de firmeza y control ante lo que denomina el 'vale todo' en la ciudad.",
-            "cita_textual_relevante": "Se terminó el vale todo. La Ciudad es de los porteños de bien. Ley y orden."
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y orden",
+                "Operativos policiales"
+            ],
+            "postura_politica": "Adopta una postura de mano dura en seguridad, con énfasis en el 'Ley y orden' y operativos de saturación, buscando reafirmar el control estatal en espacios urbanos.",
+            "frase_fuerte": "Se terminó el vale todo. La Ciudad es de los porteños de bien. Ley y orden."
         },
         {
-            "gobernador": "@MartinLlaryora",
-            "analisis": "El gobernador de Córdoba informó sobre la asistencia a familias afectadas por un temporal en el este provincial, con equipos trabajando en terreno y la activación de un fondo de desastre. Su postura es de respuesta rápida y presencia estatal frente a emergencias climáticas, destacando el trabajo coordinado.",
-            "cita_textual_relevante": "estamos acompañando y asistiendo a las familias damnificadas a través de un trabajo coordinado entre diferentes áreas de Gobierno."
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Educación",
+                "Política energética (biocombustibles)",
+                "Cooperación interinstitucional"
+            ],
+            "postura_politica": "Proactivo en la búsqueda de alianzas para la formación y desarrollo, promoviendo políticas que benefician a las economías regionales como la ley de biocombustibles.",
+            "frase_fuerte": "Es hora de aprobar la Ley de Biocombustibles!"
         },
         {
             "gobernador": "@LeandroZdero",
-            "analisis": "El gobernador chaqueño reportó una intensa actividad de gestión en El Impenetrable y Colonias Unidas, incluyendo la entrega de viviendas y títulos de tierras, operativos sanitarios y avances en refacciones escolares. Su postura es de fuerte presencia territorial, enfocada en el desarrollo social y el arraigo en zonas postergadas.",
-            "cita_textual_relevante": "Más arraigo, más producción y previsibilidad para seguir creciendo. 💪🏼"
+            "temas_mencionados": [
+                "Vivienda",
+                "Salud",
+                "Educación",
+                "Regularización de tierras",
+                "Deporte",
+                "Desarrollo social"
+            ],
+            "postura_politica": "Centrado en la gestión social y de infraestructura, con fuerte presencia en zonas vulnerables como El Impenetrable, demostrando 'hechos' concretos para la mejora de la calidad de vida.",
+            "frase_fuerte": "¡MÁS OBRAS PARA EL DEPORTE CHAQUEÑO!"
         },
         {
             "gobernador": "@NachoTorresCH",
-            "analisis": "El gobernador de Chubut compartió el orgullo por la presentación de una orquesta juvenil de un barrio de Trelew en el Teatro Colón, resaltando el esfuerzo y la superación de los jóvenes. Su postura es de apoyo a la cultura como herramienta de contención social y generadora de oportunidades.",
-            "cita_textual_relevante": "Detrás hay esfuerzo, disciplina y chicos que eligieron superarse todos los días."
+            "temas_mencionados": [
+                "Seguridad (narcomenudeo)",
+                "Vivienda post-emergencia",
+                "Cultura y educación"
+            ],
+            "postura_politica": "Impulsa la descentralización del combate al narcomenudeo y la reconstrucción post-incendios, mostrando un gobierno comprometido con la seguridad y la asistencia a sus ciudadanos.",
+            "frase_fuerte": "DESFEDERALIZACIÓN DEL NARCOMENUDEO: UNA HERRAMIENTA FUNDAMENTAL PARA COMBATIR EL NARCOTRÁFICO"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura vial y urbana",
+                "Seguridad urbana",
+                "Respuesta a emergencias climáticas"
+            ],
+            "postura_politica": "Enfatiza la inversión en obras públicas y la articulación con municipios para el desarrollo provincial, incluso en contextos complejos, bajo el lema 'Hacer Para Crecer'.",
+            "frase_fuerte": "Este es un paso muy importante para el desarrollo del Valle de Calamuchita."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Infraestructura vial nacional",
+                "Coordinación con Nación"
+            ],
+            "postura_politica": "Se muestra como un gestor eficaz en la concreción de obras nacionales en su provincia, destacando la colaboración con el gobierno central para el desarrollo local.",
+            "frase_fuerte": "RN18: seguimos avanzando"
         },
         {
             "gobernador": "@carlossadirjuy",
-            "analisis": "El gobernador jujeño comunicó la inauguración de nueva tecnología (escáneres y cámaras) para el control en el paso fronterizo La Quiaca-Villazón, destacando su impacto en la seguridad y el desarrollo comercial y turístico de la región, en la que se prevé una futura Zona Franca.",
-            "cita_textual_relevante": "Mayor y mejor control en nuestro paso fronterizo de La Quiaca. Inauguramos nueva tecnología: un nuevo escáner de carga, identidad y documentación y más de 60 cámaras de videovigilancia para revisar lo que ingresa y sale del país."
+            "temas_mencionados": [
+                "Minería (litio, RIGI)",
+                "Desarrollo tecnológico",
+                "Seguridad fronteriza",
+                "Conectividad"
+            ],
+            "postura_politica": "Posiciona a Jujuy como polo de desarrollo minero y tecnológico con inversiones internacionales, fortaleciendo la seguridad fronteriza y la conectividad.",
+            "frase_fuerte": "Nos reunimos con representantes de la empresa CNGR y de las comunidades de Jama, Olaroz y El Toro, celebrando que una vez más, una empresa que invierte en Jujuy presentó su proyecto minero para adherir al RIGI."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Cultura",
+                "Educación",
+                "Crítica al desfinanciamiento nacional"
+            ],
+            "postura_politica": "Defensor activo de la inversión pública en cultura y educación, marcando una clara oposición al enfoque de desfinanciamiento del gobierno nacional en estas áreas.",
+            "frase_fuerte": "En un contexto donde la cultura y la educación pública atraviesan un fuerte desfinanciamiento a nivel nacional, en La Rioja sostenemos una decisión clara, invertir en formación..."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Autonomía municipal",
+                "Infraestructura vial",
+                "Vivienda"
+            ],
+            "postura_politica": "Propone reformas institucionales para consolidar la autonomía municipal y enfatiza la gestión provincial en infraestructura y vivienda, destacando la capacidad de Mendoza.",
+            "frase_fuerte": "Presentaremos un proyecto para modificar un artículo de la Constitución Provincial por vía de enmienda para consagrar la autonomía municipal en la Carta Magna..."
         },
         {
             "gobernador": "@passalacquaok",
-            "analisis": "El gobernador de Misiones celebró el 80° aniversario de Campo Grande, resaltando el esfuerzo y la resiliencia de su gente en la construcción del municipio. Su postura es de cercanía con las comunidades locales, valorando el trabajo colectivo como motor de desarrollo.",
-            "cita_textual_relevante": "Cada vez que vuelvo la encuentro más linda y más viva. Eso es mérito de su gente que no se detiene y que, aun en las dificultades, sigue construyendo. 💪🏻"
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Programas de consumo",
+                "Apoyo a pymes"
+            ],
+            "postura_politica": "Enfocado en el acompañamiento a las comunidades locales y la economía, extendiendo programas de incentivo al consumo para mitigar impactos económicos.",
+            "frase_fuerte": "Informo que, en acuerdo con las entidades bancarias y el sector privado participante, he dispuesto la prórroga de los programas AHORA..."
         },
         {
             "gobernador": "@Rolo_Figueroa",
-            "analisis": "El gobernador neuquino destacó la realización del Turismo Carretera en la provincia como un evento que impulsa el deporte, el turismo y la economía regional. Además, reafirmó la educación como prioridad, mencionando avances en la erradicación de aulas tráiler. Su postura combina la promoción de eventos de gran escala con la mejora de servicios esenciales.",
-            "cita_textual_relevante": "EN NEUQUÉN YA SE VIVE EL TURISMO CARRETERA (...) Seguimos posicionando a la provincia en todo el país, generando oportunidades y poniendo a Neuquén en lo más alto."
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo productivo",
+                "Educación",
+                "Deporte",
+                "Turismo"
+            ],
+            "postura_politica": "Lidera un 'Modelo Neuquino' que prioriza la inversión en infraestructura clave (rutas, servicios, educación) con financiamiento innovador y alianzas público-privadas, impulsando el desarrollo integral de la provincia.",
+            "frase_fuerte": "EL CAMBIO ESTÁ EN MARCHA Y SE VE EN CADA OBRA QUE TRANSFORMA LA PROVINCIA"
         },
         {
             "gobernador": "@WeretilneckOK",
-            "analisis": "El gobernador rionegrino celebró el aniversario de Río Colorado con anuncios de inversión en salud, obras de desagüe y entrega de escrituras. Realizó un llamado urgente a Vialidad Nacional para reparar un puente clave y proyectó a Río Negro como un futuro 'epicentro de una nueva historia energética'. Su postura es de gestión integral y defensa de los intereses provinciales ante la Nación.",
-            "cita_textual_relevante": "Le solicitamos a Vialidad Nacional que arbitren de manera inmediata las medidas necesarias para reparar esta infraestructura clave y garantizar condiciones seguras de circulación."
+            "temas_mencionados": [
+                "Infraestructura (cloacas, puentes)",
+                "Educación energética",
+                "Desarrollo regional (polo exportador)",
+                "Federalismo"
+            ],
+            "postura_politica": "Promueve a Río Negro como un actor clave en la nueva matriz energética nacional y gestiona obras con fondos propios, al tiempo que reclama acciones urgentes al gobierno federal para infraestructura.",
+            "frase_fuerte": "LA SEGURIDAD DE LOS RIONEGRINOS NO PUEDE ESPERAR"
         },
         {
-            "gobernador": "@EliasSuarezSDE",
-            "analisis": "El gobernador santiagueño, mediante retuits, se enfocó en el inicio de la Semana Santa con el 'Domingo de Ramos' y el aniversario de la radio local LV11. Su comunicación hoy fue de carácter más institucional, cultural y religioso, mostrando un acompañamiento a las tradiciones de su provincia.",
-            "cita_textual_relevante": "🌿 Domingo de Ramos Hoy comienza la Semana Santa, un tiempo de reflexión, fe y esperanza para todos los santiagueños."
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Emergencias climáticas (inundaciones)",
+                "Asistencia social",
+                "Presencia territorial"
+            ],
+            "postura_politica": "Centrado en la respuesta inmediata y la asistencia integral a las poblaciones afectadas por fenómenos naturales, destacando la presencia del Estado en el territorio.",
+            "frase_fuerte": "Estamos en Morillo, en territorio, acompañando a las familias afectadas por la crecida del río Bermejo y supervisando el operativo integral que llevamos adelante desde el primer momento."
         },
         {
             "gobernador": "@DrMarceloOrrego",
-            "analisis": "El gobernador de San Juan comunicó con éxito la realización del Ironman 70.3, destacando la participación internacional y su impacto positivo en el turismo y la economía local (comercio, gastronomía, hotelería). Su postura es de consolidar a San Juan como un hub internacional para eventos deportivos.",
-            "cita_textual_relevante": "La fuerza del deporte y todo el potencial de nuestra provincia se hicieron sentir en una jornada que volvió a demostrar por qué estamos preparados para recibir grandes competencias que impulsan el turismo, el trabajo y el movimiento económico."
+            "temas_mencionados": [
+                "Turismo deportivo",
+                "Impacto económico de eventos"
+            ],
+            "postura_politica": "Impulsa el turismo de eventos deportivos internacionales como una estrategia para dinamizar la economía local y posicionar la provincia globalmente.",
+            "frase_fuerte": "Con la precordillera como marco imponente, vivimos una nueva edición del #IRONMAN703 junto a más de mil atletas de 35 países."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Desarrollo frutihortícola",
+                "Articulación público-privada"
+            ],
+            "postura_politica": "Fomenta la creación de mesas sectoriales para impulsar el desarrollo productivo, promoviendo la colaboración entre el gobierno y el sector privado.",
+            "frase_fuerte": "Conformamos este sábado una nueva MESA SECTORIAL: la mesa sectorial de PRODUCCIÓN FRUTIHORTICOLA y LA PRODUCCIÓN FAMILIAR."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Economía (petróleo, finanzas públicas)",
+                "Empleo",
+                "Asistencia social",
+                "Vivienda"
+            ],
+            "postura_politica": "Enfocado en la reactivación económica del sector petrolero, el alivio financiero para empleados públicos y la búsqueda de soluciones habitacionales, administrando con responsabilidad.",
+            "frase_fuerte": "SEGUIMOS TOMANDO DECISIONES PARA QUE SANTA CRUZ AVANCE"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Respuesta interministerial a eventos trágicos"
+            ],
+            "postura_politica": "Coordina una respuesta interministerial ante situaciones críticas de seguridad, mostrando un compromiso activo en la gestión de crisis y la protección ciudadana.",
+            "frase_fuerte": "El gobernador @maxipullaro expresó los primeros detalles del dispositivo interministerial sobre el hecho trágico ocurrido en la localidad de Santa Fe."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Emergencias climáticas",
+                "Asistencia social"
+            ],
+            "postura_politica": "Muestra un estado presente y activo en la asistencia a familias afectadas por fenómenos climáticos, coordinando diversas áreas de gobierno.",
+            "frase_fuerte": "Desde las áreas de Defensa Civil, Desarrollo Social, Obras Públicas, Ministerio de Salud y Gobierno y Seguridad, junto a la intendenta, seguimos acompañando a las familias afectadas por el clima en Chilca Juliana."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Lucha contra el narcotráfico",
+                "Estadísticas delictivas"
+            ],
+            "postura_politica": "Destaca los resultados positivos en la reducción de delitos y el combate al narcotráfico, posicionando la seguridad como una política de estado y eje de su gestión.",
+            "frase_fuerte": "Luego de revisar las estadísticas, confirmamos una baja importante de delitos y una disminución de los homicidios en comparación con el mismo período de 2025."
         }
-    ],
-    "tweet_destacado": {
-        "usuario": "@WeretilneckOK",
-        "texto": "LA SEGURIDAD DE LOS RIONEGRINOS NO PUEDE ESPERAR\n\nEl estado del puente sobre el Río Colorado, sobre la Ruta Nacional 22, es preocupante y requiere una intervención urgente.\n\nLe solicitamos a Vialidad Nacional que arbitren de manera inmediata las medidas necesarias para reparar esta infraestructura clave y garantizar condiciones seguras de circulación.\n\nPor esta vía transitan todos los días miles de vecinos, trabajadores y transportistas. No se trata solo de una obra: se trata de cuidar la vida de los rionegrinos y de todos los argentinos que utilizan este corredor estratégico.",
-        "por_que_es_clave": "Este tweet es clave porque, además de señalar un problema crítico de infraestructura que afecta directamente la seguridad y la vida cotidiana de los ciudadanos, pone en evidencia la dinámica de reclamo y la necesidad de acción por parte del gobierno nacional. Muestra la postura de un gobernador que defiende los intereses y la seguridad de su provincia, en un contexto donde la inversión en obra pública nacional es un tema sensible."
-    },
-    "temas_calientes": [
-        "Gestión de infraestructura y obras públicas (viviendas, escuelas, puentes, desagües)",
-        "Desarrollo social y acceso a servicios básicos (salud, educación, titulación de tierras)",
-        "Seguridad ciudadana y control fronterizo",
-        "Fomento del turismo y eventos deportivos como motores económicos",
-        "Relación y reclamos a la Nación por fondos y obras",
-        "Atención y respuesta a emergencias climáticas",
-        "Orgullo regional y fomento de la identidad local"
     ]
 }
