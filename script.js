@@ -6,7 +6,6 @@ let gobernadoresBase = [];
 function obtenerFechaFormateada(diasRestados = 0) {
     const fecha = new Date();
     fecha.setDate(fecha.getDate() - diasRestados);
-    // Forzamos el uso horario de Buenos Aires para evitar saltos raros
     return fecha.toLocaleDateString('en-CA', { timeZone: 'America/Argentina/Buenos_Aires' }); 
 }
 
@@ -20,17 +19,16 @@ document.addEventListener("DOMContentLoaded", async () => {
         gobernadoresBase = await res.json();
         console.log("Base de gobernadores cargada con éxito.");
         
-        // --- LÓGICA DE FECHA INTELIGENTE ---
-        let fechaIntento = obtenerFechaFormateada(0); // Intentamos con HOY
+        // Lógica de fecha inteligente
+        let fechaIntento = obtenerFechaFormateada(0); 
         let cargaExitosa = await cargarTablero(fechaIntento);
         
         if (!cargaExitosa) {
             console.log("El informe de hoy aún no está listo. Cargando el de AYER...");
-            fechaIntento = obtenerFechaFormateada(1); // Intentamos con AYER
+            fechaIntento = obtenerFechaFormateada(1);
             await cargarTablero(fechaIntento);
         }
         
-        // Fijamos el calendario en la fecha que finalmente se mostró en pantalla
         inputFecha.value = fechaIntento;
 
     } catch (error) {
@@ -38,10 +36,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         document.getElementById("resumen-ejecutivo").innerHTML = "Error al cargar la base de datos.";
     }
 
-    // Si el usuario cambia la fecha a mano en el calendario
     inputFecha.addEventListener("change", (e) => cargarTablero(e.target.value));
     
-    // Cerrar la ventana flotante
     document.querySelector(".close-btn").addEventListener("click", () => {
         document.getElementById("modal-detalle").classList.add("oculta");
     });
@@ -55,7 +51,6 @@ async function cargarTablero(fecha) {
     const temasLista = document.getElementById("temas-lista");
     const grilla = document.getElementById("grilla-gobernadores");
 
-    // Mensajes de carga
     cajaEjecutivo.innerHTML = "<i>Buscando resumen ejecutivo...</i>";
     cajaProfundo.innerHTML = "<i>Buscando análisis profundo...</i>";
     grilla.innerHTML = "";
@@ -70,7 +65,7 @@ async function cargarTablero(fecha) {
             cajaEjecutivo.innerHTML = `<b>No hay informes para el ${fecha}.</b>`;
             cajaProfundo.innerHTML = `El robot procesa datos todos los días a las 20:30 hs (Arg).`;
             temasLista.innerHTML = "<li>Sin datos</li>";
-            return false; // Retorna false para que el sistema intente con el día anterior
+            return false; 
         }
 
         const analisis = await resAnalisis.json();
@@ -80,14 +75,13 @@ async function cargarTablero(fecha) {
         cajaEjecutivo.textContent = analisis.resumen_ejecutivo || "Resumen ejecutivo no disponible.";
         
         if (analisis.analisis_profundo) {
-            // Reemplazamos los puntos seguidos por saltos de línea para que respire
             const textoConParrafos = analisis.analisis_profundo.replace(/\. /g, '.<br><br>');
             cajaProfundo.innerHTML = textoConParrafos;
         } else {
             cajaProfundo.innerHTML = "Análisis profundo no disponible.";
         }
 
-        // 2. TENDENCIAS (Top 5)
+        // 2. TENDENCIAS
         temasLista.innerHTML = "";
         if (analisis.temas_calientes) {
             analisis.temas_calientes.slice(0, 5).forEach(tema => {
@@ -117,11 +111,12 @@ async function cargarTablero(fecha) {
                 <h4>${gob.nombre}</h4>
                 <p>${gob.provincia}</p>
             `;
+            // ACÁ ES DONDE LLAMA A LA FUNCIÓN QUE "NO EXISTÍA"
             tarjeta.addEventListener("click", () => abrirModal(gob, analisisGob, crudoGob));
             grilla.appendChild(tarjeta);
         });
 
-        return true; // Todo salió bien
+        return true; 
 
     } catch (error) {
         console.error("Error al cargar el tablero:", error);
@@ -132,3 +127,46 @@ async function cargarTablero(fecha) {
 }
 
 // =========================================
+// FUNCIÓN PARA ABRIR LA VENTANA FLOTANTE 
+// (Asegurate de que esto quede hasta el final del archivo)
+// =========================================
+function abrirModal(gobernador, analisisGob, crudoGob) {
+    const modal = document.getElementById("modal-detalle");
+    const modalBio = document.getElementById("modal-bio");
+    
+    modalBio.innerHTML = `
+        <img src="${gobernador.foto_url}" alt="${gobernador.nombre}" onerror="this.src='https://via.placeholder.com/100'">
+        <div>
+            <h2>${gobernador.nombre} (@${gobernador.usuario_x})</h2>
+            <p><strong>${gobernador.provincia}</strong> | ${gobernador.partido || 'Gobernador'}</p>
+            <p style="font-size: 0.85rem; color: #cbd5e1; margin-top: 10px;">${gobernador.bio || ''}</p>
+        </div>
+    `;
+
+    // Soporte para variables nuevas y viejas
+    let textoAnalisis = "Sin actividad política registrada para la fecha seleccionada.";
+    let textoCita = "Sin citas textuales hoy.";
+
+    if (analisisGob) {
+        textoAnalisis = analisisGob.postura_politica || analisisGob.analisis || textoAnalisis;
+        textoCita = analisisGob.frase_fuerte || analisisGob.cita_textual_relevante || textoCita;
+    }
+
+    document.getElementById("modal-analisis").textContent = textoAnalisis;
+    document.getElementById("modal-cita-textual").textContent = textoCita;
+
+    const divCrudo = document.getElementById("modal-tweets-crudos");
+    divCrudo.innerHTML = "";
+    if (crudoGob && crudoGob.length > 0) {
+        crudoGob.forEach(tweet => {
+            let div = document.createElement("div");
+            div.className = "tweet-item";
+            div.innerHTML = tweet;
+            divCrudo.appendChild(div);
+        });
+    } else {
+        divCrudo.innerHTML = "<p style='color: #94a3b8; font-style: italic;'>No hay tweets para mostrar en esta fecha.</p>";
+    }
+    
+    modal.classList.remove("oculta");
+}
