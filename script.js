@@ -124,4 +124,11 @@ async function cargarTablero(fecha) {
         return true; // Todo salió bien
 
     } catch (error) {
-        console.error
+        console.error("Error al cargar el tablero:", error);
+        cajaEjecutivo.innerHTML = "Hubo un error al leer los archivos JSON.";
+        cajaProfundo.innerHTML = "";
+        return false;
+    }
+}
+
+// =========================================
