@@ -1,0 +1,102 @@
+{
+    "resumen_general": "El clima político del 31 de marzo de 2026, según los tweets de los gobernadores, está marcadamente enfocado en la gestión y resolución de problemáticas a nivel provincial. Los ejes principales giran en torno a la **infraestructura y obra pública**, con anuncios de pavimentación de rutas en Córdoba y Mendoza, mejoras en servicios básicos como cloacas y agua en Río Negro y Neuquén, y la entrega de viviendas en Chaco y Mendoza. Estas acciones son presentadas como respuestas concretas a las necesidades de la gente, muchas veces financiadas con fondos propios provinciales, lo que sugiere una gestión activa y autónoma ante un contexto nacional desafiante. Un segundo eje crucial es la **seguridad pública**, donde coexisten reportes de éxito en la baja del delito (Tucumán) con la necesidad de fortalecer herramientas contra el narcotráfico (Chubut, Jujuy) y la respuesta a hechos trágicos (Santa Fe), lo que evidencia la diversidad de realidades y la centralidad de este tema en la agenda. El **desarrollo productivo** y la atracción de inversiones, particularmente en el sector minero (Jujuy), así como la **inversión en educación y cultura** (La Rioja, Río Negro), también son pilares de la comunicación. La gestión de **emergencias climáticas** y la asistencia en territorio (Salta, Santiago del Estero) destacan la presencia del Estado provincial ante situaciones críticas. En general, se observa un discurso que prioriza el 'Estado presente', la articulación interministerial, intermunicipal y, en ocasiones, con el sector privado o nacional, para generar oportunidades y mejorar la calidad de vida de los ciudadanos, haciendo hincapié en 'hechos' concretos.",
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "analisis": "El gobernador Axel Kicillof mantuvo una agenda de alta exposición mediática, confirmando una entrevista en C5N, un espacio televisivo con una clara línea opositora al gobierno nacional. Además, comunicó actividades de gestión relacionadas con la educación, como la entrega de equipamiento escolar, y la realización de una conferencia de prensa, buscando visibilizar la acción de su gobierno provincial.",
+            "cita_textual_relevante": "A las 20 hs voy a estar conversando con el @Gatosylvestre en @C5N."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "analisis": "Jorge Macri se mantuvo en un tono conciso y directo, respondiendo a lo que parece ser una crítica o un señalamiento, reafirmando su voluntad de continuar con las políticas implementadas, posiblemente en el marco de su agenda de 'ley y orden' que ha caracterizado su gestión en la Ciudad.",
+            "cita_textual_relevante": "Hola Adrián. Esto pasó hoy. Por suerte no te escuchamos. Vamos a seguir, abrazo."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "analisis": "El gobernador Raúl Jalil se enfocó en temas de desarrollo educativo y productivo. Retuiteó sobre un convenio con la UTDT para financiar el alojamiento de estudiantes en CABA, mostrando apoyo a la formación. Asimismo, respaldó la aprobación de la Ley de Biocombustibles, alineándose con las demandas del sector productivo provincial.",
+            "cita_textual_relevante": "Es hora de aprobar la Ley de Biocombustibles!"
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "analisis": "Leandro Zdero comunicó un avance significativo en materia habitacional en El Impenetrable chaqueño, destacando la entrega de nuevos hogares y elementos esenciales a familias. Su mensaje enfatiza el cumplimiento de promesas y la cercanía de la gestión con las comunidades, buscando generar arraigo y mejorar la calidad de vida.",
+            "cita_textual_relevante": "¡SUEÑOS CUMPLIDOS! 🏡 Nuevos hogares para familias chaqueñas en El Impenetrable."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "analisis": "Ignacio Torres mostró una postura activa en dos frentes clave: la lucha contra el narcotráfico y la asistencia a damnificados. Se reunió con autoridades nacionales para avanzar en la desfederalización del narcomenudeo, buscando dotar de más herramientas a la justicia provincial. Paralelamente, comunicó la entrega de viviendas a familias afectadas por incendios, prometiendo un 'nuevo comienzo' antes del invierno y demostrando una gestión cercana en emergencias.",
+            "cita_textual_relevante": "DESFEDERALIZACIÓN DEL NARCOMENUDEO: UNA HERRAMIENTA FUNDAMENTAL PARA COMBATIR EL NARCOTRÁFICO"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "analisis": "Martín Llaryora destacó una intensa agenda de obras de infraestructura. Anunció la pavimentación de un camino clave en el Valle de Calamuchita para mejorar la conectividad y el turismo, así como un ambicioso plan de modernización del alumbrado público en Córdoba Capital con tecnología LED. Su discurso resalta la eficiencia, la inversión provincial y la articulación entre el gobierno y la empresa estatal de energía, incluso en un contexto económico complejo.",
+            "cita_textual_relevante": "El trabajo conjunto entre Provincia y Municipio nos permite sostener obras estratégicas para los cordobeses, incluso en un contexto económico complejo."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "analisis": "Rogelio Frigerio informó sobre el progreso en la recuperación de rutas nacionales en Entre Ríos, destacando la habilitación de un nuevo tramo de la RN18. Su comunicación subraya la colaboración con el Gobierno Nacional para avanzar en infraestructura vial clave que impacta en la conectividad y el desarrollo provincial.",
+            "cita_textual_relevante": "Un avance concreto en una obra clave para la conectividad y el desarrollo de Entre Ríos."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "analisis": "Carlos Sadir se centró en el impulso a la inversión minera y el fortalecimiento de la seguridad fronteriza. Anunció la adhesión de una empresa al RIGI para un proyecto de litio y la instalación de un laboratorio en conjunto con CONICET para innovación tecnológica. Además, destacó la inauguración de nueva tecnología de control en el paso fronterizo de La Quiaca, mencionando la futura Zona Franca como motor de desarrollo comercial y turístico.",
+            "cita_textual_relevante": "impulsando a Jujuy como un polo de innovación y desarrollo tecnológico."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "analisis": "Ricardo Quintela enfocó su mensaje en la defensa y el fortalecimiento de la cultura y la educación pública. Presentó una nueva diplomatura en gestión cultural con becas, destacando el trabajo conjunto con las universidades públicas. Su postura es crítica ante el 'desfinanciamiento a nivel nacional', reafirmando la decisión provincial de invertir en estas áreas como herramientas para el desarrollo comunitario.",
+            "cita_textual_relevante": "En un contexto donde la cultura y la educación pública atraviesan un fuerte desfinanciamiento a nivel nacional, en La Rioja sostenemos una decisión clara, invertir en formación y en el trabajo conjunto con las universidades públicas."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "analisis": "Alfredo Cornejo comunicó avances en infraestructura vial con la repavimentación de una ruta clave en San Rafael, que impacta en la producción y el turismo. También destacó la entrega de viviendas, aunque reconociendo las dificultades a nivel nacional para el acceso a la casa propia, subrayando el esfuerzo de Mendoza por construir más viviendas que otras provincias.",
+            "cita_textual_relevante": "Somos los primeros en reconocer que hacemos menos de las que se necesitan, pero también más de las que hoy hace cualquier otra provincia."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "analisis": "Hugo Passalacqua celebró el 80 aniversario de Campo Grande, Misiones, participando de los festejos y rindiendo homenaje a los fundadores. Su mensaje destaca la resiliencia y el espíritu de construcción de la comunidad, reforzando la cercanía del gobierno provincial con sus municipios y el reconocimiento al trabajo de su gente.",
+            "cita_textual_relevante": "Cada vez que vuelvo la encuentro más linda y más viva. Eso es mérito de su gente que no se detiene y que, aun en las dificultades, sigue construyendo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "analisis": "Rolando Figueroa se enfocó en la inversión en infraestructura y desarrollo comunitario. Anunció la financiación de la Ruta 8 con un nuevo fideicomiso, mejoras en el sistema de agua en Rincón de los Sauces y más infraestructura en otras localidades. También destacó el apoyo al deporte a través de un programa de fortalecimiento de clubes, enfatizando su visión de 'ordenar para redistribuir' y 'defender Neuquén con obras que llegan a la gente'.",
+            "cita_textual_relevante": "Ordenamos para redistribuir: menos privilegios y más obras para la gente."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "analisis": "Alberto Weretilneck presentó una agenda diversificada de gestión. Anunció la licitación de obras de cloacas en General Roca, la apertura de inscripciones para garrafas en Bariloche, y la conmemoración de Malvinas, resaltando la unidad. Además, destacó la inversión en educación técnica orientada al sector energético y la mejora de servicios hospitalarios, proyectando un 'Río Negro en marcha' con rumbo claro.",
+            "cita_textual_relevante": "Malvinas nos une."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "analisis": "Gustavo Sáenz se mostró activamente en el territorio afectado por la crecida del río Bermejo en Morillo. Comunicó un 'operativo integral' de asistencia social, sanitaria y de infraestructura, enfatizando la 'presencia del Estado, cercano a la gente' y el trabajo con compromiso y responsabilidad ante la emergencia.",
+            "cita_textual_relevante": "Estamos donde más nos necesitan, con un Estado presente, cercano a la gente, trabajando con compromiso y responsabilidad."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "analisis": "Maximiliano Pullaro se refirió a un 'hecho trágico' ocurrido en la autopista, indicando una situación de seguridad crítica en Santa Fe que requiere una 'respuesta real' y 'firmeza ante la delincuencia'. Su tweet, aunque breve, transmite una reacción inmediata y la gravedad de los desafíos de seguridad que sigue enfrentando la provincia.",
+            "cita_textual_relevante": "El gobernador @maxipullaro expresó los primeros detalles del dispositivo interministerial sobre el hecho trágico ocurrido en la zona de la autopista y aseguró que el Gobierno actuará con firmeza ante la delincuencia."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "analisis": "Gerardo Zamora, a través de la cuenta de Gobierno de Santiago del Estero, informó sobre la coordinación de un operativo interministerial en La Cañada para gestionar la emergencia causada por 'fuertes lluvias'. El mensaje resalta el trabajo conjunto de diferentes áreas y equipos municipales para brindar asistencia en la zona afectada.",
+            "cita_textual_relevante": "coordinar el trabajo en el marco de la emergencia por las fuertes lluvias."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "analisis": "Osvaldo Jaldo celebró los resultados positivos en seguridad durante el primer trimestre del año, informando una 'baja importante de delitos' y homicidios, y avances en la lucha contra el narcotráfico. Su comunicación busca consolidar la seguridad como una política de Estado, reafirmando la presencia policial y la inversión en equipamiento y profesionalización.",
+            "cita_textual_relevante": "confirmamos una baja importante de delitos y una disminución de los homicidios en comparación con el mismo período de 2025."
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "El gobernador @maxipullaro expresó los primeros detalles del dispositivo interministerial sobre el hecho trágico ocurrido en la zona de la autopista y aseguró que el Gobierno actuará con firmeza ante la delincuencia. El ministro de Seguridad, Pablo Cococcioni, y el fiscal regional, Jorge Nessier, brindaron más información en conferencia de prensa.",
+        "por_que_es_clave": "Este tweet es clave porque, en el contexto de una provincia con serios problemas de seguridad como Santa Fe, la mención de un 'hecho trágico' en la autopista y la inmediata respuesta interministerial y con tono de 'firmeza' de parte del gobernador, refleja una situación de crisis que demanda atención urgente y una acción contundente, siendo un tema de alta sensibilidad y relevancia política actual."
+    },
+    "temas_calientes": [
+        "Infraestructura y Obra Pública",
+        "Seguridad Pública y Narcotráfico",
+        "Desarrollo Productivo y Atracción de Inversiones",
+        "Gestión de Emergencias Climáticas",
+        "Educación y Cultura"
+    ]
+}
