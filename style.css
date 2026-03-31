@@ -44,6 +44,29 @@ body {
     font-weight: 700;
 }
 
+.date-selector {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.date-selector label {
+    font-size: 0.85rem;
+    color: var(--texto-secundario);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.date-selector input {
+    background: #0f172a;
+    color: white;
+    border: 1px solid var(--borde);
+    padding: 8px 15px;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    outline: none;
+}
+
 /* DASHBOARD */
 .container { max-width: 1200px; margin: 30px auto; padding: 0 15px; }
 
@@ -62,7 +85,42 @@ body {
 }
 
 .resumen-card h2 { color: var(--azul-acento); margin-bottom: 15px; }
-#resumen-general { font-family: 'Merriweather', serif; font-size: 1.2rem; color: #cbd5e1; }
+
+/* =========================================
+   ESTILOS DE LA DOBLE VELOCIDAD DE LECTURA
+========================================= */
+
+.etiqueta-tiempo {
+    display: inline-block;
+    background-color: var(--fondo-oscuro);
+    color: var(--azul-acento);
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 5px 12px;
+    border-radius: 20px;
+    margin-bottom: 12px;
+    border: 1px solid var(--borde);
+}
+
+#resumen-ejecutivo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.15rem;
+    color: #f8fafc; /* Blanco bien brillante para que resalte */
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+#analisis-profundo {
+    font-family: 'Merriweather', serif;
+    font-size: 1.05rem; 
+    line-height: 1.8;   /* Buen espacio entre líneas para no cansar la vista */
+    color: #cbd5e1; /* Un gris un poco más apagado */
+    text-align: justify; 
+    padding-right: 10px;
+}
+
+/* TENDENCIAS Y TWEET DESTACADO */
+.temas-card h3, .destacado-card h3 { color: var(--azul-acento); margin-bottom: 15px; }
 
 .temas-card li { 
     background: #0f172a; 
@@ -71,9 +129,29 @@ body {
     border-left: 4px solid var(--azul-acento);
     font-size: 0.9rem;
     color: var(--texto-principal);
+    list-style: none; /* Le saca el puntito de la lista */
+}
+
+#tweet-destacado-texto {
+    font-style: italic;
+    font-size: 1.1rem;
+    color: #e2e8f0;
+    margin-bottom: 10px;
+    border-left: 3px solid var(--rojo-alerta);
+    padding-left: 15px;
+}
+
+#tweet-destacado-autor {
+    font-weight: bold;
+    color: var(--azul-acento);
+    display: block;
+    text-align: right;
 }
 
 /* GRILLA */
+.gobernadores-micro h2 { margin-bottom: 5px; color: var(--texto-principal); }
+.instruccion { color: var(--texto-secundario); margin-bottom: 20px; font-size: 0.9rem; }
+
 .grilla {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -106,7 +184,10 @@ body {
 .tarjeta-gob h4 { color: #fff; font-size: 1.1rem; }
 .tarjeta-gob p { color: var(--texto-secundario); font-size: 0.8rem; }
 
-/* MODAL */
+/* =========================================
+   VENTANA FLOTANTE (MODAL) Y FOTO INTERNA
+========================================= */
+
 #modal-detalle {
     position: fixed; 
     top: 0;
@@ -148,36 +229,7 @@ body {
 
 .close-btn:hover { color: var(--rojo-alerta); }
 
-/* Estilos internos del contenido (lo que ya tenías) */
-.analisis-ia-box { 
-    background: #0f172a; 
-    border-left: 5px solid var(--azul-acento); 
-    padding: 20px;
-    margin: 20px 0;
-    border-radius: 0 8px 8px 0;
-}
-
-.tweet-item { 
-    border-bottom: 1px solid var(--borde); 
-    padding: 15px 0;
-    color: #cbd5e1;
-    font-size: 0.95rem;
-}
-
-.tweet-date { color: var(--azul-acento); font-weight: bold; }
-
-/* Clase fundamental para ocultar/mostrar */
-.oculta { display: none !important; }
-
-/* --- AJUSTES PARA CELULARES --- */
-@media (max-width: 768px) {
-    .dashboard-macro { grid-template-columns: 1fr; }
-    .header-content h1 { font-size: 2.2rem; }
-    .header-content p { font-size: 0.8rem; }
-    .modal-content { width: 95%; padding: 20px; }
-}
 /* --- ARREGLO QUIRÚRGICO PARA LA FOTO Y EL TEXTO INTERNO --- */
-
 #modal-bio {
     display: flex; 
     align-items: center; 
@@ -210,4 +262,46 @@ body {
 #modal-bio p {
     font-size: 0.9rem;
     margin: 2px 0;
+}
+
+/* Estilos internos del análisis y tweets */
+.analisis-ia-box { 
+    background: #0f172a; 
+    border-left: 5px solid var(--azul-acento); 
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 0 8px 8px 0;
+}
+
+.analisis-ia-box h3, .crudo-box h3 {
+    color: var(--azul-acento);
+    margin-bottom: 10px;
+}
+
+.cita-box {
+    margin-top: 15px;
+    padding: 10px;
+    background: rgba(56, 189, 248, 0.1);
+    border-radius: 5px;
+    font-style: italic;
+    color: #e2e8f0;
+}
+
+.tweet-item { 
+    border-bottom: 1px solid var(--borde); 
+    padding: 15px 0;
+    color: #cbd5e1;
+    font-size: 0.95rem;
+}
+
+/* Clase fundamental para ocultar/mostrar el modal */
+.oculta { display: none !important; }
+
+/* --- AJUSTES PARA CELULARES --- */
+@media (max-width: 768px) {
+    .dashboard-macro { grid-template-columns: 1fr; }
+    .header-content h1 { font-size: 2.2rem; }
+    .header-content p { font-size: 0.8rem; }
+    .modal-content { width: 95%; padding: 20px; }
+    #modal-bio { flex-direction: column; text-align: center; }
 }
