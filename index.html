@@ -49,11 +49,19 @@
                         <li>Cargando temas...</li>
                     </ul>
                 </div>
-                <div class="card destacado-card">
-                    <h3>📌 El post del día</h3>
-                    <blockquote id="tweet-destacado-texto">"Cargando cita..."</blockquote>
-                    <cite id="tweet-destacado-autor">- </cite>
-                </div>
+              <div class="card destacado-card">
+    <h3>📌 El post del día</h3>
+    <div class="tweet-contenedor">
+        <blockquote id="tweet-destacado-texto">"Cargando cita..."</blockquote>
+        <cite id="tweet-destacado-autor">- </cite>
+        
+        <div class="acciones-rapidas">
+            <button class="btn-accion" onclick="copiarTexto('tweet-destacado-texto')" title="Copiar">📋</button>
+            <button class="btn-accion" onclick="compartirWhatsApp('tweet-destacado-texto')" title="Compartir en WhatsApp">💬</button>
+            <button class="btn-accion" onclick="compartirX('tweet-destacado-texto')" title="Compartir en X">𝕏</button>
+        </div>
+    </div>
+</div>
             </div>
         </section>
 
