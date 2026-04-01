@@ -1,31 +1,28 @@
-/* VARIABLES DE COLOR - MODO OSCURO ORIGINAL */
+/* VARIABLES DE COLOR - MODO OSCURO (Estilo Dashboard de Inteligencia) */
 :root {
-    --fondo-oscuro: #0f172a;
-    --fondo-tarjeta: #1e293b;
-    --azul-acento: #38bdf8;
-    --rojo-alerta: #ef4444;
-    --texto-principal: #f1f5f9;
-    --texto-secundario: #94a3b8;
-    --borde: #334155;
+    --fondo-oscuro: #0f172a;        /* Azul pizarra muy profundo */
+    --fondo-tarjeta: #1e293b;      /* Gris azulado para las cards */
+    --azul-acento: #38bdf8;         /* Azul brillante para links/títulos */
+    --rojo-alerta: #ef4444;         /* Rojo vibrante para el borde superior */
+    --texto-principal: #f1f5f9;     /* Blanco suave (no cansa la vista) */
+    --texto-secundario: #94a3b8;    /* Gris para bios y fechas */
+    --borde: #334155;               /* Bordes sutiles */
 }
 
-/* 1. UNIFICACIÓN TIPOGRÁFICA TOTAL */
-* { 
-    box-sizing: border-box; 
-    margin: 0; 
-    padding: 0; 
-    font-family: 'Inter', 'Roboto', sans-serif !important; 
-}
+/* 1. UNIFICACIÓN TIPOGRÁFICA GLOBAL (ADIÓS MERRIWEATHER EN BODY) */
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: inherit; }
 
 body {
+    /* Familia Sans-Serif Profesional como Inter */
+    font-family: 'Inter', 'Roboto', sans-serif;
     background-color: var(--fondo-oscuro);
     color: var(--texto-principal);
     line-height: 1.6;
 }
 
-/* HEADER - Estilo institucional "Bold" */
+/* HEADER */
 .top-bar {
-    background-color: #020617;
+    background-color: #020617; /* Casi negro para el header */
     color: #ffffff;
     padding: 35px 20px;
     display: flex;
@@ -36,18 +33,33 @@ body {
 }
 
 .header-content h1 { 
-    font-size: 2.8rem; 
+    /* 2. HEADER SANS-SERIF PROFESIONAL */
+    font-size: 2.8rem; /* Ajustado ligeramente para sans-serif */
     letter-spacing: -1.5px;
     font-weight: 800; /* Peso extra para jerarquía */
 }
 
 .header-content p { 
-    font-size: 0.9rem; 
+    font-size: 0.9rem; /* Ajustado ligeramente */
     text-transform: uppercase;
     letter-spacing: 2.5px;
     color: var(--azul-acento);
     font-weight: 700;
     margin-top: 5px;
+}
+
+.date-selector {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.date-selector label {
+    font-size: 0.75rem; /* Ajustado */
+    color: var(--texto-secundario);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .date-selector input {
@@ -56,25 +68,13 @@ body {
     border: 1px solid var(--borde);
     padding: 8px 15px;
     border-radius: 8px;
+    outline: none;
+    font-size: 0.9rem;
     font-weight: 500;
 }
 
-/* BANNER PATROCINADORES */
-.banner-sponsors {
-    background: rgba(30, 41, 59, 0.3);
-    padding: 12px 0;
-    border-bottom: 1px solid var(--borde);
-    text-align: center;
-    margin-bottom: 25px;
-    font-size: 0.7rem;
-    color: var(--texto-secundario);
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    font-weight: 600;
-}
-
-/* DASHBOARD LAYOUT */
-.container { max-width: 1250px; margin: 30px auto; padding: 0 15px; }
+/* DASHBOARD */
+.container { max-width: 1200px; margin: 30px auto; padding: 0 15px; }
 
 .dashboard-macro {
     display: grid;
@@ -92,15 +92,18 @@ body {
 
 .resumen-card h2 { color: var(--azul-acento); margin-bottom: 18px; font-weight: 700; }
 
-/* AJUSTES DE LECTURA (ADIÓS SERIF) */
+/* =========================================
+   ESTILOS DE LA DOBLE VELOCIDAD DE LECTURA
+========================================= */
+
 .etiqueta-tiempo {
     display: inline-block;
-    background-color: #0f172a;
+    background-color: #0f172a; /* Fondo más profundo */
     color: var(--azul-acento);
-    font-size: 0.7rem;
+    font-size: 0.7rem; /* Ajustado */
     font-weight: 700;
     padding: 4px 10px;
-    border-radius: 4px;
+    border-radius: 4px; /* Menos redondeado para estilo técnico */
     margin-bottom: 15px;
     border: 1px solid var(--borde);
     text-transform: uppercase;
@@ -109,50 +112,64 @@ body {
 
 #resumen-ejecutivo {
     font-size: 1.1rem;
-    color: #ffffff;
+    color: #ffffff; /* Blanco bien brillante para que resalte */
     font-weight: 400;
+    line-height: 1.5;
     margin-bottom: 20px;
 }
 
 #analisis-profundo {
+    /* 3. ANÁLISIS SANS-SERIF PROFESIONAL (ADIÓS MERRIWEATHER Y JUSTIFY) */
     font-size: 1rem; 
-    line-height: 1.7; /* Más aire entre líneas */
-    color: #cbd5e1;
+    line-height: 1.7; /* Buen espacio entre líneas para no cansar la vista */
+    color: #cbd5e1; /* Un gris un poco más apagado */
     text-align: left; /* Cambiado de justify a left para evitar huecos */
-    max-height: 400px;
-    overflow-y: auto;
-    padding-right: 15px;
+    padding-right: 10px;
 }
 
-/* Scrollbar estilizado */
-#analisis-profundo::-webkit-scrollbar { width: 5px; }
-#analisis-profundo::-webkit-scrollbar-thumb { background: var(--azul-acento); border-radius: 10px; }
+/* TENDENCIAS Y TWEET DESTACADO */
+.temas-card h3, .destacado-card h3 { color: var(--azul-acento); margin-bottom: 15px; font-weight: 700;}
 
-/* TENDENCIAS Y TWEET (Panel derecho) */
 .temas-card li { 
     background: #0f172a; 
     margin-bottom: 10px; 
     padding: 10px 14px; 
     border-left: 3px solid var(--azul-acento);
     font-size: 0.85rem;
+    color: var(--texto-principal);
     font-weight: 500;
-    list-style: none;
+    list-style: none; /* Le saca el puntito de la lista */
     border-radius: 0 6px 6px 0;
 }
 
 #tweet-destacado-texto {
+    /* 4. POST DEL DÍA LIMPIO (SANS-SERIF, NO ITALIC) */
     font-size: 1.05rem;
     color: #e2e8f0;
     margin-bottom: 15px;
     border-left: 3px solid var(--rojo-alerta);
     padding-left: 15px;
+    font-style: normal; /* Cambiado de italic */
     line-height: 1.5;
 }
 
-/* GRILLA GOBERNADORES */
+#tweet-destacado-autor {
+    font-weight: 700;
+    color: var(--azul-acento);
+    display: block;
+    text-align: right;
+    font-size: 0.95rem;
+}
+
+/* =========================================
+   GRILLA (MANTENIDA EXACTAMENTE IGUAL)
+========================================= */
+.gobernadores-micro h2 { margin-bottom: 5px; color: var(--texto-principal); font-weight: 700;}
+.instruccion { color: var(--texto-secundario); margin-bottom: 20px; font-size: 0.9rem; }
+
 .grilla {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 20px;
 }
 
@@ -163,29 +180,146 @@ body {
     cursor: pointer;
     border-radius: 12px;
     border: 1px solid var(--borde);
-    transition: all 0.25s ease;
+    transition: all 0.3s ease;
 }
 
-.tarjeta-gob:hover { transform: translateY(-5px); border-color: var(--azul-acento); background: #263449; }
-.tarjeta-gob h4 { font-weight: 700; margin-top: 10px; }
+.tarjeta-gob:hover { 
+    transform: translateY(-8px); 
+    border-color: var(--azul-acento);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+}
 
-/* MODAL / VENTANA FLOTANTE */
+.tarjeta-gob img { 
+    width: 90px; height: 90px; 
+    border-radius: 50%; 
+    border: 3px solid var(--borde); 
+    margin-bottom: 10px;
+}
+
+.tarjeta-gob h4 { color: #fff; font-size: 1.1rem; font-weight: 700;}
+.tarjeta-gob p { color: var(--texto-secundario); font-size: 0.8rem; }
+
+/* =========================================
+   VENTANA FLOTANTE (MANTENIDA EXACTAMENTE IGUAL)
+========================================= */
+
+#modal-detalle {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.9); /* Fondo negro traslúcido */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999; 
+}
+
+/* La caja donde está la info del gobernador */
 .modal-content {
     background: #1e293b;
-    padding: 35px; border-radius: 15px;
+    color: var(--texto-principal);
+    width: 90%;
+    max-width: 850px;
+    max-height: 90vh;
+    padding: 35px;
+    border-radius: 15px;
     border: 1px solid var(--azul-acento);
+    position: relative;
+    overflow-y: auto; /* Permite scroll si el análisis es largo */
+    box-shadow: 0 20px 50px rgba(0,0,0,0.8);
 }
 
-.close-btn { font-weight: 300; }
+/* Botón de cerrar (la X) */
+.close-btn {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 2.5rem;
+    cursor: pointer;
+    color: var(--texto-secundario);
+    transition: 0.3s;
+    font-weight: 300; /* Más fina para que sea profesional */
+}
 
-#modal-bio img { border: 2px solid var(--azul-acento); }
+.close-btn:hover { color: var(--rojo-alerta); }
 
-.tweet-item { border-bottom: 1px solid #334155; padding: 12px 0; font-size: 0.9rem; }
+/* --- ARREGLO QUIRÚRGICO PARA LA FOTO Y EL TEXTO INTERNO --- */
+#modal-bio {
+    display: flex; 
+    align-items: center; 
+    gap: 20px; 
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--borde);
+}
 
+/* Limitamos la foto a un tamaño humano */
+#modal-bio img {
+    width: 100px !important; /* Forzamos el tamaño */
+    height: 100px !important;
+    border-radius: 50% !important; /* La hacemos redonda */
+    object-fit: cover;
+    border: 3px solid var(--azul-acento);
+    flex-shrink: 0; /* Para que no se aplaste */
+}
+
+#modal-bio div {
+    flex: 1;
+}
+
+#modal-bio h2 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+    color: #fff;
+    font-weight: 700;
+}
+
+#modal-bio p {
+    font-size: 0.9rem;
+    margin: 2px 0;
+}
+
+/* Estilos internos del análisis y tweets */
+.analisis-ia-box { 
+    background: #0f172a; 
+    border-left: 5px solid var(--azul-acento); 
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 0 8px 8px 0;
+}
+
+.analisis-ia-box h3, .crudo-box h3 {
+    color: var(--azul-acento);
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.cita-box {
+    margin-top: 15px;
+    padding: 10px;
+    background: rgba(56, 189, 248, 0.1);
+    border-radius: 5px;
+    font-style: italic;
+    color: #e2e8f0;
+}
+
+.tweet-item { 
+    border-bottom: 1px solid var(--borde); 
+    padding: 15px 0;
+    color: #cbd5e1;
+    font-size: 0.9rem; /* Ajustado */
+}
+
+/* Clase fundamental para ocultar/mostrar el modal */
 .oculta { display: none !important; }
 
-/* RESPONSIVE */
+/* --- AJUSTES PARA CELULARES --- */
 @media (max-width: 768px) {
     .dashboard-macro { grid-template-columns: 1fr; }
     .header-content h1 { font-size: 2rem; }
+    .header-content p { font-size: 0.8rem; }
+    .modal-content { width: 95%; padding: 20px; }
+    #modal-bio { flex-direction: column; text-align: center; }
 }
