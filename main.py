@@ -14,12 +14,10 @@ GEMINI_KEY = os.environ.get('GEMINI_API_KEY')
 client = genai.Client(api_key=GEMINI_KEY)
 
 # --- 🕒 BLINDAJE HORARIO (ZONA ARGENTINA UTC-3) ---
-# Esto garantiza que el robot siempre opere con fecha y hora de Argentina, 
-# sin importar dónde estén los servidores de GitHub.
 zona_ar = timezone(timedelta(hours=-3))
 ahora = datetime.now(zona_ar)
-fecha_hoy_str = ahora.strftime('%Y-%m-%d') # Formato para nombrar los archivos (ej: 2026-03-30)
-fecha_pantalla = ahora.strftime('%d/%m/%Y') # Formato para hablarle a Gemini
+fecha_hoy_str = ahora.strftime('%Y-%m-%d') 
+fecha_pantalla = ahora.strftime('%d/%m/%Y') 
 hora_corte = ahora.strftime('%H:%M')
 
 def obtener_tweets_rapidapi(handle):
@@ -41,7 +39,6 @@ def obtener_tweets_rapidapi(handle):
             for t in lista:
                 # 1. ¿Es un Retweet?
                 if 'retweeted_status' in t:
-                    # Buceamos en el tweet original para que no lo corte
                     rt_obj = t['retweeted_status']
                     texto = rt_obj.get('full_text') or rt_obj.get('text')
                     prefijo = "RT: "
@@ -68,10 +65,40 @@ def obtener_tweets_rapidapi(handle):
         print(f"Error buscando a @{handle}: {e}")
         return []
 
+def ejecutar_monitoreo():
+    try:
+        print(f"Iniciando radar para la fecha: {fecha_hoy_str} a las {hora_corte} hs (Hora Argentina)")
+        
+        # --- ABRIR LA LISTA DE GOBERNADORES ---
+        with open('gobernadores.json', 'r', encoding='utf-8') as f:
+            gobernadores = json.load(f)
+
+        handles = [g['usuario_x'] for g in gobernadores]
+
+        print(f"--- Iniciando extracción con RapidAPI para {len(handles)} perfiles ---")
+
+        data_context = ""
+        diccionario_crudo = {} # Para el archivo histórico
+
+        # --- CICLO DE RECOLECCIÓN ---
+        for handle in handles:
+            print(f"Buscando tweets de @{handle}...")
+            tweets = obtener_tweets_rapidapi(handle)
+            
+            diccionario_crudo[handle] = tweets
+
+            for t in tweets:
+                data_context += f"[@{handle}]: {t}\n---\n"
+            
+            # 5 segundos de espera obligatorios para no saturar RapidAPI
+            time.sleep(5) 
+
+        if not data_context:
+            print("No se encontraron tweets nuevos hoy.")
+            return
+
         # --- GUARDAR EL ARCHIVO CRUDO ---
         os.makedirs('data', exist_ok=True)
-        
-        # Usamos la fecha blindada de Argentina para el nombre del archivo
         ruta_crudo = f'data/{fecha_hoy_str}_crudo.json'
         with open(ruta_crudo, 'w', encoding='utf-8') as f:
             json.dump(diccionario_crudo, f, ensure_ascii=False, indent=4)
@@ -120,8 +147,7 @@ TWEETS A ANALIZAR:
 """
 
         print("Enviando los perfiles a Gemini...")
-        time.sleep(10)
-
+        
         # 4. Enviar a Gemini (Forzando la salida a JSON puro)
         response = client.models.generate_content(
             model="gemini-2.5-flash",
@@ -142,7 +168,6 @@ TWEETS A ANALIZAR:
             resumen_data = json.loads(raw_text)
         except json.JSONDecodeError as e:
             print(f"❌ Error de sintaxis en el JSON de Gemini: {e}")
-            # Guardamos lo que devolvió la IA en un archivo de error para investigar
             with open(f'data/{fecha_hoy_str}_ERROR_IA.txt', 'w', encoding='utf-8') as f:
                 f.write(raw_text)
             print(f"⚠️ Se guardó el error en data/{fecha_hoy_str}_ERROR_IA.txt para revisión.")
