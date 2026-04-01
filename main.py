@@ -39,20 +39,23 @@ def obtener_tweets_rapidapi(handle):
         
         def procesar_lista(lista):
             for t in lista:
-                # 1. Intentamos capturar el texto (el propio o el del tuit original si es RT)
-                texto = t.get('text') or t.get('retweeted_status', {}).get('text')
+                # 1. ¿Es un Retweet?
+                if 'retweeted_status' in t:
+                    # Buceamos en el tweet original para que no lo corte
+                    rt_obj = t['retweeted_status']
+                    texto = rt_obj.get('full_text') or rt_obj.get('text')
+                    prefijo = "RT: "
+                else:
+                    # Si es un tweet propio, exigimos el "full_text" para no perder hilos
+                    texto = t.get('full_text') or t.get('text')
+                    prefijo = ""
                 
-                # 2. Solo procesamos si encontramos ALGÚN texto real y no es None
+                # 2. Solo procesamos si hay texto real
                 if texto and isinstance(texto, str) and texto.strip():
                     fecha = t.get('created_at', 'Fecha desconocida')
-                    
-                    # Marcamos si es un RT para que el análisis de Gemini sea preciso
-                    prefijo = "RT: " if 'retweeted_status' in t or texto.startswith("RT @") else ""
-                    
                     tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto}")
                 
-                # Levantamos el techo a 40 para no perdernos nada de la rosca electoral
-                if len(tweets_texto) >= 40: 
+                if len(tweets_texto) >= 40:
                     break
 
         if isinstance(data, list):
@@ -64,37 +67,6 @@ def obtener_tweets_rapidapi(handle):
     except Exception as e:
         print(f"Error buscando a @{handle}: {e}")
         return []
-
-def ejecutar_monitoreo():
-    try:
-        print(f"Iniciando radar para la fecha: {fecha_hoy_str} a las {hora_corte} hs (Hora Argentina)")
-        
-        with open('gobernadores.json', 'r', encoding='utf-8') as f:
-            gobernadores = json.load(f)
-
-        # Leemos la lista completa de gobernadores
-        handles = [g['usuario_x'] for g in gobernadores]
-
-        print(f"--- Iniciando extracción con RapidAPI para {len(handles)} perfiles ---")
-
-        data_context = ""
-        diccionario_crudo = {} # Para el archivo histórico
-
-        for handle in handles:
-            print(f"Buscando tweets de @{handle}...")
-            tweets = obtener_tweets_rapidapi(handle)
-            
-            diccionario_crudo[handle] = tweets
-
-            for t in tweets:
-                data_context += f"[@{handle}]: {t}\n---\n"
-            
-            # 5 segundos de espera obligatorios para no saturar RapidAPI
-            time.sleep(5) 
-
-        if not data_context:
-            print("No se encontraron tweets nuevos hoy.")
-            return
 
         # --- GUARDAR EL ARCHIVO CRUDO ---
         os.makedirs('data', exist_ok=True)
