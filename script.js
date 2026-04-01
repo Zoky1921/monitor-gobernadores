@@ -205,3 +205,30 @@ function compartirX(idElemento) {
     const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`;
     window.open(url, '_blank');
 }
+/* =========================================
+   MOTOR DEL SEMÁFORO DE CLIMA POLÍTICO
+========================================= */
+function actualizarSemaforo(estadoClima) {
+    const semaforo = document.getElementById('semaforo-clima');
+    
+    // Primero, limpiamos cualquier color que tuviera antes
+    semaforo.classList.remove('gris', 'rojo', 'amarillo', 'verde');
+
+    // Leemos el estado que nos manda Python (lo pasamos a mayúsculas por las dudas)
+    const estado = estadoClima ? estadoClima.toUpperCase() : "DESCONOCIDO";
+
+    // Asignamos el color según el nivel de tensión
+    if (estado === "TENSO" || estado === "NEGATIVO") {
+        semaforo.classList.add('rojo');
+        semaforo.title = "Clima Político: TENSO";
+    } else if (estado === "NEUTRAL" || estado === "MODERADO") {
+        semaforo.classList.add('amarillo');
+        semaforo.title = "Clima Político: NEUTRAL / MODERADO";
+    } else if (estado === "POSITIVO" || estado === "COOPERATIVO") {
+        semaforo.classList.add('verde');
+        semaforo.title = "Clima Político: POSITIVO / COOPERATIVO";
+    } else {
+        semaforo.classList.add('gris'); // Si no hay dato, queda apagado
+        semaforo.title = "Clima Político: Sin datos";
+    }
+}
