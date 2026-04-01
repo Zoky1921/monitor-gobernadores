@@ -307,3 +307,33 @@ body {
     .modal-content { width: 95%; padding: 20px; }
     #modal-bio { flex-direction: column; text-align: center; }
 }
+/* =========================================
+   BOTONERAS DE ACCIÓN RÁPIDA (COMPARTIR/COPIAR)
+========================================= */
+.acciones-rapidas {
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
+    justify-content: flex-end;
+}
+
+.btn-accion {
+    background: transparent;
+    border: 1px solid var(--borde);
+    color: var(--texto-secundario);
+    border-radius: 6px;
+    padding: 6px 12px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-accion:hover, .btn-accion:active {
+    background: var(--azul-acento);
+    color: var(--fondo-oscuro);
+    border-color: var(--azul-acento);
+    transform: scale(1.05);
+}
