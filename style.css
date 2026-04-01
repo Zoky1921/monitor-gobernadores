@@ -337,3 +337,31 @@ body {
     border-color: var(--azul-acento);
     transform: scale(1.05);
 }
+/* =========================================
+   SEMÁFORO DE CLIMA POLÍTICO
+========================================= */
+.semaforo {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    display: inline-block;
+    border: 2px solid var(--fondo-oscuro); /* Para que resalte sobre el fondo */
+    transition: all 0.3s ease;
+}
+
+/* Los 3 estados que luego activaremos con JavaScript */
+.semaforo.rojo { 
+    background-color: #ef4444; 
+    box-shadow: 0 0 12px rgba(239, 68, 68, 0.6); 
+}
+.semaforo.amarillo { 
+    background-color: #f59e0b; 
+    box-shadow: 0 0 12px rgba(245, 158, 11, 0.6); 
+}
+.semaforo.verde { 
+    background-color: #10b981; 
+    box-shadow: 0 0 12px rgba(16, 185, 129, 0.6); 
+}
+.semaforo.gris { 
+    background-color: #475569; /* Estado "cargando" o neutral */
+}
