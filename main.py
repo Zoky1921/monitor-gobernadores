@@ -36,17 +36,29 @@ def obtener_tweets_rapidapi(handle):
         data = response.json()
         
         tweets_texto = []
-        # Capturamos hasta 30 tweets y les pegamos la fecha original
+        
+        def procesar_lista(lista):
+            for t in lista:
+                # 1. Intentamos capturar el texto (el propio o el del tuit original si es RT)
+                texto = t.get('text') or t.get('retweeted_status', {}).get('text')
+                
+                # 2. Solo procesamos si encontramos ALGÚN texto real y no es None
+                if texto and isinstance(texto, str) and texto.strip():
+                    fecha = t.get('created_at', 'Fecha desconocida')
+                    
+                    # Marcamos si es un RT para que el análisis de Gemini sea preciso
+                    prefijo = "RT: " if 'retweeted_status' in t or texto.startswith("RT @") else ""
+                    
+                    tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto}")
+                
+                # Levantamos el techo a 40 para no perdernos nada de la rosca electoral
+                if len(tweets_texto) >= 40: 
+                    break
+
         if isinstance(data, list):
-            for t in data[:30]: 
-                if 'text' in t:
-                    fecha = t.get('created_at', 'Fecha desconocida')
-                    tweets_texto.append(f"(Publicado: {fecha}) {t['text']}")
+            procesar_lista(data)
         elif isinstance(data, dict) and 'timeline' in data:
-            for t in data['timeline'][:30]:
-                if 'text' in t:
-                    fecha = t.get('created_at', 'Fecha desconocida')
-                    tweets_texto.append(f"(Publicado: {fecha}) {t['text']}")
+            procesar_lista(data['timeline'])
                     
         return tweets_texto
     except Exception as e:
