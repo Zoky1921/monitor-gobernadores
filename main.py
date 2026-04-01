@@ -104,7 +104,7 @@ def ejecutar_monitoreo():
             json.dump(diccionario_crudo, f, ensure_ascii=False, indent=4)
         print(f"✅ Archivo crudo guardado: {ruta_crudo}")
 
-        # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA ---
+       # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA ---
         prompt = f"""
 Eres un Analista Político Senior y Consultor Estratégico experto en dinámicas federales en Argentina.
 Tu tarea es analizar los siguientes tweets crudos de los 24 gobernadores provinciales. Hoy es {fecha_pantalla} y son las {hora_corte} hs (Hora de Buenos Aires, GMT-3). Cada tweet incluye su fecha original de publicación.
@@ -118,12 +118,14 @@ REGLAS DE ANÁLISIS ESTRATÉGICO:
 4. JERARQUÍA DE TENDENCIAS: Extrae un máximo de 5 tendencias principales que resuman la agenda federal de hoy.
 5. TWEET DESTACADO ("El post del día"): Selecciona la cita más fuerte o de mayor impacto institucional. 
 6. POSTURA POLÍTICA (Por gobernador): Define en máximo 3 líneas la postura actual de cada gobernador activo basándote estrictamente en sus textos.
-7. SEGURIDAD JSON: Es CRÍTICO que todas las comillas dobles dentro de los textos (citas, frases, análisis) estén correctamente escapadas con barra invertida (\\") para no romper el formato JSON. No incluyas saltos de línea literales dentro de los valores de texto.
+7. SEMÁFORO DE CLIMA POLÍTICO (NUEVO): Evalúa el nivel de conflictividad general de la jornada (Nación vs Provincias o entre pares). Define el clima general con UNA SOLA PALABRA exacta: "TENSO", "NEUTRAL" o "POSITIVO".
+8. SEGURIDAD JSON: Es CRÍTICO que todas las comillas dobles dentro de los textos (citas, frases, análisis) estén correctamente escapadas con barra invertida (\\") para no romper el formato JSON. No incluyas saltos de línea literales dentro de los valores de texto.
 
 FORMATO DE SALIDA OBLIGATORIO:
 Responde ÚNICAMENTE con un objeto JSON válido. La estructura exacta debe ser:
 
 {{
+    "clima_general": "TENSO",
     "resumen_ejecutivo": "Texto del resumen corto de 1 minuto aquí...",
     "analisis_profundo": "Texto del análisis extenso y detallado de 3 minutos aquí...",
     "temas_calientes": ["Tendencia 1", "Tendencia 2", "Tendencia 3", "Tendencia 4", "Tendencia 5"],
