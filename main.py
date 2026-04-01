@@ -107,6 +107,7 @@ REGLAS DE ANÁLISIS ESTRATÉGICO:
 4. JERARQUÍA DE TENDENCIAS: Extrae un máximo de 5 tendencias principales que resuman la agenda federal de hoy.
 5. TWEET DESTACADO ("El post del día"): Selecciona la cita más fuerte o de mayor impacto institucional. 
 6. POSTURA POLÍTICA (Por gobernador): Define en máximo 3 líneas la postura actual de cada gobernador activo basándote estrictamente en sus textos.
+7. SEGURIDAD JSON: Es CRÍTICO que todas las comillas dobles dentro de los textos (citas, frases, análisis) estén correctamente escapadas con barra invertida (\\") para no romper el formato JSON. No incluyas saltos de línea literales dentro de los valores de texto.
 
 FORMATO DE SALIDA OBLIGATORIO:
 Responde ÚNICAMENTE con un objeto JSON válido. La estructura exacta debe ser:
@@ -146,7 +147,22 @@ TWEETS A ANALIZAR:
             )
         )
 
-        resumen_data = json.loads(response.text)
+        # --- LIMPIEZA DE SEGURIDAD PARA EL JSON ---
+        raw_text = response.text.strip()
+        
+        # Si por alguna razón Gemini mete las etiquetas de markdown ```json, las volamos
+        if raw_text.startswith("```"):
+            raw_text = raw_text.replace("```json", "").replace("```", "").strip()
+        
+        try:
+            resumen_data = json.loads(raw_text)
+        except json.JSONDecodeError as e:
+            print(f"❌ Error de sintaxis en el JSON de Gemini: {e}")
+            # Guardamos lo que devolvió la IA en un archivo de error para investigar
+            with open(f'data/{fecha_hoy_str}_ERROR_IA.txt', 'w', encoding='utf-8') as f:
+                f.write(raw_text)
+            print(f"⚠️ Se guardó el error en data/{fecha_hoy_str}_ERROR_IA.txt para revisión.")
+            raise e
 
         # 5. Guardar el Análisis
         ruta_analisis = f'data/{fecha_hoy_str}_analisis.json'
