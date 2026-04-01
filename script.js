@@ -170,3 +170,38 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
     
     modal.classList.remove("oculta");
 }
+/* =========================================
+   FUNCIONES DE ACCIÓN RÁPIDA (COMPARTIR)
+========================================= */
+
+// 1. Copiar al portapapeles
+function copiarTexto(idElemento) {
+    const texto = document.getElementById(idElemento).innerText;
+    
+    // API moderna del portapapeles
+    navigator.clipboard.writeText(texto).then(() => {
+        // Podés cambiar este alert por algo más lindo después si querés
+        alert("¡Cita copiada al portapapeles!"); 
+    }).catch(err => {
+        console.error('Error al copiar: ', err);
+    });
+}
+
+// 2. Compartir en WhatsApp
+function compartirWhatsApp(idElemento) {
+    const texto = document.getElementById(idElemento).innerText;
+    // Armamos el mensaje sumándole la marca del proyecto
+    const mensaje = `Mirá este textual en El Radar Federal:\n\n${texto}\n\n👉 radarfederal.com.ar`;
+    const url = `https://wa.me/?text=${encodeURIComponent(mensaje)}`;
+    window.open(url, '_blank');
+}
+
+// 3. Compartir en X (Twitter)
+function compartirX(idElemento) {
+    const texto = document.getElementById(idElemento).innerText;
+    // Armamos el tweet. Ojo con el límite de caracteres (X corta en 280)
+    let tweetTexto = `"${texto}"\n\n📊 Vía El Radar Federal`;
+    
+    const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`;
+    window.open(url, '_blank');
+}
