@@ -365,3 +365,34 @@ body {
 .semaforo.gris { 
     background-color: #475569; /* Estado "cargando" o neutral */
 }
+/* =========================================
+   BUSCADOR DE GOBERNADORES
+========================================= */
+.controles-grilla {
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+#buscador-gobernadores {
+    width: 100%;
+    max-width: 500px;
+    background-color: var(--fondo-oscuro);
+    color: var(--texto-principal);
+    border: 1px solid var(--borde);
+    padding: 12px 20px;
+    border-radius: 30px;
+    font-size: 1rem;
+    outline: none;
+    transition: all 0.3s ease;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#buscador-gobernadores::placeholder {
+    color: #64748b;
+}
+
+#buscador-gobernadores:focus {
+    border-color: var(--azul-acento);
+    box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.15);
+}
