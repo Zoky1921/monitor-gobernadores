@@ -128,7 +128,7 @@ body {
     text-align: left; /* Alineado a la izquierda por usabilidad web */
     
     /* EL SCROLL RECUPERADO */
-    max-height: 450px;    
+    max-height: 220px;    
     overflow-y: auto;     
     padding-right: 15px;  
 }
