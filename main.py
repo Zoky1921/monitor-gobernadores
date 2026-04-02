@@ -119,8 +119,7 @@ REGLAS DE ANÁLISIS ESTRATÉGICO:
 5. TWEET DESTACADO ("El post del día"): Selecciona la cita más fuerte o de mayor impacto institucional. 
 6. POSTURA POLÍTICA (Por gobernador): Define en máximo 3 líneas la postura actual de cada gobernador activo basándote estrictamente en sus textos.
 7. SEMÁFORO DE CLIMA POLÍTICO (NUEVO): Evalúa el nivel de conflictividad general de la jornada (Nación vs Provincias o entre pares). Define el clima general con UNA SOLA PALABRA exacta: "TENSO", "NEUTRAL" o "POSITIVO".
-8. SEGURIDAD JSON: Es CRÍTICO que todas las comillas dobles dentro de los textos (citas, frases, análisis) estén correctamente escapadas con barra invertida (\\") para no romper el formato JSON. No incluyas saltos de línea literales dentro de los valores de texto.
-
+8. SEGURIDAD JSON (CRÍTICA): Tienes ESTRICTAMENTE PROHIBIDO usar cualquier tipo de comillas (ni dobles, ni simples) dentro del contenido de tus respuestas. Redacta todos los resúmenes, análisis y citas textuales sin usar comillas en absoluto. Las únicas comillas permitidas en toda tu respuesta son las que estructuran las claves y valores del formato JSON.
 FORMATO DE SALIDA OBLIGATORIO:
 Responde ÚNICAMENTE con un objeto JSON válido. La estructura exacta debe ser:
 
