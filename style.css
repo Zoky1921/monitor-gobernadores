@@ -391,6 +391,35 @@ body {
 #buscador-gobernadores::placeholder {
     color: #64748b;
 }
+/* =========================================
+   COMPORTAMIENTO GENERAL (SCROLL SUAVE)
+========================================= */
+html {
+    scroll-behavior: smooth; /* Hace que el ancla baje patinando, no de golpe */
+}
+
+/* =========================================
+   BOTÓN CALL TO ACTION (ENCABEZADO)
+========================================= */
+.btn-cta {
+    display: inline-block;
+    background-color: var(--azul-acento);
+    color: var(--fondo-oscuro);
+    padding: 10px 24px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.95rem;
+    margin-top: 15px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(56, 189, 248, 0.3);
+}
+
+.btn-cta:hover {
+    transform: translateY(-2px); /* Saltito al pasar el mouse */
+    box-shadow: 0 6px 20px rgba(56, 189, 248, 0.5);
+    background-color: #7dd3fc; /* Se ilumina un poco más */
+}
 
 #buscador-gobernadores:focus {
     border-color: var(--azul-acento);
