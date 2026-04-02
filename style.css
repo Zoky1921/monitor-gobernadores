@@ -445,3 +445,72 @@ html {
     box-shadow: 0 6px 20px rgba(56, 189, 248, 0.5);
     background-color: #7dd3fc; 
 }
+/* =========================================
+   FOOTER / ABOUT SECTION
+========================================= */
+.site-footer {
+    background-color: #020617; /* Mismo tono ultra-oscuro que el encabezado superior */
+    border-top: 1px solid var(--borde);
+    padding: 50px 20px;
+    margin-top: 60px; /* Le da aire respecto a la grilla de fotos */
+    color: var(--texto-secundario);
+    font-size: 0.9rem;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+}
+
+.footer-about {
+    flex: 1.5; /* Le da un poquito más de ancho al texto descriptivo */
+}
+
+.footer-credits {
+    flex: 1;
+    text-align: right; /* Alineamos los créditos a la derecha como en tu captura */
+}
+
+.site-footer h4 {
+    color: var(--texto-principal);
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+.site-footer p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.site-footer a {
+    color: var(--azul-acento);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.site-footer a:hover {
+    color: #7dd3fc;
+    text-decoration: underline;
+}
+
+.creditos-autor {
+    font-weight: bold;
+    color: #cbd5e1;
+}
+
+/* Ajuste para celulares: que las columnas se apilen y se centren */
+@media (max-width: 768px) {
+    .footer-content {
+        flex-direction: column;
+        gap: 30px;
+    }
+    
+    .footer-credits {
+        text-align: left; /* En celular queda mejor todo alineado a la izquierda */
+    }
+}
