@@ -29,14 +29,20 @@
             <div class="card resumen-card">
                 <h2>🔍 Clima Político del Día</h2>
                 
-                <div class="resumen-rapido">
+              <div class="resumen-rapido">
     <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
         <span class="etiqueta-tiempo" style="margin-bottom: 0;">⏱️ Análisis rápido</span>
         <span id="semaforo-clima" class="semaforo gris" title="Clima Político"></span>
     </div>
-    <p id="resumen-ejecutivo"><i>Buscando resumen ejecutivo...</i></p>
-</div>
-                
+    
+    <p id="resumen-ejecutivo" style="margin-bottom: 10px;"><i>Buscando análisis rápido...</i></p>
+    
+    <div class="acciones-rapidas" style="justify-content: flex-end; border-bottom: 1px solid #334155; padding-bottom: 15px; margin-bottom: 25px;">
+        <button class="btn-accion" onclick="copiarTexto('resumen-ejecutivo')" title="Copiar Análisis">📋</button>
+        <button class="btn-accion" onclick="compartirWhatsApp('resumen-ejecutivo')" title="Compartir en WhatsApp">💬</button>
+        <button class="btn-accion" onclick="compartirX('resumen-ejecutivo')" title="Compartir en X">𝕏</button>
+    </div>
+</div>  
                 <hr style="border: 0; border-top: 1px solid #334155; margin: 20px 0;">
                 
                 <div class="resumen-largo">
