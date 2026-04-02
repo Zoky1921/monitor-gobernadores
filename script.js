@@ -232,3 +232,26 @@ function actualizarSemaforo(estadoClima) {
         semaforo.title = "Clima Político: Sin datos";
     }
 }
+/* =========================================
+   FILTRO DE GOBERNADORES EN TIEMPO REAL
+========================================= */
+function filtrarGobernadores() {
+    // Capturamos el texto y lo pasamos a minúsculas
+    const textoBusqueda = document.getElementById('buscador-gobernadores').value.toLowerCase();
+    
+    // Buscamos todas las tarjetas de los gobernadores
+    const tarjetas = document.querySelectorAll('.tarjeta-gob');
+
+    // Recorremos una por una
+    tarjetas.forEach(tarjeta => {
+        // Leemos el texto de la tarjeta (nombre y provincia)
+        const contenidoTarjeta = tarjeta.innerText.toLowerCase();
+
+        // Si coincide con lo escrito, se muestra. Si no, se oculta.
+        if (contenidoTarjeta.includes(textoBusqueda)) {
+            tarjeta.style.display = ''; 
+        } else {
+            tarjeta.style.display = 'none'; 
+        }
+    });
+}
