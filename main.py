@@ -103,6 +103,16 @@ def ejecutar_monitoreo():
         with open(ruta_crudo, 'w', encoding='utf-8') as f:
             json.dump(diccionario_crudo, f, ensure_ascii=False, indent=4)
         print(f"✅ Archivo crudo guardado: {ruta_crudo}")
+        
+        # --- NUEVA VERIFICACIÓN DE SEGURIDAD ---
+        # Filtramos quiénes tienen al menos un tweet recolectado
+        gobernadores_con_datos = [h for h, t in diccionario_crudo.items() if len(t) > 0]
+        
+        # Podés ajustar este número (ej: 5) según tu criterio de representatividad
+        if len(gobernadores_con_datos) < 5:
+            print(f"⚠️ Monitoreo insuficiente: Solo se hallaron datos de {len(gobernadores_con_datos)} gobernadores.")
+            print("Abortando llamada a Gemini para evitar análisis sesgado y ahorrar tokens.")
+            return
 
        # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA ---
         prompt = f"""
