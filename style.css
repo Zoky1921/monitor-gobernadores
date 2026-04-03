@@ -102,9 +102,7 @@ body {
 .resumen-card {
     display: flex;
     flex-direction: column;
-    /* EL TRUCO DE ORO: Le prohíbe imponer su altura. 
-       Ahora está obligada a copiar la altura de la columna derecha */
-    min-height: 0; 
+    /* La altura exacta se la inyecta el JavaScript */
 }
 
 .resumen-card h2 { color: var(--azul-acento); margin-bottom: 15px; font-weight: 700;}
@@ -112,8 +110,8 @@ body {
 .resumen-largo {
     display: flex;
     flex-direction: column;
-    flex-grow: 1; /* Le dice que ocupe todo el espacio sobrante hacia abajo */
-    min-height: 0; /* Pasa el límite hacia adentro */
+    flex-grow: 1; 
+    overflow: hidden; /* EL SECRETO: Prohíbe que el texto rompa la caja hacia afuera */
 }
 
 /* LECTURAS Y SCROLLBOX */
@@ -144,9 +142,10 @@ body {
     text-align: left; 
     padding-right: 15px;  
     
-    /* Llena el contenedor y scrollea SOLO si se pasa de la altura del Tweet */
     flex-grow: 1;
-    overflow-y: auto;
+    overflow-y: auto; /* Activa el scroll azul */
+    
+    height: 0; /* Arranca en 0 para rellenar exactamente el espacio disponible */
     min-height: 0;
 }
 
