@@ -224,7 +224,9 @@ function copiarTexto(idElemento) {
 // 2. Compartir en WhatsApp
 function compartirWhatsApp(idElemento) {
     const texto = document.getElementById(idElemento).innerText;
-    const mensaje = `Mirá este textual en El Radar Federal:\n\n${texto}\n\n👉 radarfederal.com.ar`;
+    const autor = document.getElementById('tweet-destacado-autor').innerText; // Traemos el "- @Usuario"
+    
+    const mensaje = `📌 *Cita Destacada (vía El Radar Federal):*\n\n"${texto}"\n${autor}\n\n👉 radarfederal.com.ar`;
     const url = `https://wa.me/?text=${encodeURIComponent(mensaje)}`;
     window.open(url, '_blank');
 }
