@@ -13,6 +13,9 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.log("Web iniciada. Cargando base de gobernadores...");
     const inputFecha = document.getElementById("fecha-select");
     
+    // NUEVO: Si el usuario cambia el tamaño de la ventana, recalculamos las alturas
+    window.addEventListener('resize', sincronizarAlturas);
+    
     try {
         const res = await fetch("./gobernadores.json");
         if (!res.ok) throw new Error("No se pudo cargar gobernadores.json");
@@ -91,27 +94,23 @@ async function cargarTablero(fecha) {
             analisis.temas_calientes.slice(0, 5).forEach(temaItem => {
                 let li = document.createElement("li");
                 
-                // Compatibilidad: ¿Es el JSON viejo (texto) o el nuevo (objeto interactivo)?
                 if (typeof temaItem === 'string') {
                     li.textContent = temaItem; 
                 } else {
-                    // Formato nuevo: Creamos el botón interactivo
                     li.innerHTML = `<span>${temaItem.tema}</span> <span style="float:right; font-size:0.7rem; background:#3b82f6; color:#0f172a; padding:2px 8px; border-radius:10px; font-weight:bold;">${temaItem.gobernadores_involucrados.length} gobs</span>`;
                     li.style.cursor = "pointer";
                     li.style.transition = "all 0.2s ease";
                     li.title = "Clic para ver quiénes hablaron de esto";
                     
-                    li.onmouseover = () => li.style.borderColor = "#3b82f6"; // Azul acento
+                    li.onmouseover = () => li.style.borderColor = "#3b82f6";
                     li.onmouseout = () => li.style.borderColor = "transparent";
                     li.style.border = "1px solid transparent";
 
-                    // Al hacer clic, filtra la grilla
                     li.onclick = () => aplicarFiltroTerono(temaItem.gobernadores_involucrados);
                 }
                 temasLista.appendChild(li);
             });
 
-            // Si detecta que es el JSON nuevo, agrega un botón para "Limpiar Filtros"
             if (analisis.temas_calientes.length > 0 && typeof analisis.temas_calientes[0] !== 'string') {
                  let liLimpiar = document.createElement("li");
                  liLimpiar.innerHTML = "🔄 <i>Limpiar filtros (Ver todos)</i>";
@@ -140,7 +139,6 @@ async function cargarTablero(fecha) {
             let tarjeta = document.createElement("div");
             tarjeta.className = "tarjeta-gob";
             
-            // Guardamos el @usuario oculto en la tarjeta para el filtro Terono
             tarjeta.dataset.usuario = gob.usuario_x.toLowerCase().replace('@', ''); 
 
             tarjeta.innerHTML = `
@@ -151,6 +149,9 @@ async function cargarTablero(fecha) {
             tarjeta.addEventListener("click", () => abrirModal(gob, analisisGob, crudoGob));
             grilla.appendChild(tarjeta);
         });
+
+        // NUEVO: Disparamos el sincronizador de altura con un leve retraso para asegurar que los textos ya se dibujaron
+        setTimeout(sincronizarAlturas, 150);
 
         return true; 
 
@@ -178,7 +179,6 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
         </div>
     `;
 
-    // Soporte para variables nuevas y viejas
     let textoAnalisis = "Sin actividad política registrada para la fecha seleccionada.";
     let textoCita = "Sin citas textuales hoy.";
 
@@ -209,12 +209,9 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
 /* =========================================
    FUNCIONES DE ACCIÓN RÁPIDA (COMPARTIR)
 ========================================= */
-
-// 1. Copiar al portapapeles (Con feedback visual)
 function copiarTexto(idElemento, botonPresionado) {
     let texto = document.getElementById(idElemento).innerText;
     
-    // Si estamos copiando el tweet destacado, le agregamos el autor
     if (idElemento === 'tweet-destacado-texto') {
         const autor = document.getElementById('tweet-destacado-autor').innerText;
         texto = `"${texto}"\n${autor}\n\n👉 radarfederal.com.ar`;
@@ -223,7 +220,6 @@ function copiarTexto(idElemento, botonPresionado) {
     const iconoOriginal = botonPresionado.innerHTML;
     
     navigator.clipboard.writeText(texto).then(() => {
-        // Feedback visual: Check verde temporal
         botonPresionado.innerHTML = "✅";
         botonPresionado.style.color = "#4ade80"; 
         botonPresionado.style.borderColor = "#4ade80";
@@ -232,20 +228,16 @@ function copiarTexto(idElemento, botonPresionado) {
             botonPresionado.innerHTML = iconoOriginal;
             botonPresionado.style.color = ""; 
             botonPresionado.style.borderColor = "";
-        }, 1500); // Vuelve a la normalidad en 1.5 segundos
+        }, 1500); 
     }).catch(err => {
         console.error('Error al copiar: ', err);
     });
 }
 
-// 2. Compartir en WhatsApp (Con autor incluido)
 function compartirWhatsApp(idElemento) {
     const texto = document.getElementById(idElemento).innerText;
-    
-    // Armamos el mensaje base
     let mensaje = `📌 *Vía El Radar Federal:*\n\n"${texto}"`;
 
-    // Si es el tweet destacado, sumamos al autor
     if (idElemento === 'tweet-destacado-texto') {
          const autor = document.getElementById('tweet-destacado-autor').innerText;
          mensaje += `\n${autor}`;
@@ -257,10 +249,8 @@ function compartirWhatsApp(idElemento) {
     window.open(url, '_blank');
 }
 
-// 3. Compartir en X (Twitter) (Con autor incluido)
 function compartirX(idElemento) {
     const texto = document.getElementById(idElemento).innerText;
-    
     let tweetTexto = `"${texto}"`;
     
     if (idElemento === 'tweet-destacado-texto') {
@@ -279,14 +269,10 @@ function compartirX(idElemento) {
 ========================================= */
 function actualizarSemaforo(estadoClima) {
     const semaforo = document.getElementById('semaforo-clima');
-    
-    // Primero, limpiamos cualquier color que tuviera antes
     semaforo.classList.remove('gris', 'rojo', 'amarillo', 'verde');
 
-    // Leemos el estado que nos manda Python
     const estado = estadoClima ? estadoClima.toUpperCase() : "DESCONOCIDO";
 
-    // Asignamos el color según el nivel de tensión
     if (estado.includes("TENSO") || estado.includes("NEGATIVO") || estado.includes("CONFLICTO")) {
         semaforo.classList.add('rojo');
         semaforo.title = "Clima Político: TENSO";
@@ -343,30 +329,24 @@ function aplicarFiltroTerono(gobernadoresInvolucrados) {
     if (hayResultados) {
         document.getElementById("seccion-mapa").scrollIntoView({ behavior: 'smooth' });
         
-        // --- INICIO DEL BOTÓN DE RESCATE ---
         let btnVolver = document.getElementById('btn-rescate-terono');
         
-        // Si no existe, lo creamos y lo metemos al lado del buscador
         if (!btnVolver) {
             btnVolver = document.createElement('button');
             btnVolver.id = 'btn-rescate-terono';
             btnVolver.innerHTML = '⬆️ Limpiar y volver';
-            btnVolver.className = 'btn-rescate'; // Aplicamos la clase del CSS
+            btnVolver.className = 'btn-rescate'; 
             
-            // ¿Qué hace al hacer clic? Limpia y sube
             btnVolver.onclick = () => {
                 limpiarFiltrosTerono();
                 document.querySelector('.dashboard-macro').scrollIntoView({ behavior: 'smooth' });
             };
             
-            // Lo inyectamos arriba de la grilla
             const contenedorControles = document.querySelector('.controles-grilla');
             contenedorControles.appendChild(btnVolver);
         }
         
-        // Nos aseguramos de que esté visible
         btnVolver.style.display = 'inline-block';
-        // --- FIN DEL BOTÓN DE RESCATE ---
     }
 }
 
@@ -374,15 +354,36 @@ function limpiarFiltrosTerono() {
     const tarjetas = document.querySelectorAll('.tarjeta-gob');
     
     tarjetas.forEach(tarjeta => {
-        tarjeta.style.display = ''; // Mostramos a todos
-        tarjeta.style.borderColor = '#334155'; // Restauramos bordes
+        tarjeta.style.display = ''; 
+        tarjeta.style.borderColor = '#334155'; 
     });
     
     document.getElementById('buscador-gobernadores').value = ''; 
     
-    // Escondemos el botón de rescate porque ya no hay filtro aplicado
     const btnVolver = document.getElementById('btn-rescate-terono');
     if (btnVolver) {
         btnVolver.style.display = 'none';
+    }
+}
+
+/* =========================================
+   SINCRONIZADOR DE ALTURAS (EFECTO ESPEJO)
+========================================= */
+function sincronizarAlturas() {
+    const sidebar = document.querySelector('.sidebar');
+    const resumenCard = document.querySelector('.resumen-card');
+    
+    if (sidebar && resumenCard) {
+        // 1. Apagamos el límite para medir la grilla en su estado natural
+        resumenCard.style.maxHeight = 'none';
+        
+        // 2. Si estamos en PC (pantallas anchas), aplicamos la medida exacta
+        if (window.innerWidth > 768) {
+            const alturaDerecha = sidebar.offsetHeight;
+            // Forzamos a la caja izquierda a medir exactamente lo que mide la derecha
+            resumenCard.style.maxHeight = alturaDerecha + 'px';
+        }
+        // Nota: En celulares (menor a 768px), las cajas se apilan verticalmente, 
+        // así que dejamos que crezcan sin límite ('none').
     }
 }
