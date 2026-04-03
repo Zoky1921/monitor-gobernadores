@@ -115,18 +115,27 @@ REGLAS DE ANÁLISIS ESTRATÉGICO:
 3. DOBLE VELOCIDAD DE LECTURA:
    - "Resumen Ejecutivo": Redacta un panorama hiper directo de 1 solo párrafo (aprox. 100 palabras) para lectura rápida de 1 minuto.
    - "Análisis Profundo": Redacta un reporte analítico extenso (aprox. 400 palabras, 3 minutos de lectura). Conecta temas, marca tensiones entre Nación y Provincias, y desglosa estrategias discursivas.
-4. JERARQUÍA DE TENDENCIAS: Extrae un máximo de 5 tendencias principales que resuman la agenda federal de hoy.
-5. TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político o impacto institucional. REGLA ANTI-SESGO: Estás estrictamente obligado a evaluar las declaraciones de los 24 gobernadores antes de tomar la decisión final. Prioriza anuncios de gestión, posicionamientos estratégicos o conflictos federales reales por sobre efemérides, conmemoraciones o saludos protocolares. Piensa como un analista político: ¿cuál es la única declaración de hoy que altera el escenario o fija una agenda ineludible?6. POSTURA POLÍTICA (Por gobernador): Define en máximo 3 líneas la postura actual de cada gobernador activo basándote estrictamente en sus textos.
-7. SEMÁFORO DE CLIMA POLÍTICO (NUEVO): Evalúa el nivel de conflictividad general de la jornada (Nación vs Provincias o entre pares). Define el clima general con UNA SOLA PALABRA exacta: "TENSO", "NEUTRAL" o "POSITIVO".
-8. SEGURIDAD JSON (CRÍTICA): Tienes ESTRICTAMENTE PROHIBIDO usar cualquier tipo de comillas (ni dobles, ni simples) dentro del contenido de tus respuestas. Redacta todos los resúmenes, análisis y citas textuales sin usar comillas en absoluto. Las únicas comillas permitidas en toda tu respuesta son las que estructuran las claves y valores del formato JSON.
-FORMATO DE SALIDA OBLIGATORIO:
-Responde ÚNICAMENTE con un objeto JSON válido. La estructura exacta debe ser:
+4. JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales que resuman la agenda federal de hoy. Para cada tendencia, DEBES identificar y listar los usuarios de X (@usuario) de todos los gobernadores que se hayan posicionado sobre ese tema.
+    5. TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político o impacto institucional. REGLA ANTI-SESGO: Estás estrictamente obligado a evaluar las declaraciones de los 24 gobernadores antes de tomar la decisión final. Prioriza anuncios de gestión, posicionamientos estratégicos o conflictos federales reales por sobre efemérides. Piensa como un analista político: ¿cuál es la única declaración de hoy que altera el escenario o fija una agenda ineludible?
+    7. SEMÁFORO DE CLIMA POLÍTICO (NUEVO): Evalúa el nivel de conflictividad general de la jornada (Nación vs Provincias o entre ellas) y devuelve UNA SOLA PALABRA (ej: TENSO, NEUTRAL, POSITIVO, CONFLICTO).
+    8. SEGURIDAD JSON Y COMILLAS (CRÍTICA): Tienes ESTRICTAMENTE PROHIBIDO usar cualquier tipo de comillas (ni dobles, ni simples) DENTRO de los textos descriptivos. Si necesitas citar, parafrasea. Las comillas dobles SOLO deben usarse para la estructura del JSON. Un error en las comillas romperá el sistema.
+    FORMATO DE SALIDA OBLIGATORIO:
+    Responde ÚNICAMENTE con un objeto JSON válido. La estructura exacta debe ser:
 
-{{
-    "clima_general": "TENSO",
-    "resumen_ejecutivo": "Texto del resumen corto de 1 minuto aquí...",
-    "analisis_profundo": "Texto del análisis extenso y detallado de 3 minutos aquí...",
-    "temas_calientes": ["Tendencia 1", "Tendencia 2", "Tendencia 3", "Tendencia 4", "Tendencia 5"],
+    {{
+        "clima_general": "TENSO",
+        "resumen_ejecutivo": "Texto del resumen corto de 1 minuto aqui, sin comillas internas...",
+        "analisis_profundo": "Texto del analisis extenso y detallado aqui, sin comillas internas...",
+        "temas_calientes": [
+            {{
+                "tema": "Breve descripcion de la tendencia federal sin comillas",
+                "gobernadores_involucrados": ["@Kicillofok", "@ZiliottoSergio", "@maxipullaro"]
+            }},
+            {{
+                "tema": "Otra tendencia importante aqui",
+                "gobernadores_involucrados": ["@frigeriorogelio", "@passalacquaok"]
+            }}
+        ],
     "tweet_destacado": {{
         "usuario": "@Usuario",
         "texto": "Cita textual aquí...",
