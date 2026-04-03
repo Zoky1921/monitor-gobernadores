@@ -65,11 +65,15 @@ async function cargarTablero(fecha) {
             cajaEjecutivo.innerHTML = `<b>No hay informes para el ${fecha}.</b>`;
             cajaProfundo.innerHTML = `El robot procesa datos todos los días a las 20:30 hs (Arg).`;
             temasLista.innerHTML = "<li>Sin datos</li>";
+            actualizarSemaforo(null); // Apaga el semáforo si no hay datos
             return false; 
         }
 
         const analisis = await resAnalisis.json();
         const crudo = await resCrudo.json();
+
+        // 0. ACTUALIZAR SEMÁFORO (¡ESTO ERA LO QUE FALTABA!)
+        actualizarSemaforo(analisis.clima_general);
 
         // 1. DOBLE VELOCIDAD DE LECTURA
         cajaEjecutivo.textContent = analisis.resumen_ejecutivo || "Resumen ejecutivo no disponible.";
@@ -111,7 +115,6 @@ async function cargarTablero(fecha) {
                 <h4>${gob.nombre}</h4>
                 <p>${gob.provincia}</p>
             `;
-            // ACÁ ES DONDE LLAMA A LA FUNCIÓN QUE "NO EXISTÍA"
             tarjeta.addEventListener("click", () => abrirModal(gob, analisisGob, crudoGob));
             grilla.appendChild(tarjeta);
         });
@@ -128,7 +131,6 @@ async function cargarTablero(fecha) {
 
 // =========================================
 // FUNCIÓN PARA ABRIR LA VENTANA FLOTANTE 
-// (Asegurate de que esto quede hasta el final del archivo)
 // =========================================
 function abrirModal(gobernador, analisisGob, crudoGob) {
     const modal = document.getElementById("modal-detalle");
@@ -170,6 +172,7 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
     
     modal.classList.remove("oculta");
 }
+
 /* =========================================
    FUNCIONES DE ACCIÓN RÁPIDA (COMPARTIR)
 ========================================= */
@@ -178,9 +181,7 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
 function copiarTexto(idElemento) {
     const texto = document.getElementById(idElemento).innerText;
     
-    // API moderna del portapapeles
     navigator.clipboard.writeText(texto).then(() => {
-        // Podés cambiar este alert por algo más lindo después si querés
         alert("¡Cita copiada al portapapeles!"); 
     }).catch(err => {
         console.error('Error al copiar: ', err);
@@ -190,7 +191,6 @@ function copiarTexto(idElemento) {
 // 2. Compartir en WhatsApp
 function compartirWhatsApp(idElemento) {
     const texto = document.getElementById(idElemento).innerText;
-    // Armamos el mensaje sumándole la marca del proyecto
     const mensaje = `Mirá este textual en El Radar Federal:\n\n${texto}\n\n👉 radarfederal.com.ar`;
     const url = `https://wa.me/?text=${encodeURIComponent(mensaje)}`;
     window.open(url, '_blank');
@@ -199,12 +199,12 @@ function compartirWhatsApp(idElemento) {
 // 3. Compartir en X (Twitter)
 function compartirX(idElemento) {
     const texto = document.getElementById(idElemento).innerText;
-    // Armamos el tweet. Ojo con el límite de caracteres (X corta en 280)
     let tweetTexto = `"${texto}"\n\n📊 Vía El Radar Federal`;
     
     const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`;
     window.open(url, '_blank');
 }
+
 /* =========================================
    MOTOR DEL SEMÁFORO DE CLIMA POLÍTICO
 ========================================= */
@@ -217,14 +217,14 @@ function actualizarSemaforo(estadoClima) {
     // Leemos el estado que nos manda Python (lo pasamos a mayúsculas por las dudas)
     const estado = estadoClima ? estadoClima.toUpperCase() : "DESCONOCIDO";
 
-    // Asignamos el color según el nivel de tensión
-    if (estado === "TENSO" || estado === "NEGATIVO") {
+    // Asignamos el color según el nivel de tensión sumando variaciones de palabras
+    if (estado.includes("TENSO") || estado.includes("NEGATIVO") || estado.includes("CONFLICTO")) {
         semaforo.classList.add('rojo');
         semaforo.title = "Clima Político: TENSO";
-    } else if (estado === "NEUTRAL" || estado === "MODERADO") {
+    } else if (estado.includes("NEUTRAL") || estado.includes("MODERADO") || estado.includes("AMBIVALENTE")) {
         semaforo.classList.add('amarillo');
         semaforo.title = "Clima Político: NEUTRAL / MODERADO";
-    } else if (estado === "POSITIVO" || estado === "COOPERATIVO") {
+    } else if (estado.includes("POSITIVO") || estado.includes("COOPERATIVO") || estado.includes("ACUERDO")) {
         semaforo.classList.add('verde');
         semaforo.title = "Clima Político: POSITIVO / COOPERATIVO";
     } else {
@@ -232,22 +232,17 @@ function actualizarSemaforo(estadoClima) {
         semaforo.title = "Clima Político: Sin datos";
     }
 }
+
 /* =========================================
    FILTRO DE GOBERNADORES EN TIEMPO REAL
 ========================================= */
 function filtrarGobernadores() {
-    // Capturamos el texto y lo pasamos a minúsculas
     const textoBusqueda = document.getElementById('buscador-gobernadores').value.toLowerCase();
-    
-    // Buscamos todas las tarjetas de los gobernadores
     const tarjetas = document.querySelectorAll('.tarjeta-gob');
 
-    // Recorremos una por una
     tarjetas.forEach(tarjeta => {
-        // Leemos el texto de la tarjeta (nombre y provincia)
         const contenidoTarjeta = tarjeta.innerText.toLowerCase();
 
-        // Si coincide con lo escrito, se muestra. Si no, se oculta.
         if (contenidoTarjeta.includes(textoBusqueda)) {
             tarjeta.style.display = ''; 
         } else {
