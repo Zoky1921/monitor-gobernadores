@@ -289,27 +289,48 @@ function filtrarGobernadores() {
 ========================================= */
 function aplicarFiltroTerono(gobernadoresInvolucrados) {
     const tarjetas = document.querySelectorAll('.tarjeta-gob');
-    
-    // Normalizamos el array (minúsculas y sin @) para comparar exacto
     const involucradosLimpios = gobernadoresInvolucrados.map(g => g.toLowerCase().replace('@', ''));
     let hayResultados = false;
 
     tarjetas.forEach(tarjeta => {
         const usuarioTarjeta = tarjeta.dataset.usuario;
-        
         if (involucradosLimpios.includes(usuarioTarjeta)) {
             tarjeta.style.display = ''; 
-            tarjeta.style.borderColor = '#3b82f6'; // Borde azul para resaltarlos
+            tarjeta.style.borderColor = '#3b82f6'; 
             hayResultados = true;
         } else {
             tarjeta.style.display = 'none'; 
-            tarjeta.style.borderColor = '#334155'; // Borde normal
+            tarjeta.style.borderColor = '#334155'; 
         }
     });
 
-    // Auto-scroll a la grilla para que el usuario vea el filtro en acción
     if (hayResultados) {
         document.getElementById("seccion-mapa").scrollIntoView({ behavior: 'smooth' });
+        
+        // --- INICIO DEL BOTÓN DE RESCATE ---
+        let btnVolver = document.getElementById('btn-rescate-terono');
+        
+        // Si no existe, lo creamos y lo metemos al lado del buscador
+        if (!btnVolver) {
+            btnVolver = document.createElement('button');
+            btnVolver.id = 'btn-rescate-terono';
+            btnVolver.innerHTML = '⬆️ Limpiar y volver';
+            btnVolver.style.cssText = 'background: #3b82f6; color: #0f172a; padding: 10px 15px; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; margin-top: 10px; margin-bottom: 15px; display: inline-block; transition: all 0.2s;';
+            
+            // ¿Qué hace al hacer clic? Limpia y sube
+            btnVolver.onclick = () => {
+                limpiarFiltrosTerono();
+                document.querySelector('.dashboard-macro').scrollIntoView({ behavior: 'smooth' });
+            };
+            
+            // Lo inyectamos arriba de la grilla
+            const contenedorControles = document.querySelector('.controles-grilla');
+            contenedorControles.appendChild(btnVolver);
+        }
+        
+        // Nos aseguramos de que esté visible
+        btnVolver.style.display = 'inline-block';
+        // --- FIN DEL BOTÓN DE RESCATE ---
     }
 }
 
@@ -322,4 +343,10 @@ function limpiarFiltrosTerono() {
     });
     
     document.getElementById('buscador-gobernadores').value = ''; 
+    
+    // Escondemos el botón de rescate porque ya no hay filtro aplicado
+    const btnVolver = document.getElementById('btn-rescate-terono');
+    if (btnVolver) {
+        btnVolver.style.display = 'none';
+    }
 }
