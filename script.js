@@ -85,7 +85,7 @@ async function cargarTablero(fecha) {
             cajaProfundo.innerHTML = "Análisis profundo no disponible.";
         }
 
-        // 2. TENDENCIAS (CON EFECTO TERONO INTEGRAD0)
+        // 2. TENDENCIAS (CON EFECTO TERONO INTEGRADO)
         temasLista.innerHTML = "";
         if (analisis.temas_calientes) {
             analisis.temas_calientes.slice(0, 5).forEach(temaItem => {
@@ -210,31 +210,65 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
    FUNCIONES DE ACCIÓN RÁPIDA (COMPARTIR)
 ========================================= */
 
-// 1. Copiar al portapapeles
-function copiarTexto(idElemento) {
-    const texto = document.getElementById(idElemento).innerText;
+// 1. Copiar al portapapeles (Con feedback visual)
+function copiarTexto(idElemento, botonPresionado) {
+    let texto = document.getElementById(idElemento).innerText;
+    
+    // Si estamos copiando el tweet destacado, le agregamos el autor
+    if (idElemento === 'tweet-destacado-texto') {
+        const autor = document.getElementById('tweet-destacado-autor').innerText;
+        texto = `"${texto}"\n${autor}\n\n👉 radarfederal.com.ar`;
+    }
+
+    const iconoOriginal = botonPresionado.innerHTML;
     
     navigator.clipboard.writeText(texto).then(() => {
-        alert("¡Cita copiada al portapapeles!"); 
+        // Feedback visual: Check verde temporal
+        botonPresionado.innerHTML = "✅";
+        botonPresionado.style.color = "#4ade80"; 
+        botonPresionado.style.borderColor = "#4ade80";
+        
+        setTimeout(() => {
+            botonPresionado.innerHTML = iconoOriginal;
+            botonPresionado.style.color = ""; 
+            botonPresionado.style.borderColor = "";
+        }, 1500); // Vuelve a la normalidad en 1.5 segundos
     }).catch(err => {
         console.error('Error al copiar: ', err);
     });
 }
 
-// 2. Compartir en WhatsApp
+// 2. Compartir en WhatsApp (Con autor incluido)
 function compartirWhatsApp(idElemento) {
     const texto = document.getElementById(idElemento).innerText;
-    const autor = document.getElementById('tweet-destacado-autor').innerText; // Traemos el "- @Usuario"
     
-    const mensaje = `📌 *Cita Destacada (vía El Radar Federal):*\n\n"${texto}"\n${autor}\n\n👉 radarfederal.com.ar`;
+    // Armamos el mensaje base
+    let mensaje = `📌 *Vía El Radar Federal:*\n\n"${texto}"`;
+
+    // Si es el tweet destacado, sumamos al autor
+    if (idElemento === 'tweet-destacado-texto') {
+         const autor = document.getElementById('tweet-destacado-autor').innerText;
+         mensaje += `\n${autor}`;
+    }
+    
+    mensaje += `\n\n👉 radarfederal.com.ar`;
+    
     const url = `https://wa.me/?text=${encodeURIComponent(mensaje)}`;
     window.open(url, '_blank');
 }
 
-// 3. Compartir en X (Twitter)
+// 3. Compartir en X (Twitter) (Con autor incluido)
 function compartirX(idElemento) {
     const texto = document.getElementById(idElemento).innerText;
-    let tweetTexto = `"${texto}"\n\n📊 Vía El Radar Federal`;
+    
+    let tweetTexto = `"${texto}"`;
+    
+    if (idElemento === 'tweet-destacado-texto') {
+         const autor = document.getElementById('tweet-destacado-autor').innerText;
+         tweetTexto += `\n${autor}`;
+    }
+    
+    tweetTexto += `\n\n📊 Vía El Radar Federal`;
     
     const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`;
     window.open(url, '_blank');
@@ -317,7 +351,7 @@ function aplicarFiltroTerono(gobernadoresInvolucrados) {
             btnVolver = document.createElement('button');
             btnVolver.id = 'btn-rescate-terono';
             btnVolver.innerHTML = '⬆️ Limpiar y volver';
-            btnVolver.style.cssText = 'background: #3b82f6; color: #0f172a; padding: 10px 15px; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; margin-top: 10px; margin-bottom: 15px; display: inline-block; transition: all 0.2s;';
+            btnVolver.className = 'btn-rescate'; // Aplicamos la clase del CSS
             
             // ¿Qué hace al hacer clic? Limpia y sube
             btnVolver.onclick = () => {
