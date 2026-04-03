@@ -110,17 +110,6 @@ async function cargarTablero(fecha) {
                 }
                 temasLista.appendChild(li);
             });
-
-            if (analisis.temas_calientes.length > 0 && typeof analisis.temas_calientes[0] !== 'string') {
-                 let liLimpiar = document.createElement("li");
-                 liLimpiar.innerHTML = "🔄 <i>Limpiar filtros (Ver todos)</i>";
-                 liLimpiar.style.cursor = "pointer";
-                 liLimpiar.style.textAlign = "center";
-                 liLimpiar.style.backgroundColor = "transparent";
-                 liLimpiar.style.border = "1px dashed #94a3b8";
-                 liLimpiar.onclick = () => limpiarFiltrosTerono();
-                 temasLista.appendChild(liLimpiar);
-            }
         }
 
         // 3. EL POST DEL DÍA
@@ -212,13 +201,21 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
 function copiarTexto(idElemento, botonPresionado) {
     let texto = document.getElementById(idElemento).innerText;
     
+    // 1. Armamos el texto base
     if (idElemento === 'tweet-destacado-texto') {
         const autor = document.getElementById('tweet-destacado-autor').innerText;
-        texto = `"${texto}"\n${autor}\n\n👉 radarfederal.com.ar`;
+        texto = `"${texto}"\n${autor}`;
+    } else {
+        // Si es un análisis o resumen, lo envolvemos en comillas
+        texto = `"${texto}"`;
     }
+
+    // 2. Le inyectamos SIEMPRE la firma del Radar al final
+    texto += `\n\n📌 Vía El Radar Federal\n👉 radarfederal.com.ar`;
 
     const iconoOriginal = botonPresionado.innerHTML;
     
+    // 3. Mandamos al portapapeles
     navigator.clipboard.writeText(texto).then(() => {
         botonPresionado.innerHTML = "✅";
         botonPresionado.style.color = "#4ade80"; 
