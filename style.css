@@ -126,7 +126,7 @@ body {
     line-height: 1.7;   
     color: #cbd5e1; 
     text-align: left; /* Alineado a la izquierda por usabilidad web */
-    max-height: 220px;    
+    max-height: 400px;    
     overflow-y: auto;     
     padding-right: 15px;  
 }
@@ -513,4 +513,7 @@ html {
     .footer-credits {
         text-align: left; /* En celular queda mejor todo alineado a la izquierda */
     }
+}
+.sidebar .card:not(:last-child) {
+    margin-bottom: 20px; /* Espacio exacto entre Tendencias y El Post del día */
 }
