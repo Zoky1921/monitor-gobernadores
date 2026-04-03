@@ -255,7 +255,7 @@ function compartirX(idElemento) {
          tweetTexto += `\n${autor}`;
     }
     
-    tweetTexto += `\n\n📊 Vía El Radar Federal`;
+tweetTexto += `\n\n📊 Vía El Radar Federal\n👉 radarfederal.com.ar`;
     
     const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`;
     window.open(url, '_blank');
