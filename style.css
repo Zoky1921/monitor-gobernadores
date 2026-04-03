@@ -98,7 +98,21 @@ body {
     border: 1px solid var(--borde);
 }
 
+/* --- MAGIA FLEXBOX PARA ALINEAR ALTURAS --- */
+.resumen-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Obliga a la tarjeta a copiar la altura de la grilla */
+}
+
 .resumen-card h2 { color: var(--azul-acento); margin-bottom: 15px; font-weight: 700;}
+
+.resumen-largo {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; /* Le dice que ocupe todo el espacio sobrante hacia abajo */
+    min-height: 0; /* Es un truco clave de CSS para que el scroll funcione adentro */
+}
 
 /* LECTURAS Y SCROLLBOX */
 .etiqueta-tiempo {
@@ -126,9 +140,12 @@ body {
     line-height: 1.7;   
     color: #cbd5e1; 
     text-align: left; /* Alineado a la izquierda por usabilidad web */
-    max-height: 400px;    
-    overflow-y: auto;     
     padding-right: 15px;  
+    
+    /* El análisis se adapta al alto del Tweet */
+    flex-grow: 1; 
+    overflow-y: auto; 
+    min-height: 0;
 }
 
 /* Diseño de la barrita de scroll */
