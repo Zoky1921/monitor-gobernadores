@@ -65,14 +65,14 @@ async function cargarTablero(fecha) {
             cajaEjecutivo.innerHTML = `<b>No hay informes para el ${fecha}.</b>`;
             cajaProfundo.innerHTML = `El robot procesa datos todos los días a las 20:30 hs (Arg).`;
             temasLista.innerHTML = "<li>Sin datos</li>";
-            actualizarSemaforo(null); // Apaga el semáforo si no hay datos
+            actualizarSemaforo(null); 
             return false; 
         }
 
         const analisis = await resAnalisis.json();
         const crudo = await resCrudo.json();
 
-        // 0. ACTUALIZAR SEMÁFORO (¡ESTO ERA LO QUE FALTABA!)
+        // 0. ACTUALIZAR SEMÁFORO 
         actualizarSemaforo(analisis.clima_general);
 
         // 1. DOBLE VELOCIDAD DE LECTURA
@@ -85,14 +85,43 @@ async function cargarTablero(fecha) {
             cajaProfundo.innerHTML = "Análisis profundo no disponible.";
         }
 
-        // 2. TENDENCIAS
+        // 2. TENDENCIAS (CON EFECTO TERONO INTEGRAD0)
         temasLista.innerHTML = "";
         if (analisis.temas_calientes) {
-            analisis.temas_calientes.slice(0, 5).forEach(tema => {
+            analisis.temas_calientes.slice(0, 5).forEach(temaItem => {
                 let li = document.createElement("li");
-                li.textContent = tema;
+                
+                // Compatibilidad: ¿Es el JSON viejo (texto) o el nuevo (objeto interactivo)?
+                if (typeof temaItem === 'string') {
+                    li.textContent = temaItem; 
+                } else {
+                    // Formato nuevo: Creamos el botón interactivo
+                    li.innerHTML = `<span>${temaItem.tema}</span> <span style="float:right; font-size:0.7rem; background:#3b82f6; color:#0f172a; padding:2px 8px; border-radius:10px; font-weight:bold;">${temaItem.gobernadores_involucrados.length} gobs</span>`;
+                    li.style.cursor = "pointer";
+                    li.style.transition = "all 0.2s ease";
+                    li.title = "Clic para ver quiénes hablaron de esto";
+                    
+                    li.onmouseover = () => li.style.borderColor = "#3b82f6"; // Azul acento
+                    li.onmouseout = () => li.style.borderColor = "transparent";
+                    li.style.border = "1px solid transparent";
+
+                    // Al hacer clic, filtra la grilla
+                    li.onclick = () => aplicarFiltroTerono(temaItem.gobernadores_involucrados);
+                }
                 temasLista.appendChild(li);
             });
+
+            // Si detecta que es el JSON nuevo, agrega un botón para "Limpiar Filtros"
+            if (analisis.temas_calientes.length > 0 && typeof analisis.temas_calientes[0] !== 'string') {
+                 let liLimpiar = document.createElement("li");
+                 liLimpiar.innerHTML = "🔄 <i>Limpiar filtros (Ver todos)</i>";
+                 liLimpiar.style.cursor = "pointer";
+                 liLimpiar.style.textAlign = "center";
+                 liLimpiar.style.backgroundColor = "transparent";
+                 liLimpiar.style.border = "1px dashed #94a3b8";
+                 liLimpiar.onclick = () => limpiarFiltrosTerono();
+                 temasLista.appendChild(liLimpiar);
+            }
         }
 
         // 3. EL POST DEL DÍA
@@ -101,7 +130,7 @@ async function cargarTablero(fecha) {
             document.getElementById("tweet-destacado-autor").textContent = `- ${analisis.tweet_destacado.usuario}`;
         }
 
-        // 4. GRILLA DE GOBERNADORES
+        // 4. GRILLA DE GOBERNADORES (CON DATASET DE USUARIO)
         gobernadoresBase.forEach(gob => {
             const analisisGob = analisis.analisis_por_gobernador.find(
                 a => a.gobernador.toLowerCase().includes(gob.usuario_x.toLowerCase())
@@ -110,6 +139,10 @@ async function cargarTablero(fecha) {
 
             let tarjeta = document.createElement("div");
             tarjeta.className = "tarjeta-gob";
+            
+            // Guardamos el @usuario oculto en la tarjeta para el filtro Terono
+            tarjeta.dataset.usuario = gob.usuario_x.toLowerCase().replace('@', ''); 
+
             tarjeta.innerHTML = `
                 <img src="${gob.foto_url}" alt="${gob.nombre}" onerror="this.src='https://via.placeholder.com/80'">
                 <h4>${gob.nombre}</h4>
@@ -214,10 +247,10 @@ function actualizarSemaforo(estadoClima) {
     // Primero, limpiamos cualquier color que tuviera antes
     semaforo.classList.remove('gris', 'rojo', 'amarillo', 'verde');
 
-    // Leemos el estado que nos manda Python (lo pasamos a mayúsculas por las dudas)
+    // Leemos el estado que nos manda Python
     const estado = estadoClima ? estadoClima.toUpperCase() : "DESCONOCIDO";
 
-    // Asignamos el color según el nivel de tensión sumando variaciones de palabras
+    // Asignamos el color según el nivel de tensión
     if (estado.includes("TENSO") || estado.includes("NEGATIVO") || estado.includes("CONFLICTO")) {
         semaforo.classList.add('rojo');
         semaforo.title = "Clima Político: TENSO";
@@ -228,13 +261,13 @@ function actualizarSemaforo(estadoClima) {
         semaforo.classList.add('verde');
         semaforo.title = "Clima Político: POSITIVO / COOPERATIVO";
     } else {
-        semaforo.classList.add('gris'); // Si no hay dato, queda apagado
+        semaforo.classList.add('gris'); 
         semaforo.title = "Clima Político: Sin datos";
     }
 }
 
 /* =========================================
-   FILTRO DE GOBERNADORES EN TIEMPO REAL
+   FILTRO DE GOBERNADORES EN TIEMPO REAL (Buscador)
 ========================================= */
 function filtrarGobernadores() {
     const textoBusqueda = document.getElementById('buscador-gobernadores').value.toLowerCase();
@@ -249,4 +282,44 @@ function filtrarGobernadores() {
             tarjeta.style.display = 'none'; 
         }
     });
+}
+
+/* =========================================
+   EFECTO TERONO: FILTROS INTERACTIVOS
+========================================= */
+function aplicarFiltroTerono(gobernadoresInvolucrados) {
+    const tarjetas = document.querySelectorAll('.tarjeta-gob');
+    
+    // Normalizamos el array (minúsculas y sin @) para comparar exacto
+    const involucradosLimpios = gobernadoresInvolucrados.map(g => g.toLowerCase().replace('@', ''));
+    let hayResultados = false;
+
+    tarjetas.forEach(tarjeta => {
+        const usuarioTarjeta = tarjeta.dataset.usuario;
+        
+        if (involucradosLimpios.includes(usuarioTarjeta)) {
+            tarjeta.style.display = ''; 
+            tarjeta.style.borderColor = '#3b82f6'; // Borde azul para resaltarlos
+            hayResultados = true;
+        } else {
+            tarjeta.style.display = 'none'; 
+            tarjeta.style.borderColor = '#334155'; // Borde normal
+        }
+    });
+
+    // Auto-scroll a la grilla para que el usuario vea el filtro en acción
+    if (hayResultados) {
+        document.getElementById("seccion-mapa").scrollIntoView({ behavior: 'smooth' });
+    }
+}
+
+function limpiarFiltrosTerono() {
+    const tarjetas = document.querySelectorAll('.tarjeta-gob');
+    
+    tarjetas.forEach(tarjeta => {
+        tarjeta.style.display = ''; // Mostramos a todos
+        tarjeta.style.borderColor = '#334155'; // Restauramos bordes
+    });
+    
+    document.getElementById('buscador-gobernadores').value = ''; 
 }
