@@ -14,7 +14,7 @@ Una plataforma de análisis estratégico que utiliza Inteligencia Artificial (Go
 
 1. **Cloná el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/radar-federal.git](https://github.com/tu-usuario/radar-federal.git)
+   git clone [https://github.com/zoky1921/radar-federal.git](https://github.com/tu-usuario/radar-federal.git)
    cd radar-federal
    ```
 
