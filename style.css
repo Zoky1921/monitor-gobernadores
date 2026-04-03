@@ -342,6 +342,16 @@ body {
     .header-content p { font-size: 0.8rem; }
     .modal-content { width: 95%; padding: 20px; }
     #modal-bio { flex-direction: column; text-align: center; }
+    
+    /* --- LA SOLUCIÓN AL TEXTO FANTASMA --- */
+    #analisis-profundo {
+        height: auto; /* Anula el height: 0 del escritorio */
+        overflow-y: visible; /* Apaga el scroll interno azul */
+    }
+    
+    .resumen-largo {
+        overflow: visible; /* Deja que el texto empuje la caja hacia abajo sin cortarse */
+    }
 }
 
 /* =========================================
