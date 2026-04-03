@@ -4,10 +4,11 @@ Una plataforma de análisis estratégico que utiliza Inteligencia Artificial (Go
 
 ## Características
 
-* **Análisis Ejecutivo con IA:** Resúmenes diarios generados por modelos de lenguaje avanzado que sintetizan la postura política del día en versiones "Rápida" (ejecutiva) y "Extensa" (profunda).
-* **Semáforo de Clima Político:** Indicador visual dinámico que mide el nivel de tensión, neutralidad o cooperación en el discurso federal mediante análisis de sentimiento.
-* **Efecto Terono (Filtros Interactivos):** Motor de filtrado que permite seleccionar tendencias "calientes" y visualizar instantáneamente qué gobernadores están impulsando ese tema, resaltándolos en la grilla.
-* **Compartibilidad:** Funciones integradas para exportar citas destacadas a WhatsApp y X (Twitter) incluyendo automáticamente la autoría y el enlace al monitor.
+* **Análisis Ejecutivo con IA:** Generación de resúmenes diarios (versiones "Rápida" y "Extensa") que sintetizan la postura política detectada por modelos LLM.
+* **Semáforo de Clima Político:** Indicador visual que mide la tensión o cooperación federal mediante análisis de sentimiento.
+* **Efecto Terono (Filtros Interactivos):** Motor que permite filtrar la grilla de gobernadores según las tendencias del día, resaltándolos en la grilla.
+* **Sincronización de Altura Dinámica:** Lógica de interfaz que ajusta el panel de análisis al largo del tweet destacado para garantizar simetría visual.
+* **Compartibilidad Integrada:** Botones para exportar citas a WhatsApp y X (Twitter) con atribución de autoría automática.
 
 ## Instalación
 
@@ -15,56 +16,48 @@ Una plataforma de análisis estratégico que utiliza Inteligencia Artificial (Go
    ```bash
    git clone [https://github.com/tu-usuario/radar-federal.git](https://github.com/tu-usuario/radar-federal.git)
    cd radar-federal
-   Configuración del Robot (Python):
+   ```
 
-Instalá las dependencias: pip install google-generativeai requests.
+2. **Configuración del Robot (Python):**
+   * Instalá las dependencias necesarias:
+     ```bash
+     pip install google-generativeai requests
+     ```
+   * Configurá tu `GEMINI_API_KEY` en las variables de entorno.
 
-Configurá tu GEMINI_API_KEY en las variables de entorno.
+3. **Visualización:**
+   * Abrí `index.html` mediante un servidor local (ej: Live Server en VS Code) para permitir la carga de archivos JSON locales sin errores de seguridad.
 
-Visualización:
+## Arquitectura
 
-No requiere compilación. Abrí index.html con cualquier servidor local (ej: Live Server en VS Code) para evitar problemas de CORS al cargar los JSON.
+### Estructura de Componentes
+* **`index.html`**: Estructura del dashboard con secciones para clima político, tendencias y grilla.
+* **`script.js`**: Control de carga asíncrona, motor de filtrado "Terono" y sincronización de alturas.
+* **`style.css`**: Sistema de diseño basado en variables de modo oscuro y Flexbox dinámico.
 
-Arquitectura
-Estructura de Componentes
-index.html: Estructura semántica del dashboard. Incluye el contenedor del clima político, la barra lateral de tendencias y la grilla interactiva.
+### Pipeline de Datos
+El sistema utiliza un "Robot" en Python (`main.py`) que genera archivos diarios en la carpeta `data/`:
+* **`YYYY-MM-DD_analisis.json`**: Análisis detallado, tendencias y clima general.
+* **`YYYY-MM-DD_crudo.json`**: Historial de tweets procesados en la jornada.
 
-script.js: Maneja la lógica de carga asíncrona de datos, el motor de filtrado del "Efecto Terono" y el sincronizador de alturas entre columnas.
+## Tecnologías
 
-style.css: Diseño basado en variables de modo oscuro (CSS Variables). Implementa un sistema de Grid y Flexbox elástico para garantizar la simetría visual.
+* **Google Gemini API**: Motor de inteligencia artificial para procesamiento de lenguaje natural.
+* **Python**: Automatización de la extracción y procesamiento de datos.
+* **Vanilla JavaScript (ES6+)**: Gestión de la interactividad y manipulación del DOM.
+* **CSS3 Custom Properties**: Estilizado dinámico y adaptativo.
 
-Carga de Datos
-El sistema opera de forma estática en runtime para maximizar la velocidad. El "Robot" (main.py) genera dos archivos por día en la carpeta data/:
+## Notas sobre el Proyecto
 
-YYYY-MM-DD_analisis.json: Contiene el resumen ejecutivo, extenso, tendencias y análisis por gobernador.
+* **Origen de Datos**: Extracción mediante técnicas de scraping sobre las cuentas oficiales de los mandatarios provinciales de Argentina.
+* **Propósito**: Herramienta de transparencia institucional y análisis de políticas públicas.
 
-YYYY-MM-DD_crudo.json: Contiene el archivo histórico de tweets procesados en esa jornada.
+## Autor
 
-Formato de Datos
-clima_general: String ("Tenso", "Cooperativo", etc.) que activa el semáforo.
+**X**:
+* Politólogo.
+* U.
 
-temas_calientes: Objetos con el tema y el array de @usuarios involucrados para el filtrado dinámico.
+## Licencia
 
-tweet_destacado: Objeto con la cita del día y el autor para la sección de impacto.
-
-Tecnologías
-Google Gemini API: Procesamiento de lenguaje natural y generación de análisis.
-
-Python: Automatización del robot de scraping y procesamiento de datos.
-
-Vanilla JavaScript (ES6+): Lógica de interfaz y manipulación del DOM.
-
-CSS3 Custom Properties: Gestión de temas y estilos dinámicos.
-
-HTML5: Estructura del dashboard con enfoque en accesibilidad.
-
-Notas sobre el Proyecto
-Origen de datos: Extracción mediante técnicas de scraping sobre cuentas oficiales de los 24 mandatarios provinciales.
-
-Enfoque: Diseñado como un insumo para la transparencia institucional y el análisis de políticas públicas.
-
-Autor
-X
-
-Licencia
 Este proyecto está bajo la Licencia MIT.
