@@ -374,16 +374,16 @@ function sincronizarAlturas() {
     const resumenCard = document.querySelector('.resumen-card');
     
     if (sidebar && resumenCard) {
-        // 1. Apagamos el límite para medir la grilla en su estado natural
-        resumenCard.style.maxHeight = 'none';
+        // 1. Apagamos la altura forzada para medir al natural
+        resumenCard.style.height = 'auto';
         
-        // 2. Si estamos en PC (pantallas anchas), aplicamos la medida exacta
+        // 2. Si estamos en PC, copiamos la medida exacta
         if (window.innerWidth > 768) {
+            // Tomamos la altura del jefe (columna derecha)
             const alturaDerecha = sidebar.offsetHeight;
-            // Forzamos a la caja izquierda a medir exactamente lo que mide la derecha
-            resumenCard.style.maxHeight = alturaDerecha + 'px';
+            
+            // Obligamos al esclavo (columna izquierda) a medir EXACTAMENTE eso
+            resumenCard.style.height = alturaDerecha + 'px';
         }
-        // Nota: En celulares (menor a 768px), las cajas se apilan verticalmente, 
-        // así que dejamos que crezcan sin límite ('none').
     }
 }
