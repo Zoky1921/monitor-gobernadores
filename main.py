@@ -35,19 +35,20 @@ def obtener_tweets_twitterapi(handle):
         
         tweets_texto = []
         
-# Buscamos en las "cajas" más comunes de las APIs
+# Extraemos la lista de la "doble caja" específica de TwitterAPI.io
+        lista_tweets = []
         if isinstance(data, dict):
-            if 'tweets' in data:
+            # Buscamos la ruta exacta: data -> data -> tweets
+            if 'data' in data and isinstance(data['data'], dict) and 'tweets' in data['data']:
+                lista_tweets = data['data']['tweets']
+            elif 'tweets' in data:
                 lista_tweets = data['tweets']
-            elif 'data' in data:
+            elif 'data' in data and isinstance(data['data'], list):
                 lista_tweets = data['data']
-            else:
-                lista_tweets = data
         else:
             lista_tweets = data
         
         if not isinstance(lista_tweets, list):
-            # Si sigue sin entenderlo, ahora nos va a imprimir los primeros 200 caracteres de lo que mandó la API
             print(f"Formato inesperado devuelto para @{handle}. LOG: {str(data)[:200]}")
             return []
             
