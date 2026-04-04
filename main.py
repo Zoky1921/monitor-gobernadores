@@ -80,15 +80,15 @@ def ejecutar_monitoreo():
         # --- CICLO DE RECOLECCIÓN ---
         for handle in handles:
             print(f"Buscando tweets de @{handle}...")
-            tweets = obtener_tweets_rapidapi(handle)
+            tweets = obtener_tweets_twitterapi(handle)
             
             diccionario_crudo[handle] = tweets
 
             for t in tweets:
                 data_context += f"[@{handle}]: {t}\n---\n"
             
-            # 5 segundos de espera obligatorios para no saturar RapidAPI
-            time.sleep(5) 
+            # 5 segundos de espera obligatorios para no saturar RapidAPI (ahora usa otra api)
+            time.sleep(1) 
 
         if not data_context:
             print("No se encontraron tweets nuevos hoy.")
