@@ -17,7 +17,10 @@
             <h1>El Radar Federal</h1>
             <p>Radiografía del discurso de los 24 gobernadores mediante IA</p>
             
-<a href="#seccion-mapa" class="btn-cta">Explorar Mapa de Declaraciones ↓</a>
+<div class="botones-header" style="display: flex; gap: 15px; margin-top: 20px;">
+    <a href="#seccion-mapa" class="btn-cta">Explorar Mapa de Declaraciones ↓</a>
+    <button id="btn-turno" class="btn-cta" style="background-color: var(--fondo-card); color: var(--texto-principal); border: 1px solid var(--azul-acento);" onclick="cambiarTurno()">☀️ Turno Mañana</button>
+</div>
        </div>
         <div class="date-selector">
             <label for="fecha-select">📅 Archivo Histórico:</label>
