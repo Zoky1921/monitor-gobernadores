@@ -7,7 +7,7 @@ from google import genai
 from google.genai import types
 
 # 1. Cargar llaves
-RAPIDAPI_KEY = os.environ.get('RAPIDAPI_KEY')
+TWITTERAPI_KEY = os.environ.get("TWITTERAPI_KEY")
 GEMINI_KEY = os.environ.get('GEMINI_API_KEY')
 
 # 2. Inicializar Gemini (Librería moderna)
@@ -20,12 +20,12 @@ fecha_hoy_str = ahora.strftime('%Y-%m-%d')
 fecha_pantalla = ahora.strftime('%d/%m/%Y') 
 hora_corte = ahora.strftime('%H:%M')
 
-def obtener_tweets_rapidapi(handle):
-    url = "https://twitter-api45.p.rapidapi.com/timeline.php"
-    querystring = {"screenname": handle}
+def obtener_tweets_twitterapi(handle):
+    url = "https://api.twitterapi.io/twitter/user/last_tweets"
+    querystring = {"userName": handle}
+    
     headers = {
-        "x-rapidapi-key": RAPIDAPI_KEY,
-        "x-rapidapi-host": "twitter-api45.p.rapidapi.com"
+        "X-API-Key": TWITTERAPI_KEY
     }
     
     try:
@@ -35,31 +35,28 @@ def obtener_tweets_rapidapi(handle):
         
         tweets_texto = []
         
-        def procesar_lista(lista):
-            for t in lista:
-                # 1. ¿Es un Retweet?
-                if 'retweeted_status' in t:
-                    rt_obj = t['retweeted_status']
-                    texto = rt_obj.get('full_text') or rt_obj.get('text')
-                    prefijo = "RT: "
-                else:
-                    # Si es un tweet propio, exigimos el "full_text" para no perder hilos
-                    texto = t.get('full_text') or t.get('text')
-                    prefijo = ""
+        lista_tweets = data.get('tweets', data) if isinstance(data, dict) else data
+        
+        if not isinstance(lista_tweets, list):
+            print(f"Formato inesperado devuelto para @{handle}")
+            return []
+            
+        for t in lista_tweets:
+            texto = t.get('full_text') or t.get('text')
+            
+            is_rt = t.get('isRetweet') or 'retweeted_tweet' in t or (texto and texto.startswith('RT @'))
+            prefijo = "RT: " if is_rt else ""
+            
+            if 'retweeted_tweet' in t and isinstance(t['retweeted_tweet'], dict):
+                texto = t['retweeted_tweet'].get('full_text') or t['retweeted_tweet'].get('text') or texto
                 
-                # 2. Solo procesamos si hay texto real
-                if texto and isinstance(texto, str) and texto.strip():
-                    fecha = t.get('created_at', 'Fecha desconocida')
-                    tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto}")
+            if texto and isinstance(texto, str) and texto.strip():
+                fecha = t.get('createdAt') or t.get('created_at', 'Fecha desconocida')
+                tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto}")
                 
-                if len(tweets_texto) >= 40:
-                    break
-
-        if isinstance(data, list):
-            procesar_lista(data)
-        elif isinstance(data, dict) and 'timeline' in data:
-            procesar_lista(data['timeline'])
-                    
+            if len(tweets_texto) >= 40:
+                break
+                
         return tweets_texto
     except Exception as e:
         print(f"Error buscando a @{handle}: {e}")
