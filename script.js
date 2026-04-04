@@ -1,4 +1,5 @@
 let gobernadoresBase = [];
+let turnoActual = "manana"; // Memoria global del turno
 
 // =========================================
 // FUNCIÓN PARA OBTENER FECHA ARGENTINA
@@ -12,6 +13,21 @@ function obtenerFechaFormateada(diasRestados = 0) {
 document.addEventListener("DOMContentLoaded", async () => {
     console.log("Web iniciada. Cargando base de gobernadores...");
     const inputFecha = document.getElementById("fecha-select");
+    // NUEVO: Definir el turno inicial según la hora exacta de Argentina
+    const ahoraArg = new Date(new Date().toLocaleString("en-US", {timeZone: "America/Argentina/Buenos_Aires"}));
+    const horaArg = ahoraArg.getHours();
+    
+    if (horaArg >= 21) {
+        turnoActual = "noche";
+        document.getElementById("btn-turno").innerHTML = "🌙 Turno Noche";
+    } else if (horaArg >= 9) {
+        turnoActual = "manana";
+        document.getElementById("btn-turno").innerHTML = "☀️ Turno Mañana";
+    } else {
+        // Si entra de madrugada, le mostramos la noche (el código luego buscará la de ayer)
+        turnoActual = "noche";
+        document.getElementById("btn-turno").innerHTML = "🌙 Turno Noche";
+    }
     
     // NUEVO: Si el usuario cambia el tamaño de la ventana, recalculamos las alturas
     window.addEventListener('resize', sincronizarAlturas);
@@ -60,8 +76,8 @@ async function cargarTablero(fecha) {
     temasLista.innerHTML = "<li>Cargando...</li>";
 
     try {
-        const resAnalisis = await fetch(`./data/${fecha}_analisis.json`);
-        const resCrudo = await fetch(`./data/${fecha}_crudo.json`);
+        const resAnalisis = await fetch(`./data/${fecha}_analisis_${turnoActual}.json`);
+        const resCrudo = await fetch(`./data/${fecha}_crudo_${turnoActual}.json`);
 
         if (!resAnalisis.ok || !resCrudo.ok) {
             console.warn(`Archivos no encontrados para la fecha ${fecha}`);
@@ -383,4 +399,39 @@ function sincronizarAlturas() {
             resumenCard.style.height = alturaDerecha + 'px';
         }
     }
+}
+/* =========================================
+   SELECTOR DE TURNO (MAÑANA / NOCHE)
+========================================= */
+function cambiarTurno() {
+    const btn = document.getElementById("btn-turno");
+    const fechaSeleccionada = document.getElementById("fecha-select").value;
+    const fechaHoy = obtenerFechaFormateada(0);
+    
+    // Obtenemos la hora actual en Argentina
+    const ahora = new Date(new Date().toLocaleString("en-US", {timeZone: "America/Argentina/Buenos_Aires"}));
+    const hora = ahora.getHours();
+    const min = ahora.getMinutes();
+    
+    if (turnoActual === "manana") {
+        // Quiere cambiar a NOCHE
+        // Si está mirando el día de HOY, verificamos si ya pasó el horario del robot
+        if (fechaSeleccionada === fechaHoy && (hora < 21 || (hora === 21 && min < 15))) {
+            alert("⏳ El reporte nocturno de hoy recién estará disponible a partir de las 21:15 hs.");
+            return; // Cortamos la función para que no rompa la página
+        }
+        turnoActual = "noche";
+        btn.innerHTML = "🌙 Turno Noche";
+    } else {
+        // Quiere cambiar a MAÑANA
+        if (fechaSeleccionada === fechaHoy && (hora < 9 || (hora === 9 && min < 15))) {
+            alert("⏳ El reporte de la mañana de hoy recién estará disponible a partir de las 09:15 hs.");
+            return; 
+        }
+        turnoActual = "manana";
+        btn.innerHTML = "☀️ Turno Mañana";
+    }
+    
+    // Si pasó la validación de seguridad, recargamos el tablero con el nuevo turno
+    cargarTablero(fechaSeleccionada);
 }
