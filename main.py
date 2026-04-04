@@ -35,10 +35,20 @@ def obtener_tweets_twitterapi(handle):
         
         tweets_texto = []
         
-        lista_tweets = data.get('tweets', data) if isinstance(data, dict) else data
+# Buscamos en las "cajas" más comunes de las APIs
+        if isinstance(data, dict):
+            if 'tweets' in data:
+                lista_tweets = data['tweets']
+            elif 'data' in data:
+                lista_tweets = data['data']
+            else:
+                lista_tweets = data
+        else:
+            lista_tweets = data
         
         if not isinstance(lista_tweets, list):
-            print(f"Formato inesperado devuelto para @{handle}")
+            # Si sigue sin entenderlo, ahora nos va a imprimir los primeros 200 caracteres de lo que mandó la API
+            print(f"Formato inesperado devuelto para @{handle}. LOG: {str(data)[:200]}")
             return []
             
         for t in lista_tweets:
@@ -88,7 +98,7 @@ def ejecutar_monitoreo():
                 data_context += f"[@{handle}]: {t}\n---\n"
             
             # 5 segundos de espera obligatorios para no saturar RapidAPI (ahora usa otra api)
-            time.sleep(1) 
+            time.sleep(5) 
 
         if not data_context:
             print("No se encontraron tweets nuevos hoy.")
