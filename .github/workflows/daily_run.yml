@@ -2,7 +2,7 @@ name: Monitor Politico Diario
 
 on:
   schedule:
-    - cron: '30 23 * * *' # Corre a las 23:30 UTC -> 20:30 hora de Argentina
+    - cron: '0 0,12 * * *' #Corre a las 12:00 UTC (09:00 de Argentina) y a las 00:00 UTC (21:00 de Argentina)a
   workflow_dispatch:
 
 jobs:
