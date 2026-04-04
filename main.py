@@ -187,7 +187,7 @@ TWEETS A ANALIZAR:
         
         # 4. Enviar a Gemini (Forzando la salida a JSON puro)
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json"
