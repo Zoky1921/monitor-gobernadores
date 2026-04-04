@@ -20,6 +20,15 @@ fecha_hoy_str = ahora.strftime('%Y-%m-%d')
 fecha_pantalla = ahora.strftime('%d/%m/%Y') 
 hora_corte = ahora.strftime('%H:%M')
 
+# ---> NUEVO: Definición del turno <---
+if ahora.hour < 15:
+    turno = "manana"
+else:
+    turno = "noche"
+
+print(f"Iniciando radar para la fecha: {fecha_hoy_str} a las {hora_corte} hs (Hora Argentina)")
+print(f"--- Ejecutando turno: {turno.upper()} ---")
+
 def obtener_tweets_twitterapi(handle):
     url = "https://api.twitterapi.io/twitter/user/last_tweets"
     querystring = {"userName": handle}
@@ -105,9 +114,10 @@ def ejecutar_monitoreo():
             print("No se encontraron tweets nuevos hoy.")
             return
 
-        # --- GUARDAR EL ARCHIVO CRUDO ---
+# --- GUARDAR EL ARCHIVO CRUDO ---
         os.makedirs('data', exist_ok=True)
-        ruta_crudo = f'data/{fecha_hoy_str}_crudo.json'
+        # Le agregamos el turno al final del nombre, antes del .json
+        ruta_crudo = f'data/{fecha_hoy_str}_crudo_{turno}.json'
         with open(ruta_crudo, 'w', encoding='utf-8') as f:
             json.dump(diccionario_crudo, f, ensure_ascii=False, indent=4)
         print(f"✅ Archivo crudo guardado: {ruta_crudo}")
@@ -201,7 +211,7 @@ TWEETS A ANALIZAR:
             raise e
 
         # 5. Guardar el Análisis
-        ruta_analisis = f'data/{fecha_hoy_str}_analisis.json'
+        ruta_analisis = f'data/{fecha_hoy_str}_analisis_{turno}.json'
         with open(ruta_analisis, 'w', encoding='utf-8') as f:
             json.dump(resumen_data, f, ensure_ascii=False, indent=4)
 
