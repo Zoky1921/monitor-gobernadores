@@ -67,6 +67,31 @@ body {
     font-weight: 500;
 }
 
+/* --- BOTONES DE TURNO (M/N) --- */
+.btn-turno {
+    background: var(--fondo-oscuro);
+    color: var(--texto-secundario);
+    border: 1px solid var(--borde);
+    padding: 8px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.btn-turno:hover {
+    border-color: var(--azul-acento);
+    color: var(--texto-principal);
+}
+
+.btn-turno.activo {
+    background-color: var(--azul-acento);
+    color: var(--fondo-oscuro);
+    font-weight: 700;
+    border-color: var(--azul-acento);
+    box-shadow: 0 0 10px rgba(56, 189, 248, 0.3);
+}
+
 /* BANNER PATROCINADORES */
 .banner-sponsors {
     background: rgba(30, 41, 59, 0.3);
