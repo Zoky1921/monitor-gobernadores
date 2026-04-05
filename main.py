@@ -61,7 +61,7 @@ def obtener_tweets_twitterapi(handle):
             print(f"Formato inesperado devuelto para @{handle}. LOG: {str(data)[:200]}")
             return []
 
-for t in lista_tweets:
+        for t in lista_tweets:
             # 1. Capturamos el texto base
             texto_base = t.get('full_text') or t.get('text')
             
