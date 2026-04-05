@@ -61,18 +61,24 @@ def obtener_tweets_twitterapi(handle):
             print(f"Formato inesperado devuelto para @{handle}. LOG: {str(data)[:200]}")
             return []
             
-        for t in lista_tweets:
-            texto = t.get('full_text') or t.get('text')
+       for t in lista_tweets:
+            # 1. Capturamos el texto base
+            texto_base = t.get('full_text') or t.get('text')
             
-            is_rt = t.get('isRetweet') or 'retweeted_tweet' in t or (texto and texto.startswith('RT @'))
-            prefijo = "RT: " if is_rt else ""
+            # 2. Identificación de RT (Detección robusta)
+            is_rt = t.get('isRetweet') == True or 'retweeted_tweet' in t or (texto_base and texto_base.startswith('RT @'))
             
+            # 3. Si es RT, extraemos el contenido original para que no se corte
             if 'retweeted_tweet' in t and isinstance(t['retweeted_tweet'], dict):
-                texto = t['retweeted_tweet'].get('full_text') or t['retweeted_tweet'].get('text') or texto
-                
-            if texto and isinstance(texto, str) and texto.strip():
+                texto_final = t['retweeted_tweet'].get('full_text') or t['retweeted_tweet'].get('text') or texto_base
+            else:
+                texto_final = texto_base
+
+            # 4. Construimos la línea con el prefijo [RE-TWEET]
+            if texto_final and isinstance(texto_final, str) and texto_final.strip():
+                prefijo = "[RE-TWEET] " if is_rt else ""
                 fecha = t.get('createdAt') or t.get('created_at', 'Fecha desconocida')
-                tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto}")
+                tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto_final}")
                 
             if len(tweets_texto) >= 40:
                 break
