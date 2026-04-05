@@ -62,31 +62,48 @@ def obtener_tweets_twitterapi(handle):
             return []
 
         for t in lista_tweets:
-            # 1. Capturamos el texto base
-            texto_base = t.get('full_text') or t.get('text')
-            
-            # 2. Identificación de RT (Corregida para evitar falsos positivos)
-            es_rt_flag = str(t.get('isRetweet')).lower() == 'true'
-            tiene_rt_dict = isinstance(t.get('retweeted_tweet'), dict) and len(t.get('retweeted_tweet')) > 0
-            empieza_con_rt = bool(texto_base) and texto_base.startswith('RT @')
-            
-            is_rt = es_rt_flag or tiene_rt_dict or empieza_con_rt
-            
-            # 3. Si es RT, extraemos el contenido original
-            if tiene_rt_dict:
-                texto_final = t['retweeted_tweet'].get('full_text') or t['retweeted_tweet'].get('text') or texto_base
-            else:
-                texto_final = texto_base
+                texto_base = t.get('full_text') or t.get('text')
+                
+                es_rt_flag = str(t.get('isRetweet')).lower() == 'true'
+                tiene_rt_dict = isinstance(t.get('retweeted_tweet'), dict) and len(t.get('retweeted_tweet')) > 0
+                empieza_con_rt = bool(texto_base) and texto_base.startswith('RT @')
+                
+                is_rt = es_rt_flag or tiene_rt_dict or empieza_con_rt
+                
+                # --- NUEVO: Búsqueda del autor original del RT ---
+                autor_original = ""
+                if tiene_rt_dict:
+                    # Buscamos en el diccionario del RT original
+                    usuario_rt = t['retweeted_tweet'].get('user') or t['retweeted_tweet'].get('author') or {}
+                    if isinstance(usuario_rt, dict):
+                        autor_original = usuario_rt.get('screen_name') or usuario_rt.get('userName') or usuario_rt.get('username') or ""
+                
+                # Plan B: Si la API no trajo el diccionario, lo cortamos "a mano" del texto
+                if not autor_original and texto_base and texto_base.startswith('RT @'):
+                    partes = texto_base.split(' ', 2)
+                    if len(partes) > 1:
+                        # Limpiamos los dos puntos y el arroba para que quede prolijo
+                        autor_original = partes[1].replace(':', '').replace('@', '')
+                # -------------------------------------------------
+                
+                if tiene_rt_dict:
+                    texto_final = t['retweeted_tweet'].get('full_text') or t['retweeted_tweet'].get('text') or texto_base
+                else:
+                    texto_final = texto_base
 
-            # 4. Construimos la línea con el prefijo
-            if texto_final and isinstance(texto_final, str) and texto_final.strip():
-                prefijo = "[RE-TWEET] " if is_rt else ""
-                fecha = t.get('createdAt') or t.get('created_at', 'Fecha desconocida')
-                tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto_final}")
+                if texto_final and isinstance(texto_final, str) and texto_final.strip():
+                    # --- NUEVO: Armado del prefijo personalizado ---
+                    if is_rt:
+                        prefijo = f"[RE-TWEET de @{autor_original}] " if autor_original else "[RE-TWEET] "
+                    else:
+                        prefijo = ""
+                        
+                    fecha = t.get('createdAt') or t.get('created_at', 'Fecha desconocida')
+                    tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto_final}")
 
-            if len(tweets_texto) >= 40:
-                break
-
+                if len(tweets_texto) >= 40:
+                    break
+                    
         return tweets_texto
         
     except Exception as e:
