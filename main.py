@@ -60,8 +60,8 @@ def obtener_tweets_twitterapi(handle):
         if not isinstance(lista_tweets, list):
             print(f"Formato inesperado devuelto para @{handle}. LOG: {str(data)[:200]}")
             return []
-            
-       for t in lista_tweets:
+
+        for t in lista_tweets:
             # 1. Capturamos el texto base
             texto_base = t.get('full_text') or t.get('text')
             
@@ -79,11 +79,12 @@ def obtener_tweets_twitterapi(handle):
                 prefijo = "[RE-TWEET] " if is_rt else ""
                 fecha = t.get('createdAt') or t.get('created_at', 'Fecha desconocida')
                 tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto_final}")
-                
+
             if len(tweets_texto) >= 40:
                 break
-                
+
         return tweets_texto
+        
     except Exception as e:
         print(f"Error buscando a @{handle}: {e}")
         return []
