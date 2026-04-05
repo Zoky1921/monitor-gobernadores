@@ -1,0 +1,87 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal exhibe una mezcla de gestión provincial proactiva y una clara tensión política. Axel Kicillof (Buenos Aires) lanzó una crítica contundente al gobierno nacional, poniendo en duda la fiabilidad de las estadísticas de pobreza. En contraste, Alberto Weretilneck (Río Negro) capitalizó el fin de semana largo con una intensa promoción turística y destacó el avance de proyectos energéticos y acciones de seguridad. Leandro Zdero (Chaco) reportó progreso en infraestructura, educación y desarrollo productivo local, mientras Maximiliano Pullaro (Santa Fe) reafirmó su estrategia de seguridad basada en datos. La agenda se polariza entre el cuestionamiento a las políticas nacionales y el enfoque en la capacidad de gestión autónoma provincial.",
+    "analisis_profundo": "La dinámica federal de este turno se caracteriza por la persistencia de una tensión subyacente entre la Provincia de Buenos Aires y el gobierno nacional, encarnada en el discurso de Axel Kicillof (Buenos Aires). Su re-tweet crítico sobre la 'no fiabilidad' de los números de pobreza es una declaración política directa que desafía la narrativa económica central y subraya la preocupación por las consecuencias sociales de las políticas nacionales. Esta postura se alinea con un federalismo fiscal y socialmente combativo, buscando posicionar a la Provincia de Buenos Aires como garante de un diagnóstico social más 'realista' frente a lo que percibe como una falacia oficial.\n\nEn contraste, gran parte de la actividad tuitera de los gobernadores se centró en la gestión provincial y la promoción local, especialmente en el contexto del fin de semana largo de Pascuas. Alberto Weretilneck (Río Negro) exhibió una estrategia de 'escaparate' turístico, saturando su feed con la Fiesta del Chocolate en Bariloche y la Fiesta de la Cordialidad en Comallo. Esta táctica busca destacar la autonomía provincial en la generación de recursos y oportunidades económicas, proyectando una imagen de dinamismo y atracción de inversiones turísticas, con el proyecto VMOS como pilar energético y laboral. Su mención a un operativo antidrogas en Cipolletti también denota un compromiso con la seguridad interna, desligada de grandes debates nacionales.\n\nLeandro Zdero (Chaco) siguió una línea similar, destacando logros de gestión en infraestructura vial ('caminos que llegan'), mejoras educativas a través del 'Programa Mejor Escuela' y el impulso a la producción local con proyección exportadora. Su reflexión pascual, aunque protocolar, incluye referencias a una 'reconstrucción real' y 'tiempos de transición', lo que puede leerse como un reconocimiento implícito del complejo contexto macroeconómico nacional, pero con un enfoque en la resiliencia y el esfuerzo provincial. Maximiliano Pullaro (Santa Fe) mantuvo su agenda focalizada en la seguridad, resaltando el trabajo 'con estadísticas y datos' para una mejor respuesta, una estrategia que ha intentado despolitizar el tema de la seguridad en su provincia.\n\nEn resumen, mientras Kicillof (Buenos Aires) sigue en una senda de confrontación ideológica y económica con la Nación, los demás gobernadores recientes eligen destacar la gestión local, la generación de empleo y la promoción de sus economías regionales, buscando proyectar una imagen de estabilidad y progreso provincial en un contexto nacional de incertidumbre económica. La ausencia de respuestas directas a Kicillof por parte de otros gobernadores subraya una diversificación de agendas, donde algunos optan por el perfil bajo en la confrontación para maximizar el capital político de la gestión interna.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la Gestión Económica Nacional / Fiabilidad de Datos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Promoción Turística y Desarrollo Local (Fin de Semana Largo)",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo de Infraestructura y Obras Públicas",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Impulso a la Producción y la Economía Regional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Hace algunos meses advertimos algo incómodo: los números de pobreza no estaban siendo fiables. Abrimos hilo 👇",
+        "por_que_es_clave": "Esta declaración de Axel Kicillof (Buenos Aires) es clave porque, al cuestionar la 'fiabilidad' de las estadísticas de pobreza, lanza una crítica directa a la gestión económica nacional, insinuando una manipulación o inexactitud de los datos oficiales, lo cual tiene un peso político significativo y alimenta la tensión federal."
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica económica nacional",
+                "Pobreza"
+            ],
+            "postura_politica": "Mantiene una postura combativa y crítica hacia las políticas del gobierno nacional, enfatizando el impacto social y cuestionando la transparencia de los datos económicos.",
+            "frase_fuerte": "Hace algunos meses advertimos algo incómodo: los números de pobreza no estaban siendo fiables."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Educación",
+                "Desarrollo productivo",
+                "Reconstrucción provincial"
+            ],
+            "postura_politica": "Se enfoca en la gestión provincial activa, la mejora de servicios y el impulso a la economía local, adoptando un tono de esperanza y resiliencia ante un contexto de 'transición'.",
+            "frase_fuerte": "Atravesamos momentos de transición, pero son los desafíos de una reconstrucción real."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Turismo",
+                "Economía regional",
+                "Seguridad",
+                "Proyectos energéticos"
+            ],
+            "postura_politica": "Prioriza la promoción de la provincia como destino turístico y motor económico, destacando eventos y obras que generan empleo, complementado con acciones en seguridad.",
+            "frase_fuerte": "BARILOCHE ESTÁ IMPERDIBLE Miles de personas disfrutan este fin de semana largo de uno de los eventos más lindos de la Patagonia: el mejor chocolate, grandes espectáculos, artistas y los paisajes únicos que hacen de Bariloche un lugar incomparable."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad"
+            ],
+            "postura_politica": "Reafirma su compromiso con una política de seguridad provincial basada en el análisis de datos y la mejora de la respuesta ante el delito.",
+            "frase_fuerte": "La seguridad en Santa Fe es nuestra prioridad. Trabajamos con estadísticas y datos para tener la mejor respuesta posible."
+        }
+    ]
+}
