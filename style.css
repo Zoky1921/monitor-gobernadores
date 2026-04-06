@@ -481,10 +481,14 @@ html {
 }
 
 .btn-cta {
-    display: inline-block;
+    display: inline-flex; /* Centra perfectamente textos con íconos */
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle; /* Alinea los botones entre sí */
     background-color: var(--azul-acento);
     color: var(--fondo-oscuro);
     padding: 10px 24px;
+    border: 2px solid var(--azul-acento); /* Secreto: mismo grosor de borde que el otro */
     border-radius: 30px;
     text-decoration: none;
     font-weight: 700;
@@ -498,6 +502,7 @@ html {
     transform: translateY(-2px); 
     box-shadow: 0 6px 20px rgba(56, 189, 248, 0.5);
     background-color: #7dd3fc; 
+    border-color: #7dd3fc;
 }
 
 /* =========================================
