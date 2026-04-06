@@ -10,13 +10,56 @@ function obtenerFechaFormateada(diasRestados = 0) {
     return fecha.toLocaleDateString('en-CA', { timeZone: 'America/Argentina/Buenos_Aires' }); 
 }
 
-
-
-    inputFecha.addEventListener("change", (e) => cargarTablero(e.target.value));
+document.addEventListener("DOMContentLoaded", async () => {
+    console.log("Web iniciada. Cargando base de gobernadores...");
+    const inputFecha = document.getElementById("fecha-select");
     
-    document.querySelector(".close-btn").addEventListener("click", () => {
-        document.getElementById("modal-detalle").classList.add("oculta");
-    });
+    // Obtenemos la hora actual de Argentina
+    const ahoraArg = new Date(new Date().toLocaleString("en-US", {timeZone: "America/Argentina/Buenos_Aires"}));
+    const horaArg = ahoraArg.getHours();
+    
+    // LÓGICA DE TURNOS EXACTA:
+    if (horaArg >= 20) {
+        turnoActual = "noche";
+        document.getElementById("btn-turno").innerHTML = "🌙 Turno Noche";
+    } else {
+        turnoActual = "manana";
+        document.getElementById("btn-turno").innerHTML = "☀️ Turno Mañana";
+    }
+    
+    window.addEventListener('resize', sincronizarAlturas);
+    
+    try {
+        const res = await fetch("./gobernadores.json");
+        if (!res.ok) throw new Error("No se pudo cargar gobernadores.json");
+        gobernadoresBase = await res.json();
+        console.log("Base de gobernadores cargada con éxito.");
+        
+        // FORZAMOS SIEMPRE EL DÍA DE HOY
+        let fechaHoy = obtenerFechaFormateada(0); 
+        
+        // Cargamos el tablero
+        await cargarTablero(fechaHoy);
+        
+        // Clavamos el selector de fecha
+        if(inputFecha) inputFecha.value = fechaHoy;
+
+    } catch (error) {
+        console.error("Error crítico al iniciar:", error);
+        const cajaEj = document.getElementById("resumen-ejecutivo");
+        if(cajaEj) cajaEj.innerHTML = "Error al cargar la base de datos.";
+    }
+
+    if(inputFecha) {
+        inputFecha.addEventListener("change", (e) => cargarTablero(e.target.value));
+    }
+    
+    const closeBtn = document.querySelector(".close-btn");
+    if(closeBtn) {
+        closeBtn.addEventListener("click", () => {
+            document.getElementById("modal-detalle").classList.add("oculta");
+        });
+    }
 });
 
 async function cargarTablero(fecha) {
@@ -27,35 +70,40 @@ async function cargarTablero(fecha) {
     const temasLista = document.getElementById("temas-lista");
     const grilla = document.getElementById("grilla-gobernadores");
 
-    cajaEjecutivo.innerHTML = "<i>Buscando resumen ejecutivo...</i>";
-    cajaProfundo.innerHTML = "<i>Buscando análisis profundo...</i>";
-    grilla.innerHTML = "";
-    temasLista.innerHTML = "<li>Cargando...</li>";
+    if(cajaEjecutivo) cajaEjecutivo.innerHTML = "<i>Buscando resumen ejecutivo...</i>";
+    if(cajaProfundo) cajaProfundo.innerHTML = "<i>Buscando análisis profundo...</i>";
+    if(grilla) grilla.innerHTML = "";
+    if(temasLista) temasLista.innerHTML = "<li>Cargando...</li>";
 
     try {
         const resAnalisis = await fetch(`./data/${fecha}_analisis_${turnoActual}.json`);
         const resCrudo = await fetch(`./data/${fecha}_crudo_${turnoActual}.json`);
 
-if (!resAnalisis.ok || !resCrudo.ok) {
+        if (!resAnalisis.ok || !resCrudo.ok) {
             console.warn(`Archivos no encontrados para la fecha ${fecha}`);
             
-            // NUEVO: Traducimos la variable solo para lo visual en pantalla
+            // TRADUCCIÓN VISUAL
             const turnoVisual = turnoActual === "manana" ? "mañana" : "noche";
             
-            // EL NUEVO CARTEL ELEGANTE (SIN ALERTAS Y CON LA Ñ)
-            cajaEjecutivo.innerHTML = `
-                <div style="text-align: center; padding: 25px; color: #cbd5e1; background-color: rgba(30, 41, 59, 0.5); border-radius: 8px; border: 1px dashed #334155;">
-                    <h4 style="color: #38bdf8; margin-bottom: 10px;">No hay informes para el ${fecha} (${turnoVisual}).</h4>
-                    <p style="margin: 0; font-size: 0.95rem;">Los datos se procesan en dos turnos:</p>
-                    <p style="margin: 0; font-size: 0.95rem;">Por la <strong>mañana (10:45 aprox)</strong> y por la <strong>noche (20:15 aprox)</strong>.</p>
-                </div>
-            `;
+            // CARTEL ELEGANTE
+            if(cajaEjecutivo) {
+                cajaEjecutivo.innerHTML = `
+                    <div style="text-align: center; padding: 25px; color: #cbd5e1; background-color: rgba(30, 41, 59, 0.5); border-radius: 8px; border: 1px dashed #334155;">
+                        <h4 style="color: #38bdf8; margin-bottom: 10px;">No hay informes para el ${fecha} (${turnoVisual}).</h4>
+                        <p style="margin: 0; font-size: 0.95rem;">Los datos se procesan en dos turnos:</p>
+                        <p style="margin: 0; font-size: 0.95rem;">Por la <strong>mañana (10:45 aprox)</strong> y por la <strong>noche (20:15 aprox)</strong>.</p>
+                    </div>
+                `;
+            }
             
-            // Limpiamos el resto de las cajas para que no quede "basura" visual
-            cajaProfundo.innerHTML = "<p style='text-align:center; color:#94a3b8; margin-top:20px;'><i>A la espera del procesamiento...</i></p>";
-            temasLista.innerHTML = "<li>Sin datos registrados</li>";
-            document.getElementById("tweet-destacado-texto").textContent = "Sin posteos destacados en este turno.";
-            document.getElementById("tweet-destacado-autor").textContent = "";
+            if(cajaProfundo) cajaProfundo.innerHTML = "<p style='text-align:center; color:#94a3b8; margin-top:20px;'><i>A la espera del procesamiento...</i></p>";
+            if(temasLista) temasLista.innerHTML = "<li>Sin datos registrados</li>";
+            
+            const tweetTexto = document.getElementById("tweet-destacado-texto");
+            const tweetAutor = document.getElementById("tweet-destacado-autor");
+            if(tweetTexto) tweetTexto.textContent = "Sin posteos destacados en este turno.";
+            if(tweetAutor) tweetAutor.textContent = "";
+            
             actualizarSemaforo(null); 
             
             return false; 
@@ -68,75 +116,80 @@ if (!resAnalisis.ok || !resCrudo.ok) {
         actualizarSemaforo(analisis.clima_general);
 
         // 1. DOBLE VELOCIDAD DE LECTURA
-        cajaEjecutivo.textContent = analisis.resumen_ejecutivo || "Resumen ejecutivo no disponible.";
+        if(cajaEjecutivo) cajaEjecutivo.textContent = analisis.resumen_ejecutivo || "Resumen ejecutivo no disponible.";
         
         if (analisis.analisis_profundo) {
             const textoConParrafos = analisis.analisis_profundo.replace(/\. /g, '.<br><br>');
-            cajaProfundo.innerHTML = textoConParrafos;
+            if(cajaProfundo) cajaProfundo.innerHTML = textoConParrafos;
         } else {
-            cajaProfundo.innerHTML = "Análisis profundo no disponible.";
+            if(cajaProfundo) cajaProfundo.innerHTML = "Análisis profundo no disponible.";
         }
 
-        // 2. TENDENCIAS (CON EFECTO TERONO INTEGRADO)
-        temasLista.innerHTML = "";
-        if (analisis.temas_calientes) {
-            analisis.temas_calientes.slice(0, 5).forEach(temaItem => {
-                let li = document.createElement("li");
-                
-                if (typeof temaItem === 'string') {
-                    li.textContent = temaItem; 
-                } else {
-                    li.innerHTML = `<span>${temaItem.tema}</span> <span style="float:right; font-size:0.7rem; background:#3b82f6; color:#0f172a; padding:2px 8px; border-radius:10px; font-weight:bold;">${temaItem.gobernadores_involucrados.length} gobs</span>`;
-                    li.style.cursor = "pointer";
-                    li.style.transition = "all 0.2s ease";
-                    li.title = "Clic para ver quiénes hablaron de esto";
+        // 2. TENDENCIAS
+        if(temasLista) {
+            temasLista.innerHTML = "";
+            if (analisis.temas_calientes) {
+                analisis.temas_calientes.slice(0, 5).forEach(temaItem => {
+                    let li = document.createElement("li");
                     
-                    li.onmouseover = () => li.style.borderColor = "#3b82f6";
-                    li.onmouseout = () => li.style.borderColor = "transparent";
-                    li.style.border = "1px solid transparent";
+                    if (typeof temaItem === 'string') {
+                        li.textContent = temaItem; 
+                    } else {
+                        li.innerHTML = `<span>${temaItem.tema}</span> <span style="float:right; font-size:0.7rem; background:#3b82f6; color:#0f172a; padding:2px 8px; border-radius:10px; font-weight:bold;">${temaItem.gobernadores_involucrados.length} gobs</span>`;
+                        li.style.cursor = "pointer";
+                        li.style.transition = "all 0.2s ease";
+                        li.title = "Clic para ver quiénes hablaron de esto";
+                        
+                        li.onmouseover = () => li.style.borderColor = "#3b82f6";
+                        li.onmouseout = () => li.style.borderColor = "transparent";
+                        li.style.border = "1px solid transparent";
 
-                    li.onclick = () => aplicarFiltroTerono(temaItem.gobernadores_involucrados);
-                }
-                temasLista.appendChild(li);
-            });
+                        li.onclick = () => aplicarFiltroTerono(temaItem.gobernadores_involucrados);
+                    }
+                    temasLista.appendChild(li);
+                });
+            }
         }
 
         // 3. EL POST DEL DÍA
         if (analisis.tweet_destacado) {
-            document.getElementById("tweet-destacado-texto").textContent = `"${analisis.tweet_destacado.texto}"`;
-            document.getElementById("tweet-destacado-autor").textContent = `- ${analisis.tweet_destacado.usuario}`;
+            const tText = document.getElementById("tweet-destacado-texto");
+            const tAutor = document.getElementById("tweet-destacado-autor");
+            if(tText) tText.textContent = `"${analisis.tweet_destacado.texto}"`;
+            if(tAutor) tAutor.textContent = `- ${analisis.tweet_destacado.usuario}`;
         }
 
-        // 4. GRILLA DE GOBERNADORES (CON DATASET DE USUARIO)
-        gobernadoresBase.forEach(gob => {
-            const analisisGob = analisis.analisis_por_gobernador.find(
-                a => a.gobernador.toLowerCase().includes(gob.usuario_x.toLowerCase())
-            );
-            const crudoGob = crudo[gob.usuario_x] || [];
+        // 4. GRILLA DE GOBERNADORES
+        if(grilla && gobernadoresBase) {
+            gobernadoresBase.forEach(gob => {
+                const analisisGob = analisis.analisis_por_gobernador.find(
+                    a => a.gobernador.toLowerCase().includes(gob.usuario_x.toLowerCase())
+                );
+                const crudoGob = crudo[gob.usuario_x] || [];
 
-            let tarjeta = document.createElement("div");
-            tarjeta.className = "tarjeta-gob";
-            
-            tarjeta.dataset.usuario = gob.usuario_x.toLowerCase().replace('@', ''); 
+                let tarjeta = document.createElement("div");
+                tarjeta.className = "tarjeta-gob";
+                
+                tarjeta.dataset.usuario = gob.usuario_x.toLowerCase().replace('@', ''); 
 
-            tarjeta.innerHTML = `
-                <img src="${gob.foto_url}" alt="${gob.nombre}" onerror="this.src='https://via.placeholder.com/80'">
-                <h4>${gob.nombre}</h4>
-                <p>${gob.provincia}</p>
-            `;
-            tarjeta.addEventListener("click", () => abrirModal(gob, analisisGob, crudoGob));
-            grilla.appendChild(tarjeta);
-        });
+                tarjeta.innerHTML = `
+                    <img src="${gob.foto_url}" alt="${gob.nombre}" onerror="this.src='https://via.placeholder.com/80'">
+                    <h4>${gob.nombre}</h4>
+                    <p>${gob.provincia}</p>
+                `;
+                tarjeta.addEventListener("click", () => abrirModal(gob, analisisGob, crudoGob));
+                grilla.appendChild(tarjeta);
+            });
+        }
 
-        // NUEVO: Disparamos el sincronizador de altura con un leve retraso para asegurar que los textos ya se dibujaron
         setTimeout(sincronizarAlturas, 150);
 
         return true; 
 
     } catch (error) {
         console.error("Error al cargar el tablero:", error);
-        cajaEjecutivo.innerHTML = "Hubo un error al leer los archivos JSON.";
-        cajaProfundo.innerHTML = "";
+        if(cajaEjecutivo) cajaEjecutivo.innerHTML = "Hubo un error al leer los archivos JSON.";
+        if(cajaProfundo) cajaProfundo.innerHTML = "";
         return false;
     }
 }
@@ -190,21 +243,17 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
 function copiarTexto(idElemento, botonPresionado) {
     let texto = document.getElementById(idElemento).innerText;
     
-    // 1. Armamos el texto base
     if (idElemento === 'tweet-destacado-texto') {
         const autor = document.getElementById('tweet-destacado-autor').innerText;
         texto = `"${texto}"\n${autor}`;
     } else {
-        // Si es un análisis o resumen, lo envolvemos en comillas
         texto = `"${texto}"`;
     }
 
-    // 2. Le inyectamos SIEMPRE la firma del Radar al final
     texto += `\n\n📌 Vía El Radar Federal\n👉 radarfederal.com.ar`;
 
     const iconoOriginal = botonPresionado.innerHTML;
     
-    // 3. Mandamos al portapapeles
     navigator.clipboard.writeText(texto).then(() => {
         botonPresionado.innerHTML = "✅";
         botonPresionado.style.color = "#4ade80"; 
@@ -255,6 +304,7 @@ tweetTexto += `\n\n📊 Vía El Radar Federal\n👉 radarfederal.com.ar`;
 ========================================= */
 function actualizarSemaforo(estadoClima) {
     const semaforo = document.getElementById('semaforo-clima');
+    if(!semaforo) return; // Evita error si el semáforo no cargó
     semaforo.classList.remove('gris', 'rojo', 'amarillo', 'verde');
 
     const estado = estadoClima ? estadoClima.toUpperCase() : "DESCONOCIDO";
@@ -275,7 +325,7 @@ function actualizarSemaforo(estadoClima) {
 }
 
 /* =========================================
-   FILTRO DE GOBERNADORES EN TIEMPO REAL (Buscador)
+   FILTRO DE GOBERNADORES EN TIEMPO REAL
 ========================================= */
 function filtrarGobernadores() {
     const textoBusqueda = document.getElementById('buscador-gobernadores').value.toLowerCase();
@@ -353,26 +403,21 @@ function limpiarFiltrosTerono() {
 }
 
 /* =========================================
-   SINCRONIZADOR DE ALTURAS (EFECTO ESPEJO)
+   SINCRONIZADOR DE ALTURAS 
 ========================================= */
 function sincronizarAlturas() {
     const sidebar = document.querySelector('.sidebar');
     const resumenCard = document.querySelector('.resumen-card');
     
     if (sidebar && resumenCard) {
-        // 1. Apagamos la altura forzada para medir al natural
         resumenCard.style.height = 'auto';
-        
-        // 2. Si estamos en PC, copiamos la medida exacta
         if (window.innerWidth > 768) {
-            // Tomamos la altura del jefe (columna derecha)
             const alturaDerecha = sidebar.offsetHeight;
-            
-            // Obligamos al esclavo (columna izquierda) a medir EXACTAMENTE eso
             resumenCard.style.height = alturaDerecha + 'px';
         }
     }
 }
+
 /* =========================================
    SELECTOR DE TURNO (MAÑANA / NOCHE)
 ========================================= */
@@ -380,11 +425,9 @@ function cambiarTurno() {
     const btn = document.getElementById("btn-turno");
     const fechaSeleccionada = document.getElementById("fecha-select").value;
     
-    // 1. Feedback Visual Rápido: Le ponemos la clase activo y se la sacamos para el "destello"
     btn.classList.add("activo");
     setTimeout(() => btn.classList.remove("activo"), 300);
     
-    // 2. Alternamos el estado lógicamente (SIN ALERTS)
     if (turnoActual === "manana") {
         turnoActual = "noche";
         btn.innerHTML = "🌙 Turno Noche";
@@ -393,6 +436,5 @@ function cambiarTurno() {
         btn.innerHTML = "☀️ Turno Mañana";
     }
     
-    // 3. Mandamos a cargar. Si el archivo no existe, el nuevo cartel hermoso se encarga.
     cargarTablero(fechaSeleccionada);
 }
