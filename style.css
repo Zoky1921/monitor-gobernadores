@@ -382,6 +382,14 @@ body {
     
     .resumen-largo {
         overflow: visible; /* Deja que el texto empuje la caja hacia abajo sin cortarse */
+   /* NUEVO: Apilar botones en celulares */
+    .btn-cta, .btn-turno {
+        display: flex;
+        width: 100%; 
+        margin-left: 0; 
+        margin-top: 10px; 
+        justify-content: center; 
+    }
     }
 }
 
