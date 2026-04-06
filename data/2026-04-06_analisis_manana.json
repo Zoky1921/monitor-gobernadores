@@ -1,0 +1,151 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal de hoy y última hora de ayer, 06/04/2026, estuvo marcada por una combinación de gestión de emergencias y fuertes posicionamientos en seguridad y políticas sociales. Osvaldo Jaldo (Tucumán) lidera la respuesta a graves inundaciones, expresando condolencias por vidas perdidas. En contraste, Jorge Macri (CABA) lanzó una ofensiva ideológica contra los 'gerentes de la pobreza', abogando por planes directos y el trabajo como única salida. Gobernadores como Maximiliano Pullaro (Santa Fe) y Rolando Figueroa (Neuquén) refuerzan la seguridad, mientras Ignacio Torres (Chubut) y Alberto Weretilneck (Río Negro) destacan la inversión provincial en infraestructura clave, con Río Negro incluso asumiendo obras nacionales inconclusas, evidenciando tensiones subyacentes sobre el financiamiento federal.",
+    "analisis_profundo": "La dinámica federal actual se revela en una jornada donde la gestión provincial abarca desde la respuesta a desastres hasta marcadas diferencias ideológicas con el gobierno central. El gobernador Osvaldo Jaldo (Tucumán) se encuentra en primera línea, coordinando el Comité de Emergencia ante intensas lluvias e inundaciones, un desafío que pone de manifiesto la resiliencia provincial frente a catástrofes naturales y la necesidad de una rápida intervención estatal, lamentando además la pérdida de vidas humanas. Este tipo de gestión, aunque alejada de la confrontación política directa, subraya la autonomía y responsabilidad provincial en momentos críticos.\n\nEn un plano más ideológico y de confrontación, Jorge Macri (CABA) utilizó su plataforma para atacar directamente el modelo de intermediación en planes sociales, una narrativa que resuena con la agenda de la administración nacional. Su declaración, 'Se terminó el negocio de los gerentes de la pobreza. Chau intermediarios. Chau planes manejados por organizaciones', no solo establece una política de asistencia directa vinculada al empleo y capacitación en la Ciudad, sino que también refuerza un discurso anti-piquetes y de 'mano dura' en la gestión social, buscando desmantelar estructuras que percibe como clientelares.\n\nLa seguridad sigue siendo una prioridad indiscutible. Maximiliano Pullaro (Santa Fe) exhibe resultados contundentes con la reducción histórica de homicidios en Rosario, utilizando la inteligencia artificial como herramienta clave y afirmando que 'el miedo cambió de lado'. Este enfoque técnico y de gestión dura se complementa con la inauguración de un destacamento policial por Rolando Figueroa (Neuquén), buscando mayor presencia y respuesta local. Alberto Weretilneck (Río Negro) también reporta éxitos en operativos antidrogas, mostrando una coordinación policial activa.\n\nUn punto de tensión federal emerge en las declaraciones de Alberto Weretilneck (Río Negro) y Axel Kicillof (Buenos Aires). Weretilneck, al adjudicar con fondos rionegrinos una obra de gas para la UNRN que había quedado inconclusa por el Gobierno Nacional, ilustra una tendencia de las provincias a asumir responsabilidades y financiar proyectos clave ante la inacción o el desfinanciamiento central. Kicillof, por su parte, destaca la inauguración de un Centro de Atención Primaria de Salud en Avellaneda, una gestión que, si bien local, se da en un contexto de constantes reclamos bonaerenses por recortes de fondos nacionales.\n\nLeandro Zdero (Chaco) y Claudio Poggi (San Luis) ofrecen mensajes de Pascua con un matiz de gestión. Zdero lo utiliza para hablar de 'reconstrucción real' y 'tiempos mejores', manteniendo un tono de esperanza política. Poggi aprovecha para destacar a los emprendedores artesanales. La promoción del turismo también es un eje fuerte, con Weretilneck celebrando el éxito de Bariloche en Semana Santa y la Fiesta del Chocolate, y Arnaldo Passalacqua (Misiones) destacando el trabajo comunitario para el turismo de Pascuas en Capioví.\n\nEn síntesis, la jornada revela una agenda provincial activa y diversificada, donde la respuesta a emergencias y la reafirmación de políticas de seguridad se mezclan con una creciente autogestión de obras por parte de las provincias y claras posturas ideológicas que, en algunos casos, dialogan o confrontan con las líneas del gobierno nacional. El clima es de gestión intensiva, pero con marcadas diferencias en las prioridades y enfoques, y una tensión latente por los recursos y las competencias entre Nación y provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y Lucha contra el Delito",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestión de Desastres Naturales y Asistencia",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Promoción del Turismo y Desarrollo Local",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales y Laborales (Enfoque en Trabajo)",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Se terminó el negocio de los gerentes de la pobreza. Chau intermediarios. Chau planes manejados por organizaciones. En la Ciudad ahora la ayuda es directa, temporal y con una condición indispensable: capacitarse y trabajar. La única salida es el trabajo.",
+        "por_que_es_clave": "Esta declaración es clave por su fuerte carga ideológica y política. Establece una postura clara sobre la reforma de planes sociales, eliminando intermediarios y vinculando la asistencia directamente a la capacitación y el empleo. Refuerza una narrativa de orden y anti-clientelismo, alineándose con discursos de nivel nacional y generando un fuerte debate público sobre la autonomía y la gestión de la ayuda social."
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Salud",
+                "Infraestructura local"
+            ],
+            "postura_politica": "Destaca la inversión provincial en infraestructura de salud, demostrando capacidad de gestión local y priorizando las necesidades comunitarias, en un contexto donde el financiamiento nacional es un tema sensible.",
+            "frase_fuerte": "Las familias necesitan un espacio de calidad que los cuide cerca de donde viven."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Trabajo",
+                "Anti-intermediarios",
+                "Orden público"
+            ],
+            "postura_politica": "Aboga por la eliminación de intermediarios en planes sociales, vinculando la ayuda a capacitación y trabajo. Su postura es de 'mano dura' en la gestión social, buscando desmantelar estructuras que percibe como clientelares, alineado a una agenda de orden.",
+            "frase_fuerte": "Se terminó el negocio de los gerentes de la pobreza. Chau intermediarios. Chau planes manejados por organizaciones."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Reconstrucción provincial",
+                "Esperanza política"
+            ],
+            "postura_politica": "Aprovecha la festividad de Pascuas para enviar un mensaje optimista de unidad y superación, centrado en una 'reconstrucción real' de la provincia y la promesa de 'tiempos mejores', apelando a la fe y la creencia en el objetivo común.",
+            "frase_fuerte": "Atravesamos momentos de transición, pero son los desafíos de una reconstrucción real."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura hídrica",
+                "Deporte",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Enfatiza la resolución de problemas históricos de infraestructura con obras clave como la Presa Nacimiento del Río Senguer, y la promoción del deporte como herramienta de integración y desarrollo comunitario a través de nuevos programas.",
+            "frase_fuerte": "Porque no puede ser que en una provincia que generó tanta riqueza todavía haya familias sin acceso a algo tan básico como el agua."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Turismo",
+                "Gestión comunitaria",
+                "Cultura"
+            ],
+            "postura_politica": "Destaca la labor comunitaria y la creatividad en la promoción del turismo local, en este caso, en Capioví durante las Pascuas, resaltando el valor del trabajo colectivo para el desarrollo de la provincia.",
+            "frase_fuerte": "en cada rincón se siente el trabajo, el compromiso y el corazón de una comunidad que se une para crear algo tan lindo como esto."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Gestión local"
+            ],
+            "postura_politica": "Subraya el compromiso con la seguridad ciudadana a través de la descentralización de la fuerza policial y la mejora de la capacidad de respuesta en los barrios, enfocándose en soluciones concretas y la presencia estatal.",
+            "frase_fuerte": "Dimos un paso importante para acercar a la @PoliciaNQN a los vecinos, con más presencia, atención permanente y mejor capacidad de respuesta en el barrio."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Turismo",
+                "Infraestructura energética",
+                "Infraestructura educativa",
+                "Seguridad"
+            ],
+            "postura_politica": "Resalta el éxito turístico de Bariloche y la inversión provincial en obras clave, incluyendo la finalización de proyectos nacionales inconclusos con fondos propios, demostrando una fuerte autonomía de gestión y un enfoque en el desarrollo productivo y la seguridad.",
+            "frase_fuerte": "Con más de $406 millones de fondos rionegrinos, la Provincia avanza para terminar un edificio clave que había quedado inconcluso por el Gobierno nacional."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Apoyo a emprendedores",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Su mensaje de Pascuas incluye un guiño al apoyo a la producción artesanal local, mostrando un enfoque en el fomento de la economía y el talento de los emprendedores de la provincia.",
+            "frase_fuerte": "Hoy les cuento sobre dos productos artesanales de nuestros Emprendedores."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Lucha contra el crimen",
+                "Tecnología en seguridad"
+            ],
+            "postura_politica": "Reafirma una política de seguridad contundente con resultados visibles, destacando el uso de tecnología (IA) y un mensaje de recuperación de autoridad frente al delito, priorizando la seguridad ciudadana.",
+            "frase_fuerte": "La lucha es firme contra el delito. El miedo cambió de lado."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Emergencia climática",
+                "Asistencia social",
+                "Coordinación gubernamental"
+            ],
+            "postura_politica": "Lidera la respuesta provincial ante una grave emergencia por inundaciones, expresando condolencias y enfatizando la presencia activa del Estado y la coordinación de todo el gabinete para la asistencia a los damnificados.",
+            "frase_fuerte": "Lamentamos profundamente la irreparable pérdida de tres vidas humanas en diferentes circunstancias. Expresamos nuestras condolencias, solidaridad, acompañamiento y apoyo a sus familias en este momento de tanto dolor."
+        }
+    ]
+}
