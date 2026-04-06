@@ -10,50 +10,7 @@ function obtenerFechaFormateada(diasRestados = 0) {
     return fecha.toLocaleDateString('en-CA', { timeZone: 'America/Argentina/Buenos_Aires' }); 
 }
 
-document.addEventListener("DOMContentLoaded", async () => {
-    console.log("Web iniciada. Cargando base de gobernadores...");
-    const inputFecha = document.getElementById("fecha-select");
-    // NUEVO: Definir el turno inicial según la hora exacta de Argentina
-    const ahoraArg = new Date(new Date().toLocaleString("en-US", {timeZone: "America/Argentina/Buenos_Aires"}));
-    const horaArg = ahoraArg.getHours();
-    
-    if (horaArg >= 21) {
-        turnoActual = "noche";
-        document.getElementById("btn-turno").innerHTML = "🌙 Turno Noche";
-    } else if (horaArg >= 9) {
-        turnoActual = "manana";
-        document.getElementById("btn-turno").innerHTML = "☀️ Turno Mañana";
-    } else {
-        // Si entra de madrugada, le mostramos la noche (el código luego buscará la de ayer)
-        turnoActual = "noche";
-        document.getElementById("btn-turno").innerHTML = "🌙 Turno Noche";
-    }
-    
-    // NUEVO: Si el usuario cambia el tamaño de la ventana, recalculamos las alturas
-    window.addEventListener('resize', sincronizarAlturas);
-    
-    try {
-        const res = await fetch("./gobernadores.json");
-        if (!res.ok) throw new Error("No se pudo cargar gobernadores.json");
-        gobernadoresBase = await res.json();
-        console.log("Base de gobernadores cargada con éxito.");
-        
-        // Lógica de fecha inteligente
-        let fechaIntento = obtenerFechaFormateada(0); 
-        let cargaExitosa = await cargarTablero(fechaIntento);
-        
-        if (!cargaExitosa) {
-            console.log("El informe de hoy aún no está listo. Cargando el de AYER...");
-            fechaIntento = obtenerFechaFormateada(1);
-            await cargarTablero(fechaIntento);
-        }
-        
-        inputFecha.value = fechaIntento;
 
-    } catch (error) {
-        console.error("Error crítico al iniciar:", error);
-        document.getElementById("resumen-ejecutivo").innerHTML = "Error al cargar la base de datos.";
-    }
 
     inputFecha.addEventListener("change", (e) => cargarTablero(e.target.value));
     
