@@ -79,12 +79,25 @@ async function cargarTablero(fecha) {
         const resAnalisis = await fetch(`./data/${fecha}_analisis_${turnoActual}.json`);
         const resCrudo = await fetch(`./data/${fecha}_crudo_${turnoActual}.json`);
 
-        if (!resAnalisis.ok || !resCrudo.ok) {
+if (!resAnalisis.ok || !resCrudo.ok) {
             console.warn(`Archivos no encontrados para la fecha ${fecha}`);
-            cajaEjecutivo.innerHTML = `<b>No hay informes para el ${fecha}.</b>`;
-            cajaProfundo.innerHTML = `El robot procesa datos todos los días a las 20:30 hs (Arg).`;
-            temasLista.innerHTML = "<li>Sin datos</li>";
+            
+            // EL NUEVO CARTEL ELEGANTE (SIN ALERTAS)
+            cajaEjecutivo.innerHTML = `
+                <div style="text-align: center; padding: 25px; color: #cbd5e1; background-color: rgba(30, 41, 59, 0.5); border-radius: 8px; border: 1px dashed #334155;">
+                    <h4 style="color: #38bdf8; margin-bottom: 10px;">No hay informes para el ${fecha} (${turnoActual}).</h4>
+                    <p style="margin: 0; font-size: 0.95rem;">Los datos se procesan en dos turnos:</p>
+                    <p style="margin: 0; font-size: 0.95rem;">Por la <strong>mañana (10:45 aprox)</strong> y por la <strong>noche (20:15 aprox)</strong>.</p>
+                </div>
+            `;
+            
+            // Limpiamos el resto de las cajas para que no quede "basura" visual
+            cajaProfundo.innerHTML = "<p style='text-align:center; color:#94a3b8; margin-top:20px;'><i>A la espera del procesamiento...</i></p>";
+            temasLista.innerHTML = "<li>Sin datos registrados</li>";
+            document.getElementById("tweet-destacado-texto").textContent = "Sin posteos destacados en este turno.";
+            document.getElementById("tweet-destacado-autor").textContent = "";
             actualizarSemaforo(null); 
+            
             return false; 
         }
 
@@ -406,32 +419,20 @@ function sincronizarAlturas() {
 function cambiarTurno() {
     const btn = document.getElementById("btn-turno");
     const fechaSeleccionada = document.getElementById("fecha-select").value;
-    const fechaHoy = obtenerFechaFormateada(0);
     
-    // Obtenemos la hora actual en Argentina
-    const ahora = new Date(new Date().toLocaleString("en-US", {timeZone: "America/Argentina/Buenos_Aires"}));
-    const hora = ahora.getHours();
-    const min = ahora.getMinutes();
+    // 1. Feedback Visual Rápido: Le ponemos la clase activo y se la sacamos para el "destello"
+    btn.classList.add("activo");
+    setTimeout(() => btn.classList.remove("activo"), 300);
     
+    // 2. Alternamos el estado lógicamente (SIN ALERTS)
     if (turnoActual === "manana") {
-        // Quiere cambiar a NOCHE
-        // Si está mirando el día de HOY, verificamos si ya pasó el horario del robot
-        if (fechaSeleccionada === fechaHoy && (hora < 21 || (hora === 21 && min < 15))) {
-            alert("⏳ El reporte nocturno de hoy recién estará disponible a partir de las 21:15 hs.");
-            return; // Cortamos la función para que no rompa la página
-        }
         turnoActual = "noche";
         btn.innerHTML = "🌙 Turno Noche";
     } else {
-        // Quiere cambiar a MAÑANA
-        if (fechaSeleccionada === fechaHoy && (hora < 9 || (hora === 9 && min < 15))) {
-            alert("⏳ El reporte de la mañana de hoy recién estará disponible a partir de las 09:15 hs.");
-            return; 
-        }
         turnoActual = "manana";
         btn.innerHTML = "☀️ Turno Mañana";
     }
     
-    // Si pasó la validación de seguridad, recargamos el tablero con el nuevo turno
+    // 3. Mandamos a cargar. Si el archivo no existe, el nuevo cartel hermoso se encarga.
     cargarTablero(fechaSeleccionada);
 }
