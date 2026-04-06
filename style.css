@@ -69,17 +69,21 @@ body {
 
 /* --- BOTONES DE TURNO (M/N) --- */
 .btn-turno {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle; /* Alinea los botones entre sí */
     background: transparent;
     color: var(--texto-principal);
     border: 2px solid var(--azul-acento);
-    padding: 10px 24px; /* Mismo grosor que el botón celeste */
-    border-radius: 30px; /* Forma de píldora */
+    padding: 10px 24px; 
+    border-radius: 30px;
     cursor: pointer;
     font-weight: 700;
     font-size: 0.95rem; 
+    margin-top: 15px; /* Mismo margen que el botón CTA */
+    margin-left: 12px; /* Aire entre los botones */
     transition: all 0.3s ease;
-    display: inline-block;
-    margin-left: 10px; /* Un poco de aire si está pegado al otro botón */
 }
 
 .btn-turno:hover {
@@ -91,8 +95,9 @@ body {
 .btn-turno.activo {
     background-color: var(--azul-acento);
     color: var(--fondo-oscuro);
-    transform: scale(0.95); /* Efecto de hundimiento rápido al tocarlo */
+    transform: scale(0.95);
 }
+
 /* BANNER PATROCINADORES */
 .banner-sponsors {
     background: rgba(30, 41, 59, 0.3);
