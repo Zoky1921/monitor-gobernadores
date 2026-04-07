@@ -224,8 +224,41 @@ body {
 
 .grilla {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 20px;
+    gap: 20px; /* Mantengo tu separación original */
+    /* Por defecto (Celulares chicos - XS): 1 por fila (24 filas) */
+    grid-template-columns: 1fr; 
+}
+
+/* Celulares grandes (S) */
+@media (min-width: 480px) {
+    .grilla {
+        /* 2 por fila (12 filas perfectas) */
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Tablets (M) */
+@media (min-width: 768px) {
+    .grilla {
+        /* 3 por fila (8 filas perfectas) */
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Laptops y Monitores normales (L) */
+@media (min-width: 1024px) {
+    .grilla {
+        /* 4 por fila (6 filas perfectas) */
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* Monitores Ultra Anchos (XL) */
+@media (min-width: 1440px) {
+    .grilla {
+        /* 6 por fila (4 filas perfectas) */
+        grid-template-columns: repeat(6, 1fr);
+    }
 }
 
 .tarjeta-gob {
