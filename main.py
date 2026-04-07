@@ -195,10 +195,10 @@ Piensa como un analista político: ¿cuál es la declaración reciente que alter
             }}
         ],
     "tweet_destacado": {{
-        "usuario": "@Usuario",
-        "texto": "Cita textual aquí...",
-        "por_que_es_clave": "Breve justificación analítica."
-    }},
+            "usuario": "El usuario. REGLA ESTRICTA: Si es un retweet (indicado con [RE-TWEET de @usuario_original]), escribí '@Gobernador (RT de @usuario_original)'. Si es original, solo '@Gobernador'",
+            "texto": "La cita textual más impactante, sin la etiqueta de RT",
+            "por_que_es_clave": "Breve justificación analítica."
+        }},
     "analisis_por_gobernador": [
         {{
             "gobernador": "@UsuarioGobernador",
