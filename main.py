@@ -213,7 +213,7 @@ TWEETS A ANALIZAR:
 {data_context}
 """
 
-print("Enviando los perfiles a Gemini...")
+        print("Enviando los perfiles a Gemini...")
         
         # 4. Enviar a Gemini con "Amortiguador" (3 intentos, 10 min de espera)
         intentos_max = 3
