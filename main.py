@@ -213,42 +213,40 @@ TWEETS A ANALIZAR:
 {data_context}
 """
 
-        print("Enviando los perfiles a Gemini...")
+print("Enviando los perfiles a Gemini...")
         
         # 4. Enviar a Gemini con "Amortiguador" (3 intentos, 10 min de espera)
-    intentos_max = 3
-    espera_segundos = 600 # 10 minutos para cuidar los créditos de X
+        intentos_max = 3
+        espera_segundos = 600 # 10 minutos para cuidar los créditos de X
 
-    for i in range(intentos_max):
-        try:
-            print(f"🚀 Enviando los perfiles a Gemini (Intento {i+1} de {intentos_max})...")
-            response = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    response_mime_type="application/json"
+        for i in range(intentos_max):
+            try:
+                print(f"🚀 Enviando los perfiles a Gemini (Intento {i+1} de {intentos_max})...")
+                response = client.models.generate_content(
+                    model="gemini-2.5-flash",
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        response_mime_type="application/json"
+                    )
                 )
-            )
-            # Si llegamos acá, funcionó perfecto. Salimos del bucle de reintentos.
-            break 
-            
-        except Exception as e:
-            error_msg = str(e)
-            # Si es error de saturación (503) o demasiadas peticiones (429)
-            if "503" in error_msg or "UNAVAILABLE" in error_msg or "429" in error_msg:
-                if i < intentos_max - 1:
-                    print(f"⚠️ Servidor saturado/ocupado. Entrando en hibernación por {espera_segundos//60} minutos...")
-                    time.sleep(espera_segundos)
+                # Si llegamos acá, funcionó perfecto. Salimos del bucle de reintentos.
+                break 
+                
+            except Exception as e:
+                error_msg = str(e)
+                # Si es error de saturación (503) o demasiadas peticiones (429)
+                if "503" in error_msg or "UNAVAILABLE" in error_msg or "429" in error_msg:
+                    if i < intentos_max - 1:
+                        print(f"⚠️ Servidor saturado/ocupado. Entrando en hibernación por {espera_segundos//60} minutos...")
+                        time.sleep(espera_segundos)
+                    else:
+                        print("❌ Se agotaron los 3 intentos. El servidor de Google sigue sin responder.")
+                        raise e
                 else:
-                    print("❌ Se agotaron los 3 intentos. El servidor de Google sigue sin responder.")
+                    # Si es un error de otro tipo (ej. prompt inválido), que salte de una sin esperar
+                    print(f"💥 Error inesperado: {error_msg}")
                     raise e
-            else:
-                # Si es un error de otro tipo (ej. prompt inválido), que salte de una sin esperar
-                print(f"💥 Error inesperado: {error_msg}")
-                raise e
 
-    # --- El código sigue normal después de aquí ---
-    # (Lo que ya tenés: raw_text = response.text.strip(), etc.)
         # --- LIMPIEZA DE SEGURIDAD PARA EL JSON ---
         raw_text = response.text.strip()
         
@@ -265,7 +263,15 @@ TWEETS A ANALIZAR:
             print(f"⚠️ Se guardó el error en data/{fecha_hoy_str}_ERROR_IA.txt para revisión.")
             raise e
 
-        # 5. Guardar el Análisis
+        # --- 5. AUDITORÍA OPENARG (FRANCOTIRADOR) ---
+        # ATENCIÓN: Como no tocamos tu prompt, Gemini NO va a generar la "pregunta_openarg".
+        # En el futuro, si querés sumarlo, agregá la instrucción en tu prompt y activá esta lógica.
+        
+        # Por ahora, solo preparamos el campo en null para que tu frontend no se rompa
+        if "tweet_destacado" in resumen_data:
+            resumen_data["tweet_destacado"]["verificacion_openarg"] = None 
+
+        # 6. Guardar el Análisis
         ruta_analisis = f'data/{fecha_hoy_str}_analisis_{turno}.json'
         with open(ruta_analisis, 'w', encoding='utf-8') as f:
             json.dump(resumen_data, f, ensure_ascii=False, indent=4)
