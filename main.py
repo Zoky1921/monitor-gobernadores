@@ -1,6 +1,6 @@
+import time
 import os
 import json
-import time
 import requests
 from datetime import datetime, timedelta, timezone
 from google import genai
@@ -215,15 +215,40 @@ TWEETS A ANALIZAR:
 
         print("Enviando los perfiles a Gemini...")
         
-        # 4. Enviar a Gemini (Forzando la salida a JSON puro)
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json"
-            )
-        )
+        # 4. Enviar a Gemini con "Amortiguador" (3 intentos, 10 min de espera)
+    intentos_max = 3
+    espera_segundos = 600 # 10 minutos para cuidar los créditos de X
 
+    for i in range(intentos_max):
+        try:
+            print(f"🚀 Enviando los perfiles a Gemini (Intento {i+1} de {intentos_max})...")
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json"
+                )
+            )
+            # Si llegamos acá, funcionó perfecto. Salimos del bucle de reintentos.
+            break 
+            
+        except Exception as e:
+            error_msg = str(e)
+            # Si es error de saturación (503) o demasiadas peticiones (429)
+            if "503" in error_msg or "UNAVAILABLE" in error_msg or "429" in error_msg:
+                if i < intentos_max - 1:
+                    print(f"⚠️ Servidor saturado/ocupado. Entrando en hibernación por {espera_segundos//60} minutos...")
+                    time.sleep(espera_segundos)
+                else:
+                    print("❌ Se agotaron los 3 intentos. El servidor de Google sigue sin responder.")
+                    raise e
+            else:
+                # Si es un error de otro tipo (ej. prompt inválido), que salte de una sin esperar
+                print(f"💥 Error inesperado: {error_msg}")
+                raise e
+
+    # --- El código sigue normal después de aquí ---
+    # (Lo que ya tenés: raw_text = response.text.strip(), etc.)
         # --- LIMPIEZA DE SEGURIDAD PARA EL JSON ---
         raw_text = response.text.strip()
         
