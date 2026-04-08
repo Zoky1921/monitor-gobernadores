@@ -175,7 +175,8 @@ REGLAS DE ANÁLISIS ESTRATÉGICO:
 5. TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político del lote analizado. 
 REGLA CRÍTICA DE TIEMPO: debes leer atentamente la fecha que figura entre paréntesis al inicio de cada tweet `(Publicado: ...)`. **SOLO** puedes seleccionar un tweet si corresponde al día de hoy o al día de ayer. Si la declaración más rimbombante es de hace 3 días o más (por ejemplo, del 1 de abril), ESTÁ ESTRICTAMENTE PROHIBIDO seleccionarla. Si no hay nada relevante reciente, debes escribir exactamente: "Sin posteos destacados en este turno".
 REGLA DE FORMATO: Debe ser el texto ORIGINAL, COMPLETO y TEXTUAL. Prohibido resumir, parafrasear o acortar el mensaje. Si es un hilo, toma el tweet principal que dispara la noticia. 
-Piensa como un analista político: ¿cuál es la declaración reciente que altera el escenario o fija una agenda ineludible?    7. SEMÁFORO DE CLIMA POLÍTICO (NUEVO): Evalúa el nivel de conflictividad general de la jornada (Nación vs Provincias o entre ellas) y devuelve UNA SOLA PALABRA (ej: TENSO, NEUTRAL, POSITIVO, CONFLICTO).
+Piensa como un analista político: ¿cuál es la declaración reciente que altera el escenario o fija una agenda ineludible?    
+7. SEMÁFORO DE CLIMA POLÍTICO (NUEVO): Evalúa el nivel de conflictividad general de la jornada (Nación vs Provincias o entre ellas) y devuelve UNA SOLA PALABRA (ej: TENSO, NEUTRAL, POSITIVO, CONFLICTO).
 8. SEGURIDAD JSON Y COMILLAS (CRÍTICA): El objeto JSON debe ser perfecto. Para el campo "texto" del tweet destacado y las frases fuertes, DEBES incluir el contenido textual completo. Si el mensaje original tiene comillas dobles internas, debes cámbiarlas obligatoriamente por comillas simples (') para no romper la estructura del JSON, pero mantén cada palabra del mensaje original. Las comillas dobles SOLO deben usarse para la estructura del JSON, nunca para el texto.
     FORMATO DE SALIDA OBLIGATORIO:
     Responde ÚNICAMENTE con un objeto JSON válido. La estructura exacta debe ser:
@@ -197,7 +198,8 @@ Piensa como un analista político: ¿cuál es la declaración reciente que alter
     "tweet_destacado": {{
             "usuario": "El usuario. REGLA ESTRICTA: Si es un retweet (indicado con [RE-TWEET de @usuario_original]), escribí '@Gobernador (RT de @usuario_original)'. Si es original, solo '@Gobernador'",
             "texto": "La cita textual más impactante, sin la etiqueta de RT",
-            "por_que_es_clave": "Breve justificación analítica."
+            "por_que_es_clave": "Breve justificación analítica.",
+            "pregunta_openarg": "SOLO SI el tweet habla de Coparticipación, Inflación, Presupuesto o Reservas, formula aquí una pregunta analítica corta para buscar el dato duro. Si no aplica, escribe null (sin comillas)."
         }},
     "analisis_por_gobernador": [
         {{
@@ -264,12 +266,36 @@ TWEETS A ANALIZAR:
             raise e
 
         # --- 5. AUDITORÍA OPENARG (FRANCOTIRADOR) ---
-        # ATENCIÓN: Como no tocamos tu prompt, Gemini NO va a generar la "pregunta_openarg".
-        # En el futuro, si querés sumarlo, agregá la instrucción en tu prompt y activá esta lógica.
-        
-        # Por ahora, solo preparamos el campo en null para que tu frontend no se rompa
         if "tweet_destacado" in resumen_data:
-            resumen_data["tweet_destacado"]["verificacion_openarg"] = None 
+                    tweet_del_dia = resumen_data["tweet_destacado"]
+                    pregunta = tweet_del_dia.get("pregunta_openarg")
+                    
+                    # Seteamos null por defecto para evitar errores en la web
+                    tweet_del_dia["verificacion_openarg"] = None 
+        
+                    # Validamos que la pregunta exista y no sea la palabra "null"
+                    if pregunta and str(pregunta).lower() != "null":
+                        print(f"🔍 Disparando a OpenArg: {pregunta}")
+                        openarg_key = os.environ.get("OPENARG_API_KEY") 
+                        
+                        if openarg_key:
+                            url_openarg = "https://api.openarg.org/api/v1/ask"
+                            headers = {"Authorization": f"Bearer {openarg_key}", "Content-Type": "application/json"}
+                            try:
+                                resp_openarg = requests.post(url_openarg, headers=headers, json={"question": pregunta}, timeout=30)
+                                if resp_openarg.status_code == 200:
+                                    respuesta = resp_openarg.json().get("answer", "")
+                                    # Filtramos las respuestas que no tienen datos reales
+                                    if "no reflejan" not in respuesta and "Los datos disponibles son de" not in respuesta:
+                                        # Guardamos la respuesta (limitada a 200 caracteres para la UI)
+                                        tweet_del_dia["verificacion_openarg"] = respuesta[:200] + "..." if len(respuesta) > 200 else respuesta
+                                        print("✅ Dato OpenArg agregado al JSON.")
+                                    else:
+                                        print("⚠️ OpenArg no devolvió datos actuales. Se omite.")
+                            except Exception as e:
+                                print(f"⚠️ Error de conexión con OpenArg: {e}")
+                        else:
+                            print("⚠️ OPENARG_API_KEY no encontrada en Secrets.")
 
         # 6. Guardar el Análisis
         ruta_analisis = f'data/{fecha_hoy_str}_analisis_{turno}.json'
