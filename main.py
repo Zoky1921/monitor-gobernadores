@@ -10,6 +10,11 @@ from google.genai import types
 TWITTERAPI_KEY = os.environ.get("TWITTERAPI_KEY")
 GEMINI_KEY = os.environ.get('GEMINI_API_KEY')
 
+if not TWITTERAPI_KEY:
+    raise EnvironmentError("❌ Falta la variable de entorno: TWITTERAPI_KEY")
+if not GEMINI_KEY:
+    raise EnvironmentError("❌ Falta la variable de entorno: GEMINI_API_KEY")
+
 # 2. Inicializar Gemini (Librería moderna)
 client = genai.Client(api_key=GEMINI_KEY)
 
@@ -221,6 +226,7 @@ TWEETS A ANALIZAR:
         intentos_max = 3
         espera_segundos = 600 # 10 minutos para cuidar los créditos de X
 
+        response = None
         for i in range(intentos_max):
             try:
                 print(f"🚀 Enviando los perfiles a Gemini (Intento {i+1} de {intentos_max})...")
@@ -250,6 +256,8 @@ TWEETS A ANALIZAR:
                     raise e
 
         # --- LIMPIEZA DE SEGURIDAD PARA EL JSON ---
+        if response is None:
+            raise RuntimeError("❌ Gemini no devolvió respuesta después de los reintentos.")
         raw_text = response.text.strip()
         
         # Si por alguna razón Gemini mete las etiquetas de markdown ```json, las volamos
