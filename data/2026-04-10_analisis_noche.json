@@ -1,0 +1,331 @@
+{
+    "clima_general": "CONFLICTO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una clara tensión entre provincias y Nación, especialmente evidenciada por la Ley de Glaciares, que generó un amparo de Sergio Ziliotto (La Pampa) y apoyo desde Marcelo Orrego (San Juan), mostrando divisiones. Jorge Macri (CABA) profundizó su agenda de 'ley y orden' y 'prioridad para los porteños', criticando la 'incompetencia del otro lado de la General Paz'. Axel Kicillof (Buenos Aires) continuó confrontando el ajuste nacional y defendiendo la inversión pública. Gobernadores como Rolando Figueroa (Neuquén) y Claudio Vidal (Santa Cruz) impulsaron el desarrollo energético regional, mientras Ricardo Quintela (La Rioja) y Osvaldo Jaldo (Tucumán) se concentraron en infraestructura y políticas productivas con fondos propios ante la retracción nacional. La seguridad y la gestión de obras se mantuvieron como ejes prioritarios provinciales.",
+    "analisis_profundo": "La agenda federal de hoy se caracteriza por una marcada polarización y una gestión proactiva por parte de las provincias ante el complejo escenario nacional. La relación con el gobierno central se manifiesta a través de claros focos de tensión, especialmente en el ámbito de los recursos y las competencias.\nLa Ley de Glaciares es un punto álgido: mientras Sergio Ziliotto (La Pampa) ha presentado un amparo colectivo ambiental para proteger las fuentes de agua, Marcelo Orrego (San Juan) celebra la modificación de la ley, interpretándola como una herramienta para el desarrollo productivo minero. Esta divergencia ilustra las diferentes prioridades y visiones económicas regionales frente a normativas nacionales con impacto territorial.\nLa Ciudad de Buenos Aires, bajo Jorge Macri (CABA), intensifica su discurso identitario y de confrontación, con un decreto de 'prioridad para los porteños' y críticas explícitas a la 'incompetencia del otro lado de la General Paz', en una clara alusión al gobierno bonaerense y nacional. Su retórica de 'ley y orden' y reasignación de fondos de 'villas' a viviendas para policías y clase media subraya una agenda ideológica que busca diferenciación y apoyo de un sector específico de la ciudadanía.\nAxel Kicillof (Buenos Aires), por su parte, mantiene una postura confrontativa con el gobierno de Javier Milei, denunciando el 'ajuste y destrucción' y defendiendo la inversión en ciencia, educación y vivienda. Sus mensajes sobre la desocupación y la paralización de programas como REMEDIAR son un claro ataque a las políticas económicas nacionales.\nOtros gobernadores, como Ricardo Quintela (La Rioja), optan por la autonomía, asumiendo con fondos provinciales obras educativas ante el 'desfinanciamiento de la obra pública' nacional, lo que denota una estrategia de resiliencia y auto-gestión frente a la retracción de recursos federales. Su solidaridad con Julio De Vido, criticando el 'ensañamiento judicial', también marca un claro posicionamiento político opositor.\nEn el ámbito económico, Rolando Figueroa (Neuquén) y Claudio Vidal (Santa Cruz) destacan el potencial energético de sus provincias, particularmente Vaca Muerta y la industria petrolera, buscando alinear intereses con Nación para el desarrollo del GNL y la recuperación de la actividad. Raúl Jalil (Catamarca) defiende el desarrollo minero, aunque muestra cautela al rechazar un proyecto que no cumple estándares comunitarios. Gustavo Valdés (Corrientes) busca potenciar su provincia con una agencia de desarrollo y promoción de inversiones. Osvaldo Jaldo (Tucumán) se enfoca en acuerdos productivos (zafra de limón) y asistencia económica directa (Plan Bonificar por inundaciones), demostrando una gestión orientada a la contingencia y el respaldo a sectores clave. La seguridad también emerge como un tema recurrente, con Ignacio Torres (Chubut), Maximiliano Pullaro (Santa Fe), Arabela Carreras (Río Negro) y Claudio Poggi (San Luis) anunciando medidas contra el narcotráfico y el crimen.",
+    "temas_calientes": [
+        {
+            "tema": "Tensión Nación-Provincias y Ley de Glaciares",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@DrMarceloOrrego",
+                "@RaulJalil_ok",
+                "@QuintelaRicardo",
+                "@Kicillofok",
+                "@jorgemacri",
+                "@insfran_gildo",
+                "@carlossadirjuy",
+                "@maxipullaro",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Desarrollo Energético y Productivo Regional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@ZiliottoSergio",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@RaulJalil_ok",
+                "@gustavovaldesok",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden (con componente ideológico en CABA)",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@WeretilneckOK",
+                "@maxipullaro",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Vivienda (Gestión Provincial)",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Educación y Capital Humano",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (CABA)",
+        "texto": "Durante años, la Ciudad se hizo cargo de lo que otros no hacen. La incompetencia del otro lado de la General Paz la pagaban los porteños con sus impuestos. Se terminó. Firmé un decreto para darle fuerza legal a una política que ya aplicamos en salud: PRIORIDAD PARA LOS PORTEÑOS. Desde ahora, cada área y cada servicio del Gobierno de la Ciudad va a funcionar con ese criterio. Esto también es ordenar y cuidar.",
+        "por_que_es_clave": "Esta declaración establece una política explícita de 'prioridad para los porteños' basada en la supuesta 'incompetencia' de otras jurisdicciones, con una clara referencia a la Provincia de Buenos Aires. Representa una escalada en la tensión inter-jurisdiccional y una postura ideológica fuerte que podría tener implicancias federales y sociales.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Vivienda",
+                "Producción",
+                "Educación",
+                "Crítica Económica Nacional",
+                "Salud"
+            ],
+            "postura_politica": "Continúa una agenda de inversión pública y derechos, confrontando directamente las políticas de ajuste del gobierno nacional y destacando el impacto negativo en empleo y programas sociales.",
+            "frase_fuerte": "Venimos a plantar la bandera de la industria nacional, la ciencia y la soberanía. Lanzamos el MDF Universidad y Ciencia para enfrentar el modelo de ajuste y destrucción de Milei..."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Ley y Orden",
+                "Vivienda",
+                "Gestión",
+                "Prioridad Ciudadana",
+                "Confrontación Inter-jurisdiccional"
+            ],
+            "postura_politica": "Aboga por una agenda de 'ley y orden' y 'meritocracia', diferenciándose de otras jurisdicciones con políticas de 'prioridad para los porteños' y reasignación de recursos, en una clara escalada retórica y de gestión.",
+            "frase_fuerte": "La incompetencia del otro lado de la General Paz la pagaban los porteños con sus impuestos. Se terminó. Firmé un decreto para darle fuerza legal a una política que ya aplicamos en salud: PRIORIDAD PARA LOS PORTEÑOS."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería",
+                "Federalismo",
+                "Educación",
+                "Medio Ambiente"
+            ],
+            "postura_politica": "Equilibra el impulso minero con la protección ambiental y comunitaria, mientras subraya el rol federal en leyes como la de Glaciares y fortalece el sistema educativo provincial.",
+            "frase_fuerte": "En Santa María definimos no habilitar el proyecto minero Sofía Gold. Aun con concesión vigente, hay estándares que deben sostenerse cuando entran en discusión nuestros recursos y la realidad de las comunidades."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Salud",
+                "Vivienda",
+                "Seguridad",
+                "Educación"
+            ],
+            "postura_politica": "Mantiene un enfoque en la mejora de servicios básicos e infraestructura social (salud, vivienda, educación) y la seguridad, con una gestión orientada a resolver demandas históricas y fortalecer el desarrollo local.",
+            "frase_fuerte": "Después de 20 años de espera, el Hospital 4 de Junio de Presidencia Roque Sáenz Peña suma atención oftalmológica con equipamiento de última generación."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Vivienda",
+                "Salud"
+            ],
+            "postura_politica": "Prioriza la seguridad con nuevas leyes y la reconstrucción de infraestructura social (viviendas post-incendios, centros de salud), enfatizando la ejecución de obras y el cumplimiento de la palabra.",
+            "frase_fuerte": "Aprobamos la ley que prohíbe el uso de celulares en cárceles, comisarías y alcaidías de toda la provincia. Se terminó la época de las estafas, las extorsiones..."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura Urbana",
+                "Promoción Económica",
+                "Políticas Sociales"
+            ],
+            "postura_politica": "Impulsa la revitalización de espacios públicos y el apoyo a eventos de alto impacto económico y turístico, mientras celebra programas sociales con foco en la primera infancia, mostrando una gestión activa y orientada al desarrollo local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Desarrollo Económico",
+                "Promoción de Inversiones"
+            ],
+            "postura_politica": "Busca fortalecer la capacidad de gestión y articulación público-privada para el desarrollo económico, mediante la creación de una agencia de inversiones y comercio exterior.",
+            "frase_fuerte": "Mediante un proyecto de ley, propuse crear la Agencia de Desarrollo, Promoción de Inversiones y Comercio Exterior de #Corrientes"
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [],
+            "postura_politica": "Sin posteos relevantes en este turno.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Infraestructura Vial"
+            ],
+            "postura_politica": "Reclama por políticas federales que permitan el desarrollo de infraestructura vial, criticando la falta de apoyo nacional en un sector clave para la integración provincial.",
+            "frase_fuerte": "La Reparación Histórica fue fundamental para el crecimiento de nuestra red vial y necesitamos volver a tener políticas federales en nuestro país para revertir las preocupantes condiciones de la infraestructura vial argentina."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Economía Regional",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Expresa preocupación por la crisis microeconómica y la pérdida de empleos, buscando diálogo con el gobierno nacional para abordar la situación de su provincia.",
+            "frase_fuerte": "La crisis de la microeconomía, con caída de la actividad y pérdida de puestos de trabajo en el sector privado."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Energía",
+                "Medio Ambiente",
+                "Relación Nación-Provincias",
+                "Vivienda"
+            ],
+            "postura_politica": "Defiende los recursos hídricos provinciales con un amparo legal contra la Ley de Glaciares y promueve la inversión en energías renovables y vivienda, priorizando el desarrollo local y la autonomía.",
+            "frase_fuerte": "Ley de Glaciares: La Pampa presenta amparo colectivo ambiental."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Educación",
+                "Obra Pública",
+                "Posicionamiento Político",
+                "Justicia"
+            ],
+            "postura_politica": "Prioriza la inversión en educación y obra pública con fondos propios ante el desfinanciamiento nacional, y se posiciona críticamente frente a lo que considera un 'ensañamiento judicial' contra figuras políticas.",
+            "frase_fuerte": "Esta obra comenzó en nuestra primera gestión con financiamiento nacional, pero ante el desfinanciamiento de la obra pública, asumimos el compromiso de finalizarla con fondos propios."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Vivienda",
+                "Educación",
+                "Justicia"
+            ],
+            "postura_politica": "Enfocado en la continuidad de la construcción de viviendas y la mejora de infraestructura educativa, buscando fortalecer el acceso a la justicia y la calidad institucional para el desarrollo provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Producción",
+                "Infraestructura",
+                "Vivienda",
+                "Educación",
+                "Integración Regional"
+            ],
+            "postura_politica": "Impulsa el desarrollo productivo y la integración con Brasil (Fenasoja), mientras invierte en conectividad (internet en escuelas) y garantiza la vivienda, enfocándose en la gestión local y el apoyo a sectores clave como el yerbatero.",
+            "frase_fuerte": "El río Uruguay no nos separa, nos une. Somos hermanos, no solo porque nos queremos, sino porque también nos necesitamos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Energía (Vaca Muerta)",
+                "Infraestructura",
+                "Desarrollo Económico",
+                "Federalismo"
+            ],
+            "postura_politica": "Aboga por el desarrollo de Vaca Muerta como motor económico para Neuquén y el país, buscando la colaboración público-privada y nacional para impulsar la infraestructura y el crecimiento.",
+            "frase_fuerte": "Vaca Muerta no solo beneficia a Neuquén, beneficia a muchas provincias y al país por el trabajo y los recursos que se generan."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Energía",
+                "Infraestructura",
+                "Salud",
+                "Seguridad",
+                "Educación",
+                "Inversión"
+            ],
+            "postura_politica": "Impulsa el desarrollo energético y la inversión privada con reglas claras, moderniza la salud con historia clínica digital y fortalece la seguridad y educación, mostrando una gestión proactiva con fondos propios.",
+            "frase_fuerte": "El que vende droga en Río Negro termina detenido y a disposición de la Justicia. El narcotráfico es un delito y lo vamos a combatir con decisión."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Educación",
+                "Minería",
+                "Agroindustria",
+                "Vivienda"
+            ],
+            "postura_politica": "Prioriza la educación técnica vinculada a la minería y el fomento del sector agroindustrial, además de la entrega de viviendas, buscando un desarrollo provincial con énfasis en la producción y el empleo.",
+            "frase_fuerte": "Salta, este gigante que durante mucho tiempo estuvo dormido, empezó a despertar y ustedes van a ser protagonistas de ese crecimiento."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Minería",
+                "Federalismo",
+                "Ley de Glaciares"
+            ],
+            "postura_politica": "Celebra la modificación de la Ley de Glaciares, viéndola como un avance para la previsibilidad minera y la autonomía provincial sobre sus recursos, lo que impulsaría el desarrollo y el empleo.",
+            "frase_fuerte": "Damos un paso importante hacia reglas más claras, con base científica, que cuidan el agua y garantizan la protección de nuestros glaciares, permitiendo el desarrollo productivo de la provincia."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Seguridad",
+                "Salud",
+                "Reforma Constitucional"
+            ],
+            "postura_politica": "Enfocado en la modernización de servicios públicos (salud, seguridad) y la promoción educativa y deportiva, además de impulsar una reforma constitucional para fortalecer la institucionalidad provincial.",
+            "frase_fuerte": "El espíritu de esta REFORMA es sumar mayor INSTITUCIONALIDAD al San Luis del futuro."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Hidrocarburos",
+                "Vivienda",
+                "Producción Rural"
+            ],
+            "postura_politica": "Impulsa un nuevo esquema para la industria petrolera buscando reactivar la producción y el empleo, mientras avanza con planes de vivienda y apoyo a productores rurales con perforaciones de agua.",
+            "frase_fuerte": "Hoy fue un día de acuerdos. No solo para resolver el presente, sino para hacer lo que no se hizo antes. Garantizar el futuro es una responsabilidad que tenemos que asumir con el compromiso de cada uno de los que formamos parte de este proceso."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Infraestructura",
+                "Finanzas Provinciales",
+                "Relación Nación-Provincias",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Prioriza la seguridad con acciones directas contra el microtráfico y gestiona obras de infraestructura clave. Reclama y logra acuerdos con Nación sobre la deuda de la caja de jubilaciones, defendiendo los recursos provinciales y el potencial productivo.",
+            "frase_fuerte": "Hoy fue un triunfo de todos los santafesinos. Firmamos un acuerdo para que se reconozca y se empiece a saldar lo que le corresponde a los santafesinos. Se comienza a pagar en cuotas, los fondos que Nación debe aportar por ley a la Provincia por la Caja de Jubilaciones."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Economía Regional"
+            ],
+            "postura_politica": "Se enfoca en el fortalecimiento del sector comercial y productivo a través de agencias de desarrollo territorial y el diálogo con cámaras empresariales para impulsar el crecimiento en el interior.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [],
+            "postura_politica": "Sin posteos relevantes en este turno.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Producción Agropecuaria",
+                "Educación",
+                "Emergencia Climática",
+                "Economía Regional"
+            ],
+            "postura_politica": "Aborda la emergencia climática con asistencia directa y subsidios energéticos, impulsa la capacitación docente en IA y gestiona acuerdos salariales para sostener la producción clave de limón, enfocándose en la gestión y el diálogo.",
+            "frase_fuerte": "Implementamos el Plan Bonificar, mediante el cual vamos a cubrir el costo de la energía eléctrica durante dos bimestres, y en algunos casos hasta tres, para cerca de 10.000 familias de distintas localidades."
+        }
+    ]
+}
