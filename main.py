@@ -15,6 +15,8 @@ if not TWITTERAPI_KEY:
 if not GEMINI_KEY:
     raise EnvironmentError("❌ Falta la variable de entorno: GEMINI_API_KEY")
 
+MODELO_GEMINI = "gemini-2.5-flash"
+
 # 2. Inicializar Gemini (Librería moderna)
 client = genai.Client(api_key=GEMINI_KEY)
 
@@ -118,7 +120,25 @@ def obtener_tweets_twitterapi(handle):
 def ejecutar_monitoreo():
     try:
         print(f"Iniciando radar para la fecha: {fecha_hoy_str} a las {hora_corte} hs (Hora Argentina)")
-        
+
+        # --- 🛡️ PING PREVENTIVO (VERSIÓN OPTIMIZADA) ---
+        print(f"--- Verificando estado del modelo {MODELO_GEMINI} ---")
+        try:
+            # Usamos .get() en vez de generate_content. Cuesta 0 tokens.
+            client.models.get(model=MODELO_GEMINI)
+            print("✅ Gemini Online y respondiendo. Arrancando recolección de tweets...")
+        except Exception as e:
+            error_str = str(e)
+            # Atrapamos el 503 (Saturado), 429 (Exceso de peticiones) y RESOURCE_EXHAUSTED (Cuota agotada)
+            errores_criticos = ["503", "UNAVAILABLE", "429", "RESOURCE_EXHAUSTED"]
+            if any(error in error_str for error in errores_criticos):
+                print(f"🛑 ABORTO AUTOMÁTICO: Servidores de Google no disponibles o límite de cuota alcanzado.")
+                print(f"🛑 Motivo técnico: {error_str}")
+                print("🛑 Se cancela la extracción para ahorrar créditos de Twitter.")
+                return
+            else:
+                print(f"⚠️ Error desconocido en el ping, intentamos seguir bajo riesgo: {error_str}")
+
         # --- ABRIR LA LISTA DE GOBERNADORES ---
         with open('gobernadores.json', 'r', encoding='utf-8') as f:
             gobernadores = json.load(f)
@@ -231,7 +251,7 @@ TWEETS A ANALIZAR:
             try:
                 print(f"🚀 Enviando los perfiles a Gemini (Intento {i+1} de {intentos_max})...")
                 response = client.models.generate_content(
-                    model="gemini-2.5-flash",
+                    model=MODELO_GEMINI,
                     contents=prompt,
                     config=types.GenerateContentConfig(
                         response_mime_type="application/json"
