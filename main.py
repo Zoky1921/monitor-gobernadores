@@ -18,6 +18,8 @@ if not GEMINI_KEY:
 # 2. Inicializar Gemini (Librería moderna)
 client = genai.Client(api_key=GEMINI_KEY)
 
+MODELO_GEMINI = "gemini-2.5-flash"
+
 # --- 🕒 BLINDAJE HORARIO (ZONA ARGENTINA UTC-3) ---
 zona_ar = timezone(timedelta(hours=-3))
 ahora = datetime.now(zona_ar)
@@ -117,6 +119,27 @@ def obtener_tweets_twitterapi(handle):
 
 def ejecutar_monitoreo():
     try:
+        # --- PING PREVENTIVO A GEMINI (antes de gastar créditos de Twitter) ---
+        print("🔌 Verificando disponibilidad de Gemini antes de iniciar...")
+        try:
+            try:
+                client.models.get(model=MODELO_GEMINI)
+            except AttributeError:
+                # El SDK instalado no soporta .get(); hacemos un ping mínimo
+                client.models.generate_content(
+                    model=MODELO_GEMINI,
+                    contents="ping",
+                    config=types.GenerateContentConfig(max_output_tokens=1)
+                )
+            print("✅ Gemini disponible. Continuando...")
+        except Exception as e:
+            error_msg = str(e)
+            if any(code in error_msg for code in ("503", "UNAVAILABLE", "429", "RESOURCE_EXHAUSTED")):
+                print(f"🚫 Gemini no disponible ({error_msg[:120]}). Abortando para no gastar créditos de Twitter.")
+                return
+            else:
+                print(f"⚠️ Ping a Gemini falló con error desconocido: {error_msg[:120]}. Continuando de todos modos...")
+
         print(f"Iniciando radar para la fecha: {fecha_hoy_str} a las {hora_corte} hs (Hora Argentina)")
         
         # --- ABRIR LA LISTA DE GOBERNADORES ---
@@ -231,7 +254,7 @@ TWEETS A ANALIZAR:
             try:
                 print(f"🚀 Enviando los perfiles a Gemini (Intento {i+1} de {intentos_max})...")
                 response = client.models.generate_content(
-                    model="gemini-2.5-flash",
+                    model=MODELO_GEMINI,
                     contents=prompt,
                     config=types.GenerateContentConfig(
                         response_mime_type="application/json"

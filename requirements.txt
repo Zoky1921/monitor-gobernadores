@@ -1,2 +1,2 @@
-requests
-google-genai
+requests>=2.31.0,<3
+google-genai>=0.3.0,<1
