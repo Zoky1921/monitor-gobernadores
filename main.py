@@ -188,53 +188,62 @@ def ejecutar_monitoreo():
             print("Abortando llamada a Gemini para evitar análisis sesgado y ahorrar tokens.")
             return
 
-       # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA ---
+      # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA ---
         prompt = f"""
 Eres un Analista Político Senior y Consultor Estratégico experto en dinámicas federales en Argentina.
 Tu tarea es analizar los siguientes tweets crudos de los 24 gobernadores provinciales. Hoy es {fecha_pantalla} y son las {hora_corte} hs (Hora de Buenos Aires, GMT-3). Cada tweet incluye su fecha original de publicación.
 
+🚫 RESTRICCIÓN CRÍTICA DE IDENTIDAD Y DATOS VACÍOS:
+Solo podés mencionar a los gobernadores que aparecen explícitamente en el archivo JSON provisto. Tenés terminantemente prohibido usar información externa, tu memoria de entrenamiento o nombres de mandatarios de años anteriores. 
+Si no hay tweets que cumplan el filtro temporal en absoluto, devolvé el JSON con `temas_calientes`: [], `analisis_por_gobernador`: [], y aplicá la estructura nula para `tweet_destacado` definida en la Regla 5.
+
 REGLAS DE ANÁLISIS ESTRATÉGICO:
-1. FILTRO TEMPORAL Y ACTUALIDAD ESTRICTA: IGNORA POR COMPLETO cualquier tweet que no haya sido publicado hoy ({fecha_pantalla}) o a última hora de ayer. Procesa exclusivamente declaraciones políticas, medidas de gestión, reclamos al Estado Nacional o posicionamientos ideológicos. Ignora efemérides o saludos protocolares.
-2. REGLA DE NOMENCLATURA (CRÍTICA): Cada vez que menciones a un gobernador en cualquier parte del análisis, DEBES incluir el nombre de su provincia entre paréntesis inmediatamente después. Ejemplo: "Maximiliano Pullaro (Santa Fe) anunció..." o "El reclamo de Weretilneck (Río Negro)...". Nunca nombres a un gobernador sin su provincia.
+1. FILTRO TEMPORAL Y ACTUALIDAD ESTRICTA: IGNORA POR COMPLETO cualquier tweet que no haya sido publicado hoy ({fecha_pantalla}) o a última hora de ayer (después de las 20:00 hs GMT-3). Procesa exclusivamente declaraciones políticas, medidas de gestión, reclamos al Estado Nacional o posicionamientos ideológicos. Ignora efemérides. (ACLARACIÓN: Esto aplica solo al análisis general; para `tweet_destacado` rige la Regla 5).
+2. REGLA DE NOMENCLATURA (CRÍTICA): Cada vez que menciones a un gobernador en cualquier parte del análisis, DEBES incluir el nombre de su provincia entre paréntesis inmediatamente después. Ejemplo: "Maximiliano Pullaro (Santa Fe) anunció...". Nunca nombres a un gobernador sin su provincia.
 3. DOBLE VELOCIDAD DE LECTURA:
    - "Resumen Ejecutivo": Redacta un panorama hiper directo de 1 solo párrafo (aprox. 100 palabras) para lectura rápida de 1 minuto.
-   - "Análisis Profundo": Redacta un reporte analítico extenso (aprox. 400 palabras, 3 minutos de lectura). Conecta temas, marca tensiones entre Nación y Provincias, y desglosa estrategias discursivas.
-4. JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales que resuman la agenda federal de hoy. Para cada tendencia, DEBES identificar y listar los usuarios de X (@usuario) de todos los gobernadores que se hayan posicionado sobre ese tema.
-5. TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político del lote analizado. 
-REGLA CRÍTICA DE TIEMPO: debes leer atentamente la fecha que figura entre paréntesis al inicio de cada tweet `(Publicado: ...)`. **SOLO** puedes seleccionar un tweet si corresponde al día de hoy o al día de ayer. Si la declaración más rimbombante es de hace 3 días o más (por ejemplo, del 1 de abril), ESTÁ ESTRICTAMENTE PROHIBIDO seleccionarla. Si no hay nada relevante reciente, debes escribir exactamente: "Sin posteos destacados en este turno".
-REGLA DE FORMATO: Debe ser el texto ORIGINAL, COMPLETO y TEXTUAL. Prohibido resumir, parafrasear o acortar el mensaje. Si es un hilo, toma el tweet principal que dispara la noticia. 
-Piensa como un analista político: ¿cuál es la declaración reciente que altera el escenario o fija una agenda ineludible?    
-7. SEMÁFORO DE CLIMA POLÍTICO (NUEVO): Evalúa el nivel de conflictividad general de la jornada (Nación vs Provincias o entre ellas) y devuelve UNA SOLA PALABRA (ej: TENSO, NEUTRAL, POSITIVO, CONFLICTO).
-8. SEGURIDAD JSON Y COMILLAS (CRÍTICA): El objeto JSON debe ser perfecto. Para el campo "texto" del tweet destacado y las frases fuertes, DEBES incluir el contenido textual completo. Si el mensaje original tiene comillas dobles internas, debes cámbiarlas obligatoriamente por comillas simples (') para no romper la estructura del JSON, pero mantén cada palabra del mensaje original. Las comillas dobles SOLO deben usarse para la estructura del JSON, nunca para el texto.
-    FORMATO DE SALIDA OBLIGATORIO:
-    Responde ÚNICAMENTE con un objeto JSON válido. La estructura exacta debe ser:
+   - "Análisis Profundo": Redacta un reporte analítico extenso (aprox. 400 palabras, 3 minutos de lectura). Conecta temas y marca tensiones.
+4. JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales que resuman la agenda federal. Para cada tendencia, DEBES listar los usuarios de X (@usuario) que se hayan posicionado sobre ese tema.
+5. TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político. REGLA CRÍTICA DE TIEMPO: **SOLO** puedes seleccionar un tweet si su fecha corresponde ESTRICTAMENTE AL DÍA DE HOY ({fecha_pantalla}). 
+Si no hay nada relevante hoy, `tweet_destacado` debe ser exactamente:
+{{
+    "usuario": null,
+    "texto": "Sin posteos destacados en la jornada de hoy",
+    "por_que_es_clave": null,
+    "pregunta_openarg": null
+}}
+Si hay un tweet válido (ESTO SIGNIFICA: a. Es de HOY, y b. Es políticamente relevante, PROHIBIDO usar saludos, efemérides o protocolo), el texto debe ser ORIGINAL y COMPLETO, pero SIN etiquetas previas. Si el tweet comienza con "[RE-TWEET de @autor]", ELIMINA esa etiqueta del campo `texto`, y en el campo `usuario` escribí "@Gobernador (RT de @autor)". Si comienza solo con "[RE-TWEET]" sin indicar autor, eliminá la etiqueta y poné "@Gobernador (RT)".
+6. COBERTURA MÍNIMA: Si un gobernador no tiene tweets válidos dentro del filtro temporal, no lo incluyas bajo ninguna circunstancia en la lista de `analisis_por_gobernador`.
+7. SEMÁFORO DE CLIMA POLÍTICO: Evalúa el nivel de conflictividad general de la jornada (Nación vs Provincias o entre ellas) y devuelve UNA SOLA PALABRA. DEBE ser estrictamente uno de estos 4 valores: TENSO, NEUTRAL, POSITIVO, CONFLICTO.
+8. SEGURIDAD JSON Y COMILLAS (CRÍTICA): El objeto JSON debe ser perfecto. Evitar comillas dobles dentro de los textos; si hacen falta, reemplazarlas por comillas simples ('). Las comillas dobles SOLO deben usarse para las claves y valores estructurales del JSON. Además, los valores nulos deben ser estrictamente el tipo de dato `null` (sin comillas), nunca "null". El campo `tweet_destacado.usuario` debe ser estrictamente de tipo string o null.
+9. REGLA DE CITA LITERAL: El campo `frase_fuerte` dentro de `analisis_por_gobernador` DEBE ser exclusivamente una cita textual literal del tweet. Si no existe una cita literal contundente, este campo debe ser estrictamente `null` (sin comillas).
 
-    {{
-        "clima_general": "TENSO",
-        "resumen_ejecutivo": "Texto del resumen corto de 1 minuto aqui, sin comillas internas...",
-        "analisis_profundo": "Texto del analisis extenso y detallado aqui, sin comillas internas...",
-        "temas_calientes": [
-            {{
-                "tema": "Breve descripcion de la tendencia federal sin comillas",
-                "gobernadores_involucrados": ["@Kicillofok", "@ZiliottoSergio", "@maxipullaro"]
-            }},
-            {{
-                "tema": "Otra tendencia importante aqui",
-                "gobernadores_involucrados": ["@frigeriorogelio", "@passalacquaok"]
-            }}
-        ],
+FORMATO DE SALIDA OBLIGATORIO Y LISTAS VACÍAS:
+Responde ÚNICAMENTE con un objeto JSON válido. ATENCIÓN: Si no hay tweets válidos analizados, `temas_calientes` debe ser [] y `analisis_por_gobernador` debe ser [] (no inventes datos para rellenar).
+La estructura exacta, incluyendo la correcta indentación, debe ser:
+
+{{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Texto del resumen corto usando 'comillas simples' si es necesario...",
+    "analisis_profundo": "Texto del analisis extenso usando 'comillas simples' si es necesario...",
+    "temas_calientes": [
+        {{
+            "tema": "Breve descripcion de la tendencia federal sin comillas dobles",
+            "gobernadores_involucrados": ["@Kicillofok", "@ZiliottoSergio", "@maxipullaro"]
+        }}
+    ],
     "tweet_destacado": {{
-            "usuario": "El usuario. REGLA ESTRICTA: Si es un retweet (indicado con [RE-TWEET de @usuario_original]), escribí '@Gobernador (RT de @usuario_original)'. Si es original, solo '@Gobernador'",
-            "texto": "La cita textual más impactante, sin la etiqueta de RT",
-            "por_que_es_clave": "Breve justificación analítica.",
-            "pregunta_openarg": "SOLO SI el tweet habla de Coparticipación, Inflación, Presupuesto o Reservas, formula aquí una pregunta analítica corta para buscar el dato duro. Si no aplica, escribe null (sin comillas)."
-        }},
+        "usuario": "@Gobernador (RT de @autor)",
+        "texto": "La cita textual más impactante de HOY, sin la etiqueta de RT inicial",
+        "por_que_es_clave": "Breve justificación analítica.",
+        "pregunta_openarg": null
+    }},
     "analisis_por_gobernador": [
         {{
             "gobernador": "@UsuarioGobernador",
             "temas_mencionados": ["Tema A", "Tema B"],
             "postura_politica": "Análisis de su postura en máximo 3 líneas.",
-            "frase_fuerte": "Una cita textual breve si existe, sino null"
+            "frase_fuerte": null
         }}
     ]
 }}
