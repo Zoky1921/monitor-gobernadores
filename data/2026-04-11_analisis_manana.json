@@ -1,0 +1,330 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de hoy y última hora de ayer, 11 de abril de 2026, refleja una fuerte proactividad de los gobernadores en la gestión provincial y una compleja relación con el gobierno nacional. Kicillof (Buenos Aires) y Ziliotto (La Pampa) mantienen una postura crítica y confrontativa con las políticas nacionales, con Ziliotto (La Pampa) incluso presentando un amparo colectivo ambiental. Por otro lado, Sáenz (Salta) y Orrego (San Juan) celebran modificaciones a la Ley de Glaciares, mientras que Figueroa (Neuquén) agradece la coordinación con el ministro Caputo. Jorge Macri (CABA) establece una política de 'prioridad para los porteños', generando potencial fricción interjurisdiccional. Predomina el énfasis en la autonomía y el financiamiento propio para obras de infraestructura, vivienda, salud y seguridad, ante el contexto de desfinanciamiento nacional.",
+    "analisis_profundo": "El escenario federal de hoy se presenta con una dualidad estratégica: por un lado, una fuerte impronta de gestión y autonomía provincial; por el otro, la persistencia de tensiones y adaptaciones frente a las políticas del Estado Nacional. Gobernadores de distintos signos políticos demuestran proactividad en áreas clave como vivienda, infraestructura y salud, a menudo enfatizando el financiamiento y el esfuerzo propio.\n\nAxel Kicillof (Buenos Aires) mantiene una línea discursiva confrontativa con el gobierno de Milei, criticando el aumento del desempleo, el riesgo de eliminación de programas como REMEDIAR, y la desfinanciación de la ciencia y la educación. Su agenda se centra en la provisión de viviendas y la expansión de la infraestructura educativa y productiva, marcando una clara diferencia con la visión nacional. Jorge Macri (Ciudad Autónoma de Buenos Aires), por su parte, consolida su agenda de 'ley y orden' a través de acciones contra usurpaciones y una política de 'prioridad para los porteños', lo que implica una tensión velada con otras jurisdicciones, especialmente la provincia de Buenos Aires, respecto al uso de servicios.\n\nLa cuestión minera y ambiental emerge como un foco de divergencia y acuerdo. Mientras Raúl Jalil (Catamarca) rechaza un proyecto minero por estándares comunitarios y ambientales, también apoya la modificación de la Ley de Glaciares por su potencial federal. Sergio Ziliotto (La Pampa) lleva la controversia a un plano legal con un amparo colectivo ambiental contra la Ley de Glaciares, defendiendo los recursos hídricos. En contraste, Marcelo Orrego (San Juan) celebra la aprobación de dicha modificación, considerándola clave para el desarrollo minero.\n\nOtros gobernadores, como Ricardo Quintela (La Rioja) y Gustavo Sáenz (Salta), subrayan la inversión provincial en infraestructura y vivienda en un contexto de paralización de la obra pública nacional, con Quintela (La Rioja) incluso financiando obras originalmente nacionales. Claudio Vidal (Santa Cruz) está redefiniendo el esquema hidrocarburífero provincial, buscando nuevas condiciones de inversión. Rolando Figueroa (Neuquén) se posiciona como un actor clave en el desarrollo del GNL y agradece la coordinación con el ministro Caputo. Maximiliano Pullaro (Santa Fe) celebra un acuerdo con Nación por el pago de la deuda previsional, un punto de conflicto recurrente.\n\nEn materia de seguridad, Torres (Chubut) y Poggi (San Luis) implementan medidas para combatir el narcomenudeo y modernizar la seguridad con tecnología y coordinación federal. La educación y la salud, en tanto, son pilares constantes de la gestión provincial, con inversiones en infraestructura, digitalización y programas de formación adaptados a las necesidades locales.\n\nEn síntesis, los gobernadores están consolidando agendas propias, priorizando la gestión territorial y la autonomía en la toma de decisiones. Las tensiones con Nación persisten en temas de recursos y modelo de Estado, pero también se observan canales de diálogo y cooperación puntual, especialmente en el sector energético.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo y relación Nación-Provincias (Recursos y Políticas)",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@insfran_gildo",
+                "@carlossadirjuy",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Minería y Recursos Naturales (Ley de Glaciares)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@ZiliottoSergio",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Inversión Provincial en Infraestructura y Vivienda",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Impulso Productivo y Desarrollo Económico Provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@gustavovaldesok",
+                "@ZiliottoSergio",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Durante años, la Ciudad se hizo cargo de lo que otros no hacen. La incompetencia del otro lado de la General Paz la pagaban los porteños con sus impuestos. Se terminó. Firmé un decreto para darle fuerza legal a una política que ya aplicamos en salud: PRIORIDAD PARA LOS PORTEÑOS. Desde ahora, cada área y cada servicio del Gobierno de la Ciudad va a funcionar con ese criterio. Esto también es ordenar y cuidar.",
+        "por_que_es_clave": "Este tweet marca un posicionamiento político explícito de Jorge Macri (Ciudad Autónoma de Buenos Aires) que establece una política de 'prioridad para los porteños' en el acceso a servicios, lo que puede generar fuertes tensiones con la Provincia de Buenos Aires y otras jurisdicciones, aludiendo directamente a la 'incompetencia del otro lado de la General Paz' y el impacto en los impuestos de CABA. Implica una redefinición de la relación interjurisdiccional sobre el uso de recursos y servicios públicos en el área metropolitana.",
+        "pregunta_openarg": "¿Cuál es el costo fiscal estimado para la Ciudad de Buenos Aires por servicios utilizados por no porteños?",
+        "verificacion_openarg": "Entiendo tu pregunta, pero los datos que tengo disponibles en OpenArg no incluyen un estudio específico sobre el **costo fiscal estimado para CABA por servicios utilizados por no porteños**.\n\nLo que s..."
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Vivienda",
+                "Desarrollo Productivo",
+                "Educación",
+                "Infraestructura",
+                "Crítica a políticas nacionales"
+            ],
+            "postura_politica": "Defensor de un Estado presente y activo, confronta abiertamente las políticas de ajuste del gobierno nacional, enfatizando el rol provincial en la provisión de derechos y el desarrollo. Su agenda está centrada en las necesidades sociales y productivas de la Provincia de Buenos Aires.",
+            "frase_fuerte": "Cuando hay un Estado que acompaña, la casa propia deja de ser un privilegio y se vuelve una realidad, una oportunidad y un profundo acto de justicia social."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y Orden",
+                "Prioridad de servicios para residentes",
+                "Educación y Tecnología"
+            ],
+            "postura_politica": "Línea dura en seguridad y defensa de la propiedad privada. Fuerte nacionalismo localista, priorizando los recursos y servicios de la ciudad para sus habitantes, marcando distancia de otras jurisdicciones.",
+            "frase_fuerte": "Durante años, la Ciudad se hizo cargo de lo que otros no hacen. La incompetencia del otro lado de la General Paz la pagaban los porteños con sus impuestos. Se terminó. Firmé un decreto para darle fuerza legal a una política que ya aplicamos en salud: PRIORIDAD PARA LOS PORTEÑOS."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería",
+                "Política ambiental",
+                "Ley de Glaciares",
+                "Educación"
+            ],
+            "postura_politica": "Busca un equilibrio entre el fomento de la actividad minera (con responsabilidad ambiental y social) y la defensa de los derechos laborales en educación. Muestra apertura al diálogo sobre legislación federal que beneficia a las provincias mineras.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Salud",
+                "Vivienda"
+            ],
+            "postura_politica": "Enfoque en el desarrollo productivo local, con el Estado como facilitador de oportunidades. Prioriza la mejora de servicios básicos como salud y vivienda en el Chaco.",
+            "frase_fuerte": "Este es el objetivo planteado desde el inicio de nuestra gestión, acompañar al que produce, al que quiere salir adelante. El Estado, es un facilitador."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Vivienda",
+                "Salud",
+                "Infraestructura"
+            ],
+            "postura_politica": "Enérgico en materia de seguridad, implementando leyes provinciales innovadoras contra el delito. Prioriza la resolución de problemáticas urgentes como la reconstrucción post-desastre y la mejora de la infraestructura social en Chubut.",
+            "frase_fuerte": "La semana que viene estaremos convocando a la Comisión Interpoderes para avanzar en el debate sobre la adhesión a la ley nacional de narcomenudeo."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Promoción económica",
+                "Primera infancia",
+                "Salud"
+            ],
+            "postura_politica": "Proactivo en la gestión de infraestructura y el fomento de la economía de Córdoba, buscando financiamiento externo. Destaca el trabajo conjunto con municipios y el sostenimiento de programas sociales.",
+            "frase_fuerte": "Estamos muy contentos de ver el avance de los trabajos para la recuperación del Parque José María Paz, un espacio verde que estamos transformando en el corazón de barrio General Paz, en #CórdobaCapital."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Promoción de inversiones",
+                "Comercio exterior"
+            ],
+            "postura_politica": "Impulsa herramientas institucionales para el desarrollo económico y la atracción de inversiones, con un enfoque en la articulación público-privada para Corrientes.",
+            "frase_fuerte": "Mediante un proyecto de ley, propuse crear la Agencia de Desarrollo, Promoción de Inversiones y Comercio Exterior de #Corrientes para que articule programas público-privados de estímulo con las áreas productiva, industrial y financiera de la provincia."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [],
+            "postura_politica": "No se registraron posteos estratégicos relevantes en el período de análisis para el gobernador de Entre Ríos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Vialidad",
+                "Federalismo",
+                "Infraestructura"
+            ],
+            "postura_politica": "Defiende el rol de la vialidad provincial como integradora territorial y reclama la necesidad de políticas federales en infraestructura, criticando la situación actual en Formosa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Relación con Nación",
+                "Economía",
+                "Empleo",
+                "Zonas Francas",
+                "Conectividad"
+            ],
+            "postura_politica": "Busca abordar la crisis económica y de empleo de su provincia con el gobierno nacional, mientras impulsa la integración regional y el desarrollo de zonas francas en Jujuy. Aboga por el diálogo federal para solucionar problemas macroeconómicos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Energía",
+                "Política ambiental",
+                "Ley de Glaciares",
+                "Vivienda"
+            ],
+            "postura_politica": "Defensor de la autonomía provincial y los recursos naturales, dispuesto a tomar acciones legales ante políticas nacionales consideradas perjudiciales para La Pampa. Impulsa la inversión público-privada y la vivienda social.",
+            "frase_fuerte": "Más energía para el desarrollo productivo. Junto a la intendenta @afernandaok lanzamos la Etapa II del Parque Solar Fotovoltaico de General Pico, a través de una licitación pública para ampliar la capacidad de generación y consolidar un polo energético clave para el desarrollo del norte provincial."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Educación técnica",
+                "Infraestructura urbana",
+                "Derechos humanos",
+                "Justicia federal"
+            ],
+            "postura_politica": "Defiende la educación y la obra pública con recursos provinciales ante el desfinanciamiento nacional. Se muestra crítico de la justicia federal en casos de alto perfil y de las acusaciones infundadas contra dirigentes políticos.",
+            "frase_fuerte": "La educación técnica es el futuro, y fortalecerla es una de las grandes apuestas de nuestra gestión."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Vivienda",
+                "Educación",
+                "Justicia",
+                "Seguridad"
+            ],
+            "postura_politica": "Enfoque en la gestión eficiente, reformas institucionales y el uso de tecnología para mejorar la seguridad en Mendoza. Subraya el trabajo provincial para mantener la construcción y el acceso a la vivienda, priorizando la calidad y la continuidad.",
+            "frase_fuerte": "A quienes aún están esperando, quiero que sepan que no miramos para otro lado. En Mendoza hay un sistema que, aunque avanza más lento que la demanda, sigue construyendo casas sin resignar calidad."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Turismo",
+                "Desarrollo productivo",
+                "Educación",
+                "Vivienda",
+                "Infraestructura"
+            ],
+            "postura_politica": "Promueve el desarrollo regional, la conectividad y la inversión local en Misiones. Crítico de la desregulación nacional en sectores clave, defendiendo a los pequeños productores y dispuesto a tomar acciones legales.",
+            "frase_fuerte": "Acompañamos el lanzamiento de Fenasoja 2026, una experiencia que va mucho más allá de una feria, donde se encuentran la producción, la cultura y el trabajo de toda la región."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Educación",
+                "Vaca Muerta",
+                "Relación con Nación"
+            ],
+            "postura_politica": "Proactivo en el desarrollo de infraestructura clave para la provincia y la región, especialmente en torno a Vaca Muerta. Posiciona a Neuquén como motor energético nacional, mostrando apertura a la coordinación y diálogo con Nación.",
+            "frase_fuerte": "Gracias @LuisCaputoAR por acompañar este proceso. En Neuquén ordenamos, planificamos y ejecutamos: obras que integran el territorio y generan oportunidades. Más conectividad es más desarrollo. Ordenar para distribuir."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Salud",
+                "Energía",
+                "Seguridad",
+                "Educación",
+                "Economía"
+            ],
+            "postura_politica": "Enfoque en la modernización de servicios, la inversión en infraestructura con fondos propios y el combate al narcotráfico en Río Negro. Promueve un clima de inversión y desarrollo con reglas claras, articulando educación con las demandas laborales de la industria energética y minera.",
+            "frase_fuerte": "100 MIL RIONEGRINOS YA TIENEN HISTORIA CLÍNICA DIGITAL Sabemos que todavía falta. Pero este es el rumbo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Educación",
+                "Agroproducción",
+                "Vivienda",
+                "Minería"
+            ],
+            "postura_politica": "Apuesta a la formación de jóvenes para sectores productivos clave como la minería y el agro en Salta. Prioriza la resolución de demandas habitacionales con fondos provinciales y el fortalecimiento del sector productivo.",
+            "frase_fuerte": "Hoy dimos inicio a un nuevo ciclo lectivo en Upateco y no puedo dejar de pensar en cada uno de los jóvenes que decidió apostar por sus sueños y por su futuro."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Minería",
+                "Ley de Glaciares",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Abogado del desarrollo minero con reglas claras y base científica. Alineado con políticas que buscan atraer inversión y generar empleo en este sector, defendiendo los intereses de San Juan en el marco de la legislación federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Salud",
+                "Seguridad",
+                "Reforma Constitucional"
+            ],
+            "postura_politica": "Promueve la institucionalidad y la modernización del Estado de San Luis, con fuerte énfasis en la educación (maestros rurales, cooperativismo), la digitalización de la salud y la incorporación de tecnología en seguridad. Impulsa una reforma constitucional provincial.",
+            "frase_fuerte": "EDUCACIÓN - Elevé hoy a la Cámara de Diputados de la Pcia un Proyecto de Ley instituyendo el 4 de Noviembre de cada año como el DÍA DEL MAESTRO RURAL SANLUISEÑO."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura hídrica",
+                "Política hidrocarburífera"
+            ],
+            "postura_politica": "Enfocado en la resolución de demandas históricas en vivienda e infraestructura de agua para productores. Busca redefinir el esquema de la actividad hidrocarburífera en Santa Cruz para recuperar producción y empleo, negociando con las operadoras.",
+            "frase_fuerte": "EN EL BARRIO SAN BENITO DE RÍO GALLEGOS, INICIAMOS LA CONSTRUCCIÓN DE 120 VIVIENDAS Hoy comenzamos una nueva etapa para dar respuestas a familias que esperan hace años."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Seguridad",
+                "Promoción económica",
+                "Coparticipación previsional"
+            ],
+            "postura_politica": "Lidera una gestión enfocada en la seguridad con resultados contundentes contra el microtráfico. Impulsa grandes obras de infraestructura en Santa Fe y la promoción económica para empresas, además de asegurar el cumplimiento de acuerdos federales por deuda previsional.",
+            "frase_fuerte": "¡Nos fuimos a recorrer la obra del nuevo Puente Carretero junto a vecinos de Santa Fe! Lo que durante muchos años fue una promesa, hoy ya empezamos verlo como una realidad que va creciendo día a día."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Comercio"
+            ],
+            "postura_politica": "Enfocado en el acompañamiento y fortalecimiento del sector comercial en Santiago del Estero, buscando proyectar nuevas herramientas de crecimiento para la economía local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [],
+            "postura_politica": "No se registraron posteos estratégicos relevantes en el período de análisis para el gobernador de Tierra del Fuego.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Laboral (citrícola)",
+                "Emergencia climática",
+                "Subsidio energía",
+                "Educación"
+            ],
+            "postura_politica": "Comprometido con el desarrollo productivo y la estabilidad laboral, gestiona activamente la emergencia climática con asistencia directa y subsidios. Invierte en educación de vanguardia (IA) para Tucumán, destacando el diálogo y consenso como herramientas de gestión.",
+            "frase_fuerte": "Anunciamos la implementación del Plan Bonificar, mediante el cual vamos a cubrir el costo de la energía eléctrica durante dos bimestres, y en algunos casos hasta tres, para cerca de 10.000 familias de distintas localidades."
+        }
+    ]
+}
