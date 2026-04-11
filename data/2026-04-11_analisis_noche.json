@@ -1,0 +1,187 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal del 11 de abril de 2026 estuvo marcada por una fuerte tensión entre la Ciudad de Buenos Aires y la Provincia de Buenos Aires. Jorge Macri (CABA) decretó la 'prioridad porteña' en servicios públicos, argumentando que la 'incompetencia del otro lado de la General Paz' ya no será costeada por los contribuyentes porteños. En contraparte, Axel Kicillof (Buenos Aires) continuó con inauguraciones de obras provinciales, acusando al gobierno nacional de abandono. Otros gobernadores como Leandro Zdero (Chaco), Ignacio Torres (Chubut), Sergio Ziliotto (La Pampa), Hugo Passalacqua (Misiones), Rolando Figueroa (Neuquén), Alberto Weretilneck (Río Negro) y Claudio Poggi (San Luis) se enfocaron en gestión local, infraestructura, salud, educación y desarrollo productivo, manteniendo agendas mayormente enfocadas en sus territorios.",
+    "analisis_profundo": "La dinámica federal actual se polariza en la relación entre la Ciudad Autónoma de Buenos Aires y la Provincia de Buenos Aires, con un notorio incremento en la retórica de confrontación. Jorge Macri (CABA) ha oficializado una medida que dará prioridad a los residentes porteños en el acceso a servicios públicos, extendiendo una política ya vigente en salud a todo el ámbito de la administración. Esta decisión, justificada por el costo que representa para la Ciudad la atención a no residentes y atribuida a la 'incompetencia del otro lado de la General Paz', genera un claro foco de conflicto con la provincia de Buenos Aires. El gobernador Axel Kicillof (Buenos Aires), por su parte, ha utilizado sus redes para destacar la continuidad de obras provinciales en infraestructura hídrica y vial, remarcando la 'presencia de la provincia' frente a un supuesto 'abandono del Gobierno Nacional'. Esta confrontación entre los dos distritos más grandes del país podría escalar, exacerbando las diferencias en el tratamiento de cuestiones de coparticipación y servicios.\n\nEn el resto del país, la agenda de los gobernadores se centró en la gestión local y el impulso de proyectos productivos y de infraestructura con recursos propios, reflejando una necesidad de autonomía ante un contexto nacional complejo. Leandro Zdero (Chaco) y Rolando Figueroa (Neuquén) destacaron avances en infraestructura rural y educativa respectivamente. Ignacio Torres (Chubut) abordó temas de seguridad con el debate sobre la ley de narcomenudeo y la entrega de viviendas, mientras que Alberto Weretilneck (Río Negro) mostró una gestión activa en seguridad, desarrollo energético y obras locales. Sergio Ziliotto (La Pampa) puso el foco en la inversión en energía solar y la desgravación impositiva para atraer capitales. Claudio Poggi (San Luis) concentró sus anuncios en educación, deporte y modernización de la salud pública. La tendencia general es la de gobernadores que intentan avanzar con sus propias agendas de desarrollo, infraestructuras y servicios, buscando soluciones endógenas y gestionando con un fuerte componente localista. Sin embargo, la tensión explícita entre CABA y PBA resalta una grieta que podría tener implicaciones mayores en el panorama político nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Prioridad Ciudadana y Federalismo Fiscal",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok",
+                "@padonati"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Obra Pública Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Energético y Productivo",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@WeretilneckOK",
+                "@passalacquaok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Delito",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Educación y Desarrollo Social",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@Rolo_Figueroa",
+                "@NachoTorresCH",
+                "@LeandroZdero",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @radiomitre)",
+        "texto": "⚠️ El Jefe de Gobierno porteño, Jorge Macri, anunció que los vecinos de la Ciudad tendrán prioridad frente a los bonaerenses y extranjeros al momento de pedir turnos, cupos, vacantes o cualquier otro servicio en las dependencias de la administración pública. ✍️ 'Durante años, la Ciudad se hizo cargo de lo que otros no hacen. La incompetencia del otro lado de la General Paz la pagaban los porteños con sus impuestos. Se terminó. Firmé un decreto para darle fuerza legal a una política que ya aplicamos en salud: PRIORIDAD PARA LOS PORTEÑOS. Desde ahora, cada área y cada servicio del Gobierno de la Ciudad va a funcionar con ese criterio. Esto también es ordenar y cuidar', expresó mediante sus redes sociales. ➡️ La medida fue confirmada a través del decreto N°142-26 que amplía la 'Prioridad Porteña'. ➡️ Además, aclara los límites para evitar situaciones de desprotección: el sistema de preferencia no tendrá validez en casos de urgencias o emergencias sanitarias, donde la atención debe ser inmediata sin distinción de domicilio.",
+        "por_que_es_clave": "Esta medida formaliza y amplía la 'Prioridad Porteña' a todos los servicios públicos de CABA, exacerbando la tensión con la Provincia de Buenos Aires y marcando una posición fiscal y de servicios que redefine las relaciones interjurisdiccionales, especialmente en un contexto de recursos limitados.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial",
+                "Críticas al gobierno nacional"
+            ],
+            "postura_politica": "Reafirma el rol activo del Estado provincial en la realización de obras esenciales, contrastando con la 'ausencia' o 'abandono' del gobierno nacional. Mantiene una postura confrontativa respecto a la gestión federal en materia de inversión pública.",
+            "frase_fuerte": "'A pesar del abandono del Gobierno Nacional, en la Provincia seguimos invirtiendo en obras viales que conectan, potencian el desarrollo y mejoran la vida cotidiana.'"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Prioridad en servicios",
+                "Federalismo fiscal",
+                "Seguridad"
+            ],
+            "postura_politica": "Impulsa una política de priorización de los residentes de la CABA en el acceso a servicios públicos, bajo el argumento de proteger los recursos de los contribuyentes locales. Se muestra firme en diferenciar la gestión porteña de la bonaerense, calificando la situación fuera de su jurisdicción como 'incompetencia'.",
+            "frase_fuerte": "'La incompetencia del otro lado de la General Paz la pagaban los porteños con sus impuestos. Se terminó.'"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Desarrollo rural",
+                "Producción",
+                "Seguridad",
+                "Gestión de gobierno"
+            ],
+            "postura_politica": "Enfatiza el apoyo al sector productivo local y la recuperación de infraestructura rural clave para las comunidades. Destaca el papel del Estado como 'facilitador' del desarrollo y la mejora de la seguridad en zonas rurales.",
+            "frase_fuerte": "'El Estado, es un facilitador.'"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Vivienda social",
+                "Justicia",
+                "Deporte"
+            ],
+            "postura_politica": "Activo en la resolución de problemas sociales urgentes como la vivienda tras desastres naturales y el avance en reformas legislativas para la seguridad provincial. Prioriza la gestión local y el cumplimiento de la palabra.",
+            "frase_fuerte": "'Esto es lo que se logra cuando los chubutenses trabajamos codo a codo, sin divisiones y con un objetivo claro: estar a la altura de quienes más lo necesitan.'"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Energía renovable",
+                "Desarrollo productivo",
+                "Inversión"
+            ],
+            "postura_politica": "Promueve activamente la inversión en energías renovables con un marco tributario favorable, buscando atraer capital privado para el desarrollo productivo. Articula políticas para generar energía y valor agregado en la provincia.",
+            "frase_fuerte": "'En todas sus etapas, estos emprendimientos tienen una carga tributaria provincial '0', lo que atrae más ofertas y da mayor viabilidad a la inversión.'"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Promoción económica",
+                "Infraestructura turística",
+                "Cultura local",
+                "Conectividad"
+            ],
+            "postura_politica": "Fomenta la actividad económica local a través de ferias agroindustriales y acuerdos para el turismo. Destaca la importancia de las empresas locales y la conectividad para el crecimiento.",
+            "frase_fuerte": "'Acompañé a @misionesonline en su 26° aniversario, celebrando el camino recorrido por un medio que ya es parte de la vida cotidiana de los misioneros.'"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Educación",
+                "Desarrollo turístico"
+            ],
+            "postura_politica": "Centrado en la concreción de obras de infraestructura que mejoran la conectividad y potencian el turismo, especialmente en el sur de la provincia. Muestra un compromiso con la educación y la mejora de las condiciones de aprendizaje.",
+            "frase_fuerte": "'Llevamos adelante un histórico plan de asfalto para promover el desarrollo, equilibrar oportunidades entre regiones y generar condiciones concretas para el crecimiento de las economías regionales.'"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Desarrollo energético",
+                "Infraestructura urbana",
+                "Salud digital",
+                "Deporte"
+            ],
+            "postura_politica": "Muestra una gestión integral que abarca desde la lucha contra el narcotráfico y la mejora de la seguridad vial hasta el impulso de proyectos energéticos y la modernización de servicios públicos como la salud. Se enfoca en el 'rumbo' y el 'orden' de la provincia.",
+            "frase_fuerte": "'Los vecinos lo ven: Sierra Grande se está transformando y dejando atrás años de abandono.'"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Deporte",
+                "Salud pública",
+                "Seguridad"
+            ],
+            "postura_politica": "Exhibe una fuerte agenda social y de servicios, con énfasis en la educación (programas nutricionales, reconocimiento docente), el fomento del deporte juvenil y la modernización del sistema de salud y seguridad. También resalta la institucionalidad provincial.",
+            "frase_fuerte": "'Objetivo principal: lograr sistematizar una ÚNICA HISTORIA CLÍNICA DIGITAL que facilite la tarea de los Servidores Públicos de la Salud (un trabajo en red) , le facilite la información médica personal a los Ciudadanos y brinde mayor información estadística para las políticas públicas sanitarias.'"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Industria petrolera",
+                "Acuerdos con operadores",
+                "Producción",
+                "Empleo"
+            ],
+            "postura_politica": "Enfocado en la reactivación y ordenamiento de la actividad hidrocarburífera provincial, buscando la responsabilidad y el cumplimiento de acuerdos con las operadoras para generar empleo y recaudación.",
+            "frase_fuerte": "'El 1 de mayo tenemos que firmar el acuerdo de producción y a partir de ahí cada uno tiene que cumplir su parte.'"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Destaca la concreción de obras de infraestructura clave como el Puente Carretero, presentándolas como promesas cumplidas y fundamentales para el desarrollo y la unión de la región, en contraste con 'muchos años' de promesas incumplidas.",
+            "frase_fuerte": "'Lo que durante muchos años fue una promesa, hoy ya empezamos verlo como una realidad que va creciendo día a día.'"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Promoción de eventos",
+                "Logística social"
+            ],
+            "postura_politica": "Se enfoca en la organización y facilitación de eventos para la comunidad, mostrando un Estado presente en la logística y el acceso a oportunidades para los ciudadanos.",
+            "frase_fuerte": "'Todo listo para Santiago Crece con Vos! 🙌'"
+        }
+    ]
+}
