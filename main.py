@@ -125,7 +125,7 @@ def ejecutar_monitoreo():
             try:
                 client.models.get(model=MODELO_GEMINI)
             except AttributeError:
-                # El SDK instalado no soporta .get(); hacemos un ping mínimo
+                # El SDK instalado no soporta .get(); hacemos un ping mínimo (usa ~1 token de entrada)
                 client.models.generate_content(
                     model=MODELO_GEMINI,
                     contents="ping",
