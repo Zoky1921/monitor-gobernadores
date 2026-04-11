@@ -15,10 +15,10 @@ if not TWITTERAPI_KEY:
 if not GEMINI_KEY:
     raise EnvironmentError("❌ Falta la variable de entorno: GEMINI_API_KEY")
 
+MODELO_GEMINI = "gemini-2.5-flash"
+
 # 2. Inicializar Gemini (Librería moderna)
 client = genai.Client(api_key=GEMINI_KEY)
-
-MODELO_GEMINI = "gemini-2.5-flash"
 
 # --- 🕒 BLINDAJE HORARIO (ZONA ARGENTINA UTC-3) ---
 zona_ar = timezone(timedelta(hours=-3))
@@ -45,13 +45,13 @@ def obtener_tweets_twitterapi(handle):
     }
     
     try:
-        response = requests.get(url, headers=headers, params=querystring)
+        response = requests.get(url, headers=headers, params=querystring, timeout=30)
         response.raise_for_status()
         data = response.json()
         
         tweets_texto = []
-        
-# Extraemos la lista de la "doble caja" específica de TwitterAPI.io
+
+        # Extraemos la lista de la "doble caja" específica de TwitterAPI.io
         lista_tweets = []
         if isinstance(data, dict):
             # Buscamos la ruta exacta: data -> data -> tweets
@@ -69,47 +69,47 @@ def obtener_tweets_twitterapi(handle):
             return []
 
         for t in lista_tweets:
-                texto_base = t.get('full_text') or t.get('text')
-                
-                es_rt_flag = str(t.get('isRetweet')).lower() == 'true'
-                tiene_rt_dict = isinstance(t.get('retweeted_tweet'), dict) and len(t.get('retweeted_tweet')) > 0
-                empieza_con_rt = bool(texto_base) and texto_base.startswith('RT @')
-                
-                is_rt = es_rt_flag or tiene_rt_dict or empieza_con_rt
-                
-                # --- NUEVO: Búsqueda del autor original del RT ---
-                autor_original = ""
-                if tiene_rt_dict:
-                    # Buscamos en el diccionario del RT original
-                    usuario_rt = t['retweeted_tweet'].get('user') or t['retweeted_tweet'].get('author') or {}
-                    if isinstance(usuario_rt, dict):
-                        autor_original = usuario_rt.get('screen_name') or usuario_rt.get('userName') or usuario_rt.get('username') or ""
-                
-                # Plan B: Si la API no trajo el diccionario, lo cortamos "a mano" del texto
-                if not autor_original and texto_base and texto_base.startswith('RT @'):
-                    partes = texto_base.split(' ', 2)
-                    if len(partes) > 1:
-                        # Limpiamos los dos puntos y el arroba para que quede prolijo
-                        autor_original = partes[1].replace(':', '').replace('@', '')
-                # -------------------------------------------------
-                
-                if tiene_rt_dict:
-                    texto_final = t['retweeted_tweet'].get('full_text') or t['retweeted_tweet'].get('text') or texto_base
+            texto_base = t.get('full_text') or t.get('text')
+            
+            es_rt_flag = str(t.get('isRetweet')).lower() == 'true'
+            tiene_rt_dict = isinstance(t.get('retweeted_tweet'), dict) and len(t.get('retweeted_tweet')) > 0
+            empieza_con_rt = bool(texto_base) and texto_base.startswith('RT @')
+            
+            is_rt = es_rt_flag or tiene_rt_dict or empieza_con_rt
+            
+            # --- NUEVO: Búsqueda del autor original del RT ---
+            autor_original = ""
+            if tiene_rt_dict:
+                # Buscamos en el diccionario del RT original
+                usuario_rt = t['retweeted_tweet'].get('user') or t['retweeted_tweet'].get('author') or {}
+                if isinstance(usuario_rt, dict):
+                    autor_original = usuario_rt.get('screen_name') or usuario_rt.get('userName') or usuario_rt.get('username') or ""
+            
+            # Plan B: Si la API no trajo el diccionario, lo cortamos "a mano" del texto
+            if not autor_original and texto_base and texto_base.startswith('RT @'):
+                partes = texto_base.split(' ', 2)
+                if len(partes) > 1:
+                    # Limpiamos los dos puntos y el arroba para que quede prolijo
+                    autor_original = partes[1].replace(':', '').replace('@', '')
+            # -------------------------------------------------
+            
+            if tiene_rt_dict:
+                texto_final = t['retweeted_tweet'].get('full_text') or t['retweeted_tweet'].get('text') or texto_base
+            else:
+                texto_final = texto_base
+
+            if texto_final and isinstance(texto_final, str) and texto_final.strip():
+                # --- NUEVO: Armado del prefijo personalizado ---
+                if is_rt:
+                    prefijo = f"[RE-TWEET de @{autor_original}] " if autor_original else "[RE-TWEET] "
                 else:
-                    texto_final = texto_base
+                    prefijo = ""
+                    
+                fecha = t.get('createdAt') or t.get('created_at', 'Fecha desconocida')
+                tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto_final}")
 
-                if texto_final and isinstance(texto_final, str) and texto_final.strip():
-                    # --- NUEVO: Armado del prefijo personalizado ---
-                    if is_rt:
-                        prefijo = f"[RE-TWEET de @{autor_original}] " if autor_original else "[RE-TWEET] "
-                    else:
-                        prefijo = ""
-                        
-                    fecha = t.get('createdAt') or t.get('created_at', 'Fecha desconocida')
-                    tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto_final}")
-
-                if len(tweets_texto) >= 40:
-                    break
+            if len(tweets_texto) >= 40:
+                break
                     
         return tweets_texto
         
@@ -170,7 +170,7 @@ def ejecutar_monitoreo():
             print("No se encontraron tweets nuevos hoy.")
             return
 
-# --- GUARDAR EL ARCHIVO CRUDO ---
+        # --- GUARDAR EL ARCHIVO CRUDO ---
         os.makedirs('data', exist_ok=True)
         # Le agregamos el turno al final del nombre, antes del .json
         ruta_crudo = f'data/{fecha_hoy_str}_crudo_{turno}.json'
@@ -188,7 +188,7 @@ def ejecutar_monitoreo():
             print("Abortando llamada a Gemini para evitar análisis sesgado y ahorrar tokens.")
             return
 
-      # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA ---
+        # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA ---
         prompt = f"""
 Eres un Analista Político Senior y Consultor Estratégico experto en dinámicas federales en Argentina.
 Tu tarea es analizar los siguientes tweets crudos de los 24 gobernadores provinciales. Hoy es {fecha_pantalla} y son las {hora_corte} hs (Hora de Buenos Aires, GMT-3). Cada tweet incluye su fecha original de publicación.
@@ -307,35 +307,35 @@ TWEETS A ANALIZAR:
 
         # --- 5. AUDITORÍA OPENARG (FRANCOTIRADOR) ---
         if "tweet_destacado" in resumen_data:
-                    tweet_del_dia = resumen_data["tweet_destacado"]
-                    pregunta = tweet_del_dia.get("pregunta_openarg")
-                    
-                    # Seteamos null por defecto para evitar errores en la web
-                    tweet_del_dia["verificacion_openarg"] = None 
+            tweet_del_dia = resumen_data["tweet_destacado"]
+            pregunta = tweet_del_dia.get("pregunta_openarg")
+            
+            # Seteamos null por defecto para evitar errores en la web
+            tweet_del_dia["verificacion_openarg"] = None
         
-                    # Validamos que la pregunta exista y no sea la palabra "null"
-                    if pregunta and str(pregunta).lower() != "null":
-                        print(f"🔍 Disparando a OpenArg: {pregunta}")
-                        openarg_key = os.environ.get("OPENARG_API_KEY") 
-                        
-                        if openarg_key:
-                            url_openarg = "https://api.openarg.org/api/v1/ask"
-                            headers = {"Authorization": f"Bearer {openarg_key}", "Content-Type": "application/json"}
-                            try:
-                                resp_openarg = requests.post(url_openarg, headers=headers, json={"question": pregunta}, timeout=30)
-                                if resp_openarg.status_code == 200:
-                                    respuesta = resp_openarg.json().get("answer", "")
-                                    # Filtramos las respuestas que no tienen datos reales
-                                    if "no reflejan" not in respuesta and "Los datos disponibles son de" not in respuesta:
-                                        # Guardamos la respuesta (limitada a 200 caracteres para la UI)
-                                        tweet_del_dia["verificacion_openarg"] = respuesta[:200] + "..." if len(respuesta) > 200 else respuesta
-                                        print("✅ Dato OpenArg agregado al JSON.")
-                                    else:
-                                        print("⚠️ OpenArg no devolvió datos actuales. Se omite.")
-                            except Exception as e:
-                                print(f"⚠️ Error de conexión con OpenArg: {e}")
-                        else:
-                            print("⚠️ OPENARG_API_KEY no encontrada en Secrets.")
+            # Validamos que la pregunta exista y no sea la palabra "null"
+            if pregunta and str(pregunta).lower() != "null":
+                print(f"🔍 Disparando a OpenArg: {pregunta}")
+                openarg_key = os.environ.get("OPENARG_API_KEY")
+                
+                if openarg_key:
+                    url_openarg = "https://api.openarg.org/api/v1/ask"
+                    headers = {"Authorization": f"Bearer {openarg_key}", "Content-Type": "application/json"}
+                    try:
+                        resp_openarg = requests.post(url_openarg, headers=headers, json={"question": pregunta}, timeout=30)
+                        if resp_openarg.status_code == 200:
+                            respuesta = resp_openarg.json().get("answer", "")
+                            # Filtramos las respuestas que no tienen datos reales
+                            if "no reflejan" not in respuesta and "Los datos disponibles son de" not in respuesta:
+                                # Guardamos la respuesta (limitada a 200 caracteres para la UI)
+                                tweet_del_dia["verificacion_openarg"] = respuesta[:200] + "..." if len(respuesta) > 200 else respuesta
+                                print("✅ Dato OpenArg agregado al JSON.")
+                            else:
+                                print("⚠️ OpenArg no devolvió datos actuales. Se omite.")
+                    except Exception as e:
+                        print(f"⚠️ Error de conexión con OpenArg: {e}")
+                else:
+                    print("⚠️ OPENARG_API_KEY no encontrada en Secrets.")
 
         # 6. Guardar el Análisis
         ruta_analisis = f'data/{fecha_hoy_str}_analisis_{turno}.json'
