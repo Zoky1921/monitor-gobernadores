@@ -1,0 +1,84 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por un enfoque en la gestión provincial y el fortalecimiento de los servicios públicos. Leandro Zdero (Chaco) destacó la recuperación de destacamentos rurales, mientras que Ignacio Torres (Chubut) enfatizó la inversión propia en infraestructura de salud, con un mensaje de autonomía. Rolando Figueroa (Neuquén) impulsó el turismo con acuerdos internacionales de capacitación, y Alberto Weretilneck (Río Negro) resaltó la eficacia policial en la seguridad ciudadana. La agenda predominó en iniciativas locales y la promoción de la capacidad de gestión provincial.",
+    "analisis_profundo": "El análisis de la actividad de los gobernadores en las últimas horas revela una clara priorización de la gestión provincial y el desarrollo autónomo, en un contexto donde las dinámicas federales con el gobierno nacional pueden ser fluctuantes. Los mensajes se centran en la demostración de capacidad de ejecución y en la respuesta a las necesidades de sus respectivas jurisdicciones.\n\nLeandro Zdero (Chaco) refuerza la seguridad rural con la reactivación de un destacamento en Pampa 11, subrayando la presencia estatal en áreas históricamente postergadas. Esta acción refleja un enfoque en las necesidades básicas de las comunidades y en la recuperación de servicios esenciales, indicando una política de cercanía y atención territorial.\n\nIgnacio Torres (Chubut) proyecta una imagen de gobierno proactivo y auto-gestionado. Su retweet sobre el avance del Hospital Rural de Epuyén, con la frase 'HECHOS, NO PROMESAS' y la mención de 'inversión provincial', es una declaración potente sobre la capacidad de Chubut de avanzar con obras clave en salud, lo que implícitamente podría contrastar con la ralentización o paralización de proyectos nacionales. Complementariamente, su apoyo a una boxeadora campeona mundial en Trelew busca cohesionar la identidad chubutense y promover el deporte, utilizando logros individuales para fortalecer el sentido de pertenencia provincial.\n\nRolando Figueroa (Neuquén) se enfoca en la proyección internacional y el turismo como un eje de desarrollo. Al destacar un acuerdo con Brasil para la formación en portugués de informantes turísticos, subraya la visión de Neuquén como polo turístico regional y su búsqueda de diversificación económica, apostando a la capacitación y a la captación de mercados externos, lo que contribuye a una economía provincial robusta.\n\nFinalmente, Alberto Weretilneck (Río Negro) resalta la eficiencia de su fuerza policial al salvar la vida de una beba. Este evento, de alto impacto emocional, es utilizado para reforzar el compromiso con el fortalecimiento de la seguridad ciudadana y generar confianza en las instituciones provinciales y su capacidad de respuesta. Es una forma de visibilizar la inversión y preparación en un área crítica para el bienestar de la población.\n\nEn conjunto, los mensajes de los gobernadores se concentran en la demostración de capacidad de gestión, inversión propia en áreas sensibles como salud, seguridad y desarrollo productivo/turístico, y en el afianzamiento de la identidad y autonomía provincial, sin entrar en conflictos directos con el gobierno central en esta ventana temporal.",
+    "temas_calientes": [
+        {
+            "tema": "Fortalecimiento de la Gestión Provincial y Obras Públicas",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Seguridad y Fortalecimiento Policial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo Turístico y Proyección Regional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Inversión en Salud con Fondos Provinciales",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH (RT de @gobiernochubut)",
+        "texto": "✅️ HECHOS, NO PROMESAS: ASÍ AVANZA EL NUEVO HOSPITAL RURAL DE EPUYÉN 🏥 Reactivamos esta obra clave para fortalecer la salud en toda la Comarca Andina. Con inversión provincial, construimos el futuro que Chubut se merece.",
+        "por_que_es_clave": "El gobernador destaca la reactivación de una obra hospitalaria fundamental con inversión enteramente provincial, utilizando un lenguaje que subraya la eficiencia y la autonomía de su gestión frente a posibles demoras o ausencias de apoyo nacional en infraestructura. Refleja una postura de autosuficiencia y compromiso con la población en un área sensible como la salud.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Seguridad rural",
+                "Desarrollo rural"
+            ],
+            "postura_politica": "Centrado en la recuperación y fortalecimiento de la infraestructura de seguridad en zonas rurales con recursos provinciales, demostrando una gestión activa y resolutiva de problemas locales.",
+            "frase_fuerte": "Recuperación histórica para el Paraje Pampa 11, que vuelve a contar con su destacamento rural tras años de abandono, un espacio fundamental para quienes viven y trabajan en el campo."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Salud pública",
+                "Obras provinciales",
+                "Promoción deportiva",
+                "Identidad provincial"
+            ],
+            "postura_politica": "Enfocado en la ejecución de obras de infraestructura con inversión provincial ('Hechos, no promesas') y en el apoyo a iniciativas que fomentan la identidad y el orgullo chubutense, reforzando la autonomía y capacidad de gestión del gobierno local.",
+            "frase_fuerte": "✅️ HECHOS, NO PROMESAS: ASÍ AVANZA EL NUEVO HOSPITAL RURAL DE EPUYÉN 🏥 Reactivamos esta obra clave para fortalecer la salud en toda la Comarca Andina. Con inversión provincial, construimos el futuro que Chubut se merece."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Turismo",
+                "Formación",
+                "Relaciones internacionales",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Impulsa el turismo como política de estado, buscando la proyección internacional y la mejora de la capacitación local. Refuerza la idea de Neuquén como actor clave en el desarrollo regional y global.",
+            "frase_fuerte": "EN NEUQUÉN EL TURISMO ES POLÍTICA DE ESTADO"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad",
+                "Fortalecimiento institucional",
+                "Reconocimiento policial"
+            ],
+            "postura_politica": "Destaca la eficacia y el compromiso de la fuerza policial provincial en la protección de los ciudadanos, utilizando un evento de alto impacto emocional para reforzar la confianza en las instituciones de seguridad y su fortalecimiento continuo.",
+            "frase_fuerte": "LA POLICÍA DE RÍO NEGRO SALVA LA VIDA DE UNA BEBA"
+        }
+    ]
+}
