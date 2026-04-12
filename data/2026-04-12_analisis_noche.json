@@ -1,0 +1,118 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una fuerte impronta de gestión provincial, con un énfasis particular en la seguridad y el desarrollo de infraestructura. Jorge Macri (CABA) y Nacho Torres (Chubut) adoptaron discursos firmes en materia de orden y seguridad, destacando medidas concretas. Axel Kicillof (Buenos Aires) se enfocó en la expansión de la educación universitaria, mientras que Leandro Zdero (Chaco) atendió emergencias hídricas y la recuperación de infraestructura. Rolando Figueroa (Neuquén) promovió un plan de obras viales histórico y el turismo, amplificando también un mensaje sobre la necesidad de acuerdos nacionales. Alberto Weretilneck (Río Negro) celebró el accionar de su fuerza policial, consolidando una agenda de prioridades locales y eficiencia estatal.",
+    "analisis_profundo": "La agenda de los gobernadores en las últimas 24 horas refleja una clara orientación hacia la gestión provincial, con un tono proactivo en la resolución de problemáticas locales y un particular interés en la comunicación de logros concretos. La seguridad emergió como un tema central y de alto perfil político. Jorge Macri (CABA) continuó fortaleciendo su narrativa de 'ley y orden' mediante la celebración de decisiones judiciales contra el vandalismo y el anuncio del fin del 'vale todo' en espacios públicos, lo que resuena con una estrategia de firmeza en la administración metropolitana. En la misma línea, Nacho Torres (Chubut) impulsó una ley que prohíbe el uso de celulares en las cárceles, una medida con fuerte carga simbólica y un mensaje polarizador claro: 'o estás del lado de la gente, o estás del lado de los delincuentes', buscando consolidar su liderazgo en la lucha contra la delincuencia. \n\nEn el ámbito del desarrollo y la infraestructura, Rolando Figueroa (Neuquén) se destacó por su intensa actividad, promocionando un ambicioso plan de pavimentación vial y acuerdos para el fomento del turismo con Brasil, lo que subraya la búsqueda de autonomía y crecimiento regional. Su retuit de una opinión nacional sobre la necesidad de 'acuerdos básicos para evitar una crisis cada dos años' insinúa una preocupación por la inestabilidad macroeconómica que podría impactar los planes provinciales. Axel Kicillof (Buenos Aires) mantuvo su foco en la inversión social, destacando la inauguración de centros universitarios para fortalecer el arraigo, en lo que puede interpretarse como una diferenciación de las políticas nacionales de recorte. Leandro Zdero (Chaco) mostró una gestión orientada a la respuesta ante emergencias climáticas, con presencia en zonas afectadas por crecidas y la recuperación de destacamentos rurales, evidenciando un Estado provincial activo en situaciones de crisis. Martín Llaryora (Córdoba) se concentró en el mejoramiento de espacios urbanos, una política de impacto directo en la calidad de vida de los ciudadanos. Finalmente, Alberto Weretilneck (Río Negro) utilizó un suceso de seguridad, el salvamento de una beba por la policía, para destacar la capacitación y eficacia de sus fuerzas. En conjunto, los mandatarios exhiben una vocación de gestión robusta y visible, con un matiz de tensión entre la autonomía provincial y la coyuntura nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y Orden Publico",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Infraestructura Vial y Desarrollo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Educacion y Arraigo Territorial",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Gestion de Emergencias y Asistencia Local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Promocion Turistica y Acuerdos Internacionales",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH",
+        "texto": "SE ACABARON LOS CELULARES PARA LOS PRESOS. Durante años, las cárceles de nuestra provincia fueron aguantaderos desde donde se seguía delinquiendo. Eso se terminó. Nos convertimos en una de las primeras provincias de todo el país en sancionar una ley que prohíbe el uso de celulares en las cárceles, penitenciarías y alcaldías provinciales. Porque nuestro compromiso es con los chubutenses de bien. Y en eso no hay grises: o estás del lado de la gente, o estás del lado de los delincuentes.",
+        "por_que_es_clave": "Este tweet de Nacho Torres (Chubut) es clave por su contundencia en materia de seguridad, una medida concreta (prohibición de celulares en cárceles) y un claro posicionamiento ideológico que polariza el debate entre 'la gente de bien' y los 'delincuentes', buscando un fuerte impacto en la opinión pública.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Educación",
+                "Desarrollo local",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Resalta la inversión provincial en educación universitaria como un pilar para el arraigo y el desarrollo comunitario, destacando la presencia del Estado en la mejora de oportunidades.",
+            "frase_fuerte": "Más oportunidades para estudiar cerca de casa, fortalecer el arraigo y acompañar el desarrollo de cada comunidad."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad urbana",
+                "Ley y orden",
+                "Justicia"
+            ],
+            "postura_politica": "Adopta una postura inflexible contra el delito y el vandalismo, celebrando decisiones judiciales y reforzando la idea de que 'la ley y el orden no se negocian'.",
+            "frase_fuerte": "Durante años fue gratis romper todo. Se terminó. Excelente decisión de la Justicia. Destruir bienes públicos es delito. Adentro."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Emergencias hídricas",
+                "Asistencia social",
+                "Seguridad rural",
+                "Gestión de infraestructura"
+            ],
+            "postura_politica": "Muestra un enfoque de gestión activa en el territorio, brindando apoyo a las comunidades afectadas por fenómenos naturales y reconstruyendo la infraestructura de seguridad en zonas rurales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Seguridad penitenciaria",
+                "Obra pública en salud",
+                "Promoción provincial (identidad/deporte)"
+            ],
+            "postura_politica": "Presenta una agenda de seguridad contundente con la aprobación de una ley clave, destaca la reactivación de obras de salud con inversión provincial y utiliza logros deportivos para proyectar una imagen de provincia con talento y futuro, subrayando el cumplimiento de promesas.",
+            "frase_fuerte": "Y en eso no hay grises: o estás del lado de la gente, o estás del lado de los delincuentes."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Espacios verdes"
+            ],
+            "postura_politica": "Enfatiza la continuidad de las obras públicas destinadas a la mejora de la calidad de vida urbana, especialmente la puesta en valor de espacios verdes emblemáticos.",
+            "frase_fuerte": "Avanzamos con la segunda etapa de mantenimiento integral en este espacio de la ciudad de #Córdoba."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Turismo",
+                "Economía nacional",
+                "Planificación"
+            ],
+            "postura_politica": "Destaca un ambicioso plan de obras viales y la promoción del turismo como política de Estado, al tiempo que indirectamente señala la necesidad de estabilidad a nivel nacional para el desarrollo.",
+            "frase_fuerte": "NUNCA EN NUESTRA HISTORIA SE HICIERON TANTAS RUTAS."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Acción policial"
+            ],
+            "postura_politica": "Resalta la eficacia y profesionalismo de la Policía de Río Negro a través de un caso concreto de salvamento, enfocándose en el fortalecimiento de la fuerza de seguridad.",
+            "frase_fuerte": "Esto es nuestra Policía de Río Negro preparada, con conducción y con el objetivo firme de estar donde hay que estar y responder."
+        }
+    ]
+}
