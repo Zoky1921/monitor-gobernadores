@@ -252,16 +252,15 @@ TWEETS A ANALIZAR:
 {data_context}
 """
 
-        print("Enviando los perfiles a Gemini...")
-        
-        # 4. Enviar a Gemini con "Amortiguador" (6 intentos, 15 min de espera)
+        # --- PLAN A: Gemini (6 intentos, backoff incremental) ---
+        print("🚀 Plan A: Enviando los perfiles a Gemini...")
         intentos_max = 6
-        espera_segundos = 900 # 15 minutos para cuidar los créditos de X
+        espera_base_seg = 300  # empieza en 5 min, sube hasta 15 min
 
-        response = None
+        raw_text = ""
         for i in range(intentos_max):
             try:
-                print(f"🚀 Enviando los perfiles a Gemini (Intento {i+1} de {intentos_max})...")
+                print(f"🚀 Gemini – Intento {i+1} de {intentos_max}...")
                 response = client.models.generate_content(
                     model=MODELO_GEMINI,
                     contents=prompt,
@@ -269,31 +268,74 @@ TWEETS A ANALIZAR:
                         response_mime_type="application/json"
                     )
                 )
-                # Si llegamos acá, funcionó perfecto. Salimos del bucle de reintentos.
-                break 
-                
+                candidate = response.text.strip() if response.text else ""
+                if not candidate:
+                    raise ValueError("Gemini devolvió string vacío.")
+                raw_text = candidate
+                print("✅ Plan A exitoso.")
+                break
+
             except Exception as e:
                 error_msg = str(e)
-                # Si es error de saturación (503) o demasiadas peticiones (429)
-                if "503" in error_msg or "UNAVAILABLE" in error_msg or "429" in error_msg:
-                    if i < intentos_max - 1:
-                        print(f"⚠️ Servidor saturado/ocupado. Entrando en hibernación por {espera_segundos//60} minutos...")
-                        time.sleep(espera_segundos)
-                    else:
-                        print("❌ Se agotaron los 3 intentos. El servidor de Google sigue sin responder.")
-                        raise e
+                if i < intentos_max - 1:
+                    espera = min(espera_base_seg * (i + 1), 900)
+                    print(f"⚠️ Gemini falló ({error_msg[:120]}). Reintentando en {espera//60} min...")
+                    time.sleep(espera)
                 else:
-                    # Si es un error de otro tipo (ej. prompt inválido), que salte de una sin esperar
-                    print(f"💥 Error inesperado: {error_msg}")
-                    raise e
+                    print(f"❌ Plan A agotado tras {intentos_max} intentos: {error_msg[:120]}")
+
+        # --- PLAN B: Groq (si Plan A no produjo texto) ---
+        if not raw_text:
+            print("🔄 Activando Plan B: Groq llama-3.3-70b-versatile...")
+            groq_key = os.environ.get("GROQ_API_KEY")
+            if not groq_key:
+                raise EnvironmentError("❌ Falta GROQ_API_KEY y Gemini no respondió.")
+
+            groq_url = "https://api.groq.com/openai/v1/chat/completions"
+            groq_headers = {
+                "Authorization": f"Bearer {groq_key}",
+                "Content-Type": "application/json",
+            }
+            groq_payload = {
+                "model": "llama-3.3-70b-versatile",
+                "messages": [
+                    {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
+                    {"role": "user", "content": prompt},
+                ],
+                "temperature": 0.2,
+                "max_tokens": 5000,
+                "response_format": {"type": "json_object"},
+            }
+
+            def _extraer_texto_groq(resp_json):
+                choices = resp_json.get("choices") or []
+                if not choices:
+                    raise ValueError("Groq devolvió respuesta sin 'choices'.")
+                return (choices[0].get("message") or {}).get("content", "").strip()
+
+            try:
+                resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=120)
+                resp_groq.raise_for_status()
+                raw_text = _extraer_texto_groq(resp_groq.json())
+                print("✅ Plan B (Groq con response_format) exitoso.")
+            except requests.HTTPError as http_err:
+                # Reintentar sin response_format
+                print(f"⚠️ Groq rechazó response_format ({http_err}). Reintentando sin él...")
+                groq_payload.pop("response_format", None)
+                try:
+                    resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=120)
+                    resp_groq.raise_for_status()
+                    raw_text = _extraer_texto_groq(resp_groq.json())
+                    print("✅ Plan B (Groq sin response_format) exitoso.")
+                except Exception as groq_err:
+                    print(f"❌ Plan B también falló sin response_format: {groq_err}")
+                    raise groq_err
+
+        if not raw_text:
+            raise RuntimeError("❌ Ni Gemini ni Groq devolvieron respuesta.")
 
         # --- LIMPIEZA DE SEGURIDAD PARA EL JSON ---
-        if response is None:
-            raise RuntimeError("❌ Gemini no devolvió respuesta después de los reintentos.")
-        raw_text = response.text.strip()
-        
-        # Si por alguna razón Gemini mete las etiquetas de markdown ```json, las volamos
-        if raw_text.startswith("```"):
+        if raw_text and raw_text.startswith("```"):
             raw_text = raw_text.replace("```json", "").replace("```", "").strip()
         
         try:
