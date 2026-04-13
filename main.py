@@ -314,7 +314,7 @@ TWEETS A ANALIZAR:
                 return (choices[0].get("message") or {}).get("content", "").strip()
 
             try:
-                resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=120)
+                resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=180)
                 resp_groq.raise_for_status()
                 raw_text = _extraer_texto_groq(resp_groq.json())
                 print("✅ Plan B (Groq con response_format) exitoso.")
@@ -323,7 +323,7 @@ TWEETS A ANALIZAR:
                 print(f"⚠️ Groq rechazó response_format ({http_err}). Reintentando sin él...")
                 groq_payload.pop("response_format", None)
                 try:
-                    resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=120)
+                    resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=180)
                     resp_groq.raise_for_status()
                     raw_text = _extraer_texto_groq(resp_groq.json())
                     print("✅ Plan B (Groq sin response_format) exitoso.")
@@ -341,7 +341,7 @@ TWEETS A ANALIZAR:
         try:
             resumen_data = json.loads(raw_text)
         except json.JSONDecodeError as e:
-            print(f"❌ Error de sintaxis en el JSON de Gemini: {e}")
+            print(f"❌ Error de sintaxis en el JSON de la IA: {e}")
             with open(f'data/{fecha_hoy_str}_ERROR_IA.txt', 'w', encoding='utf-8') as f:
                 f.write(raw_text)
             print(f"⚠️ Se guardó el error en data/{fecha_hoy_str}_ERROR_IA.txt para revisión.")
