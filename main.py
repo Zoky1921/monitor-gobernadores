@@ -254,9 +254,9 @@ TWEETS A ANALIZAR:
 
         print("Enviando los perfiles a Gemini...")
         
-        # 4. Enviar a Gemini con "Amortiguador" (3 intentos, 10 min de espera)
-        intentos_max = 3
-        espera_segundos = 600 # 10 minutos para cuidar los créditos de X
+        # 4. Enviar a Gemini con "Amortiguador" (6 intentos, 15 min de espera)
+        intentos_max = 6
+        espera_segundos = 900 # 15 minutos para cuidar los créditos de X
 
         response = None
         for i in range(intentos_max):
