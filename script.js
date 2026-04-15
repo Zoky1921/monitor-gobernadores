@@ -1,6 +1,8 @@
 let gobernadoresBase = [];
 let turnoActual = "manana"; // Memoria global del turno
 const AVATAR_PLACEHOLDER_LOCAL = "./assets/img/avatar-placeholder.svg";
+const UNAVATAR_TWITTER_BASE = "https://unavatar.io/twitter/";
+const UNAVATAR_X_BASE = "https://unavatar.io/x/";
 
 function obtenerUsuarioSinArroba(usuarioX = "") {
     return usuarioX.replace(/^@/, "").trim();
@@ -13,8 +15,8 @@ function obtenerFuentesAvatar(gobernador = {}) {
     if (gobernador.foto_url) fuentes.push(gobernador.foto_url);
 
     if (handle) {
-        const fallbackTwitter = `https://unavatar.io/twitter/${encodeURIComponent(handle)}`;
-        const fallbackX = `https://unavatar.io/x/${encodeURIComponent(handle)}`;
+        const fallbackTwitter = `${UNAVATAR_TWITTER_BASE}${encodeURIComponent(handle)}`;
+        const fallbackX = `${UNAVATAR_X_BASE}${encodeURIComponent(handle)}`;
 
         if (!fuentes.includes(fallbackTwitter)) fuentes.push(fallbackTwitter);
         if (!fuentes.includes(fallbackX)) fuentes.push(fallbackX);
@@ -28,19 +30,24 @@ function aplicarAvatarConFallback(img, gobernador) {
     if (!img) return;
 
     const fuentes = obtenerFuentesAvatar(gobernador);
-    if (!fuentes.length) return;
+    const limpiarEstadoFallback = () => {
+        delete img.dataset.fallbackIndex;
+        img.onerror = null;
+        img.onload = null;
+    };
 
     img.dataset.fallbackIndex = "0";
+    img.onload = limpiarEstadoFallback;
     img.onerror = () => {
         const proximoIndex = Number(img.dataset.fallbackIndex || "0") + 1;
         if (proximoIndex >= fuentes.length) {
-            img.onerror = null;
+            limpiarEstadoFallback();
             return;
         }
 
         img.dataset.fallbackIndex = String(proximoIndex);
-        if (proximoIndex === fuentes.length - 1) img.onerror = null;
-        img.src = fuentes[proximoIndex];
+        const proximaFuente = fuentes[proximoIndex];
+        img.src = proximaFuente;
     };
     img.src = fuentes[0];
 }
