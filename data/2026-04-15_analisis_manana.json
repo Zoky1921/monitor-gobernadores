@@ -1,0 +1,135 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La jornada federal de hoy y última hora de ayer se caracterizó por una marcada agenda de gestión provincial y promoción económica. Gobernadores como Axel Kicillof (Buenos Aires) y Jorge Macri (CABA) anunciaron medidas concretas de infraestructura y alivio fiscal. La promoción de inversiones y el desarrollo productivo fue un eje central para Leandro Zdero (Chaco), Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro), este último destacando un acuerdo clave para GNL. Rolando Figueroa (Neuquén) subrayó la inversión en infraestructura educativa y vial, mientras que Ignacio Torres (Chubut) y Claudio Vidal (Santa Cruz) reportaron avances en obras esenciales y recuperación ferroviaria respectivamente, mostrando un enfoque en la autonomía y el desarrollo regional.",
+    "analisis_profundo": "El panorama federal en Argentina, analizado a partir de los recientes movimientos en las redes de los gobernadores, revela una clara inclinación hacia la gestión autónoma y la promoción del desarrollo provincial. Se observa una ausencia notable de confrontación directa con el gobierno nacional, lo que sugiere un período de consolidación de agendas internas y búsqueda de oportunidades de crecimiento.\nAxel Kicillof (Buenos Aires) se enfocó en la seguridad local, inaugurando una nueva base del G.A.D., una medida que refleja la priorización de las demandas ciudadanas en la Provincia de Buenos Aires. Por su parte, Jorge Macri (CABA) implementó una medida fiscal directa, eliminando Ingresos Brutos para trabajadores no profesionales, una acción que busca generar alivio económico y dinamizar la actividad local en la Ciudad de Buenos Aires.\nLeandro Zdero (Chaco) y Martín Llaryora (Córdoba) estuvieron activos en la promoción de sus provincias en el ámbito empresarial e internacional, respectivamente. Zdero (Chaco) llevó la agenda productiva al AmCham Summit, mientras Llaryora (Córdoba) exploró oportunidades de innovación y transformación digital con el PNUD, señalando una apuesta por la modernización y la economía del conocimiento.\nEn el sur, Ignacio Torres (Chubut) comunicó avances en la provisión de servicios esenciales como gas y agua, destacando un enfoque en la resolución de problemas de larga data. Rolando Figueroa (Neuquén) mostró un fuerte compromiso con la infraestructura, desde la educación técnica hasta el mejoramiento de rutas clave para el turismo, y resaltó el valor del trabajo local en el contexto de Vaca Muerta como un pilar para las inversiones.\nFinalmente, Alberto Weretilneck (Río Negro) consolidó un perfil pro-inversión, con menciones a un 'nuevo paso para el GNL argentino' y la promoción turística en Brasil, lo que lo posiciona como un actor clave en la agenda energética y de desarrollo. Claudio Vidal (Santa Cruz) se sumó a la narrativa de recuperación de infraestructura con la reactivación del tren en Jaramillo, buscando potenciar la producción y el turismo local.\nEn conjunto, la actividad de los gobernadores muestra un esfuerzo concentrado en la gestión interna, la atracción de capitales y la mejora de servicios e infraestructuras, sin que la coyuntura federal se vea dominada por tensiones con el gobierno central.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Gestión Fiscal y Alivio Económico",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Promoción Turística",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Eliminamos Ingresos Brutos para trabajadores no profesionales.",
+        "por_que_es_clave": "Representa una medida fiscal directa de alivio económico anunciada por el Jefe de Gobierno de CABA, que impacta en un sector específico de la ciudadanía y alinea con su agenda de 'orden' y 'cuidado' de los recursos de los porteños.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Seguridad",
+                "Infraestructura",
+                "Gestión local"
+            ],
+            "postura_politica": "Enfocado en la gestión local, el gobernador de Buenos Aires prioriza la seguridad y la infraestructura como pilares para el bienestar de los bonaerenses, buscando fortalecer la prevención a través de la cooperación municipal.",
+            "frase_fuerte": "Más infraestructura y trabajo conjunto para reforzar la prevención y la seguridad en el distrito."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Política fiscal",
+                "Economía local"
+            ],
+            "postura_politica": "El Jefe de Gobierno de la Ciudad de Buenos Aires impulsa políticas de alivio fiscal, como la eliminación de Ingresos Brutos para trabajadores no profesionales, buscando dinamizar la economía local y beneficiar a los contribuyentes porteños.",
+            "frase_fuerte": "Eliminamos Ingresos Brutos para trabajadores no profesionales."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Inversiones",
+                "Exportaciones",
+                "Agroindustria",
+                "Política económica"
+            ],
+            "postura_politica": "El gobernador del Chaco busca posicionar a su provincia como un polo de desarrollo productivo y agroindustrial, promoviendo inversiones y el crecimiento de las exportaciones a través de la participación en encuentros empresariales clave.",
+            "frase_fuerte": "Compartí el potencial productivo de la provincia y el proceso de transformación que impulsamos, con más inversión, crecimiento de las exportaciones y desarrollo agroindustrial."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Servicios públicos",
+                "Obra pública",
+                "Gestión social"
+            ],
+            "postura_politica": "El gobernador de Chubut se enfoca en la concreción de obras de servicios básicos, como la provisión de gas y agua, buscando solucionar demandas históricas de las comunidades y mejorar la calidad de vida de las familias chubutenses.",
+            "frase_fuerte": "SE TERMINA LA ESPERA: GAS PARA MÁS DE 100 FAMILIAS EN VALLE CHICO"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Innovación",
+                "Transformación digital",
+                "Desarrollo productivo",
+                "Cooperación internacional"
+            ],
+            "postura_politica": "El gobernador de Córdoba impulsa una agenda de modernización estatal y desarrollo productivo a través de la innovación y la transformación digital, buscando cooperación internacional para fortalecer la competitividad provincial y la economía del conocimiento.",
+            "frase_fuerte": "Avanzamos en una agenda conjunta orientada a la innovación, la transformación digital y el desarrollo productivo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura educativa",
+                "Conectividad vial",
+                "Desarrollo turístico",
+                "Vaca Muerta",
+                "Inversiones",
+                "Empleo"
+            ],
+            "postura_politica": "El gobernador de Neuquén prioriza la inversión en infraestructura educativa y vial para el desarrollo turístico, a la vez que resalta el rol de Vaca Muerta como motor de inversiones y empleo, enfatizando que el trabajo de los neuquinos es clave para su éxito.",
+            "frase_fuerte": "Vaca Muerta es solo una roca, es una condición necesaria pero no suficiente para que todo funcione."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo energético (GNL)",
+                "Promoción turística",
+                "Gestión comunitaria"
+            ],
+            "postura_politica": "El gobernador de Río Negro posiciona a la provincia como un 'hub' energético clave con el avance del GNL y promueve activamente el turismo internacional. Además, demuestra compromiso con la gestión local y las iniciativas deportivas comunitarias.",
+            "frase_fuerte": "Nuevo paso para el GNL argentino. (...) posicionar al país como exportador de energía de clase mundial, impulsando empleo, desarrollo y crecimiento."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Infraestructura (ferroviaria)",
+                "Desarrollo productivo",
+                "Turismo",
+                "Recuperación histórica"
+            ],
+            "postura_politica": "El gobernador de Santa Cruz apuesta por la recuperación de infraestructuras históricas, como el tren de Jaramillo, para impulsar el desarrollo productivo y turístico de la provincia, buscando generar recursos y valorizar el patrimonio local.",
+            "frase_fuerte": "ESTAMOS RECUPERANDO EL TREN EN JARAMILLO Y CON ÉL UNA PARTE DE NUESTRA HISTORIA PRODUCTIVA."
+        }
+    ]
+}
