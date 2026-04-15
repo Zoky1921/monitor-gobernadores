@@ -26,6 +26,15 @@ function obtenerFuentesAvatar(gobernador = {}) {
     return [...new Set(fuentes)];
 }
 
+function escaparHtml(texto = "") {
+    return texto
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+}
+
 function aplicarAvatarConFallback(img, gobernador) {
     if (!img) return;
 
@@ -168,7 +177,8 @@ async function cargarTablero(fecha) {
         if(cajaEjecutivo) cajaEjecutivo.textContent = analisis.resumen_ejecutivo || "Resumen ejecutivo no disponible.";
         
         if (analisis.analisis_profundo) {
-            const textoConParrafos = analisis.analisis_profundo.replace(/\n/g, '<br><br>');
+            const textoSeguro = escaparHtml(analisis.analisis_profundo);
+            const textoConParrafos = textoSeguro.replace(/(?:\r?\n|\\n)/g, '<br><br>');
             if(cajaProfundo) cajaProfundo.innerHTML = textoConParrafos;
         } else {
             if(cajaProfundo) cajaProfundo.innerHTML = "Análisis profundo no disponible.";

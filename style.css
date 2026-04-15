@@ -142,6 +142,7 @@ body {
     display: flex;
     flex-direction: column;
     flex-grow: 1; 
+    /* Evita recortes del análisis extenso cuando la columna derecha es más baja */
     overflow: visible;
 }
 
@@ -174,6 +175,7 @@ body {
     padding-right: 15px;  
     
     flex: 1 1 auto;
+    /* Mantiene visibilidad inicial y evita que un texto extenso expanda toda la página */
     min-height: 160px;
     max-height: 420px;
     overflow-y: auto;
