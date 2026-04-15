@@ -78,8 +78,6 @@ document.addEventListener("DOMContentLoaded", async () => {
         document.getElementById("btn-turno").innerHTML = "☀️ Turno Mañana";
     }
     
-    window.addEventListener('resize', sincronizarAlturas);
-    
     try {
         const res = await fetch("./gobernadores.json");
         if (!res.ok) throw new Error("No se pudo cargar gobernadores.json");
@@ -170,7 +168,7 @@ async function cargarTablero(fecha) {
         if(cajaEjecutivo) cajaEjecutivo.textContent = analisis.resumen_ejecutivo || "Resumen ejecutivo no disponible.";
         
         if (analisis.analisis_profundo) {
-            const textoConParrafos = analisis.analisis_profundo.replace(/\. /g, '.<br><br>');
+            const textoConParrafos = analisis.analisis_profundo.replace(/\n/g, '<br><br>');
             if(cajaProfundo) cajaProfundo.innerHTML = textoConParrafos;
         } else {
             if(cajaProfundo) cajaProfundo.innerHTML = "Análisis profundo no disponible.";
@@ -235,8 +233,6 @@ async function cargarTablero(fecha) {
                 grilla.appendChild(tarjeta);
             });
         }
-
-        setTimeout(sincronizarAlturas, 150);
 
         return true; 
 

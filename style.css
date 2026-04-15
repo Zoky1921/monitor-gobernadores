@@ -142,7 +142,7 @@ body {
     display: flex;
     flex-direction: column;
     flex-grow: 1; 
-    overflow: hidden; /* EL SECRETO: Prohíbe que el texto rompa la caja hacia afuera */
+    overflow: visible;
 }
 
 /* LECTURAS Y SCROLLBOX */
@@ -173,11 +173,11 @@ body {
     text-align: left; 
     padding-right: 15px;  
     
-    flex-grow: 1;
-    overflow-y: auto; /* Activa el scroll azul */
-    
-    height: 0; /* Arranca en 0 para rellenar exactamente el espacio disponible */
-    min-height: 0;
+    flex: 1 1 auto;
+    min-height: 160px;
+    max-height: 420px;
+    overflow-y: auto;
+    white-space: normal;
 }
 
 /* Diseño de la barrita de scroll */
