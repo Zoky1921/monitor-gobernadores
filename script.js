@@ -178,6 +178,7 @@ async function cargarTablero(fecha) {
         
         if (analisis.analisis_profundo) {
             const textoSeguro = escaparHtml(analisis.analisis_profundo);
+            // Soporta tanto saltos reales (\n) como secuencias literales "\\n" provenientes del origen de datos.
             const textoConParrafos = textoSeguro.replace(/(?:\r?\n|\\n)/g, '<br><br>');
             if(cajaProfundo) cajaProfundo.innerHTML = textoConParrafos;
         } else {
