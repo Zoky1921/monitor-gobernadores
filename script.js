@@ -1,5 +1,49 @@
 let gobernadoresBase = [];
 let turnoActual = "manana"; // Memoria global del turno
+const AVATAR_PLACEHOLDER_LOCAL = "./assets/img/avatar-placeholder.svg";
+
+function obtenerUsuarioSinArroba(usuarioX = "") {
+    return usuarioX.replace(/^@/, "").trim();
+}
+
+function obtenerFuentesAvatar(gobernador = {}) {
+    const fuentes = [];
+    const handle = obtenerUsuarioSinArroba(gobernador.usuario_x || "");
+
+    if (gobernador.foto_url) fuentes.push(gobernador.foto_url);
+
+    if (handle) {
+        const fallbackTwitter = `https://unavatar.io/twitter/${encodeURIComponent(handle)}`;
+        const fallbackX = `https://unavatar.io/x/${encodeURIComponent(handle)}`;
+
+        if (!fuentes.includes(fallbackTwitter)) fuentes.push(fallbackTwitter);
+        if (!fuentes.includes(fallbackX)) fuentes.push(fallbackX);
+    }
+
+    fuentes.push(AVATAR_PLACEHOLDER_LOCAL);
+    return [...new Set(fuentes)];
+}
+
+function aplicarAvatarConFallback(img, gobernador) {
+    if (!img) return;
+
+    const fuentes = obtenerFuentesAvatar(gobernador);
+    if (!fuentes.length) return;
+
+    img.dataset.fallbackIndex = "0";
+    img.onerror = () => {
+        const proximoIndex = Number(img.dataset.fallbackIndex || "0") + 1;
+        if (proximoIndex >= fuentes.length) {
+            img.onerror = null;
+            return;
+        }
+
+        img.dataset.fallbackIndex = String(proximoIndex);
+        if (proximoIndex === fuentes.length - 1) img.onerror = null;
+        img.src = fuentes[proximoIndex];
+    };
+    img.src = fuentes[0];
+}
 
 // =========================================
 // FUNCIÓN PARA OBTENER FECHA ARGENTINA
@@ -173,10 +217,13 @@ async function cargarTablero(fecha) {
                 tarjeta.dataset.usuario = gob.usuario_x.toLowerCase().replace('@', ''); 
 
                 tarjeta.innerHTML = `
-                    <img src="${gob.foto_url}" alt="${gob.nombre}" onerror="this.src='https://via.placeholder.com/80'">
+                    <img alt="${gob.nombre}">
                     <h4>${gob.nombre}</h4>
                     <p>${gob.provincia}</p>
                 `;
+                const imagenGobernador = tarjeta.querySelector("img");
+                aplicarAvatarConFallback(imagenGobernador, gob);
+
                 tarjeta.addEventListener("click", () => abrirModal(gob, analisisGob, crudoGob));
                 grilla.appendChild(tarjeta);
             });
@@ -202,13 +249,15 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
     const modalBio = document.getElementById("modal-bio");
     
     modalBio.innerHTML = `
-        <img src="${gobernador.foto_url}" alt="${gobernador.nombre}" onerror="this.src='https://via.placeholder.com/100'">
+        <img alt="${gobernador.nombre}">
         <div>
             <h2>${gobernador.nombre} (@${gobernador.usuario_x})</h2>
             <p><strong>${gobernador.provincia}</strong> | ${gobernador.partido || 'Gobernador'}</p>
             <p style="font-size: 0.85rem; color: #cbd5e1; margin-top: 10px;">${gobernador.bio || ''}</p>
         </div>
     `;
+    const imagenModal = modalBio.querySelector("img");
+    aplicarAvatarConFallback(imagenModal, gobernador);
 
     let textoAnalisis = "Sin actividad política registrada para la fecha seleccionada.";
     let textoCita = "Sin citas textuales hoy.";
