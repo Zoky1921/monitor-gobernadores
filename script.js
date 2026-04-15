@@ -26,6 +26,15 @@ function obtenerFuentesAvatar(gobernador = {}) {
     return [...new Set(fuentes)];
 }
 
+function escaparHtml(texto = "") {
+    return texto
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+}
+
 function aplicarAvatarConFallback(img, gobernador) {
     if (!img) return;
 
@@ -77,8 +86,6 @@ document.addEventListener("DOMContentLoaded", async () => {
         turnoActual = "manana";
         document.getElementById("btn-turno").innerHTML = "☀️ Turno Mañana";
     }
-    
-    window.addEventListener('resize', sincronizarAlturas);
     
     try {
         const res = await fetch("./gobernadores.json");
@@ -170,7 +177,9 @@ async function cargarTablero(fecha) {
         if(cajaEjecutivo) cajaEjecutivo.textContent = analisis.resumen_ejecutivo || "Resumen ejecutivo no disponible.";
         
         if (analisis.analisis_profundo) {
-            const textoConParrafos = analisis.analisis_profundo.replace(/\. /g, '.<br><br>');
+            const textoSeguro = escaparHtml(analisis.analisis_profundo);
+            // Soporta tanto saltos reales (\n) como secuencias literales "\\n" provenientes del origen de datos.
+            const textoConParrafos = textoSeguro.replace(/(?:\r?\n|\\n)/g, '<br><br>');
             if(cajaProfundo) cajaProfundo.innerHTML = textoConParrafos;
         } else {
             if(cajaProfundo) cajaProfundo.innerHTML = "Análisis profundo no disponible.";
@@ -235,8 +244,6 @@ async function cargarTablero(fecha) {
                 grilla.appendChild(tarjeta);
             });
         }
-
-        setTimeout(sincronizarAlturas, 150);
 
         return true; 
 

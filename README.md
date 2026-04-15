@@ -7,7 +7,7 @@ Una plataforma de análisis estratégico que utiliza Inteligencia Artificial (Go
 * **Análisis Ejecutivo con IA:** Generación de resúmenes diarios (versiones "Rápida" y "Extensa") que sintetizan la postura política detectada por modelos LLM.
 * **Semáforo de Clima Político:** Indicador visual que mide la tensión o cooperación federal mediante análisis de sentimiento.
 * **Efecto Terono (Filtros Interactivos):** Motor que permite filtrar la grilla de gobernadores según las tendencias del día, resaltándolos en la grilla.
-* **Sincronización de Altura Dinámica:** Lógica de interfaz que ajusta el panel de análisis al largo del tweet destacado para garantizar simetría visual.
+* **Layout adaptable con scroll interno:** El panel de análisis mantiene altura natural y agrega scroll interno para textos extensos sin recortes.
 * **Compartibilidad Integrada:** Botones para exportar citas a WhatsApp y X (Twitter) con atribución de autoría automática.
 
 ## Instalación
@@ -32,7 +32,7 @@ Una plataforma de análisis estratégico que utiliza Inteligencia Artificial (Go
 
 ### Estructura de Componentes
 * **`index.html`**: Estructura del dashboard con secciones para clima político, tendencias y grilla.
-* **`script.js`**: Control de carga asíncrona, motor de filtrado "Terono" y sincronización de alturas.
+* **`script.js`**: Control de carga asíncrona y motor de filtrado "Terono".
 * **`style.css`**: Sistema de diseño basado en variables de modo oscuro y Flexbox dinámico.
 
 ### Pipeline de Datos
