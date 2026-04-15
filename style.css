@@ -282,6 +282,8 @@ body {
     border-radius: 50%; 
     border: 3px solid var(--borde); 
     margin-bottom: 10px;
+    object-fit: cover;
+    background-color: var(--fondo-oscuro);
 }
 
 .tarjeta-gob h4 { color: #fff; font-size: 1.1rem; }
