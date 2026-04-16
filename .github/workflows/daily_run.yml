@@ -27,9 +27,11 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
           OPENARG_API_KEY: ${{ secrets.OPENARG_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python main.py
 
       - name: Guardar resultados en el repositorio
+        if: always()
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "Observatorio Bot"
