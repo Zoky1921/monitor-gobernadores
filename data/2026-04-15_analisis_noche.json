@@ -1,0 +1,216 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal estuvo marcada por una clara polarización en modelos de gestión. Jorge Macri (CABA) anunció la eliminación de Ingresos Brutos para trabajadores no profesionales, contrastando su política fiscal con la de Axel Kicillof (Buenos Aires), quien denunció el desfinanciamiento y la retención de fondos por parte del Estado Nacional, un reclamo al que se sumó Ricardo Quintela (La Rioja). En contraste, gobernadores como Alberto Weretilneck (Río Negro) y Raúl Jalil (Catamarca) destacaron la atracción de inversiones en energía y minería, mientras que otros como Claudio Vidal (Santa Cruz) y Rolando Figueroa (Neuquén) se enfocaron en la infraestructura y el desarrollo productivo, a menudo bajo un mensaje de autonomía y eficiencia provincial.",
+    "analisis_profundo": "La dinámica federal de la jornada se ha caracterizado por una clara diferenciación en las estrategias provinciales frente al contexto económico nacional. Por un lado, Jorge Macri (CABA) tomó la iniciativa con un paquete de alivio fiscal, eliminando el impuesto a los Ingresos Brutos para 140.000 trabajadores no profesionales. Esta medida, ampliamente difundida a través de su cuenta de X, incluyó retweets que directamente confrontaban la política fiscal de Axel Kicillof (Buenos Aires), señalándolo por aumentar impuestos. Este contraste ideológico y de gestión entre dos distritos clave, la Ciudad y la Provincia de Buenos Aires, generó un foco de tensión explícito en la agenda pública.\n\nAxel Kicillof (Buenos Aires), si bien tuvo una agenda de gestión que incluyó la inauguración de infraestructura de seguridad y una reunión sobre salud pública con pares internacionales, su posicionamiento más contundente se articuló con Ricardo Quintela (La Rioja). Ambos gobernadores se reunieron con intendentes para reclamar al Gobierno nacional la liberación de fondos correspondientes a los municipios y la reactivación de obras paralizadas, denunciando una 'espalda al pueblo' por parte de la administración central. Esta acción conjunta denota una creciente preocupación por el desfinanciamiento de las arcas provinciales y municipales, y un intento de articular un frente de reclamo federal.\n\nEn una vertiente diferente, varios gobernadores del interior se centraron en la promoción de sus economías regionales y la atracción de inversiones. Alberto Weretilneck (Río Negro) celebró acuerdos multimillonarios para proyectos de Gas Natural Licuado (GNL) y proyectó a su provincia como el 'hub energético más importante de América Latina', destacando la seguridad jurídica y las reglas claras para la inversión. Raúl Jalil (Catamarca) y Leandro Zdero (Chaco) también participaron en el AmCham Summit 2026, exponiendo el potencial minero y agroindustrial de sus respectivas provincias. Rolando Figueroa (Neuquén) enfatizó que el trabajo local es crucial para consolidar la confianza en Vaca Muerta, mientras que Claudio Vidal (Santa Cruz) viajó a Canadá para buscar inversiones en minería y energía, además de impulsar la recuperación de infraestructura productiva como el tren en Jaramillo. \n\nOtros mandatarios, como Martín Llaryora (Córdoba), se enfocaron en obras de infraestructura urbana y la colaboración con organismos como el PNUD para la transformación digital y el desarrollo productivo. Gustavo Valdés (Corrientes) informó sobre la modernización de la casa matriz del banco provincial. Finalmente, Gerardo Zamora (Santiago del Estero) y Claudio Poggi (San Luis) priorizaron programas sociales y educativos, reflejando una mirada interna hacia el bienestar de sus comunidades. La jornada, por tanto, muestra un panorama federal heterogéneo, donde la confrontación por recursos y modelos económicos coexiste con esfuerzos por la autogestión y la atracción de capitales para el desarrollo regional.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto Fiscal y Reclamo de Fondos Nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Alivio Fiscal y Diferencias de Modelos Económicos",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@desensiflor"
+            ]
+        },
+        {
+            "tema": "Fomento de Inversiones y Desarrollo Energético/Minero",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Obras Públicas Provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educación y Programas de Capacitación",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@EliasSuarezSDE",
+                "@carlossadirjuy"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @desensiflor)",
+        "texto": "Mientras tanto Kicillof no para de aumentar Ingresos Brutos asfixiando a los bonaerenses para hacer caja. El contraste es clarísimo. El camino correcto es el de la Ciudad, el del PRO, incentivando al que labura para que pueda vivir cada vez mejor. Es por acá 💛",
+        "por_que_es_clave": "Este retweet es clave porque no solo anuncia una medida de gestión (baja de impuestos en CABA), sino que la enmarca en una confrontación directa y polarizadora con la política fiscal del gobernador de la provincia de Buenos Aires, Axel Kicillof. Define una línea de contraste ideológico clara y eleva la tensión interprovincial a nivel nacional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Seguridad",
+                "Salud Pública",
+                "Cooperación Internacional",
+                "Reclamo de Fondos Nacionales"
+            ],
+            "postura_politica": "Mantiene una agenda de gestión provincial centrada en infraestructura y servicios esenciales, al tiempo que se erige como vocero de reclamos federales contra el desfinanciamiento del Estado Nacional, buscando fortalecer la integración regional y el rol del Estado.",
+            "frase_fuerte": "Más infraestructura y trabajo conjunto para reforzar la prevención y la seguridad en el distrito."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Alivio Fiscal",
+                "Eliminación de Ingresos Brutos",
+                "Desarrollo Productivo",
+                "Ley y Orden"
+            ],
+            "postura_politica": "Se posiciona como impulsor de la reducción de impuestos para estimular la producción y el empleo, contrastando su modelo de gestión con el de la provincia de Buenos Aires. Enfatiza la importancia de 'ley y orden' en la administración pública.",
+            "frase_fuerte": "Eliminamos Ingresos Brutos para trabajadores no profesionales."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Minería",
+                "Energías Renovables",
+                "Estrategia Económica Sostenible"
+            ],
+            "postura_politica": "Promueve la diversificación productiva de la provincia, integrando la minería con otros sectores para una economía sostenible. Destaca el potencial de Catamarca para atraer inversiones y generar empleo con una mirada a mediano plazo.",
+            "frase_fuerte": "La Catamarca que estamos consolidando crece integrando la minería con otros sectores y generando oportunidades en todo el territorio."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Competitividad",
+                "Inversiones",
+                "Desarrollo Agroindustrial",
+                "Potencial Productivo"
+            ],
+            "postura_politica": "Enfatiza la transformación productiva de la provincia a través de la inversión, el crecimiento de las exportaciones y el desarrollo agroindustrial, presentando al Chaco como un polo de oportunidades en encuentros empresariales.",
+            "frase_fuerte": "Compartí el potencial productivo de la provincia y el proceso de transformación que impulsamos, con más inversión, crecimiento de las exportaciones y desarrollo agroindustrial."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Obras Públicas",
+                "Infraestructura Básica",
+                "Vivienda"
+            ],
+            "postura_politica": "Prioriza la finalización de obras esenciales como el gas y el agua para revertir el abandono de gestiones anteriores, enfocándose en la provisión de servicios básicos y viviendas para las familias chubutenses con planificación y responsabilidad.",
+            "frase_fuerte": "Eso es hacer las cosas como corresponde: con servicios, con planificación y con la responsabilidad de no volver nunca más al pasado."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura Urbana",
+                "Seguridad Vial",
+                "Innovación",
+                "Transformación Digital",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Impulsa grandes obras de infraestructura en la capital y área metropolitana para mejorar la calidad de vida y la seguridad vial. Busca la innovación y el desarrollo productivo a través de la colaboración con organismos internacionales y la aplicación de nuevas tecnologías.",
+            "frase_fuerte": "Queremos mejorar la vida de todos los cordobeses, ese es el desafío que asumimos y renovamos con cada #infraestructura en marcha."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Infraestructura Bancaria",
+                "Servicios Financieros"
+            ],
+            "postura_politica": "Se enfoca en la modernización de los servicios provinciales, como la renovación de la casa matriz del banco provincial, para mejorar la atención a ciudadanos y empresas, mostrando una gestión orientada a la eficiencia y tecnología.",
+            "frase_fuerte": "Qué linda quedó la renovada casa matriz del @BancodeCtes en #Capital: una sede moderna y tecnológica que mejora la atención a los correntinos, a las familias, PyMEs y empresas, con servicios exclusivos pensados para cada ciudadano."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Educación",
+                "Articulación Universitaria"
+            ],
+            "postura_politica": "Destaca la importancia de la articulación con la universidad pública para impulsar proyectos educativos específicos, buscando fortalecer la formación y el desarrollo de la provincia a través del conocimiento.",
+            "frase_fuerte": "dialogamos sobre la importancia de continuar articulando acciones con la universidad pública y acompañando proyectos como el 'Proyecto Matteo'."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Reclamo de Fondos Nacionales",
+                "Federalismo",
+                "Peronismo",
+                "Crisis Municipal"
+            ],
+            "postura_politica": "Critica abiertamente al gobierno nacional por la retención de fondos municipales y la falta de respuesta a los reclamos provinciales. Aboga por un frente amplio liderado por el peronismo para defender los intereses regionales.",
+            "frase_fuerte": "140 intendentes e intendentas de distintos puntos del país realizaron un pedido formal al Gobierno nacional para que se liberen los fondos que les corresponden a los municipios y que, desde hace tiempo, no están siendo transferidos. La respuesta fue la de siempre: puertas cerradas y la espalda al pueblo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Inclusión Social",
+                "Accesibilidad Digital",
+                "Salud (Vacunación)",
+                "Cultura"
+            ],
+            "postura_politica": "Se enfoca en políticas de inclusión y accesibilidad para personas con discapacidad visual, además de promover la cultura a través de eventos. Destaca la importancia de programas de salud pública como la vacunación.",
+            "frase_fuerte": "En el Instituto Taller para No Videntes 'Santos Mártires', dimos un paso más en el camino de la inclusión con la entrega de herramientas y materiales que amplían oportunidades y fortalecen la accesibilidad digital para estudiantes con discapacidad visual."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura Educativa",
+                "Vialidad",
+                "Desarrollo de Vaca Muerta",
+                "Inversiones"
+            ],
+            "postura_politica": "Presenta un ambicioso plan de infraestructura educativa y vial, resaltando la inversión en escuelas técnicas. En relación a Vaca Muerta, subraya que el trabajo de los neuquinos es clave para atraer y consolidar inversiones, proyectando un desarrollo sostenible.",
+            "frase_fuerte": "Neuquén cambió: pusimos en marcha un plan de infraestructura educativa que incluye 85 mil metros cuadrados de nuevas escuelas, de los cuales 45 mil corresponden a escuelas técnicas."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo Energético (GNL)",
+                "Inversiones",
+                "Competitividad",
+                "Turismo",
+                "Infraestructura"
+            ],
+            "postura_politica": "Proyecta a Río Negro como un 'hub energético más importante de América Latina' a través de grandes inversiones en GNL y exportación de recursos. Apoya la estabilidad macroeconómica nacional mientras enfatiza la importancia de reglas claras y seguridad jurídica para atraer capitales y potenciar el turismo.",
+            "frase_fuerte": "Somos protagonistas de una nueva era en la historia energética del país. Por primera vez, los recursos de la Patagonia se van a exportar por nuestra propia costa, desde Río Negro."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Programas Sociales para Adultos Mayores",
+                "Espacios Públicos"
+            ],
+            "postura_politica": "Lanza programas sociales dirigidos a los adultos mayores, como 'Grandes Amigos', y promueve la recuperación de espacios públicos, buscando mejorar la calidad de vida de los ciudadanos a través de iniciativas comunitarias.",
+            "frase_fuerte": "Junto a todos los Centros de Jubilados de las diferentes Localidades de la Provincia, lanzamos hoy el PROGRAMA GRANDES AMIGOS para el año 2026 !"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Recuperación de Infraestructura Productiva",
+                "Desarrollo Minero y Energético",
+                "Inversiones"
+            ],
+            "postura_politica": "Impulsa la recuperación de infraestructuras históricas como el tren para generar recursos y turismo. Busca atraer inversiones en minería y energía a través de giras internacionales, enfatizando la capacidad provincial de autogestión y la formación de mano de obra local.",
+            "frase_fuerte": "ESTAMOS RECUPERANDO EL TREN EN JARAMILLO Y CON ÉL UNA PARTE DE NUESTRA HISTORIA PRODUCTIVA"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Adicciones",
+                "Educación",
+                "Capacitación"
+            ],
+            "postura_politica": "Prioriza la lucha contra el consumo problemático a través de campañas de abordaje integral y fomenta programas educativos para jóvenes. Destaca la importancia de la participación juvenil y la educación como motores de desarrollo provincial.",
+            "frase_fuerte": "Estoy convencido de que el consumo problemático es una realidad compleja, pero no bajamos los brazos."
+        }
+    ]
+}
