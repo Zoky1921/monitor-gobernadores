@@ -303,7 +303,11 @@ TWEETS A ANALIZAR:
             for linea in data_context.split("\n---\n"):
                 if not linea.strip():
                     continue
-                handle = linea.split("]")[0].replace("[@", "") if linea.startswith("[@") else "_"
+                handle = (
+                    linea.split("]")[0].replace("[@", "")
+                    if linea.startswith("[@") and "]" in linea
+                    else "_"
+                )
                 lineas_por_handle.setdefault(handle, [])
                 if len(lineas_por_handle[handle]) < MAX_TWEETS_GROQ:
                     lineas_por_handle[handle].append(linea)
@@ -314,7 +318,7 @@ TWEETS A ANALIZAR:
             print(f"📏 Contexto Groq reducido: {chars:,} caracteres ({len(lineas_por_handle)} gobernadores, máx {MAX_TWEETS_GROQ} tweets c/u)")
 
             prompt_groq = prompt
-            if data_context:
+            if data_context and data_context in prompt:
                 prompt_groq = prompt.replace(data_context, data_context_groq, 1)
 
             groq_payload = {
