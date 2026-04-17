@@ -296,11 +296,41 @@ TWEETS A ANALIZAR:
                 "Authorization": f"Bearer {groq_key}",
                 "Content-Type": "application/json",
             }
+
+            # --- Reducir contexto para Groq (máx 10 tweets por handle) ---
+            MAX_TWEETS_GROQ = 10
+            lineas_por_handle = {}
+            for linea in data_context.split("\n---\n"):
+                if not linea.strip():
+                    continue
+                handle = (
+                    linea.split("]")[0].replace("[@", "")
+                    if linea.startswith("[@") and "]" in linea
+                    else "_"
+                )
+                lineas_por_handle.setdefault(handle, [])
+                if len(lineas_por_handle[handle]) < MAX_TWEETS_GROQ:
+                    lineas_por_handle[handle].append(linea)
+            data_context_groq = "\n---\n".join(
+                tweet for tweets in lineas_por_handle.values() for tweet in tweets
+            )
+            chars = len(data_context_groq)
+            print(f"📏 Contexto Groq reducido: {chars:,} caracteres ({len(lineas_por_handle)} gobernadores, máx {MAX_TWEETS_GROQ} tweets c/u)")
+
+            prompt_groq = prompt
+            prompt_marker = "TWEETS A ANALIZAR:\n"
+            if prompt_marker in prompt:
+                prompt_groq = prompt.rsplit(prompt_marker, 1)[0] + prompt_marker + data_context_groq
+            elif data_context and data_context in prompt:
+                prompt_groq = prompt.replace(data_context, data_context_groq, 1)
+            else:
+                print("⚠️ No se pudo inyectar contexto reducido en prompt de Groq; se usará prompt original.")
+
             groq_payload = {
                 "model": "llama-3.3-70b-versatile",
                 "messages": [
                     {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
-                    {"role": "user", "content": prompt},
+                    {"role": "user", "content": prompt_groq},
                 ],
                 "temperature": 0.2,
                 "max_tokens": 5000,

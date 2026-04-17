@@ -405,28 +405,42 @@ body {
 
 /* AJUSTES PARA CELULARES */
 @media (max-width: 768px) {
+    .top-bar {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+        padding: 20px 15px;
+    }
+
+    .botones-header {
+        flex-direction: column;
+        gap: 8px;
+        width: 100%;
+    }
+
     .dashboard-macro { grid-template-columns: 1fr; }
     .header-content h1 { font-size: 2.2rem; }
     .header-content p { font-size: 0.8rem; }
     .modal-content { width: 95%; padding: 20px; }
     #modal-bio { flex-direction: column; text-align: center; }
-    
-    /* --- LA SOLUCIÓN AL TEXTO FANTASMA --- */
+
+    /* Anula el scroll interno en móvil */
     #analisis-profundo {
-        height: auto; /* Anula el height: 0 del escritorio */
-        overflow-y: visible; /* Apaga el scroll interno azul */
+        height: auto;
+        overflow-y: visible;
     }
-    
+
     .resumen-largo {
-        overflow: visible; /* Deja que el texto empuje la caja hacia abajo sin cortarse */
-   /* NUEVO: Apilar botones en celulares */
+        overflow: visible;
+    }
+
+    /* Apilar botones en celulares — FUERA de .resumen-largo */
     .btn-cta, .btn-turno {
         display: flex;
-        width: 100%; 
-        margin-left: 0; 
-        margin-top: 10px; 
-        justify-content: center; 
-    }
+        width: 100%;
+        margin-left: 0;
+        margin-top: 10px;
+        justify-content: center;
     }
 }
 
