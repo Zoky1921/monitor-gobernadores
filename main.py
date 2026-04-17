@@ -296,11 +296,32 @@ TWEETS A ANALIZAR:
                 "Authorization": f"Bearer {groq_key}",
                 "Content-Type": "application/json",
             }
+
+            # --- Reducir contexto para Groq (máx 10 tweets por handle) ---
+            MAX_TWEETS_GROQ = 10
+            lineas_por_handle = {}
+            for linea in data_context.split("\n---\n"):
+                if not linea.strip():
+                    continue
+                handle = linea.split("]")[0].replace("[@", "") if linea.startswith("[@") else "_"
+                lineas_por_handle.setdefault(handle, [])
+                if len(lineas_por_handle[handle]) < MAX_TWEETS_GROQ:
+                    lineas_por_handle[handle].append(linea)
+            data_context_groq = "\n---\n".join(
+                tweet for tweets in lineas_por_handle.values() for tweet in tweets
+            )
+            chars = len(data_context_groq)
+            print(f"📏 Contexto Groq reducido: {chars:,} caracteres ({len(lineas_por_handle)} gobernadores, máx {MAX_TWEETS_GROQ} tweets c/u)")
+
+            prompt_groq = prompt
+            if data_context:
+                prompt_groq = prompt.replace(data_context, data_context_groq, 1)
+
             groq_payload = {
                 "model": "llama-3.3-70b-versatile",
                 "messages": [
                     {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
-                    {"role": "user", "content": prompt},
+                    {"role": "user", "content": prompt_groq},
                 ],
                 "temperature": 0.2,
                 "max_tokens": 5000,
