@@ -1,0 +1,233 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una marcada tensión entre las provincias y el Gobierno Nacional, con varios gobernadores intensificando sus críticas por la paralización de obras y la retención de fondos, especialmente en áreas sensibles como discapacidad y transporte. En contraposición, la agenda provincial se centró en la gestión con 'fondos propios', impulsando obras de infraestructura vial y energética, y programas sociales. La atracción de inversiones en sectores clave como la minería y los hidrocarburos, junto con una fuerte postura en seguridad y la reducción de impuestos, completaron un panorama de autonomía y defensa de los intereses regionales frente a la coyuntura nacional.",
+    "analisis_profundo": "El pulso político federal del día revela una clara divergencia entre la gestión provincial y las políticas del gobierno central. Gobernadores como Axel Kicillof (Buenos Aires) articularon una crítica frontal al modelo nacional, señalando un deterioro generalizado. En esta misma línea, Martín Llaryora (Córdoba) denunció la detención de obras y el recorte de fondos nacionales para discapacidad, un reclamo que también levantó Hugo Passalacqua (Misiones). El gobernador Maximiliano Pullaro (Santa Fe) se sumó a las voces que denuncian el abandono nacional en infraestructura y el transporte, enfatizando la discriminación en la distribución de recursos.\n\nFrente a esta situación, las provincias han optado por fortalecer su autonomía y capacidad de gestión. Una tendencia dominante es la inversión en obra pública con 'fondos propios', como lo demuestran Martín Llaryora (Córdoba) con la inauguración de un altonivel, o Alberto Weretilneck (Río Negro) y Rolando Figueroa (Neuquén) con el avance en rutas, gas natural y electrificación. Estos mandatarios enfatizan que sus provincias 'construyen con decisión' y 'no se detienen' a pesar del contexto nacional.\n\nEn el ámbito económico, la atracción de inversiones y el desarrollo productivo son pilares. Leandro Zdero (Chaco) propuso garantías constitucionales para inversores, mientras que Gustavo Valdés (Corrientes) celebró una megainversión en la industria de la fibra de pino. Alfredo Cornejo (Mendoza) viajó a Chile para posicionar su provincia en la agenda minera internacional, buscando integración regional. Claudio Vidal (Santa Cruz) hizo lo propio en Canadá, apuntando a tecnología e inversión en el yacimiento Palermo Aike y la industria petrolera. Weretilneck (Río Negro) incluso anunció un histórico acuerdo para la exportación de GNL.\n\nLa seguridad fue otro punto neurálgico. Jorge Macri (Ciudad Autónoma de Buenos Aires) reafirmó su política de 'ley y orden' en barrios sensibles y el gobernador Maximiliano Pullaro (Santa Fe) llevó a cabo la subasta de bienes decomisados al delito, un mensaje contundente contra la impunidad. Claudio Poggi (San Luis) también reportó avances en seguridad ciudadana con la instalación de alarmas vecinales. Estos enfoques, combinados con políticas de reducción impositiva como la eliminación de Ingresos Brutos en CABA, configuran un frente provincial que busca diferenciarse y mostrar resultados tangibles a sus ciudadanos, marcando un claro contraste con la agenda económica y de ajuste de la Nación.",
+    "temas_calientes": [
+        {
+            "tema": "Tensión Fiscal y Recorte de Fondos Nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Impulso a Obra Pública e Infraestructura con Fondos Propios",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@insfran_gildo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Atracción de Inversiones y Desarrollo Productivo (Minería, Energía, Agroindustria)",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@gustavovaldesok",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Delito",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Políticas Educativas y Sociales Provinciales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Hora25)",
+        "texto": "Axel Kicillof, gobernador de la provincia de Buenos Aires, sobre Milei: 'Todo lo que andaba mal, empeoró; lo que andaba bien, lo está rompiendo'",
+        "por_que_es_clave": "Esta declaración representa la crítica más directa y contundente al Gobierno Nacional en la jornada. Su naturaleza lapidaria, al señalar un empeoramiento generalizado y la destrucción de lo que funcionaba, condensa la postura de confrontación de una parte del arco federal, que responsabiliza a la administración central por la situación económica y social.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al Gobierno Nacional",
+                "Rol del Estado",
+                "Políticas laborales",
+                "Economía"
+            ],
+            "postura_politica": "Fuerte crítico de las políticas económicas del gobierno nacional, enfatizando el rol del Estado en la economía y la protección de derechos laborales. Se posiciona en defensa de un modelo de desarrollo inclusivo.",
+            "frase_fuerte": "Todo lo que andaba mal, empeoró; lo que andaba bien, lo está rompiendo"
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Reducción impositiva",
+                "Seguridad ciudadana",
+                "Inversión privada",
+                "Simplificación fiscal"
+            ],
+            "postura_politica": "Impulsa activamente la reducción de la presión fiscal para fomentar la producción y el empleo, alineado con principios liberales. Muestra una postura firme en seguridad, priorizando la 'ley y orden' y combatiendo la impunidad en zonas urbanas.",
+            "frase_fuerte": "'Castigar al que produce es condenar a una sociedad al estancamiento. La única forma de salir adelante es dejar de ponerle el pie encima al que trabaja.'"
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Atracción de inversiones",
+                "Garantía constitucional",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Promueve una fuerte política de atracción de inversiones privadas, incluso a nivel constitucional, buscando generar desarrollo y empleo en la provincia con reglas de juego claras y seguras.",
+            "frase_fuerte": "¡EN CHACO ATRAEMOS INVERSIONES! CAMBIAMOS LAS REGLAS DEL JUEGO Y PROPONEMOS GARANTÍA CONSTITUCIONAL A QUIENES VENGAN A INVERTIR!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Lucha contra la corrupción",
+                "Vivienda social",
+                "Recuperación de bienes",
+                "Justicia"
+            ],
+            "postura_politica": "Se enfoca en la lucha contra la corrupción, utilizando los bienes incautados para financiar programas sociales y viviendas, buscando revertir los efectos de gestiones anteriores y dar respuestas concretas a la gente.",
+            "frase_fuerte": "Lo que le robaron a la Provincia, hoy se transforma en soluciones concretas."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obra pública provincial",
+                "Fondos nacionales",
+                "Discapacidad",
+                "Infraestructura"
+            ],
+            "postura_politica": "Destaca la continuidad y avance de la obra pública con fondos propios, contrastando con la paralización a nivel nacional. Reclama por los fondos federales para discapacidad, posicionándose como defensor de los sectores vulnerables.",
+            "frase_fuerte": "Mientras en muchos lugares del país las #obras se frenan, en nuestra provincia seguimos avanzando con #infraestructura moderna, pensada para generar soluciones y brindar mejores servicios a nuestra gente."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Inversión privada",
+                "Generación de empleo",
+                "Industria"
+            ],
+            "postura_politica": "Anuncia grandes inversiones privadas en la industria para impulsar la generación de empleo y el desarrollo productivo provincial, mostrando una provincia abierta a capitales importantes.",
+            "frase_fuerte": "#Corrientes recibirá una gran inversión privada: serán U$D2000 millones de ARPULP S.A. para instalar una planta de industrialización de fibra de pino de alta calidad que generará 13 mil puestos de trabajo."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Gestión de gobierno",
+                "Salud pública",
+                "Designaciones ministeriales"
+            ],
+            "postura_politica": "Se enfoca en la gestión de gobierno a través de designaciones ministeriales, reafirmando la importancia del sistema público de salud como eje central del modelo provincial y su fortalecimiento constante.",
+            "frase_fuerte": "Nuestro Modelo Provincial, en su visión integral al servicio de los formoseños y formoseñas, tiene al sistema público de salud como un eje central, lo cual nos desafía a seguir fortaleciéndolo día a día."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Industria minera",
+                "Atracción de inversiones",
+                "Integración regional",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Promueve la participación en foros internacionales para atraer inversiones en la industria minera, buscando la integración regional con Chile y destacando la importancia de reglas claras y sostenibilidad para el desarrollo productivo.",
+            "frase_fuerte": "Mendoza está dando pasos firmes para transformar su potencial en desarrollo productivo. Lo hacemos con reglas claras, seguridad jurídica y una visión de largo plazo que prioriza la sostenibilidad, la integración regional y la generación de empleo de calidad."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Asistencia social",
+                "Fondos nacionales",
+                "Educación",
+                "Transparencia"
+            ],
+            "postura_politica": "Reclama al gobierno nacional por pagos adeudados en programas de discapacidad, mientras a nivel provincial impulsa programas educativos y de apoyo estudiantil, y promueve la transparencia en la gestión de funcionarios municipales.",
+            "frase_fuerte": "Tal como lo hicimos días atrás con el ministro de Economía, Luis Caputo, acabo de solicitar al ministro de Salud, Mario Lugones, la regularización urgente de los pagos adeudados correspondientes a seis meses —por una suma superior a los 2.500 millones de pesos— a los centros especializados que brindan asistencia a personas con discapacidad en el marco del Programa Federal Incluir Salud."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Gestión provincial",
+                "Empleo privado",
+                "Educación técnica",
+                "Defensa de recursos",
+                "Obra pública"
+            ],
+            "postura_politica": "Celebra el aniversario de su elección, destacando el liderazgo de Neuquén en crecimiento de empleo privado y la inversión en infraestructura educativa y vial, con un enfoque en la defensa de los recursos provinciales y la redistribución.",
+            "frase_fuerte": "HACE 3 AÑOS LOS NEUQUINOS ELEGIMOS CAMBIAR. Elegimos que lo que es de Neuquén quede en Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obra pública provincial",
+                "GNL",
+                "Gas natural",
+                "Desarrollo productivo",
+                "Seguridad",
+                "Energía"
+            ],
+            "postura_politica": "Enfatiza la ejecución de obras públicas con fondos propios, la expansión del acceso a gas natural y la inversión en seguridad. Destaca un acuerdo clave para la exportación de GNL con inversión conjunta (Nación, Neuquén, privado) como un hito de desarrollo.",
+            "frase_fuerte": "Río Negro construye con decisión, planificación y con fondos propios."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Infraestructura escolar",
+                "Salud",
+                "Seguridad ciudadana"
+            ],
+            "postura_politica": "Enfocado en mejoras de infraestructura educativa y de salud, así como en la implementación de tecnología para la seguridad ciudadana a nivel barrial. Busca recuperar el tiempo perdido en el acceso a fondos federales.",
+            "frase_fuerte": "Dejamos en funcionamiento las ALARMAS CIUDADANAS para la totalidad del BARRIO SAN ANTONIO de la Ciudad de Villa Mercedes. Mayor seguridad para los vecinos del Barrio. Bien !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Alfabetización",
+                "Tecnología petrolera",
+                "Inversión energética",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Impulsa programas de alfabetización con financiamiento privado y busca atraer tecnología e inversión para el desarrollo de la formación de petróleo y gas, especialmente en la formación Palermo Aike, vista como una gran oportunidad para la provincia.",
+            "frase_fuerte": "Palermo Aike es una de las grandes oportunidades que tiene nuestra provincia. Estamos frente a una formación con enorme potencial, que puede marcar un antes y un después en la matriz productiva de Santa Cruz. Pero ese potencial no se desarrolla solo. Necesita inversión, decisión política y, sobre todo, tecnología adecuada."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el delito",
+                "Recursos para víctimas",
+                "Producción de biodiésel"
+            ],
+            "postura_politica": "Muestra una gestión fuerte en seguridad, con operativos de incautación y subasta de bienes del delito para fines sociales. Defiende la producción de biodiésel provincial frente a cuestionamientos internacionales, posicionando a Santa Fe como líder productivo.",
+            "frase_fuerte": "En Santa Fe perseguimos al delito, encarcelamos a los delincuentes y le subastamos sus bienes. Llevamos adelante la Subasta de Bienes Decomisados del Delito más grande de la República Argentina."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Academia",
+                "Liderazgo",
+                "Reflexión política"
+            ],
+            "postura_politica": "Participa en espacios académicos para reflexionar sobre el liderazgo en contextos de incertidumbre, mostrando interés en el pensamiento crítico aplicado a la gestión pública y el futuro de las instituciones.",
+            "frase_fuerte": "Fue una jornada enriquecedora, en la que pudimos reflexionar sobre los desafíos que implica conducir instituciones en contextos atravesados por la incertidumbre y los profundos cambios sociales, políticos y jurídicos de nuestro tiempo."
+        }
+    ]
+}
