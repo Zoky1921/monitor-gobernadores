@@ -158,6 +158,7 @@ body {
     margin-bottom: 20px;
 }
 
+/* Desktop: altura limitada con scroll interno */
 #analisis-profundo {
     font-size: 1.05rem; 
     line-height: 1.7;   
@@ -165,8 +166,8 @@ body {
     text-align: left; 
     padding-right: 15px;  
     flex: 1 1 auto;
-    min-height: 0;
-    max-height: none;
+    min-height: 160px;
+    max-height: 420px;
     overflow-y: auto;
     white-space: normal;
 }
@@ -388,6 +389,7 @@ body {
     .modal-content { width: 95%; padding: 20px; }
     #modal-bio { flex-direction: column; text-align: center; }
 
+    /* Movil: sin limite de altura, el texto empuja hacia abajo */
     #analisis-profundo {
         height: auto;
         min-height: 0;
