@@ -318,8 +318,13 @@ TWEETS A ANALIZAR:
             print(f"📏 Contexto Groq reducido: {chars:,} caracteres ({len(lineas_por_handle)} gobernadores, máx {MAX_TWEETS_GROQ} tweets c/u)")
 
             prompt_groq = prompt
-            if data_context and data_context in prompt:
+            prompt_marker = "TWEETS A ANALIZAR:\n"
+            if prompt_marker in prompt:
+                prompt_groq = prompt.rsplit(prompt_marker, 1)[0] + prompt_marker + data_context_groq
+            elif data_context and data_context in prompt:
                 prompt_groq = prompt.replace(data_context, data_context_groq, 1)
+            else:
+                print("⚠️ No se pudo inyectar contexto reducido en prompt de Groq; se usará prompt original.")
 
             groq_payload = {
                 "model": "llama-3.3-70b-versatile",
