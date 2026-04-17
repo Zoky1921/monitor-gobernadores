@@ -1,0 +1,203 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal del 17 de abril de 2026 estuvo marcada por una combinación de gestión provincial activa y tensiones con el Gobierno Nacional. Gobernadores como Axel Kicillof (Buenos Aires) se mostraron en una gira internacional, reforzando lazos ideológicos y buscando inversiones, a la par que criticaron el rumbo nacional. Alberto Weretilneck (Río Negro) y Ricardo Quintela (La Rioja) destacaron la defensa de la autonomía provincial, con Weretilneck celebrando la transferencia de rutas nacionales y Quintela expresando preocupación por el desfinanciamiento universitario. En paralelo, varios mandatarios como Maximiliano Pullaro (Santa Fe), Jorge Macri (CABA) y Claudio Poggi (San Luis) anunciaron avances en seguridad, infraestructura y programas sociales, mostrando un fuerte enfoque en la gestión local ante el complejo escenario nacional.",
+    "analisis_profundo": "El panorama federal de hoy, 17 de abril de 2026, refleja una clara dicotomía: por un lado, una persistente reafirmación de la capacidad de gestión provincial y, por otro, una latente o explícita tensión con el Gobierno Nacional. Gobernadores con perfiles ideológicos diversos coinciden en destacar la autonomía y el esfuerzo propio frente a un contexto nacional percibido como adverso o ausente.\n\nAxel Kicillof (Buenos Aires) ejemplifica la búsqueda de alternativas. Su intensa agenda internacional, con reuniones de alto calibre en Europa y América Latina, subraya un intento por construir un contrapeso ideológico regional a la ultraderecha y asegurar flujos de inversión y cooperación, desmarcándose de la política exterior nacional. Su mención al acuerdo con el BNDES de Brasil y el CFI es un claro ejemplo de bypass a la administración central.\n\nLa preocupación por el desfinanciamiento nacional fue un eje central para Ricardo Quintela (La Rioja), quien, al celebrar el aniversario de la UTN, no dudó en señalar el 'ajuste que pone en riesgo el funcionamiento de las aulas y el futuro de miles de jóvenes', transformando un acto protocolar en una crítica directa a las políticas de recorte. Esta postura resuena con un clima general de descontento universitario a nivel nacional.\n\nAlberto Weretilneck (Río Negro) ofreció la declaración más contundente sobre el federalismo en acción, al anunciar la transferencia de las rutas nacionales a la órbita provincial. Su frase 'Defendemos lo que le corresponde a los rionegrinos, negociamos y logramos que el gobierno nacional nos transfiera el poder de decisión sobre las rutas nacionales' ilustra una dinámica de confrontación-negociación exitosa, donde la provincia asume una responsabilidad previamente desatendida por Nación. Este es un punto de inflexión estratégico, pues implica que las provincias buscan soluciones directas a problemas de infraestructura que el Estado central no prioriza. El anuncio de renovación en su partido, Juntos Somos Río Negro, también sugiere una consolidación de la identidad política provincial.\n\nEn el ámbito de la seguridad, tanto Jorge Macri (CABA) como Maximiliano Pullaro (Santa Fe) exhibieron una mano dura. Macri (CABA) celebró la recuperación de zonas conflictivas bajo un lema de 'ley y orden', mientras Pullaro (Santa Fe) enfatizó la persecución del delito y la 'subasta pública más grande del país de bienes decomisados al delito', buscando golpear las estructuras económicas del crimen y devolver recursos a la sociedad.\n\nOtros gobernadores como Martín Llaryora (Córdoba), Claudio Poggi (San Luis) y Osvaldo Jaldo (Tucumán) mostraron una intensa actividad de gestión, con inauguraciones de obras, planes de infraestructura vial y urbana, programas de vivienda y fomento productivo. Estos mandatarios, junto a Leandro Zdero (Chaco) con su reforma constitucional para atraer inversiones, demuestran la capacidad de las provincias para mantener una agenda de desarrollo local, a menudo con recursos propios o a través de la reasignación de prioridades, ante la retracción de la obra pública nacional. La mención de Elías Suárez (Santiago del Estero) sobre un Consejo Económico y Social también indica una estrategia de diálogo interno para el desarrollo productivo.\n\nEl clima general se percibe como TENSO, con una clara voluntad provincial de autoafirmación y gestión autónoma, pero con el telón de fondo de un Estado nacional que, para varios líderes subnacionales, está desatendiendo obligaciones fundamentales o generando un ajuste que recae en las provincias y en los ciudadanos.",
+    "temas_calientes": [
+        {
+            "tema": "Críticas y Reclamos al Gobierno Nacional / Defensa del Federalismo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha Contra el Delito",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Desarrollo Productivo Provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@LeandroZdero",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Educación como Prioridad / Gestión del Conocimiento",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Vivienda y Acceso a Servicios Básicos",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK",
+        "texto": "DEFENDEMOS NUESTRA PROVINCIA Y TOMAMOS EL COMPROMISO DE CUIDAR A LOS RIONEGRINOS QUE TRANSITAN LAS RUTAS NACIONALES Desde hace varios años, los gobiernos nacionales decidieron abandonar las rutas del interior del país y priorizar únicamente los intereses del centralismo porteño. Mientras tanto, miles de rionegrinos ponen en riesgo su vida todos los días al transitarlas. Desde el gobierno provincial dijimos basta a esta situación. Defendimos lo que le corresponde a los rionegrinos, negociamos y logramos que el gobierno nacional nos transfiera el poder de decisión sobre las rutas nacionales. Asumimos este desafío y vamos a trabajar de manera conjunta entre el sector público y el privado para arreglar estas rutas, sin resignar ni un solo peso de las otras áreas de la gestión provincial. Río Negro está en marcha. Sabemos que queda mucho por hacer y que los frutos de este rumbo aún no se sienten en cada hogar, pero este es solo el comienzo. Esta decisión es un claro ejemplo de que nuestro gobierno no espera sentado a que desde afuera decidan por nosotros: tomamos acción, defendemos a la provincia y trabajamos todos los días para mejorar la vida de los rionegrinos.",
+        "por_que_es_clave": "Este tweet es clave porque representa un punto de quiebre en la dinámica federal, donde el Gobierno de Río Negro asume la responsabilidad y el financiamiento de obras en rutas nacionales que la administración central había desatendido. Refleja una acción concreta de defensa de la autonomía provincial frente a la inacción nacional, con implicancias estratégicas para la infraestructura y la relación entre Nación y provincias.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Diplomacia subnacional",
+                "Integración regional",
+                "Crítica al gobierno nacional",
+                "Defensa de la democracia"
+            ],
+            "postura_politica": "Se posiciona como referente internacional de progresismo, promoviendo alianzas contra la ultraderecha y buscando inversiones. Es crítico de las políticas nacionales que afectan el desarrollo provincial y la integración regional.",
+            "frase_fuerte": "Coincidimos en la necesidad de coordinar acciones entre todas las fuerzas de la región para contrarrestar el avance de la ultraderecha y defender los derechos de nuestro pueblo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad urbana"
+            ],
+            "postura_politica": "Reafirma un enfoque de 'ley y orden' en zonas históricamente conflictivas de la Ciudad de Buenos Aires, destacando el fin de 'zonas liberadas' a través de la acción policial.",
+            "frase_fuerte": "Estaban acostumbrados a esconderse en la Villa 31. Se olvidaron que ya no es más una zona liberada. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Inversiones",
+                "Reforma constitucional",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Impulsa una reforma constitucional para garantizar la seguridad jurídica a inversores y evitar subas impositivas, buscando atraer capital y fomentar el desarrollo económico en Chaco.",
+            "frase_fuerte": "¡EN CHACO ATRAEMOS INVERSIONES! CAMBIAMOS LAS REGLAS DEL JUEGO Y PROPONEMOS GARANTÍA CONSTITUCIONAL A QUIENES VENGAN A INVERTIR!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Inclusión social",
+                "Deporte"
+            ],
+            "postura_politica": "Destaca la recuperación y fortalecimiento de programas deportivos inclusivos como los Juegos Para EPADE, enfatizando el compromiso y la superación en la provincia de Chubut como valores comunitarios.",
+            "frase_fuerte": "Hoy los Juegos Para EPADE son inclusión. Son compromiso. Son esfuerzo. Y son superación. Pero, sobre todo, son comunidad."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Desarrollo urbano",
+                "Turismo",
+                "Eventos deportivos"
+            ],
+            "postura_politica": "Muestra una gestión activa en obras públicas (como la pavimentación de rutas y renovación de espacios verdes) y la promoción de grandes eventos deportivos para dinamizar la economía local de Córdoba y generar empleo.",
+            "frase_fuerte": "Cada camino que se abre, cada ruta que se transforma, no solo conecta puntos en el mapa: une oportunidades, acerca a las personas y marca el rumbo del desarrollo que queremos."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Educación pública",
+                "Desfinanciamiento nacional"
+            ],
+            "postura_politica": "Aboga por un federalismo basado en la unión provincial y critica el desfinanciamiento del Gobierno Nacional a las universidades, considerándolo una amenaza al futuro de La Rioja y a la igualdad de oportunidades.",
+            "frase_fuerte": "Nos preocupa profundamente el desfinanciamiento que hoy sufren por parte del Gobierno Nacional; un ajuste que pone en riesgo el funcionamiento de las aulas y el futuro de miles de jóvenes."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Educación",
+                "Inversión pública",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Refuerza la autonomía y el modelo de gestión neuquino, centrado en la inversión pública en educación e infraestructura para el desarrollo local, reafirmando una visión de redistribución de recursos en la provincia.",
+            "frase_fuerte": "Elegimos que lo que es de Neuquén quede en Neuquén. Elegimos apostar por un nuevo modelo de desarrollo con más obras, más escuelas, más oportunidades y un Estado presente, que ordena para redistribuir."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Federalismo",
+                "Infraestructura vial",
+                "Gestión provincial",
+                "Renovación política",
+                "Empleo local"
+            ],
+            "postura_politica": "Defiende la capacidad de gestión provincial frente al abandono nacional, asumiendo la responsabilidad de obras clave como las rutas. Anuncia una renovación en la dirigencia de su partido, buscando fortalecer el proyecto provincial y el empleo local.",
+            "frase_fuerte": "Defendemos lo que le corresponde a los rionegrinos, negociamos y logramos que el gobierno nacional nos transfiera el poder de decisión sobre las rutas nacionales."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Vivienda",
+                "Educación",
+                "Desarrollo social",
+                "Fomento productivo"
+            ],
+            "postura_politica": "Presenta una gestión diversificada con foco en obras públicas (polideportivos, agua, calles), programas de vivienda, apoyo a la educación (escuelas técnicas, becas) y fomento a emprendimientos locales, buscando mejorar la calidad de vida en San Luis.",
+            "frase_fuerte": "La política de viviendas llegó para quedarse y genera numerosos puestos de trabajo."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Vivienda",
+                "Educación",
+                "Desarrollo económico",
+                "Financiamiento privado"
+            ],
+            "postura_politica": "Prioriza la construcción de viviendas como derecho y motor de empleo local en Santa Cruz. Impulsa la alfabetización con financiamiento privado, buscando el desarrollo y la capacitación en la provincia.",
+            "frase_fuerte": "Estamos transformado promesas en hechos y derechos en realidades."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el delito",
+                "Inversión en educación"
+            ],
+            "postura_politica": "Muestra una línea dura y concreta contra el crimen organizado en Santa Fe, mediante la persecución, el encarcelamiento y la subasta de bienes decomisados. Complementa con una fuerte inversión en infraestructura educativa.",
+            "frase_fuerte": "La subasta pública más grande del país de bienes decomisados al delito se hace en la provincia de Santa Fe."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Diálogo social y económico",
+                "Educación",
+                "Salud"
+            ],
+            "postura_politica": "Impulsa el diálogo público-privado a través del Consejo Económico y Social para fortalecer la producción y el empleo en Santiago del Estero. También destaca acciones en salud (recepción de cirujanos) y seguridad escolar.",
+            "frase_fuerte": "Impulsamos este ámbito con el objetivo de consolidar una articulación público-privada estratégica que nos permita mejorar los indicadores productivos y sociales de nuestra provincia."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura urbana",
+                "Agua potable",
+                "Gestión provincial-municipal"
+            ],
+            "postura_politica": "Se enfoca en la entrega de viviendas y el avance de obras esenciales de infraestructura (desagües pluviales, acueducto) mediante la colaboración provincial-municipal, buscando dar soluciones a problemas estructurales y mejorar la calidad de vida en Tucumán.",
+            "frase_fuerte": "Cuando la realidad golpea, el Estado tiene que estar más presente que nunca."
+        }
+    ]
+}
