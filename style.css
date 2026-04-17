@@ -1,15 +1,14 @@
 /* VARIABLES DE COLOR - MODO OSCURO ORIGINAL */
 :root {
-    --fondo-oscuro: #0f172a;        /* Azul pizarra muy profundo */
-    --fondo-tarjeta: #1e293b;       /* Gris azulado para las cards */
-    --azul-acento: #38bdf8;         /* Azul brillante para links/títulos */
-    --rojo-alerta: #ef4444;         /* Rojo vibrante para el borde superior */
-    --texto-principal: #f1f5f9;     /* Blanco suave */
-    --texto-secundario: #94a3b8;    /* Gris para bios y fechas */
-    --borde: #334155;               /* Bordes sutiles */
+    --fondo-oscuro: #0f172a;
+    --fondo-tarjeta: #1e293b;
+    --azul-acento: #38bdf8;
+    --rojo-alerta: #ef4444;
+    --texto-principal: #f1f5f9;
+    --texto-secundario: #94a3b8;
+    --borde: #334155;
 }
 
-/* 1. UNIFICACIÓN TIPOGRÁFICA GLOBAL */
 * { 
     box-sizing: border-box; 
     margin: 0; 
@@ -23,7 +22,6 @@ body {
     line-height: 1.6;
 }
 
-/* HEADER */
 .top-bar {
     background-color: #020617;
     color: #ffffff;
@@ -50,14 +48,14 @@ body {
     margin-top: 5px;
 }
 
-date-selector { display: flex; flex-direction: column; gap: 5px; }
-date-selector label {
+.date-selector { display: flex; flex-direction: column; gap: 5px; }
+.date-selector label {
     font-size: 0.85rem;
     color: var(--texto-secundario);
     font-weight: bold;
     text-transform: uppercase;
 }
-date-selector input {
+.date-selector input {
     background: #0f172a;
     color: white;
     border: 1px solid var(--borde);
@@ -67,7 +65,6 @@ date-selector input {
     font-weight: 500;
 }
 
-/* --- BOTONES DE TURNO (M/N) --- */
 .btn-turno {
     display: inline-flex;
     align-items: center;
@@ -98,7 +95,6 @@ date-selector input {
     transform: scale(0.95);
 }
 
-/* BANNER PATROCINADORES */
 .banner-sponsors {
     background: rgba(30, 41, 59, 0.3);
     padding: 10px 0;
@@ -112,10 +108,9 @@ date-selector input {
     font-weight: 600;
 }
 
-/* DASHBOARD */
 .container { max-width: 1200px; margin: 30px auto; padding: 0 15px; }
 
-dashboard-macro {
+.dashboard-macro {
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 25px;
@@ -129,7 +124,6 @@ dashboard-macro {
     border: 1px solid var(--borde);
 }
 
-/* --- MAGIA FLEXBOX PARA ALINEAR ALTURAS --- */
 .resumen-card {
     display: flex;
     flex-direction: column;
@@ -144,7 +138,6 @@ dashboard-macro {
     overflow: visible;
 }
 
-/* LECTURAS Y SCROLLBOX */
 .etiqueta-tiempo {
     display: inline-block;
     background-color: var(--fondo-oscuro);
@@ -171,7 +164,6 @@ dashboard-macro {
     color: #cbd5e1; 
     text-align: left; 
     padding-right: 15px;  
-    
     flex: 1 1 auto;
     min-height: 0;
     max-height: none;
@@ -179,15 +171,13 @@ dashboard-macro {
     white-space: normal;
 }
 
-/* Diseño de la barrita de scroll */
 #analisis-profundo::-webkit-scrollbar { width: 6px; }
 #analisis-profundo::-webkit-scrollbar-thumb { background: var(--azul-acento); border-radius: 10px; }
 #analisis-profundo::-webkit-scrollbar-track { background: var(--fondo-oscuro); }
 
-/* TENDENCIAS Y TWEET DESTACADO */
 .temas-card h3, .destacado-card h3 { color: var(--azul-acento); margin-bottom: 15px; }
 
-temas-card li { 
+.temas-card li { 
     background: #0f172a; 
     margin-bottom: 8px; 
     padding: 8px 12px; 
@@ -215,9 +205,6 @@ temas-card li {
     text-align: right;
 }
 
-/* =========================================
-   GRILLA DE GOBERNADORES
-========================================= */
 .gobernadores-micro h2 { margin-bottom: 5px; color: var(--texto-principal); }
 .instruccion { color: var(--texto-secundario); margin-bottom: 20px; font-size: 0.9rem; }
 
@@ -227,32 +214,20 @@ temas-card li {
     grid-template-columns: 1fr; 
 }
 
-/* Celulares grandes (S) */
 @media (min-width: 480px) {
-    .grilla {
-        grid-template-columns: repeat(2, 1fr);
-    }
+    .grilla { grid-template-columns: repeat(2, 1fr); }
 }
 
-/* Tablets (M) */
 @media (min-width: 768px) {
-    .grilla {
-        grid-template-columns: repeat(3, 1fr);
-    }
+    .grilla { grid-template-columns: repeat(3, 1fr); }
 }
 
-/* Laptops y Monitores normales (L) */
 @media (min-width: 1024px) {
-    .grilla {
-        grid-template-columns: repeat(4, 1fr);
-    }
+    .grilla { grid-template-columns: repeat(4, 1fr); }
 }
 
-/* Monitores Ultra Anchos (XL) */
 @media (min-width: 1440px) {
-    .grilla {
-        grid-template-columns: repeat(6, 1fr);
-    }
+    .grilla { grid-template-columns: repeat(6, 1fr); }
 }
 
 .tarjeta-gob {
@@ -289,9 +264,6 @@ temas-card li {
     line-height: 1.3;
 }
 
-/* =========================================
-   VENTANA FLOTANTE Y FOTO INTERNA (MODAL)
-========================================= */
 #modal-detalle {
     position: fixed; 
     top: 0;
@@ -416,7 +388,6 @@ temas-card li {
     .modal-content { width: 95%; padding: 20px; }
     #modal-bio { flex-direction: column; text-align: center; }
 
-    /* Anula el scroll interno en móvil — max-height: none es la clave */
     #analisis-profundo {
         height: auto;
         min-height: 0;
@@ -428,7 +399,6 @@ temas-card li {
         overflow: visible;
     }
 
-    /* Apilar botones en celulares */
     .btn-cta, .btn-turno {
         display: flex;
         width: 100%;
@@ -438,9 +408,6 @@ temas-card li {
     }
 }
 
-/* =========================================
-   BOTONERAS DE ACCIÓN RÁPIDA (COMPARTIR/COPIAR)
-========================================= */
 .acciones-rapidas {
     display: flex;
     gap: 8px;
@@ -469,9 +436,6 @@ temas-card li {
     transform: scale(1.05);
 }
 
-/* =========================================
-   SEMÁFORO DE CLIMA POLÍTICO
-========================================= */
 .semaforo {
     width: 14px;
     height: 14px;
@@ -481,25 +445,11 @@ temas-card li {
     transition: all 0.3s ease;
 }
 
-.semaforo.rojo { 
-    background-color: #ef4444; 
-    box-shadow: 0 0 12px rgba(239, 68, 68, 0.6); 
-}
-.semaforo.amarillo { 
-    background-color: #f59e0b; 
-    box-shadow: 0 0 12px rgba(245, 158, 11, 0.6); 
-}
-.semaforo.verde { 
-    background-color: #10b981; 
-    box-shadow: 0 0 12px rgba(16, 185, 129, 0.6); 
-}
-.semaforo.gris { 
-    background-color: #475569; 
-}
+.semaforo.rojo { background-color: #ef4444; box-shadow: 0 0 12px rgba(239, 68, 68, 0.6); }
+.semaforo.amarillo { background-color: #f59e0b; box-shadow: 0 0 12px rgba(245, 158, 11, 0.6); }
+.semaforo.verde { background-color: #10b981; box-shadow: 0 0 12px rgba(16, 185, 129, 0.6); }
+.semaforo.gris { background-color: #475569; }
 
-/* =========================================
-   BUSCADOR DE GOBERNADORES
-========================================= */
 .controles-grilla {
     margin-bottom: 25px;
     display: flex;
@@ -522,21 +472,14 @@ temas-card li {
     box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-#buscador-gobernadores::placeholder {
-    color: #64748b;
-}
+#buscador-gobernadores::placeholder { color: #64748b; }
 
 #buscador-gobernadores:focus {
     border-color: var(--azul-acento);
     box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.15);
 }
 
-/* =========================================
-   COMPORTAMIENTO GENERAL (SCROLL SUAVE) & CTA
-========================================= */
-html {
-    scroll-behavior: smooth; 
-}
+html { scroll-behavior: smooth; }
 
 .btn-cta {
     display: inline-flex;
@@ -563,9 +506,6 @@ html {
     border-color: #7dd3fc;
 }
 
-/* =========================================
-   FOOTER / ABOUT SECTION
-========================================= */
 .site-footer {
     background-color: #020617; 
     border-top: 1px solid var(--borde);
@@ -583,14 +523,8 @@ html {
     gap: 60px;
 }
 
-.footer-about {
-    flex: 1.5; 
-}
-
-.footer-credits {
-    flex: 1;
-    text-align: right; 
-}
+.footer-about { flex: 1.5; }
+.footer-credits { flex: 1; text-align: right; }
 
 .site-footer h4 {
     color: var(--texto-principal);
@@ -599,10 +533,7 @@ html {
     font-weight: 700;
 }
 
-.site-footer p {
-    margin-bottom: 10px;
-    line-height: 1.6;
-}
+.site-footer p { margin-bottom: 10px; line-height: 1.6; }
 
 .site-footer a {
     color: var(--azul-acento);
@@ -611,33 +542,17 @@ html {
     transition: color 0.2s ease;
 }
 
-.site-footer a:hover {
-    color: #7dd3fc;
-    text-decoration: underline;
-}
+.site-footer a:hover { color: #7dd3fc; text-decoration: underline; }
 
-.creditos-autor {
-    font-weight: bold;
-    color: #cbd5e1;
-}
+.creditos-autor { font-weight: bold; color: #cbd5e1; }
 
 @media (max-width: 768px) {
-    .footer-content {
-        flex-direction: column;
-        gap: 30px;
-    }
-    
-    .footer-credits {
-        text-align: left; 
-    }
-}
-.sidebar .card:not(:last-child) {
-    margin-bottom: 20px; 
+    .footer-content { flex-direction: column; gap: 30px; }
+    .footer-credits { text-align: left; }
 }
 
-/* =========================================
-   BOTÓN RESCATE (EFECTO TERONO)
-========================================= */
+.sidebar .card:not(:last-child) { margin-bottom: 20px; }
+
 .btn-rescate {
     background: var(--azul-acento);
     color: var(--fondo-oscuro);
