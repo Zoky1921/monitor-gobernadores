@@ -387,11 +387,12 @@ TWEETS A ANALIZAR:
             try:
                 resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=180)
                 resp_groq.raise_for_status()
-                raw_text = _extraer_texto_groq(resp_groq.json())
+                resp_groq_json = resp_groq.json()
+                raw_text = _extraer_texto_groq(resp_groq_json)
                 print("✅ Plan B (Groq con response_format) exitoso.")
                 # --- Captura de tokens Groq ---
                 try:
-                    uso_groq = resp_groq.json().get("usage", {})
+                    uso_groq = resp_groq_json.get("usage", {})
                     t_in_g = uso_groq.get("prompt_tokens", 0) or 0
                     t_out_g = uso_groq.get("completion_tokens", 0) or 0
                     registrar_consumo_tokens(t_in_g, t_out_g, modelo="meta-llama/llama-4-scout-17b-16e-instruct", turno_corrida=turno)
@@ -404,11 +405,12 @@ TWEETS A ANALIZAR:
                 try:
                     resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=180)
                     resp_groq.raise_for_status()
-                    raw_text = _extraer_texto_groq(resp_groq.json())
+                    resp_groq_json = resp_groq.json()
+                    raw_text = _extraer_texto_groq(resp_groq_json)
                     print("✅ Plan B (Groq sin response_format) exitoso.")
                     # --- Captura de tokens Groq ---
                     try:
-                        uso_groq = resp_groq.json().get("usage", {})
+                        uso_groq = resp_groq_json.get("usage", {})
                         t_in_g = uso_groq.get("prompt_tokens", 0) or 0
                         t_out_g = uso_groq.get("completion_tokens", 0) or 0
                         registrar_consumo_tokens(t_in_g, t_out_g, modelo="meta-llama/llama-4-scout-17b-16e-instruct", turno_corrida=turno)
