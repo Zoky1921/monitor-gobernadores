@@ -1,6 +1,7 @@
 import time
 import os
 import json
+import re
 import requests
 from datetime import datetime, timedelta, timezone
 from google import genai
@@ -286,7 +287,7 @@ TWEETS A ANALIZAR:
 
         # --- PLAN B: Groq (si Plan A no produjo texto) ---
         if not raw_text:
-            print("🔄 Activando Plan B: Groq llama-3.3-70b-versatile...")
+            print("🔄 Activando Plan B: Groq meta-llama/llama-4-scout-17b-16e-instruct (30k TPM)...")
             groq_key = os.environ.get("GROQ_API_KEY")
             if not groq_key:
                 raise EnvironmentError("❌ Falta GROQ_API_KEY y Gemini no respondió.")
@@ -297,25 +298,45 @@ TWEETS A ANALIZAR:
                 "Content-Type": "application/json",
             }
 
-            # --- Reducir contexto para Groq (máx 10 tweets por handle) ---
-            MAX_TWEETS_GROQ = 10
-            lineas_por_handle = {}
-            for linea in data_context.split("\n---\n"):
-                if not linea.strip():
-                    continue
-                handle = (
-                    linea.split("]")[0].replace("[@", "")
-                    if linea.startswith("[@") and "]" in linea
-                    else "_"
-                )
-                lineas_por_handle.setdefault(handle, [])
-                if len(lineas_por_handle[handle]) < MAX_TWEETS_GROQ:
-                    lineas_por_handle[handle].append(linea)
-            data_context_groq = "\n---\n".join(
-                tweet for tweets in lineas_por_handle.values() for tweet in tweets
-            )
+            # --- Pre-filtro de fechas para Groq (payload reduction ~20k → ~8k tokens) ---
+            # Calculamos las referencias temporales en zona Argentina
+            ayer_ar = ahora - timedelta(days=1)
+
+            # Formato con cero (ej: "Apr 05") y sin cero (ej: "Apr 5") para blindaje de inicio de mes
+            hoy_fmt_cero = ahora.strftime('%b %d')      # "Apr 05"
+            hoy_fmt_simple = ahora.strftime('%b %-d')   # "Apr 5"
+            ayer_fmt_cero = ayer_ar.strftime('%b %d')
+            ayer_fmt_simple = ayer_ar.strftime('%b %-d')
+
+            def _tweet_es_reciente(linea: str) -> bool:
+                """Devuelve True si el tweet es de hoy o de ayer después de las 20:00 hs AR."""
+                # Buscar el tweet de hoy (cualquier hora)
+                if hoy_fmt_cero in linea or hoy_fmt_simple in linea:
+                    return True
+                # Buscar tweet de ayer: debe existir la fecha de ayer Y una hora >= 20
+                if ayer_fmt_cero in linea or ayer_fmt_simple in linea:
+                    # Extraemos la hora del timestamp si está presente (formato "HH:" en el string)
+                    match_hora = re.search(r'(\d{1,2}):(\d{2}):\d{2}', linea)
+                    if match_hora:
+                        hora_tweet = int(match_hora.group(1))
+                        return hora_tweet >= 20
+                    # Si no podemos parsear la hora, incluimos el tweet (criterio conservador)
+                    return True
+                return False
+
+            lineas_filtradas = [
+                linea for linea in data_context.split("\n---\n")
+                if linea.strip() and _tweet_es_reciente(linea)
+            ]
+            data_context_groq = "\n---\n".join(lineas_filtradas)
             chars = len(data_context_groq)
-            print(f"📏 Contexto Groq reducido: {chars:,} caracteres ({len(lineas_por_handle)} gobernadores, máx {MAX_TWEETS_GROQ} tweets c/u)")
+            tweets_count = len(lineas_filtradas)
+            print(f"📏 Contexto Groq pre-filtrado por fecha: {chars:,} caracteres ({tweets_count} tweets recientes de hoy/ayer≥20hs)")
+
+            # Si el filtro fue demasiado agresivo y no quedó nada, caer back al data_context completo
+            if not data_context_groq.strip():
+                print("⚠️ Pre-filtro de fecha no encontró tweets recientes; usando contexto completo como fallback.")
+                data_context_groq = data_context
 
             prompt_groq = prompt
             prompt_marker = "TWEETS A ANALIZAR:\n"
@@ -327,7 +348,7 @@ TWEETS A ANALIZAR:
                 print("⚠️ No se pudo inyectar contexto reducido en prompt de Groq; se usará prompt original.")
 
             groq_payload = {
-                "model": "llama-3.3-70b-versatile",
+                "model": "meta-llama/llama-4-scout-17b-16e-instruct",
                 "messages": [
                     {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
                     {"role": "user", "content": prompt_groq},
@@ -344,7 +365,7 @@ TWEETS A ANALIZAR:
                 return (choices[0].get("message") or {}).get("content", "").strip()
 
             try:
-                resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=180)
+                resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=60)
                 resp_groq.raise_for_status()
                 raw_text = _extraer_texto_groq(resp_groq.json())
                 print("✅ Plan B (Groq con response_format) exitoso.")
@@ -353,7 +374,7 @@ TWEETS A ANALIZAR:
                 print(f"⚠️ Groq rechazó response_format ({http_err}). Reintentando sin él...")
                 groq_payload.pop("response_format", None)
                 try:
-                    resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=180)
+                    resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=60)
                     resp_groq.raise_for_status()
                     raw_text = _extraer_texto_groq(resp_groq.json())
                     print("✅ Plan B (Groq sin response_format) exitoso.")
