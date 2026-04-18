@@ -23,7 +23,7 @@ MODELO_GEMINI = "gemini-2.5-flash"
 client = genai.Client(api_key=GEMINI_KEY)
 
 
-def registrar_consumo_tokens(t_in: int, t_out: int, modelo: str, turno_corrida: str):
+def registrar_consumo_tokens(t_in: int, t_out: int, modelo: str = "gemini-2.5-flash", turno_corrida: str = ""):
     """
     Registra el consumo de tokens por corrida en SQLite para auditoría de costos.
     La DB se guarda en el repo (radar_federal.db) y se persiste vía git en el workflow.
