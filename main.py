@@ -1,6 +1,8 @@
 import time
 import os
 import json
+import re
+import sqlite3
 import requests
 from datetime import datetime, timedelta, timezone
 from google import genai
@@ -19,6 +21,37 @@ MODELO_GEMINI = "gemini-2.5-flash"
 
 # 2. Inicializar Gemini (Librería moderna)
 client = genai.Client(api_key=GEMINI_KEY)
+
+
+def registrar_consumo_tokens(t_in: int, t_out: int, modelo: str = "gemini-2.5-flash", turno_corrida: str = ""):
+    """
+    Registra el consumo de tokens por corrida en SQLite para auditoría de costos.
+    La DB se guarda en el repo (radar_federal.db) y se persiste vía git en el workflow.
+    """
+    try:
+        conn = sqlite3.connect('radar_federal.db')
+        cursor = conn.cursor()
+        cursor.execute('''
+            CREATE TABLE IF NOT EXISTS log_tokens (
+                id            INTEGER PRIMARY KEY AUTOINCREMENT,
+                fecha         TEXT,
+                turno         TEXT,
+                modelo        TEXT,
+                tokens_input  INTEGER,
+                tokens_output INTEGER,
+                tokens_total  INTEGER
+            )
+        ''')
+        total = t_in + t_out
+        cursor.execute('''
+            INSERT INTO log_tokens (fecha, turno, modelo, tokens_input, tokens_output, tokens_total)
+            VALUES (?, ?, ?, ?, ?, ?)
+        ''', (datetime.now(zona_ar).strftime("%Y-%m-%d %H:%M:%S"), turno_corrida, modelo, t_in, t_out, total))
+        conn.commit()
+        conn.close()
+        print(f"📊 [Tokens] {modelo} | input: {t_in:,} | output: {t_out:,} | total: {total:,}")
+    except Exception as e:
+        print(f"⚠️ Error al registrar tokens en DB: {e}")
 
 # --- 🕒 BLINDAJE HORARIO (ZONA ARGENTINA UTC-3) ---
 zona_ar = timezone(timedelta(hours=-3))
@@ -273,6 +306,14 @@ TWEETS A ANALIZAR:
                     raise ValueError("Gemini devolvió string vacío.")
                 raw_text = candidate
                 print("✅ Plan A exitoso.")
+                # --- Captura de tokens Gemini ---
+                try:
+                    usage = response.usage_metadata
+                    t_in = getattr(usage, 'prompt_token_count', 0) or 0
+                    t_out = getattr(usage, 'candidates_token_count', 0) or 0
+                    registrar_consumo_tokens(t_in, t_out, modelo=MODELO_GEMINI, turno_corrida=turno)
+                except Exception as e_tok:
+                    print(f"🔎 No se pudieron extraer metadatos de tokens de Gemini: {e_tok}")
                 break
 
             except Exception as e:
@@ -348,6 +389,14 @@ TWEETS A ANALIZAR:
                 resp_groq.raise_for_status()
                 raw_text = _extraer_texto_groq(resp_groq.json())
                 print("✅ Plan B (Groq con response_format) exitoso.")
+                # --- Captura de tokens Groq ---
+                try:
+                    uso_groq = resp_groq.json().get("usage", {})
+                    t_in_g = uso_groq.get("prompt_tokens", 0) or 0
+                    t_out_g = uso_groq.get("completion_tokens", 0) or 0
+                    registrar_consumo_tokens(t_in_g, t_out_g, modelo="meta-llama/llama-4-scout-17b-16e-instruct", turno_corrida=turno)
+                except Exception as e_tok:
+                    print(f"🔎 No se pudieron extraer metadatos de tokens de Groq: {e_tok}")
             except requests.HTTPError as http_err:
                 # Reintentar sin response_format
                 print(f"⚠️ Groq rechazó response_format ({http_err}). Reintentando sin él...")
@@ -357,6 +406,14 @@ TWEETS A ANALIZAR:
                     resp_groq.raise_for_status()
                     raw_text = _extraer_texto_groq(resp_groq.json())
                     print("✅ Plan B (Groq sin response_format) exitoso.")
+                    # --- Captura de tokens Groq ---
+                    try:
+                        uso_groq = resp_groq.json().get("usage", {})
+                        t_in_g = uso_groq.get("prompt_tokens", 0) or 0
+                        t_out_g = uso_groq.get("completion_tokens", 0) or 0
+                        registrar_consumo_tokens(t_in_g, t_out_g, modelo="meta-llama/llama-4-scout-17b-16e-instruct", turno_corrida=turno)
+                    except Exception as e_tok:
+                        print(f"🔎 No se pudieron extraer metadatos de tokens de Groq: {e_tok}")
                 except Exception as groq_err:
                     print(f"❌ Plan B también falló sin response_format: {groq_err}")
                     raise groq_err
