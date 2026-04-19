@@ -1,0 +1,88 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La agenda federal de las últimas 24 horas se caracteriza por un fuerte enfoque en la gestión provincial y la entrega de servicios básicos a nivel local. Gobernadores como @LeandroZdero (Chaco) y @NachoTorresCH (Chubut) destacaron el acceso a agua potable y gas natural, respectivamente, como logros significativos en sus administraciones. La seguridad pública también fue un tema central, con @NachoTorresCH (Chubut) informando sobre golpes al narcotráfico y @WeretilneckOK (Río Negro) comprometiéndose con mayor inversión y presencia policial. @Rolo_Figueroa (Neuquén) reafirmó su 'Modelo Neuquino' centrado en desarrollo y oportunidades, mientras @OsvaldoJaldo (Tucumán) celebró obras e infraestructura local. En general, el tono es de énfasis en la capacidad de gestión provincial y soluciones concretas, sin grandes fricciones con el gobierno nacional.",
+    "analisis_profundo": "Los tweets filtrados revelan un enfoque altamente localizado entre los pocos gobernadores activos en las últimas 24 horas. Hay un claro énfasis en obras públicas tangibles y la entrega directa de servicios a los ciudadanos, señalando un enfoque pragmático de la gobernanza. @LeandroZdero (Chaco) destacó un logro significativo al llevar agua potable a Napenay después de más de un siglo, posicionándolo como el cumplimiento de una deuda histórica y un cambio en las realidades locales, lo que subraya la importancia de los derechos básicos. De manera similar, @NachoTorresCH (Chubut) enfatizó el progreso en la extensión del gas natural a Valle Chico, lo que refleja un compromiso con la mejora de la calidad de vida, y reportó una operación contra el narcotráfico, mostrando atención tanto a los servicios esenciales como a la seguridad pública. El doble enfoque en el bienestar y el orden es un tema recurrente.\n\n@WeretilneckOK (Río Negro), en el contexto del Día Nacional de la Policía, emitió una contundente declaración política al comprometerse con 'más inversión, más control y más presencia en la calle', señalando una postura proactiva en materia de seguridad que va más allá del mero reconocimiento. Esto indica una determinación provincial para abordar el crimen de forma independiente. @Rolo_Figueroa (Neuquén) ofreció un compromiso más abstracto, pero firme, de 'Fortalecer el Modelo Neuquino', enfatizando el desarrollo y las oportunidades para sus constituyentes, lo que, en ausencia de acciones más específicas en las últimas 24 horas, sirve como principio rector para la visión a largo plazo de su administración. @OsvaldoJaldo (Tucumán) se centró en la inauguración de infraestructura local y el refuerzo de los servicios municipales en Burruyacú, conectando estas acciones con una visión más amplia de 'crecimiento con inclusión y un Estado presente'.\n\nNotablemente, hay una ausencia pronunciada de confrontación directa con el Gobierno Nacional o de grandes disputas interprovinciales en estas publicaciones recientes, un cambio respecto a días o semanas anteriores donde las reclamaciones federales eran más comunes. En cambio, los gobernadores parecen estar destacando colectivamente sus propias capacidades de gestión provincial y su habilidad para resolver problemas locales con sus propios recursos y voluntad política. Los temas de seguridad pública, infraestructura básica (agua, gas) y desarrollo local son recurrentes, lo que representa un enfoque pragmático y orientado a resultados a nivel subnacional en este período específico. Esto podría sugerir un período de consolidación de la gobernanza local, un giro estratégico lejos de las disputas federales en su mensaje público, o simplemente un ciclo de noticias más tranquilo en cuanto a las relaciones federales, con los gobernadores priorizando la gestión interna y los logros locales concretos.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de Infraestructura y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo y Modelo Provincial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK (Río Negro)",
+        "texto": "EN RÍO NEGRO HAY UNA POLICÍA QUE RESPONDE En el Día Nacional de la Policía, reconocemos a quienes todos los días están al frente de una tarea clave: cuidar a los rionegrinos. Hay una Policía que trabaja con compromiso, que pone el cuerpo en cada intervención y que está presente en cada barrio, incluso en los momentos más difíciles. Sabemos lo que implica ese trabajo: el riesgo, la responsabilidad y la vocación de servicio que hay detrás de cada operativo. Pero también marcamos un rumbo: más inversión, más control y más presencia en la calle. Porque no alcanza con reconocer, hay que acompañar con hechos. Estamos fortaleciendo a la Policía de Río Negro para que pueda hacer mejor su trabajo y para que la gente viva más tranquila. Ese es el rumbo.",
+        "por_que_es_clave": "Este tweet es clave por su énfasis en acciones concretas y políticas de estado para fortalecer la seguridad. Va más allá de un saludo protocolar, marcando un rumbo claro de 'más inversión, más control y más presencia en la calle', lo que demuestra una postura activa y diferenciada en un tema sensible.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura Hídrica",
+                "Servicios Básicos",
+                "Gestión Provincial"
+            ],
+            "postura_politica": "Enfatiza la capacidad de su gestión para resolver deudas históricas en infraestructura. Se posiciona como un gobierno que cumple promesas y genera cambios concretos en la calidad de vida de los chaqueños.",
+            "frase_fuerte": "Sabemos que todavía falta, pero estamos en el camino correcto, saldando deudas históricas y cambiando realidades."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el Narcotráfico",
+                "Servicios Energéticos",
+                "Vivienda y Calidad de Vida"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con la seguridad pública a través de acciones concretas contra el narcotráfico. Además, subraya su enfoque en la provisión de servicios esenciales, como el gas, para mejorar la calidad de vida de los chubutenses, marcando una diferencia con gestiones anteriores.",
+            "frase_fuerte": "Porque el gas no es un lujo: es calefacción, es calidad de vida y es la posibilidad de habitar un verdadero hogar con todos los servicios, como corresponde."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Modelo de Desarrollo Provincial",
+                "Empleo y Oportunidades"
+            ],
+            "postura_politica": "Reafirma su visión de una provincia orientada al desarrollo, la generación de empleo y la creación de oportunidades, bajo un 'Modelo Neuquino' que prioriza a su gente. La declaración es de carácter más estratégico e ideológico.",
+            "frase_fuerte": "Fortalecer el Modelo Neuquino es continuar un rumbo que pone en primer lugar el desarrollo, el trabajo y las oportunidades para nuestra gente."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad Pública",
+                "Inversión Policial",
+                "Gestión Provincial"
+            ],
+            "postura_politica": "Aprovecha una fecha conmemorativa para enfocar en la política de seguridad, destacando la inversión, control y presencia policial como ejes de su gestión. Subraya la importancia de 'acompañar con hechos' y fortalecer la institución para el bienestar de los ciudadanos.",
+            "frase_fuerte": "Pero también marcamos un rumbo: más inversión, más control y más presencia en la calle. Porque no alcanza con reconocer, hay que acompañar con hechos."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra Pública Local",
+                "Gestión Municipal",
+                "Inclusión Social",
+                "Rol del Estado"
+            ],
+            "postura_politica": "Subraya el compromiso de su gobierno con el desarrollo local y la mejora de la calidad de vida a través de obras concretas y apoyo a los municipios. Defiende un modelo de 'Estado presente' que trabaja en conjunto con las comunidades, enfocado en el crecimiento con inclusión.",
+            "frase_fuerte": "Este es el modelo de provincia que defendemos: crecimiento con inclusión, obras concretas y un Estado presente que no mira para otro lado, sino que acompaña, invierte y trabaja codo a codo con cada municipio y cada comuna."
+        }
+    ]
+}
