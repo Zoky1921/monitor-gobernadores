@@ -1,0 +1,76 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "Los gobernadores provinciales argentinos se expresaron sobre diversos temas, como el fallecimiento de Luis Brandoni, la educación en Neuquén, la seguridad en Río Negro y el desarrollo económico.",
+    "analisis_profundo": "Los gobernadores provinciales argentinos publicaron varios tweets hoy, abordando temas como el fallecimiento de Luis Brandoni, un referente de la cultura argentina. El gobernador de la Ciudad de Buenos Aires, Jorge Macri, expresó su tristeza por la pérdida de Luis Brandoni. Los gobernadores de Corrientes, Gustavo Valdés, y de Mendoza, Alfredo Cornejo, también lamentaron su partida. Por otro lado, el gobernador de Neuquén, Rolo Figueroa, destacó la importancia de la educación en su provincia y anunció medidas para apoyar a los estudiantes. El gobernador de Río Negro, Weretilneck, se refirió a la seguridad en su provincia y a la construcción de rutas.",
+    "temas_calientes": [
+        {
+            "tema": "Fallecimiento de Luis Brandoni",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@gustavovaldesok",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Educación en Neuquén",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad en Río Negro",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "LA EDUCACIÓN EN NEUQUÉN ES PRIORIDAD",
+        "por_que_es_clave": "El gobernador de Neuquén destaca la importancia de la educación en su provincia y anuncia medidas para apoyar a los estudiantes.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Fallecimiento de Luis Brandoni"
+            ],
+            "postura_politica": "El gobernador de la Ciudad de Buenos Aires lamentó el fallecimiento de Luis Brandoni.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Fallecimiento de Luis Brandoni"
+            ],
+            "postura_politica": "El gobernador de Corrientes expresó su tristeza por la pérdida de Luis Brandoni.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Fallecimiento de Luis Brandoni"
+            ],
+            "postura_politica": "El gobernador de Mendoza lamentó el fallecimiento de Luis Brandoni.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Educación en Neuquén"
+            ],
+            "postura_politica": "El gobernador de Neuquén destacó la importancia de la educación en su provincia.",
+            "frase_fuerte": "LA EDUCACIÓN EN NEUQUÉN ES PRIORIDAD"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad en Río Negro"
+            ],
+            "postura_politica": "El gobernador de Río Negro se refirió a la seguridad en su provincia.",
+            "frase_fuerte": null
+        }
+    ]
+}
