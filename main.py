@@ -11,6 +11,7 @@ from google.genai import types
 # 1. Cargar llaves
 TWITTERAPI_KEY = os.environ.get("TWITTERAPI_KEY")
 GEMINI_KEY = os.environ.get('GEMINI_API_KEY')
+OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 
 if not TWITTERAPI_KEY:
     raise EnvironmentError("❌ Falta la variable de entorno: TWITTERAPI_KEY")
@@ -18,6 +19,7 @@ if not GEMINI_KEY:
     raise EnvironmentError("❌ Falta la variable de entorno: GEMINI_API_KEY")
 
 MODELO_GEMINI = "gemini-2.5-flash"
+MODELO_DEEPSEEK = "deepseek/deepseek-v3.2"
 
 # 2. Inicializar Gemini (Librería moderna)
 client = genai.Client(api_key=GEMINI_KEY)
@@ -52,38 +54,34 @@ def registrar_consumo_tokens(t_in: int, t_out: int, modelo: str = "gemini-2.5-fl
 # --- 🕒 BLINDAJE HORARIO (ZONA ARGENTINA UTC-3) ---
 zona_ar = timezone(timedelta(hours=-3))
 ahora = datetime.now(zona_ar)
-fecha_hoy_str = ahora.strftime('%Y-%m-%d') 
-fecha_pantalla = ahora.strftime('%d/%m/%Y') 
+fecha_hoy_str = ahora.strftime('%Y-%m-%d')
+fecha_pantalla = ahora.strftime('%d/%m/%Y')
 hora_corte = ahora.strftime('%H:%M')
 
-# ---> NUEVO: Definición del turno <---
+# ---> Definición del turno <---
 if ahora.hour < 15:
     turno = "manana"
 else:
     turno = "noche"
 
-print(f"Iniciando radar para la fecha: {fecha_hoy_str} a las {hora_corte} hs (Hora Argentina)")
-print(f"--- Ejecutando turno: {turno.upper()} ---")
-
 def obtener_tweets_twitterapi(handle):
     url = "https://api.twitterapi.io/twitter/user/last_tweets"
     querystring = {"userName": handle}
-    
+
     headers = {
         "X-API-Key": TWITTERAPI_KEY
     }
-    
+
     try:
         response = requests.get(url, headers=headers, params=querystring, timeout=30)
         response.raise_for_status()
         data = response.json()
-        
+
         tweets_texto = []
 
         # Extraemos la lista de la "doble caja" específica de TwitterAPI.io
         lista_tweets = []
         if isinstance(data, dict):
-            # Buscamos la ruta exacta: data -> data -> tweets
             if 'data' in data and isinstance(data['data'], dict) and 'tweets' in data['data']:
                 lista_tweets = data['data']['tweets']
             elif 'tweets' in data:
@@ -92,129 +90,112 @@ def obtener_tweets_twitterapi(handle):
                 lista_tweets = data['data']
         else:
             lista_tweets = data
-        
+
         if not isinstance(lista_tweets, list):
             print(f"Formato inesperado devuelto para @{handle}. LOG: {str(data)[:200]}")
             return []
 
         for t in lista_tweets:
             texto_base = t.get('full_text') or t.get('text')
-            
+
             es_rt_flag = str(t.get('isRetweet')).lower() == 'true'
             tiene_rt_dict = isinstance(t.get('retweeted_tweet'), dict) and len(t.get('retweeted_tweet')) > 0
             empieza_con_rt = bool(texto_base) and texto_base.startswith('RT @')
-            
+
             is_rt = es_rt_flag or tiene_rt_dict or empieza_con_rt
-            
-            # --- NUEVO: Búsqueda del autor original del RT ---
+
+            # --- Búsqueda del autor original del RT ---
             autor_original = ""
             if tiene_rt_dict:
-                # Buscamos en el diccionario del RT original
                 usuario_rt = t['retweeted_tweet'].get('user') or t['retweeted_tweet'].get('author') or {}
                 if isinstance(usuario_rt, dict):
                     autor_original = usuario_rt.get('screen_name') or usuario_rt.get('userName') or usuario_rt.get('username') or ""
-            
-            # Plan B: Si la API no trajo el diccionario, lo cortamos "a mano" del texto
+
             if not autor_original and texto_base and texto_base.startswith('RT @'):
                 partes = texto_base.split(' ', 2)
                 if len(partes) > 1:
-                    # Limpiamos los dos puntos y el arroba para que quede prolijo
                     autor_original = partes[1].replace(':', '').replace('@', '')
-            # -------------------------------------------------
-            
+
             if tiene_rt_dict:
                 texto_final = t['retweeted_tweet'].get('full_text') or t['retweeted_tweet'].get('text') or texto_base
             else:
                 texto_final = texto_base
 
             if texto_final and isinstance(texto_final, str) and texto_final.strip():
-                # --- NUEVO: Armado del prefijo personalizado ---
                 if is_rt:
                     prefijo = f"[RE-TWEET de @{autor_original}] " if autor_original else "[RE-TWEET] "
                 else:
                     prefijo = ""
-                    
+
                 fecha = t.get('createdAt') or t.get('created_at', 'Fecha desconocida')
                 tweets_texto.append(f"(Publicado: {fecha}) {prefijo}{texto_final}")
 
             if len(tweets_texto) >= 40:
                 break
-                    
+
         return tweets_texto
-        
+
     except Exception as e:
         print(f"Error buscando a @{handle}: {e}")
         return []
 
 def ejecutar_monitoreo():
     try:
-        # --- PING PREVENTIVO A GEMINI (antes de gastar créditos de Twitter) ---
-        print("🔌 Verificando disponibilidad de Gemini antes de iniciar...")
-        try:
-            try:
-                client.models.get(model=MODELO_GEMINI)
-            except AttributeError:
-                # El SDK instalado no soporta .get(); hacemos un ping mínimo (usa ~1 token de entrada)
-                client.models.generate_content(
-                    model=MODELO_GEMINI,
-                    contents="ping",
-                    config=types.GenerateContentConfig(max_output_tokens=1)
-                )
-            print("✅ Gemini disponible. Continuando...")
-        except Exception as e:
-            error_msg = str(e)
-            if any(code in error_msg for code in ("503", "UNAVAILABLE", "429", "RESOURCE_EXHAUSTED")):
-                print(f"🚫 Gemini no disponible ({error_msg[:120]}). Abortando para no gastar créditos de Twitter.")
-                return
-            else:
-                print(f"⚠️ Ping a Gemini falló con error desconocido: {error_msg[:120]}. Continuando de todos modos...")
-
         print(f"Iniciando radar para la fecha: {fecha_hoy_str} a las {hora_corte} hs (Hora Argentina)")
-        
+        print(f"--- Ejecutando turno: {turno.upper()} ---")
+
         # --- ABRIR LA LISTA DE GOBERNADORES ---
         with open('gobernadores.json', 'r', encoding='utf-8') as f:
             gobernadores = json.load(f)
 
         handles = [g['usuario_x'] for g in gobernadores]
 
-        print(f"--- Iniciando extracción con RapidAPI para {len(handles)} perfiles ---")
-
         data_context = ""
-        diccionario_crudo = {} # Para el archivo histórico
+        diccionario_crudo = {}  # Para el archivo histórico
 
-        # --- CICLO DE RECOLECCIÓN ---
-        for handle in handles:
-            print(f"Buscando tweets de @{handle}...")
-            tweets = obtener_tweets_twitterapi(handle)
-            
-            diccionario_crudo[handle] = tweets
+        os.makedirs('data', exist_ok=True)
+        ruta_crudo = f'data/{fecha_hoy_str}_crudo_{turno}.json'
 
-            for t in tweets:
-                data_context += f"[@{handle}]: {t}\n---\n"
-            
-            # 5 segundos de espera obligatorios para no saturar RapidAPI (ahora usa otra api)
-            time.sleep(5) 
+        # --- ♻️ SISTEMA DE RECICLAJE O RECOLECCIÓN ---
+        if os.path.exists(ruta_crudo):
+            print("♻️ Usando tweets reciclados del disco")
+            with open(ruta_crudo, 'r', encoding='utf-8') as f:
+                diccionario_crudo = json.load(f)
+
+            # Reconstruimos el data_context vital para el prompt
+            for handle, tweets in diccionario_crudo.items():
+                if not isinstance(tweets, list):
+                    continue
+                for t in tweets:
+                    data_context += f"[@{handle}]: {t}\n---\n"
+        else:
+            print(f"--- Iniciando extracción con TwitterAPI para {len(handles)} perfiles ---")
+            for handle in handles:
+                print(f"Buscando tweets de @{handle}...")
+                tweets = obtener_tweets_twitterapi(handle)
+
+                diccionario_crudo[handle] = tweets
+
+                for t in tweets:
+                    data_context += f"[@{handle}]: {t}\n---\n"
+
+                time.sleep(5)
+
+            # Guardamos el archivo crudo nuevo
+            with open(ruta_crudo, 'w', encoding='utf-8') as f:
+                json.dump(diccionario_crudo, f, ensure_ascii=False, indent=4)
+            print(f"✅ Archivo crudo guardado: {ruta_crudo}")
 
         if not data_context:
             print("No se encontraron tweets nuevos hoy.")
             return
 
-        # --- GUARDAR EL ARCHIVO CRUDO ---
-        os.makedirs('data', exist_ok=True)
-        # Le agregamos el turno al final del nombre, antes del .json
-        ruta_crudo = f'data/{fecha_hoy_str}_crudo_{turno}.json'
-        with open(ruta_crudo, 'w', encoding='utf-8') as f:
-            json.dump(diccionario_crudo, f, ensure_ascii=False, indent=4)
-        print(f"✅ Archivo crudo guardado: {ruta_crudo}")
-        
         # --- NUEVA VERIFICACIÓN DE SEGURIDAD ---
-        # Filtramos quiénes tienen al menos un tweet recolectado
-        gobernadores_con_datos = [h for h, t in diccionario_crudo.items() if len(t) > 0]
-        
-        # Podés ajustar este número (ej: 5) según tu criterio de representatividad
+        gobernadores_con_datos = [h for h, t in diccionario_crudo.items() if isinstance(t, list) and len(t) > 0]
+
         if len(gobernadores_con_datos) < 5:
             print(f"⚠️ Monitoreo insuficiente: Solo se hallaron datos de {len(gobernadores_con_datos)} gobernadores.")
-            print("Abortando llamada a Gemini para evitar análisis sesgado y ahorrar tokens.")
+            print("Abortando llamada a IA para evitar análisis sesgado y ahorrar tokens.")
             return
 
         # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA ---
@@ -284,7 +265,7 @@ TWEETS A ANALIZAR:
         # --- PLAN A: Gemini (6 intentos, backoff incremental) ---
         print("🚀 Plan A: Enviando los perfiles a Gemini...")
         intentos_max = 6
-        espera_base_seg = 300  # empieza en 5 min, sube hasta 15 min
+        espera_base_seg = 300
 
         raw_text = ""
         for i in range(intentos_max):
@@ -304,7 +285,7 @@ TWEETS A ANALIZAR:
                 print("✅ Plan A exitoso.")
                 try:
                     usage = response.usage_metadata
-                    t_in  = getattr(usage, 'prompt_token_count', 0) or 0
+                    t_in = getattr(usage, 'prompt_token_count', 0) or 0
                     t_out = getattr(usage, 'candidates_token_count', 0) or 0
                     registrar_consumo_tokens(t_in, t_out, modelo=MODELO_GEMINI, turno_corrida=turno)
                 except Exception as e_tok:
@@ -320,12 +301,56 @@ TWEETS A ANALIZAR:
                 else:
                     print(f"❌ Plan A agotado tras {intentos_max} intentos: {error_msg[:120]}")
 
-        # --- PLAN B: Groq (si Plan A no produjo texto) ---
+        # --- PLAN B: DeepSeek V3.2 (OpenRouter) ---
         if not raw_text:
-            print("🔄 Activando Plan B: Groq meta-llama/llama-4-scout-17b-16e-instruct (30k TPM)...")
+            print(f"🔄 Activando Plan B: {MODELO_DEEPSEEK} vía OpenRouter...")
+
+            if not OPENROUTER_API_KEY:
+                print("⚠️ Falta OPENROUTER_API_KEY. Saltando directamente al Plan C (Groq).")
+            else:
+                or_url = "https://openrouter.ai/api/v1/chat/completions"
+                or_headers = {
+                    "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+                    "Content-Type": "application/json"
+                }
+                or_payload = {
+                    "model": MODELO_DEEPSEEK,
+                    "messages": [
+                        {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
+                        {"role": "user", "content": prompt}
+                    ],
+                    "temperature": 0.2,
+                    "max_tokens": 5000,
+                    "response_format": {"type": "json_object"}
+                }
+
+                try:
+                    resp_or = requests.post(or_url, headers=or_headers, json=or_payload, timeout=90)
+                    resp_or.raise_for_status()
+
+                    choices = resp_or.json().get("choices", [])
+                    if not choices:
+                        print("⚠️ OpenRouter respondió sin choices. Pasando al Plan C...")
+                    else:
+                        raw_text = choices[0].get("message", {}).get("content", "").strip()
+                        print("✅ Plan B (DeepSeek) exitoso.")
+
+                        try:
+                            uso_or = resp_or.json().get("usage", {})
+                            t_in_or = uso_or.get("prompt_tokens", 0) or 0
+                            t_out_or = uso_or.get("completion_tokens", 0) or 0
+                            registrar_consumo_tokens(t_in_or, t_out_or, modelo="deepseek-v3.2", turno_corrida=turno)
+                        except Exception as e_tok:
+                            print(f"🔎 No se pudieron extraer metadatos de tokens de OpenRouter: {e_tok}")
+                except Exception as e_or:
+                    print(f"⚠️ Plan B (DeepSeek) falló: {e_or}. Pasando al Plan C...")
+
+        # --- PLAN C: Groq (si Plan A y Plan B no produjeron texto) ---
+        if not raw_text:
+            print("🔄 Activando Plan C: Groq meta-llama/llama-4-scout-17b-16e-instruct (30k TPM)...")
             groq_key = os.environ.get("GROQ_API_KEY")
             if not groq_key:
-                raise EnvironmentError("❌ Falta GROQ_API_KEY y Gemini no respondió.")
+                raise EnvironmentError("❌ Falta GROQ_API_KEY y la IA anterior no respondió.")
 
             groq_url = "https://api.groq.com/openai/v1/chat/completions"
             groq_headers = {
@@ -333,29 +358,27 @@ TWEETS A ANALIZAR:
                 "Content-Type": "application/json",
             }
 
-            # --- Pre-filtro de fechas para Groq (payload reduction ~20k → ~8k tokens) ---
-            # Calculamos las referencias temporales en zona Argentina
             ayer_ar = ahora - timedelta(days=1)
-
-            # Formato con cero (ej: "Apr 05") y sin cero (ej: "Apr 5") para blindaje de inicio de mes
-            hoy_fmt_cero = ahora.strftime('%b %d')      # "Apr 05"
-            hoy_fmt_simple = ahora.strftime('%b %-d')   # "Apr 5"
+            hoy_fmt_cero = ahora.strftime('%b %d')
+            try:
+                hoy_fmt_simple = ahora.strftime('%b %-d')
+            except ValueError:
+                # Compatibilidad Windows (no soporta %-d)
+                hoy_fmt_simple = ahora.strftime('%b %d').replace(' 0', ' ')
             ayer_fmt_cero = ayer_ar.strftime('%b %d')
-            ayer_fmt_simple = ayer_ar.strftime('%b %-d')
+            try:
+                ayer_fmt_simple = ayer_ar.strftime('%b %-d')
+            except ValueError:
+                ayer_fmt_simple = ayer_ar.strftime('%b %d').replace(' 0', ' ')
 
             def _tweet_es_reciente(linea: str) -> bool:
-                """Devuelve True si el tweet es de hoy o de ayer después de las 20:00 hs AR."""
-                # Buscar el tweet de hoy (cualquier hora)
                 if hoy_fmt_cero in linea or hoy_fmt_simple in linea:
                     return True
-                # Buscar tweet de ayer: debe existir la fecha de ayer Y una hora >= 20
                 if ayer_fmt_cero in linea or ayer_fmt_simple in linea:
-                    # Extraemos la hora del timestamp si está presente (formato "HH:" en el string)
                     match_hora = re.search(r'(\d{1,2}):(\d{2}):\d{2}', linea)
                     if match_hora:
                         hora_tweet = int(match_hora.group(1))
                         return hora_tweet >= 20
-                    # Si no podemos parsear la hora, incluimos el tweet (criterio conservador)
                     return True
                 return False
 
@@ -366,9 +389,8 @@ TWEETS A ANALIZAR:
             data_context_groq = "\n---\n".join(lineas_filtradas)
             chars = len(data_context_groq)
             tweets_count = len(lineas_filtradas)
-            print(f"📏 Contexto Groq pre-filtrado por fecha: {chars:,} caracteres ({tweets_count} tweets recientes de hoy/ayer≥20hs)")
+            print(f"📏 Contexto Groq pre-filtrado por fecha: {chars:,} caracteres ({tweets_count} tweets recientes)")
 
-            # Si el filtro fue demasiado agresivo y no quedó nada, caer back al data_context completo
             if not data_context_groq.strip():
                 print("⚠️ Pre-filtro de fecha no encontró tweets recientes; usando contexto completo como fallback.")
                 data_context_groq = data_context
@@ -379,8 +401,6 @@ TWEETS A ANALIZAR:
                 prompt_groq = prompt.rsplit(prompt_marker, 1)[0] + prompt_marker + data_context_groq
             elif data_context and data_context in prompt:
                 prompt_groq = prompt.replace(data_context, data_context_groq, 1)
-            else:
-                print("⚠️ No se pudo inyectar contexto reducido en prompt de Groq; se usará prompt original.")
 
             groq_payload = {
                 "model": "meta-llama/llama-4-scout-17b-16e-instruct",
@@ -403,41 +423,40 @@ TWEETS A ANALIZAR:
                 resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=60)
                 resp_groq.raise_for_status()
                 raw_text = _extraer_texto_groq(resp_groq.json())
-                print("✅ Plan B (Groq con response_format) exitoso.")
+                print("✅ Plan C (Groq con response_format) exitoso.")
                 try:
                     uso_groq = resp_groq.json().get("usage", {})
-                    t_in_g  = uso_groq.get("prompt_tokens", 0) or 0
+                    t_in_g = uso_groq.get("prompt_tokens", 0) or 0
                     t_out_g = uso_groq.get("completion_tokens", 0) or 0
                     registrar_consumo_tokens(t_in_g, t_out_g, modelo="meta-llama/llama-4-scout-17b-16e-instruct", turno_corrida=turno)
-                except Exception as e_tok:
-                    print(f"🔎 No se pudieron extraer metadatos de tokens de Groq: {e_tok}")
+                except Exception:
+                    pass
             except requests.HTTPError as http_err:
-                # Reintentar sin response_format
                 print(f"⚠️ Groq rechazó response_format ({http_err}). Reintentando sin él...")
                 groq_payload.pop("response_format", None)
                 try:
                     resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=60)
                     resp_groq.raise_for_status()
                     raw_text = _extraer_texto_groq(resp_groq.json())
-                    print("✅ Plan B (Groq sin response_format) exitoso.")
+                    print("✅ Plan C (Groq sin response_format) exitoso.")
                     try:
                         uso_groq = resp_groq.json().get("usage", {})
-                        t_in_g  = uso_groq.get("prompt_tokens", 0) or 0
+                        t_in_g = uso_groq.get("prompt_tokens", 0) or 0
                         t_out_g = uso_groq.get("completion_tokens", 0) or 0
                         registrar_consumo_tokens(t_in_g, t_out_g, modelo="meta-llama/llama-4-scout-17b-16e-instruct", turno_corrida=turno)
-                    except Exception as e_tok:
-                        print(f"🔎 No se pudieron extraer metadatos de tokens de Groq: {e_tok}")
+                    except Exception:
+                        pass
                 except Exception as groq_err:
-                    print(f"❌ Plan B también falló sin response_format: {groq_err}")
+                    print(f"❌ Plan C también falló sin response_format: {groq_err}")
                     raise groq_err
 
         if not raw_text:
-            raise RuntimeError("❌ Ni Gemini ni Groq devolvieron respuesta.")
+            raise RuntimeError("❌ Ni Gemini, ni DeepSeek, ni Groq devolvieron respuesta.")
 
         # --- LIMPIEZA DE SEGURIDAD PARA EL JSON ---
         if raw_text and raw_text.startswith("```"):
             raw_text = raw_text.replace("```json", "").replace("```", "").strip()
-        
+
         try:
             resumen_data = json.loads(raw_text)
         except json.JSONDecodeError as e:
@@ -451,15 +470,13 @@ TWEETS A ANALIZAR:
         if "tweet_destacado" in resumen_data:
             tweet_del_dia = resumen_data["tweet_destacado"]
             pregunta = tweet_del_dia.get("pregunta_openarg")
-            
-            # Seteamos null por defecto para evitar errores en la web
+
             tweet_del_dia["verificacion_openarg"] = None
-        
-            # Validamos que la pregunta exista y no sea la palabra "null"
+
             if pregunta and str(pregunta).lower() != "null":
                 print(f"🔍 Disparando a OpenArg: {pregunta}")
                 openarg_key = os.environ.get("OPENARG_API_KEY")
-                
+
                 if openarg_key:
                     url_openarg = "https://api.openarg.org/api/v1/ask"
                     headers = {"Authorization": f"Bearer {openarg_key}", "Content-Type": "application/json"}
@@ -467,9 +484,7 @@ TWEETS A ANALIZAR:
                         resp_openarg = requests.post(url_openarg, headers=headers, json={"question": pregunta}, timeout=30)
                         if resp_openarg.status_code == 200:
                             respuesta = resp_openarg.json().get("answer", "")
-                            # Filtramos las respuestas que no tienen datos reales
                             if "no reflejan" not in respuesta and "Los datos disponibles son de" not in respuesta:
-                                # Guardamos la respuesta (limitada a 200 caracteres para la UI)
                                 tweet_del_dia["verificacion_openarg"] = respuesta[:200] + "..." if len(respuesta) > 200 else respuesta
                                 print("✅ Dato OpenArg agregado al JSON.")
                             else:
