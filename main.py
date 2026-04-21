@@ -517,7 +517,7 @@ FILTRO TEMPORAL Y ACTUALIDAD ESTRICTA: IGNORA POR COMPLETO cualquier tweet que n
 REGLA DE NOMENCLATURA (CRÍTICA): Cada vez que menciones a un gobernador, DEBES incluir el nombre de su provincia entre paréntesis inmediatamente después. Ejemplo: "Maximiliano Pullaro (Santa Fe)".
 DOBLE VELOCIDAD DE LECTURA:
 "Resumen Ejecutivo": Redacta un panorama hiper directo de 1 solo párrafo destapando el verdadero conflicto de poder del día.
-"Análisis Profundo": Redacta un reporte analítico extenso conectando cómo se alinean las provincias contra Nación o entre ellas.
+"Análisis Profundo": Redacta un reporte analítico extenso aprox. 400 palabras, 3 minutos de lectura)conectando cómo se alinean las provincias contra Nación o entre ellas.
 JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales de la agenda federal. Para cada tendencia, DEBES listar los usuarios de X (@usuario) involucrados.
 TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político o veneno. REGLA CRÍTICA DE TIEMPO: SOLO puedes seleccionar un tweet si su fecha corresponde ESTRICTAMENTE AL DÍA DE HOY.
 Si no hay nada relevante hoy, tweet_destacado debe ser exactamente esta estructura nula:
