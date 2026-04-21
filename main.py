@@ -10,8 +10,9 @@ from google.genai import types
 
 # 1. Cargar llaves
 TWITTERAPI_KEY = os.environ.get("TWITTERAPI_KEY")
-GEMINI_KEY = os.environ.get('GEMINI_API_KEY')
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY")
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 
 if not TWITTERAPI_KEY:
     raise EnvironmentError("❌ Falta la variable de entorno: TWITTERAPI_KEY")
@@ -20,6 +21,7 @@ if not GEMINI_KEY:
 
 MODELO_GEMINI = "gemini-2.5-flash"
 MODELO_DEEPSEEK = "deepseek/deepseek-v3.2"
+MODELO_GROK_SUBTRAMA = "x-ai/grok-4.1-fast"
 
 # 2. Inicializar Gemini (Librería moderna)
 client = genai.Client(api_key=GEMINI_KEY)
@@ -64,13 +66,53 @@ if ahora.hour < 15:
 else:
     turno = "noche"
 
+def _limpiar_json_llm(raw_text: str) -> str:
+    """Quita fences tipo ```json ... ``` si el modelo los devuelve igual."""
+    if not raw_text:
+        return raw_text
+    t = raw_text.strip()
+    if t.startswith("```"):
+        t = t.replace("```json", "").replace("```", "").strip()
+    return t
+
+def _openrouter_chat_completions(modelo: str, prompt: str, timeout: int = 90, max_tokens: int = 5000, temperature: float = 0.2):
+    """Llamada estándar OpenRouter (estilo OpenAI chat.completions). Devuelve (raw_text, usage_dict)."""
+    if not OPENROUTER_API_KEY:
+        raise EnvironmentError("❌ Falta OPENROUTER_API_KEY")
+
+    url = "https://openrouter.ai/api/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "model": modelo,
+        "messages": [
+            {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
+            {"role": "user", "content": prompt},
+        ],
+        "temperature": temperature,
+        "max_tokens": max_tokens,
+        "response_format": {"type": "json_object"},
+    }
+
+    resp = requests.post(url, headers=headers, json=payload, timeout=timeout)
+    resp.raise_for_status()
+    rj = resp.json()
+
+    choices = rj.get("choices") or []
+    if not choices:
+        raise ValueError("OpenRouter devolvió respuesta sin 'choices'.")
+
+    content = (choices[0].get("message") or {}).get("content", "")
+    usage = rj.get("usage") or {}
+    return (content.strip() if isinstance(content, str) else ""), usage
+
 def obtener_tweets_twitterapi(handle):
     url = "https://api.twitterapi.io/twitter/user/last_tweets"
     querystring = {"userName": handle}
 
-    headers = {
-        "X-API-Key": TWITTERAPI_KEY
-    }
+    headers = {"X-API-Key": TWITTERAPI_KEY}
 
     try:
         response = requests.get(url, headers=headers, params=querystring, timeout=30)
@@ -150,19 +192,19 @@ def ejecutar_monitoreo():
 
         handles = [g['usuario_x'] for g in gobernadores]
 
+        # === PETRÓLEO ÚNICO ===
         data_context = ""
-        diccionario_crudo = {}  # Para el archivo histórico
+        diccionario_crudo = {}
 
-        os.makedirs('data', exist_ok=True)
-        ruta_crudo = f'data/{fecha_hoy_str}_crudo_{turno}.json'
+        os.makedirs("data", exist_ok=True)
+        ruta_crudo = f"data/{fecha_hoy_str}_crudo_{turno}.json"
 
         # --- ♻️ SISTEMA DE RECICLAJE O RECOLECCIÓN ---
         if os.path.exists(ruta_crudo):
             print("♻️ Usando tweets reciclados del disco")
-            with open(ruta_crudo, 'r', encoding='utf-8') as f:
+            with open(ruta_crudo, "r", encoding="utf-8") as f:
                 diccionario_crudo = json.load(f)
 
-            # Reconstruimos el data_context vital para el prompt
             for handle, tweets in diccionario_crudo.items():
                 if not isinstance(tweets, list):
                     continue
@@ -173,7 +215,6 @@ def ejecutar_monitoreo():
             for handle in handles:
                 print(f"Buscando tweets de @{handle}...")
                 tweets = obtener_tweets_twitterapi(handle)
-
                 diccionario_crudo[handle] = tweets
 
                 for t in tweets:
@@ -181,8 +222,7 @@ def ejecutar_monitoreo():
 
                 time.sleep(5)
 
-            # Guardamos el archivo crudo nuevo
-            with open(ruta_crudo, 'w', encoding='utf-8') as f:
+            with open(ruta_crudo, "w", encoding="utf-8") as f:
                 json.dump(diccionario_crudo, f, ensure_ascii=False, indent=4)
             print(f"✅ Archivo crudo guardado: {ruta_crudo}")
 
@@ -190,16 +230,19 @@ def ejecutar_monitoreo():
             print("No se encontraron tweets nuevos hoy.")
             return
 
-        # --- NUEVA VERIFICACIÓN DE SEGURIDAD ---
+        # --- VERIFICACIÓN DE SEGURIDAD ---
         gobernadores_con_datos = [h for h, t in diccionario_crudo.items() if isinstance(t, list) and len(t) > 0]
-
         if len(gobernadores_con_datos) < 5:
             print(f"⚠️ Monitoreo insuficiente: Solo se hallaron datos de {len(gobernadores_con_datos)} gobernadores.")
-            print("Abortando llamada a IA para evitar análisis sesgado y ahorrar tokens.")
+            print("Abortando llamadas a IA para evitar análisis sesgado y ahorrar tokens.")
             return
 
-        # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA ---
-        prompt = f"""
+        # =========================
+        # CAMINO 1: INSTITUCIONAL
+        # =========================
+        try:
+            # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA (INTOCABLE) ---
+            prompt_institucional = f"""
 Eres un Analista Político Senior y Consultor Estratégico experto en dinámicas federales en Argentina.
 Tu tarea es analizar los siguientes tweets crudos de los 24 gobernadores provinciales. Hoy es {fecha_pantalla} y son las {hora_corte} hs (Hora de Buenos Aires, GMT-3). Cada tweet incluye su fecha original de publicación.
 
@@ -262,247 +305,294 @@ TWEETS A ANALIZAR:
 {data_context}
 """
 
-        # --- PLAN A: Gemini (6 intentos, backoff incremental) ---
-        print("🚀 Plan A: Enviando los perfiles a Gemini...")
-        intentos_max = 6
-        espera_base_seg = 300
+            # --- PLAN A: Gemini (6 intentos, backoff incremental) ---
+            print("🚀 [Camino 1] Plan A: Gemini...")
+            intentos_max = 6
+            espera_base_seg = 300
 
-        raw_text = ""
-        for i in range(intentos_max):
-            try:
-                print(f"🚀 Gemini – Intento {i+1} de {intentos_max}...")
-                response = client.models.generate_content(
-                    model=MODELO_GEMINI,
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
-                        response_mime_type="application/json"
-                    )
-                )
-                candidate = response.text.strip() if response.text else ""
-                if not candidate:
-                    raise ValueError("Gemini devolvió string vacío.")
-                raw_text = candidate
-                print("✅ Plan A exitoso.")
+            raw_text = ""
+            for i in range(intentos_max):
                 try:
-                    usage = response.usage_metadata
-                    t_in = getattr(usage, 'prompt_token_count', 0) or 0
-                    t_out = getattr(usage, 'candidates_token_count', 0) or 0
-                    registrar_consumo_tokens(t_in, t_out, modelo=MODELO_GEMINI, turno_corrida=turno)
-                except Exception as e_tok:
-                    print(f"🔎 No se pudieron extraer metadatos de tokens de Gemini: {e_tok}")
-                break
+                    print(f"🚀 Gemini – Intento {i+1} de {intentos_max}...")
+                    response = client.models.generate_content(
+                        model=MODELO_GEMINI,
+                        contents=prompt_institucional,
+                        config=types.GenerateContentConfig(
+                            response_mime_type="application/json"
+                        )
+                    )
+                    candidate = response.text.strip() if response.text else ""
+                    if not candidate:
+                        raise ValueError("Gemini devolvió string vacío.")
+                    raw_text = candidate
+                    print("✅ [Camino 1] Plan A exitoso.")
+                    try:
+                        usage = response.usage_metadata
+                        t_in = getattr(usage, "prompt_token_count", 0) or 0
+                        t_out = getattr(usage, "candidates_token_count", 0) or 0
+                        registrar_consumo_tokens(t_in, t_out, modelo=MODELO_GEMINI, turno_corrida=turno)
+                    except Exception as e_tok:
+                        print(f"🔎 Tokens Gemini no disponibles: {e_tok}")
+                    break
+                except Exception as e:
+                    error_msg = str(e)
+                    if i < intentos_max - 1:
+                        espera = min(espera_base_seg * (i + 1), 900)
+                        print(f"⚠️ Gemini falló ({error_msg[:120]}). Reintentando en {espera//60} min...")
+                        time.sleep(espera)
+                    else:
+                        print(f"❌ Plan A agotado tras {intentos_max} intentos: {error_msg[:120]}")
 
-            except Exception as e:
-                error_msg = str(e)
-                if i < intentos_max - 1:
-                    espera = min(espera_base_seg * (i + 1), 900)
-                    print(f"⚠️ Gemini falló ({error_msg[:120]}). Reintentando en {espera//60} min...")
-                    time.sleep(espera)
+            # --- PLAN B: DeepSeek V3.2 (OpenRouter) ---
+            if not raw_text:
+                print(f"🔄 [Camino 1] Plan B: {MODELO_DEEPSEEK} vía OpenRouter...")
+                if not OPENROUTER_API_KEY:
+                    print("⚠️ Falta OPENROUTER_API_KEY. Pasando a Plan C (Groq).")
                 else:
-                    print(f"❌ Plan A agotado tras {intentos_max} intentos: {error_msg[:120]}")
+                    try:
+                        cand, usage_or = _openrouter_chat_completions(
+                            modelo=MODELO_DEEPSEEK,
+                            prompt=prompt_institucional,
+                            timeout=90,
+                            max_tokens=5000,
+                            temperature=0.2,
+                        )
+                        raw_text = cand
+                        print("✅ [Camino 1] Plan B (DeepSeek) exitoso.")
+                        try:
+                            t_in_or = usage_or.get("prompt_tokens", 0) or 0
+                            t_out_or = usage_or.get("completion_tokens", 0) or 0
+                            registrar_consumo_tokens(t_in_or, t_out_or, modelo="deepseek-v3.2", turno_corrida=turno)
+                        except Exception as e_tok:
+                            print(f"🔎 Tokens OpenRouter no disponibles: {e_tok}")
+                    except Exception as e_or:
+                        print(f"⚠️ Plan B (DeepSeek) falló: {e_or}. Pasando a Plan C...")
 
-        # --- PLAN B: DeepSeek V3.2 (OpenRouter) ---
-        if not raw_text:
-            print(f"🔄 Activando Plan B: {MODELO_DEEPSEEK} vía OpenRouter...")
+            # --- PLAN C: Groq (si Plan A y Plan B no produjeron texto) ---
+            if not raw_text:
+                print("🔄 [Camino 1] Plan C: Groq...")
+                if not GROQ_API_KEY:
+                    raise EnvironmentError("❌ Falta GROQ_API_KEY y la IA anterior no respondió.")
 
-            if not OPENROUTER_API_KEY:
-                print("⚠️ Falta OPENROUTER_API_KEY. Saltando directamente al Plan C (Groq).")
-            else:
-                or_url = "https://openrouter.ai/api/v1/chat/completions"
-                or_headers = {
-                    "Authorization": f"Bearer {OPENROUTER_API_KEY}",
-                    "Content-Type": "application/json"
+                groq_url = "https://api.groq.com/openai/v1/chat/completions"
+                groq_headers = {
+                    "Authorization": f"Bearer {GROQ_API_KEY}",
+                    "Content-Type": "application/json",
                 }
-                or_payload = {
-                    "model": MODELO_DEEPSEEK,
+
+                # --- Pre-filtro de fechas para Groq (payload reduction) ---
+                ayer_ar = ahora - timedelta(days=1)
+                hoy_fmt_cero = ahora.strftime('%b %d')
+                try:
+                    hoy_fmt_simple = ahora.strftime('%b %-d')
+                except ValueError:
+                    hoy_fmt_simple = hoy_fmt_cero.replace(' 0', ' ')
+                ayer_fmt_cero = ayer_ar.strftime('%b %d')
+                try:
+                    ayer_fmt_simple = ayer_ar.strftime('%b %-d')
+                except ValueError:
+                    ayer_fmt_simple = ayer_fmt_cero.replace(' 0', ' ')
+
+                def _tweet_es_reciente(linea: str) -> bool:
+                    if hoy_fmt_cero in linea or hoy_fmt_simple in linea:
+                        return True
+                    if ayer_fmt_cero in linea or ayer_fmt_simple in linea:
+                        match_hora = re.search(r'(\d{1,2}):(\d{2}):\d{2}', linea)
+                        if match_hora:
+                            hora_tweet = int(match_hora.group(1))
+                            return hora_tweet >= 20
+                        return True
+                    return False
+
+                lineas_filtradas = [
+                    linea for linea in data_context.split("\n---\n")
+                    if linea.strip() and _tweet_es_reciente(linea)
+                ]
+                data_context_groq = "\n---\n".join(lineas_filtradas)
+                print(f"📏 [Camino 1] Contexto Groq pre-filtrado: {len(data_context_groq):,} chars ({len(lineas_filtradas)} tweets)")
+
+                if not data_context_groq.strip():
+                    print("⚠️ [Camino 1] Pre-filtro vacío; usando contexto completo.")
+                    data_context_groq = data_context
+
+                prompt_groq = prompt_institucional
+                marker = "TWEETS A ANALIZAR:\n"
+                if marker in prompt_institucional:
+                    prompt_groq = prompt_institucional.rsplit(marker, 1)[0] + marker + data_context_groq
+                elif data_context and data_context in prompt_institucional:
+                    prompt_groq = prompt_institucional.replace(data_context, data_context_groq, 1)
+
+                groq_payload = {
+                    "model": "meta-llama/llama-4-scout-17b-16e-instruct",
                     "messages": [
                         {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
-                        {"role": "user", "content": prompt}
+                        {"role": "user", "content": prompt_groq},
                     ],
                     "temperature": 0.2,
                     "max_tokens": 5000,
-                    "response_format": {"type": "json_object"}
+                    "response_format": {"type": "json_object"},
                 }
 
-                try:
-                    resp_or = requests.post(or_url, headers=or_headers, json=or_payload, timeout=90)
-                    resp_or.raise_for_status()
-
-                    choices = resp_or.json().get("choices", [])
-                    if not choices:
-                        print("⚠️ OpenRouter respondió sin choices. Pasando al Plan C...")
-                    else:
-                        raw_text = choices[0].get("message", {}).get("content", "").strip()
-                        print("✅ Plan B (DeepSeek) exitoso.")
-
-                        try:
-                            uso_or = resp_or.json().get("usage", {})
-                            t_in_or = uso_or.get("prompt_tokens", 0) or 0
-                            t_out_or = uso_or.get("completion_tokens", 0) or 0
-                            registrar_consumo_tokens(t_in_or, t_out_or, modelo="deepseek-v3.2", turno_corrida=turno)
-                        except Exception as e_tok:
-                            print(f"🔎 No se pudieron extraer metadatos de tokens de OpenRouter: {e_tok}")
-                except Exception as e_or:
-                    print(f"⚠️ Plan B (DeepSeek) falló: {e_or}. Pasando al Plan C...")
-
-        # --- PLAN C: Groq (si Plan A y Plan B no produjeron texto) ---
-        if not raw_text:
-            print("🔄 Activando Plan C: Groq meta-llama/llama-4-scout-17b-16e-instruct (30k TPM)...")
-            groq_key = os.environ.get("GROQ_API_KEY")
-            if not groq_key:
-                raise EnvironmentError("❌ Falta GROQ_API_KEY y la IA anterior no respondió.")
-
-            groq_url = "https://api.groq.com/openai/v1/chat/completions"
-            groq_headers = {
-                "Authorization": f"Bearer {groq_key}",
-                "Content-Type": "application/json",
-            }
-
-            ayer_ar = ahora - timedelta(days=1)
-            hoy_fmt_cero = ahora.strftime('%b %d')
-            try:
-                hoy_fmt_simple = ahora.strftime('%b %-d')
-            except ValueError:
-                # Compatibilidad Windows (no soporta %-d)
-                hoy_fmt_simple = ahora.strftime('%b %d').replace(' 0', ' ')
-            ayer_fmt_cero = ayer_ar.strftime('%b %d')
-            try:
-                ayer_fmt_simple = ayer_ar.strftime('%b %-d')
-            except ValueError:
-                ayer_fmt_simple = ayer_ar.strftime('%b %d').replace(' 0', ' ')
-
-            def _tweet_es_reciente(linea: str) -> bool:
-                if hoy_fmt_cero in linea or hoy_fmt_simple in linea:
-                    return True
-                if ayer_fmt_cero in linea or ayer_fmt_simple in linea:
-                    match_hora = re.search(r'(\d{1,2}):(\d{2}):\d{2}', linea)
-                    if match_hora:
-                        hora_tweet = int(match_hora.group(1))
-                        return hora_tweet >= 20
-                    return True
-                return False
-
-            lineas_filtradas = [
-                linea for linea in data_context.split("\n---\n")
-                if linea.strip() and _tweet_es_reciente(linea)
-            ]
-            data_context_groq = "\n---\n".join(lineas_filtradas)
-            chars = len(data_context_groq)
-            tweets_count = len(lineas_filtradas)
-            print(f"📏 Contexto Groq pre-filtrado por fecha: {chars:,} caracteres ({tweets_count} tweets recientes)")
-
-            if not data_context_groq.strip():
-                print("⚠️ Pre-filtro de fecha no encontró tweets recientes; usando contexto completo como fallback.")
-                data_context_groq = data_context
-
-            prompt_groq = prompt
-            prompt_marker = "TWEETS A ANALIZAR:\n"
-            if prompt_marker in prompt:
-                prompt_groq = prompt.rsplit(prompt_marker, 1)[0] + prompt_marker + data_context_groq
-            elif data_context and data_context in prompt:
-                prompt_groq = prompt.replace(data_context, data_context_groq, 1)
-
-            groq_payload = {
-                "model": "meta-llama/llama-4-scout-17b-16e-instruct",
-                "messages": [
-                    {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
-                    {"role": "user", "content": prompt_groq},
-                ],
-                "temperature": 0.2,
-                "max_tokens": 5000,
-                "response_format": {"type": "json_object"},
-            }
-
-            def _extraer_texto_groq(resp_json):
-                choices = resp_json.get("choices") or []
-                if not choices:
-                    raise ValueError("Groq devolvió respuesta sin 'choices'.")
-                return (choices[0].get("message") or {}).get("content", "").strip()
-
-            try:
                 resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=60)
                 resp_groq.raise_for_status()
-                raw_text = _extraer_texto_groq(resp_groq.json())
-                print("✅ Plan C (Groq con response_format) exitoso.")
+                rj = resp_groq.json()
+
+                choices = rj.get("choices") or []
+                if not choices:
+                    raise ValueError("Groq devolvió respuesta sin 'choices'.")
+
+                raw_text = ((choices[0].get("message") or {}).get("content") or "").strip()
+                print("✅ [Camino 1] Plan C (Groq) exitoso.")
                 try:
-                    uso_groq = resp_groq.json().get("usage", {})
+                    uso_groq = rj.get("usage", {})
                     t_in_g = uso_groq.get("prompt_tokens", 0) or 0
                     t_out_g = uso_groq.get("completion_tokens", 0) or 0
                     registrar_consumo_tokens(t_in_g, t_out_g, modelo="meta-llama/llama-4-scout-17b-16e-instruct", turno_corrida=turno)
                 except Exception:
                     pass
-            except requests.HTTPError as http_err:
-                print(f"⚠️ Groq rechazó response_format ({http_err}). Reintentando sin él...")
-                groq_payload.pop("response_format", None)
-                try:
-                    resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=60)
-                    resp_groq.raise_for_status()
-                    raw_text = _extraer_texto_groq(resp_groq.json())
-                    print("✅ Plan C (Groq sin response_format) exitoso.")
-                    try:
-                        uso_groq = resp_groq.json().get("usage", {})
-                        t_in_g = uso_groq.get("prompt_tokens", 0) or 0
-                        t_out_g = uso_groq.get("completion_tokens", 0) or 0
-                        registrar_consumo_tokens(t_in_g, t_out_g, modelo="meta-llama/llama-4-scout-17b-16e-instruct", turno_corrida=turno)
-                    except Exception:
-                        pass
-                except Exception as groq_err:
-                    print(f"❌ Plan C también falló sin response_format: {groq_err}")
-                    raise groq_err
 
-        if not raw_text:
-            raise RuntimeError("❌ Ni Gemini, ni DeepSeek, ni Groq devolvieron respuesta.")
+            if not raw_text:
+                raise RuntimeError("❌ [Camino 1] Ni Gemini, ni DeepSeek, ni Groq devolvieron respuesta.")
 
-        # --- LIMPIEZA DE SEGURIDAD PARA EL JSON ---
-        if raw_text and raw_text.startswith("```"):
-            raw_text = raw_text.replace("```json", "").replace("```", "").strip()
-
-        try:
+            raw_text = _limpiar_json_llm(raw_text)
             resumen_data = json.loads(raw_text)
-        except json.JSONDecodeError as e:
-            print(f"❌ Error de sintaxis en el JSON de la IA: {e}")
-            with open(f'data/{fecha_hoy_str}_ERROR_IA.txt', 'w', encoding='utf-8') as f:
-                f.write(raw_text)
-            print(f"⚠️ Se guardó el error en data/{fecha_hoy_str}_ERROR_IA.txt para revisión.")
-            raise e
 
-        # --- 5. AUDITORÍA OPENARG (FRANCOTIRADOR) ---
-        if "tweet_destacado" in resumen_data:
-            tweet_del_dia = resumen_data["tweet_destacado"]
-            pregunta = tweet_del_dia.get("pregunta_openarg")
+            # --- 5. AUDITORÍA OPENARG (FRANCOTIRADOR) ---
+            if "tweet_destacado" in resumen_data:
+                tweet_del_dia = resumen_data["tweet_destacado"]
+                pregunta = tweet_del_dia.get("pregunta_openarg")
 
-            tweet_del_dia["verificacion_openarg"] = None
+                # Seteamos null por defecto para evitar errores en la web
+                tweet_del_dia["verificacion_openarg"] = None
 
-            if pregunta and str(pregunta).lower() != "null":
-                print(f"🔍 Disparando a OpenArg: {pregunta}")
-                openarg_key = os.environ.get("OPENARG_API_KEY")
+                # Validamos que la pregunta exista y no sea la palabra "null"
+                if pregunta and str(pregunta).lower() != "null":
+                    print(f"🔍 Disparando a OpenArg: {pregunta}")
+                    openarg_key = os.environ.get("OPENARG_API_KEY")
 
-                if openarg_key:
-                    url_openarg = "https://api.openarg.org/api/v1/ask"
-                    headers = {"Authorization": f"Bearer {openarg_key}", "Content-Type": "application/json"}
-                    try:
-                        resp_openarg = requests.post(url_openarg, headers=headers, json={"question": pregunta}, timeout=30)
-                        if resp_openarg.status_code == 200:
-                            respuesta = resp_openarg.json().get("answer", "")
-                            if "no reflejan" not in respuesta and "Los datos disponibles son de" not in respuesta:
-                                tweet_del_dia["verificacion_openarg"] = respuesta[:200] + "..." if len(respuesta) > 200 else respuesta
-                                print("✅ Dato OpenArg agregado al JSON.")
-                            else:
-                                print("⚠️ OpenArg no devolvió datos actuales. Se omite.")
-                    except Exception as e:
-                        print(f"⚠️ Error de conexión con OpenArg: {e}")
-                else:
-                    print("⚠️ OPENARG_API_KEY no encontrada en Secrets.")
+                    if openarg_key:
+                        url_openarg = "https://api.openarg.org/api/v1/ask"
+                        headers = {"Authorization": f"Bearer {openarg_key}", "Content-Type": "application/json"}
+                        try:
+                            resp_openarg = requests.post(url_openarg, headers=headers, json={"question": pregunta}, timeout=30)
+                            if resp_openarg.status_code == 200:
+                                respuesta = resp_openarg.json().get("answer", "")
+                                # Filtramos las respuestas que no tienen datos reales
+                                if "no reflejan" not in respuesta and "Los datos disponibles son de" not in respuesta:
+                                    # Guardamos la respuesta (limitada a 200 caracteres para la UI)
+                                    tweet_del_dia["verificacion_openarg"] = respuesta[:200] + "..." if len(respuesta) > 200 else respuesta
+                                    print("✅ Dato OpenArg agregado al JSON.")
+                                else:
+                                    print("⚠️ OpenArg no devolvió datos actuales. Se omite.")
+                        except Exception as e:
+                            print(f"⚠️ Error de conexión con OpenArg: {e}")
+                    else:
+                        print("⚠️ OPENARG_API_KEY no encontrada en Secrets.")
 
-        # 6. Guardar el Análisis
-        ruta_analisis = f'data/{fecha_hoy_str}_analisis_{turno}.json'
-        with open(ruta_analisis, 'w', encoding='utf-8') as f:
-            json.dump(resumen_data, f, ensure_ascii=False, indent=4)
+            # 6. Guardar el Análisis Institucional
+            ruta_analisis = f"data/{fecha_hoy_str}_analisis_{turno}.json"
+            with open(ruta_analisis, "w", encoding="utf-8") as f:
+                json.dump(resumen_data, f, ensure_ascii=False, indent=4)
+            print(f"✅ [Camino 1] Archivo de análisis creado: {ruta_analisis}")
 
-        print(f"✅ ¡Éxito! Archivo de análisis creado: {ruta_analisis}")
+        except Exception as e_cam1:
+            print(f"❌ [Camino 1] Falló (pero Camino 2 seguirá): {e_cam1}")
+
+        # =========================
+        # CAMINO 2: SUBTRAMA (GROK)
+        # =========================
+        try:
+            if not OPENROUTER_API_KEY:
+                raise EnvironmentError("❌ Falta OPENROUTER_API_KEY para Camino 2 (Grok).")
+
+            prompt_subtrama = f"""
+Sos el armador político más astuto, cínico y maquiavélico del "círculo rojo" de Argentina.
+Tu tarea es analizar los tweets crudos de los 24 gobernadores provinciales
+
+Tu objetivo es descifrar la SUBTRAMA: qué están negociando por abajo de la mesa, la disputa por la "caja", los aprietes al Gobierno Nacional y los mensajes cifrados. PROHIBIDO HACER RESÚMENES DESCRIPTIVOS O ABURRIDOS. Quiero que leas entre líneas.
+
+REGLAS DE ANÁLISIS ESTRATÉGICO:
+
+FILTRO TEMPORAL Y ACTUALIDAD ESTRICTA: IGNORA POR COMPLETO cualquier tweet que no sea de hoy ({fecha_pantalla}) o de ayer a la noche. Procesa exclusivamente rosca política y posicionamientos. Ignora efemérides.
+REGLA DE NOMENCLATURA (CRÍTICA): Cada vez que menciones a un gobernador, DEBES incluir el nombre de su provincia entre paréntesis inmediatamente después. Ejemplo: "Maximiliano Pullaro (Santa Fe)".
+DOBLE VELOCIDAD DE LECTURA:
+"Resumen Ejecutivo": Redacta un panorama hiper directo de 1 solo párrafo destapando el verdadero conflicto de poder del día.
+"Análisis Profundo": Redacta un reporte analítico extenso conectando cómo se alinean las provincias contra Nación o entre ellas.
+JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales de la agenda federal. Para cada tendencia, DEBES listar los usuarios de X (@usuario) involucrados.
+TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político o veneno. REGLA CRÍTICA DE TIEMPO: SOLO puedes seleccionar un tweet si su fecha corresponde ESTRICTAMENTE AL DÍA DE HOY.
+Si no hay nada relevante hoy, tweet_destacado debe ser exactamente esta estructura nula:
+{{
+"usuario": null,
+"texto": "Sin posteos destacados en la jornada de hoy",
+"por_que_es_clave": null,
+"pregunta_openarg": null
+}}
+Si hay un tweet válido, el texto debe ser ORIGINAL y COMPLETO, pero SIN etiquetas previas (Si comienza con "[RE-TWEET de @autor]", ELIMINALO y poné "@Gobernador (RT de @autor)" en el usuario).
+SEGURIDAD JSON: El JSON debe ser perfecto. Evita comillas dobles dentro de los textos; reemplázalas por comillas simples ('). NO uses markdown de código al principio o final, devolvé el JSON crudo.
+FORMATO DE SALIDA OBLIGATORIO Y ESTRICTO:
+Responde ÚNICAMENTE con este objeto JSON, llenando todos los campos:
+
+{{
+"clima_general": "Una sola palabra (ej: GUERRA, NEGOCIACION, TENSION, ALIANZA)",
+"resumen_ejecutivo": "Tu texto cínico de 100 palabras...",
+"analisis_profundo": "Tu radiografía extensa de 400 palabras de la rosca...",
+"temas_calientes": [
+{{
+"tema": "Breve descripcion de la tendencia federal",
+"gobernadores_involucrados": ["@Kicillofok", "@maxipullaro"]
+}}
+],
+"tweet_destacado": {{
+"usuario": "@Gobernador",
+"texto": "Cita textual del tweet de HOY con mayor impacto",
+"por_que_es_clave": "Justificación de la jugada política oculta",
+"pregunta_openarg": "Una pregunta verificable sobre los datos del tweet para hacer fact-checking con OpenArg, o null si no aplica"
+}},
+"analisis_por_gobernador": [
+{{
+"gobernador": "@Usuario (Provincia)",
+"temas_mencionados": ["Tema A"],
+"postura_politica": "Qué dijo vs Qué quiso decir realmente y a quién le manda el dardo.",
+"frase_fuerte": "Cita textual fuerte o null"
+}}
+]
+}}
+
+TWEETS A ANALIZAR:
+{data_context}
+"""
+
+            print("🕵️ [Camino 2] Ejecutando subtrama con Grok...")
+            raw_text_sub, usage_sub = _openrouter_chat_completions(
+                modelo=MODELO_GROK_SUBTRAMA,
+                prompt=prompt_subtrama,
+                timeout=120,
+                max_tokens=5000,
+                temperature=0.2,
+            )
+
+            raw_text_sub = _limpiar_json_llm(raw_text_sub)
+            resumen_subtrama = json.loads(raw_text_sub)
+
+            # Guardar el análisis subtrama
+            ruta_subtrama = f"data/{fecha_hoy_str}_analisis_subtrama_{turno}.json"
+            with open(ruta_subtrama, "w", encoding="utf-8") as f:
+                json.dump(resumen_subtrama, f, ensure_ascii=False, indent=4)
+            print(f"✅ [Camino 2] Archivo subtrama creado: {ruta_subtrama}")
+
+            # Registrar tokens subtrama si vienen
+            try:
+                t_in_s = usage_sub.get("prompt_tokens", 0) or 0
+                t_out_s = usage_sub.get("completion_tokens", 0) or 0
+                registrar_consumo_tokens(t_in_s, t_out_s, modelo="x-ai/grok-4.1-fast", turno_corrida=turno)
+            except Exception:
+                pass
+
+        except Exception as e_cam2:
+            print(f"❌ [Camino 2] Falló (pero Camino 1 ya corrió/intentó): {e_cam2}")
 
     except Exception as e:
-        print(f"❌ Error fatal: {str(e)}")
+        print(f"❌ Error fatal en fase de recolección/pipeline: {str(e)}")
         raise e
 
 if __name__ == "__main__":
