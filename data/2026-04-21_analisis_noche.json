@@ -1,0 +1,234 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una marcada tensión entre las provincias y el gobierno nacional. Gobernadores como Axel Kicillof (Buenos Aires), Rogelio Frigerio (Entre Ríos), Alberto Weretilneck (Río Negro) y Ricardo Passalacqua (Misiones) elevaron reclamos por deudas, obras paralizadas o asimetrías fiscales. La seguridad ocupó un lugar central, con Jorge Macri (CABA), Ignacio Torres (Chubut), Rolando Figueroa (Neuquén) y Maximiliano Pullaro (Santa Fe) anunciando operativos y medidas contra el delito y la violencia escolar. El aniversario del Papa Francisco fue utilizado por varios mandatarios para posicionarse ideológicamente, enfatizando la justicia social y el diálogo. La gestión provincial, en tanto, se mantuvo activa en infraestructura, educación y desarrollo productivo, muchas veces con fondos propios para suplir el cese de la obra pública nacional.",
+    "analisis_profundo": "La jornada del 21 de abril de 2026 revela una profunda y multifacética tensión entre las administraciones provinciales y el gobierno central, en un contexto donde las dinámicas federales se recrudecen. Un eje dominante es la conflictividad por el financiamiento y la ejecución de obras. Axel Kicillof (Buenos Aires) destacó un compromiso para saldar la deuda por cajas de jubilados no transferidas por la Nación y reclamó por la 'deserción' del gobierno nacional en áreas como el Servicio Alimentario Escolar y obras hídricas en el Río Salado. Esta postura es replicada por Alberto Weretilneck (Río Negro), quien reiteró que su provincia se hace cargo con fondos propios de obras como el Campus de la UNRN y la Terminal de Ómnibus de Bariloche, 'abandonadas por el Gobierno nacional'. Ricardo Passalacqua (Misiones) solicitó formalmente al ministro de Economía de la Nación, Luis Caputo, la reducción del IVA para la harina de mandioca, buscando igualdad de condiciones frente a la harina de trigo, un claro reclamo por asimetrías fiscales. Rogelio Frigerio (Entre Ríos) también delineó cuatro prioridades con Caputo, incluyendo la compensación de deuda por la Caja de Jubilaciones y anticipos financieros, evidenciando la presión económica sobre las arcas provinciales.\n\nOtro frente importante es el de la seguridad y el combate al delito. Jorge Macri (CABA) se focalizó en amenazas de tiroteos en escuelas, anunciando protocolos y medidas como aulas sin celulares, categorizando estas amenazas como 'delito'. Rolando Figueroa (Neuquén) informó sobre la demolición del quinto búnker narco y el inicio de un pabellón de máxima seguridad, criticando el uso de recursos que no se destinan a la educación y la lucha contra la corrupción. Maximiliano Pullaro (Santa Fe) llevó adelante un megaoperativo contra el crimen y el narcotráfico, destacando la subasta de bienes decomisados al delito para debilitar organizaciones criminales. Ricardo Quintela (La Rioja) juramentó nuevas autoridades policiales, buscando una fuerza más humana y cercana.\n\nParalelamente, la efeméride del aniversario del Papa Francisco sirvió como plataforma para posicionamientos ideológicos. Kicillof (Buenos Aires) vinculó el legado papal con la 'cultura del encuentro' frente a la 'cultura del odio' y la necesidad de 'justicia social'. Martín Llaryora (Córdoba) hizo un llamado a la 'paz por sobre el conflicto, el diálogo y no el enfrentamiento, el encuentro en vez de la división y el odio'. Ricardo Quintela (La Rioja) enfatizó la 'justicia social' y que 'la verdadera política es el servicio'. Ignacio Torres (Chubut) también alineó el mensaje papal con la cercanía a los más necesitados.\n\nFinalmente, la gestión provincial en áreas como educación, salud y desarrollo productivo se mantiene activa. Figueroa (Neuquén) enfatizó su apoyo a la educación pública y la diversificación económica, incluso proponiendo una baja del IVA provincial. Weretilneck (Río Negro) resaltó inversiones en educación y desarrollo tecnológico con INVAP. Gustavo Saenz (Salta) promovió la minería responsable y obras viales. Los gobernadores demuestran una fuerte capacidad de acción propia, a menudo destacando el esfuerzo provincial frente a la 'deserción' o 'abandono' nacional. La jornada subraya un federalismo en pugna, donde las provincias, aunque con agendas diversas, comparten la necesidad de financiamiento y autonomía para resolver los problemas de sus ciudadanos.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamos y Deudas al Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@frigeriorogelio",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Delito",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Educación e Infraestructura Escolar",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico y Productivo",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Posicionamiento Ideológico y Federalismo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "INAUGURAMOS EL NUEVO EDIFICIO DE LA ESCUELA PRIMARIA 22 DE PLAZA HUINCUL. Vivimos un momento único para una institución histórica de la provincia: este año cumplen 130 años con un edificio nuevo. La provincia de Neuquén, con el dinero de los neuquinos, hace estas escuelas. No se va en ñoquis, no se va en camionetas alquiladas, no se va en teléfonos celulares pagados, no se va en corrupción. Vamos a apoyar la educación pública en cada rincón de la provincia, porque es la que nos pone de pie y nos da la verdadera libertad.",
+        "por_que_es_clave": "El gobernador de Neuquén articula una fuerte crítica a la corrupción y el despilfarro, contrastando la gestión provincial con un mensaje de austeridad y eficiencia. Subraya la autonomía y la capacidad de la provincia para financiar obras esenciales como la educación pública, en un claro posicionamiento ideológico frente a las discusiones sobre el gasto público y el rol del Estado, posiblemente aludiendo a la narrativa del gobierno nacional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Reclamos a la Nación por fondos y obras",
+                "Educación",
+                "Asistencia Social",
+                "Justicia Social",
+                "Obras hídricas"
+            ],
+            "postura_politica": "Mantiene una postura confrontativa con el Gobierno Nacional, exigiendo el cumplimiento de deudas y la continuidad de obras. Defiende la inversión provincial en educación y asistencia social, alineando su discurso con la justicia social y el 'encuentro' frente a discursos de odio.",
+            "frase_fuerte": "No hay libertad sin justicia social."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad escolar",
+                "Educación",
+                "Delito"
+            ],
+            "postura_politica": "Se enfoca en la seguridad en el ámbito educativo, adoptando medidas firmes y preventivas frente a amenazas. Subraya la seriedad de estos hechos, considerándolos delitos y promoviendo la intervención policial y educativa.",
+            "frase_fuerte": "Las amenazas de tiroteo en escuelas no son travesuras ni desafíos virales. Son hechos graves que generan miedo."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura hídrica",
+                "Crítica a la gestión anterior"
+            ],
+            "postura_politica": "Destaca la finalización de obras importantes, como proyectos de agua potable, atribuyéndolas a su gestión y criticando las 'promesas incumplidas' del gobierno anterior.",
+            "frase_fuerte": "Nadie quiere parecerse a usted (no se copian los malos ejemplos). Nosotros hacemos lo que usted dijo que 'estaba hecho'."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Salud Pública",
+                "Deudas Nacionales",
+                "Posicionamiento ideológico"
+            ],
+            "postura_politica": "Enfocado en la seguridad ciudadana con acciones concretas como la demolición de focos de delito. Articula reclamos al PAMI por deudas y resalta la eficiencia de su sistema de salud provincial. Adopta una postura ideológica de cercanía con los más necesitados.",
+            "frase_fuerte": "Estar cerca de quienes más lo necesitan y no mirar para otro lado frente a las injusticias."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Salud Pública",
+                "Posicionamiento ideológico"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura y la salud pública, destacando logros en donación de tejidos. Utiliza el aniversario papal para emitir un mensaje de unidad, paz y diálogo, distanciándose del conflicto y el odio.",
+            "frase_fuerte": "Elegir la paz por sobre el conflicto, el diálogo y no el enfrentamiento, el encuentro en vez de la división y el odio."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Negociación con el Gobierno Nacional",
+                "Infraestructura",
+                "Financiamiento Provincial",
+                "Reforma fiscal"
+            ],
+            "postura_politica": "Muestra una actitud de diálogo constructivo con el Gobierno Nacional, presentando una agenda de prioridades económicas y fiscales para su provincia, buscando soluciones a problemas de infraestructura y financiamiento.",
+            "frase_fuerte": "Orden fiscal, infraestructura y menos impuestos para producir y crecer. Ese es el rumbo."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Inversión extranjera",
+                "Seguridad",
+                "Deporte",
+                "Justicia Social"
+            ],
+            "postura_politica": "Impulsa la atracción de inversiones internacionales, especialmente en minería y energía. Fortalece la seguridad provincial y promueve el deporte juvenil. Articula su mensaje con la defensa de la justicia social y el 'servicio' como eje de la política.",
+            "frase_fuerte": "Su legado no quedó en el pasado; vive en cada lucha por la dignidad, y en la defensa incansable de la justicia social."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Minería",
+                "Inversiones",
+                "Desarrollo Económico"
+            ],
+            "postura_politica": "Posiciona a Mendoza como un actor clave en la minería andina, buscando atraer capitales internacionales y generar desarrollo productivo con reglas claras. Enfatiza la provincia como un hub financiero minero.",
+            "frase_fuerte": "Mendoza está preparada para ser parte de ese proceso, con ventajas concretas y una decisión clara de integrarse al mundo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Seguridad",
+                "Políticas Sociales",
+                "Reclamos a la Nación"
+            ],
+            "postura_politica": "Refuerza la seguridad local con nuevas divisiones motorizadas y aborda problemáticas sociales como los consumos problemáticos. También eleva reclamos específicos al Gobierno Nacional para la reducción de impuestos clave para su economía regional.",
+            "frase_fuerte": "Solicité formalmente al ministro de Economía de la Nación, Luis Caputo, la reducción de la alícuota del IVA al 10,5% para la harina de mandioca."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Educación Pública",
+                "Seguridad",
+                "Desarrollo Económico",
+                "Crítica al Gasto Político",
+                "Propuesta Fiscal"
+            ],
+            "postura_politica": "Se presenta como un gestor eficiente y austero, priorizando la educación pública y la seguridad con un fuerte énfasis en la inversión provincial y una crítica directa al despilfarro. Propone un IVA diferencial para las provincias para dinamizar la economía local y atraer inversiones.",
+            "frase_fuerte": "La provincia de Neuquén, con el dinero de los neuquinos, hace estas escuelas. No se va en ñoquis, no se va en camionetas alquiladas, no se va en teléfonos celulares pagados, no se va en corrupción."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Educación",
+                "Desarrollo Tecnológico",
+                "Salud",
+                "Seguridad",
+                "Reclamos a la Nación"
+            ],
+            "postura_politica": "Destaca la gestión provincial en grandes obras de infraestructura, educación (Campus UNRN) y desarrollo tecnológico, haciendo énfasis en que son financiadas con recursos propios frente a proyectos 'abandonados' por el Gobierno Nacional. Prioriza la profesionalización de sectores clave y el fortalecimiento de la salud y la seguridad.",
+            "frase_fuerte": "Una obra abandonada por el Gobierno Nacional de la que nos hicimos cargo en serio. Invertimos donde se construye el futuro."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Minería",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Se concentra en el avance de obras viales estratégicas con fondos provinciales y el impulso de una minería responsable. Promueve el desarrollo de proveedores locales y el apoyo a emprendedores como motores de crecimiento.",
+            "frase_fuerte": "Lo que durante años fue un anhelo, hoy está tomando forma."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Políticas Sociales",
+                "Educación",
+                "Seguridad"
+            ],
+            "postura_politica": "Enfocado en la aprobación de proyectos sociales de ONGs, la mejora educativa con un programa de lectura/escritura, y la modernización de la infraestructura de seguridad provincial.",
+            "frase_fuerte": "La buena experiencia de estos dos años en materia de avances en comprensión lectora de nuestros alumnos da fundamento como para tener una Ley que convierta la temática en una política de Estado."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura educativa y la reactivación de proyectos productivos históricos como el tren YCRT, buscando generar empleo y desarrollo local.",
+            "frase_fuerte": "La educación es uno de los principales ejes de nuestro proyecto, y lo venimos demostrando con hechos."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el narcotráfico",
+                "Desarrollo económico",
+                "Asistencia en emergencias"
+            ],
+            "postura_politica": "Muestra una gestión fuerte en la lucha contra el crimen organizado y el narcotráfico, con operativos y subastas de bienes decomisados. Aborda emergencias climáticas y apoya el desarrollo de jóvenes talentos y emprendedores.",
+            "frase_fuerte": "Si se termina la impunidad, se termina la violencia."
+        }
+    ]
+}
