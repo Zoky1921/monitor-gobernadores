@@ -1,0 +1,169 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "Los gobernadores provinciales argentinos se enfocaron en gestión y desarrollo local, con algunos reclamos al Estado Nacional. Hubo anuncios de obras públicas, programas de salud y educación, y medidas de seguridad.",
+    "analisis_profundo": "La jornada del 21 de abril de 2026 mostró a los gobernadores provinciales trabajando en gestión y desarrollo local. Axel Kicillof (Buenos Aires) reclamó al Estado Nacional por deudas pendientes. Jorge Macri (CABA) se refirió a episodios de violencia en escuelas. Ignacio Torres (Chubut) anunció un acuerdo con PAMI para mejorar la atención a jubilados. Rogelio Frigerio (Entre Ríos) definió prioridades con el ministro Luis Caputo. Ricardo Quintela (La Rioja) destacó logros deportivos locales y recordó el legado de Francisco. Gustavo Sáenz (Salta) se reunió con la Cámara de Minería para impulsar el desarrollo local. Claudio Poggi (San Luis) aprobó proyectos sociales y presentó un programa de fortalecimiento educativo. Claudio Vidal (Santa Cruz) visitó obras de reacondicionamiento de vías. Maximiliano Pullaro (Santa Fe) destacó la subasta de bienes decomisados al delito. Leandro Zdero (Chaco) trabajó en un plan de contingencia. Nacho Torres (Chubut) y Alberto Weretilneck (Río Negro) también hicieron anuncios significativos en sus provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo y obras públicas",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@NachoTorresCH",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Reclamos al Estado Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Educación y salud",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@claudiojpoggi",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Economía y producción",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@frigeriorogelio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Hemos presentado un reclamo formal a la ministra de Capital Humano de la Nación Sandra Pettovello, instando a saldar la deuda acumulada que mantiene el Estado nacional con la Provincia desde el 2024 por el Servicio Alimentario Escolar que asciende a más de $220.000 millones. Asimismo, solicitamos financiamiento para el Programa MESA que actualmente sostenemos íntegramente con recursos provinciales.",
+        "por_que_es_clave": "Reclamo formal al Estado Nacional por deudas pendientes con la Provincia de Buenos Aires.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Reclamo al Estado Nacional",
+                "Deuda pendiente"
+            ],
+            "postura_politica": "Reclamo directo al Estado Nacional por deudas.",
+            "frase_fuerte": "Hemos presentado un reclamo formal a la ministra de Capital Humano de la Nación Sandra Pettovello..."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Violencia en escuelas",
+                "Medidas de seguridad"
+            ],
+            "postura_politica": "Firme en la lucha contra la violencia en escuelas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Acuerdo con PAMI",
+                "Mejora en atención a jubilados"
+            ],
+            "postura_politica": "Gestión para mejorar servicios de salud.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Reunión con ministro Caputo",
+                "Prioridades para Entre Ríos"
+            ],
+            "postura_politica": "Trabajo conjunto con el gobierno nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Logros deportivos",
+                "Legado de Francisco"
+            ],
+            "postura_politica": "Destacando logros locales y referentes políticos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Reunión con Cámara de Minería",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Impulso al desarrollo local con sectores privados.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Aprobación de proyectos sociales",
+                "Programa educativo"
+            ],
+            "postura_politica": "Gestión social y educativa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obras de reacondicionamiento",
+                "Reactivación del tren"
+            ],
+            "postura_politica": "Inversión en infraestructura.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Subasta de bienes decomisados",
+                "Inundaciones"
+            ],
+            "postura_politica": "Medidas de seguridad y gestión de emergencias.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Plan de contingencia"
+            ],
+            "postura_politica": "Gestión de emergencia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inversiones en Neuquén",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Fomento al desarrollo económico local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Inversiones en educación y salud",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Inversión en servicios públicos esenciales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Seguridad",
+                "Inauguración de instalaciones"
+            ],
+            "postura_politica": "Fortalecimiento de la seguridad local.",
+            "frase_fuerte": null
+        }
+    ]
+}
