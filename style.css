@@ -631,3 +631,24 @@ html { scroll-behavior: smooth; }
     background: #7dd3fc; 
     box-shadow: 0 4px 15px rgba(56, 189, 248, 0.3);
 }
+/* Modo Roska - Colores Picantes */
+body.spicy-mode {
+    --fondo-oscuro: #1a0505; /* Un rojo casi negro */
+    --fondo-tarjeta: #2d0a0a;
+    --azul-acento: #f97316; /* Naranja fuego */
+    --rojo-alerta: #ff4500;
+}
+
+/* El botón del Ají */
+.btn-spicy {
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    background: none;
+    border: none;
+    padding: 5px;
+}
+
+.btn-spicy:hover {
+    transform: scale(1.3) rotate(15deg);
+}
