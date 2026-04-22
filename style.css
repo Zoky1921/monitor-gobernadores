@@ -176,6 +176,15 @@ body {
 #analisis-profundo::-webkit-scrollbar-thumb { background: var(--azul-acento); border-radius: 10px; }
 #analisis-profundo::-webkit-scrollbar-track { background: var(--fondo-oscuro); }
 
+/* Control milimétrico de los párrafos del análisis extenso */
+#analisis-profundo p {
+    margin-bottom: 14px; 
+    line-height: 1.7;
+}
+
+#analisis-profundo p:last-child {
+    margin-bottom: 0; 
+}
 .temas-card h3, .destacado-card h3 { color: var(--azul-acento); margin-bottom: 15px; }
 
 .temas-card li { 
