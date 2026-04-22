@@ -640,48 +640,45 @@ body.spicy-mode {
     --borde: #3f1515; /* Bordes sutiles en tono vino */
 }
 
-/* El botón de la Rosca */
+/* =========================================
+   BOTÓN MODO ROSCA (ESTILO CONSULTORÍA)
+   ========================================= */
 .btn-spicy {
-    font-size: 1.3rem; /* Un poco más chico para que entre el texto */
-    cursor: pointer;
-    background: transparent;
-    border: 1px solid var(--borde);
-    padding: 8px 16px;
-    border-radius: 30px;
-    margin-left: 10px;
     display: inline-flex;
     align-items: center;
-    gap: 8px;
-    color: var(--texto-secundario);
-    transition: all 0.3s ease;
+    justify-content: center;
     vertical-align: middle;
+    background: transparent;
+    color: #fca5a5; /* Texto rojizo suave para que no compita tanto */
+    border: 2px solid #ef4444; /* Borde grueso rojo, IGUAL al de Turno Mañana */
+    padding: 10px 24px; /* Exactamente la misma altura que Turno Mañana */
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 0.95rem;
+    margin-top: 15px; /* Para que quede perfectamente alineado al centro */
+    margin-left: 12px;
+    text-decoration: none;
+    transition: all 0.3s ease;
 }
 
-/* El texto de la palabra Rosca */
 .btn-spicy .texto-rosca {
-    font-size: 0.9rem;
-    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
+    margin-right: 6px; /* Espacio sutil entre la flecha y el ají */
 }
 
-/* Efecto hover profesional */
+/* Efecto Hover Profesional (Sin giros raros, solo color y luz) */
 .btn-spicy:hover {
-    border-color: #ef4444; /* Borde rojo al pasar el mouse */
-    color: #ef4444; /* Letra roja */
-    background: rgba(239, 68, 68, 0.1);
+    background: #ef4444; /* Se rellena de rojo al pasar el mouse */
+    color: #ffffff; /* Texto pasa a blanco */
+    box-shadow: 0 4px 15px rgba(239, 68, 68, 0.4); /* Resplandor rojo tipo alerta */
+    transform: translateY(-2px); /* Se levanta un milímetro, igual que el botón principal */
 }
 
-/* Efecto del ají al pasar el mouse */
-.btn-spicy:hover span:last-child {
-    transform: scale(1.2) rotate(15deg);
-    display: inline-block;
-    transition: transform 0.3s ease;
-}
-
-/* Cuando el modo rosca está activado (clase que ya tenías) */
+/* Estado Activo (Cuando ya estás leyendo la Rosca en X.html) */
 body.spicy-mode .btn-spicy {
-    border-color: var(--azul-acento); /* Usa el rojo del modo rosca */
-    color: var(--azul-acento);
-    background: rgba(220, 38, 38, 0.15); /* Fondo rojo sutil */
+    background-color: #ef4444;
+    color: #ffffff;
+    border-color: #ef4444;
+    transform: scale(0.95); /* Efecto de botón presionado */
 }
