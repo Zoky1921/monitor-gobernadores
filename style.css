@@ -508,6 +508,9 @@ html { scroll-behavior: smooth; }
     border-color: #7dd3fc;
 }
 
+/* =========================================
+   FOOTER Y CONTACTO (MODO LIMPIO)
+   ========================================= */
 .site-footer {
     background-color: #020617; 
     border-top: 1px solid var(--borde);
@@ -526,7 +529,14 @@ html { scroll-behavior: smooth; }
 }
 
 .footer-about { flex: 1.5; }
-.footer-credits { flex: 1; text-align: right; }
+
+/* El nuevo contenedor de contacto alineado a la derecha en PC */
+.footer-contact { 
+    flex: 1; 
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end; 
+}
 
 .site-footer h4 {
     color: var(--texto-principal);
@@ -546,7 +556,45 @@ html { scroll-behavior: smooth; }
 
 .site-footer a:hover { color: #7dd3fc; text-decoration: underline; }
 
-.creditos-autor { font-weight: bold; color: #cbd5e1; }
+/* =========================================
+   ICONOS SOCIALES SVG
+   ========================================= */
+.social-icons {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.social-icons svg {
+    width: 24px;
+    height: 24px;
+    fill: #94a3b8; /* Gris tenue original */
+    transition: fill 0.3s ease, transform 0.2s ease;
+}
+
+.social-icons a:hover svg {
+    fill: #ffffff; /* Brillo blanco al pasar el mouse */
+    transform: translateY(-3px); /* Efecto botoncito que sube */
+}
+
+.footer-credits {
+    font-size: 0.85rem;
+    color: #888;
+    border-top: 1px solid #333;
+    padding-top: 10px;
+    text-align: right;
+}
+
+/* =========================================
+   AJUSTES PARA CELULARES (FOOTER)
+   ========================================= */
+@media (max-width: 768px) {
+    .footer-content { flex-direction: column; gap: 30px; }
+    
+    /* En celular, tiramos los iconos a la izquierda para que no queden raros */
+    .footer-contact { align-items: flex-start; } 
+    .footer-credits { text-align: left; }
+}
 
 @media (max-width: 768px) {
     .footer-content { flex-direction: column; gap: 30px; }
