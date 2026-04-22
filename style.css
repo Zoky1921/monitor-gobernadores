@@ -65,6 +65,12 @@ body {
     font-weight: 500;
 }
 
+/* Volver blanco el ícono del calendario */
+input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+    cursor: pointer;
+}
+
 .btn-turno {
     display: inline-flex;
     align-items: center;
