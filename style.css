@@ -620,9 +620,7 @@ body.spicy-mode {
 
 /* Ajuste específico para el texto interno de la Rosca */
 .btn-spicy .texto-rosca {
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-right: 6px;
+    margin-right: 6px; /* Solo dejamos el espacio sutil entre la flecha y el ají */
 }
 
 /* 2. PERSONALIDAD: Qué pasa cuando pasás el mouse (Hover) */
