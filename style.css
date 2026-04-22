@@ -640,16 +640,48 @@ body.spicy-mode {
     --borde: #3f1515; /* Bordes sutiles en tono vino */
 }
 
-/* El botón del Ají */
+/* El botón de la Rosca */
 .btn-spicy {
-    font-size: 1.5rem;
+    font-size: 1.3rem; /* Un poco más chico para que entre el texto */
     cursor: pointer;
-    transition: transform 0.3s ease;
-    background: none;
-    border: none;
-    padding: 5px;
+    background: transparent;
+    border: 1px solid var(--borde);
+    padding: 8px 16px;
+    border-radius: 30px;
+    margin-left: 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--texto-secundario);
+    transition: all 0.3s ease;
+    vertical-align: middle;
 }
 
+/* El texto de la palabra Rosca */
+.btn-spicy .texto-rosca {
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Efecto hover profesional */
 .btn-spicy:hover {
-    transform: scale(1.3) rotate(15deg);
+    border-color: #ef4444; /* Borde rojo al pasar el mouse */
+    color: #ef4444; /* Letra roja */
+    background: rgba(239, 68, 68, 0.1);
+}
+
+/* Efecto del ají al pasar el mouse */
+.btn-spicy:hover span:last-child {
+    transform: scale(1.2) rotate(15deg);
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+/* Cuando el modo rosca está activado (clase que ya tenías) */
+body.spicy-mode .btn-spicy {
+    border-color: var(--azul-acento); /* Usa el rojo del modo rosca */
+    color: var(--azul-acento);
+    background: rgba(220, 38, 38, 0.15); /* Fondo rojo sutil */
 }
