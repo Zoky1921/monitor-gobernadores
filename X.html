@@ -19,15 +19,18 @@
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
-<body>
+<<body class="spicy-mode">>
     <header class="top-bar">
        <div class="header-content">
-            <h1>El Radar Federal</h1>
+            <h1>El Radar Federal <span style="color: var(--azul-acento); font-size: 1rem; display: block;">Rosca by X 🌶️</span></h1>
             <p>Radiografía del discurso de los 24 gobernadores mediante IA</p>
             
-<div class="botones-header" style="display: flex; gap: 15px; margin-top: 20px;">
+<div class="botones-header" style="display: flex; gap: 15px; margin-top: 20px; align-items: center;">
     <a href="#seccion-mapa" class="btn-cta">Explorar Mapa de Declaraciones ↓</a>
-<button id="btn-turno" class="btn-turno" onclick="cambiarTurno()">☀️ Turno Mañana</button>
+    <button id="btn-turno" class="btn-turno" onclick="cambiarTurno()">☀️ Turno Mañana</button>
+    
+    <a href="index.html" class="btn-spicy" title="Volver al Informe Oficial" style="text-decoration: none; font-size: 1.8rem; margin-left: 10px;">🏛️</a>
+</div>
 </div>
        </div>
         <div class="date-selector">
