@@ -492,31 +492,6 @@ body {
 
 html { scroll-behavior: smooth; }
 
-.btn-cta {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    vertical-align: middle;
-    background-color: var(--azul-acento);
-    color: var(--fondo-oscuro);
-    padding: 10px 24px;
-    border: 2px solid var(--azul-acento);
-    border-radius: 30px;
-    text-decoration: none;
-    font-weight: 700;
-    font-size: 0.95rem;
-    margin-top: 15px;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(56, 189, 248, 0.3);
-}
-
-.btn-cta:hover {
-    transform: translateY(-2px); 
-    box-shadow: 0 6px 20px rgba(56, 189, 248, 0.5);
-    background-color: #7dd3fc; 
-    border-color: #7dd3fc;
-}
-
 /* =========================================
    FOOTER Y CONTACTO (MODO LIMPIO)
    ========================================= */
@@ -612,25 +587,6 @@ html { scroll-behavior: smooth; }
 
 .sidebar .card:not(:last-child) { margin-bottom: 20px; }
 
-.btn-rescate {
-    background: var(--azul-acento);
-    color: var(--fondo-oscuro);
-    padding: 10px 20px;
-    border: none;
-    border-radius: 30px; 
-    font-weight: 700;
-    cursor: pointer;
-    margin-top: 15px;
-    margin-bottom: 10px;
-    display: inline-block;
-    transition: transform 0.2s, background 0.2s, box-shadow 0.2s;
-}
-
-.btn-rescate:hover {
-    transform: translateY(-2px);
-    background: #7dd3fc; 
-    box-shadow: 0 4px 15px rgba(56, 189, 248, 0.3);
-}
 /* Modo Roska - Estética "Círculo Rojo" */
 body.spicy-mode {
     --fondo-oscuro: #0c0505; /* Casi negro, apenas un tinte vino */
@@ -641,44 +597,74 @@ body.spicy-mode {
 }
 
 /* =========================================
-   BOTÓN MODO ROSCA (ESTILO CONSULTORÍA)
+   SISTEMA UNIFICADO DE BOTONES (GHOST STYLE)
    ========================================= */
-.btn-spicy {
+
+/* 1. LA BASE: Anatomía idéntica para la terna */
+.btn-cta, .btn-turno, .btn-spicy {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    vertical-align: middle;
     background: transparent;
-    color: #fca5a5; /* Texto rojizo suave para que no compita tanto */
-    border: 2px solid #ef4444; /* Borde grueso rojo, IGUAL al de Turno Mañana */
-    padding: 10px 24px; /* Exactamente la misma altura que Turno Mañana */
+    border: 1px solid var(--borde); /* Borde gris sobrio de arranque */
+    color: var(--texto-secundario); /* Letra gris apagada */
+    padding: 10px 24px; /* Misma altura y ancho para todos */
     border-radius: 30px;
     font-weight: 700;
     font-size: 0.95rem;
-    margin-top: 15px; /* Para que quede perfectamente alineado al centro */
-    margin-left: 12px;
     text-decoration: none;
     transition: all 0.3s ease;
+    cursor: pointer;
+    margin: 0; /* Anulamos márgenes viejos, el gap del HTML hace el trabajo */
 }
 
+/* Ajuste específico para el texto interno de la Rosca */
 .btn-spicy .texto-rosca {
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-right: 6px; /* Espacio sutil entre la flecha y el ají */
+    margin-right: 6px;
 }
 
-/* Efecto Hover Profesional (Sin giros raros, solo color y luz) */
+/* 2. PERSONALIDAD: Qué pasa cuando pasás el mouse (Hover) */
+
+/* Botón 1: Explorar Mapa (El llamado a la acción se ilumina en tu Azul Acento) */
+.btn-cta:hover {
+    border-color: var(--azul-acento);
+    color: var(--azul-acento);
+    background: rgba(56, 189, 248, 0.05);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(56, 189, 248, 0.2);
+}
+
+/* Botón 2: Turno Mañana (Se ilumina en Blanco/Gris claro para diferenciarlo del mapa) */
+.btn-turno:hover {
+    border-color: var(--texto-principal);
+    color: var(--texto-principal);
+    background: rgba(241, 245, 249, 0.05);
+    transform: translateY(-2px);
+}
+
+/* Botón 3: La Rosca (Rojo alerta/picante) */
 .btn-spicy:hover {
-    background: #ef4444; /* Se rellena de rojo al pasar el mouse */
-    color: #ffffff; /* Texto pasa a blanco */
-    box-shadow: 0 4px 15px rgba(239, 68, 68, 0.4); /* Resplandor rojo tipo alerta */
-    transform: translateY(-2px); /* Se levanta un milímetro, igual que el botón principal */
+    border-color: #ef4444;
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.05);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(239, 68, 68, 0.2);
 }
 
-/* Estado Activo (Cuando ya estás leyendo la Rosca en X.html) */
+/* 3. ESTADOS ACTIVOS: Cuando el botón está presionado o el modo está activo */
+
+/* Si querés marcar que el "Turno" está seleccionado */
+.btn-turno.activo {
+    background: var(--texto-principal);
+    color: var(--fondo-oscuro);
+    border-color: var(--texto-principal);
+}
+
+/* Cuando estás leyendo X.html (Modo Roska ON) */
 body.spicy-mode .btn-spicy {
-    background-color: #ef4444;
-    color: #ffffff;
+    background: rgba(239, 68, 68, 0.15);
     border-color: #ef4444;
-    transform: scale(0.95); /* Efecto de botón presionado */
+    color: #ef4444;
 }
