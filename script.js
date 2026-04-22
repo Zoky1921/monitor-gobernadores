@@ -178,8 +178,13 @@ async function cargarTablero(fecha) {
         
         if (analisis.analisis_profundo) {
             const textoSeguro = escaparHtml(analisis.analisis_profundo);
-            // Soporta tanto saltos reales (\n) como secuencias literales "\\n" provenientes del origen de datos.
-            const textoConParrafos = textoSeguro.replace(/(?:\r?\n|\\n)/g, '<br><br>');
+            //los saltos de línea en párrafos HTML reales (<p>)
+            const textoConParrafos = textoSeguro
+                .split(/(?:\r?\n|\\n)+/) 
+                .filter(parrafo => parrafo.trim() !== '') 
+                .map(parrafo => `<p>${parrafo}</p>`) 
+                .join('');
+                
             if(cajaProfundo) cajaProfundo.innerHTML = textoConParrafos;
         } else {
             if(cajaProfundo) cajaProfundo.innerHTML = "Análisis profundo no disponible.";
