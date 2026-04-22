@@ -1,0 +1,91 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "En un día de homenajes al Papa Francisco que ocultan la rosca real, los gobernadores optan por bajo perfil: Kicillof (Buenos Aires) distrae con libros mientras aprieta por cajas en la sombra; Frigerio (Entre Ríos) negocia con Caputo rutas y jubilaciones para no ahogarse en deudas; Ziliotto (La Pampa) clava dardo contra la 'crueldad' mileísta por caja y salud; Passalacqua (Misiones) maquilla asistencialismo con 'Mamá Misionera' para retener caja social; Weretilneck (Río Negro) y Elias Suárez (Santiago del Estero) firman acuerdos sutiles por fondos. Nación timbea, provincias miden fuerzas sin estallar.",
+    "analisis_profundo": "La subtrama del día es un compás de espera maquiavélico: con el fantasma del Papa Francisco como telón neutro, los gobernadores evitan frentes abiertos pero mandan señales cifradas por la 'caja'. Kicillof (Buenos Aires), maestro del doble discurso, RT Feria del Libro para tapar su pulseada judicial por 2.3 billones en jubilaciones (mencionado ayer, pero eco hoy), recordándole a Caputo que PBA no afloja pese a 'paz franciscana'. Frigerio (Entre Ríos) sale al cruce con reunión Caputo: rutas nacionales, caja jubilatoria, anticipos y acuerdo fiscal para eliminar distorsivos – un apriete velado por fondos coparticipables que Nación debe soltar ya, o Entre Ríos frena exportaciones. Ziliotto (La Pampa) destapa veneno con 'crueldad evitada': dardo directo a Milei por veto salud/discapacidad, posicionando La Pampa como escudo anti-ajuste, exigiendo caja para no explotar socialmente. Passalacqua (Misiones) lanza 'Mamá Misionera' como carnada asistencialista, negociando por abajo fondos Incluir Salud adeudados (2.5B), mientras Weretilneck (Río Negro) alinea oncológicos con PAMI para presionar por deudas prestadores. Elias Suárez (Santiago del Estero) cena CIPPEC para lobby inversores, midiendo pulseada por RIGI/minería sin glaciares. No hay guerra abierta, pero provincias peronistas/radicales forman bloque Norte Grande implícito contra timba nacional: aprietes por cajas (jubilaciones, salud), rutas y coparticipación. Milei resiste, pero si no suelta caja, Santa Fe/Pullaro (silencioso hoy) y aliados rompen pacto fiscal. La rosca se cuece en silencio franciscano: provincias alinean contra Nación para 2027, usando Papa como escudo moral mientras aprietan por guita real. Efecto dominó: si Caputo cede a Frigerio, cadena cae; si no, Norte explota en juicios. Maquiavélico: homenaje Papa arriba, apriete caja abajo.",
+    "temas_calientes": [
+        {
+            "tema": "Aprietes por caja jubilatoria y salud contra ajuste nacional",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Lobby fondos coparticipables y rutas vía Norte Grande",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Asistencialismo cifrado para retener caja social",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio (La Pampa)",
+        "texto": "No solo rechazamos la crueldad, la evitamos. En La Pampa no vamos a abandonar a nuestra gente. Lo decimos y lo hacemos.",
+        "por_que_es_clave": "Dardo maquiavélico a Milei por veto salud/discapacidad: posiciona La Pampa como baluarte anti-ajuste, aprieta por caja nacional adeudada sin confrontar directo, midiendo pacto fiscal.",
+        "pregunta_openarg": "Verificar si La Pampa destinó fondos provinciales a salud/discapacidad en abril 2026 post-veto nacional"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Efemérides"
+            ],
+            "postura_politica": "Homenaje Papa tapa rosca caja jubilaciones; bajo perfil para no escalar con Nación pre-elecciones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Efemérides"
+            ],
+            "postura_politica": "Papa Francisco como escudo pro-Milei; ignora tensiones caja para no romper con PRO nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Caja, rutas, fiscal"
+            ],
+            "postura_politica": "Negocia con Caputo por caja jubilaciones/rutas; apriete sutil por fondos o frena exportaciones.",
+            "frase_fuerte": "Definimos cuatro prioridades: rutas, caja, anticipos, acuerdo fiscal"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Ajuste nacional"
+            ],
+            "postura_politica": "Dardo 'crueldad' a Milei por salud; defiende caja provincial como baluarte anti-abandono.",
+            "frase_fuerte": "No solo rechazamos la crueldad, la evitamos"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Asistencialismo"
+            ],
+            "postura_politica": "'Mamá Misionera' negocia caja social/Incluir Salud; asistencialismo para retener fondos Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Salud"
+            ],
+            "postura_politica": "Oncológicos/PAMI aprieta deudas prestadores; alinea con Norte por caja salud.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Inversores"
+            ],
+            "postura_politica": "Cena CIPPEC lobby RIGI; mide Norte Grande por minería/caja sin glaciares.",
+            "frase_fuerte": null
+        }
+    ]
+}
