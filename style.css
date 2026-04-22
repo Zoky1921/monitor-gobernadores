@@ -631,12 +631,13 @@ html { scroll-behavior: smooth; }
     background: #7dd3fc; 
     box-shadow: 0 4px 15px rgba(56, 189, 248, 0.3);
 }
-/* Modo Roska - Colores Picantes */
+/* Modo Roska - Estética "Círculo Rojo" */
 body.spicy-mode {
-    --fondo-oscuro: #1a0505; /* Un rojo casi negro */
-    --fondo-tarjeta: #2d0a0a;
-    --azul-acento: #f97316; /* Naranja fuego */
-    --rojo-alerta: #ff4500;
+    --fondo-oscuro: #0c0505; /* Casi negro, apenas un tinte vino */
+    --fondo-tarjeta: #1a0909; /* Borgoña ultra oscuro para las cajas */
+    --azul-acento: #dc2626; /* Rojo carmesí institucional (como la alfombra del Congreso) */
+    --rojo-alerta: #991b1b; /* Rojo sangre apagado */
+    --borde: #3f1515; /* Bordes sutiles en tono vino */
 }
 
 /* El botón del Ají */
