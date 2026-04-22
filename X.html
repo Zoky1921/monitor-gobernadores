@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K5G8ZX4KYY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K5G8ZX4KYY');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>El Radar Federal</title>
+
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📡</text></svg>">
+
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="top-bar">
+       <div class="header-content">
+            <h1>El Radar Federal</h1>
+            <p>Radiografía del discurso de los 24 gobernadores mediante IA</p>
+            
+<div class="botones-header" style="display: flex; gap: 15px; margin-top: 20px;">
+    <a href="#seccion-mapa" class="btn-cta">Explorar Mapa de Declaraciones ↓</a>
+<button id="btn-turno" class="btn-turno" onclick="cambiarTurno()">☀️ Turno Mañana</button>
+</div>
+       </div>
+        <div class="date-selector">
+            <label for="fecha-select">📅 Archivo Histórico:</label>
+            <input type="date" id="fecha-select">
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="dashboard-macro">
+            
+            <div class="card resumen-card">
+                <h2>🔍 Clima Político del Día</h2>
+                
+              <div class="resumen-rapido">
+    <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+        <span class="etiqueta-tiempo" style="margin-bottom: 0;">⏱️ Análisis rápido</span>
+        <span id="semaforo-clima" class="semaforo gris" title="Clima Político"></span>
+    </div>
+    
+    <p id="resumen-ejecutivo" style="margin-bottom: 10px;"><i>Buscando análisis rápido...</i></p>
+    
+    <div class="acciones-rapidas" style="justify-content: flex-end; border-bottom: 1px solid #334155; padding-bottom: 15px; margin-bottom: 25px;">
+        <button class="btn-accion" onclick="copiarTexto('resumen-ejecutivo', this)" title="Copiar Análisis">📋</button>
+        <button class="btn-accion" onclick="compartirWhatsApp('resumen-ejecutivo')" title="Compartir en WhatsApp">💬</button>
+        <button class="btn-accion" onclick="compartirX('resumen-ejecutivo')" title="Compartir en X">𝕏</button>
+    </div>
+</div>  
+                <hr style="border: 0; border-top: 1px solid #334155; margin: 20px 0;">
+                
+                <div class="resumen-largo">
+                    <span class="etiqueta-tiempo">📚 Análisis extenso </span>
+                    <div id="analisis-profundo"><i>Cargando análisis detallado...</i></div>
+                </div>
+            </div>
+            
+            <div class="sidebar">
+                <div class="card temas-card">
+                    <h3>📈 Tendencias</h3>
+                    <ul id="temas-lista">
+                        <li>Cargando temas...</li>
+                    </ul>
+                </div>
+              <div class="card destacado-card">
+    <h3>📌 El post del día</h3>
+    <div class="tweet-contenedor">
+        <blockquote id="tweet-destacado-texto">"Cargando cita..."</blockquote>
+        <cite id="tweet-destacado-autor">- </cite>
+        
+        <div class="acciones-rapidas">
+            <button class="btn-accion" onclick="copiarTexto('tweet-destacado-texto', this)" title="Copiar">📋</button>
+            <button class="btn-accion" onclick="compartirWhatsApp('tweet-destacado-texto')" title="Compartir en WhatsApp">💬</button>
+            <button class="btn-accion" onclick="compartirX('tweet-destacado-texto')" title="Compartir en X">𝕏</button>
+        </div>
+    </div>
+</div>
+            </div>
+        </section>
+
+<section id="seccion-mapa" class="gobernadores-micro" style="scroll-margin-top: 40px;">
+            <h2>Mapa de Declaraciones</h2>
+            <p class="instruccion">Hacé clic en un gobernador para ver su análisis detallado y el archivo crudo de sus tweets.</p>
+            <div class="controles-grilla">
+<input type="text" id="buscador-gobernadores" placeholder="🔍 Buscar por apellido o provincia (ej: Pullaro, Córdoba)..." onkeyup="filtrarGobernadores()"></div>
+            <div id="grilla-gobernadores" class="grilla">
+                </div>
+        </section>
+    </main>
+
+    <div id="modal-detalle" class="modal oculta">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            
+            <div id="modal-bio" class="modal-header">
+                </div>
+            
+            <div class="modal-body">
+                <div class="analisis-ia-box">
+                    <h3>🤖 Análisis de Gemini</h3>
+                    <p id="modal-analisis">Cargando...</p>
+                    <div id="modal-cita-box" class="cita-box">
+                        <strong>Cita textual:</strong> <span id="modal-cita-textual"></span>
+                    </div>
+                </div>
+
+                <div class="crudo-box">
+                    <h3>📝 Archivo Crudo (Últimos Tweets)</h3>
+                    <div id="modal-tweets-crudos">
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  <footer class="site-footer">
+        <div class="footer-content">
+            
+         <div class="footer-about">
+    <h4>Sobre el Proyecto</h4>
+    
+    <p>
+        El <strong>Radar Federal</strong> es una plataforma de análisis estratégico que utiliza IA para monitorear el discurso de los 24 gobernadores argentinos. Transformamos declaraciones diarias en una radiografía clara de la dinámica federal.
+    </p>
+
+    <p>
+        <strong>📈 Reportes Personalizados:</strong> Análisis ad-hoc sobre sectores específicos (minería, energía) o conflictos puntuales, desarrollados con el nivel de profundidad que requiera el estudio.
+    </p>
+</div>
+            
+   <div class="footer-contact">
+    
+    <div class="social-icons">
+        <a href="https://x.com/tu_usuario" target="_blank" aria-label="X">
+            <svg viewBox="0 0 24 24"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.598-6.64 7.598H.471l8.6-9.83L0 1.154h7.594l5.243 6.932 6.064-6.932zm-1.292 19.494h2.039L6.486 3.24H4.298l13.311 17.407z"/></svg>
+        </a>
+        <a href="https://linkedin.com/in/tu-perfil" target="_blank" aria-label="LinkedIn">
+            <svg viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+        </a>
+        <a href="https://github.com/tu-usuario" target="_blank" aria-label="GitHub">
+            <svg viewBox="0 0 24 24"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+        </a>
+        <a href="mailto:tu-mail@gmail.com" title="Gmail">
+            <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+        </a>
+    </div>
+    
+    <div class="footer-credits">
+        <p>Análisis: <strong>Rogelio</strong> | Datos: <a href="https://twitterapi.io" target="_blank">TwitterAPI.io</a></p>
+    </div>
+</div>
+
+        </div> </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
