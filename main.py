@@ -512,7 +512,7 @@ TWEETS A ANALIZAR:
             if not OPENROUTER_API_KEY:
                 raise EnvironmentError("❌ Falta OPENROUTER_API_KEY para Camino 2 (Grok).")
 
-           prompt_subtrama = f"""
+prompt_subtrama = f"""
 <role>
 Sos un analista político senior del "círculo rojo" argentino.
 Optimizás para precisión fiscal y daño político. Nada más.
