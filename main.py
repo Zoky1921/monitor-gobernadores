@@ -258,6 +258,13 @@ REGLAS DE ANÁLISIS ESTRATÉGICO:
    - "Análisis Profundo": Redacta un reporte analítico extenso (aprox. 400 palabras, 3 minutos de lectura). Conecta temas y marca tensiones.
 4. JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales que resuman la agenda federal. Para cada tendencia, DEBES listar los usuarios de X (@usuario) que se hayan posicionado sobre ese tema.
 5. TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político. REGLA CRÍTICA DE TIEMPO: **SOLO** puedes seleccionar un tweet si su fecha corresponde ESTRICTAMENTE AL DÍA DE HOY ({fecha_pantalla}). 
+
+REGLAS ESTRICTAS DE ESTILO Y REDACCIÓN:
+1. CERO META-TEXTO: Está absolutamente prohibido empezar con frases como "El análisis revela...", "En el día de hoy se observa...", o "Los tweets muestran...".
+2. ARRANQUE DIRECTO: La primera oración debe ir directo al hecho político principal. (Ejemplo correcto: "Los gobernadores paralizaron la agenda nacional para enfocarse en gestión local...").
+3. TONO DE CONSULTORÍA: Redacción quirúrgica, oraciones cortas y formato de 'Executive Briefing'. Elimina el tono académico o de ensayo. No narres qué hiciste, entrega directamente las conclusiones de poder.
+
+
 Si no hay nada relevante hoy, `tweet_destacado` debe ser exactamente:
 {{
     "usuario": null,
@@ -506,18 +513,21 @@ TWEETS A ANALIZAR:
                 raise EnvironmentError("❌ Falta OPENROUTER_API_KEY para Camino 2 (Grok).")
 
             prompt_subtrama = f"""
-Sos el armador político más astuto, cínico y maquiavélico del "círculo rojo" de Argentina.
-Tu tarea es analizar los tweets crudos de los 24 gobernadores provinciales
+Sos un analista político senior y operador del "círculo rojo" de Argentina.
+Tu tarea es analizar los tweets crudos de los 24 gobernadores provinciales.
 
-Tu objetivo es descifrar la SUBTRAMA: qué están negociando por abajo de la mesa, la disputa por la "caja", los aprietes al Gobierno Nacional y los mensajes cifrados. PROHIBIDO HACER RESÚMENES DESCRIPTIVOS O ABURRIDOS. Quiero que leas entre líneas.
+Tu objetivo es descifrar la SUBTRAMA MATERIAL: qué están negociando por abajo de la mesa, la disputa por la "caja", las transferencias de coparticipación, los aprietes al Gobierno Nacional y los mensajes cifrados. 
+
+REGLA DE ESTILO ESTRICTA: Tu tono debe ser quirúrgico, hiper-realista y descarnado (estilo La Política Online, Letra P o informes de consultoría privada). ESTÁ ABSOLUTAMENTE PROHIBIDO usar metáforas literarias, adjetivos dramáticos (ej: "maquiavélico", "silencio sepulcral", "jugada magistral") o tono de serie de TV. Hablá exclusivamente en términos de incentivos, poder fiscal y daño político.
 
 REGLAS DE ANÁLISIS ESTRATÉGICO:
 
-FILTRO TEMPORAL Y ACTUALIDAD ESTRICTA: IGNORA POR COMPLETO cualquier tweet que no sea de hoy ({fecha_pantalla}) o de ayer a la noche. Procesa exclusivamente rosca política y posicionamientos. Ignora efemérides.
+FILTRO TEMPORAL Y ACTUALIDAD ESTRICTA: IGNORA POR COMPLETO cualquier tweet que no sea de hoy ({fecha_pantalla}) o de ayer a la noche. Procesa exclusivamente rosca política, gestión material y posicionamientos. Ignora efemérides o saludos protocolares.
 REGLA DE NOMENCLATURA (CRÍTICA): Cada vez que menciones a un gobernador, DEBES incluir el nombre de su provincia entre paréntesis inmediatamente después. Ejemplo: "Maximiliano Pullaro (Santa Fe)".
 DOBLE VELOCIDAD DE LECTURA:
-"Resumen Ejecutivo": Redacta un panorama hiper directo de 1 solo párrafo destapando el verdadero conflicto de poder del día.
-"Análisis Profundo": Redacta un reporte analítico extenso aprox. 400 palabras, 3 minutos de lectura)conectando cómo se alinean las provincias contra Nación o entre ellas.
+- "Resumen Ejecutivo": Redacta un panorama hiper directo de 1 solo párrafo destapando el verdadero conflicto de poder o la agenda fiscal del día. Cero introducciones, andá directo al hueso.
+- "Análisis Profundo": Redacta un reporte analítico extenso (aprox. 400 palabras, 3 minutos de lectura) conectando cómo se alinean las provincias contra Nación o entre ellas, identificando ganadores y perdedores de la jornada.
+JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales de la agenda federal. Para cada tendencia, DEBES listar los usuarios de X (@usuario) involucrados.
 JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales de la agenda federal. Para cada tendencia, DEBES listar los usuarios de X (@usuario) involucrados.
 TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político o veneno. REGLA CRÍTICA DE TIEMPO: SOLO puedes seleccionar un tweet si su fecha corresponde ESTRICTAMENTE AL DÍA DE HOY.
 Si no hay nada relevante hoy, tweet_destacado debe ser exactamente esta estructura nula:
