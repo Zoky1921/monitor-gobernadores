@@ -1,13 +1,62 @@
 {
     "clima_general": "SILENCIO",
-    "resumen_ejecutivo": "Silencio de agenda fiscal en la jornada de hoy.",
-    "analisis_profundo": "Lectura posible: repliegue coordinado, tregua o falta de munición. Sin datos suficientes para confirmar tensiones materiales.",
+    "resumen_ejecutivo": "Jornada de bajo voltaje federal: gobernadores priorizan gestión local (pavimentos, gas, 911, educación) sin dardos a Nación ni aprietes interprovinciales. Kicillof (Buenos Aires) marca territorio simbólico con 'educación federal', pero sin caja ni daño. Silencio estratégico en coparticipación o recursos ante ajuste nacional.",
+    "analisis_profundo": "Ausencia total de subtramas materiales: cero menciones a coparticipación, deudas provinciales, litio, obras nacionales o seguridad federal (peso alto). Gobernadores evitan confrontar a Nación en día clave post-lluvias y efemérides papales, optando por relato de gestión provincial (Pullaro pavimenta Santa Fe, Figueroa gasea Neuquén, Weretilneck moderniza 911 en Río Negro). Kicillof y Quintela usan Papa Francisco para posicionamiento simbólico peronista (justicia social vs. ajuste), pero sin impacto en caja. Poggi (San Luis) acumula RTs locales irrelevantes. Ganadores: todos preservan caja evitando roces; perdedores: Nación lee repliegue, pero sin costo político. Test de ausencia: silencio en glaciares/litio (Jalil, Llaryora ausentes hoy) sugiere espera táctica pre-negociación fiscal. Dinámica federal dormida: provincias marcan autonomía simbólica sin escalar a poder real.",
     "temas_calientes": [],
     "tweet_destacado": {
-        "usuario": null,
-        "texto": "Sin posteos destacados en la jornada de hoy",
-        "por_que_es_clave": null,
-        "pregunta_openarg": null
+        "usuario": "@Kicillofok (Buenos Aires)",
+        "texto": "Hacia la construcción de una propuesta educativa federal. 🔗 https://t.co/DaNGBmIPZB #DerechoAlFuturo https://t.co/dIEMQ1ey5V",
+        "por_que_es_clave": "Kicillof usa 'federal' para diferenciarse de ajuste nacional en educación, marcando autonomía bonaerense sin atacar caja directamente; protocolo como territorio ideológico peronista.",
+        "pregunta_openarg": "¿Kicillof impulsa educación federal para contrarrestar recortes nacionales o es relato preelectoral?"
     },
-    "analisis_por_gobernador": []
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "educación federal"
+            ],
+            "postura_politica": "Simbólico: 'propuesta educativa federal' lee como autonomía vs. Milei; no caja, pero posiciona peronismo como escudo social. Agenda local sin impacto federal.",
+            "frase_fuerte": "Hacia la construcción de una propuesta educativa federal"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Papa Francisco"
+            ],
+            "postura_politica": "Posicionamiento simbólico peronista: legado Francisco vs. 'individualismo' mileísta; homenaje protocolar marca ideología sin apriete fiscal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "gas, aniversario local"
+            ],
+            "postura_politica": "Gestión Vaca Muerta: gas en Nahueve como relato de caja petrolera; celebra autonomía energética sin Nación. Agenda local sin impacto federal.",
+            "frase_fuerte": "El gas llegó para quedarse y transformar el norte neuquino"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "seguridad, 911"
+            ],
+            "postura_politica": "Seguridad local: 911 moderno como escudo ante narcotráfico; peso medio en impacto federal, pero sin dardo a Nación. Gestión protocolar aislada.",
+            "frase_fuerte": "VIEDMA TIENE UN 911 MÁS MODERNO Y CERCA DE LA GENTE"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "pavimento"
+            ],
+            "postura_politica": "Obras locales post-lluvias: pavimento en Monte Vera como respuesta territorial; evita federalismo, prioriza relato provincial. Agenda local sin impacto federal.",
+            "frase_fuerte": "Donde antes había barro... hoy hay pavimento"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "gestión municipal"
+            ],
+            "postura_politica": "RTs locales (alarmas, obras): acumula visibilidad sin peso federal; protocolo como poder municipal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        }
+    ]
 }

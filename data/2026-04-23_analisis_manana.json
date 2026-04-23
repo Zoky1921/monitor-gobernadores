@@ -1,32 +1,43 @@
 {
-    "clima_general": "NEUTRAL",
-    "resumen_ejecutivo": "Los gobernadores han enfocado su agenda reciente en la gestión provincial y la ejecución de obra pública con fondos propios, delineando un panorama de auto-suficiencia frente al repliegue nacional. Axel Kicillof (Buenos Aires) destacó una propuesta educativa federal. Sergio Ziliotto (La Pampa) inauguró infraestructura con recursos provinciales, marcando distancia de la Nación. Rolando Figueroa (Neuquén) anunció licitaciones mineras bajo estrictos criterios ambientales. Alberto Weretilneck (Río Negro) modernizó la seguridad con un nuevo Centro 911. Claudio Poggi (San Luis) reportó avances en seguridad urbana y servicios. Maximiliano Pullaro (Santa Fe) inauguró obras de pavimentación, y Osvaldo Jaldo (Tucumán) priorizó infraestructura sanitaria y vial con financiación provincial.",
-    "analisis_profundo": "La jornada federal más reciente evidencia una consolidación de la autonomía provincial en la gestión, en un contexto donde el impacto del ajuste nacional y la reducción de transferencias se hace sentir. Los gobernadores que lograron comunicar acciones relevantes dentro del estricto filtro temporal han puesto el acento en la materialización de obras y servicios con fondos propios, buscando mantener la dinámica de sus administraciones y ofrecer respuestas directas a sus ciudadanos. \n\nAxel Kicillof (Buenos Aires) mantuvo un tono de planificación a futuro con su 'propuesta educativa federal', que, si bien es programática, refuerza la potestad provincial en un área clave. Sergio Ziliotto (La Pampa) adoptó una postura más confrontativa, al inaugurar un Centro de Desarrollo Infantil y explicitar que la obra se 'finalizó con recursos propios frente al retiro del Gobierno nacional de la obra pública', un claro mensaje sobre la redefinición de roles y responsabilidades. \n\nPor su parte, Rolando Figueroa (Neuquén) proyectó una visión de desarrollo económico regional basada en la transparencia y la sostenibilidad, al anunciar la licitación de minas y rechazar la 'etapa de los paracaidistas' que buscan llevarse los recursos sin dejar beneficio. Este posicionamiento es estratégico para las provincias con recursos naturales, buscando atraer inversión genuina. Alberto Weretilneck (Río Negro) se enfocó en la modernización de la seguridad con la inauguración de un Centro de Monitoreo 911, enfatizando el uso de tecnología y la capacidad de respuesta estatal.\n\nClaudio Poggi (San Luis) demostró una gestión municipal activa, reportando la implementación de alarmas ciudadanas, la adquisición de equipamiento para la recolección de residuos y la continuidad de programas para adultos mayores, lo que refleja un fuerte anclaje en la micropolítica y el bienestar local. Maximiliano Pullaro (Santa Fe) hizo hincapié en el cumplimiento de promesas con la inauguración de pavimentación, una mejora directa en la calidad de vida de los vecinos. Finalmente, Osvaldo Jaldo (Tucumán) confirmó una 'agenda de obras prioritarias con financiamiento provincial', que abarca infraestructura sanitaria y vial, destacando la importancia del trabajo conjunto con los municipios. \n\nLa narrativa general de los gobernadores denota una adaptación pragmática al escenario actual, donde la 'defensa de lo propio' y la 'autogestión' se erigen como pilares centrales de su estrategia política y administrativa. La retórica se aleja de grandes anuncios nacionales para concentrarse en la consolidación del poder y la capacidad de respuesta territorial.",
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores consolidan la gestión subnacional priorizando obra pública, seguridad y desarrollo productivo con recursos propios. Destacan la inversión provincial en infraestructura vial, centros de desarrollo infantil y modernización de servicios de seguridad, a menudo marcando un contraste con la supuesta inacción o desfinanciamiento federal. El tono general denota una reafirmación de autonomías y un compromiso con soluciones locales frente a los desafíos económicos y sociales, con críticas explícitas a la falta de apoyo nacional o a la impunidad en la administración de recursos. La agenda se centra en la capacidad de respuesta provincial para garantizar el bienestar de sus ciudadanos.",
+    "analisis_profundo": "La jornada política federal, reflejada en los mensajes de los gobernadores, expone una estrategia clara de consolidación de la gestión provincial ante un escenario de contención o retracción por parte del Gobierno Nacional. La obra pública emerge como un pilar fundamental de esta agenda subnacional. Sergio Ziliotto (La Pampa) explícitamente destaca la inauguración de un Centro de Desarrollo Infantil con 'recursos propios frente al retiro del Gobierno nacional de la obra pública', encapsulando la narrativa dominante. De manera similar, Osvaldo Jaldo (Tucumán) subraya la inversión provincial en infraestructura sanitaria y vial, mientras que Maximiliano Pullaro (Santa Fe) celebra la pavimentación de calles con fondos propios, enfatizando el cumplimiento de promesas a nivel local.\n\nEl eje de la seguridad es otro punto caliente. Ignacio Torres (Chubut) adopta una postura enérgica, solicitando la aplicación de la Ley Antimafias contra grupos criminales y criticando la 'impunidad' y la 'puerta giratoria' de la justicia, lo que denota una clara demanda de orden y control. Claudio Poggi (San Luis) también avanza en seguridad urbana con la implementación de alarmas ciudadanas, mostrando una respuesta tecnológica a problemas locales.\n\nEn el ámbito económico y de desarrollo, Rolo Figueroa (Neuquén) impulsa proyectos de gas y licitaciones mineras, con una declaración contundente sobre el fin de los 'paracaidistas que venían a llevarse los recursos sin dejar nada', lo que subraya una postura de defensa de los intereses provinciales frente a la explotación de recursos. Osvaldo Jaldo (Tucumán) apoya la inversión tecnológica en la industria textil, mientras que Jorge Macri (Ciudad Autónoma de Buenos Aires) se enfoca en posicionar a la Ciudad mediante grandes eventos como el retorno de la Fórmula 1. Weretilneck (Río Negro) también resalta la modernización de servicios de emergencia y la inversión en cultura, buscando un 'Estado presente' y eficiente. La reiteración de acciones con 'recursos propios' o la alusión a la 'defensa' de los intereses provinciales configura un clima de autonomía reforzada y de una tensión latente con el gobierno central, donde las provincias se posicionan como motores de desarrollo y garantes de servicios esenciales.",
     "temas_calientes": [
         {
-            "tema": "Obra Pública e Infraestructura Local con Recursos Provinciales",
+            "tema": "Obra pública y financiamiento provincial ante el repliegue nacional",
             "gobernadores_involucrados": [
                 "@ZiliottoSergio",
-                "@claudiojpoggi",
                 "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@claudiojpoggi",
+                "@WeretilneckOK",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Seguridad, lucha contra el crimen organizado y modernización policial",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@claudiojpoggi",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo, energético y minero con énfasis en recursos locales",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
                 "@OsvaldoJaldo"
             ]
         },
         {
-            "tema": "Modernización y Fortalecimiento de la Seguridad Pública",
+            "tema": "Gestión local y servicios municipales (recolección, atención ciudadana)",
             "gobernadores_involucrados": [
-                "@WeretilneckOK",
-                "@claudiojpoggi"
+                "@claudiojpoggi",
+                "@jorgemacri"
             ]
         },
         {
-            "tema": "Desarrollo y Gestión Responsable de Recursos Naturales (Minería)",
-            "gobernadores_involucrados": [
-                "@Rolo_Figueroa"
-            ]
-        },
-        {
-            "tema": "Posicionamiento en Educación y Desarrollo Social Autónomo",
+            "tema": "Inversión en educación y programas sociales para primera infancia y jóvenes",
             "gobernadores_involucrados": [
                 "@Kicillofok",
                 "@ZiliottoSergio"
@@ -34,9 +45,9 @@
         }
     ],
     "tweet_destacado": {
-        "usuario": "@WeretilneckOK",
-        "texto": "VIEDMA TIENE UN 911 MÁS MODERNO Y CERCA DE LA GENTE\n\nInauguramos el nuevo Centro de Monitoreo del 911. Un espacio renovado, con más tecnología, que nos permite prevenir mejor y responder más rápido ante cada emergencia.\n\nSumamos inteligencia artificial, reconocimiento de patentes y monitoreo en tiempo real. Esto significa más control, más coordinación y decisiones más rápidas para cuidar a los vecinos.\n\nLa seguridad en Río Negro es inversión concreta para que la gente viva más tranquila. Sabemos que falta, pero este es el rumbo: un Estado presente, con tecnología y capacidad de respuesta.",
-        "por_que_es_clave": "El tweet destaca una inversión significativa en tecnología de seguridad, incluyendo inteligencia artificial y monitoreo en tiempo real, lo que posiciona a Río Negro a la vanguardia en modernización de la seguridad pública. La mención de 'Estado presente, con tecnología y capacidad de respuesta' resalta un modelo de gestión eficiente y adaptado a los desafíos actuales, con un impacto directo en la tranquilidad ciudadana.",
+        "usuario": "@OsvaldoJaldo",
+        "texto": "𝗖𝗮𝘀𝗮 𝗱𝗲 𝗚𝗼𝗯𝗶𝗲𝗿𝗻𝗼 | Nos reunimos con la intendenta de Aguilares, Gimena Mansilla, y la diputada Elia Fernández para avanzar en una agenda de obras prioritarias con financiamiento provincial, orientada a fortalecer la infraestructura sanitaria, la conectividad y la recuperación urbana en el sur tucumano. ☑️ En ese marco, definimos como prioridad la finalización de la red cloacal del barrio Villanueva, una obra largamente gestionada que permitirá mejorar la calidad de vida de miles de vecinos y que ejecutamos con recursos propios de la Provincia. 🛤️ Asimismo, analizamos el avance de la ruta provincial 331, fundamental para la conectividad regional, y el estado de los caminos internos, donde venimos interviniendo para garantizar la circulación, especialmente tras las lluvias recientes. 👏🏼 También valoramos las iniciativas impulsadas desde el municipio, como la construcción de un auditorio y otros proyectos que fortalecen la infraestructura local, entendiendo que el trabajo conjunto es clave para dar respuestas concretas. 🤝🏼 Reafirmamos así nuestra decisión de sostener la obra pública a lo largo y a lo ancho del territorio tucumano, priorizando aquellas intervenciones que impactan directamente en la vida cotidiana de nuestra gente y que garantizan servicios esenciales.",
+        "por_que_es_clave": "Destaca la prioridad del gobernador en sostener la obra pública con financiamiento provincial, abordando necesidades básicas como infraestructura sanitaria y conectividad. Refuerza la autonomía y capacidad de gestión provincial en un contexto de probable desfinanciamiento nacional, posicionando a la provincia como un actor fundamental para el desarrollo local.",
         "pregunta_openarg": null,
         "verificacion_openarg": null
     },
@@ -44,73 +55,111 @@
         {
             "gobernador": "@Kicillofok",
             "temas_mencionados": [
-                "Educación",
-                "Federalismo"
+                "Educación federal"
             ],
-            "postura_politica": "Propone una agenda educativa con visión federal, un posicionamiento que subraya la importancia provincial en este ámbito, posiblemente buscando liderazgo o diferenciación respecto a la política nacional.",
-            "frase_fuerte": "Hacia la construcción de una propuesta educativa federal."
+            "postura_politica": "Propone un modelo educativo con visión federal, indicando una postura activa en la articulación de políticas públicas a nivel nacional, aunque sin detalles concretos sobre el contraste con Nación. Busca un enfoque colectivo para el desarrollo educativo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Eventos deportivos",
+                "Desarrollo urbano"
+            ],
+            "postura_politica": "Impulsa la Ciudad como sede de eventos internacionales, buscando posicionamiento y reactivación económica con la Fórmula 1, mostrando una gestión enfocada en el impacto turístico y de marca para Buenos Aires.",
+            "frase_fuerte": "'Preparándonos para que la Fórmula 1 vuelva a la Ciudad.'"
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Celebra el logro de financiamiento para una ruta clave, enfatizando la integración regional y el desarrollo productivo, mostrando una gestión enfocada en infraestructuras postergadas para el Chaco.",
+            "frase_fuerte": "'Dimos un paso importante para el desarrollo del Chaco. LOGRAMOS EL AVAL DEFINITIVO para avanzar con la RUTA AL IMPENETRABLE.'"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia",
+                "Crimen organizado"
+            ],
+            "postura_politica": "Adopta una postura dura y enérgica contra el crimen organizado en Comodoro, exigiendo la aplicación de la Ley Antimafias y encarcelamiento de responsables, denotando un enfoque de 'mano dura' contra la impunidad en Chubut.",
+            "frase_fuerte": "'A LOS VERA Y LOS NIEVES LOS QUIERO PRESOS'"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Prevención de incendios",
+                "Seguridad",
+                "Gestión de emergencias"
+            ],
+            "postura_politica": "Invierte en capacitación y tecnología para fortalecer la capacidad de respuesta provincial ante emergencias ambientales, resaltando la preparación y eficiencia de los bomberos voluntarios de Córdoba.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@ZiliottoSergio",
             "temas_mencionados": [
-                "Obra Pública",
-                "Primera Infancia",
-                "Conflictividad Nación-Provincias"
+                "Primera infancia",
+                "Obra pública",
+                "Autonomía provincial"
             ],
-            "postura_politica": "Posiciona a su provincia como autogestionaria y defensora de los derechos sociales, especialmente en el desarrollo infantil, destacando la finalización de obras con fondos propios ante el retiro de la financiación nacional.",
-            "frase_fuerte": "obra que finalizamos con recursos propios frente al retiro del Gobierno nacional de la obra pública en nuestra provincia."
+            "postura_politica": "Destaca la inversión con recursos propios en centros de desarrollo infantil, enfatizando la defensa de derechos y el cuidado de la población ante el retiro del financiamiento nacional en obra pública, marcando una clara distancia del gobierno federal en La Pampa.",
+            "frase_fuerte": "'Junto a la intendenta Ivana Ferrer inauguramos en Uriburu el Centro de Desarrollo Infantil N° 55 de la provincia, una obra que finalizamos con recursos propios frente al retiro del Gobierno nacional de la obra pública en nuestra provincia.'"
         },
         {
             "gobernador": "@Rolo_Figueroa",
             "temas_mencionados": [
-                "Minería",
-                "Inversiones",
-                "Desarrollo Productivo",
-                "Cuidado Ambiental"
+                "Energía",
+                "Infraestructura",
+                "Desarrollo minero",
+                "Recursos provinciales"
             ],
-            "postura_politica": "Impulsa una gestión minera transparente y responsable, buscando atraer inversiones serias y comprometidas con la provincia, rechazando prácticas extractivas sin retorno local.",
-            "frase_fuerte": "Se termina la etapa de los paracaidistas que venían a llevarse los recursos sin dejar nada."
+            "postura_politica": "Resalta la llegada de servicios esenciales como el gas natural y la licitación de minas, con una crítica explícita a quienes 'venían a llevarse los recursos sin dejar nada', marcando una postura de defensa de los intereses neuquinos en la gestión de recursos estratégicos.",
+            "frase_fuerte": "'Se termina la etapa de los paracaidistas que venían a llevarse los recursos sin dejar nada.'"
         },
         {
             "gobernador": "@WeretilneckOK",
             "temas_mencionados": [
-                "Seguridad Pública",
-                "Modernización del Estado",
-                "Inversión en Tecnología"
+                "Seguridad",
+                "Tecnología",
+                "Infraestructura cultural"
             ],
-            "postura_politica": "Refuerza el compromiso de su gobierno con la seguridad ciudadana a través de la inversión en tecnología avanzada y un Estado proactivo en la prevención, buscando dar respuestas rápidas y efectivas a los vecinos.",
-            "frase_fuerte": "La seguridad en Río Negro es inversión concreta para que la gente viva más tranquila."
+            "postura_politica": "Demuestra un compromiso con la modernización de los sistemas de seguridad (911 con IA) y la inversión en cultura y obras urbanas, proyectando una imagen de un 'Estado presente' que planifica y ejecuta para el crecimiento local de Río Negro.",
+            "frase_fuerte": "'La seguridad en Río Negro es inversión concreta para que la gente viva más tranquila.'"
         },
         {
             "gobernador": "@claudiojpoggi",
             "temas_mencionados": [
-                "Seguridad Ciudadana",
-                "Gestión Municipal",
-                "Servicios Públicos",
-                "Programas Sociales"
+                "Seguridad urbana",
+                "Gestión municipal",
+                "Programas sociales",
+                "Servicios públicos"
             ],
-            "postura_politica": "Exhibe una gestión activa y colaborativa con los municipios, enfocada en mejoras concretas en la seguridad, los servicios urbanos y la inclusión de adultos mayores mediante programas recreativos.",
-            "frase_fuerte": "Tecnologia al servicio de la seguridad de los vecinos. Bien !"
+            "postura_politica": "Promueve la aplicación de tecnología para la seguridad ciudadana y el apoyo a programas sociales y culturales, mostrando una gestión activa en mejorar la calidad de vida y la interacción comunitaria a nivel local en San Luis.",
+            "frase_fuerte": "'ALARMAS CIUDADANAS para el Barrio Luz y Fuerza de la Ciudad de SAN LUIS. Tecnologia al servicio de la seguridad de los vecinos. Bien !'"
         },
         {
             "gobernador": "@maxipullaro",
             "temas_mencionados": [
-                "Obra Pública",
-                "Calidad de Vida"
+                "Obra pública",
+                "Infraestructura urbana"
             ],
-            "postura_politica": "Subraya el cumplimiento de promesas de campaña a través de la inversión en infraestructura básica que mejora directamente la calidad de vida de los ciudadanos en los barrios.",
-            "frase_fuerte": "Prometimos y cumplimos. Hoy en #MonteVera inauguramos calles en el barrio Paprocki."
+            "postura_politica": "Se enfoca en la concreción de obras viales que resuelven problemas básicos de la comunidad, enfatizando el cumplimiento de promesas y la inversión en mejoras directas para los ciudadanos de Santa Fe.",
+            "frase_fuerte": "'Donde antes había barro, dificultades y días en los que salir o llegar a la escuela y al dispensario se hacía cuesta arriba, hoy hay pavimento.'"
         },
         {
             "gobernador": "@OsvaldoJaldo",
             "temas_mencionados": [
-                "Obra Pública",
-                "Infraestructura Sanitaria",
-                "Conectividad Vial",
-                "Gestión Municipal"
+                "Obra pública",
+                "Infraestructura sanitaria",
+                "Conectividad",
+                "Desarrollo industrial"
             ],
-            "postura_politica": "Muestra una gestión activa en la promoción de obras esenciales con financiamiento provincial, priorizando la mejora de la calidad de vida y el desarrollo regional en colaboración con los municipios.",
-            "frase_fuerte": "Reafirmamos así nuestra decisión de sostener la obra pública a lo largo y a lo ancho del territorio tucumano, priorizando aquellas intervenciones que impactan directamente en la vida cotidiana de nuestra gente y que garantizan servicios esenciales."
+            "postura_politica": "Prioriza el financiamiento provincial de obras clave (sanitarias, viales) y el acompañamiento a la inversión privada en la industria, reforzando la decisión de sostener el desarrollo con recursos propios y el trabajo conjunto con municipios en Tucumán.",
+            "frase_fuerte": "'ejecutamos con recursos propios de la Provincia.'"
         }
     ]
 }
