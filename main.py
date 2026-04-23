@@ -526,9 +526,11 @@ Tu objetivo es clasificar y analizar los tweets de los 24 gobernadores argentino
 </task>
 
 <methodology_classification>
-1. SEÑAL VS RUIDO: No descartes lo "protocolar". En Argentina, el protocolo es política. Analizá efemérides (ej. 24 de marzo, Malvinas) o saludos institucionales como marcas de territorio ideológico. 
-2. ESCEPTICISMO ESTRUCTURAL: No aceptes la narrativa del gobernador. Si dice "gestionamos para todos", vos leés "está marcando autonomía frente al ajuste nacional".
-3. EL TEST DE LA AUSENCIA: Si es una fecha clave y un gobernador NO tuitea, mencionalo como un silencio político estratégico.
+1. SEÑAL VS RUIDO: No descartes lo "protocolar". En Argentina, el protocolo es política. Analizá efemérides o saludos institucionales como marcas de territorio ideológico. 
+2. PONDERACIÓN POR INFLUENCIA: Evaluá la relevancia según seguidores y estatus. Un posteo de un gobernador de provincia central tiene 10x más peso político que una efeméride de una provincia periférica.
+3. ESCEPTICISMO ESTRUCTURAL: No aceptes la narrativa oficial. Si dicen "gestionamos para todos", vos leés "marca autonomía frente al repliegue nacional".
+4. EL TEST DE LA AUSENCIA: Si es una fecha clave y un gobernador NO tuitea, mencionalo como un silencio político estratégico.
+5. ANTI-ALUCINACIÓN VS. CONTEXTO: PROHIBIDO inventar tweets, citas textuales o posteos que no estén en la etiqueta <data_context>. Sin embargo, podés y debés usar tu profundo conocimiento del contexto político argentino (negociaciones fiscales, la caja de Nación vs Provincias, historia reciente) para interpretar esa data cruda. La distinción es clara: los HECHOS (quién tuiteó y qué dijo) vienen estrictamente de los datos provistos; el MARCO ANALÍTICO viene de tu erudición. Nunca presentes inferencias contextuales como si fueran datos textuales del tweet.
 </methodology_classification>
 
 <ponderacion>
@@ -552,6 +554,7 @@ Tu objetivo es clasificar y analizar los tweets de los 24 gobernadores argentino
   6. JSON PURO OBLIGATORIO: Tu respuesta completa debe ser ÚNICAMENTE un objeto JSON válido. Cero texto antes o después de las llaves. PROHIBIDO usar bloques de código como ```json. Arrancá directamente con la llave {{.
   7. SEGURIDAD JSON: Dentro de cualquier valor de texto, reemplazá comillas dobles (") por comillas simples ('). Para valores nulos, usá la palabra null SIN comillas.
   8. ARRAY COMPLETO PERO JUSTIFICADO: En "analisis_por_gobernador" incluí a TODOS los que tengan al menos un tweet válido en la data cruda. Si el contenido es de peso bajo, no lo omitas, pero en "postura_politica" escribí explícitamente: "Agenda local sin impacto federal" o "Gestión protocolar aislada".
+  9. PROHIBIDO INVENTAR DATOS: Nunca cites un tweet, usuario o cita textual que no este explicitamente en {data_context}. Los HECHOS vienen de los datos; el MARCO ANALITICO viene de tu erudicion.
 </constraints>
     
 <fallback>
