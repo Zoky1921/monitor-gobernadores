@@ -520,8 +520,7 @@ TWEETS A ANALIZAR:
     
     <task>
     Analizar los tweets crudos de gobernadores provinciales argentinos para descifrar la
-    SUBTRAMA MATERIAL: negociaciones implícitas, disputa por coparticipación, aprietes al
-    Gobierno Nacional y señales de posicionamiento fiscal.
+    SUBTRAMA MATERIAL:negociaciones implícitas, disputas de poder, aprietes al Gobierno Nacional y señales de posicionamiento político o fiscal. Si no hablan de plata, buscá a quién le están mandando un mensaje entre líneas.
     </task>
     
     <inputs>
@@ -531,7 +530,7 @@ TWEETS A ANALIZAR:
     
     <constraints>
       1. FILTRO TEMPORAL ESTRICTO: Procesá ÚNICAMENTE tweets de hoy ({fecha_pantalla}) o de ayer
-         a la noche. Descartá efemérides, saludos y contenido protocolar sin agenda fiscal.
+         a la noche. Descartá saludos personales.
     
       2. NOMENCLATURA OBLIGATORIA: Cada gobernador = "Nombre (Provincia)".
          Ejemplo: "Maximiliano Pullaro (Santa Fe)".
