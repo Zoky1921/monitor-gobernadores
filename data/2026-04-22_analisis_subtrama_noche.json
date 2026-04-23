@@ -1,13 +1,39 @@
 {
-    "clima_general": "SILENCIO",
-    "resumen_ejecutivo": "Silencio de agenda fiscal en la jornada de hoy.",
-    "analisis_profundo": "Lectura posible: repliegue coordinado, tregua o falta de munición. Sin datos suficientes para confirmar tensiones materiales.",
-    "temas_calientes": [],
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Kicillof (BA) mantiene presión fiscal sobre Nación: deuda cajas jubilados 2,3 billones, compromiso pago al 10/06 vía Economía/ANSES; fondos SAE adeudados >$220B a Pettovello; aumentos SAE 30%, duplicación asistencia municipal, 25% programas sociales con caja provincial ante 'deserción' nacional.",
+    "analisis_profundo": "Kicillof posiciona a BA como acreedor agresivo vs Nación, usando Corte Suprema para forzar propuesta concreta de pago en deuda cajas (2+ años pendiente), maximizando leverage fiscal pre-2027. Daño político: expone 'deserción' Caputo/Pettovello en SAE ($220B), cubierto por caja bonaerense vía aumentos 30%/duplicación/25%, ganando imagen protectora de vulnerables. No hay contraataques visibles hoy; resto gobernadores (Zdero Chaco ruta FONPLATA externa, Llaryora Córdoba incendios, Torres Chubut seguridad, Macri CABA F1/Papa) evitan fiscal directo, sugiriendo tregua o foco local. Ganadores: Kicillof acumula caja política para midterm; perdedores: Nación pierde narrativa ajuste si provincias cubren gaps. Sin alineamientos Norte Grande hoy; silencio fiscal general indica posible repliegue post-Papa Francisco o espera fondos. BA drena recursos Nación sin reciprocidad visible, erosionando caja central para 2026/27.",
+    "temas_calientes": [
+        {
+            "tema": "Deuda cajas jubilados BA + SAE adeudado Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        }
+    ],
     "tweet_destacado": {
-        "usuario": null,
-        "texto": "Sin posteos destacados en la jornada de hoy",
-        "por_que_es_clave": null,
-        "pregunta_openarg": null
+        "usuario": "@Kicillofok (Buenos Aires)",
+        "texto": "Lo que discutimos hoy en la Corte Suprema es la deuda de 2,3 billones de pesos por las cajas de jubilados no transferidas por el Gobierno nacional. Logramos un compromiso: el Ministerio de Economía de la Nación y ANSES deberán traer el próximo 10 de junio una propuesta concreta de pago, algo que venimos solicitando hace más de dos años.",
+        "por_que_es_clave": "Fuerza judicial para pago concreto deuda cajas, apriete directo Economía/ANSES, posiciona BA como víctima/discípulo fiscal vs Nación.",
+        "pregunta_openarg": "¿Caputo/ANSES cumplirá propuesta pago 10/06 por 2,3 billones cajas BA?"
     },
-    "analisis_por_gobernador": []
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "deuda cajas jubilados 2,3 billones",
+                "SAE $220B adeudado",
+                "aumentos SAE con caja provincial"
+            ],
+            "postura_politica": "Apriete Nación vía Corte (pago 10/06); cubre gaps propios (aumentos 30%/duplicación/25%) para dañar imagen Caputo/Pettovello como 'desertores'. Mensaje a peronismo federal: BA lidera reclamos caja.",
+            "frase_fuerte": "deserción del gobierno nacional"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "financiamiento FONPLATA ruta"
+            ],
+            "postura_politica": "Busca caja externa multilateral (FONPLATA) para ruta Impenetrable, evita confrontar Nación directa hoy.",
+            "frase_fuerte": null
+        }
+    ]
 }
