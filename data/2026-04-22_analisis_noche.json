@@ -1,0 +1,218 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una fuerte impronta de gestión provincial y una clara marcación de posturas frente a las dinámicas nacionales y entre jurisdicciones. Gobernadores como Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) destacaron obras con fondos propios y el potencial productivo regional. Sin embargo, la tensión emergió con la firme defensa de recursos por parte de Marcelo Orrego (San Juan) ante disputas interprovinciales, y la contundente demanda de seguridad de Nacho Torres (Chubut). La agenda se centró en la concreción de proyectos locales, la lucha contra el crimen y la atracción de inversiones, con un mensaje generalizado de autonomía y reivindicación provincial.",
+    "analisis_profundo": "La agenda federal de hoy se configuró en torno a una combinación de gestión provincial activa y una subyacente, pero palpable, tensión con el esquema nacional y entre provincias. Se observa una tendencia clara de los gobernadores a enfatizar la autonomía y la capacidad de resolución local, a menudo en contraste con la acción o inacción del Gobierno central. \n\nLeandro Zdero (Chaco) y Martín Llaryora (Córdoba) proyectaron una imagen de concreción, el primero al asegurar financiación internacional para una ruta clave y el segundo al reforzar la prevención de incendios forestales con capacitaciones. En la misma línea, Sergio Ziliotto (La Pampa) inauguró un Centro de Desarrollo Infantil con recursos propios, subrayando la decisión política de 'no abandonar a nuestra gente' frente a la retirada nacional de la obra pública, un mensaje que resuena con la retórica de independencia financiera que muchos mandatarios provinciales adoptan. Claudio Poggi (San Luis) también evidenció esta proactividad al firmar convenios de obras públicas municipales y potenciar la seguridad ciudadana con tecnología.\n\nLa defensa de los recursos naturales y la jurisdicción provincial se manifestó con contundencia. Marcelo Orrego (San Juan) emitió una declaración explícita y legalista sobre la titularidad de los recursos del subsuelo, sentando un precedente en disputas interprovinciales. Rolando Figueroa (Neuquén) complementó esta visión al anunciar licitaciones de minas y destacar a Neuquén como la cuarta provincia exportadora, con un modelo provincial que 'prioriza el trabajo, el desarrollo y los recursos para nuestra gente'. Asimismo, Alfredo Cornejo (Mendoza) buscó activamente inversión extranjera en minería, referenciando modelos internacionales y aplicando tecnología a la seguridad.\n\nLa seguridad fue otro pilar. Nacho Torres (Chubut) exigió la aplicación de la 'Ley Antimafias' contra organizaciones criminales, con una retórica directa que busca endurecer la justicia. En Misiones, Hugo Passalacqua se centró en políticas sociales para la primera infancia, mientras que Osvaldo Jaldo (Tucumán) resaltó la inversión privada en su provincia y la importancia del diálogo institucional. Gerardo Zamora (Santiago del Estero) continuó impulsando la ciencia y tecnología y manteniendo relaciones diplomáticas. Alberto Weretilneck (Río Negro) destacó una amplia gama de obras provinciales, desde infraestructura cultural hasta la atención oncológica, reforzando la narrativa de un 'Estado que acompaña y que no te deja solo'. Maxi Pullaro (Santa Fe) se enfocó en obras de infraestructura urbana y la importancia de la educación.\n\nEn conjunto, el día reflejó una fuerte centralidad de la gestión provincial y una afirmación de la autonomía, a la vez que se visibilizaron tensiones por recursos y el clamor por soluciones a problemáticas estructurales, como la seguridad y el financiamiento de obras.",
+    "temas_calientes": [
+        {
+            "tema": "Autonomía y Financiamiento Provincial ante el Retiro Nacional",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Desarrollo y Defensa de Recursos Minero-Energéticos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@DrMarceloOrrego",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Seguridad Pública y Lucha contra el Narcotráfico/Crimen Organizado",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@alfredocornejo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Obras Públicas con Fondos Propios/Externos",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales, Educación y Diálogo Institucional",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@passalacquaok",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo",
+                "@maxipullaro",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@DrMarceloOrrego",
+        "texto": "Como ya dije, quiero ser claro: la jurisdicción de San Juan es legal y está respaldada por la Ley 18.004 y la Constitución Nacional. No es un acuerdo entre funcionarios, es una ley vigente desde hace más de 50 años. Los recursos que están en el subsuelo sanjuanino son de los sanjuaninos y los vamos a defender con la ley en la mano, siempre. Tenemos respeto por La Rioja y creemos en el diálogo institucional, pero no en debates sin sustento jurídico. La ley es la ley.",
+        "por_que_es_clave": "Este tweet marca una postura firme y legalista del gobernador Marcelo Orrego (San Juan) en la defensa de los recursos provinciales, estableciendo un límite claro ante posibles disputas con otras jurisdicciones (implícitamente, La Rioja) y subrayando la autonomía provincial sobre sus bienes naturales, un eje recurrente en la tensión federal argentina.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura vial",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "El gobernador Leandro Zdero (Chaco) muestra un liderazgo enfocado en la concreción de obras estratégicas con aval de organismos de financiamiento internacional, priorizando la conectividad y el desarrollo productivo regional para su provincia.",
+            "frase_fuerte": "LOGRAMOS EL AVAL DEFINITIVO para avanzar con la RUTA AL IMPENETRABLE."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el crimen organizado",
+                "Justicia"
+            ],
+            "postura_politica": "Nacho Torres (Chubut) asume una postura confrontativa y de mano dura contra el crimen organizado, exigiendo la aplicación de leyes más severas y responsabilizando a jueces por la 'puerta giratoria', en un claro mensaje de seguridad para su provincia.",
+            "frase_fuerte": "A LOS VERA Y LOS NIEVES LOS QUIERO PRESOS"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Prevención de emergencias",
+                "Seguridad comunitaria",
+                "Capacitación"
+            ],
+            "postura_politica": "Martín Llaryora (Córdoba) prioriza la prevención y el entrenamiento de sus fuerzas de emergencia, buscando fortalecer la capacidad de respuesta ante desastres naturales y optimizar la seguridad mediante la capacitación especializada de bomberos voluntarios.",
+            "frase_fuerte": "Con más entrenamiento y prevención nos anticipamos a la temporada de incendios forestales."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Desarrollo económico",
+                "Integración regional"
+            ],
+            "postura_politica": "Carlos Sadir (Jujuy) trabaja activamente en la diplomacia provincial, buscando fortalecer lazos con países vecinos como Brasil para fomentar el desarrollo económico y la integración regional, posicionando a Jujuy como un actor clave en el escenario subnacional.",
+            "frase_fuerte": "Recibí al Embajador de la República Federativa del Brasil en Argentina, Julio Glinternick Bitelli, en una visita para seguir fortaleciendo los vínculos entre Jujuy y Brasil."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Política social",
+                "Infraestructura social",
+                "Autonomía provincial"
+            ],
+            "postura_politica": "Sergio Ziliotto (La Pampa) reafirma un fuerte compromiso con las políticas sociales y la finalización de obras con fondos propios, destacando la autonomía provincial frente al desfinanciamiento nacional y asegurando la cobertura de derechos para su población.",
+            "frase_fuerte": "No solo rechazamos la crueldad, la evitamos. En La Pampa no vamos a abandonar a nuestra gente. Lo decimos y lo hacemos."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Seguridad",
+                "Tecnología aplicada",
+                "Desarrollo minero",
+                "Inversión extranjera"
+            ],
+            "postura_politica": "Alfredo Cornejo (Mendoza) apuesta por la modernización en seguridad con tecnología de drones y busca activamente la inversión extranjera en el sector minero, tomando modelos internacionales y consolidando una agenda de desarrollo productivo.",
+            "frase_fuerte": "Con drones, pilotos capacitados y equipos instalados en el territorio, mejoramos los tiempos de respuesta ante emergencias, reforzamos la prevención del delito y sumamos herramientas clave para búsquedas e investigaciones."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Políticas de género",
+                "Salud y primera infancia",
+                "Asistencia social"
+            ],
+            "postura_politica": "Hugo Passalacqua (Misiones) enfoca su gestión en programas sociales de alto impacto como 'Mamá Misionera', priorizando el cuidado de la vida desde el inicio y el acompañamiento integral a familias, con una fuerte presencia del Estado provincial.",
+            "frase_fuerte": "Acompañamos a madres gestantes y a familias con niños en sus primeros meses, con formación, asistencia y presencia real del Estado."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo minero y energético",
+                "Infraestructura social",
+                "Gestión de recursos",
+                "Seguridad",
+                "Educación"
+            ],
+            "postura_politica": "Rolando Figueroa (Neuquén) impulsa el desarrollo minero con transparencia y responsabilidad ambiental, mientras prioriza la mejora de la calidad de vida de los ciudadanos a través de la provisión de servicios esenciales y la inversión en infraestructura de seguridad, mostrando una clara orientación hacia el desarrollo productivo y la redistribución de la riqueza provincial, además de respaldar la educación pública.",
+            "frase_fuerte": "En los próximos meses vamos a estar licitando, como corresponde, la mina Erika y Sofía en Andacollo, con inversores internacionales que demuestren solvencia, que garanticen el cuidado del ambiente y que generen trabajo para nuestra gente."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Salud",
+                "Educación",
+                "Desarrollo cultural",
+                "Participación juvenil"
+            ],
+            "postura_politica": "Alberto Weretilneck (Río Negro) destaca una gestión proactiva en obras públicas y servicios esenciales, desde infraestructura cultural hasta atención oncológica, enfatizando el financiamiento provincial y la defensa del trabajo local, mientras fomenta la participación de jóvenes en el desarrollo de la provincia.",
+            "frase_fuerte": "OBRA HISTÓRICA: VIEDMA PONE EN MARCHA SU NUEVO CENTRO CULTURAL"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Federalismo",
+                "Recursos naturales",
+                "Marco legal"
+            ],
+            "postura_politica": "Marcelo Orrego (San Juan) adopta una postura legalista y firme en la defensa de la jurisdicción provincial sobre sus recursos del subsuelo, apelando a la Constitución Nacional y leyes vigentes para rechazar debates sin fundamento jurídico, en un mensaje claro de autonomía y soberanía provincial.",
+            "frase_fuerte": "Los recursos que están en el subsuelo sanjuanino son de los sanjuaninos y los vamos a defender con la ley en la mano, siempre."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Seguridad ciudadana",
+                "Obras públicas municipales",
+                "Política social"
+            ],
+            "postura_politica": "Claudio Poggi (San Luis) se enfoca en la seguridad ciudadana a través de la implementación de tecnología y en la reactivación de obras públicas municipales, a la vez que prioriza programas sociales para adultos mayores, impulsando la mejora de servicios y la generación de empleo a nivel local.",
+            "frase_fuerte": "Acuerdo Pcia-Municipios “CONSTRUYENDO CON TU PUEBLO”. Firmamos esta tarde con los Intendentes de Los Molles, Cortaderas, Papagayos, Candelaria, Tilisarao, Talita, Lafinur y Anchorena, los respectivos convenios de OBRAS PÚBLICAS MUNICIPALES en el marco del Programa Construyendo con tu Pueblo. Más Obras Públicas que generan trabajo !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Apoyo institucional",
+                "Gestión local"
+            ],
+            "postura_politica": "Claudio Vidal (Santa Cruz) demuestra un enfoque de apoyo directo a las instituciones locales, realizando aportes económicos a entidades en Perito Moreno, consolidando una política de cercanía y fortalecimiento de la gestión comunitaria.",
+            "frase_fuerte": "HOY ACOMPAÑAMOS A PERITO MORENO CON APORTES A DOS INSTITUCIONES QUE CUMPLEN UN ROL MUY IMPORTANTE EN LA COMUNIDAD"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Educación",
+                "Infraestructura social"
+            ],
+            "postura_politica": "Maximiliano Pullaro (Santa Fe) enfatiza la inversión en infraestructura pública, como la pavimentación de calles, para mejorar la calidad de vida de los ciudadanos y posiciona a la educación como un eje central de su gestión, promoviendo la importancia de la presencialidad escolar.",
+            "frase_fuerte": "Donde antes había barro, dificultades y días en los que salir o llegar a la escuela y al dispensario se hacía cuesta arriba, hoy hay pavimento."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Ciencia y tecnología",
+                "Relaciones interprovinciales",
+                "Diálogo con organismos internacionales"
+            ],
+            "postura_politica": "Gerardo Zamora (Santiago del Estero) impulsa el desarrollo científico-tecnológico a través del Consejo Federal de Ciencia, Tecnología e Innovación, buscando una planificación federal. Además, mantiene un activo diálogo con representantes diplomáticos y económicos internacionales, buscando posicionar a la provincia en agendas globales.",
+            "frase_fuerte": "Hoy participé de la apertura de la 1ª Asamblea del Consejo Federal de Ciencia, Tecnología e Innovación 2026, en el Nodo Tecnológico de Santiago del Estero."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Inversión privada",
+                "Fortalecimiento institucional"
+            ],
+            "postura_politica": "Osvaldo Jaldo (Tucumán) respalda la inversión privada y la actualización tecnológica en el sector industrial, como en la planta textil Santista Argentina, para generar empleo y dinamizar la economía. Además, mantiene un diálogo institucional con figuras clave como Ricardo Lorenzetti, buscando fortalecer el sistema democrático.",
+            "frase_fuerte": "En un contexto complejo para la industria, quiero destacar la decisión de esta empresa de seguir invirtiendo en Tucumán."
+        }
+    ]
+}
