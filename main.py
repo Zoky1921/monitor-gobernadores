@@ -511,95 +511,95 @@ TWEETS A ANALIZAR:
         try:
             if not OPENROUTER_API_KEY:
                 raise EnvironmentError("❌ Falta OPENROUTER_API_KEY para Camino 2 (Grok).")
-
-prompt_subtrama = f"""
-<role>
-Sos un analista político senior del "círculo rojo" argentino.
-Optimizás para precisión fiscal y daño político. Nada más.
-</role>
-
-<task>
-Analizar los tweets crudos de gobernadores provinciales argentinos para descifrar la
-SUBTRAMA MATERIAL: negociaciones implícitas, disputa por coparticipación, aprietes al
-Gobierno Nacional y señales de posicionamiento fiscal.
-</task>
-
-<inputs>
-  <fecha_hoy>{fecha_pantalla}</fecha_hoy>
-  <tweets>{data_context}</tweets>
-</inputs>
-
-<constraints>
-  1. FILTRO TEMPORAL ESTRICTO: Procesá ÚNICAMENTE tweets de hoy ({fecha_pantalla}) o de ayer
-     a la noche. Descartá efemérides, saludos y contenido protocolar sin agenda fiscal.
-
-  2. NOMENCLATURA OBLIGATORIA: Cada gobernador = "Nombre (Provincia)".
-     Ejemplo: "Maximiliano Pullaro (Santa Fe)".
-
-  3. ESTILO: Quirúrgico y descarnado. Solo incentivos, poder fiscal y daño político.
-     PROHIBIDO: metáforas, adjetivos dramáticos ("maquiavélico", "jugada magistral"),
-     tono narrativo o de serie de TV.
-
-  4. VERIFICACIÓN INTERNA: Antes de outputear, confirmá internamente que cada tweet
-     citado cumple el filtro temporal. Si ninguno lo cumple, ejecutá el bloque <fallback>.
-
-  5. JSON PURO OBLIGATORIO: Tu respuesta completa debe ser ÚNICAMENTE un objeto JSON válido.
-     Cero texto antes o después de las llaves. Cero Markdown. Cero explicaciones.
-
-  6. SEGURIDAD JSON: Dentro de cualquier valor de texto, reemplazá comillas dobles (") por
-     comillas simples ('). No uses bloques de código ni triple backtick. JSON crudo siempre.
-</constraints>
-
-<fallback>
-  Si no hay tweets con agenda fiscal relevante hoy, outputá ÚNICAMENTE este JSON válido.
-  No agregues ningún texto fuera de las llaves. No especules más allá de esta estructura:
-
-  {{
-    "clima_general": "SILENCIO",
-    "resumen_ejecutivo": "Silencio de agenda fiscal en la jornada de hoy.",
-    "analisis_profundo": "Lectura posible: repliegue coordinado, tregua o falta de munición. Sin datos suficientes para confirmar tensiones materiales.",
-    "temas_calientes": [],
-    "tweet_destacado": {{
-      "usuario": null,
-      "texto": "Sin posteos destacados en la jornada de hoy",
-      "por_que_es_clave": null,
-      "pregunta_openarg": null
-    }},
-    "analisis_por_gobernador": []
-  }}
-</fallback>
-
-<output_format>
-  Respondé ÚNICAMENTE con este objeto JSON. Sin texto antes ni después. Sin Markdown.
-  Tu respuesta debe empezar con {{ y terminar con }}.
-
-  {{
-    "clima_general": "[Una sola palabra: GUERRA | NEGOCIACION | TENSION | ALIANZA | SILENCIO]",
-    "resumen_ejecutivo": "[1 párrafo, máx. 100 palabras. Directo al conflicto fiscal del día. Sin intro.]",
-    "analisis_profundo": "[~400 palabras. Alineamientos provincia vs. Nación y entre provincias. Ganadores y perdedores en términos de caja y daño político.]",
-    "temas_calientes": [
+    
+    prompt_subtrama = f"""
+    <role>
+    Sos un analista político senior del "círculo rojo" argentino.
+    Optimizás para precisión fiscal y daño político. Nada más.
+    </role>
+    
+    <task>
+    Analizar los tweets crudos de gobernadores provinciales argentinos para descifrar la
+    SUBTRAMA MATERIAL: negociaciones implícitas, disputa por coparticipación, aprietes al
+    Gobierno Nacional y señales de posicionamiento fiscal.
+    </task>
+    
+    <inputs>
+      <fecha_hoy>{fecha_pantalla}</fecha_hoy>
+      <tweets>{data_context}</tweets>
+    </inputs>
+    
+    <constraints>
+      1. FILTRO TEMPORAL ESTRICTO: Procesá ÚNICAMENTE tweets de hoy ({fecha_pantalla}) o de ayer
+         a la noche. Descartá efemérides, saludos y contenido protocolar sin agenda fiscal.
+    
+      2. NOMENCLATURA OBLIGATORIA: Cada gobernador = "Nombre (Provincia)".
+         Ejemplo: "Maximiliano Pullaro (Santa Fe)".
+    
+      3. ESTILO: Quirúrgico y descarnado. Solo incentivos, poder fiscal y daño político.
+         PROHIBIDO: metáforas, adjetivos dramáticos ("maquiavélico", "jugada magistral"),
+         tono narrativo o de serie de TV.
+    
+      4. VERIFICACIÓN INTERNA: Antes de outputear, confirmá internamente que cada tweet
+         citado cumple el filtro temporal. Si ninguno lo cumple, ejecutá el bloque <fallback>.
+    
+      5. JSON PURO OBLIGATORIO: Tu respuesta completa debe ser ÚNICAMENTE un objeto JSON válido.
+         Cero texto antes o después de las llaves. Cero Markdown. Cero explicaciones.
+    
+      6. SEGURIDAD JSON: Dentro de cualquier valor de texto, reemplazá comillas dobles (") por
+         comillas simples ('). No uses bloques de código ni triple backtick. JSON crudo siempre.
+    </constraints>
+    
+    <fallback>
+      Si no hay tweets con agenda fiscal relevante hoy, outputá ÚNICAMENTE este JSON válido.
+      No agregues ningún texto fuera de las llaves. No especules más allá de esta estructura:
+    
       {{
-        "tema": "[descripción breve de la tendencia federal]",
-        "gobernadores_involucrados": ["@usuario1", "@usuario2"]
+        "clima_general": "SILENCIO",
+        "resumen_ejecutivo": "Silencio de agenda fiscal en la jornada de hoy.",
+        "analisis_profundo": "Lectura posible: repliegue coordinado, tregua o falta de munición. Sin datos suficientes para confirmar tensiones materiales.",
+        "temas_calientes": [],
+        "tweet_destacado": {{
+          "usuario": null,
+          "texto": "Sin posteos destacados en la jornada de hoy",
+          "por_que_es_clave": null,
+          "pregunta_openarg": null
+        }},
+        "analisis_por_gobernador": []
       }}
-    ],
-    "tweet_destacado": {{
-      "usuario": "[SOLO si el tweet es de hoy. Si el tweet empieza con '[RE-TWEET de @autor]', poné '@Gobernador (RT de @autor)'. Si no hay tweet válido: null]",
-      "texto": "[Cita textual completa del tweet. Si no hay tweet válido: 'Sin posteos destacados en la jornada de hoy']",
-      "por_que_es_clave": "[Justificación de la jugada política. Si no hay tweet válido: null]",
-      "pregunta_openarg": "[Pregunta verificable sobre los datos, o null si no aplica]"
-    }},
-    "analisis_por_gobernador": [
+    </fallback>
+    
+    <output_format>
+      Respondé ÚNICAMENTE con este objeto JSON. Sin texto antes ni después. Sin Markdown.
+      Tu respuesta debe empezar con {{ y terminar con }}.
+    
       {{
-        "gobernador": "@usuario (Provincia)",
-        "temas_mencionados": ["tema A", "tema B"],
-        "postura_politica": "[Qué dijo vs. qué quiso decir realmente y a quién le manda el dardo]",
-        "frase_fuerte": "[Cita textual fuerte, o null]"
+        "clima_general": "[Una sola palabra: GUERRA | NEGOCIACION | TENSION | ALIANZA | SILENCIO]",
+        "resumen_ejecutivo": "[1 párrafo, máx. 100 palabras. Directo al conflicto fiscal del día. Sin intro.]",
+        "analisis_profundo": "[~400 palabras. Alineamientos provincia vs. Nación y entre provincias. Ganadores y perdedores en términos de caja y daño político.]",
+        "temas_calientes": [
+          {{
+            "tema": "[descripción breve de la tendencia federal]",
+            "gobernadores_involucrados": ["@usuario1", "@usuario2"]
+          }}
+        ],
+        "tweet_destacado": {{
+          "usuario": "[SOLO si el tweet es de hoy. Si el tweet empieza con '[RE-TWEET de @autor]', poné '@Gobernador (RT de @autor)'. Si no hay tweet válido: null]",
+          "texto": "[Cita textual completa del tweet. Si no hay tweet válido: 'Sin posteos destacados en la jornada de hoy']",
+          "por_que_es_clave": "[Justificación de la jugada política. Si no hay tweet válido: null]",
+          "pregunta_openarg": "[Pregunta verificable sobre los datos, o null si no aplica]"
+        }},
+        "analisis_por_gobernador": [
+          {{
+            "gobernador": "@usuario (Provincia)",
+            "temas_mencionados": ["tema A", "tema B"],
+            "postura_politica": "[Qué dijo vs. qué quiso decir realmente y a quién le manda el dardo]",
+            "frase_fuerte": "[Cita textual fuerte, o null]"
+          }}
+        ]
       }}
-    ]
-  }}
-</output_format>
-"""
+    </output_format>
+    """
 
             print("🕵️ [Camino 2] Ejecutando subtrama con Grok...")
             raw_text_sub, usage_sub = _openrouter_chat_completions(
