@@ -568,6 +568,7 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
   7. SEGURIDAD JSON: Dentro de cualquier valor de texto, reemplazá comillas dobles (") por comillas simples ('). Para valores nulos, usá la palabra null SIN comillas.
   8. ARRAY COMPLETO PERO JUSTIFICADO: En "analisis_por_gobernador" incluí a TODOS los que tengan al menos un tweet válido en la data cruda. Si el contenido es de peso bajo, no lo omitas, pero en "postura_politica" escribí explícitamente: "Agenda local sin impacto federal" o "Gestión protocolar aislada".
   9. PROHIBIDO INVENTAR DATOS: Nunca cites un tweet, usuario o cita textual que no este explicitamente en {data_context}. Los HECHOS vienen de los datos; el MARCO ANALITICO viene de tu erudicion.
+  10. JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales que resuman la agenda federal. Para cada tendencia, DEBES listar los usuarios de X (@usuario) que se hayan posicionado sobre ese tema.
 </constraints>
     
 <fallback>
