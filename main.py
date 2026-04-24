@@ -7,6 +7,7 @@ import requests
 from datetime import datetime, timedelta, timezone
 from google import genai
 from google.genai import types
+from json_repair import repair_json
 
 # 1. Cargar llaves
 TWITTERAPI_KEY = os.environ.get("TWITTERAPI_KEY")
@@ -632,7 +633,7 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
             )
 
             raw_text_sub = _limpiar_json_llm(raw_text_sub)
-            resumen_subtrama = json.loads(raw_text_sub)
+            resumen_subtrama = json.loads(repair_json(raw_text_sub))
 
             # Guardar el análisis subtrama
             ruta_subtrama = f"data/{fecha_hoy_str}_analisis_subtrama_{turno}.json"
