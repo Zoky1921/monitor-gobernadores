@@ -103,6 +103,7 @@ def _openrouter_chat_completions(modelo: str, prompt: str, timeout: int = 90, ma
 
     choices = rj.get("choices") or []
     if not choices:
+        print(f"⚠️ OpenRouter error body: {json.dumps(rj)[:500]}")   # ← línea nueva
         raise ValueError("OpenRouter devolvió respuesta sin 'choices'.")
 
     content = (choices[0].get("message") or {}).get("content", "")
