@@ -321,7 +321,7 @@ function copiarTexto(idElemento, botonPresionado) {
         texto = `"${texto}"`;
     }
 
-    texto += `\n\n📌 Vía El Radar Federal\n👉 radarfederal.com.ar`;
+    texto += `\n\n📌 Vía El Radar Federal\n👉 radarfederal.ar`;
 
     const iconoOriginal = botonPresionado.innerHTML;
     
@@ -349,7 +349,7 @@ function compartirWhatsApp(idElemento) {
          mensaje += `\n${autor}`;
     }
     
-    mensaje += `\n\n👉 radarfederal.com.ar`;
+    mensaje += `\n\n👉 radarfederal.ar`;
     
     const url = `https://wa.me/?text=${encodeURIComponent(mensaje)}`;
     window.open(url, '_blank');
@@ -364,7 +364,7 @@ function compartirX(idElemento) {
          tweetTexto += `\n${autor}`;
     }
     
-tweetTexto += `\n\n📊 Vía El Radar Federal\n👉 radarfederal.com.ar`;
+tweetTexto += `\n\n📊 Vía El Radar Federal\n👉 radarfederal.ar`;
     
     const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`;
     window.open(url, '_blank');
