@@ -1,0 +1,57 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Gobernadores optan por el mutismo federal: foco en gestión local de bajo voltaje (agua, salud, educación). Ausencia total de roces con Nación o entre provincias marca un apagón político coordinado, aislando a Casa Rosada en su relato de ajuste. ¿Coincidencia o cartelizacion tácita para erosionar hegemonía mileísta?",
+    "analisis_profundo": "El 23/04/2026 revela un repliegue estratégico de los gobernadores hacia lo municipal/provincial, ignorando la agenda nacional en un juego de espejos que debilita a Milei. Kicillof (Buenos Aires), con peso gravitacional 10x, lanza MDF Educación 'federal' pero es puro relato peronista para captar simbólicamente sin caja real de Nación, mientras Caputo retiene fondos. Llaryora (Córdoba) y Jalil (Catamarca) exhiben obras hídricas locales (agua potable Buchardo, riego Guanchín), peso medio, pero ¿ocultan aprietes fiscales pendientes? Valdés (Corrientes) avanza expropiación para parque industrial, pacto inconfesable con privados ante opacidad coparticipante. Poggi (San Luis) y Figueroa (Neuquén) en gestión protocolar (escrituras, alarmas, anti-narco local), sin impacto federal. Macri (CABA) educa con TUMO, marca territorio porteño. Este aislamiento colectivo -sin test de ausencia en fechas clave- configura un 'apagón político' que deslegitima el ajuste nacional: gobernadores gestionan lo visible (pavimentos, centros salud) para erosionar relato Casa Rosada, diplomacia de la caja en subsuelo. Ganadores: peronistas como Kicillof, que arma oposición simbólica sin confrontar caja; perdedores: Nación, expuesta a hegemonía provincial en silencio. ¿Acaso ignoran que obras dependen de firma Caputo? Opacidad total, como macroeconomía post-2001.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión hidrica local (agua riego/potable)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Educación provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Obras industriales/expropiacion",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok"
+            ]
+        },
+        {
+            "tema": "Seguridad/anti-narco local",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Salud publica avanzada",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Gestión municipal (alarmas, escrituras)",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Anti-corrupcion local",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Produccion energetica local",
+            "gobernadores_involucrados": []
+        }
+    ]
+}
