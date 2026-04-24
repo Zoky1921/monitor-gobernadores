@@ -571,6 +571,7 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
   8. ARRAY COMPLETO PERO JUSTIFICADO: En "analisis_por_gobernador" incluí a TODOS los que tengan al menos un tweet válido en la data cruda. Si el contenido es de peso bajo, no lo omitas, pero en "postura_politica" escribí explícitamente: "Agenda local sin impacto federal" o "Gestión protocolar aislada".
   9. PROHIBIDO INVENTAR DATOS: Nunca cites un tweet, usuario o cita textual que no este explicitamente en {data_context}. Los HECHOS vienen de los datos; el MARCO ANALITICO viene de tu erudicion.
   10. JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales que resuman la agenda federal. Para cada tendencia, DEBES listar los usuarios de X (@usuario) que se hayan posicionado sobre ese tema.
+  11. INTEGRIDAD ESTRUCTURAL OBLIGATORIA: Tu JSON debe contener ABSOLUTAMENTE TODOS los nodos solicitados en el <output_format>, incluyendo "tweet_destacado" y "analisis_por_gobernador". No cortes la respuesta por la mitad. Y respetá el MÁXIMO DE 5 ítems en el array "temas_calientes".  
 </constraints>
     
 <fallback>
@@ -629,7 +630,7 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
                 modelo=MODELO_GROK_SUBTRAMA,
                 prompt=prompt_subtrama,
                 timeout=120,
-                max_tokens=5000,
+                max_tokens=8000,
                 temperature=0.2,
             )
 
