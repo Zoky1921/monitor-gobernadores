@@ -1,0 +1,177 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores Kicillof (Buenos Aires) y Ziliotto (La Pampa) marcaron una jornada tensa con críticas directas al Gobierno nacional, especialmente sobre desfinanciamiento de educación pública, privatizaciones de servicios clave y retiro de obra pública. En contraste, mandatarios como Torres (Chubut), Llaryora (Córdoba), Cornejo (Mendoza), Figueroa (Neuquén), Weretilneck (Río Negro), Vidal (Santa Cruz), Pullaro (Santa Fe) y Jaldo (Tucumán) enfocaron sus comunicaciones en la gestión local, inversiones provinciales en infraestructura, salud y seguridad, y el fortalecimiento de las economías regionales. El consenso se centra en la autonomía y la necesidad de priorizar el desarrollo provincial con recursos propios, enfatizando la eficiencia y la planificación frente a un escenario nacional complejo.",
+    "analisis_profundo": "La agenda federal de hoy se polariza entre la confrontación directa con el Gobierno nacional y una marcada orientación a la gestión provincial con recursos propios. Axel Kicillof (Buenos Aires) encabeza la ofensiva, acusando al Ejecutivo de 'destrucción del sistema nacional de CyT' por la privatización de servicios del SMN y de 'desfinanciar el sistema educativo incumpliendo lo que dice nuestra Constitución', además de criticar la restricción a periodistas en Casa Rosada. Estas declaraciones evidencian una escalada en la tensión entre la Provincia de Buenos Aires y la Nación, posicionando al gobernador peronista como un claro referente de la oposición.\n\nSergio Ziliotto (La Pampa) también subraya el 'retiro del Gobierno nacional de la obra pública', inaugurando un Centro de Desarrollo Infantil con fondos provinciales, lo que demuestra una estrategia de autonomía y autogestión para suplir las carencias federales. En el mismo sentido, Ricardo Quintela (La Rioja) apoya proyectos locales y destaca la 'generación de un espacio de inclusión a través del deporte y la equinoterapia', mencionando un 'Estado presente que acompaña' en un contexto de crisis.\n\nPor otro lado, un grupo significativo de gobernadores se concentra en la visibilización de logros y planes de gestión locales. Ignacio Torres (Chubut) celebra una exitosa emisión de deuda internacional por USD 650M para infraestructura, destacando el 'orden fiscal' de la provincia. Martín Llaryora (Córdoba) resalta un hito en salud pública con una cirugía de alta complejidad realizada en un hospital provincial, subrayando la 'inversión en nuestros hospitales'. Alfredo Cornejo (Mendoza) también pone en valor la salud pública con el reconocimiento internacional del Hospital Lagomaggiore.\n\nRolando Figueroa (Neuquén) enfoca su comunicación en la buena performance económica de la provincia y la 'inversión de otra manera los fondos de los neuquinos', priorizando el combate al narcotráfico y obras de infraestructura básica. Alberto Weretilneck (Río Negro) destaca logros deportivos y la modernización del Estado a través de IPROSS Digital, una muestra de eficiencia administrativa. Claudio Vidal (Santa Cruz) avanza en la 'entrega de títulos de propiedad' como una forma de 'saldar una deuda con familias'. Finalmente, Maximiliano Pullaro (Santa Fe) informa sobre obras en el Parque del Sur para los Juegos Suramericanos, enfatizando que la inversión beneficiará a la comunidad. Osvaldo Jaldo (Tucumán) refuerza la importancia del diálogo con el sector productivo y el compromiso con el empleo, en un contexto económico complejo, celebrando el 73° aniversario de la FETucumán.\n\nEn conjunto, la jornada refleja una marcada divergencia: mientras algunos gobernadores asumen un rol combativo frente a la Nación, otros optan por consolidar una narrativa de gestión eficiente y autarquía financiera, construyendo un perfil de 'provincias que pueden' a pesar o en contra de la política nacional. El debate sobre el financiamiento federal, la obra pública y el rol del Estado sigue siendo el telón de fondo de estas dinámicas.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación con el Gobierno Nacional (Desfinanciamiento y Privatización)",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Gestión Fiscal y Financiamiento Provincial",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Salud Pública y Calidad de Atención",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Fortalecimiento Local",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Obra Pública y Vivienda con Fondos Provinciales",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @RCSalvarezza)",
+        "texto": "Como en INTI, Milei ahora le quita al @SMN_Argentina la exclusividad de brindar servicios claves para la seguridad de los argentinos. Esos servicios podrán ser ofrecidos por empresas privadas. Un paso más en la destrucción del sistema nacional de CyT.",
+        "por_que_es_clave": "El tweet representa una confrontación directa y explícita del gobernador de Buenos Aires con una política de privatización del Gobierno nacional, calificándola de 'destrucción' y afectando 'la seguridad de los argentinos'. Su tono y contenido lo convierten en la declaración más impactante de la jornada.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Nación vs Provincias",
+                "CyT",
+                "Economía",
+                "Salud",
+                "Libertad de prensa",
+                "Educación"
+            ],
+            "postura_politica": "Líder opositor al Gobierno Nacional, denuncia desfinanciamiento y privatización de servicios públicos esenciales, y la restricción a la libertad de prensa. Reafirma la importancia de la educación pública como derecho.",
+            "frase_fuerte": "En lugar de poner todo su esfuerzo en mejorar la realidad cotidiana de los argentinos y los indicadores de una economía que no repunta, el Gobierno nacional se dedica a prohibir el ingreso a la Casa Rosada de los periodistas acreditados."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Gestión fiscal",
+                "Economía",
+                "Inversión",
+                "Infraestructura"
+            ],
+            "postura_politica": "Destaca la capacidad de su provincia para obtener financiamiento internacional y manejar sus finanzas de manera ordenada, contrastando con el pasado. Enfatiza la inversión productiva.",
+            "frase_fuerte": "recuperamos credibilidad y demostramos que, con orden fiscal, es posible volver a financiarnos en condiciones competitivas."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Salud",
+                "Gestión local",
+                "Inversión"
+            ],
+            "postura_politica": "Resalta la excelencia y capacidad de la salud pública cordobesa para realizar procedimientos de vanguardia, fruto de la inversión y el compromiso.",
+            "frase_fuerte": "En #Córdoba, la salud es un derecho, no un privilegio. Y vamos a seguir defendiéndola."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Obra pública",
+                "Gestión local",
+                "Nación vs Provincias"
+            ],
+            "postura_politica": "Muestra autonomía y capacidad de gestión al financiar obras con recursos propios ante el retiro del Gobierno nacional, priorizando la primera infancia.",
+            "frase_fuerte": "Inauguramos en Uriburu el Centro de Desarrollo Infantil N° 55 de la provincia, una obra que finalizamos con recursos propios frente al retiro del Gobierno nacional de la obra pública en nuestra provincia."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Deporte",
+                "Inclusión",
+                "Gestión local",
+                "Estado presente"
+            ],
+            "postura_politica": "Enfatiza el apoyo provincial a iniciativas de inclusión social y deportiva, destacando el rol activo del Estado en el acompañamiento a proyectos locales.",
+            "frase_fuerte": "Detrás de cada logro hay esfuerzo, familias comprometidas y un Estado presente que acompaña"
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud",
+                "Gestión local",
+                "Cooperación internacional",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Subraya el reconocimiento internacional de la salud pública mendocina y el compromiso con la innovación y el intercambio de conocimientos.",
+            "frase_fuerte": "Mendoza vuelve a destacarse en salud pública, esta vez, a través del Hospital Lagomaggiore que fue reconocido como Centro de Excelencia en Fibrosis Quística y como centro formador de equipos de salud por la International Cystic Fibrosis Training Network."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Seguridad",
+                "Narcotráfico",
+                "Gestión fiscal",
+                "Economía",
+                "Obra pública",
+                "Desarrollo"
+            ],
+            "postura_politica": "Destaca la lucha contra el narcotráfico y la eficiencia en la gestión de recursos provinciales para invertir en obras y servicios, posicionando a Neuquén como líder económico.",
+            "frase_fuerte": "Neuquén sigue al frente de la mayoría de los indicadores económicos y de consumo. Estamos en el camino correcto."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Deporte",
+                "Gestión local",
+                "Salud",
+                "Innovación"
+            ],
+            "postura_politica": "Celebra logros deportivos provinciales y avanza en la modernización de servicios de salud a través de la digitalización, mostrando un Estado eficiente y cercano.",
+            "frase_fuerte": "Sabemos que falta, pero este es el rumbo: un Estado que se moderniza, con tecnología y que da respuestas concretas. Río Negro está en marcha."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Vivienda",
+                "Gestión local",
+                "Derechos"
+            ],
+            "postura_politica": "Enfocado en saldar deudas históricas con las familias a través de la entrega de títulos de propiedad, haciendo énfasis en un Estado que 'hace realidad los derechos'.",
+            "frase_fuerte": "ESTAMOS SALDANDO UNA DEUDA CON FAMILIAS EN TODA LA PROVINCIA QUE ESPERARON AÑOS SU TÍTULO DE PROPIEDAD"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Obra pública",
+                "Deporte",
+                "Inversión",
+                "Gestión local"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura que dejará un legado duradero para la comunidad, usando eventos internacionales como motor de desarrollo local.",
+            "frase_fuerte": "Lo más importante es que toda esta inversión va a quedar para que cada santafesino la siga disfrutando con su familia y amigos después de que termine este evento internacional 💪🏽"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Economía",
+                "Desarrollo productivo",
+                "Empleo",
+                "Gestión local"
+            ],
+            "postura_politica": "Reafirma el compromiso con el sector productivo y el diálogo para sostener la actividad económica y el empleo en un contexto desafiante.",
+            "frase_fuerte": "Debemos redoblar esfuerzos para construir un futuro con más oportunidades para todos."
+        }
+    ]
+}
