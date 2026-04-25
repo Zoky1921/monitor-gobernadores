@@ -1,0 +1,148 @@
+{
+    "clima_general": "CONFLICTO",
+    "resumen_ejecutivo": "Los gobernadores concentraron su agenda en la gestión provincial y la defensa de recursos frente al Estado Nacional. Axel Kicillof (Buenos Aires) y Jorge Macri (CABA) polarizaron el debate con críticas directas: Kicillofok (Buenos Aires) advirtiendo sobre quienes 'quieren rematar' el país y Macri (CABA) reforzando su postura de 'mano dura' anti-okupas vinculando a la oposición. Paralelamente, Maximiliano Pullaro (Santa Fe) intensificó los reclamos fiscales y de infraestructura a Nación. Otros mandatarios como Rolando Figueroa (Neuquén), Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro) destacaron obras de infraestructura y avances en ordenamiento fiscal y servicios, mientras Ricardo Quintela (La Rioja) y Carlos Sadir (Jujuy) enfatizaron el trabajo federal en el Norte Grande.",
+    "analisis_profundo": "La jornada reflejó una marcada tensión en el ámbito federal, con dos ejes claros: la confrontación política-ideológica y la defensa de la autonomía fiscal y de gestión provincial. Axel Kicillof (Buenos Aires) utilizó la reunión del Partido Justicialista para lanzar una advertencia categórica contra las políticas nacionales, posicionándose como defensor del país. En la misma línea, Jorge Macri (CABA) sostuvo su campaña de 'mano dura' contra las tomas y la delincuencia, articulando una crítica constante hacia el kirchnerismo, lo que profundiza la grieta.\n\nEl frente económico y de infraestructura también generó fricciones. Maximiliano Pullaro (Santa Fe) elevó el tono de los reclamos al Estado Nacional por la retención de fondos agropecuarios y la falta de inversión en rutas nacionales, destacando que su provincia asume esas responsabilidades. Esta situación subraya la persistente tensión entre Nación y provincias por la distribución de recursos y el rol en la obra pública.\n\nEn contraste, Rolando Figueroa (Neuquén) reportó un significativo desendeudamiento y avances en obras de infraestructura vial, proyectando una gestión fiscal ordenada y enfocada en necesidades locales. Alberto Weretilneck (Río Negro) también mostró una gestión activa en apoyo a pymes, la obra social provincial y la provisión de energía segura. Martín Llaryora (Córdoba) continuó la agenda de infraestructura hídrica, crucial para el interior provincial.\n\nDesde el Norte Grande, Ricardo Quintela (La Rioja) y Carlos Sadir (Jujuy) priorizaron la cooperación regional y el desarrollo local, con Quintela (La Rioja) destacando la lucha por un país más federal y Sadir (Jujuy) inaugurando un complejo cultural. El gobernador Elías Suárez (Santiago del Estero) también se sumó a esta línea, resaltando el diálogo y la producción.\n\nLa jornada expone un escenario federal donde las provincias se ven obligadas a una mayor autofinanciación y gestión, en un contexto de polarización política y fiscal con el gobierno central. La preocupación por el federalismo y la autonomía sigue siendo un tema recurrente en la agenda subnacional.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo y Autonomía Provincial frente a la Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@maxipullaro",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Gestión de Infraestructura y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Público",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Gestión Fiscal y Desarrollo Productivo Provincial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@WeretilneckOK",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Coordinación y Cooperación Regional",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@carlossadirjuy",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Presidimos la primera reunión del Consejo del Partido Justicialista de la provincia de Buenos Aires junto a las nuevas autoridades. Convocamos a todos los sectores a defender nuestro país frente aquellos que quieren rematarlo.",
+        "por_que_es_clave": "Esta declaración del gobernador de Buenos Aires (Axel Kicillof) es una crítica directa y fuerte a las políticas del Gobierno Nacional, utilizando un lenguaje ideológico que polariza el debate y moviliza a la militancia peronista. Su frase 'defender nuestro país frente aquellos que quieren rematarlo' encapsula la postura de confrontación y defensa de un modelo de país alternativo.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Política partidaria",
+                "Posicionamiento ideológico",
+                "Defensa del país"
+            ],
+            "postura_politica": "Se consolida como figura clave del peronismo bonaerense (Buenos Aires), asumiendo un rol activo en la dirección del partido. Su discurso se centra en la defensa de la soberanía nacional y critica fuertemente las políticas del Gobierno Nacional, acusándolas de 'rematar' el país.",
+            "frase_fuerte": "Convocamos a todos los sectores a defender nuestro país frente aquellos que quieren rematarlo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Orden público",
+                "Lucha contra las tomas",
+                "Confrontación política"
+            ],
+            "postura_politica": "Reafirma su política de 'mano dura' contra los ocupantes ilegales de propiedades en la Ciudad Autónoma de Buenos Aires (CABA) y utiliza sus redes para confrontar directamente con la oposición kirchnerista, a la que acusa de avalar la delincuencia. Sus retweets consolidan una imagen de firmeza y control.",
+            "frase_fuerte": "'Jorge Macri no afloja y aplica la mano dura contra los okupas: no hizo caso a las quejas de Pitu Salvatierra que quería defender a delincuentes y la Policia recuperó la propiedad número 700 en la Ciudad.'"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Servicios públicos (agua potable)",
+                "Desarrollo territorial"
+            ],
+            "postura_politica": "Enfocado en la gestión de obras de infraestructura esenciales para el interior provincial de Córdoba, particularmente en el acceso a agua potable. Su gobierno prioriza el Plan de Igualdad Territorial, buscando reducir asimetrías y mejorar la calidad de vida.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Desarrollo cultural",
+                "Infraestructura local",
+                "Cooperación regional"
+            ],
+            "postura_politica": "Centrado en la gestión de proyectos locales que impulsan el desarrollo cultural y social de las comunidades de Jujuy. Participa activamente en iniciativas de cooperación del Norte Grande, buscando fortalecer los vínculos regionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Cooperación regional",
+                "Desarrollo",
+                "Unidad política"
+            ],
+            "postura_politica": "Promueve el federalismo y la unidad entre las provincias del Norte Grande para defender los intereses regionales de La Rioja. Aboga por un país con desarrollo y oportunidades, y refuerza la necesidad de un trabajo conjunto entre los gobiernos subnacionales.",
+            "frase_fuerte": "Hace tiempo que las provincias del Norte Grande vienen luchando por un país más federal, con desarrollo y oportunidades reales para su gente."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Obra pública (rutas)",
+                "Gestión fiscal",
+                "Desendeudamiento provincial"
+            ],
+            "postura_politica": "Destaca la cancelación de una parte significativa de la deuda heredada y el avance en obras viales estratégicas en Neuquén. Su gestión se orienta a una administración austera y responsable, priorizando la inversión en infraestructura que transforma la realidad de las comunidades.",
+            "frase_fuerte": "CANCELAMOS EL 43% DEL STOCK DE DEUDA HEREDADO"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Apoyo a Pymes",
+                "Servicios de salud (IPROSS)",
+                "Infraestructura energética"
+            ],
+            "postura_politica": "Demuestra una gestión activa en el fortalecimiento del desarrollo productivo a través de fondos de garantía para pymes, la normalización de pagos en la obra social provincial (IPROSS) y la mejora en la provisión de servicios esenciales como la energía eléctrica en barrios vulnerables de Río Negro.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Política fiscal",
+                "Desarrollo productivo",
+                "Infraestructura",
+                "Relación con Nación"
+            ],
+            "postura_politica": "Su gobierno de Santa Fe implementa reducciones impositivas para el sector productivo y agrario, contrastando con las políticas nacionales. Reclama al Gobierno Nacional por la retención de fondos y el abandono de infraestructura clave, asumiendo la responsabilidad con recursos provinciales.",
+            "frase_fuerte": "Gobernar también es sacarle el pie de la cabeza al que invierte y genera trabajo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Diálogo social y económico"
+            ],
+            "postura_politica": "Enfatiza la importancia del diálogo y la articulación entre el gobierno y el sector productivo de Santiago del Estero para impulsar el desarrollo provincial, en línea con una agenda de crecimiento y oportunidades.",
+            "frase_fuerte": null
+        }
+    ]
+}
