@@ -205,7 +205,7 @@ async function cargarTablero(fecha) {
         if(grilla && gobernadoresBase) {
             gobernadoresBase.forEach(gob => {
                 // Buscador inteligente
-                const analisisGob = analisis.analisisporgobernador.find(a =>
+                const analisisGob = analisis.analisis_por_gobernador.find(a =>
                     a.gobernador.toLowerCase().includes(obtenerUsuarioSinArroba(gob.usuariox).toLowerCase())
                     );
                 
@@ -216,7 +216,7 @@ async function cargarTablero(fecha) {
                 tarjeta.dataset.usuario = obtenerUsuarioSinArroba(gob.usuariox).toLowerCase(); 
 
                 // LECTURA CORRECTA DE GROK (postura_politica)
-                const resumen = analisisGob?.posturapolitica || analisisGob?.resumen || "Sin actividad registrada.";
+                const resumen = analisisGob?.postura_politica || analisisGob?.resumen || "Sin actividad registrada.";
 
                 tarjeta.innerHTML = `
                     <div class="tarjeta-gob-header">
@@ -273,8 +273,8 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
     let textoCita = "Sin citas textuales hoy.";
 
     if (analisisGob) {
-        textoAnalisis = analisisGob.posturapolitica || analisisGob.resumen || textoAnalisis;
-textoCita     = analisisGob.frasefuerte     || analisisGob.citaTextual || textoCita;
+        textoAnalisis = analisisGob.postura_politica || analisisGob.resumen || textoAnalisis;
+textoCita     = analisisGob.frase_fuerte     || analisisGob.citaTextual || textoCita;
     }
 
     const nodoAnalisis = document.getElementById("modal-analisis");
