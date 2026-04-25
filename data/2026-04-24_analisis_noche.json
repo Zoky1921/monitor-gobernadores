@@ -1,0 +1,185 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una marcada tensión y contraste entre la gestión provincial y la política nacional. Gobernadores como Axel Kicillof (Buenos Aires) y Maximiliano Pullaro (Santa Fe) intensificaron sus críticas al Gobierno nacional, apuntando a políticas de privatización, desfinanciamiento educativo y retención de fondos, así como al abandono de infraestructuras clave. En respuesta, Jorge Macri (CABA) contraatacó al kirchnerismo por temas de ocupación de propiedades, elevando el tono de la polarización. Otros mandatarios, como Ignacio Torres (Chubut) y Rolando Figueroa (Neuquén), destacaron logros de gestión, financiamiento internacional y orden fiscal provincial como vía de desarrollo, a menudo contrastando con la parálisis o inacción nacional.",
+    "analisis_profundo": "La arena política federal se encuentra en un estado de ebullición, marcada por una clara confrontación entre las administraciones provinciales y el Gobierno nacional. Los gobernadores Axel Kicillof (Buenos Aires) y Maximiliano Pullaro (Santa Fe) emergieron como las voces más críticas, denunciando enérgicamente las políticas de la administración central. Kicillof (Buenos Aires) cuestionó la política exterior 'entreguista' de Milei, la privatización de servicios esenciales como el Servicio Meteorológico Nacional, el desfinanciamiento de la educación pública y la restricción a periodistas, vinculando estas acciones a la destrucción de la soberanía y la igualdad. Pullaro (Santa Fe) se sumó a este coro de reclamos, señalando la retención de retenciones agropecuarias por parte de la Nación y el abandono de rutas nacionales en su provincia, lo que, a su juicio, asfixia a las provincias productivas en favor de la 'timba financiera', pidiendo que el Estado Nacional se haga cargo de sus responsabilidades.\n\nEsta escalada de tensión encontró eco en Jorge Macri (CABA), quien arremetió directamente contra 'todo kirchnerista' por la supuesta defensa de 'okupas' y afirmó que en la Ciudad de Buenos Aires rige 'ley y orden', estableciendo una línea divisoria ideológica y geográfica contundente ('que crucen la General Paz'). Este intercambio subraya una profunda polarización y un clima de conflicto.\n\nEn contraste con la confrontación, otros gobernadores se concentraron en destacar sus capacidades de gestión autónoma y la inversión con recursos propios. Ignacio Torres (Chubut) celebró el retorno de la provincia a los mercados internacionales con una emisión de USD 650M, enfatizando el 'orden fiscal' como clave para el desarrollo provincial y la inversión en infraestructura postergada, como el Gasoducto Patagónico. Rolando Figueroa (Neuquén) también puso el acento en el 'ordenamiento de las cuentas' y la cancelación del 43% de la deuda heredada, liberando fondos para obras básicas y el combate al narcotráfico, destacando a Neuquén como líder en indicadores económicos gracias a su rumbo definido. Martín Llaryora (Córdoba), Leandro Zdero (Chaco), Hugo Passalacqua (Misiones) y Claudio Poggi (San Luis) exhibieron avances en infraestructura hídrica, sanitaria y comunitaria, presentándolas como respuestas concretas a las necesidades de sus poblaciones, a menudo en el marco de presupuestos participativos o con el contraste de la falta de mantenimiento anterior. Alberto Weretilneck (Río Negro) anunció una reestructuración de la gestión hídrica para impulsar la producción y energía. Alfredo Cornejo (Mendoza) también hizo hincapié en la gestión habitacional y la excelencia en salud pública, consolidando la provincia como referente. Osvaldo Jaldo (Tucumán) y Elías Suárez (Santiago del Estero) mostraron un enfoque en políticas ambientales, apoyo al sector productivo y diálogo social como pilares del desarrollo regional, manteniendo la actividad económica.\n\nEn síntesis, la jornada revela un federalismo en tensión, donde las provincias, por un lado, reclaman y critican las políticas nacionales percibidas como perjudiciales o centralistas, y por otro, buscan reafirmar su autonomía y resiliencia a través de la gestión local y la inversión estratégica, a menudo destacando la necesidad de suplir la ausencia o el desfinanciamiento del Estado nacional. La agenda se divide entre la crítica abierta al gobierno central y la demostración de autogestión y capacidad provincial.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamos Federales por Fondos y Obra Pública",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Críticas a Políticas Económicas y de Gestión Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Gestión Provincial y Autonomía Fiscal",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@alfredocornejo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Polarización Política y Ataques Cruzados",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Mientras el Gobierno Nacional se queda con las retenciones agropecuarias que aportan nuestros productores, acá nos hacemos cargo de invertir fuertemente en la infraestructura productiva que le corresponde a la Nación.",
+        "por_que_es_clave": "Esta declaración del gobernador de Santa Fe encapsula la principal tensión federal de la jornada: el reclamo por la inequidad en la distribución de recursos y la transferencia de responsabilidades de infraestructura al ámbito provincial, marcando una clara confrontación sobre el modelo económico y la prioridad del gasto público nacional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Política internacional",
+                "Privatización de servicios",
+                "Libertad de prensa",
+                "Desfinanciamiento educativo"
+            ],
+            "postura_politica": "Fuerte oposición al Gobierno nacional, denunciando políticas de ajuste y privatización como 'entreguistas' y contrarias a la soberanía y los derechos. Defiende la educación pública y la libertad de prensa, así como el rol del Estado en el desarrollo.",
+            "frase_fuerte": "La política internacional que Milei presenta como novedosa responde al mismo pensamiento unipolar y entreguista que ya se aplicó hace más de tres décadas con resultados catastróficos."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Propiedad privada",
+                "Seguridad",
+                "Kirchnerismo",
+                "Ley y orden"
+            ],
+            "postura_politica": "Defiende la propiedad privada y la 'ley y orden' en la Ciudad de Buenos Aires, atacando al kirchnerismo por supuestamente defender a 'okupas' y vulnerar derechos. Marca una clara diferencia ideológica y de gestión con la Provincia de Buenos Aires.",
+            "frase_fuerte": "Si quieren hacer cualquier cosa, que crucen la General Paz."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura hídrica",
+                "Plan de Igualdad Territorial"
+            ],
+            "postura_politica": "Enfocado en la gestión provincial y la inversión en obras básicas con recursos propios para mejorar la calidad de vida en el interior profundo. Resalta el Plan de Igualdad Territorial como eje estratégico de su administración.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Financiamiento internacional",
+                "Orden fiscal",
+                "Infraestructura (gasoducto)"
+            ],
+            "postura_politica": "Destaca la capacidad de la provincia para acceder a mercados internacionales y mejorar su perfil de deuda gracias al orden fiscal. Se enfoca en proyectos de infraestructura postergados, como el gasoducto patagónico, como símbolo de gestión eficiente y recuperación de la credibilidad.",
+            "frase_fuerte": "recuperamos credibilidad y demostramos que, con orden fiscal, es posible volver a financiarnos en condiciones competitivas."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Salud pública",
+                "Equipamiento hospitalario"
+            ],
+            "postura_politica": "Prioriza la inversión en el sistema de salud provincial, con mejoras en infraestructura y equipamiento para elevar la calidad de atención en las localidades. Su enfoque es la gestión concreta de servicios esenciales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Infraestructura comunitaria",
+                "Presupuesto participativo"
+            ],
+            "postura_politica": "Apuesta a la descentralización de la inversión en infraestructura comunitaria, destacando el Presupuesto Participativo como herramienta de gestión y empoderamiento vecinal, fomentando la participación ciudadana en las decisiones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Gestión de la deuda",
+                "Infraestructura básica",
+                "Seguridad (narcotráfico)",
+                "Indicadores económicos"
+            ],
+            "postura_politica": "Presenta una administración austera y responsable que permitió cancelar una parte significativa de la deuda heredada, liberando fondos para obras básicas y seguridad. Afirma que Neuquén lidera en indicadores económicos gracias a un rumbo 'correcto' de planificación.",
+            "frase_fuerte": "CANCELAMOS EL 43% DEL STOCK DE DEUDA HEREDADO."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Gestión hídrica",
+                "Producción",
+                "Energía",
+                "Desarrollo"
+            ],
+            "postura_politica": "Anuncia una reestructuración de la gestión del agua, alineándola con objetivos de mayor producción, desarrollo energético y expansión económica, especialmente en la costa atlántica. Enfatiza la planificación y la decisión para el futuro de la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Salud pública de excelencia"
+            ],
+            "postura_politica": "Compromiso con la política habitacional mediante el 'esfuerzo compartido' entre Estado y adjudicatarios. Destaca el reconocimiento internacional de un hospital público, reafirmando la inversión en salud y posicionando a Mendoza como referente en áreas complejas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Retenciones agropecuarias",
+                "Rutas nacionales",
+                "Asfixia financiera provincial"
+            ],
+            "postura_politica": "Crítica directa al Gobierno nacional por la retención de fondos y el abandono de infraestructura que impacta al sector productivo, defendiendo los intereses de su provincia frente a un modelo fiscal centralista que, a su parecer, asfixia a las economías regionales.",
+            "frase_fuerte": "el equilibrio fiscal no puede sostenerse asfixiando a las provincias y priorizando la timba financiera por sobre nuestro sistema productivo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Política ambiental (cambio climático)",
+                "Apoyo al sector productivo"
+            ],
+            "postura_politica": "Posiciona a Tucumán como actor clave en la agenda ambiental nacional a través de la organización de la Asamblea RAMCC y subraya el diálogo y consenso con el sector productivo (FETucuman) como fundamental para sostener la economía y enfrentar los desafíos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Diálogo social",
+                "Emergencia climática"
+            ],
+            "postura_politica": "Enfocado en el fomento del desarrollo productivo mediante el diálogo intersectorial (Consejo Económico y Social) y la asistencia activa ante emergencias climáticas, demostrando un Estado presente en el territorio y cercano a las necesidades de la comunidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Regularización dominial",
+                "Infraestructura hospitalaria",
+                "Infraestructura hídrica"
+            ],
+            "postura_politica": "Concentrado en la gestión local, avanzando en la regularización de viviendas, renovando infraestructura hospitalaria y garantizando el acceso al agua para productores. Critica la falta de mantenimiento de gestiones anteriores, enfocándose en la recuperación y puesta en valor.",
+            "frase_fuerte": null
+        }
+    ]
+}
