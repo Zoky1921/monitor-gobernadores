@@ -3,14 +3,93 @@
     "resumen_ejecutivo": "Kicillof (Buenos Aires) lidera el fuego cruzado contra Milei con dardos sobre CyT, educación y libertad de prensa, mientras Torres (Chubut) celebra emisión de deuda como trofeo fiscal y Figueroa (Neuquén) presume anticorrupción y antinarcotráfico. El resto opta por gestión local, evitando el ring nacional.",
     "analisis_profundo": "El subsuelo hierve con Kicillof (Buenos Aires) como ariete peronista: sus RTs y tuits filosos ('Milei quita exclusividad al SMN', 'desfinancia educación', 'prohíbe periodistas') no son inocentes; son carteles de opacidad para galvanizar su base ante el ajuste nacional, posicionándose como guardián de lo público mientras ignora la caja bonaerense en rojo. ¿Acaso ignora que Caputo retiene fondos coparticipables para forzar disciplina fiscal? Torres (Chubut) contraataca con victoria de deuda USD 650M ('plazo más largo entre provincias'), un juego de espejos para mostrar 'orden fiscal' patagónico y dañar el relato mileísta de provincias pródigas; hegemonía financiera que humilla a emisores previos ('cubrir gasto corriente'). Figueroa (Neuquén) filtra poder con antinarcotráfico ('mayor decomiso') y aniversarios pavimentados, cartelizándose como baluarte contra el caos nacional, pero ¿es coincidencia su timing con ley narcomenudeo pendiente? Cornejo (Mendoza) y Jaldo (Tucumán) se aíslan en gestión (salud excelencia, FETucuman), un apagón político coordinado que deslegitima el ajuste de Nación al presumir autosuficiencia. Quintela (La Rioja) queda en protocolo hípico, irrelevante federalmente. Ganadores: Torres y Figueroa acumulan caja y relato; perdedores: Casa Rosada, expuesta a dardos bonaerenses sin réplica provincial. Ausencia masiva (24 gobernadores mudos) es silencio estratégico: evitan agenda nacional para no legitimar veto presupuestario, aislando a Milei en su 'escuela austríaca'. ¿Federalismo o federación de silencios para apriete coparticipante?",
     "temas_calientes": [
-        {
-            "tema": "Ataque directo a Milei por desfinanciamiento estatal",
-            "gobernadores_involucrados": [
-                "@Kicillofok"
-            ]
-        },
-        {
-            "tema": "Éxito fiscal con emisión deuda internacional"
-        }
-    ]
+    {
+"tema": "Confrontación explícita contra la agenda nacional de Milei en libertad de prensa, educación y ciencia",
+"gobernadores_involucrados": ["@Kicillofok"]
+},
+{
+"tema": "Autonomía provincial vía financiamiento, deuda y orden fiscal",
+"gobernadores_involucrados": ["@NachoTorresCH"]
+},
+{
+"tema": "Obra pública y servicios esenciales como reemplazo del Estado nacional ausente",
+"gobernadores_involucrados": ["@RoloFigueroa", "@WeretilneckOK", "@MartinLlaryora", "@maxipullaro", "@claudiojpoggi"]
+},
+{
+"tema": "Seguridad y narcotráfico como plataforma de autoridad territorial",
+"gobernadores_involucrados": ["@RoloFigueroa", "@WeretilneckOK"]
+},
+{
+"tema": "Gestión sanitaria y social de proximidad sin articulación federal visible",
+"gobernadores_involucrados": ["@passalacquaok", "@MartinLlaryora", "@Kicillofok"]
 }
+],
+"tweet_destacado": {
+"usuario": "@NachoTorresCH",
+"texto": "En un contexto global muy complejo, dimos un paso clave: volvimos a los mercados internacionales con una colocación sólida y estratégica para el desarrollo de nuestra provincia.\n\nEmitimos USD 650M a 10 años —el plazo más largo entre las provincias—, con ofertas por más de tres veces lo buscado y cumpliendo plenamente el objetivo de financiamiento.\n\nLuego de más de una década sin acceso al crédito internacional, recuperamos credibilidad y demostramos que, con orden fiscal, es posible volver a financiarnos en condiciones competitivas.\n\nA diferencia de emisiones de gestiones anteriores, donde la deuda se destinaba a cubrir gasto corriente, esta colocación tiene un objetivo claro y responsable: mejorar el perfil de vencimientos y sostener inversiones en infraestructura y desarrollo productivo.\n\nEsta emisión nos permite consolidar el equilibrio fiscal y proyectar crecimiento a largo plazo.\n\nEs una señal concreta de confianza en Chubut y en la Argentina.\n\nVamos a seguir sosteniendo este camino de cambio y transformación.",
+"por_que_es_clave": "Porque no vende solo deuda: vende autoridad. Torres usa el mercado como plebiscito de credibilidad y convierte una operación financiera en un manifiesto político contra el viejo desorden provincial. La subtrama material es nítida: caja propia, refinanciación, margen de maniobra y una demostración de que una provincia petrolera puede negociar poder sin arrodillarse ante la Nación. ¿Acaso Caputo no advierte que cada gobernador que consigue financiamiento autónomo le recorta centralidad al Ministerio de Economía?",
+"pregunta_openarg": "¿La colocación de deuda de Chubut fortalece la autonomía provincial para invertir o inaugura un nuevo ciclo de apalancamiento subnacional con costos futuros que hoy se disimulan bajo la retórica del orden fiscal?"
+},
+"analisis_por_gobernador": [
+{
+"gobernador": "@Kicillofok (Buenos Aires)",
+"temas_mencionados": ["libertad de prensa", "educación pública", "ciencia y tecnología", "salud pública"],
+"postura_politica": "Dice que defiende derechos y servicios públicos; en realidad está esculpiendo una oposición frontal a Milei y disputándole la representación moral del Estado. Cada dardo busca instalar que la Nación no ajusta por necesidad sino por dogma.",
+"frase_fuerte": "Una decisión gravísima y absolutamente incompatible con la libertad de la que tanto le gusta hablar a Milei."
+},
+{
+"gobernador": "@NachoTorresCH (Chubut)",
+"temas_mencionados": ["financiamiento internacional", "orden fiscal", "infraestructura", "desarrollo productivo"],
+"postura_politica": "Dice que consiguió crédito para crecer; en el subsuelo está mostrando autonomía de caja y musculatura de gestión. Le habla a los mercados, a los inversores y a la Casa Rosada con la misma frase: Chubut puede financiarse sin tutela.",
+"frase_fuerte": "Luego de más de una década sin acceso al crédito internacional, recuperamos credibilidad y demostramos que, con orden fiscal, es posible volver a financiarnos en condiciones competitivas."
+},
+{
+"gobernador": "@RoloFigueroa (Neuquén)",
+"temas_mencionados": ["gas", "agua", "narcotráfico", "recursos provinciales", "aniversarios locales"],
+"postura_politica": "Dice que redistribuye mejor los fondos de los neuquinos; lo que realmente hace es blindar una doctrina provincialista donde los recursos del subsuelo deben quedar bajo control local. Gestión territorial con mensaje implícito a Nación: Neuquén no entrega renta sin retorno.",
+"frase_fuerte": "Decidimos invertir de otra manera los fondos de los neuquinos, para que vayan donde verdaderamente tienen que ir."
+},
+{
+"gobernador": "@WeretilneckOK (Río Negro)",
+"temas_mencionados": ["energía", "obras con fondos propios", "salud digital", "seguridad", "deporte"],
+"postura_politica": "Dice que moderniza y acerca el Estado; en verdad busca instalar la marca de una provincia autosuficiente que construye con fondos propios allí donde la Nación no aparece. Su dardo no es discursivo sino presupuestario.",
+"frase_fuerte": "Río Negro construye con fondos propios."
+},
+{
+"gobernador": "@maxipullaro (Santa Fe)",
+"temas_mencionados": ["obras urbanas", "Juegos Suramericanos"],
+"postura_politica": "Agenda local sin impacto federal. Sin embargo, la insistencia en obra e inversión urbana funciona como demostración de capacidad ejecutiva en una provincia que compite por centralidad política y presupuestaria.",
+"frase_fuerte": "Lo más importante es que toda esta inversión va a quedar para que cada santafesino la siga disfrutando con su familia y amigos después de que termine este evento internacional."
+},
+{
+"gobernador": "@MartinLlaryora (Córdoba)",
+"temas_mencionados": ["salud pública", "agua potable"],
+"postura_politica": "Dice que amplía derechos; lo que subraya es que Córdoba sostiene obra, tecnología y servicios mientras el esquema nacional retrae recursos. Es un cordobesismo pragmático: no grita contra Nación todo el tiempo, pero la deja en evidencia por contraste.",
+"frase_fuerte": "En Córdoba, la salud es un derecho, no un privilegio."
+},
+{
+"gobernador": "@passalacquaok (Misiones)",
+"temas_mencionados": ["salud hospitalaria"],
+"postura_politica": "Gestión protocolar aislada. Misiones se repliega sobre administración sanitaria y evita la arena federal, una forma de preservar autonomía sin pagar el costo de una confrontación abierta.",
+"frase_fuerte": null
+},
+{
+"gobernador": "@claudiojpoggi (San Luis)",
+"temas_mencionados": ["escrituras", "defensa civil", "alarmas ciudadanas", "hospital público"],
+"postura_politica": "Dice que acerca soluciones concretas; en realidad construye legitimidad de proximidad y seguridad jurídica en clave provincial. Mucha gestión de cercanía, poca intervención federal: manual de supervivencia en tiempos de ajuste ajeno.",
+"frase_fuerte": null
+},
+{
+"gobernador": "@gustavovaldesok (Corrientes)",
+"temas_mencionados": ["parque industrial", "puerto", "madera"],
+"postura_politica": "Dice que amplía superficie para industrias; el mensaje real es productivista y desarrollista, con foco en agregar valor local. No entra en la pelea nacional, pero sí marca territorio económico.",
+"frase_fuerte": null
+},
+{
+"gobernador": "@RaulJalil_ok (Catamarca)",
+"temas_mencionados": ["riego", "agua para producción"],
+"postura_politica": "Agenda local sin impacto federal. Elige hablar de agua y crecimiento comunitario antes que de minería o caja nacional, un silencio que también revela cautela política.",
+"frase_fuerte": null
+}
+] 
+        }
