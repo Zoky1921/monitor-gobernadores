@@ -205,12 +205,9 @@ async function cargarTablero(fecha) {
         if(grilla && gobernadoresBase) {
             gobernadoresBase.forEach(gob => {
                 // Buscador inteligente
-                const analisisGob = analisis.analisis_por_gobernador.find(a => {
-                    const strGob = String(a.gobernador).toLowerCase();
-                    const handle = obtenerUsuarioSinArroba(gob.usuario_x).toLowerCase();
-                    const prov = String(gob.provincia).toLowerCase();
-                    return strGob.includes(handle) || strGob.includes(prov);
-                });
+                const analisisGob = analisis.analisisporgobernador.find(a =>
+                    a.gobernador.toLowerCase().includes(gob.usuario_x.toLowerCase())
+                    );
                 
                 const crudoGob = crudo[gob.usuario_x] || crudo[obtenerUsuarioSinArroba(gob.usuario_x)] || [];
 
@@ -219,7 +216,7 @@ async function cargarTablero(fecha) {
                 tarjeta.dataset.usuario = obtenerUsuarioSinArroba(gob.usuario_x).toLowerCase(); 
 
                 // LECTURA CORRECTA DE GROK (postura_politica)
-                const resumen = analisisGob?.postura_politica || analisisGob?.resumen || "Sin actividad registrada.";
+                const resumen = analisisGob?.posturapolitica || analisisGob?.resumen || "Sin actividad registrada.";
 
                 tarjeta.innerHTML = `
                     <div class="tarjeta-gob-header">
