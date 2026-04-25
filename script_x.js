@@ -89,6 +89,7 @@ async function fetchJSONSeguro(url) {
   return res.json();
 }
 
+/* --- PARCHE 1: RUTAS CORRECTAS --- */
 function obtenerRutasDatos(fecha) {
   return {
     analisis: `./data/${fecha}_analisis_subtrama_${turnoActual}.json`,
@@ -252,6 +253,7 @@ async function cargarTablero(fecha) {
   }
 }
 
+/* --- PARCHE 2: HTML PURO PARA LOS TWEETS --- */
 function abrirModal(gobernador, analisisGob, crudoGob) {
   const modal = document.getElementById("modal-detalle");
   const modalBio = document.getElementById("modal-bio");
@@ -286,13 +288,6 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
   }
 
   modal.classList.remove("oculta");
-
-  // Activar los globitos de Twitter/X
-  setTimeout(() => {
-    if (window.twttr && window.twttr.widgets) {
-      window.twttr.widgets.load();
-    }
-  }, 100);
 }
 
 function copiarTexto(idElemento, botonPresionado) {
@@ -351,6 +346,7 @@ function compartirX(idElemento) {
   window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`, "_blank");
 }
 
+/* --- MOTOR DE SEMÁFOROS CORREGIDO --- */
 function actualizarSemaforo(estadoClima) {
   const semaforo = document.getElementById("semaforo-clima");
   if (!semaforo) return;
