@@ -1,352 +1,376 @@
 let gobernadoresBase = [];
-let turnoActual = "manana";
-
+let turnoActual = "manana"; // Memoria global del turno
 const AVATAR_PLACEHOLDER_LOCAL = "./assets/img/avatar-placeholder.svg";
 const UNAVATAR_TWITTER_BASE = "https://unavatar.io/twitter/";
 const UNAVATAR_X_BASE = "https://unavatar.io/x/";
 
 function obtenerUsuarioSinArroba(usuarioX = "") {
-  return String(usuarioX || "").replace(/^@/, "").trim();
+    return usuarioX.replace(/^@/, "").trim();
 }
 
 function obtenerFuentesAvatar(gobernador = {}) {
-  const fuentes = [];
-  const handle = obtenerUsuarioSinArroba(gobernador.usuario_x || "");
+    const fuentes = [];
+    const handle = obtenerUsuarioSinArroba(gobernador.usuario_x || "");
 
-  if (gobernador.foto_url) fuentes.push(gobernador.foto_url);
+    if (gobernador.foto_url) fuentes.push(gobernador.foto_url);
 
-  if (handle) {
-    const fallbackTwitter = `${UNAVATAR_TWITTER_BASE}${encodeURIComponent(handle)}`;
-    const fallbackX = `${UNAVATAR_X_BASE}${encodeURIComponent(handle)}`;
-    if (!fuentes.includes(fallbackTwitter)) fuentes.push(fallbackTwitter);
-    if (!fuentes.includes(fallbackX)) fuentes.push(fallbackX);
-  }
+    if (handle) {
+        const fallbackTwitter = `${UNAVATAR_TWITTER_BASE}${encodeURIComponent(handle)}`;
+        const fallbackX = `${UNAVATAR_X_BASE}${encodeURIComponent(handle)}`;
 
-  fuentes.push(AVATAR_PLACEHOLDER_LOCAL);
-  return [...new Set(fuentes.filter(Boolean))];
+        if (!fuentes.includes(fallbackTwitter)) fuentes.push(fallbackTwitter);
+        if (!fuentes.includes(fallbackX)) fuentes.push(fallbackX);
+    }
+
+    fuentes.push(AVATAR_PLACEHOLDER_LOCAL);
+    return [...new Set(fuentes)];
 }
 
 function escaparHtml(texto = "") {
-  return String(texto)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&#39;");
+    return texto
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
 }
 
 function aplicarAvatarConFallback(img, gobernador) {
-  if (!img) return;
+    if (!img) return;
 
-  const fuentes = obtenerFuentesAvatar(gobernador);
+    const fuentes = obtenerFuentesAvatar(gobernador);
+    const limpiarEstadoFallback = () => {
+        delete img.dataset.fallbackIndex;
+        img.onerror = null;
+        img.onload = null;
+    };
 
-  const limpiarEstadoFallback = () => {
-    delete img.dataset.fallbackIndex;
-    img.onerror = null;
-    img.onload = null;
-  };
+    img.dataset.fallbackIndex = "0";
+    img.onload = limpiarEstadoFallback;
+    img.onerror = () => {
+        const proximoIndex = Number(img.dataset.fallbackIndex || "0") + 1;
+        if (proximoIndex >= fuentes.length) {
+            limpiarEstadoFallback();
+            return;
+        }
 
-  img.dataset.fallbackIndex = "0";
-  img.onload = limpiarEstadoFallback;
-  img.onerror = () => {
-    const proximoIndex = Number(img.dataset.fallbackIndex || "0") + 1;
-    if (proximoIndex >= fuentes.length) {
-      limpiarEstadoFallback();
-      return;
-    }
-    img.dataset.fallbackIndex = String(proximoIndex);
-    img.src = fuentes[proximoIndex];
-  };
-
-  img.src = fuentes[0];
+        img.dataset.fallbackIndex = String(proximoIndex);
+        const proximaFuente = fuentes[proximoIndex];
+        img.src = proximaFuente;
+    };
+    img.src = fuentes[0];
 }
 
+// =========================================
+// FUNCIÓN PARA OBTENER FECHA ARGENTINA
+// =========================================
 function obtenerFechaFormateada(diasRestados = 0) {
-  const fecha = new Date();
-  fecha.setDate(fecha.getDate() - diasRestados);
-  return fecha.toLocaleDateString("en-CA", {
-    timeZone: "America/Argentina/Buenos_Aires"
-  });
+    const fecha = new Date();
+    fecha.setDate(fecha.getDate() - diasRestados);
+    return fecha.toLocaleDateString('en-CA', { timeZone: 'America/Argentina/Buenos_Aires' }); 
 }
 
-function markdownBasicoAHtml(texto = "") {
-  const textoSeguro = String(texto || "").trim();
-  if (!textoSeguro) return "";
-
-  return textoSeguro
-    .split(/(?:\r?\n|\\n){2,}/)
-    .map(parrafo => `<p>${escaparHtml(parrafo).replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")}</p>`)
-    .join("");
-}
-
-function normalizarArray(valor) {
-  return Array.isArray(valor) ? valor : [];
-}
-
-async function fetchJSONSeguro(url) {
-  const res = await fetch(url, { cache: "no-store" });
-  if (!res.ok) throw new Error(`No se pudo cargar ${url}`);
-  return res.json();
-}
-
-/* --- PARCHE 1: RUTAS CORRECTAS --- */
-function obtenerRutasDatos(fecha) {
-  return {
-    analisis: `./data/${fecha}_analisis_subtrama_${turnoActual}.json`,
-    crudo: `./data/${fecha}_crudo_${turnoActual}.json`
-  };
-}
-
-function buscarAnalisisGobernador(analisisPorGobernador, gob) {
-  const items = normalizarArray(analisisPorGobernador);
-  const usuario = obtenerUsuarioSinArroba(gob.usuario_x || "").toLowerCase();
-  const provincia = String(gob.provincia || "").toLowerCase();
-
-  return items.find(item => {
-    const gobernador = String(item?.gobernador || "").toLowerCase();
-    return gobernador.includes(usuario) || (provincia && gobernador.includes(provincia));
-  }) || null;
-}
-
-function obtenerTweetsCrudos(crudo, gob) {
-  if (!crudo || typeof crudo !== "object") return [];
-  const claves = [gob.usuario_x, obtenerUsuarioSinArroba(gob.usuario_x), `@${obtenerUsuarioSinArroba(gob.usuario_x)}`].filter(Boolean);
-  for (const clave of claves) {
-    if (Array.isArray(crudo[clave])) return crudo[clave];
-  }
-  return [];
-}
-
-function renderEstadoInicial() {
-  const cajaEjecutivo = document.getElementById("resumen-ejecutivo");
-  const cajaProfundo = document.getElementById("analisis-profundo");
-  const temasLista = document.getElementById("temas-lista");
-  const grilla = document.getElementById("grilla-gobernadores");
-
-  if (cajaEjecutivo) cajaEjecutivo.innerHTML = "Buscando resumen ejecutivo...";
-  if (cajaProfundo) cajaProfundo.innerHTML = "Buscando análisis profundo...";
-  if (grilla) grilla.innerHTML = "";
-  if (temasLista) temasLista.innerHTML = "<li>A la espera del procesamiento...</li>";
-}
-
-function renderTweetDestacado(tweetDestacado) {
-  const tText = document.getElementById("tweet-destacado-texto");
-  const tAutor = document.getElementById("tweet-destacado-autor");
-
-  if (!tText || !tAutor) return;
-
-  if (tweetDestacado?.texto) {
-    tText.textContent = `“${tweetDestacado.texto}”`;
-    tAutor.textContent = tweetDestacado.usuario ? `- ${tweetDestacado.usuario}` : "";
-  } else {
-    tText.textContent = "Sin post destacado para este turno.";
-    tAutor.textContent = "";
-  }
-}
-
-function renderTemas(temas) {
-  const temasLista = document.getElementById("temas-lista");
-  if (!temasLista) return;
-
-  temasLista.innerHTML = "";
-  const items = normalizarArray(temas);
-
-  if (!items.length) {
-    temasLista.innerHTML = "<li>Sin temas destacados para esta fecha.</li>";
-    return;
-  }
-
-  items.slice(0, 5).forEach(temaItem => {
-    const li = document.createElement("li");
-
-    if (typeof temaItem === "string") {
-      li.textContent = temaItem;
+document.addEventListener("DOMContentLoaded", async () => {
+    console.log("Web iniciada. Cargando base de gobernadores...");
+    const inputFecha = document.getElementById("fecha-select");
+    
+    // Obtenemos la hora actual de Argentina
+    const ahoraArg = new Date(new Date().toLocaleString("en-US", {timeZone: "America/Argentina/Buenos_Aires"}));
+    const horaArg = ahoraArg.getHours();
+    
+    // LÓGICA DE TURNOS EXACTA:
+    if (horaArg >= 20) {
+        turnoActual = "noche";
+        document.getElementById("btn-turno").innerHTML = "🌙 Turno Noche";
     } else {
-      const tema = temaItem?.tema || "Tema sin nombre";
-      const involucrados = normalizarArray(temaItem?.gobernadores_involucrados);
-      li.textContent = `${tema} · ${involucrados.length} gobs`;
-      li.style.cursor = involucrados.length ? "pointer" : "default";
-      li.title = involucrados.length ? "Clic para ver quiénes hablaron de esto" : "";
-      if (involucrados.length) {
-        li.onclick = () => aplicarFiltroTerono(involucrados);
-      }
+        turnoActual = "manana";
+        document.getElementById("btn-turno").innerHTML = "☀️ Turno Mañana";
+    }
+    
+    try {
+        const res = await fetch("./gobernadores.json");
+        if (!res.ok) throw new Error("No se pudo cargar gobernadores.json");
+        gobernadoresBase = await res.json();
+        console.log("Base de gobernadores cargada con éxito.");
+        
+        // FORZAMOS SIEMPRE EL DÍA DE HOY
+        let fechaHoy = obtenerFechaFormateada(0); 
+        
+        // Cargamos el tablero
+        await cargarTablero(fechaHoy);
+        
+        // Clavamos el selector de fecha
+        if(inputFecha) inputFecha.value = fechaHoy;
+
+    } catch (error) {
+        console.error("Error crítico al iniciar:", error);
+        const cajaEj = document.getElementById("resumen-ejecutivo");
+        if(cajaEj) cajaEj.innerHTML = "Error al cargar la base de datos.";
     }
 
-    temasLista.appendChild(li);
-  });
-}
-
-function renderGrilla(analisis, crudo) {
-  const grilla = document.getElementById("grilla-gobernadores");
-  if (!grilla) return;
-
-  grilla.innerHTML = "";
-  const analisisPorGobernador = normalizarArray(analisis?.analisis_por_gobernador);
-
-  gobernadoresBase.forEach(gob => {
-    const analisisGob = buscarAnalisisGobernador(analisisPorGobernador, gob);
-    const crudoGob = obtenerTweetsCrudos(crudo, gob);
-
-    const tarjeta = document.createElement("div");
-    tarjeta.className = "tarjeta-gob";
-    tarjeta.dataset.usuario = obtenerUsuarioSinArroba(gob.usuario_x).toLowerCase();
-
-    const resumen = analisisGob?.resumen || analisisGob?.postura_politica || gob.cargo || "Sin resumen para esta fecha.";
-
-    tarjeta.innerHTML = `
-      <div class="tarjeta-gob-header">
-        <img alt="${escaparHtml(gob.provincia || "Gobernador")}" class="tarjeta-gob-avatar">
-        <div>
-          <h4>${escaparHtml(gob.provincia || "Provincia")}</h4>
-          <p>${escaparHtml(gob.usuario_x || "")}</p>
-        </div>
-      </div>
-      <div class="tarjeta-gob-body">
-        <p>${escaparHtml(resumen)}</p>
-      </div>
-    `;
-
-    const imagenGobernador = tarjeta.querySelector("img");
-    aplicarAvatarConFallback(imagenGobernador, gob);
-    tarjeta.addEventListener("click", () => abrirModal(gob, analisisGob, crudoGob));
-    grilla.appendChild(tarjeta);
-  });
-}
+    if(inputFecha) {
+        inputFecha.addEventListener("change", (e) => cargarTablero(e.target.value));
+    }
+    
+    const closeBtn = document.querySelector(".close-btn");
+    if(closeBtn) {
+        closeBtn.addEventListener("click", () => {
+            document.getElementById("modal-detalle").classList.add("oculta");
+        });
+    }
+});
 
 async function cargarTablero(fecha) {
-  console.log(`Intentando cargar datos para la fecha: ${fecha} (${turnoActual})`);
-  renderEstadoInicial();
+    console.log(`Intentando cargar datos para la fecha: ${fecha}`);
+    
+    const cajaEjecutivo = document.getElementById("resumen-ejecutivo");
+    const cajaProfundo = document.getElementById("analisis-profundo");
+    const temasLista = document.getElementById("temas-lista");
+    const grilla = document.getElementById("grilla-gobernadores");
 
-  const cajaEjecutivo = document.getElementById("resumen-ejecutivo");
-  const cajaProfundo = document.getElementById("analisis-profundo");
+    if(cajaEjecutivo) cajaEjecutivo.innerHTML = "<i>Buscando resumen ejecutivo...</i>";
+    if(cajaProfundo) cajaProfundo.innerHTML = "<i>Buscando análisis profundo...</i>";
+    if(grilla) grilla.innerHTML = "";
+    if(temasLista) temasLista.innerHTML = "<li>Cargando...</li>";
 
-  try {
-    const rutas = obtenerRutasDatos(fecha);
-    const [analisis, crudo] = await Promise.all([
-      fetchJSONSeguro(rutas.analisis),
-      fetchJSONSeguro(rutas.crudo).catch(() => ({}))
-    ]);
+try {
+        // Acá le agregamos "_subtrama_" para que enganche los archivos de Grok
+        const resAnalisis = await fetch(`./data/${fecha}_analisis_subtrama_${turnoActual}.json`);
+        
+        // El crudo queda igual porque la base de tweets es la misma para ambos modelos
+        const resCrudo = await fetch(`./data/${fecha}_crudo_${turnoActual}.json`);
 
-    if (cajaEjecutivo) {
-      cajaEjecutivo.innerHTML = markdownBasicoAHtml(
-        analisis?.resumen_ejecutivo || analisis?.resumen || "Resumen ejecutivo no disponible."
-      );
+        if (!resAnalisis.ok || !resCrudo.ok) {
+            console.warn(`Archivos no encontrados para la fecha ${fecha}`);
+            
+            // TRADUCCIÓN VISUAL
+            const turnoVisual = turnoActual === "manana" ? "mañana" : "noche";
+            
+            // CARTEL ELEGANTE
+            if(cajaEjecutivo) {
+                cajaEjecutivo.innerHTML = `
+                    <div style="text-align: center; padding: 25px; color: #cbd5e1; background-color: rgba(30, 41, 59, 0.5); border-radius: 8px; border: 1px dashed #334155;">
+                        <h4 style="color: #38bdf8; margin-bottom: 10px;">No hay informes para el ${fecha} (${turnoVisual}).</h4>
+                        <p style="margin: 0; font-size: 0.95rem;">Los datos se procesan en dos turnos:</p>
+                        <p style="margin: 0; font-size: 0.95rem;">Por la <strong>mañana (10:45 aprox)</strong> y por la <strong>noche (20:15 aprox)</strong>.</p>
+                    </div>
+                `;
+            }
+            
+            if(cajaProfundo) cajaProfundo.innerHTML = "<p style='text-align:center; color:#94a3b8; margin-top:20px;'><i>A la espera del procesamiento...</i></p>";
+            if(temasLista) temasLista.innerHTML = "<li>Sin datos registrados</li>";
+            
+            const tweetTexto = document.getElementById("tweet-destacado-texto");
+            const tweetAutor = document.getElementById("tweet-destacado-autor");
+            if(tweetTexto) tweetTexto.textContent = "Sin posteos destacados en este turno.";
+            if(tweetAutor) tweetAutor.textContent = "";
+            
+            actualizarSemaforo(null); 
+            
+            return false; 
+        }
+
+        const analisis = await resAnalisis.json();
+        const crudo = await resCrudo.json();
+
+        // 0. ACTUALIZAR SEMÁFORO 
+        actualizarSemaforo(analisis.clima_general);
+
+        // 1. DOBLE VELOCIDAD DE LECTURA
+        if(cajaEjecutivo) cajaEjecutivo.textContent = analisis.resumen_ejecutivo || "Resumen ejecutivo no disponible.";
+        
+        if (analisis.analisis_profundo) {
+            const textoSeguro = escaparHtml(analisis.analisis_profundo);
+            //los saltos de línea en párrafos HTML reales (<p>)
+            const textoConParrafos = textoSeguro
+                .split(/(?:\r?\n|\\n)+/) 
+                .filter(parrafo => parrafo.trim() !== '') 
+                .map(parrafo => `<p>${parrafo}</p>`) 
+                .join('');
+                
+            if(cajaProfundo) cajaProfundo.innerHTML = textoConParrafos;
+        } else {
+            if(cajaProfundo) cajaProfundo.innerHTML = "Análisis profundo no disponible.";
+        }
+
+        // 2. TENDENCIAS
+        if(temasLista) {
+            temasLista.innerHTML = "";
+            if (analisis.temas_calientes) {
+                analisis.temas_calientes.slice(0, 5).forEach(temaItem => {
+                    let li = document.createElement("li");
+                    
+                    if (typeof temaItem === 'string') {
+                        li.textContent = temaItem; 
+                    } else {
+                        li.innerHTML = `<span>${temaItem.tema}</span> <span style="float:right; font-size:0.7rem; background:#3b82f6; color:#0f172a; padding:2px 8px; border-radius:10px; font-weight:bold;">${temaItem.gobernadores_involucrados.length} gobs</span>`;
+                        li.style.cursor = "pointer";
+                        li.style.transition = "all 0.2s ease";
+                        li.title = "Clic para ver quiénes hablaron de esto";
+                        
+                        li.onmouseover = () => li.style.borderColor = "#3b82f6";
+                        li.onmouseout = () => li.style.borderColor = "transparent";
+                        li.style.border = "1px solid transparent";
+
+                        li.onclick = () => aplicarFiltroTerono(temaItem.gobernadores_involucrados);
+                    }
+                    temasLista.appendChild(li);
+                });
+            }
+        }
+
+        // 3. EL POST DEL DÍA
+        if (analisis.tweet_destacado) {
+            const tText = document.getElementById("tweet-destacado-texto");
+            const tAutor = document.getElementById("tweet-destacado-autor");
+            if(tText) tText.textContent = `"${analisis.tweet_destacado.texto}"`;
+            if(tAutor) tAutor.textContent = `- ${analisis.tweet_destacado.usuario}`;
+        }
+
+        // 4. GRILLA DE GOBERNADORES
+        if(grilla && gobernadoresBase) {
+            gobernadoresBase.forEach(gob => {
+                const analisisGob = analisis.analisis_por_gobernador.find(
+                    a => a.gobernador.toLowerCase().includes(gob.usuario_x.toLowerCase())
+                );
+                const crudoGob = crudo[gob.usuario_x] || [];
+
+                let tarjeta = document.createElement("div");
+                tarjeta.className = "tarjeta-gob";
+                
+                tarjeta.dataset.usuario = gob.usuario_x.toLowerCase().replace('@', ''); 
+
+                tarjeta.innerHTML = `
+                    <img alt="${gob.nombre}">
+                    <h4>${gob.nombre}</h4>
+                    <p>${gob.provincia}</p>
+                `;
+                const imagenGobernador = tarjeta.querySelector("img");
+                aplicarAvatarConFallback(imagenGobernador, gob);
+
+                tarjeta.addEventListener("click", () => abrirModal(gob, analisisGob, crudoGob));
+                grilla.appendChild(tarjeta);
+            });
+        }
+
+        return true; 
+
+    } catch (error) {
+        console.error("Error al cargar el tablero:", error);
+        if(cajaEjecutivo) cajaEjecutivo.innerHTML = "Hubo un error al leer los archivos JSON.";
+        if(cajaProfundo) cajaProfundo.innerHTML = "";
+        return false;
     }
-
-    if (cajaProfundo) {
-      cajaProfundo.innerHTML = markdownBasicoAHtml(
-        analisis?.analisis_profundo || analisis?.analisis || "Análisis profundo no disponible."
-      );
-    }
-
-    actualizarSemaforo(analisis?.clima_general || analisis?.clima_politico || analisis?.estado_clima || "DESCONOCIDO");
-    renderTemas(analisis?.temas_calientes);
-    renderTweetDestacado(analisis?.tweet_destacado);
-    renderGrilla(analisis, crudo);
-    sincronizarAlturas();
-    return true;
-  } catch (error) {
-    console.error("Error al cargar el tablero:", error);
-    if (cajaEjecutivo) cajaEjecutivo.innerHTML = `Error al leer archivos JSON para ${fecha} (${turnoActual}).`;
-    if (cajaProfundo) cajaProfundo.innerHTML = "";
-    return false;
-  }
 }
 
-/* --- PARCHE 2: HTML PURO PARA LOS TWEETS --- */
+// =========================================
+// FUNCIÓN PARA ABRIR LA VENTANA FLOTANTE 
+// =========================================
 function abrirModal(gobernador, analisisGob, crudoGob) {
-  const modal = document.getElementById("modal-detalle");
-  const modalBio = document.getElementById("modal-bio");
-  const modalTitulo = document.getElementById("modal-titulo");
-  const modalContenido = document.getElementById("modal-contenido");
-
-  if (!modal) return;
-
-  if (modalTitulo) {
-    modalTitulo.textContent = `${gobernador.provincia || "Provincia"} ${gobernador.usuario_x ? `· ${gobernador.usuario_x}` : ""}`;
-  }
-
-  if (modalBio) {
+    const modal = document.getElementById("modal-detalle");
+    const modalBio = document.getElementById("modal-bio");
+    
     modalBio.innerHTML = `
-      <p><strong>${escaparHtml(gobernador.provincia || "")}</strong> | ${escaparHtml(gobernador.partido || "Gobernador")}</p>
-      <p>${escaparHtml(gobernador.bio || "")}</p>
+        <img alt="${gobernador.nombre}">
+        <div>
+            <h2>${gobernador.nombre} (@${gobernador.usuario_x})</h2>
+            <p><strong>${gobernador.provincia}</strong> | ${gobernador.partido || 'Gobernador'}</p>
+            <p style="font-size: 0.85rem; color: #cbd5e1; margin-top: 10px;">${gobernador.bio || ''}</p>
+        </div>
     `;
-  }
+    const imagenModal = modalBio.querySelector("img");
+    aplicarAvatarConFallback(imagenModal, gobernador);
 
-  if (modalContenido) {
-    const resumen = analisisGob?.resumen || analisisGob?.postura_politica || analisisGob?.sintesis || "Sin análisis individual disponible.";
-    const tweets = normalizarArray(crudoGob);
+    let textoAnalisis = "Sin actividad política registrada para la fecha seleccionada.";
+    let textoCita = "Sin citas textuales hoy.";
 
-    modalContenido.innerHTML = `
-      <div class="modal-analisis">
-        <p>${escaparHtml(resumen)}</p>
-      </div>
-      <div class="modal-tweets">
-        ${tweets.length ? tweets.map(t => `<div class="tweet-item">${t}</div>`).join("") : "<p style='color: #94a3b8; font-style: italic;'>No hay tweets para mostrar en esta fecha.</p>"}
-      </div>
-    `;
-  }
+    if (analisisGob) {
+        textoAnalisis = analisisGob.postura_politica || analisisGob.analisis || textoAnalisis;
+        textoCita = analisisGob.frase_fuerte || analisisGob.cita_textual_relevante || textoCita;
+    }
 
-  modal.classList.remove("oculta");
+    document.getElementById("modal-analisis").textContent = textoAnalisis;
+    document.getElementById("modal-cita-textual").textContent = textoCita;
+
+    const divCrudo = document.getElementById("modal-tweets-crudos");
+    divCrudo.innerHTML = "";
+    if (crudoGob && crudoGob.length > 0) {
+        crudoGob.forEach(tweet => {
+            let div = document.createElement("div");
+            div.className = "tweet-item";
+            div.innerHTML = tweet;
+            divCrudo.appendChild(div);
+        });
+    } else {
+        divCrudo.innerHTML = "<p style='color: #94a3b8; font-style: italic;'>No hay tweets para mostrar en esta fecha.</p>";
+    }
+    
+    modal.classList.remove("oculta");
 }
 
+/* =========================================
+   FUNCIONES DE ACCIÓN RÁPIDA (COMPARTIR)
+========================================= */
 function copiarTexto(idElemento, botonPresionado) {
-  const nodo = document.getElementById(idElemento);
-  if (!nodo) return;
+    let texto = document.getElementById(idElemento).innerText;
+    
+    if (idElemento === 'tweet-destacado-texto') {
+        const autor = document.getElementById('tweet-destacado-autor').innerText;
+        texto = `"${texto}"\n${autor}`;
+    } else {
+        texto = `"${texto}"`;
+    }
 
-  let texto = nodo.innerText || "";
-  if (idElemento === "tweet-destacado-texto") {
-    const autor = document.getElementById("tweet-destacado-autor")?.innerText || "";
-    texto = `${texto}\n${autor}`.trim();
-  }
+    texto += `\n\n📌 Vía El Radar Federal\n👉 radarfederal.ar`;
 
-  texto += "\n\n📌 Vía El Radar Federal\n👉 radarfederal.ar";
-  const iconoOriginal = botonPresionado?.innerHTML;
-
-  navigator.clipboard.writeText(texto).then(() => {
-    if (!botonPresionado) return;
-    botonPresionado.innerHTML = "✅";
-    botonPresionado.style.color = "#4ade80";
-    botonPresionado.style.borderColor = "#4ade80";
-    setTimeout(() => {
-      botonPresionado.innerHTML = iconoOriginal;
-      botonPresionado.style.color = "";
-      botonPresionado.style.borderColor = "";
-    }, 1500);
-  }).catch(err => console.error("Error al copiar:", err));
+    const iconoOriginal = botonPresionado.innerHTML;
+    
+    navigator.clipboard.writeText(texto).then(() => {
+        botonPresionado.innerHTML = "✅";
+        botonPresionado.style.color = "#4ade80"; 
+        botonPresionado.style.borderColor = "#4ade80";
+        
+        setTimeout(() => {
+            botonPresionado.innerHTML = iconoOriginal;
+            botonPresionado.style.color = ""; 
+            botonPresionado.style.borderColor = "";
+        }, 1500); 
+    }).catch(err => {
+        console.error('Error al copiar: ', err);
+    });
 }
 
 function compartirWhatsApp(idElemento) {
-  const nodo = document.getElementById(idElemento);
-  if (!nodo) return;
+    const texto = document.getElementById(idElemento).innerText;
+    let mensaje = `📌 *Vía El Radar Federal:*\n\n"${texto}"`;
 
-  const texto = nodo.innerText || "";
-  const autor = idElemento === "tweet-destacado-texto"
-    ? (document.getElementById("tweet-destacado-autor")?.innerText || "")
-    : "";
-
-  let mensaje = `📌 *Vía El Radar Federal:*\n\n${texto}`;
-  if (autor) mensaje += `\n${autor}`;
-  mensaje += "\n\n👉 radarfederal.ar";
-  window.open(`https://wa.me/?text=${encodeURIComponent(mensaje)}`, "_blank");
+    if (idElemento === 'tweet-destacado-texto') {
+         const autor = document.getElementById('tweet-destacado-autor').innerText;
+         mensaje += `\n${autor}`;
+    }
+    
+    mensaje += `\n\n👉 radarfederal.ar`;
+    
+    const url = `https://wa.me/?text=${encodeURIComponent(mensaje)}`;
+    window.open(url, '_blank');
 }
 
 function compartirX(idElemento) {
-  const nodo = document.getElementById(idElemento);
-  if (!nodo) return;
-
-  const texto = nodo.innerText || "";
-  const autor = idElemento === "tweet-destacado-texto"
-    ? (document.getElementById("tweet-destacado-autor")?.innerText || "")
-    : "";
-
-  let tweetTexto = `${texto}`;
-  if (autor) tweetTexto += `\n${autor}`;
-  tweetTexto += "\n\n📊 Vía El Radar Federal\n👉 radarfederal.ar";
-  window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`, "_blank");
+    const texto = document.getElementById(idElemento).innerText;
+    let tweetTexto = `"${texto}"`;
+    
+    if (idElemento === 'tweet-destacado-texto') {
+         const autor = document.getElementById('tweet-destacado-autor').innerText;
+         tweetTexto += `\n${autor}`;
+    }
+    
+tweetTexto += `\n\n📊 Vía El Radar Federal\n👉 radarfederal.ar`;
+    
+    const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`;
+    window.open(url, '_blank');
 }
 
-/* --- MOTOR DE SEMÁFOROS CORREGIDO --- */
+//* --- MOTOR DE SEMÁFOROS CORREGIDO --- */
 function actualizarSemaforo(estadoClima) {
   const semaforo = document.getElementById("semaforo-clima");
   if (!semaforo) return;
@@ -386,131 +410,117 @@ function actualizarSemaforo(estadoClima) {
   }
 }
 
+/* =========================================
+   FILTRO DE GOBERNADORES EN TIEMPO REAL
+========================================= */
 function filtrarGobernadores() {
-  const input = document.getElementById("buscador-gobernadores");
-  const textoBusqueda = (input?.value || "").toLowerCase();
-  const tarjetas = document.querySelectorAll(".tarjeta-gob");
+    const textoBusqueda = document.getElementById('buscador-gobernadores').value.toLowerCase();
+    const tarjetas = document.querySelectorAll('.tarjeta-gob');
 
-  tarjetas.forEach(tarjeta => {
-    const contenidoTarjeta = (tarjeta.innerText || "").toLowerCase();
-    tarjeta.style.display = contenidoTarjeta.includes(textoBusqueda) ? "" : "none";
-  });
+    tarjetas.forEach(tarjeta => {
+        const contenidoTarjeta = tarjeta.innerText.toLowerCase();
+
+        if (contenidoTarjeta.includes(textoBusqueda)) {
+            tarjeta.style.display = ''; 
+        } else {
+            tarjeta.style.display = 'none'; 
+        }
+    });
 }
 
-function aplicarFiltroTerono(gobernadoresInvolucrados = []) {
-  const tarjetas = document.querySelectorAll(".tarjeta-gob");
-  const involucradosLimpios = gobernadoresInvolucrados.map(g => String(g).toLowerCase().replace("@", ""));
-  let hayResultados = false;
+/* =========================================
+   EFECTO TERONO: FILTROS INTERACTIVOS
+========================================= */
+function aplicarFiltroTerono(gobernadoresInvolucrados) {
+    const tarjetas = document.querySelectorAll('.tarjeta-gob');
+    const involucradosLimpios = gobernadoresInvolucrados.map(g => g.toLowerCase().replace('@', ''));
+    let hayResultados = false;
 
-  tarjetas.forEach(tarjeta => {
-    const usuarioTarjeta = tarjeta.dataset.usuario;
-    if (involucradosLimpios.includes(usuarioTarjeta)) {
-      tarjeta.style.display = "";
-      tarjeta.style.borderColor = "#3b82f6";
-      hayResultados = true;
-    } else {
-      tarjeta.style.display = "none";
-      tarjeta.style.borderColor = "#334155";
+    tarjetas.forEach(tarjeta => {
+        const usuarioTarjeta = tarjeta.dataset.usuario;
+        if (involucradosLimpios.includes(usuarioTarjeta)) {
+            tarjeta.style.display = ''; 
+            tarjeta.style.borderColor = '#3b82f6'; 
+            hayResultados = true;
+        } else {
+            tarjeta.style.display = 'none'; 
+            tarjeta.style.borderColor = '#334155'; 
+        }
+    });
+
+    if (hayResultados) {
+        document.getElementById("seccion-mapa").scrollIntoView({ behavior: 'smooth' });
+        
+        let btnVolver = document.getElementById('btn-rescate-terono');
+        
+        if (!btnVolver) {
+            btnVolver = document.createElement('button');
+            btnVolver.id = 'btn-rescate-terono';
+            btnVolver.innerHTML = '⬆️ Limpiar y volver';
+            btnVolver.className = 'btn-rescate'; 
+            
+            btnVolver.onclick = () => {
+                limpiarFiltrosTerono();
+                document.querySelector('.dashboard-macro').scrollIntoView({ behavior: 'smooth' });
+            };
+            
+            const contenedorControles = document.querySelector('.controles-grilla');
+            contenedorControles.appendChild(btnVolver);
+        }
+        
+        btnVolver.style.display = 'inline-block';
     }
-  });
-
-  if (hayResultados) {
-    document.getElementById("seccion-mapa")?.scrollIntoView({ behavior: "smooth" });
-    let btnVolver = document.getElementById("btn-rescate-terono");
-
-    if (!btnVolver) {
-      btnVolver = document.createElement("button");
-      btnVolver.id = "btn-rescate-terono";
-      btnVolver.innerHTML = "⬆️ Limpiar y volver";
-      btnVolver.className = "btn-rescate";
-      btnVolver.onclick = () => {
-        limpiarFiltrosTerono();
-        document.querySelector(".dashboard-macro")?.scrollIntoView({ behavior: "smooth" });
-      };
-      document.querySelector(".controles-grilla")?.appendChild(btnVolver);
-    }
-
-    btnVolver.style.display = "inline-block";
-  }
 }
 
 function limpiarFiltrosTerono() {
-  const tarjetas = document.querySelectorAll(".tarjeta-gob");
-  tarjetas.forEach(tarjeta => {
-    tarjeta.style.display = "";
-    tarjeta.style.borderColor = "#334155";
-  });
-
-  const buscador = document.getElementById("buscador-gobernadores");
-  if (buscador) buscador.value = "";
-
-  const btnVolver = document.getElementById("btn-rescate-terono");
-  if (btnVolver) btnVolver.style.display = "none";
-}
-
-function sincronizarAlturas() {
-  const sidebar = document.querySelector(".sidebar");
-  const resumenCard = document.querySelector(".resumen-card");
-  if (sidebar && resumenCard) {
-    resumenCard.style.height = "auto";
-    if (window.innerWidth > 768) {
-      resumenCard.style.height = `${sidebar.offsetHeight}px`;
+    const tarjetas = document.querySelectorAll('.tarjeta-gob');
+    
+    tarjetas.forEach(tarjeta => {
+        tarjeta.style.display = ''; 
+        tarjeta.style.borderColor = '#334155'; 
+    });
+    
+    document.getElementById('buscador-gobernadores').value = ''; 
+    
+    const btnVolver = document.getElementById('btn-rescate-terono');
+    if (btnVolver) {
+        btnVolver.style.display = 'none';
     }
-  }
 }
 
+/* =========================================
+   SINCRONIZADOR DE ALTURAS 
+========================================= */
+function sincronizarAlturas() {
+    const sidebar = document.querySelector('.sidebar');
+    const resumenCard = document.querySelector('.resumen-card');
+    
+    if (sidebar && resumenCard) {
+        resumenCard.style.height = 'auto';
+        if (window.innerWidth > 768) {
+            const alturaDerecha = sidebar.offsetHeight;
+            resumenCard.style.height = alturaDerecha + 'px';
+        }
+    }
+}
+
+/* =========================================
+   SELECTOR DE TURNO (MAÑANA / NOCHE)
+========================================= */
 function cambiarTurno() {
-  const btn = document.getElementById("btn-turno");
-  const fechaSeleccionada = document.getElementById("fecha-select")?.value || obtenerFechaFormateada(0);
-  if (btn) {
+    const btn = document.getElementById("btn-turno");
+    const fechaSeleccionada = document.getElementById("fecha-select").value;
+    
     btn.classList.add("activo");
     setTimeout(() => btn.classList.remove("activo"), 300);
-  }
-
-  if (turnoActual === "manana") {
-    turnoActual = "noche";
-    if (btn) btn.innerHTML = "🌙 Turno Noche";
-  } else {
-    turnoActual = "manana";
-    if (btn) btn.innerHTML = "☀️ Turno Mañana";
-  }
-
-  cargarTablero(fechaSeleccionada);
+    
+    if (turnoActual === "manana") {
+        turnoActual = "noche";
+        btn.innerHTML = "🌙 Turno Noche";
+    } else {
+        turnoActual = "manana";
+        btn.innerHTML = "☀️ Turno Mañana";
+    }
+    
+    cargarTablero(fechaSeleccionada);
 }
-
-document.addEventListener("DOMContentLoaded", async () => {
-  console.log("Web iniciada. Cargando base de gobernadores...");
-
-  const inputFecha = document.getElementById("fecha-select");
-  const btnTurno = document.getElementById("btn-turno");
-  const closeBtn = document.querySelector(".close-btn");
-
-  const ahoraArg = new Date(new Date().toLocaleString("en-US", { timeZone: "America/Argentina/Buenos_Aires" }));
-  const horaArg = ahoraArg.getHours();
-
-  turnoActual = horaArg >= 20 ? "noche" : "manana";
-  if (btnTurno) btnTurno.innerHTML = turnoActual === "noche" ? "🌙 Turno Noche" : "☀️ Turno Mañana";
-
-  inputFecha?.addEventListener("change", e => cargarTablero(e.target.value));
-  closeBtn?.addEventListener("click", () => {
-    document.getElementById("modal-detalle")?.classList.add("oculta");
-  });
-
-  try {
-    const res = await fetch("./gobernadores.json", { cache: "no-store" });
-    if (!res.ok) throw new Error("No se pudo cargar gobernadores.json");
-    gobernadoresBase = await res.json();
-
-    const fechaHoy = obtenerFechaFormateada(0);
-    if (inputFecha) inputFecha.value = fechaHoy;
-    await cargarTablero(fechaHoy);
-  } catch (error) {
-    console.error("Error crítico al iniciar:", error);
-    const cajaEj = document.getElementById("resumen-ejecutivo");
-    const cajaProf = document.getElementById("analisis-profundo");
-    if (cajaEj) cajaEj.innerHTML = "Error al cargar la base de datos.";
-    if (cajaProf) cajaProf.innerHTML = "Revisá que exista gobernadores.json y que las rutas de datos sean correctas.";
-  }
-
-  window.addEventListener("resize", sincronizarAlturas);
-});
