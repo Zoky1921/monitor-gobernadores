@@ -600,7 +600,7 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
   {{
     "clima_general": "[Una sola palabra: GUERRA | NEGOCIACION | TENSION | ALIANZA | SILENCIO]",
     "resumen_ejecutivo": "[1 párrafo, máx. 100 palabras. Directo al conflicto fiscal/político del día. Sin intro.]",
-    "analisis_profundo": "[~400 palabras. Alineamientos provincia vs. Nación y entre provincias. Ganadores y perdedores en términos de caja y daño político.]",
+    "analisis_profundo": "Editorial política EXTENSA (equivalente a 3 minutos de lectura). PROHIBIDO escribir estilo telegrama, usar viñetas o abreviaturas matemáticas como '10x'. Debes escribir con prosa ensayística, melódica y pausada, utilizando conectores lógicos y puntos y aparte para separar los temas, explicando el subtexto y cruzando las estrategias tal como lo haría un columnista político del diario La Nación.",    
     "temas_calientes": [
       {{
         "tema": "[descripción breve de la tendencia federal sin comillas dobles]",
