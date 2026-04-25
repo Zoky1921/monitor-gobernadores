@@ -94,7 +94,7 @@ def _openrouter_chat_completions(modelo: str, prompt: str, timeout: int = 90, ma
         ],
         "temperature": temperature,
         "max_tokens": max_tokens,
-        "response_format": {"type": "json_object"},
+        
     }
 
     resp = requests.post(url, headers=headers, json=payload, timeout=timeout)
@@ -564,8 +564,8 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
   2. NOMENCLATURA OBLIGATORIA: Cada gobernador = "Nombre (Provincia)".
      Ejemplo: "Maximiliano Pullaro (Santa Fe)".
   3. FALLBACK: Solo si tras agotar la sospecha política no hay absolutamente nada (ej. solo tweets de días anteriores o peso exclusivamente bajo), ejecutá el JSON del bloque <fallback>.
-  4. FILTRO TEMPORAL ESTRICTO: Procesá ÚNICAMENTE tweets de hoy ({fecha_pantalla}) o de ayer a la noche. 
-  5. VERIFICACIÓN INTERNA: Antes de outputear, confirmá internamente que cada tweet citado cumple el filtro temporal. Si ninguno lo cumple, ejecutá el bloque <fallback>.
+  4. FILTRO TEMPORAL Y FORMATO DE FECHAS: Procesá ÚNICAMENTE tweets de hoy ({fecha_pantalla}) o de ayer a la noche. ATENCIÓN: Las fechas en la data cruda vienen en formato inglés y UTC (ejemplo: 'Fri Apr 24...'). Debes homologar ese formato con la fecha de hoy ({fecha_pantalla}) para no descartar tweets válidos.
+  5. VERIFICACIÓN INTERNA: Confirmá que el tweet es reciente antes de citarlo. Ante la duda por la zona horaria (+0000), si el mes y el día (ej: Apr 24) coinciden con la fecha de hoy, APROBALO E INCLUILO. Si definitivamente no hay tweets recientes, recién ahí ejecutá el <fallback>.
   6. JSON PURO OBLIGATORIO: Tu respuesta completa debe ser ÚNICAMENTE un objeto JSON válido. Cero texto antes o después de las llaves. PROHIBIDO usar bloques de código como ```json. Arrancá directamente con la llave {{.
   7. SEGURIDAD JSON: Dentro de cualquier valor de texto, reemplazá comillas dobles (") por comillas simples ('). Para valores nulos, usá la palabra null SIN comillas.
   8. ARRAY COMPLETO PERO JUSTIFICADO: En "analisis_por_gobernador" incluí a TODOS los que tengan al menos un tweet válido en la data cruda. Si el contenido es de peso bajo, no lo omitas, pero en "postura_politica" escribí explícitamente: "Agenda local sin impacto federal" o "Gestión protocolar aislada".
