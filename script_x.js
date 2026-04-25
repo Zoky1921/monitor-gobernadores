@@ -204,7 +204,7 @@ async function cargarTablero(fecha) {
 
         if(grilla && gobernadoresBase) {
             gobernadoresBase.forEach(gob => {
-                // CAMBIO 2: Buscador inteligente para arreglar el bug de Jorge Macri
+                // Buscador inteligente
                 const analisisGob = analisis.analisis_por_gobernador.find(a => {
                     const strGob = String(a.gobernador).toLowerCase();
                     const handle = obtenerUsuarioSinArroba(gob.usuario_x).toLowerCase();
@@ -212,17 +212,26 @@ async function cargarTablero(fecha) {
                     return strGob.includes(handle) || strGob.includes(prov);
                 });
                 
-                // Aseguramos leer bien los tuits crudos
                 const crudoGob = crudo[gob.usuario_x] || crudo[obtenerUsuarioSinArroba(gob.usuario_x)] || [];
 
                 let tarjeta = document.createElement("div");
                 tarjeta.className = "tarjeta-gob";
                 tarjeta.dataset.usuario = obtenerUsuarioSinArroba(gob.usuario_x).toLowerCase(); 
 
+                // LECTURA CORRECTA DE GROK (postura_politica)
+                const resumen = analisisGob?.postura_politica || analisisGob?.resumen || "Sin actividad registrada.";
+
                 tarjeta.innerHTML = `
-                    <img alt="${gob.nombre}">
-                    <h4>${gob.nombre}</h4>
-                    <p>${gob.provincia}</p>
+                    <div class="tarjeta-gob-header">
+                        <img alt="${gob.nombre}">
+                        <div>
+                            <h4>${gob.nombre}</h4>
+                            <p>${gob.provincia}</p>
+                        </div>
+                    </div>
+                    <div class="tarjeta-gob-body" style="margin-top: 10px; font-size: 0.85rem; color: #cbd5e1;">
+                        <p>${escaparHtml(resumen)}</p>
+                    </div>
                 `;
                 const imagenGobernador = tarjeta.querySelector("img");
                 aplicarAvatarConFallback(imagenGobernador, gob);
@@ -246,51 +255,64 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
     const modal = document.getElementById("modal-detalle");
     const modalBio = document.getElementById("modal-bio");
     
-    modalBio.innerHTML = `
-        <img alt="${gobernador.nombre}">
-        <div>
-            <h2>${gobernador.nombre} (@${gobernador.usuario_x})</h2>
-            <p><strong>${gobernador.provincia}</strong> | ${gobernador.partido || 'Gobernador'}</p>
-            <p style="font-size: 0.85rem; color: #cbd5e1; margin-top: 10px;">${gobernador.bio || ''}</p>
-        </div>
-    `;
-    const imagenModal = modalBio.querySelector("img");
-    aplicarAvatarConFallback(imagenModal, gobernador);
+    if (!modal) return;
 
+    // 1. DIBUJAMOS LA BIO
+    if (modalBio) {
+        modalBio.innerHTML = `
+            <img alt="${escaparHtml(gobernador.nombre)}">
+            <div>
+                <h2>${escaparHtml(gobernador.nombre)} (@${escaparHtml(gobernador.usuario_x)})</h2>
+                <p><strong>${escaparHtml(gobernador.provincia)}</strong> | ${escaparHtml(gobernador.partido || 'Gobernador')}</p>
+                <p style="font-size: 0.85rem; color: #cbd5e1; margin-top: 10px;">${escaparHtml(gobernador.bio || '')}</p>
+            </div>
+        `;
+        const imagenModal = modalBio.querySelector("img");
+        aplicarAvatarConFallback(imagenModal, gobernador);
+    }
+
+    // 2. BUSCAMOS LOS TEXTOS DE GROK
     let textoAnalisis = "Sin actividad política registrada para la fecha seleccionada.";
     let textoCita = "Sin citas textuales hoy.";
 
     if (analisisGob) {
-        textoAnalisis = analisisGob.postura_politica || analisisGob.analisis || textoAnalisis;
+        textoAnalisis = analisisGob.postura_politica || analisisGob.resumen || textoAnalisis;
         textoCita = analisisGob.frase_fuerte || analisisGob.cita_textual_relevante || textoCita;
     }
 
-    document.getElementById("modal-analisis").textContent = textoAnalisis;
-    document.getElementById("modal-cita-textual").textContent = textoCita;
+    const nodoAnalisis = document.getElementById("modal-analisis");
+    const nodoCita = document.getElementById("modal-cita-textual");
+    
+    if (nodoAnalisis) nodoAnalisis.textContent = textoAnalisis;
+    if (nodoCita) nodoCita.textContent = textoCita;
 
+    // 3. INYECTAMOS LOS TWEETS COMO HTML PURO (Sin escapar)
     const divCrudo = document.getElementById("modal-tweets-crudos");
-    divCrudo.innerHTML = "";
-    if (crudoGob && crudoGob.length > 0) {
-        crudoGob.forEach(tweet => {
-            let div = document.createElement("div");
-            div.className = "tweet-item";
-            div.innerHTML = tweet;
-            divCrudo.appendChild(div);
-        });
-    } else {
-        divCrudo.innerHTML = "<p style='color: #94a3b8; font-style: italic;'>No hay tweets para mostrar en esta fecha.</p>";
+    if (divCrudo) {
+        divCrudo.innerHTML = "";
+        
+        if (crudoGob && crudoGob.length > 0) {
+            crudoGob.forEach(tweet => {
+                let div = document.createElement("div");
+                div.className = "tweet-item";
+                // SIN ESCAPARHtml para que el navegador dibuje el tuit
+                div.innerHTML = typeof tweet === 'string' ? tweet : (tweet.html || tweet.texto || JSON.stringify(tweet));
+                divCrudo.appendChild(div);
+            });
+        } else {
+            divCrudo.innerHTML = "<p style='color: #94a3b8; font-style: italic;'>No hay tweets para mostrar en esta fecha.</p>";
+        }
     }
     
     modal.classList.remove("oculta");
 
-    // CAMBIO 4: Activar los globitos de X al abrir el modal
+    // 4. LLAMAMOS A X PARA QUE DIBUJE LOS GLOBITOS
     setTimeout(() => {
         if (window.twttr && window.twttr.widgets) {
-            window.twttr.widgets.load();
+            window.twttr.widgets.load(divCrudo);
         }
     }, 100);
 }
-
 function copiarTexto(idElemento, botonPresionado) {
     let texto = document.getElementById(idElemento).innerText;
     if (idElemento === 'tweet-destacado-texto') {
