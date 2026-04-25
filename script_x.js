@@ -380,15 +380,15 @@ function actualizarSemaforo(estadoClima) {
 
     const estado = estadoClima ? estadoClima.toUpperCase() : "DESCONOCIDO";
 
-    if (estado.includes("TENSO") || estado.includes("NEGATIVO") || estado.includes("CONFLICTO")) {
+    if (estado.includes("TENSO") || estado.includes("TENSION") || estado.includes("GUERRA") || estado.includes("NEGATIVO") || estado.includes("CONFLICTO")) {
         semaforo.classList.add('rojo');
-        semaforo.title = "Clima Político: TENSO";
-    } else if (estado.includes("NEUTRAL") || estado.includes("MODERADO") || estado.includes("AMBIVALENTE")) {
+        semaforo.title = "Clima Político: " + estado;
+    } else if (estado.includes("NEUTRAL") || estado.includes("NEGOCIACION") || estado.includes("SILENCIO") || estado.includes("MODERADO") || estado.includes("AMBIVALENTE")) {
         semaforo.classList.add('amarillo');
-        semaforo.title = "Clima Político: NEUTRAL / MODERADO";
-    } else if (estado.includes("POSITIVO") || estado.includes("COOPERATIVO") || estado.includes("ACUERDO")) {
+        semaforo.title = "Clima Político: " + estado;
+    } else if (estado.includes("POSITIVO") || || estado.includes("ALIANZA") || estado.includes("COOPERATIVO") || estado.includes("ACUERDO")) {
         semaforo.classList.add('verde');
-        semaforo.title = "Clima Político: POSITIVO / COOPERATIVO";
+        semaforo.title = "Clima Político: " + estado;
     } else {
         semaforo.classList.add('gris'); 
         semaforo.title = "Clima Político: Sin datos";
