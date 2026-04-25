@@ -1,80 +1,121 @@
 {
-    "clima_general": "SILENCIO",
-    "resumen_ejecutivo": "Gobernadores optan por el mutismo federal: foco en gestión local de bajo voltaje (agua, salud, educación). Ausencia total de roces con Nación o entre provincias marca un apagón político coordinado, aislando a Casa Rosada en su relato de ajuste. ¿Coincidencia o cartelizacion tácita para erosionar hegemonía mileísta?",
-    "analisis_profundo": "El 23/04/2026 revela un repliegue estratégico de los gobernadores hacia lo municipal/provincial, ignorando la agenda nacional en un juego de espejos que debilita a Milei. Kicillof (Buenos Aires), con peso gravitacional 10x, lanza MDF Educación 'federal' pero es puro relato peronista para captar simbólicamente sin caja real de Nación, mientras Caputo retiene fondos. Llaryora (Córdoba) y Jalil (Catamarca) exhiben obras hídricas locales (agua potable Buchardo, riego Guanchín), peso medio, pero ¿ocultan aprietes fiscales pendientes? Valdés (Corrientes) avanza expropiación para parque industrial, pacto inconfesable con privados ante opacidad coparticipante. Poggi (San Luis) y Figueroa (Neuquén) en gestión protocolar (escrituras, alarmas, anti-narco local), sin impacto federal. Macri (CABA) educa con TUMO, marca territorio porteño. Este aislamiento colectivo -sin test de ausencia en fechas clave- configura un 'apagón político' que deslegitima el ajuste nacional: gobernadores gestionan lo visible (pavimentos, centros salud) para erosionar relato Casa Rosada, diplomacia de la caja en subsuelo. Ganadores: peronistas como Kicillof, que arma oposición simbólica sin confrontar caja; perdedores: Nación, expuesta a hegemonía provincial en silencio. ¿Acaso ignoran que obras dependen de firma Caputo? Opacidad total, como macroeconomía post-2001.",
+  "clima_general": "NEGOCIACION",
+  "resumen_ejecutivo": "La noche del 23 no mostró una rebelión coral de gobernadores contra la Casa Rosada, pero sí algo más sutil y quizá más corrosivo: una cartelización de agendas provinciales que reemplaza a la Nación por gestión, inversión y diplomacia propia. Axel Kicillof (Buenos Aires) fue el único que politizó abiertamente la escena con su plataforma educativa opositora; el resto administró territorio, producción y vínculos internacionales como si el poder federal fuera un accionista minoritario de la Argentina.",
+  "analisis_profundo": "La foto de la jornada es la de un federalismo sin épica nacional, pero con mucha contabilidad política. No hubo alaridos conjuntos contra Javier Milei. Hubo algo más inteligente: gobernadores ocupando el vacío. Cuando Martín Llaryora (Córdoba) exhibe cirugía de alta complejidad y agua potable, cuando Gustavo Valdés (Corrientes) amplía parque industrial y puerto, cuando Marcelo Orrego (San Juan) recibe una misión de la Unión Europea, cuando Maximiliano Pullaro (Santa Fe) vende obra urbana y orgullo santafesino, están ejecutando la misma maniobra con distintos dialectos: demostrar que la gobernabilidad efectiva ya no baja desde Balcarce 50, sino que se administra en las provincias.\n\nAxel Kicillof (Buenos Aires) desentonó deliberadamente. Su secuencia de posteos sobre 'propuesta educativa federal', 'Derecho al Futuro' y el lanzamiento de MDF Educación no fue una agenda sectorial sino una construcción de doctrina. Habla de educación, pero opera sobre liderazgo opositor. ¿Está pensando en la escuela? Sí. ¿Sólo en la escuela? En absoluto. Está montando un dispositivo de agregación política para darle al peronismo un lenguaje de reconstrucción frente al experimento libertario. La subtrama material no aparece explícita en esos tweets, pero es evidente: quien ordena la conversación educativa intenta también ordenar la futura coalición que dispute presupuesto, legitimidad y Estado.\n\nEl resto del mapa luce menos ideológico y más transaccional. Córdoba insiste en una narrativa de Estado eficiente, tecnificado y presente. Es una crítica implícita a Nación: mientras el centro se jacta del ajuste, Llaryora exhibe prestaciones de alto costo y obra territorial. Corrientes, con Valdés, usa la ampliación del parque industrial y el puerto de Ituzaingó para fijar un mensaje productivista: más superficie industrial, más madera transformada, más valor agregado local. Es decir, más caja propia y menos dependencia de transferencias.\n\nSan Juan ofrece un capítulo aparte. Orrego recibió al embajador de la Unión Europea y a una delegación amplia de países. Eso ya no es protocolo: es diplomacia subnacional orientada a minería, energías limpias y seguridad de reglas. En la Argentina contemporánea, cada misión internacional a una provincia minera es también una forma de presión lateral sobre la Nación. ¿Quién garantiza previsibilidad, la Casa Rosada o los gobernadores que administran el subsuelo? He ahí la pregunta venenosa.\n\nSanta Fe y Catamarca, por su parte, mostraron la diferencia entre gestión con densidad política y gestión encapsulada. Pullaro usa obra pública como promesa de transformación, una pedagogía del orden que le habla a su electorado y a sus competidores internos. Raúl Jalil (Catamarca), en cambio, quedó en una agenda hídrica de bajo voltaje federal: útil para administrar, insuficiente para tallar en la disputa mayor.\n\nEn suma: no fue una jornada de guerra declarada, sino de negociación silenciosa. Los gobernadores no están rompiendo con la Nación; están aprendiendo a prescindir de ella en el relato. Y eso, en política, suele ser el preludio de una renegociación más brutal.",
+  "temas_calientes": [
     {
-"clima_general": "NEGOCIACION",
-"resumen_ejecutivo": "La noche del 23 no mostró una rebelión coral de gobernadores contra la Casa Rosada, pero sí algo más sutil y quizá más corrosivo: una cartelización de agendas provinciales que reemplaza a la Nación por gestión, inversión y diplomacia propia. Axel Kicillof (Buenos Aires) fue el único que politizó abiertamente la escena con su plataforma educativa opositora; el resto administró territorio, producción y vínculos internacionales como si el poder federal fuera un accionista minoritario de la Argentina.",
-"analisis_profundo": "La foto de la jornada es la de un federalismo sin épica nacional, pero con mucha contabilidad política. No hubo alaridos conjuntos contra Javier Milei. Hubo algo más inteligente: gobernadores ocupando el vacío. Cuando Martín Llaryora (Córdoba) exhibe cirugía de alta complejidad y agua potable, cuando Gustavo Valdés (Corrientes) amplía parque industrial y puerto, cuando Marcelo Orrego (San Juan) recibe una misión de la Unión Europea, cuando Maximiliano Pullaro (Santa Fe) vende obra urbana y orgullo santafesino, están ejecutando la misma maniobra con distintos dialectos: demostrar que la gobernabilidad efectiva ya no baja desde Balcarce 50, sino que se administra en las provincias.\n\nAxel Kicillof (Buenos Aires) desentonó deliberadamente. Su secuencia de posteos sobre 'propuesta educativa federal', 'Derecho al Futuro' y el lanzamiento de MDF Educación no fue una agenda sectorial sino una construcción de doctrina. Habla de educación, pero opera sobre liderazgo opositor. ¿Está pensando en la escuela? Sí. ¿Sólo en la escuela? En absoluto. Está montando un dispositivo de agregación política para darle al peronismo un lenguaje de reconstrucción frente al experimento libertario. La subtrama material no aparece explícita en esos tweets, pero es evidente: quien ordena la conversación educativa intenta también ordenar la futura coalición que dispute presupuesto, legitimidad y Estado.\n\nEl resto del mapa luce menos ideológico y más transaccional. Córdoba insiste en una narrativa de Estado eficiente, tecnificado y presente. Es una crítica implícita a Nación: mientras el centro se jacta del ajuste, Llaryora exhibe prestaciones de alto costo y obra territorial. Corrientes, con Valdés, usa la ampliación del parque industrial y el puerto de Ituzaingó para fijar un mensaje productivista: más superficie industrial, más madera transformada, más valor agregado local. Es decir, más caja propia y menos dependencia de transferencias.\n\nSan Juan ofrece un capítulo aparte. Orrego recibió al embajador de la Unión Europea y a una delegación amplia de países. Eso ya no es protocolo: es diplomacia subnacional orientada a minería, energías limpias y seguridad de reglas. En la Argentina contemporánea, cada misión internacional a una provincia minera es también una forma de presión lateral sobre la Nación. ¿Quién garantiza previsibilidad, la Casa Rosada o los gobernadores que administran el subsuelo? He ahí la pregunta venenosa.\n\nSanta Fe y Catamarca, por su parte, mostraron la diferencia entre gestión con densidad política y gestión encapsulada. Pullaro usa obra pública como promesa de transformación, una pedagogía del orden que le habla a su electorado y a sus competidores internos. Raúl Jalil (Catamarca), en cambio, quedó en una agenda hídrica de bajo voltaje federal: útil para administrar, insuficiente para tallar en la disputa mayor.\n\nEn suma: no fue una jornada de guerra declarada, sino de negociación silenciosa. Los gobernadores no están rompiendo con la Nación; están aprendiendo a prescindir de ella en el relato. Y eso, en política, suele ser el preludio de una renegociación más brutal.",
-"temas_calientes": [
-{
-"tema": "Educación como plataforma de reconstrucción opositora y articulación federal alternativa",
-"gobernadores_involucrados": ["@Kicillofok"]
-},
-{
-"tema": "Obra y servicios provinciales como reemplazo del Estado nacional retraído",
-"gobernadores_involucrados": ["@MartinLlaryora", "@maxipullaro", "@RaulJalil_ok"]
-},
-{
-"tema": "Producción, puerto e industrialización para ampliar caja propia provincial",
-"gobernadores_involucrados": ["@gustavovaldesok"]
-},
-{
-"tema": "Diplomacia subnacional e inserción internacional de provincias mineras",
-"gobernadores_involucrados": ["@DrMarceloOrrego"]
-},
-{
-"tema": "Gestión sanitaria de alta complejidad como marca de legitimidad estatal",
-"gobernadores_involucrados": ["@MartinLlaryora", "@Kicillofok"]
+      "tema": "Educación como plataforma de reconstrucción opositora y articulación federal alternativa",
+      "gobernadores_involucrados": [
+        "@Kicillofok"
+      ]
+    },
+    {
+      "tema": "Obra y servicios provinciales como reemplazo del Estado nacional retraído",
+      "gobernadores_involucrados": [
+        "@MartinLlaryora",
+        "@maxipullaro",
+        "@RaulJalil_ok"
+      ]
+    },
+    {
+      "tema": "Producción, puerto e industrialización para ampliar caja propia provincial",
+      "gobernadores_involucrados": [
+        "@gustavovaldesok"
+      ]
+    },
+    {
+      "tema": "Diplomacia subnacional e inserción internacional de provincias mineras",
+      "gobernadores_involucrados": [
+        "@DrMarceloOrrego"
+      ]
+    },
+    {
+      "tema": "Gestión sanitaria de alta complejidad como marca de legitimidad estatal",
+      "gobernadores_involucrados": [
+        "@MartinLlaryora",
+        "@Kicillofok"
+      ]
+    }
+  ],
+  "tweet_destacado": {
+    "usuario": "@Kicillofok (RT de @MOVIMIENTODAF)",
+    "texto": "La esperanza se organiza. Nace el @MDFEducacion \n\nPor una Argentina con Derecho al Futuro. https://t.co/AdZ9RSjWfw",
+    "por_que_es_clave": "Porque no es un simple retweet militante: es la señal de que Kicillof dejó de limitarse a la resistencia discursiva y empezó a construir una arquitectura política temática. Educación, en este caso, funciona como contraseña moral para reagrupar peronismo, progresismo y corporaciones del sistema educativo contra el vaciamiento libertario. ¿Acaso 'Derecho al Futuro' no suena a la forma elegante de disputar hoy la caja, mañana la coalición y pasado mañana la presidencia?",
+    "pregunta_openarg": "¿El lanzamiento de MDF Educación anticipa una estructura política nacional encabezada por Axel Kicillof para disputar la agenda social y presupuestaria que Milei está desmantelando?"
+  },
+  "analisis_por_gobernador": [
+    {
+      "gobernador": "@Kicillofok (Buenos Aires)",
+      "temas_mencionados": [
+        "educación federal",
+        "salud comunitaria",
+        "construcción opositora",
+        "Derecho al Futuro"
+      ],
+      "postura_politica": "Dice que impulsa una propuesta educativa y un dispositivo de salud de cercanía; en realidad está usando gestión y educación como andamiaje de liderazgo opositor. El dardo va a Milei, pero también al peronismo disperso que todavía no tiene conductor indiscutido.",
+      "frase_fuerte": "Hacia la construcción de una propuesta educativa federal."
+    },
+    {
+      "gobernador": "@jorgemacri (Ciudad de Buenos Aires)",
+      "temas_mencionados": [
+        "educación tecnológica",
+        "innovación urbana"
+      ],
+      "postura_politica": "Gestión protocolar aislada. Muestra modernización educativa y marca identidad de gestión PRO, pero sin impacto federal decisivo en la jornada.",
+      "frase_fuerte": "El modelo de aprendizaje más moderno del mundo. Esta es la educación en la que creemos."
+    },
+    {
+      "gobernador": "@RaulJalil_ok (Catamarca)",
+      "temas_mencionados": [
+        "agua",
+        "riego",
+        "producción local"
+      ],
+      "postura_politica": "Agenda local sin impacto federal. Habla de sostener producción y comunidades, pero evita entrar en la discusión mayor sobre minería, recursos estratégicos o relación con Nación.",
+      "frase_fuerte": "El aprovechamiento del agua es clave para sostener la producción y acompañar el crecimiento de nuestras comunidades."
+    },
+    {
+      "gobernador": "@MartinLlaryora (Córdoba)",
+      "temas_mencionados": [
+        "salud pública",
+        "cirugía de alta complejidad",
+        "agua potable",
+        "igualdad territorial"
+      ],
+      "postura_politica": "Dice que amplía derechos y servicios; lo que realmente hace es exhibir un Estado provincial de alta capacidad para contrastar con el dogma del achique nacional. No confronta de frente, pero el contraste es un misil.",
+      "frase_fuerte": "En Córdoba, la salud es un derecho, no un privilegio. Y vamos a seguir defendiéndola."
+    },
+    {
+      "gobernador": "@gustavovaldesok (Corrientes)",
+      "temas_mencionados": [
+        "parque industrial",
+        "puerto",
+        "industria maderera",
+        "radicación de inversiones"
+      ],
+      "postura_politica": "Dice que amplía infraestructura para nuevas industrias; en el fondo busca fortalecer caja productiva propia y mostrar una provincia que agrega valor en vez de mendigar recursos. Le habla al empresariado y a la interna radical al mismo tiempo.",
+      "frase_fuerte": "Con más superficie a disposición, facilitaremos la radicación de nuevas industrias que agreguen valor a la madera correntina."
+    },
+    {
+      "gobernador": "@DrMarceloOrrego (San Juan)",
+      "temas_mencionados": [
+        "Unión Europea",
+        "minería",
+        "energías limpias",
+        "proyección internacional"
+      ],
+      "postura_politica": "Dice que recibe una misión de trabajo; en realidad está internacionalizando la marca San Juan para blindar inversiones y consolidar autoridad sobre recursos estratégicos. Diplomacia subnacional con ambición de autonomía.",
+      "frase_fuerte": "Hoy estamos en el radar internacional, y eso es resultado de una provincia que planifica y gestiona con rumbo."
+    },
+    {
+      "gobernador": "@maxipullaro (Santa Fe)",
+      "temas_mencionados": [
+        "obra urbana",
+        "transformación de la capital provincial",
+        "identidad santafesina"
+      ],
+      "postura_politica": "Dice que hace obras para transformar; lo que quiere decir es que Santa Fe no va a resignar centralidad ni autoestima política. Gestión territorial con narrativa de provincia fuerte.",
+      "frase_fuerte": "Tenemos muy en claro la provincia que queremos: segura, productiva, y que los santafesinos y el turismo puedan sentirse orgullosos de la Invencible."
+    }
+  ]
 }
-],
-"tweet_destacado": {
-"usuario": "@Kicillofok (RT de @MOVIMIENTODAF)",
-"texto": "La esperanza se organiza. Nace el @MDFEducacion \n\nPor una Argentina con Derecho al Futuro. https://t.co/AdZ9RSjWfw",
-"por_que_es_clave": "Porque no es un simple retweet militante: es la señal de que Kicillof dejó de limitarse a la resistencia discursiva y empezó a construir una arquitectura política temática. Educación, en este caso, funciona como contraseña moral para reagrupar peronismo, progresismo y corporaciones del sistema educativo contra el vaciamiento libertario. ¿Acaso 'Derecho al Futuro' no suena a la forma elegante de disputar hoy la caja, mañana la coalición y pasado mañana la presidencia?",
-"pregunta_openarg": "¿El lanzamiento de MDF Educación anticipa una estructura política nacional encabezada por Axel Kicillof para disputar la agenda social y presupuestaria que Milei está desmantelando?"
-},
-"analisis_por_gobernador": [
-{
-"gobernador": "@Kicillofok (Buenos Aires)",
-"temas_mencionados": ["educación federal", "salud comunitaria", "construcción opositora", "Derecho al Futuro"],
-"postura_politica": "Dice que impulsa una propuesta educativa y un dispositivo de salud de cercanía; en realidad está usando gestión y educación como andamiaje de liderazgo opositor. El dardo va a Milei, pero también al peronismo disperso que todavía no tiene conductor indiscutido.",
-"frase_fuerte": "Hacia la construcción de una propuesta educativa federal."
-},
-{
-"gobernador": "@jorgemacri (Ciudad de Buenos Aires)",
-"temas_mencionados": ["educación tecnológica", "innovación urbana"],
-"postura_politica": "Gestión protocolar aislada. Muestra modernización educativa y marca identidad de gestión PRO, pero sin impacto federal decisivo en la jornada.",
-"frase_fuerte": "El modelo de aprendizaje más moderno del mundo. Esta es la educación en la que creemos."
-},
-{
-"gobernador": "@RaulJalil_ok (Catamarca)",
-"temas_mencionados": ["agua", "riego", "producción local"],
-"postura_politica": "Agenda local sin impacto federal. Habla de sostener producción y comunidades, pero evita entrar en la discusión mayor sobre minería, recursos estratégicos o relación con Nación.",
-"frase_fuerte": "El aprovechamiento del agua es clave para sostener la producción y acompañar el crecimiento de nuestras comunidades."
-},
-{
-"gobernador": "@MartinLlaryora (Córdoba)",
-"temas_mencionados": ["salud pública", "cirugía de alta complejidad", "agua potable", "igualdad territorial"],
-"postura_politica": "Dice que amplía derechos y servicios; lo que realmente hace es exhibir un Estado provincial de alta capacidad para contrastar con el dogma del achique nacional. No confronta de frente, pero el contraste es un misil.",
-"frase_fuerte": "En Córdoba, la salud es un derecho, no un privilegio. Y vamos a seguir defendiéndola."
-},
-{
-"gobernador": "@gustavovaldesok (Corrientes)",
-"temas_mencionados": ["parque industrial", "puerto", "industria maderera", "radicación de inversiones"],
-"postura_politica": "Dice que amplía infraestructura para nuevas industrias; en el fondo busca fortalecer caja productiva propia y mostrar una provincia que agrega valor en vez de mendigar recursos. Le habla al empresariado y a la interna radical al mismo tiempo.",
-"frase_fuerte": "Con más superficie a disposición, facilitaremos la radicación de nuevas industrias que agreguen valor a la madera correntina."
-},
-{
-"gobernador": "@DrMarceloOrrego (San Juan)",
-"temas_mencionados": ["Unión Europea", "minería", "energías limpias", "proyección internacional"],
-"postura_politica": "Dice que recibe una misión de trabajo; en realidad está internacionalizando la marca San Juan para blindar inversiones y consolidar autoridad sobre recursos estratégicos. Diplomacia subnacional con ambición de autonomía.",
-"frase_fuerte": "Hoy estamos en el radar internacional, y eso es resultado de una provincia que planifica y gestiona con rumbo."
-},
-{
-"gobernador": "@maxipullaro (Santa Fe)",
-"temas_mencionados": ["obra urbana", "transformación de la capital provincial", "identidad santafesina"],
-"postura_politica": "Dice que hace obras para transformar; lo que quiere decir es que Santa Fe no va a resignar centralidad ni autoestima política. Gestión territorial con narrativa de provincia fuerte.",
-"frase_fuerte": "Tenemos muy en claro la provincia que queremos: segura, productiva, y que los santafesinos y el turismo puedan sentirse orgullosos de la Invencible."
-}
-] }
