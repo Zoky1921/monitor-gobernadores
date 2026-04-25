@@ -1,0 +1,197 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una marcada tensión política, donde gobernadores como Axel Kicillof (Buenos Aires) y Jorge Macri (CABA) lanzaron mensajes ideológicamente cargados, el primero criticando al Gobierno Nacional por 'rematar el país' y el segundo consolidando su postura de 'ley y orden' contra el kirchnerismo en la recuperación de propiedades. En paralelo, la agenda provincial se volcó masivamente a la gestión local, con numerosos anuncios de obras de infraestructura, mejoras en salud y educación, y respuestas a emergencias climáticas. Rolando Figueroa (Neuquén) destacó la cancelación de deuda para priorizar inversiones, mientras que Maximiliano Pullaro (Santa Fe) puso foco en la lucha contra el maltrato infantil y la defensa de los productores. Ricardo Quintela (La Rioja) enfatizó la importancia del federalismo en el Norte Grande.",
+    "analisis_profundo": "El tablero federal del 25 de abril de 2026 muestra un doble carril: por un lado, una intensa actividad de gestión provincial y, por otro, un endurecimiento de la retórica política que subraya las tensiones con el Gobierno Nacional y entre las propias fuerzas. Gobernadores como Axel Kicillof (Buenos Aires) y Jorge Macri (CABA) delinearon claramente sus posturas ideológicas. Kicillof, desde la consolidación del peronismo bonaerense, emitió una advertencia contundente sobre la defensa del país, lo que puede interpretarse como una crítica directa a las políticas nacionales de desregulación y privatización. En el polo opuesto, Jorge Macri (CABA) capitalizó las acciones de desalojo de propiedades como un acto de 'ley y orden', confrontando explícitamente al kirchnerismo y marcando un perfil de derecha en la gestión de la seguridad urbana.\n\nLa mayoría de los mandatarios provinciales, sin embargo, dedicó sus publicaciones a la gestión concreta: Leandro Zdero (Chaco) atendió emergencias por inundaciones; Martín Llaryora (Córdoba) y Claudio Vidal (Santa Cruz) avanzaron en obras de agua y saneamiento; Alfredo Cornejo (Mendoza) destacó la eficiencia en la compra de medicamentos y nuevas modalidades de vacunación. Rolando Figueroa (Neuquén) exhibió logros en la cancelación de deuda y la inversión en rutas, mientras que Alberto Weretilneck (Río Negro) inauguró infraestructura hospitalaria y servicios básicos. Estos anuncios, aunque enfocados en lo local, a menudo refuerzan la narrativa de una gestión provincial activa frente a un posible desfinanciamiento nacional. La reunión del Norte Grande, mencionada por Ricardo Quintela (La Rioja), subraya el esfuerzo de las provincias por construir una agenda federal común, buscando contrapeso a las políticas centralistas percibidas. La diversidad de temas abordados, desde la seguridad hasta la educación y el desarrollo productivo, revela la complejidad de la agenda subnacional en un contexto político y económico desafiante.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@carlossadirjuy",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@alfredocornejo",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Público",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Federalismo y Tensiones con Nacion",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@QuintelaRicardo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestion Fiscal y Desarrollo Productivo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@WeretilneckOK",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Innovacion y Educacion para el Futuro",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@OsvaldoJaldo",
+                "@alfredocornejo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Esta es la clase media que el kirchnerismo siempre atacó. Nosotros la defendemos. 700 propiedades recuperadas y devueltas a sus dueños. Ley y orden.",
+        "por_que_es_clave": "El gobernador de la Ciudad de Buenos Aires utiliza la gestión de desalojos y recuperación de propiedades como una plataforma política, oponiéndose ideológicamente al kirchnerismo y reforzando su postura de 'ley y orden' con un logro concreto.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Seguridad",
+                "Política Partidaria",
+                "Federalismo y Tensiones con Nación"
+            ],
+            "postura_politica": "Centrado en la gestión de seguridad local con el arresto de narcomenudistas, al mismo tiempo que consolida la unidad del PJ bonaerense con un fuerte mensaje opositor al Gobierno Nacional, acusándolo implícitamente de querer 'rematar el país'.",
+            "frase_fuerte": "Convocamos a todos los sectores a defender nuestro país frente aquellos que quieren rematarlo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Orden Público",
+                "Política Ideológica",
+                "Federalismo y Tensiones con Nación"
+            ],
+            "postura_politica": "Fuerte énfasis en la recuperación de propiedades usurpadas bajo el lema de 'ley y orden', enarbolando una bandera de defensa de la clase media y contra el kirchnerismo, al que acusa de avalar la delincuencia.",
+            "frase_fuerte": "Esta es la clase media que el kirchnerismo siempre atacó. Nosotros la defendemos. 700 propiedades recuperadas y devueltas a sus dueños. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura y Servicios Esenciales",
+                "Gestión de Emergencias"
+            ],
+            "postura_politica": "Se enfoca en la respuesta a emergencias climáticas y la asistencia a las familias afectadas por inundaciones, mostrando una gestión activa en el territorio frente a situaciones críticas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura y Servicios Esenciales",
+                "Educación e Innovación para el Futuro"
+            ],
+            "postura_politica": "Resalta la inversión en obras hídricas para garantizar servicios básicos en el interior provincial, y la promoción de la educación a través de la recuperación de espacios, con un enfoque en el crecimiento y el desarrollo local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Infraestructura y Servicios Esenciales",
+                "Cultura"
+            ],
+            "postura_politica": "Presenta la inauguración de un complejo cultural en La Quiaca como parte del desarrollo local y la puesta en valor de la identidad comunitaria.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Federalismo y Tensiones con Nación",
+                "Integración Regional"
+            ],
+            "postura_politica": "Subraya la importancia del trabajo conjunto de las provincias del Norte Grande para lograr un país más federal y con oportunidades, en un claro mensaje a favor de la descentralización y el diálogo interprovincial.",
+            "frase_fuerte": "Hace tiempo que las provincias del Norte Grande vienen luchando por un país más federal, con desarrollo y oportunidades reales para su gente."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Infraestructura y Servicios Esenciales",
+                "Salud Pública",
+                "Eficiencia de Gestion"
+            ],
+            "postura_politica": "Destaca la eficiencia en la adquisición de medicamentos, logrando ahorros significativos, y la innovación en campañas de vacunación con el sistema 'AutoVac', buscando mejorar el acceso y la calidad de la salud pública.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura y Servicios Esenciales",
+                "Gestión Fiscal y Desarrollo Productivo"
+            ],
+            "postura_politica": "Promueve un modelo de gestión basado en el orden fiscal y la cancelación de deuda para priorizar la inversión en infraestructura vial clave para la conectividad y el desarrollo provincial.",
+            "frase_fuerte": "Estamos construyendo un camino que lo tenemos que defender, porque los modelos son superiores a las personas."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura y Servicios Esenciales",
+                "Salud Pública",
+                "Gestión Fiscal y Desarrollo Productivo"
+            ],
+            "postura_politica": "Presenta múltiples avances en salud (nuevos hospitales, operativos integrales) e infraestructura básica (cloacas, energía), junto con el apoyo a pymes, enfatizando un Estado presente que no abandona a los rionegrinos.",
+            "frase_fuerte": "Si algo caracteriza a la salud pública rionegrina es esto, nunca dejamos a nadie atrás."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Infraestructura y Servicios Esenciales",
+                "Vivienda"
+            ],
+            "postura_politica": "Centra su comunicación en la entrega de escrituras de viviendas, destacando la seguridad jurídica y el impacto directo en las familias sanluiseñas para acceder a su casa propia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Infraestructura y Servicios Esenciales",
+                "Saneamiento"
+            ],
+            "postura_politica": "Resalta la significativa inversión en obras cloacales para resolver problemas históricos de saneamiento en Pico Truncado, enfatizando la mejora de la calidad de vida y el fin del abandono con grandes inversiones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad y Orden Público",
+                "Lucha contra el Maltrato Infantil",
+                "Desarrollo Productivo",
+                "Federalismo y Tensiones con Nación"
+            ],
+            "postura_politica": "Aborda un tema social sensible como la lucha contra el maltrato infantil, destacando la obligación de cumplir la ley. Paralelamente, defiende a los productores con políticas fiscales de reducción de impuestos y critica al Gobierno Nacional por el manejo de retenciones y el abandono de infraestructura vial.",
+            "frase_fuerte": "Cada 25 de Abril se conmemora el Día Internacional de la Lucha Contra el Maltrato Infantil. ...En Santa Fe, cumplir la ley no es una 'opción'. Es una obligación."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Gestión Fiscal y Desarrollo Productivo",
+                "Diálogo Multisectorial"
+            ],
+            "postura_politica": "Destaca el trabajo del Consejo Económico y Social para impulsar la producción y el desarrollo provincial a través del diálogo con distintos sectores, reforzando la idea de una gestión colaborativa para el crecimiento.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Infraestructura y Servicios Esenciales",
+                "Educación e Innovación para el Futuro"
+            ],
+            "postura_politica": "Impulsa la inversión en educación y tecnología (idiomas, robótica, IA) a través de la inauguración de nuevos espacios, buscando fortalecer el conocimiento y generar oportunidades en el interior provincial y posicionar a Tucumán en la economía del conocimiento.",
+            "frase_fuerte": null
+        }
+    ]
+}
