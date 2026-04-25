@@ -61,9 +61,6 @@ function aplicarAvatarConFallback(img, gobernador) {
     img.src = fuentes[0];
 }
 
-// =========================================
-// FUNCIÓN PARA OBTENER FECHA ARGENTINA
-// =========================================
 function obtenerFechaFormateada(diasRestados = 0) {
     const fecha = new Date();
     fecha.setDate(fecha.getDate() - diasRestados);
@@ -74,11 +71,9 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.log("Web iniciada. Cargando base de gobernadores...");
     const inputFecha = document.getElementById("fecha-select");
     
-    // Obtenemos la hora actual de Argentina
     const ahoraArg = new Date(new Date().toLocaleString("en-US", {timeZone: "America/Argentina/Buenos_Aires"}));
     const horaArg = ahoraArg.getHours();
     
-    // LÓGICA DE TURNOS EXACTA:
     if (horaArg >= 20) {
         turnoActual = "noche";
         document.getElementById("btn-turno").innerHTML = "🌙 Turno Noche";
@@ -93,13 +88,9 @@ document.addEventListener("DOMContentLoaded", async () => {
         gobernadoresBase = await res.json();
         console.log("Base de gobernadores cargada con éxito.");
         
-        // FORZAMOS SIEMPRE EL DÍA DE HOY
         let fechaHoy = obtenerFechaFormateada(0); 
-        
-        // Cargamos el tablero
         await cargarTablero(fechaHoy);
         
-        // Clavamos el selector de fecha
         if(inputFecha) inputFecha.value = fechaHoy;
 
     } catch (error) {
@@ -133,20 +124,15 @@ async function cargarTablero(fecha) {
     if(grilla) grilla.innerHTML = "";
     if(temasLista) temasLista.innerHTML = "<li>Cargando...</li>";
 
-try {
-        // Acá le agregamos "_subtrama_" para que enganche los archivos de Grok
+    try {
+        // CAMBIO 1: Agregamos _subtrama_ a la ruta
         const resAnalisis = await fetch(`./data/${fecha}_analisis_subtrama_${turnoActual}.json`);
-        
-        // El crudo queda igual porque la base de tweets es la misma para ambos modelos
         const resCrudo = await fetch(`./data/${fecha}_crudo_${turnoActual}.json`);
 
         if (!resAnalisis.ok || !resCrudo.ok) {
             console.warn(`Archivos no encontrados para la fecha ${fecha}`);
-            
-            // TRADUCCIÓN VISUAL
             const turnoVisual = turnoActual === "manana" ? "mañana" : "noche";
             
-            // CARTEL ELEGANTE
             if(cajaEjecutivo) {
                 cajaEjecutivo.innerHTML = `
                     <div style="text-align: center; padding: 25px; color: #cbd5e1; background-color: rgba(30, 41, 59, 0.5); border-radius: 8px; border: 1px dashed #334155;">
@@ -156,7 +142,6 @@ try {
                     </div>
                 `;
             }
-            
             if(cajaProfundo) cajaProfundo.innerHTML = "<p style='text-align:center; color:#94a3b8; margin-top:20px;'><i>A la espera del procesamiento...</i></p>";
             if(temasLista) temasLista.innerHTML = "<li>Sin datos registrados</li>";
             
@@ -166,40 +151,33 @@ try {
             if(tweetAutor) tweetAutor.textContent = "";
             
             actualizarSemaforo(null); 
-            
             return false; 
         }
 
         const analisis = await resAnalisis.json();
         const crudo = await resCrudo.json();
 
-        // 0. ACTUALIZAR SEMÁFORO 
         actualizarSemaforo(analisis.clima_general);
 
-        // 1. DOBLE VELOCIDAD DE LECTURA
         if(cajaEjecutivo) cajaEjecutivo.textContent = analisis.resumen_ejecutivo || "Resumen ejecutivo no disponible.";
         
         if (analisis.analisis_profundo) {
             const textoSeguro = escaparHtml(analisis.analisis_profundo);
-            //los saltos de línea en párrafos HTML reales (<p>)
             const textoConParrafos = textoSeguro
                 .split(/(?:\r?\n|\\n)+/) 
                 .filter(parrafo => parrafo.trim() !== '') 
                 .map(parrafo => `<p>${parrafo}</p>`) 
                 .join('');
-                
             if(cajaProfundo) cajaProfundo.innerHTML = textoConParrafos;
         } else {
             if(cajaProfundo) cajaProfundo.innerHTML = "Análisis profundo no disponible.";
         }
 
-        // 2. TENDENCIAS
         if(temasLista) {
             temasLista.innerHTML = "";
             if (analisis.temas_calientes) {
                 analisis.temas_calientes.slice(0, 5).forEach(temaItem => {
                     let li = document.createElement("li");
-                    
                     if (typeof temaItem === 'string') {
                         li.textContent = temaItem; 
                     } else {
@@ -207,11 +185,9 @@ try {
                         li.style.cursor = "pointer";
                         li.style.transition = "all 0.2s ease";
                         li.title = "Clic para ver quiénes hablaron de esto";
-                        
                         li.onmouseover = () => li.style.borderColor = "#3b82f6";
                         li.onmouseout = () => li.style.borderColor = "transparent";
                         li.style.border = "1px solid transparent";
-
                         li.onclick = () => aplicarFiltroTerono(temaItem.gobernadores_involucrados);
                     }
                     temasLista.appendChild(li);
@@ -219,7 +195,6 @@ try {
             }
         }
 
-        // 3. EL POST DEL DÍA
         if (analisis.tweet_destacado) {
             const tText = document.getElementById("tweet-destacado-texto");
             const tAutor = document.getElementById("tweet-destacado-autor");
@@ -227,18 +202,22 @@ try {
             if(tAutor) tAutor.textContent = `- ${analisis.tweet_destacado.usuario}`;
         }
 
-        // 4. GRILLA DE GOBERNADORES
         if(grilla && gobernadoresBase) {
             gobernadoresBase.forEach(gob => {
-                const analisisGob = analisis.analisis_por_gobernador.find(
-                    a => a.gobernador.toLowerCase().includes(gob.usuario_x.toLowerCase())
-                );
-                const crudoGob = crudo[gob.usuario_x] || [];
+                // CAMBIO 2: Buscador inteligente para arreglar el bug de Jorge Macri
+                const analisisGob = analisis.analisis_por_gobernador.find(a => {
+                    const strGob = String(a.gobernador).toLowerCase();
+                    const handle = obtenerUsuarioSinArroba(gob.usuario_x).toLowerCase();
+                    const prov = String(gob.provincia).toLowerCase();
+                    return strGob.includes(handle) || strGob.includes(prov);
+                });
+                
+                // Aseguramos leer bien los tuits crudos
+                const crudoGob = crudo[gob.usuario_x] || crudo[obtenerUsuarioSinArroba(gob.usuario_x)] || [];
 
                 let tarjeta = document.createElement("div");
                 tarjeta.className = "tarjeta-gob";
-                
-                tarjeta.dataset.usuario = gob.usuario_x.toLowerCase().replace('@', ''); 
+                tarjeta.dataset.usuario = obtenerUsuarioSinArroba(gob.usuario_x).toLowerCase(); 
 
                 tarjeta.innerHTML = `
                     <img alt="${gob.nombre}">
@@ -263,9 +242,6 @@ try {
     }
 }
 
-// =========================================
-// FUNCIÓN PARA ABRIR LA VENTANA FLOTANTE 
-// =========================================
 function abrirModal(gobernador, analisisGob, crudoGob) {
     const modal = document.getElementById("modal-detalle");
     const modalBio = document.getElementById("modal-bio");
@@ -306,120 +282,87 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
     }
     
     modal.classList.remove("oculta");
+
+    // CAMBIO 4: Activar los globitos de X al abrir el modal
+    setTimeout(() => {
+        if (window.twttr && window.twttr.widgets) {
+            window.twttr.widgets.load();
+        }
+    }, 100);
 }
 
-/* =========================================
-   FUNCIONES DE ACCIÓN RÁPIDA (COMPARTIR)
-========================================= */
 function copiarTexto(idElemento, botonPresionado) {
     let texto = document.getElementById(idElemento).innerText;
-    
     if (idElemento === 'tweet-destacado-texto') {
         const autor = document.getElementById('tweet-destacado-autor').innerText;
         texto = `"${texto}"\n${autor}`;
     } else {
         texto = `"${texto}"`;
     }
-
     texto += `\n\n📌 Vía El Radar Federal\n👉 radarfederal.ar`;
-
     const iconoOriginal = botonPresionado.innerHTML;
-    
     navigator.clipboard.writeText(texto).then(() => {
         botonPresionado.innerHTML = "✅";
         botonPresionado.style.color = "#4ade80"; 
         botonPresionado.style.borderColor = "#4ade80";
-        
         setTimeout(() => {
             botonPresionado.innerHTML = iconoOriginal;
             botonPresionado.style.color = ""; 
             botonPresionado.style.borderColor = "";
         }, 1500); 
-    }).catch(err => {
-        console.error('Error al copiar: ', err);
-    });
+    }).catch(err => console.error('Error al copiar: ', err));
 }
 
 function compartirWhatsApp(idElemento) {
     const texto = document.getElementById(idElemento).innerText;
     let mensaje = `📌 *Vía El Radar Federal:*\n\n"${texto}"`;
-
     if (idElemento === 'tweet-destacado-texto') {
          const autor = document.getElementById('tweet-destacado-autor').innerText;
          mensaje += `\n${autor}`;
     }
-    
     mensaje += `\n\n👉 radarfederal.ar`;
-    
-    const url = `https://wa.me/?text=${encodeURIComponent(mensaje)}`;
-    window.open(url, '_blank');
+    window.open(`https://wa.me/?text=${encodeURIComponent(mensaje)}`, '_blank');
 }
 
 function compartirX(idElemento) {
     const texto = document.getElementById(idElemento).innerText;
     let tweetTexto = `"${texto}"`;
-    
     if (idElemento === 'tweet-destacado-texto') {
          const autor = document.getElementById('tweet-destacado-autor').innerText;
          tweetTexto += `\n${autor}`;
     }
-    
-tweetTexto += `\n\n📊 Vía El Radar Federal\n👉 radarfederal.ar`;
-    
-    const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`;
-    window.open(url, '_blank');
+    tweetTexto += `\n\n📊 Vía El Radar Federal\n👉 radarfederal.ar`;
+    window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetTexto)}`, '_blank');
 }
 
-//* --- MOTOR DE SEMÁFOROS CORREGIDO --- */
+// CAMBIO 3: Motor del Semáforo actualizado con palabras de Grok
 function actualizarSemaforo(estadoClima) {
-  const semaforo = document.getElementById("semaforo-clima");
-  if (!semaforo) return;
+    const semaforo = document.getElementById('semaforo-clima');
+    if(!semaforo) return; 
+    semaforo.classList.remove('gris', 'rojo', 'amarillo', 'verde');
 
-  semaforo.classList.remove("gris", "rojo", "amarillo", "verde");
-  const estado = estadoClima ? String(estadoClima).toUpperCase() : "DESCONOCIDO";
+    const estado = estadoClima ? estadoClima.toUpperCase() : "DESCONOCIDO";
 
-  if (
-    estado.includes("TENSO") ||
-    estado.includes("TENSION") ||
-    estado.includes("GUERRA") ||
-    estado.includes("NEGATIVO") ||
-    estado.includes("CONFLICTO")
-  ) {
-    semaforo.classList.add("rojo");
-    semaforo.title = "Clima Político: " + estado;
-  } else if (
-    estado.includes("NEUTRAL") ||
-    estado.includes("NEGOCIACION") ||
-    estado.includes("SILENCIO") ||
-    estado.includes("MODERADO") ||
-    estado.includes("AMBIVALENTE")
-  ) {
-    semaforo.classList.add("amarillo");
-    semaforo.title = "Clima Político: " + estado;
-  } else if (
-    estado.includes("POSITIVO") ||
-    estado.includes("ALIANZA") ||
-    estado.includes("COOPERATIVO") ||
-    estado.includes("ACUERDO")
-  ) {
-    semaforo.classList.add("verde");
-    semaforo.title = "Clima Político: " + estado;
-  } else {
-    semaforo.classList.add("gris");
-    semaforo.title = "Clima Político: Sin datos";
-  }
+    if (estado.includes("TENSO") || estado.includes("TENSION") || estado.includes("GUERRA") || estado.includes("NEGATIVO") || estado.includes("CONFLICTO")) {
+        semaforo.classList.add('rojo');
+        semaforo.title = "Clima Político: " + estado;
+    } else if (estado.includes("NEUTRAL") || estado.includes("NEGOCIACION") || estado.includes("SILENCIO") || estado.includes("MODERADO") || estado.includes("AMBIVALENTE")) {
+        semaforo.classList.add('amarillo');
+        semaforo.title = "Clima Político: " + estado;
+    } else if (estado.includes("POSITIVO") || estado.includes("ALIANZA") || estado.includes("COOPERATIVO") || estado.includes("ACUERDO")) {
+        semaforo.classList.add('verde');
+        semaforo.title = "Clima Político: " + estado;
+    } else {
+        semaforo.classList.add('gris'); 
+        semaforo.title = "Clima Político: Sin datos";
+    }
 }
 
-/* =========================================
-   FILTRO DE GOBERNADORES EN TIEMPO REAL
-========================================= */
 function filtrarGobernadores() {
     const textoBusqueda = document.getElementById('buscador-gobernadores').value.toLowerCase();
     const tarjetas = document.querySelectorAll('.tarjeta-gob');
-
     tarjetas.forEach(tarjeta => {
         const contenidoTarjeta = tarjeta.innerText.toLowerCase();
-
         if (contenidoTarjeta.includes(textoBusqueda)) {
             tarjeta.style.display = ''; 
         } else {
@@ -428,14 +371,10 @@ function filtrarGobernadores() {
     });
 }
 
-/* =========================================
-   EFECTO TERONO: FILTROS INTERACTIVOS
-========================================= */
 function aplicarFiltroTerono(gobernadoresInvolucrados) {
     const tarjetas = document.querySelectorAll('.tarjeta-gob');
     const involucradosLimpios = gobernadoresInvolucrados.map(g => g.toLowerCase().replace('@', ''));
     let hayResultados = false;
-
     tarjetas.forEach(tarjeta => {
         const usuarioTarjeta = tarjeta.dataset.usuario;
         if (involucradosLimpios.includes(usuarioTarjeta)) {
@@ -447,54 +386,41 @@ function aplicarFiltroTerono(gobernadoresInvolucrados) {
             tarjeta.style.borderColor = '#334155'; 
         }
     });
-
     if (hayResultados) {
         document.getElementById("seccion-mapa").scrollIntoView({ behavior: 'smooth' });
-        
         let btnVolver = document.getElementById('btn-rescate-terono');
-        
         if (!btnVolver) {
             btnVolver = document.createElement('button');
             btnVolver.id = 'btn-rescate-terono';
             btnVolver.innerHTML = '⬆️ Limpiar y volver';
             btnVolver.className = 'btn-rescate'; 
-            
             btnVolver.onclick = () => {
                 limpiarFiltrosTerono();
                 document.querySelector('.dashboard-macro').scrollIntoView({ behavior: 'smooth' });
             };
-            
             const contenedorControles = document.querySelector('.controles-grilla');
             contenedorControles.appendChild(btnVolver);
         }
-        
         btnVolver.style.display = 'inline-block';
     }
 }
 
 function limpiarFiltrosTerono() {
     const tarjetas = document.querySelectorAll('.tarjeta-gob');
-    
     tarjetas.forEach(tarjeta => {
         tarjeta.style.display = ''; 
         tarjeta.style.borderColor = '#334155'; 
     });
-    
     document.getElementById('buscador-gobernadores').value = ''; 
-    
     const btnVolver = document.getElementById('btn-rescate-terono');
     if (btnVolver) {
         btnVolver.style.display = 'none';
     }
 }
 
-/* =========================================
-   SINCRONIZADOR DE ALTURAS 
-========================================= */
 function sincronizarAlturas() {
     const sidebar = document.querySelector('.sidebar');
     const resumenCard = document.querySelector('.resumen-card');
-    
     if (sidebar && resumenCard) {
         resumenCard.style.height = 'auto';
         if (window.innerWidth > 768) {
@@ -504,16 +430,11 @@ function sincronizarAlturas() {
     }
 }
 
-/* =========================================
-   SELECTOR DE TURNO (MAÑANA / NOCHE)
-========================================= */
 function cambiarTurno() {
     const btn = document.getElementById("btn-turno");
     const fechaSeleccionada = document.getElementById("fecha-select").value;
-    
     btn.classList.add("activo");
     setTimeout(() => btn.classList.remove("activo"), 300);
-    
     if (turnoActual === "manana") {
         turnoActual = "noche";
         btn.innerHTML = "🌙 Turno Noche";
@@ -521,6 +442,5 @@ function cambiarTurno() {
         turnoActual = "manana";
         btn.innerHTML = "☀️ Turno Mañana";
     }
-    
     cargarTablero(fechaSeleccionada);
 }
