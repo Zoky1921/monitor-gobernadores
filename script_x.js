@@ -216,20 +216,16 @@ async function cargarTablero(fecha) {
                 tarjeta.dataset.usuario = obtenerUsuarioSinArroba(gob.usuariox).toLowerCase(); 
 
                 // LECTURA CORRECTA DE GROK (postura_politica)
-                const resumen = analisisGob?.postura_politica || analisisGob?.resumen || "Sin actividad registrada.";
 
                 tarjeta.innerHTML = `
-                    <div class="tarjeta-gob-header">
-                        <img alt="${gob.nombre}">
-                        <div>
-                            <h4>${gob.nombre}</h4>
-                            <p>${gob.provincia}</p>
-                        </div>
-                    </div>
-                    <div class="tarjeta-gob-body" style="margin-top: 10px; font-size: 0.85rem; color: #cbd5e1;">
-                        <p>${escaparHtml(resumen)}</p>
-                    </div>
-                `;
+                   <div class="tarjeta-gob-header">
+                       <img alt="${gob.nombre}">
+                       <div>
+                           <h4>${gob.nombre}</h4>
+                           <p>${gob.provincia}</p>
+                       </div>
+                   </div>
+                ;
                 const imagenGobernador = tarjeta.querySelector("img");
                 aplicarAvatarConFallback(imagenGobernador, gob);
 
@@ -259,7 +255,7 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
         modalBio.innerHTML = `
             <img alt="${escaparHtml(gobernador.nombre)}">
             <div>
-                <h2>${escaparHtml(gobernador.nombre)} (@${escaparHtml(gobernador.usuario_x)})</h2>
+                <h2>${escaparHtml(gobernador.nombre)} (@${escaparHtml(gobernador.usuariox)})</h2>
                 <p><strong>${escaparHtml(gobernador.provincia)}</strong> | ${escaparHtml(gobernador.partido || 'Gobernador')}</p>
                 <p style="font-size: 0.85rem; color: #cbd5e1; margin-top: 10px;">${escaparHtml(gobernador.bio || '')}</p>
             </div>
