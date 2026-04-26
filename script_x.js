@@ -257,7 +257,7 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
             <div>
                 <h2>${escaparHtml(gobernador.nombre)} (@${escaparHtml(gobernador.usuariox)})</h2>
                 <p><strong>${escaparHtml(gobernador.provincia)}</strong> | ${escaparHtml(gobernador.partido || 'Gobernador')}</p>
-                <p style="font-size: 0.85rem; color: #cbd5e1; margin-top: 10px;">${escaparHtml(gobernador.bio || '')}</p>
+                <p style='font-size: 0.85rem; color: #cbd5e1; margin-top: 10px;'>${escaparHtml(gobernador.bio || '')}</p>
             </div>
         `;
         const imagenModal = modalBio.querySelector("img");
