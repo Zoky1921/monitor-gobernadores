@@ -206,14 +206,14 @@ async function cargarTablero(fecha) {
             gobernadoresBase.forEach(gob => {
                 // Buscador inteligente
                 const analisisGob = analisis.analisis_por_gobernador.find(a =>
-                    a.gobernador.toLowerCase().includes(obtenerUsuarioSinArroba(gob.usuariox).toLowerCase())
+                    a.gobernador.toLowerCase().includes(obtenerUsuarioSinArroba(gob.usuario_x).toLowerCase())
                     );
                 
-                const crudoGob = crudo[gob.usuariox] || crudo[obtenerUsuarioSinArroba(gob.usuariox)] || [];
+                const crudoGob = crudo[gob.usuario_x] || crudo[obtenerUsuarioSinArroba(gob.usuario_x)] || [];
 
                 let tarjeta = document.createElement("div");
                 tarjeta.className = "tarjeta-gob";
-                tarjeta.dataset.usuario = obtenerUsuarioSinArroba(gob.usuariox).toLowerCase(); 
+                tarjeta.dataset.usuario = obtenerUsuarioSinArroba(gob.usuario_x).toLowerCase(); 
 
                 // LECTURA CORRECTA DE GROK (postura_politica)
 
