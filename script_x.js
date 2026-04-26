@@ -253,7 +253,7 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
     // 1. DIBUJAMOS LA BIO
     if (modalBio) {
         modalBio.innerHTML = `
-            <img alt="${escaparHtml(gobernador.nombre)}">
+            <img alt="${escaparHtml(gobernador.nombre)}'>
             <div>
                 <h2>${escaparHtml(gobernador.nombre)} (@${escaparHtml(gobernador.usuariox)})</h2>
                 <p><strong>${escaparHtml(gobernador.provincia)}</strong> | ${escaparHtml(gobernador.partido || 'Gobernador')}</p>
