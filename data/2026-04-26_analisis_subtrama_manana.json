@@ -1,0 +1,100 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Los gobernadores optan por un apagón político coordinado: gestión provincial aislada, ignorando la agenda nacional salvo dardos aislados de Kicillof contra Milei y Macri en guerra cultural anti-K. Ausencia de reclamos fiscales directos señala pacto inconfesable de contención para presionar caja sin confrontar abiertamente a Rosada.",
+    "analisis_profundo": "En el subsuelo de la patria, donde el protocolo es mera cáscara para el verdadero juego de espejos, hoy reina un silencio ensordecedor que delata la arquitectura de un federalismo en compás de espera. Kicillof (Buenos Aires), con su re-tuit al circo narco en San Martín y la reunión del PJ bonaerense, no solo marca territorio ideológico peronista sino que convoca a 'defender el país de los rematadores', un dardo envenenado directo a Caputo y Milei, recordándonos que la hegemonía bonaerense se nutre de la opacidad fiscal y el relato anti-ajuste. ¿Acaso ignora que su caja de jubilados litigada en Corte depende de la firma nacional que niega? Macri (CABA), obsesionado con los 700 okupas recuperados, desata una cacería simbólica contra 'kirchneristas defensores de delincuentes', un posicionamiento que alinea al PRO con la mano dura mileísta, pero ¿no es esto diplomacia de la caja, blindando su autonomía porteña mientras la Nación sangra rutas?\n\nEl resto cartela: Zdero (Chaco) en contingencia inundatoria, Llaryora (Córdoba) en obras hídricas periféricas, Figueroa (Neuquén) pavimentando rutas y cancelando deudas heredadas, Weretilneck (Río Negro) en hospitales y cloacas. Peso medio en gestión municipal, pero el test de la ausencia grita: ni coparticipación, ni litio RIGI, ni glaciares en disputa. Este aislamiento provincial erosiona la Rosada, que ve su relato de ajuste nacional deslegitimado por 24 feudos enfocados en lo local, un 'apagón político' que fuerza a Caputo a negociar caja a cambio de silencio. Interrogante venenoso: ¿es contención estratégica o debilidad ante el unipolarismo mileísta? La historia, como en los 90, sugiere que el federalismo real se juega en la diplomacia de la caja, no en efemérides.",
+    "temas_calientes": [
+        {
+            "tema": "Guerra cultural seguridad vs K (okupas/narco)",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Gestión provincial aislada (obras/infra)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Contingencia climática local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Ataques directos a Milei (educación/prensa)",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Deuda/obras canceladas (provincialismo)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (CABA)",
+        "texto": "Esta es la clase media que el kirchnerismo siempre atacó. Nosotros la defendemos. 700 propiedades recuperadas y devueltas a sus dueños. Ley y orden.",
+        "por_que_es_clave": "Posicionamiento simbólico anti-K que alinea CABA con dureza mileísta, dañando relato opositor bonaerense mientras ignora agenda fiscal nacional.",
+        "pregunta_openarg": "¿Milei financiará más desalojos en provincias o solo aplaude desde Balcarce 50?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "narco",
+                "PJ bonaerense",
+                "anti-Milei"
+            ],
+            "postura_politica": "Lidera oposición explícita: RT narco como gestión, pero convoca PJ contra 'rematadores'. Apriete ideológico para captar peronismo federal, ocultando litigio caja jubilatoria.",
+            "frase_fuerte": "Convocamos a todos los sectores a defender nuestro país frente aquellos que quieren rematarlo."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "okupas",
+                "clase media"
+            ],
+            "postura_politica": "Guerra cultural: 700 propiedades vs kirchneristas 'defensores delincuentes'. Marca autonomía PRO alineada Nación, dañando Kicillof sin tocar caja.",
+            "frase_fuerte": "Esta es la clase media que el kirchnerismo siempre atacó. Nosotros la defendemos."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "inundaciones"
+            ],
+            "postura_politica": "Agenda local contingencia, evadiendo Nación. Aislamiento que presiona caja indirecta vía 'gestión territorial'.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obras hídricas"
+            ],
+            "postura_politica": "Gestión municipal/provincial pura (agua parajes). Silencio federal denuncia repliegue para deslegitimar ajuste Rosada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "rutas",
+                "deuda cancelada"
+            ],
+            "postura_politica": "Énfasis orden fiscal local (43% deuda paga, rutas). Posiciona como gestor eficiente, ignorando Nación para negociar caja hidrocarburos.",
+            "frase_fuerte": "CANCELAMOS EL 43% DEL STOCK DE DEUDA HEREDADO"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "obras cloacas/hospital"
+            ],
+            "postura_politica": "Gestión aislada (cloacas Roca, hospital Chimpay). Apagón que debilita Rosada al priorizar territorio sobre federalismo.",
+            "frase_fuerte": null
+        }
+    ]
+}
