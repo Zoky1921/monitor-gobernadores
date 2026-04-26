@@ -1,0 +1,66 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "Los gobernadores Alberto Weretilneck (Río Negro) y Rolando Figueroa (Neuquén) concentraron la agenda federal en anuncios de gestión provincial y obras públicas. Figueroa (Neuquén) destacó avances en la Ruta 7, enfatizando una administración eficiente y autónoma. Weretilneck (Río Negro) inauguró un polideportivo en Las Grutas y un nuevo hospital en Chimpay, además de promocionar programas educativos y líneas de asistencia para estudiantes. Ambos mandatarios proyectaron una imagen de concreción y fortalecimiento de servicios locales, con un claro enfoque en la microgestión y baja confrontación política externa, evidenciando una agenda provincialista.",
+    "analisis_profundo": "La jornada federal de hoy, 26 de abril de 2026, se caracterizó por una marcada agenda de gestión provincial, con los gobernadores Alberto Weretilneck (Río Negro) y Rolando Figueroa (Neuquén) monopolizando la actividad pública relevante. No se registraron posicionamientos directos o indirectos sobre la política nacional ni tensiones interprovinciales, lo que sugiere un período de enfoque interno o una estrategia de bajo perfil frente a la esfera federal.\n\nRolando Figueroa (Neuquén) priorizó la infraestructura vial, anunciando el 'avance de los primeros 20 km de la Ruta 7' y la adjudicación de 35 km adicionales, proyectando la finalización de toda la traza para antes de marzo de 2027. Su discurso se centró en la 'administración austera y responsable' de los recursos, con el objetivo de 'transformar la realidad' a través de obras. Este énfasis en la autosuficiencia y la eficiencia local es un patrón recurrente en contextos de ajuste nacional.\n\nAlberto Weretilneck (Río Negro) exhibió una agenda diversificada de gestión. Destacó la 'inauguración del polideportivo totalmente renovado para Las Grutas', la apertura de un 'nuevo hospital para Chimpay', y la continuidad del programa educativo 'Río Negro Bilingüe' para fortalecer el capital humano. Además, mencionó la disponibilidad de la línea 102 de apoyo a estudiantes, reforzando la idea de un Estado presente en el cuidado y la contención social. Sus comunicaciones reiteran el lema 'Río Negro está en marcha', buscando consolidar una imagen de dinamismo y concreción frente a los desafíos.\n\nLa convergencia de ambos gobernadores en anuncios de obra pública y servicios provinciales refleja una estrategia común de blindaje ante posibles recortes o inacción del gobierno central, poniendo en valor la capacidad de gestión autónoma de sus administraciones. Este enfoque de 'hacer' con recursos propios o ya gestionados, sin referencias a la Nación, se interpreta como un mensaje de fortaleza y autonomía provincial en un entorno de incertidumbre macroeconómica. La ausencia de voces de otros mandatarios refuerza la idea de una jornada focalizada en microgestión y baja conflictividad general.",
+    "temas_calientes": [
+        {
+            "tema": "Obra Pública e Infraestructura Vial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Infraestructura Deportiva y Comunitaria",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Salud Pública e Infraestructura Hospitalaria",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Educación y Desarrollo del Capital Humano",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Servicios de Contención Social",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK (RT de @rionegrogob)",
+        "texto": "LAS GRUTAS TIENE SU POLIDEPORTIVO TOTALMENTE RENOVADO 🏟️ 🤝 El gobernador @WeretilneckOK y el intendente Adrián Casadei encabezaron la inauguración del polideportivo renovado. 👧👦 Un espacio seguro, moderno y pensado para el deporte y el encuentro. 🏀 Más de 1.500 personas lo usan todos los días, fortaleciendo el deporte como lugar de crecimiento y conexión. 🌊 También abre la puerta a eventos y competencias que generan actividad durante todo el año. Río Negro está en marcha. Y tiene rumbo.",
+        "por_que_es_clave": "Este anuncio destaca una inversión significativa en infraestructura comunitaria y deportiva, reflejando una política de Estado presente en el desarrollo local y el fomento de la actividad social y económica en Las Grutas (Río Negro).",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Obra Pública e Infraestructura Vial",
+                "Gestión Financiera Provincial"
+            ],
+            "postura_politica": "El gobernador Figueroa (Neuquén) se enfoca en la eficiencia administrativa y la inversión en infraestructura vial con recursos propios. Busca mostrar una gestión ordenada y con resultados concretos en obras postergadas, lo que refuerza la autonomía provincial frente a la Nación.",
+            "frase_fuerte": "Ordenamos para redistribuir y defender Neuquén con obras que transforman la realidad de nuestra comunidad."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura Deportiva y Comunitaria",
+                "Salud Pública e Infraestructura Hospitalaria",
+                "Educación y Desarrollo del Capital Humano",
+                "Servicios de Contención Social"
+            ],
+            "postura_politica": "Weretilneck (Río Negro) proyecta una imagen de gobierno activo y cercano, inaugurando obras clave como un polideportivo y un hospital. Su agenda es de fortalecimiento de servicios públicos y programas sociales, subrayando la capacidad de gestión provincial para atender las necesidades de la ciudadanía.",
+            "frase_fuerte": "Río Negro está en marcha. Y tiene rumbo."
+        }
+    ]
+}
