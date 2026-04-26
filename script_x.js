@@ -269,8 +269,8 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
     let textoCita = "Sin citas textuales hoy.";
 
     if (analisisGob) {
-        textoAnalisis = analisisGob.postura_politica || analisisGob.resumen || textoAnalisis;
-textoCita     = analisisGob.frase_fuerte     || analisisGob.citaTextual || textoCita;
+        textoAnalisis = analisisGob.postura_politica || "Sin actividad política..." || textoAnalisis;
+textoCita     = analisisGob.frase_fuerte     || "Sin frase destacada hoy." || textoCita;
     }
 
     const nodoAnalisis = document.getElementById("modal-analisis");
