@@ -1,0 +1,74 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Gobernadores del NOA y Patagonia optan por el mutismo federal: minería como eje subterráneo en Catamarca y Jujuy, sin alusiones a la caja nacional ni a Milei. Río Negro y Tucumán se refugian en gestión local, consolidando un apagón político que debilita el relato de ajuste de la Casa Rosada.",
+    "analisis_profundo": "En el subsuelo de la patria, donde los tweets protocolares ocultan las verdaderas cartelizaciones, el 27 de abril revela un repliegue calculado de los gobernadores ante la hegemonía mileísta. Raúl Jalil (Catamarca) y Carlos Sadir (Jujuy) elevan la minería a ritual participativo –audiencias en Diablillos, modelo hidrogeológico en Olaroz-Cauchari–, un juego de espejos que simula soberanía local mientras firman bajo cuerda con el RIGI nacional, esa diplomacia de la caja que Caputo administra desde Buenos Aires. ¿Acaso ignoran que sin la firma de Nación, esas 'audiencias públicas' son puro opio para las comunidades puneñas, mientras el litio fluye a exportaciones que no reparten hegemonía provincial?\n\nElías Suárez (Santiago del Estero) conmemora la autonomía en efeméride vacía, un protocolo que marca territorio ideológico sin rozar la agenda fiscal. Osvaldo Jaldo (Tucumán) firma café con privados, un posicionamiento simbólico de diversificación agro que huele a autonomía frente al ajuste cerealero nacional, pero ¿quién financia los viveros si la coparticipación gotea? Alberto Weretilneck (Río Negro) presume sueldos al día y bots administrativos, un relato de eficiencia patagónica que contrasta con el desfinanciamiento federal, aislando su gestión para deslegitimar el 'déficit cero' de Milei como imposición centralista.\n\nEste apagón coordinado –o casual, ¿quién sabe?– afecta directamente a la Casa Rosada: al evadir la rosca nacional, los gobernadores erosionan el monopolio narrativo libertario, forzando a Caputo a negociar caja por caja en silencio. Es la opacidad federalizada, donde el daño político se mide en ausencias: sin menciones a coparticipación o deudas, la Nación pierde eco en las provincias pivotales. Interrogante venenoso: ¿es aislamiento virtuoso o pacto inconfesable para forzar transferencias extras?",
+    "temas_calientes": [
+        {
+            "tema": "Minería con participación ciudadana y cuidado hídrico",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Gestión fiscal y empleo privado",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo alternativo (café)",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@RaulJalil_ok (Catamarca)",
+        "texto": "La participación ciudadana es parte central de cómo pensamos el desarrollo minero en nuestra provincia. En el proyecto Diablillos, las audiencias públicas abrieron un espacio real para escuchar a vecinos, instituciones y autoridades. https://t.co/FR5HI7xLQ2",
+        "por_que_es_clave": "Peso alto en recursos estratégicos: simula licencia social para litio bajo RIGI nacional, un apriete sutil a Nación por caja mientras marca autonomía.",
+        "pregunta_openarg": "¿Diablillos avanza sin fondos nacionales o Jalil negocia caja extra con Caputo a cambio de silencio federal?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "Raúl Jalil (Catamarca)",
+            "temas_mencionados": [
+                "minería"
+            ],
+            "postura_politica": "Enfatiza 'participación ciudadana' en Diablillos para legitimar litio RIGI, evadiendo confrontación con Nación: subsuelo es pacto inconfesable por inversiones extranjeras sin coparticipación explícita.",
+            "frase_fuerte": "La participación ciudadana es parte central de cómo pensamos el desarrollo minero en nuestra provincia."
+        },
+        {
+            "gobernador": "Carlos Sadir (Jujuy)",
+            "temas_mencionados": [
+                "minería/agua"
+            ],
+            "postura_politica": "Modelo hidrogeológico Olaroz-Cauchari como escudo 'científico' para litio, agenda local que ignora Rosada: aislamiento para presionar caja sin ruido nacional.",
+            "frase_fuerte": "Participé de la presentación del Modelo Integrado para la Cuenca Olaroz-Cauchari, un estudio hidrogeológico fundamental que nos permite contar con información científica precisa para el cuidado del agua y el desarrollo responsable de la actividad minera en nuestra provincia."
+        },
+        {
+            "gobernador": "Elías Suárez (Santiago del Estero)",
+            "temas_mencionados": [
+                "efemérides"
+            ],
+            "postura_politica": "Aniversario autonomía como protocolo territorial, sin impacto federal: gestión aislada que deslegitima relato nacional.",
+            "frase_fuerte": "Hoy cumplimos 206 años de autonomía, 206 años de decidir nuestro destino como santiagueños."
+        },
+        {
+            "gobernador": "Osvaldo Jaldo (Tucumán)",
+            "temas_mencionados": [
+                "producción"
+            ],
+            "postura_politica": "Acuerdo café como diversificación simbólica, entrevista radio gestionista: evade Nación para marcar autonomía productiva.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "Alberto Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "fiscal/empleo"
+            ],
+            "postura_politica": "Sueldos y bots como eficiencia local, ignora ajuste nacional: apagón para erosionar hegemonía Milei.",
+            "frase_fuerte": "TODOS LOS ESTATALES COBRAN EL 1° DE MAYO Y CON AUMENTO"
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La agenda federal del día está dominada por la gestión local y anuncios de obras, con escasa confrontación directa con el Gobierno nacional. Axel Kicillof (Buenos Aires) mantiene una postura crítica ausente en la jornada, mientras que otros gobernadores como Raúl Jalil (Catamarca), Rogelio Frigerio (Entre Ríos) y Gustavo Sáenz (Salta) destacan reuniones productivas con el ministro Luis Caputo. La mayoría de los mandatarios enfocan su comunicación en inauguraciones, inversiones y políticas provinciales. Jorge Macri (Ciudad de Buenos Aires) celebra el éxito de un evento masivo de Fórmula 1, y Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) reportan avances en desendeudamiento y empleo, respectivamente. El tono general es de gestión administrativa y promoción de obras, con tensiones federales latentes pero no explícitas en los posts del día.",
+    "analisis_profundo": "El paisaje federal del 27 de abril muestra una agenda fragmentada y volcada hacia adentro, con los gobernadores priorizando la comunicación de gestión y obras por sobre el enfrentamiento político directo. La excepción más clara en días anteriores era Axel Kicillof (Buenos Aires), cuyo discurso opositor al Gobierno nacional no tuvo continuidad en la ventana temporal analizada. En su lugar, predominan los anuncios de infraestructura, salud y desarrollo productivo. Raúl Jalil (Catamarca) enfatiza la participación ciudadana en proyectos mineros, una estrategia clave para gestionar la licencia social. Rogelio Frigerio (Entre Ríos) y Gustavo Sáenz (Salta) reportan encuentros con el ministro Caputo, marcando una línea de diálogo y gestión con el Ejecutivo nacional en materia económica, lo que sugiere una búsqueda pragmática de soluciones antes que la confrontación. Claudio Poggi (San Luis) y Osvaldo Jaldo (Tucumán) muestran una gestión hiperlocal, con inauguraciones y visitas a municipios. Alberto Weretilneck (Río Negro) anuncia el pago de salarios con aumento y la creación de empleo privado, posicionándose como un gestor eficiente en un contexto nacional adverso. Rolando Figueroa (Neuquén) continúa su narrativa de 'ordenar para redistribuir', destacando cancelación de deuda y obras viales. La baja conflictividad explícita del día no implica armonía, sino una pausa táctica o un enfoque en resolver problemas internos ante la debilidad del financiamiento nacional. La tensión Nación-Provincias, aunque atenuada en las publicaciones de hoy, permanece como sustrato, visible en los reclamos por fondos y la insistencia en obras propias ante el retiro nacional. El 'Efecto Terono' se manifiesta en una doble velocidad: gestión local activa y reclamos estratégicos pausados.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión y Obra Pública Local",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@OsvaldoJaldo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@GustavoSaenzOK",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Diálogo y Gestión con el Ministerio de Economía Nacional",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@GustavoSaenzOK",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Salud Pública y Ampliación de Servicios",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Combate al Narcotráfico",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK",
+        "texto": "TODOS LOS ESTATALES COBRAN EL 1° DE MAYO Y CON AUMENTO\n\nEn Río Negro cumplimos.\n\nEl 1 de mayo vamos a pagar los sueldos de toda la administración pública en una sola jornada.\n\nAdemás, los salarios llegan con un aumento del 5,65%, correspondiente al IPC de febrero y marzo, para sostener el poder adquisitivo.\n\nEn un contexto nacional complejo, nosotros elegimos ordenar, administrar con responsabilidad y dar previsibilidad.\n\nEste es el camino: cumplir, sostener el salario y respetar a cada trabajador.",
+        "por_que_es_clave": "El tweet de Alberto Weretilneck (Río Negro) es una declaración de fortaleza administrativa y un contrapunto implícito a la gestión nacional en un tema sensible. Anunciar el pago puntual de salarios con aumento en un contexto de ajuste fiscal federal posiciona a la provincia como un oasis de previsibilidad y respeto al empleo público, un mensaje político potente dirigido a su base y al resto del país.",
+        "pregunta_openarg": "¿Podrá sostener Río Negro esta política de aumentos salariales y pago puntual a lo largo del año sin afectar su equilibrio fiscal, en un escenario de restricción de recursos nacionales?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Eventos Masivos",
+                "Gestión de Ciudad",
+                "Imagen Internacional"
+            ],
+            "postura_politica": "Jorge Macri (Ciudad de Buenos Aires) utiliza el éxito del Road Show de Fórmula 1 para proyectar una gestión eficiente, capaz de organizar eventos de nivel mundial. Se posiciona como un administrador moderno que mejora la imagen internacional de la ciudad y genera actividad económica, evitando temas de conflicto nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería",
+                "Participación Ciudadana",
+                "Desarrollo Provincial"
+            ],
+            "postura_politica": "Raúl Jalil (Catamarca) enfatiza un modelo de desarrollo minero 'con participación ciudadana', buscando legitimar la actividad ante la comunidad. Su discurso combina la promoción de inversiones con un relato de cuidado ambiental y social, tratando de equilibrar crecimiento económico y licencia social.",
+            "frase_fuerte": "La participación ciudadana es parte central de cómo pensamos el desarrollo minero en nuestra provincia."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Relación con Nación",
+                "Finanzas",
+                "Obras Públicas"
+            ],
+            "postura_politica": "Rogelio Frigerio (Entre Ríos) muestra una relación de trabajo pragmática con el Gobierno nacional, destacando una reunión con el ministro Caputo para definir 'prioridades'. Su tono es de gestión técnica, buscando resolver problemas concretos de infraestructura y financiamiento para la provincia dentro del marco nacional.",
+            "frase_fuerte": "Definimos cuatro prioridades para Entre Ríos: intervenir las rutas nacionales, avanzar en la compensación de la deuda de la Caja de Jubilaciones, habilitar anticipos financieros para la provincia y municipios, y un acuerdo fiscal para eliminar impuestos distorsivos en los tres niveles de gobierno."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Minería",
+                "Gestión Ambiental",
+                "Ciencia y Tecnología"
+            ],
+            "postura_politica": "Carlos Sadir (Jujuy) se presenta como un gestor serio y técnico del desarrollo minero, destacando un 'modelo integrado' para el cuidado del agua. Busca desactivar críticas ambientales mediante un relato de gestión responsable y basada en información científica, consolidando a Jujuy como polo minero estratégico.",
+            "frase_fuerte": "Participé de la presentación del Modelo Integrado para la Cuenca Olaroz-Cauchari, un estudio hidrogeológico fundamental que nos permite contar con información científica precisa para el cuidado del agua y el desarrollo responsable de la actividad minera en nuestra provincia."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Educación",
+                "Salud"
+            ],
+            "postura_politica": "Martín Llaryora (Córdoba) despliega una narrativa de gestión prolija y expansiva, centrada en obras de infraestructura hídrica, vial y educativa. Su discurso 'Hacer para Crecer' subraya la capacidad de ejecución provincial en contraste con un contexto nacional de parálisis, posicionando a Córdoba como un modelo de eficacia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Desarrollo Industrial",
+                "Federalismo",
+                "Gestión Legislativa"
+            ],
+            "postura_politica": "Gustavo Valdés (Corrientes) comunica avances en la agenda legislativa provincial (expropiación para ampliar un parque industrial) y su participación en el Parlamento del Norte Grande. Refuerza su rol de gestor pro-inversiones y su pertenencia a un bloque regional que busca potenciar el desarrollo del NEA.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud",
+                "Minería",
+                "Gestión Provincial"
+            ],
+            "postura_politica": "Alfredo Cornejo (Mendoza) exhibe logros de gestión en salud (adquisición de medicamentos, certificación de hospital) y promueve activamente a la provincia como destino de inversión minera internacional. Combina una administración eficiente con una fuerte promoción del sector extractivo como motor de desarrollo.",
+            "frase_fuerte": "Presentamos una nueva partida de medicamentos incorporados a través de compra directa y cooperación internacional, que nos permite garantizar tratamientos y, al mismo tiempo, cuidar los recursos públicos."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Relación con Nación",
+                "Salud"
+            ],
+            "postura_politica": "Hugo Passalacqua (Misiones) muestra una gestión activa en territorio, con inauguraciones y anuncios de obras. Sin embargo, su tweet clave del día es un reclamo formal al ministro Caputo por la reducción del IVA para la harina de mandioca, evidenciando una tensión productiva con la política fiscal nacional y defendiendo una industria local.",
+            "frase_fuerte": "Solicité formalmente al ministro de Economía de la Nación, Luis Caputo, la reducción de la alícuota del IVA al 10,5% para la harina de mandioca."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Desendeudamiento",
+                "Seguridad"
+            ],
+            "postura_politica": "Rolando Figueroa (Neuquén) continúa con su relato de 'cambio concreto', destacando el avance en rutas y, sobre todo, la cancelación del 43% de la deuda heredada. Este mensaje busca consolidar una imagen de gerencia financiera responsable y de ruptura con el pasado, priorizando la inversión en infraestructura básica.",
+            "frase_fuerte": "CANCELAMOS EL 43% DEL STOCK DE DEUDA HEREDADO"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Administración Pública",
+                "Empleo",
+                "Salud",
+                "Tecnología"
+            ],
+            "postura_politica": "Alberto Weretilneck (Río Negro) ejecuta una comunicación de resultados: anuncia pago de salarios con aumento, creación de empleo privado, inauguración de hospital y lanzamiento de un chatbot para trámites. Se proyecta como un gobierno eficaz que 'cumple' y genera 'previsibilidad' en medio de la incertidumbre nacional, marcando una clara diferencia de gestión.",
+            "frase_fuerte": "TODOS LOS ESTATALES COBRAN EL 1° DE MAYO Y CON AUMENTO"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Inversiones",
+                "Relación con Nación"
+            ],
+            "postura_politica": "Gustavo Sáenz (Salta) comunica avances en obras de infraestructura clave (autopista, puente) y destaca una reunión con una empresa minera internacional. Su tweet sobre la reunión con Caputo, aunque de fecha anterior, enmarca una relación de trabajo con el Ministerio de Economía para gestionar financiamiento y obras nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Minería",
+                "Relaciones Internacionales"
+            ],
+            "postura_politica": "Marcelo Orrego (San Juan) se posiciona como anfitrión de inversores y diplomáticos extranjeros, promoviendo a San Juan como destino minero global. Su discurso combina la defensa jurídica de la jurisdicción provincial sobre los recursos con una apertura al capital internacional, buscando liderar el desarrollo minero del país.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Gestión Municipal",
+                "Educación"
+            ],
+            "postura_politica": "Claudio Poggi (San Luis) realiza una intensa agenda territorial, mostrando una gestión hiperactiva y cercana, con múltiples inauguraciones de plazas, escrituras de viviendas y refacciones de hospitales en localidades del interior. Refuerza una imagen de gobernador presente y ejecutor, enfocado en lo local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Obra Pública",
+                "Relación con Nación"
+            ],
+            "postura_politica": "Osvaldo Jaldo (Tucumán) anuncia un acuerdo para impulsar la producción de café, diversificando la matriz productiva provincial. Simultáneamente, agradece al ministro Caputo por la adjudicación de una obra clave de agua potable, mostrando una doble vía: impulso a proyectos locales propios y gestión de fondos nacionales para infraestructura crítica.",
+            "frase_fuerte": "Impulsamos nuevas oportunidades para el desarrollo productivo de Tucumán. Hoy firmamos con el presidente de Cabrales S.A., Martín Cabrales, un acuerdo estratégico para fortalecer la producción de café en nuestro territorio."
+        }
+    ]
+}
