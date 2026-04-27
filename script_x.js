@@ -4,8 +4,8 @@ const AVATAR_PLACEHOLDER_LOCAL = "./assets/img/avatar-placeholder.svg";
 const UNAVATAR_TWITTER_BASE = "https://unavatar.io/twitter/";
 const UNAVATAR_X_BASE = "https://unavatar.io/x/";
 
-function obtenerUsuarioSinArroba(usuarioX = "") {
-    return usuarioX.replace(/^@/, "").trim();
+function obtenerUsuarioSinArroba(usuario_x = "") {
+    return usuario_x.replace(/^@/, "").trim();
 }
 
 function obtenerFuentesAvatar(gobernador = {}) {
@@ -255,7 +255,7 @@ function abrirModal(gobernador, analisisGob, crudoGob) {
         modalBio.innerHTML = `
             <img alt='${escaparHtml(gobernador.nombre)}'>
             <div>
-                <h2>${escaparHtml(gobernador.nombre)} (@${escaparHtml(gobernador.usuariox)})</h2>
+                <h2>${escaparHtml(gobernador.nombre)} (@${escaparHtml(gobernador.usuario_x)})</h2>
                 <p><strong>${escaparHtml(gobernador.provincia)}</strong> | ${escaparHtml(gobernador.partido || 'Gobernador')}</p>
                 <p style='font-size: 0.85rem; color: #cbd5e1; margin-top: 10px;'>${escaparHtml(gobernador.bio || '')}</p>
             </div>
