@@ -225,7 +225,7 @@ async function cargarTablero(fecha) {
                            <p>${gob.provincia}</p>
                        </div>
                    </div>
-                `;
+                `;                    
                 const imagenGobernador = tarjeta.querySelector("img");
                 aplicarAvatarConFallback(imagenGobernador, gob);
 
