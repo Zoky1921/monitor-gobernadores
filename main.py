@@ -68,12 +68,20 @@ else:
     turno = "noche"
 
 def _limpiar_json_llm(raw_text: str) -> str:
-    """Quita fences tipo ```json ... ``` si el modelo los devuelve igual."""
+    """Elimina <think>, fences ```json``` y extrae solo el bloque { }."""
     if not raw_text:
         return raw_text
     t = raw_text.strip()
+    # Eliminar bloque de razonamiento interno <think>...</think>
+    t = re.sub(r'<think>.*?</think>', '', t, flags=re.DOTALL).strip()
+    # Eliminar fences ```json ... ```
     if t.startswith("```"):
         t = t.replace("```json", "").replace("```", "").strip()
+    # Quedarse solo con lo que está entre { }
+    start = t.find('{')
+    end = t.rfind('}')
+    if start != -1 and end != -1:
+        t = t[start:end+1]
     return t
 
 def _openrouter_chat_completions(modelo: str, prompt: str, timeout: int = 90, max_tokens: int = 5000, temperature: float = 0.2):
@@ -639,13 +647,15 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
             print(f"🔍 largo total: {len(raw_text_sub)} chars")
             print(f"🔍 primeros 500: {repr(raw_text_sub[:500])}")
             resumen_subtrama = repair_json(raw_text_sub, return_objects=True)
-            # 🔍 DIAGNÓSTICO TEMPORAL
-            print(f"🔍 keys tras repair: {list(resumen_subtrama.keys())}")
 
+            # 🛡️ VALIDAR QUE SEA DICT
+            if not isinstance(resumen_subtrama, dict):
+                raise ValueError(f"❌ [Camino 2] repair_json devolvió {type(resumen_subtrama)}. Preview: {raw_text_sub[:200]}")
+            
             # 🛡️ VALIDACIÓN POST-PARSE
             campos_requeridos = [
                 "clima_general",
-                "resumen_ejecutivo", 
+                "resumen_ejecutivo",
                 "analisis_profundo",
                 "temas_calientes",
                 "tweet_destacado",
