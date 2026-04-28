@@ -635,7 +635,22 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
             )
 
             raw_text_sub = _limpiar_json_llm(raw_text_sub)
-            resumen_subtrama = json.loads(repair_json(raw_text_sub))
+            resumen_subtrama = repair_json(raw_text_sub, return_objects=True)
+
+            # 🛡️ VALIDACIÓN POST-PARSE
+            campos_requeridos = [
+                "clima_general",
+                "resumen_ejecutivo", 
+                "analisis_profundo",
+                "temas_calientes",
+                "tweet_destacado",
+                "analisis_por_gobernador"
+            ]
+            faltantes = [c for c in campos_requeridos if c not in resumen_subtrama]
+            if faltantes:
+                raise ValueError(f"❌ [Camino 2] JSON incompleto. Faltan campos: {faltantes}")
+            
+            print("✅ [Camino 2] Estructura JSON validada correctamente.")
 
             # Guardar el análisis subtrama
             ruta_subtrama = f"data/{fecha_hoy_str}_analisis_subtrama_{turno}.json"
