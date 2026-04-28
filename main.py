@@ -632,20 +632,28 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
   }}
 </output_format>
     """
+            MAX_REINTENTOS_GROK = 3
+            raw_text_sub = ""
+            usage_sub = {}
 
-            print("🕵️ [Camino 2] Ejecutando subtrama con Grok...")
-            raw_text_sub, usage_sub = _openrouter_chat_completions(
-                modelo=MODELO_GROK_SUBTRAMA,
-                prompt=prompt_subtrama,
-                timeout=120,
-                max_tokens=8000,
-                temperature=0.2,
-            )
+            for intento in range(MAX_REINTENTOS_GROK):
+                print(f"🕵️ [Camino 2] Intento {intento + 1}/{MAX_REINTENTOS_GROK} con Grok...")
+                raw_text_sub, usage_sub = _openrouter_chat_completions(
+                    modelo=MODELO_GROK_SUBTRAMA,
+                    prompt=prompt_subtrama,
+                    timeout=180,
+                    max_tokens=10000,
+                    temperature=0.2,
+                )
+                raw_text_sub = _limpiar_json_llm(raw_text_sub)
+                if raw_text_sub.strip():
+                    print(f"✅ [Camino 2] Grok respondió en intento {intento + 1}.")
+                    break
+                print(f"⚠️ [Camino 2] Grok devolvió vacío en intento {intento + 1}. Esperando 30s...")
+                time.sleep(30)
 
-            raw_text_sub = _limpiar_json_llm(raw_text_sub)
-            # 🔍 DIAGNÓSTICO TEMPORAL
-            print(f"🔍 largo total: {len(raw_text_sub)} chars")
-            print(f"🔍 primeros 500: {repr(raw_text_sub[:500])}")
+            if not raw_text_sub.strip():
+                raise RuntimeError("❌ [Camino 2] Grok devolvió vacío en los 3 intentos. Abortando.")
             resumen_subtrama = repair_json(raw_text_sub, return_objects=True)
 
             # 🛡️ VALIDAR QUE SEA DICT
