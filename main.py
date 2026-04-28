@@ -635,7 +635,12 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
             )
 
             raw_text_sub = _limpiar_json_llm(raw_text_sub)
+            # 🔍 DIAGNÓSTICO TEMPORAL
+            print(f"🔍 largo total: {len(raw_text_sub)} chars")
+            print(f"🔍 primeros 500: {repr(raw_text_sub[:500])}")
             resumen_subtrama = repair_json(raw_text_sub, return_objects=True)
+            # 🔍 DIAGNÓSTICO TEMPORAL
+            print(f"🔍 keys tras repair: {list(resumen_subtrama.keys())}")
 
             # 🛡️ VALIDACIÓN POST-PARSE
             campos_requeridos = [
