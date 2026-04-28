@@ -1,1 +1,38 @@
-""
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Los gobernadores optaron por un repliegue táctico hacia la gestión local y protocolar, evitando confrontaciones directas con Nación. Ausencia total de menciones a coparticipación, caja federal o disputas de poder en la jornada del 28/04; el foco en obras provinciales y efemérides marca un apagón político coordinado que deslegitima el ajuste nacional sin desgaste frontal.",
+    "analisis_profundo": "En el subsuelo de la patria, donde los tweets no son inocentes sino misiles guiados por la arquitectura institucional, la jornada del 28/04 revela un juego de espejos magistral: los gobernadores, como estrategas de una cartelizacion federal implícita, eligen el silencio sobre la agenda nacional para erosionar el relato de Milei desde las sombras. Axel Kicillof (Buenos Aires), con su retuit matutino al Encuentro Federal del Trabajo, defiende la autonomía laboral contra la Ley 27.802, un dardo envenenado que recuerda al Gobierno que las provincias no ceden soberanía sin caja. Martín Llaryora (Córdoba) celebra la Avenida Luchesse como 'inversión estratégica', un protocolo que grita independencia fiscal: mientras Nación paraliza obras, Córdoba pavimenta su hegemonía productiva. Leandro Zdero (Chaco) promete cumplir en Margarita Belén, un guiño a la diplomacia de la caja con FONPLATA, pero sin aludir a retenciones ni coparticipación. Este aislamiento no es pasividad, sino opacidad calculada: al enfocarse en gestión municipal, aíslan a la Casa Rosada, forzándola a negociar billetes por lealtad. ¿Acaso ignoran que Caputo retiene fondos mientras provincias pavimentan solos? El test de la ausencia es demoledor: ni un solo gobernador menciona ajuste nacional, glaciares o litio en disputa, optando por un apagón político que desarma el relato libertario. Es el federalismo de los hechos contra la unipolaridad porteña, donde el daño político a Nación se mide en silencio ensordecedor.",
+    "temas_calientes": [],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "autonomía laboral"
+            ],
+            "postura_politica": "Rechazo a Ley 27.802 vía retuit, marca territorio contra invasión nacional; subtexto: provincias defienden caja laboral ante desfinanciamiento mileísta.",
+            "frase_fuerte": "Reafirmamos, en defensa de la autonomía provincial y los derechos laborales, nuestro rechazo a la Ley 27.802"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "gestión provincial"
+            ],
+            "postura_politica": "Agenda local sin impacto federal",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "infraestructura"
+            ],
+            "postura_politica": "Gestión protocolar aislada; celebra obras propias para contrastar paralización nacional, erosiona relato de ajuste.",
+            "frase_fuerte": "Mientras en otros lugares las obras se detienen, en #Córdoba decidimos avanzar"
+        }
+    ]
+}
