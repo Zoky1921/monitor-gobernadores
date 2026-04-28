@@ -102,6 +102,7 @@ def _openrouter_chat_completions(modelo: str, prompt: str, timeout: int = 90, ma
         ],
         "temperature": temperature,
         "max_tokens": max_tokens,
+        "reasoning": {"enabled": False},
         
     }
 
