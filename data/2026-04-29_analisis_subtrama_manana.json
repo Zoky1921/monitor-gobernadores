@@ -1,0 +1,126 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de apagón comunicacional masivo: 15 gobernadores mudos ante fecha clave. Los activos se parapetan en gestión municipal/provincial (salud, obras, seguridad), explicitando autonomía frente al desfinanciamiento nacional. Estrategia coordinada para erosionar relato de ajuste de Casa Rosada, mostrando 'provincias solas cubren lo esencial'.",
+    "analisis_profundo": "El silencio de tres cuartos de gobernadores no es casualidad, sino arquitectura deliberada de poder. En el subsuelo patrio, donde el protocolo es política, esta ausencia colectiva grita lo que no se dice: un cordón sanitario alrededor de la agenda nacional de Milei. ¿Por qué Kicillof (Buenos Aires), el peso pesado con 10x influencia, se limita a retuits viejos de escrituras y obras locales del 28? No es desidia, es cálculo: cada pavimentito bonaerense es un dardo a Caputo, recordando que la caja federal no llega pero la provincia suple. Martin Llaryora (Córdoba), con su RT de altonivel y queja por PAMI, desnuda el juego: Nación desfinancia jubilados, provincias cargan el muerto. Ziliotto (La Pampa) lo explicitó: 'Acá la salud sigue siendo un derecho', contrapunto cínico al ajuste caputista.\n\nWeretilneck (Río Negro) y Vidal (Santa Cruz) escalan en minería y residuos con AFD/CAF, diplomacia de caja que ignora Casa Rosada para financiarse directo en París/Bogotá. ¿Apriete o hegemonía? El Norte Grande (Valdés Corrientes con costanera) marca territorio infraestructural sin mencionar Nación. Jaldo (Tucumán) arma policía con motos, Macri (CABA) azota okupas: ley y orden como identidad simbólica, aislada de DNU mileísta.\n\nEste apagón afecta mortalmente a Casa Rosada: gobernadores gestionan en silos, deslegitimando el ajuste como 'crueldad evitable'. Es cartelizacion federal, pacto inconfesable para forzar transferencias. ¿Ignora Llaryora que esas vigas dependen de fondos que Caputo retiene? El test de ausencia revela estrategia: silencio como arma, repliegue como ofensiva. La rosca de cabotaje se macroeconomiza en espejos de opacidad institucional.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión sanitaria local ante desfinanciamiento nacional (PAMI, tomógrafo)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público provincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@OsvaldoJaldo",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Obras de infraestructura con fondos propios",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Minería y financiamiento multilateral ignorando Nación",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Educación y políticas de Estado locales",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora (Córdoba)",
+        "texto": "Tras el conflicto con #PAMI, la cobertura médica de nuestros jubilados es cada vez más crítica. Desde #Córdoba haremos todo lo posible para continuar dando respuesta al aumento de la demanda de los servicios de #salud. No vamos a dejar sin atención médica a ningún vecino, priorizando a los sectores más vulnerables. Por eso, en #MarcosJuárez, anunciamos el refuerzo del Hospital Dr. Abel Ayerza con nuevas camas y #equipamiento, un plan de contingencia antes de la llegada del #invierno. Con esto vamos a ampliar la capacidad de atención y garantizar la respuesta sanitaria en la región. #HacerParaCrecer",
+        "por_que_es_clave": "Apriete quirúrgico a Nación por PAMI: Córdoba suple desfinanciamiento con fondos propios, posicionándose como salvador local y erosionando legitimidad de ajuste mileísta. Daño político directo a Casa Rosada.",
+        "pregunta_openarg": "¿Caputo liberará fondos PAMI o Córdoba seguirá financiando sola el colapso nacional?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "Jorge Macri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "okupas"
+            ],
+            "postura_politica": "Marca territorio 'ley y orden' con rescate de menores explotados por inmigrantes ilegales, dardo a kirchnerismo pro-okupas. Aislamiento total de Nación, priorizando gestión porteña.",
+            "frase_fuerte": "Esto es lo que protegen los defensores de okupas. Una casa usurpada por 15 años y adentro 17 menores explotados por extranjeros en un taller textil clandestino."
+        },
+        {
+            "gobernador": "Martín Llaryora (Córdoba)",
+            "temas_mencionados": [
+                "salud PAMI",
+                "obras viales"
+            ],
+            "postura_politica": "Apriete fiscal velado: suple desfinanciamiento nacional en salud jubilados con plan provincial, explicitando autonomía ante repliegue Casa Rosada. Gestión como escudo anti-ajuste.",
+            "frase_fuerte": "Tras el conflicto con #PAMI, la cobertura médica de nuestros jubilados es cada vez más crítica. Desde #Córdoba haremos todo lo posible para continuar dando respuesta."
+        },
+        {
+            "gobernador": "Gustavo Valdés (Corrientes)",
+            "temas_mencionados": [
+                "infraestructura"
+            ],
+            "postura_politica": "Agenda local sin impacto federal: costanera con fondos propios, marca territorio ante silencio nacional en obras.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "Sergio Ziliotto (La Pampa)",
+            "temas_mencionados": [
+                "salud"
+            ],
+            "postura_politica": "Contrapunto ideológico: 'salud derecho' vs ajuste nacional, aislamiento total.",
+            "frase_fuerte": "ACÁ LA SALUD SIGUE SIENDO UN DERECHO."
+        },
+        {
+            "gobernador": "Alberto Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "residuos",
+                "minería",
+                "seguridad"
+            ],
+            "postura_politica": "Diplomacia caja directa (AFD Francia), ignora Nación; minería propia como hegemonía patagónica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "Claudio Vidal (Santa Cruz)",
+            "temas_mencionados": [
+                "salud"
+            ],
+            "postura_politica": "Sustituye Nación en tomógrafo Cuenca, gestión aislada para deslegitimar ajuste.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "Maximiliano Pullaro (Santa Fe)",
+            "temas_mencionados": [
+                "escrituras"
+            ],
+            "postura_politica": "Gestión protocolar aislada, sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "Osvaldo Jaldo (Tucumán)",
+            "temas_mencionados": [
+                "seguridad"
+            ],
+            "postura_politica": "Fuerte en policía, autonomía ante narco nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "Claudio Poggi (San Luis)",
+            "temas_mencionados": [
+                "educación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal.",
+            "frase_fuerte": null
+        }
+    ]
+}

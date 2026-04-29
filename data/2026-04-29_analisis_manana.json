@@ -1,0 +1,150 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores iniciaron la jornada con una clara reafirmación de la gestión provincial, enfocándose en infraestructura y servicios esenciales. Prevalecen las tensiones con el gobierno nacional, evidenciadas en el reclamo por la desatención del PAMI y el retiro de fondos para asistencia a personas con discapacidad. Gobernadores como Jorge Macri (CABA) se posicionan firmemente en seguridad y orden. Martín Llaryora (Córdoba) refuerza la salud pública provincial, mientras Sergio Ziliotto (La Pampa) y Hugo Passalacqua (Misiones) defienden derechos sociales con recursos propios. Otros mandatarios como Alberto Weretilneck (Río Negro), Claudio Poggi (San Luis), Claudio Vidal (Santa Cruz), Maximiliano Pullaro (Santa Fe) y Osvaldo Jaldo (Tucumán) concentran su actividad en obras públicas y políticas de seguridad y educación, mostrando una gestión activa frente a las demandas locales.",
+    "analisis_profundo": "La agenda de los gobernadores provinciales hoy, 29 de abril de 2026, se caracterizó por una marcada reafirmación de la gestión local y una notable tensión con el gobierno nacional en áreas clave de bienestar social y financiamiento. Jorge Macri (CABA) se posicionó con firmeza en temas de seguridad y orden social, denunciando la explotación de menores en talleres clandestinos y la expulsión de inmigrantes ilegales, un discurso que resuena con narrativas de 'mano dura'. En contraste, Martín Llaryora (Córdoba) elevó el tono de advertencia sobre la 'crítica' situación de la cobertura médica de jubilados por PAMI, anunciando refuerzos hospitalarios provinciales para suplir las carencias, lo que denota una clara tensión fiscal y de competencias con la administración central. Esta preocupación por la salud también fue echo en Sergio Ziliotto (La Pampa), quien enfatizó que 'la salud sigue siendo un derecho', implicando una postura de defensa de los servicios públicos provinciales frente a posibles recortes. Hugo Passalacqua (Misiones) fue más directo al abordar el 'retiro de la Nación en la asistencia a personas con discapacidad', implementando medidas provinciales para paliar la situación y evidenciando el impacto directo de los recortes federales en la población vulnerable. En el ámbito de infraestructura y desarrollo, los gobernadores mantuvieron una agenda activa. Martín Llaryora (Córdoba) destacó avances en obras viales y educativas, mientras Gustavo Valdés (Corrientes) inauguró una importante costanera. Alberto Weretilneck (Río Negro) anunció un cambio de modelo en la gestión de residuos con financiamiento internacional y celebró el desarrollo de la minera Calcatreu, ligándolo a la creación de empleo. Claudio Poggi (San Luis) priorizó la educación con un proyecto de ley para 'Habilidades Matemáticas'. Claudio Vidal (Santa Cruz) inauguró un tomógrafo de última generación y Maximiliano Pullaro (Santa Fe) entregó escrituras de vivienda, mostrando una activa gestión en resolución de problemas históricos. Finalmente, Osvaldo Jaldo (Tucumán) centró su atención en la seguridad, entregando equipamiento a la policía, y en obras de infraestructura para el interior provincial. La jornada resalta una postura proactiva de las provincias frente a los desafíos, en muchos casos asumiendo responsabilidades o compensando falencias atribuidas al gobierno nacional, lo que augura un clima federal de constante negociación y reclamo.",
+    "temas_calientes": [
+        {
+            "tema": "Tensión federal por recortes y desfinanciamiento nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden social",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo de infraestructura y servicios esenciales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo económico y productivo regional (Minería)",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Políticas educativas y capacitación",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@passalacquaok",
+        "texto": "Ante el retiro de la Nación en la asistencia a personas con discapacidad, en Misiones implementamos una medida concreta para sostener el funcionamiento de los centros.",
+        "por_que_es_clave": "Destaca una acción concreta de la provincia para suplir una falencia del Estado Nacional, evidenciando el impacto directo de los recortes federales y la postura proactiva de la provincia en defensa de los derechos sociales.",
+        "pregunta_openarg": "¿Hasta qué punto las provincias podrán sostener servicios esenciales ante la progresiva desfinanciación de programas sociales por parte de la Nación?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Derechos Sociales",
+                "Migración"
+            ],
+            "postura_politica": "El gobernador de la Ciudad Autónoma de Buenos Aires (CABA) se muestra firme en la aplicación de la ley y el orden, con un enfoque en la seguridad ciudadana, la lucha contra la explotación y la migración irregular. Su postura es de 'mano dura' frente a delitos sociales.",
+            "frase_fuerte": "Esto es lo que protegen los defensores de okupas. Una casa usurpada por 15 años y adentro 17 menores explotados por extranjeros en un taller textil clandestino. Rescatamos a los chicos y el inmigrante ilegal será expulsado del país. Ley y orden."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Salud",
+                "Infraestructura",
+                "Educación",
+                "Conflicto Federal"
+            ],
+            "postura_politica": "El gobernador de Córdoba se posiciona críticamente ante el desfinanciamiento nacional en salud, reafirmando el compromiso provincial con la cobertura sanitaria de jubilados. Paralelamente, destaca la inversión en obras públicas viales y educativas como pilares de su gestión.",
+            "frase_fuerte": "Tras el conflicto con #PAMI, la cobertura médica de nuestros jubilados es cada vez más crítica. Desde #Córdoba haremos todo lo posible para continuar dando respuesta al aumento de la demanda de los servicios de #salud."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador de Corrientes se centra en la gestión y ejecución de obras públicas para el desarrollo local, destacando la inauguración de infraestructuras clave que mejoran la calidad de vida y fomentan el turismo.",
+            "frase_fuerte": "¡Llegó el día! Se inauguró la nueva costanera de la ciudad de #Goya y sus obras complementarias, financiadas por el @CorrientesGob, que luce totalmente renovada y cuenta con defensas que la hacen más segura ante las crecientes del río Paraná."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Salud",
+                "Derechos Sociales"
+            ],
+            "postura_politica": "El gobernador de La Pampa defiende la salud como un derecho inalienable, enfatizando la protección de los servicios esenciales provinciales en un contexto de posibles recortes nacionales, lo que implica un fuerte compromiso social.",
+            "frase_fuerte": "ACÁ LA SALUD SIGUE SIENDO UN DERECHO. En La Pampa cuidamos lo que importa."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Asistencia Social",
+                "Discapacidad",
+                "Conflicto Federal"
+            ],
+            "postura_politica": "El gobernador de Misiones asume la responsabilidad de la provincia ante el retiro de fondos nacionales para programas sensibles como la asistencia a personas con discapacidad, demostrando un compromiso directo con los sectores vulnerables y una crítica implícita a la política federal.",
+            "frase_fuerte": "Ante el retiro de la Nación en la asistencia a personas con discapacidad, en Misiones implementamos una medida concreta para sostener el funcionamiento de los centros."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Gestión Ambiental",
+                "Minería",
+                "Desarrollo Económico",
+                "Seguridad"
+            ],
+            "postura_politica": "El gobernador de Río Negro enfoca su gestión en la modernización de la gestión de residuos con financiamiento internacional, el impulso de la minería como motor económico para generar empleo y el refuerzo de la seguridad mediante el reconocimiento a la labor policial.",
+            "frase_fuerte": "RÍO NEGRO CAMBIA EL MODELO DE RESIDUOS CON TECNOLOGÍA Y ESCALA"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación"
+            ],
+            "postura_politica": "El gobernador de San Luis prioriza la educación con iniciativas legislativas para institucionalizar el aprendizaje de habilidades matemáticas, buscando consolidar estas acciones como políticas de estado que impacten positivamente en el rendimiento escolar.",
+            "frase_fuerte": "EDUCACIÓN - Ayer firmamos el Proyecto de Ley que elevamos a la Legislatura Provincial y que propone institucionalizar en nuestras Escuelas el procedimiento de aprendizaje en “HABILIDADES MATEMÁTICAS a partir de la resolución de situaciones”."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Salud",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador de Santa Cruz destaca la resolución de problemas históricos en salud con inversión en equipamiento e infraestructura clave, como la incorporación de un tomógrafo, demostrando una gestión activa orientada a satisfacer demandas ciudadanas largamente postergadas.",
+            "frase_fuerte": "DECIDIMOS TERMINAR CON LA ESPERA DE AÑOS DE NUESTROS VECINOS, HOY LA CUENCA TIENE TOMÓGRAFO Y NUEVA SALA"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Vivienda",
+                "Gestión Social"
+            ],
+            "postura_politica": "El gobernador de Santa Fe se centra en la regularización dominial y la entrega de escrituras de vivienda, entendiendo esta acción como una medida crucial para brindar seguridad jurídica y tranquilidad a las familias que esperan por años.",
+            "frase_fuerte": "En #LaRedonda vivimos un momento de mucha emoción: 190 familias de Santa Fe por fin tienen la escritura de su casa."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Seguridad",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador de Tucumán enfatiza la seguridad como una política de estado, con inversión en equipamiento policial y avance en obras de infraestructura para el desarrollo del interior provincial, mostrando una gestión activa y resolutiva.",
+            "frase_fuerte": "Desde el inicio de nuestra gestión definimos que la seguridad debía ser una política de Estado, con inversión, planificación y decisiones concretas. Esta mañana, reforzamos ese camino con la entrega de motos, bicicletas, camionetas e insumos tecnológicos para la Policía de Tucumán."
+        }
+    ]
+}
