@@ -1,3 +1,11 @@
+// Helper: normaliza texto sacando tildes, espacios y mayúsculas
+function normalizarTexto(str) {
+  return str
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '') // elimina tildes
+    .toLowerCase()
+    .replace(/[^a-z0-9]/g, '');      // deja solo letras y números
+}
 let gobernadoresBase = [];
 let turnoActual = "manana"; // Memoria global del turno
 const AVATAR_PLACEHOLDER_LOCAL = "./assets/img/avatar-placeholder.svg";
@@ -205,9 +213,16 @@ async function cargarTablero(fecha) {
         if(grilla && gobernadoresBase) {
             gobernadoresBase.forEach(gob => {
                 // Buscador inteligente
-                const analisisGob = analisis.analisis_por_gobernador.find(a =>
-                    a.gobernador.toLowerCase().includes(obtenerUsuarioSinArroba(gob.usuario_x).toLowerCase())
-                    );
+               const analisisGob = analisis.analisis_por_gobernador.find(a => {
+               const handleNorm = normalizarTexto(obtenerUsuarioSinArroba(gob.usuario_x));
+               const palabrasNombre = a.gobernador
+                .replace(/\(.*?\)/g, '')
+                .split(/\s+/)
+                .map(normalizarTexto)
+                .filter(p => p.length > 3)
+                .sort((a, b) => b.length - a.length);
+               return palabrasNombre.some(palabra => handleNorm.includes(palabra));
+             });
                 
                 const crudoGob = crudo[gob.usuario_x] || crudo[obtenerUsuarioSinArroba(gob.usuario_x)] || [];
 
