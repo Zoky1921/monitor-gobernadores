@@ -1,0 +1,208 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La agenda federal de hoy se centró en la gestión provincial con un fuerte énfasis en la obra pública y el desarrollo social. Gobernadores como Axel Kicillof (Buenos Aires), Martín Llaryora (Córdoba), Rolando Figueroa (Neuquén) y Osvaldo Jaldo (Tucumán) destacaron entregas de viviendas, nuevas infraestructuras viales y sanitarias, y programas educativos. Se observó un posicionamiento ideológico en la defensa de derechos y un enfoque en la sostenibilidad y atracción de inversiones, como en La Rioja y Mendoza. Chaco y San Luis también reportaron avances en obras y digitalización. Santa Cruz inauguró infraestructura de salud y resaltó logros educativos. Santiago del Estero mantuvo el diálogo con el sector productivo. El tono general es de 'hacer para crecer' en un contexto económico complejo, con la mayoría de los líderes enfocados en soluciones locales y la reafirmación del federalismo en la gestión.",
+    "analisis_profundo": "La agenda de los gobernadores durante las últimas 24 horas subraya una profunda orientación hacia la gestión provincial y la obra pública, a menudo con un discurso que resalta el esfuerzo local en un contexto nacional desafiante. Axel Kicillof (Buenos Aires) se concentró en la entrega de escrituras y la inauguración de infraestructura básica como plantas potabilizadoras y centros educativos, enarbolando la bandera del 'derecho a la vivienda' con una clara carga ideológica y contrastando con una supuesta visión que solo valora los derechos para quienes tienen dinero. Esta postura es un reflejo de su línea política, que busca diferenciar la gestión provincial de las políticas de ajuste a nivel nacional.\n\nJorge Macri (Ciudad Autónoma de Buenos Aires) presentó una medida financiera innovadora al cobrar servicios de salud a extranjeros y obras sociales para financiar obras, un enfoque que busca ordenar las finanzas y gestionar eficientemente los recursos propios, tocando un tema sensible en la salud pública. En tanto, Martín Llaryora (Córdoba) exhibió una intensa actividad de infraestructura vial, educación superior y apoyo a la inclusión, bajo el lema 'Hacer Para Crecer', denotando una proactividad en la gestión local que busca marcar un contraste con la parálisis de la obra pública nacional.\n\nLa promoción del desarrollo productivo y la atracción de inversiones son temas recurrentes. Ricardo Quintela (La Rioja) se reunió con representantes del Pacto Global de la ONU para discutir minería responsable y sostenibilidad, mientras que Alfredo Cornejo (Mendoza) defendió la estabilidad macroeconómica y la reforma fiscal en Expo EFI, buscando atraer inversiones a su provincia mediante la seguridad jurídica. Rolando Figueroa (Neuquén) impulsó un plan de viviendas innovador y obras de infraestructura, con un fuerte énfasis en la transparencia y la responsabilidad fiscal.\n\nLa educación y las oportunidades para los jóvenes también ocuparon un lugar central. Claudio Vidal (Santa Cruz) reconoció a una estudiante destacada y destacó la expansión del CBC de la UBA en la provincia, mientras que Alberto Weretilneck (Río Negro) promocionó un programa de idiomas y subrayó el crecimiento del empleo privado. Claudio Poggi (San Luis) se enfocó en la digitalización de la administración pública y la cooperación internacional para la ciencia y tecnología. Osvaldo Jaldo (Tucumán) otorgó financiamiento a empresas locales y abordó la obra pública con un énfasis en la mejora de servicios básicos y conectividad. El gobernador de Santiago del Estero, Elías Suárez, reforzó el diálogo con el sector productivo. En conjunto, la jornada mostró una diversidad de enfoques, pero con una convergencia clara en la importancia de la autonomía provincial y la capacidad de gestión frente a los desafíos económicos.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de Obra Pública e Infraestructura",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo",
+                "@ClaudioVidalSer",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Vivienda y Acceso a la Propiedad",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@OsvaldoJaldo",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Educación y Capital Humano",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Modernización del Estado y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La tranquilidad de la casa propia deja de ser un sueño inalcanzable para las familias de Guaminí que recibieron las 156 escrituras que entregamos en el distrito.\n\nHay quienes creen que los derechos sólo son para quienes tienen dinero, no les importa dejar esperando toda la vida a los miles de bonaerenses para los que una escritura es un trámite inaccesible.\n\nVamos a seguir cumpliendo este compromiso que asumimos con #MiEscrituraMiCasa 🤝",
+        "por_que_es_clave": "El gobernador Axel Kicillof (Buenos Aires) emite una declaración con un fuerte componente ideológico, diferenciando su gestión orientada a garantizar derechos básicos como la vivienda, de otras visiones políticas que, según él, restringen el acceso a quienes tienen recursos económicos. Esto marca un posicionamiento político claro en la jornada.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Infraestructura hídrica",
+                "Educación"
+            ],
+            "postura_politica": "Reafirma el rol del Estado en la garantía de derechos básicos (vivienda, agua, educación), contrastando con visiones que mercantilizan el acceso a los mismos. Muestra una gestión activa en obra pública y entrega de bienes, con un claro mensaje político-ideológico.",
+            "frase_fuerte": "Hay quienes creen que los derechos sólo son para quienes tienen dinero, no les importa dejar esperando toda la vida a los miles de bonaerenses para los que una escritura es un trámite inaccesible."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Financiamiento de la salud",
+                "Ordenamiento fiscal"
+            ],
+            "postura_politica": "Enfocado en la eficiencia de la gestión, la recuperación de fondos y la financiación de obras a través de nuevas fuentes de ingresos, como el cobro por atención médica a no residentes. Prioriza el orden fiscal para el avance de obras.",
+            "frase_fuerte": "Pasamos de pagar tours sanitarios a financiar más de 151 obras con el cobro a extranjeros, obras sociales y prepagas. Esto también es ordenar."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Destaca la concreción de obras históricamente postergadas, proyectando un futuro de cumplimiento de promesas y desarrollo para la provincia de Chaco. Resalta el valor de la gestión que transforma promesas en hechos.",
+            "frase_fuerte": "Tantos años de promesas vacías, que hoy vamos camino a cumplirlas."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Educación superior",
+                "Inclusión social"
+            ],
+            "postura_politica": "Muestra una gestión proactiva y territorial, con énfasis en la finalización de obras importantes y el impulso a programas de desarrollo y bienestar en Córdoba, reafirmando el lema 'Hacer para Crecer' como un contraste con la parálisis de la obra pública nacional.",
+            "frase_fuerte": "Mientras en otros lugares las obras se detienen, en #Córdoba decidimos avanzar. Porque entendemos que la infraestructura no es un gasto: es una inversión estratégica para el desarrollo, la generación de #empleo y el progreso sostenido."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Unidad peronista",
+                "Desarrollo productivo sostenible",
+                "Minería responsable"
+            ],
+            "postura_politica": "Apela al diálogo y la construcción de consensos federales en La Rioja, defendiendo los valores del peronismo y la importancia de un desarrollo productivo que sea social y ambientalmente responsable, con foco en la atracción de inversiones.",
+            "frase_fuerte": "En tiempos donde la Argentina necesita consensos y una mirada profundamente federal, coincidimos en la importancia de fortalecer la unidad, generar acuerdos amplios y seguir construyendo una agenda política que priorice a las familias, el trabajo y la justicia social en cada rincón del país."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Economía",
+                "Inversión",
+                "Estabilidad macroeconómica",
+                "Educación",
+                "Minería",
+                "Turismo",
+                "Energía"
+            ],
+            "postura_politica": "Defiende la necesidad de estabilidad macroeconómica y reforma fiscal a nivel nacional para atraer inversiones, destacando la seguridad jurídica y el orden fiscal de su provincia de Mendoza como fortalezas. Impulsa la conexión entre educación y producción.",
+            "frase_fuerte": "Porque sin estabilidad macro, el esfuerzo de las provincias no alcanza; pero con orden y previsibilidad, hay una oportunidad real de crecimiento."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Inclusión social",
+                "Deporte"
+            ],
+            "postura_politica": "Resalta el apoyo al deporte inclusivo y la promoción de valores como la disciplina y el compromiso en Misiones, mostrando el rol del Estado en el fomento de actividades sociales y el reconocimiento a jóvenes talentos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura",
+                "Educación"
+            ],
+            "postura_politica": "Anuncia políticas habitacionales innovadoras y la adjudicación de obras históricamente demandadas en Neuquén, enfatizando el manejo responsable de recursos y la dinamización de la economía local, con un enfoque en la transparencia.",
+            "frase_fuerte": "UN GRAN PLAN DE VIVIENDAS PARA TODA LA PROVINCIA."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obra pública",
+                "Financiamiento",
+                "Empleo",
+                "Educación"
+            ],
+            "postura_politica": "Destaca el rol del financiamiento internacional para obras provinciales y el crecimiento del empleo privado en Río Negro, atribuyendo los logros al orden y la previsibilidad de su gestión. Promueve la educación como herramienta de futuro.",
+            "frase_fuerte": "Con orden, previsibilidad y un rumbo claro, esas inversiones ya se ven en la provincia: obras en marcha, desarrollo real y trabajo para los rionegrinos."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Inclusión social"
+            ],
+            "postura_politica": "Enfocado en la creación de espacios públicos para el deporte y el encuentro en Salta, promoviendo la integración y las oportunidades para la comunidad. Su gestión se orienta a mejorar la calidad de vida local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Salud",
+                "Tecnología",
+                "Digitalización",
+                "Cooperación internacional"
+            ],
+            "postura_politica": "Resalta la modernización de servicios de salud, el avance tecnológico en la infraestructura digital y la cooperación con organismos internacionales para la capacitación en San Luis. Su gestión se enfoca en la innovación y la eficiencia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Educación",
+                "Salud",
+                "Oportunidades para jóvenes"
+            ],
+            "postura_politica": "Destaca la expansión de oportunidades educativas y la inauguración de infraestructura de salud en Santa Cruz, enfocándose en el esfuerzo individual y el apoyo estatal para el desarrollo personal y colectivo. Subraya la importancia de la educación accesible.",
+            "frase_fuerte": "Estas son las historias que nos marcan el rumbo. Las que nos recuerdan que cuando hay esfuerzo y oportunidades, el futuro empieza a construirse en Santa Cruz."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Sector productivo",
+                "Diálogo",
+                "Crecimiento",
+                "Empleo"
+            ],
+            "postura_politica": "Reafirma el compromiso con el sector productivo y el diálogo para impulsar el crecimiento económico y la generación de empleo en Santiago del Estero. Cree firmemente en la interconexión entre el éxito de la producción y el bienestar provincial.",
+            "frase_fuerte": "Estoy convencido de que si a la producción le va bien, a la provincia le va bien."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo productivo",
+                "Financiamiento"
+            ],
+            "postura_politica": "Prioriza la obra pública para mejorar la calidad de vida y el desarrollo productivo en Tucumán, facilitando el acceso a financiamiento del CFI para empresas locales. Su gestión se basa en transformar decisiones en herramientas concretas de crecimiento.",
+            "frase_fuerte": "Transformamos decisiones en herramientas concretas para el crecimiento de Tucumán."
+        }
+    ]
+}
