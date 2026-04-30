@@ -1,39 +1,161 @@
 {
     "clima_general": "TENSO",
-    "resumen_ejecutivo": "Los gobernadores de Chaco y Tucumán lideran la agenda federal con un fuerte énfasis en la seguridad pública y el sostenimiento de la infraestructura básica frente a la crisis. Leandro Zdero (Chaco) ratificó una postura intransigente contra los cortes de ruta bajo la premisa de no ceder ante 'extorsiones ni amenazas', mientras que Osvaldo Jaldo (Tucumán) supervisó una inversión millonaria en obras hídricas para mitigar el impacto de temporales. Ambas administraciones priorizan la gestión territorial y la respuesta inmediata, distanciándose de la incertidumbre nacional mediante el uso de recursos propios y una narrativa de orden institucional.",
-    "analisis_profundo": "La dinámica federal de la jornada se asienta sobre los pilares de la institucionalización del orden público y la autonomía en la ejecución de infraestructura crítica. En la provincia del Chaco, Leandro Zdero (Chaco) ha marcado una línea divisoria tajante respecto a la conflictividad social. Al declarar que su administración 'no cederá ante extorsiones ni amenazas', el mandatario no solo busca garantizar la libre circulación frente a los tradicionales cortes de ruta, sino que también intenta refundar la autoridad política provincial bajo una narrativa de legalidad y previsibilidad. Esta postura se presenta como una respuesta directa a las prácticas de presión callejera, posicionando al distrito como un espacio que prioriza el derecho al tránsito por sobre el reclamo sectorial.\n\nSimultáneamente, en el NOA, Osvaldo Jaldo (Tucumán) despliega una agenda de gestión pragmática y de alto impacto territorial. La supervisión de las obras en el Canal Sur, que cuentan con una inversión de 1.400 millones de pesos, constituye una pieza central de su estrategia para blindar al Gran San Miguel de Tucumán frente a las inclemencias climáticas. En un escenario donde la obra pública nacional enfrenta demoras, Jaldo enfatiza el uso de fondos propios y la eficiencia administrativa como herramientas para sostener la calidad de vida de los tucumanos. Este enfoque se complementa con una política de seguridad que pone el foco en la respuesta directa a las necesidades de la gente, intentando ofrecer resultados tangibles en áreas de alta sensibilidad.\n\nEste escenario de 'gestión activa' revela cómo las provincias están asumiendo roles protagónicos frente a la parálisis de recursos centrales. Mientras Leandro Zdero (Chaco) asume el costo político de confrontar con los movimientos sociales para normalizar la vida cotidiana, Osvaldo Jaldo (Tucumán) asume el desafío financiero de infraestructuras de gran escala. El resultado es un mapa federal donde el éxito político depende cada vez más de la capacidad de los mandatarios para mostrar autonomía operativa y capacidad de respuesta frente a las demandas básicas de seguridad y hábitat, independientemente de las fluctuaciones de la política nacional.",
+    "resumen_ejecutivo": "La jornada federal revela un marcado énfasis provincial en la gestión local y la inversión en infraestructura clave, desde la educación hasta el desarrollo productivo. Gobernadores como Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) destacan la atracción de inversiones en sectores estratégicos como Vaca Muerta y la minería. Sin embargo, persiste una tensión subyacente en la relación Nación-Provincias, con Alfredo Cornejo (Mendoza) afirmando la autonomía en la importación de salud y Leandro Zdero (Chaco) adoptando una postura firme contra cortes y amenazas, señalando un escenario de desafíos en el orden público y la distribución de competencias.",
+    "analisis_profundo": "La agenda política federal de las últimas horas se caracteriza por un fuerte enfoque de los gobernadores en la gestión y el desarrollo dentro de sus propias jurisdicciones, a menudo resaltando la proactividad provincial ante un contexto nacional percibido como complejo o con responsabilidades no cubiertas. Se observa un impulso significativo a la obra pública y los servicios esenciales, con Rolando Figueroa (Neuquén) anunciando inversiones viales inéditas junto a la industria en Vaca Muerta y la incorporación de equipos de hemodiálisis. En la misma línea, Alberto Weretilneck (Río Negro) celebra el inicio de la producción minera con énfasis en el empleo local y presenta planes de vivienda inclusivos y mejoras en servicios públicos. Hugo Passalacqua (Misiones), Maximiliano Pullaro (Santa Fe) y Osvaldo Jaldo (Tucumán) también se concentran en la entrega de títulos de propiedad, la inauguración de infraestructuras educativas y la descentralización universitaria, respectivamente, mostrando una respuesta a las demandas sociales básicas.\n\nEl plano económico se dinamiza con acciones concretas para fomentar la producción local. Claudio Poggi (San Luis) respalda la expansión de empresas como Toyota y fortalece la seguridad jurídica del catastro, mientras que Claudio Vidal (Santa Cruz) enfoca en mejorar plantas de faena y apoyar a productores. Gustavo Valdes (Corrientes) promociona eventos turísticos de gran envergadura y nuevas obras costaneras, impulsando el desarrollo regional.\n\nLa dinámica federal, aunque con muchas acciones autónomas provinciales, no carece de fricciones. Alfredo Cornejo (Mendoza) reafirma categóricamente la autonomía provincial en la importación de medicamentos, utilizando un retuit que celebra el federalismo frente a la intervención de ANMAT, lo que marca un claro punto de defensa de competencias. Por su parte, Leandro Zdero (Chaco) se posiciona con firmeza contra las extorsiones y cortes, buscando garantizar la libre circulación, un tema que a menudo resuena con debates sobre el orden público y las políticas de contención social. Este escenario mixto, entre la proactividad local y la tensión en la distribución de poder y recursos con el gobierno central, define el pulso de la agenda subnacional.",
     "temas_calientes": [
         {
-            "tema": "Garantía de libre circulación y prohibición de cortes de ruta",
-            "gobernadores_involucrados": ["@LeandroZdero"]
+            "tema": "Impulso a la Obra Pública y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@gustavovaldesok",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
         },
         {
-            "tema": "Infraestructura hídrica estratégica y prevención de inundaciones",
-            "gobernadores_involucrados": ["@OsvaldoJaldo"]
+            "tema": "Desarrollo Minero y Energético",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
         },
         {
-            "tema": "Inversión en obra pública con recursos propios y apoyo nacional",
-            "gobernadores_involucrados": ["@OsvaldoJaldo"]
+            "tema": "Reafirmación de la Autonomía Provincial y Federalismo",
+            "gobernadores_involucrados": [
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Fomento a la Producción Local y Desarrollo Económico",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@gustavovaldesok"
+            ]
+        },
+        {
+            "tema": "Orden Público y Seguridad Ciudadana",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
         }
     ],
     "tweet_destacado": {
-        "usuario": "@LeandroZdero",
-        "texto": "NO VAMOS A CEDER ANTE EXTORSIONES NI AMENAZAS. No más cortes, garantizamos libre circulación.",
-        "por_que_es_clave": "Representa un endurecimiento de la postura política provincial frente a la protesta social y establece un precedente de orden público en la región.",
-        "pregunta_openarg": null
+        "usuario": "@alfredocornejo (RT de @fedesturze)",
+        "texto": "Extraordinario! Felicitaciones @alfredocornejo. Y viva el federalismo que da estos ejemplos! VLLC! Clarificación: no es maniobra. @ANMATsalud solo interviene si hay comercio interjurisdiccional. Una provincia puede importar libremente.",
+        "por_que_es_clave": "El gobernador de Mendoza retuitea una publicación que celebra la autonomía provincial en la importación de medicamentos, en un claro mensaje de defensa del federalismo frente a la intervención de organismos nacionales. La mención de ANMAT y la clarificación sobre la libre importación provincial subraya la tensión en la distribución de competencias y la reafirmación del poder de las provincias.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
     },
     "analisis_por_gobernador": [
         {
             "gobernador": "@LeandroZdero",
-            "temas_mencionados": ["Orden público", "Libre circulación"],
-            "postura_politica": "Mantiene una línea de confrontación directa contra los movimientos sociales, priorizando la transitabilidad y la seguridad vial sobre las protestas, a las que califica como extorsiones.",
-            "frase_fuerte": "NO VAMOS A CEDER ANTE EXTORSIONES NI AMENAZAS."
+            "temas_mencionados": [
+                "Orden Público",
+                "Seguridad"
+            ],
+            "postura_politica": "Adopta una postura firme contra las protestas y cortes de ruta, priorizando la libre circulación y la gobernabilidad sin ceder a presiones, lo que podría interpretarse como una confrontación con ciertos sectores de la sociedad o el abordaje de conflictos sociales.",
+            "frase_fuerte": "NO VAMOS A CEDER ANTE EXTORSIONES NI AMENAZAS. No más cortes, garantizamos libre circulación."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Turismo",
+                "Desarrollo Regional",
+                "Infraestructura"
+            ],
+            "postura_politica": "Se enfoca en la promoción del turismo y la inversión en infraestructura local, como la inauguración de una costanera renovada, para dinamizar la economía regional y ofrecer espacios seguros para los ciudadanos.",
+            "frase_fuerte": "Comenzó la 49º Fiesta Nacional del Surubí, el mundial de pesca que se sigue consolidando en el calendario turístico y, año tras año, hace historia."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Autonomía Provincial",
+                "Federalismo",
+                "Salud",
+                "Agenda Legislativa"
+            ],
+            "postura_politica": "Defiende enfáticamente la autonomía provincial en áreas de gestión como la importación de insumos de salud, celebrando el federalismo. Asimismo, informa sobre la presentación de su discurso anual ante la Legislatura, marcando la importancia de la agenda institucional local.",
+            "frase_fuerte": "Y viva el federalismo que da estos ejemplos! VLLC! Clarificación: no es maniobra. @ANMATsalud solo interviene si hay comercio interjurisdiccional. Una provincia puede importar libremente."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Vivienda",
+                "Derechos Sociales",
+                "Gestión Local"
+            ],
+            "postura_politica": "Prioriza la seguridad jurídica de la vivienda como un derecho fundamental, entregando títulos de propiedad para brindar tranquilidad y futuro a las familias, lo que refleja una gestión orientada a resolver necesidades básicas de la población.",
+            "frase_fuerte": "Y no es un papel más, es la tranquilidad de saber que lo suyo es suyo. Es seguridad, es futuro, es un derecho que llega después de tanto caminar."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo Energético (Vaca Muerta)",
+                "Infraestructura Vial",
+                "Salud",
+                "Inversiones",
+                "Relación Nación-Provincia"
+            ],
+            "postura_politica": "Demuestra un fuerte impulso a la inversión y el desarrollo, destacando la colaboración con el gobierno nacional y la industria para el crecimiento de Vaca Muerta y obras de infraestructura vial. También fortalece el sistema de salud con nuevos equipos.",
+            "frase_fuerte": "Se vienen nuevos proyectos RIGI con más inversiones para Neuquén, que permitirán acelerar el crecimiento y el empleo neuquino."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo Minero",
+                "Producción Local",
+                "Vivienda Social",
+                "Servicios Públicos",
+                "Inclusión"
+            ],
+            "postura_politica": "Impulsa el desarrollo productivo y minero, enfatizando el empleo local y el cuidado ambiental. Además, se compromete con la gestión de vivienda social inclusiva y la mejora de servicios públicos, como la inauguración de oficinas de recaudación, reflejando un enfoque integral en la calidad de vida.",
+            "frase_fuerte": "MINERÍA SÍ, CON TRABAJO RIONEGRINO Y CUIDADO DEL AMBIENTE. En Calcatreu dimos un paso clave: la voladura que marca el inicio de la producción."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Desarrollo Económico",
+                "Inversión Privada",
+                "Gobernabilidad",
+                "Seguridad Jurídica"
+            ],
+            "postura_politica": "Promueve la inversión privada y el desarrollo económico, apoyando la expansión de empresas como Toyota. Subraya la importancia de la seguridad jurídica y el rol profesional en el catastro para una gobernanza eficiente.",
+            "frase_fuerte": "Compartimos lo opinion de la importancia profesional del Agrimensor en la seguridad jurídica del catastro físico-jurídico-económico."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Producción Local",
+                "Apoyo Municipal",
+                "Desarrollo Económico"
+            ],
+            "postura_politica": "Se enfoca en el fortalecimiento de la producción local y el acompañamiento a los municipios para impulsar el desarrollo económico regional, reuniéndose con intendentes para mejorar infraestructuras productivas.",
+            "frase_fuerte": "NOS REUNIMOS CON INTENDENTES PARA MEJORAR LAS PLANTAS DE FAENA Y ACOMPAÑAR EL CRECIMIENTO DE NUESTROS PRODUCTORES"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura Educativa"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura educativa, inaugurando un jardín de infantes con alta calidad, buscando garantizar igualdad de oportunidades y mejorar las condiciones de aprendizaje desde la primera infancia.",
+            "frase_fuerte": "Lo comenzamos a construir hace pocos meses y hoy ya es una realidad."
         },
         {
             "gobernador": "@OsvaldoJaldo",
-            "temas_mencionados": ["Infraestructura", "Gestión hídrica"],
-            "postura_politica": "Enfocado en la supervisión de obras de gran envergadura para prevenir inundaciones, destacando la administración responsable de recursos propios en un contexto económico complejo.",
-            "frase_fuerte": "En este contexto nacional tan complejo, en nuestra provincia seguimos apostando a la obra pública con recursos propios y el apoyo de la Nación."
+            "temas_mencionados": [
+                "Educación Superior",
+                "Federalización",
+                "Infraestructura",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Impulsa la descentralización de la educación universitaria hacia el interior de la provincia y la inversión en infraestructura vial, buscando mejorar la calidad de vida y las oportunidades en comunidades alejadas.",
+            "frase_fuerte": "Estamos acercando la universidad al interior profundo de Tucumán, generando más oportunidades para que nuestros jóvenes puedan estudiar y proyectar su futuro sin tener que dejar sus comunidades."
         }
     ]
 }
