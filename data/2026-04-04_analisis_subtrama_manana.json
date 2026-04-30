@@ -1,0 +1,162 @@
+{
+  "clima_general": "TENSION",
+  "resumen_ejecutivo": "Mientras Axel Kicillof asume la capitanía del conflicto frontal contra la Casa Rosada denunciando la asfixia fiscal, el ecosistema de gobernadores ensaya un repliegue táctico hacia la agenda de cabotaje. Esta orfandad política contrasta con la gestualidad de Ricardo Quintela, que teje alianzas periféricas desde Tierra del Fuego. El silencio generalizado no es pacificación, sino una pragmática diplomacia de la caja a la espera de definiciones nacionales.",
+  "analisis_profundo": "El tablero federal expone una asimetría elocuente. Por un lado, la provincia de Buenos Aires opera como el último bastión de la resistencia explícita. Axel Kicillof no solo expone la caída del 8% en la coparticipación, sino que articula un relato donde el ajuste financiero se cruza con el desmantelamiento del complejo científico y universitario. Es un dardo directo a la línea de flotación del programa de Javier Milei. Sin embargo, este grito bonaerense resuena en la soledad de la llanura. El resto de los mandatarios provinciales ha optado por un pragmático refugio en la gestión territorial. Jorge Macri y Maximiliano Pullaro se abroquelan en la agenda del orden y la seguridad, ofreciendo a sus electorados certezas institucionales frente a la intemperie macroeconómica. ¿Acaso los mandatarios del interior ignoran el recorte nacional, o simplemente administran el silencio mientras negocian los saldos de sus tesoros? La apatía federal se consolida así como una herramienta de supervivencia. Al mismo tiempo, los movimientos de Ricardo Quintela cruzando el país hacia el sur insinúan que la liga peronista busca recomponer su tejido desde los márgenes, lejos de la órbita porteña. En este escenario, el oficialismo nacional debería leer el repliegue provincial no como una claudicación definitiva, sino como una tregua armada dictada por la urgencia material.",
+  "temas_calientes": [
+    {
+      "tema": "Ajuste fiscal y desplome de coparticipación",
+      "gobernadores_involucrados": [
+        "@Kicillofok"
+      ]
+    },
+    {
+      "tema": "Seguridad y consolidación del orden público",
+      "gobernadores_involucrados": [
+        "@jorgemacri",
+        "@maxipullaro"
+      ]
+    },
+    {
+      "tema": "Reagrupamiento opositor periférico",
+      "gobernadores_involucrados": [
+        "@QuintelaRicardo"
+      ]
+    },
+    {
+      "tema": "Obra pública local y supervivencia productiva",
+      "gobernadores_involucrados": [
+        "@NachoTorresCH",
+        "@LeandroZdero",
+        "@MartinLlaryora"
+      ]
+    },
+    {
+      "tema": "Apagón político mediante efemérides y turismo",
+      "gobernadores_involucrados": [
+        "@WeretilneckOK",
+        "@passalacquaok",
+        "@EliasSuarezSDE",
+        "@Rolo_Figueroa"
+      ]
+    }
+  ],
+  "tweet_destacado": {
+    "usuario": "@Kicillofok",
+    "texto": "Mes a mes, se profundiza el desfinanciamiento a las provincias argentinas. En marzo, la caída real de la coparticipación federal fue del -8%. Las provincias recibieron unos $4,5 billones en recursos coparticipables, similar al registro de marzo de 2020, al inicio de la pandemia",
+    "por_que_es_clave": "Exhibe la caja y el daño material directo del gobierno nacional. Al poner el foco en la caída interanual de los recursos, busca presionar al resto de los mandatarios provinciales que hoy eligen el silencio.",
+    "pregunta_openarg": "¿Hasta qué punto el esquema fiscal de la Casa Rosada es sostenible sin detonar una rebelión institucional en el interior del país?"
+  },
+  "analisis_por_gobernador": [
+    {
+      "gobernador": "@Kicillofok (Buenos Aires)",
+      "temas_mencionados": [
+        "Coparticipación",
+        "Pobreza",
+        "Universidades",
+        "Desfinanciamiento"
+      ],
+      "postura_politica": "Confrontación total. Se erige como el polo excluyente de oposición al gobierno de Milei, marcando el daño económico estructural sobre el territorio.",
+      "frase_fuerte": "Mes a mes, se profundiza el desfinanciamiento a las provincias argentinas."
+    },
+    {
+      "gobernador": "@jorgemacri (CABA)",
+      "temas_mencionados": [
+        "Seguridad",
+        "Propiedad privada",
+        "Usurpaciones"
+      ],
+      "postura_politica": "Autonomía ideológica. Elude la disputa macroeconómica para fidelizar a su base natural con un discurso duro de orden y restitución del espacio público.",
+      "frase_fuerte": "No cambiaron las leyes, no cambiaron los jueces. Cambió la decisión política."
+    },
+    {
+      "gobernador": "@LeandroZdero (Chaco)",
+      "temas_mencionados": [
+        "Producción",
+        "Exportación regional"
+      ],
+      "postura_politica": "Agenda local sin impacto federal. Se refugia en el fomento al agro para compensar el escenario nacional adverso.",
+      "frase_fuerte": "Más producción chaqueña que se traduce en trabajo y desarrollo para la región."
+    },
+    {
+      "gobernador": "@NachoTorresCH (Chubut)",
+      "temas_mencionados": [
+        "Obra pública",
+        "Infraestructura",
+        "Aniversario local"
+      ],
+      "postura_politica": "Repliegue territorial. Tras sus cruces pasados con Nación, elige mostrar músculo local y gestión en obras hídricas ante la retirada del Estado federal.",
+      "frase_fuerte": "Porque son estos pueblos chicos del interior los que hacen grande a nuestra provincia."
+    },
+    {
+      "gobernador": "@MartinLlaryora (Córdoba)",
+      "temas_mencionados": [
+        "Salud pública",
+        "Vuelos sanitarios"
+      ],
+      "postura_politica": "Gestión protocolar aislada. Evita comprometerse en la contienda distributiva, mostrando el funcionamiento del aparato estatal cordobés como contraste silencioso.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@QuintelaRicardo (La Rioja)",
+      "temas_mencionados": [
+        "Unión popular",
+        "Reconstrucción nacional"
+      ],
+      "postura_politica": "Diplomacia de la resistencia. Intenta construir una transversalidad opositora visitando a sus pares de la Patagonia, desafiando el aislamiento impulsado desde la Casa Rosada.",
+      "frase_fuerte": "Hacemos mas fuerte la unión del pueblo para trabajar en la reconstrucción de nuestra nación."
+    },
+    {
+      "gobernador": "@passalacquaok (Misiones)",
+      "temas_mencionados": [
+        "Semana Santa",
+        "Tradición religiosa"
+      ],
+      "postura_politica": "Gestión protocolar aislada. Apagón político absoluto, priorizando la agenda religiosa para no rozar ninguna sensibilidad fiscal.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@Rolo_Figueroa (Neuquén)",
+      "temas_mencionados": [
+        "Condolencias institucionales"
+      ],
+      "postura_politica": "Agenda local sin impacto federal. Silencio total frente a la macroeconomía.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@WeretilneckOK (Río Negro)",
+      "temas_mencionados": [
+        "Turismo",
+        "Fiesta del Chocolate"
+      ],
+      "postura_politica": "Refugio en la agenda de cabotaje. Exalta los eventos turísticos locales como pantalla frente a la ausencia de anuncios políticos de peso.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+      "temas_mencionados": [
+        "Identidad patagónica",
+        "Territorio"
+      ],
+      "postura_politica": "Repliegue simbólico. Apela al chovinismo provincial como escudo para no tener que dar definiciones sobre la disputa nacional.",
+      "frase_fuerte": "En la estepa, en nuestros campos, en la fauna que forma parte de esta tierra, está nuestra identidad."
+    },
+    {
+      "gobernador": "@maxipullaro (Santa Fe)",
+      "temas_mencionados": [
+        "Seguridad",
+        "Guerra de Malvinas"
+      ],
+      "postura_politica": "Endurecimiento institucional. Se apalanca en el patriotismo y el rigor de los datos de seguridad, construyendo un perfil de autoridad al margen del ruido nacional.",
+      "frase_fuerte": "La seguridad en Santa Fe es nuestra prioridad."
+    },
+    {
+      "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+      "temas_mencionados": [
+        "Sábado de Gloria",
+        "Reflexión"
+      ],
+      "postura_politica": "Gestión protocolar aislada. Voz delegada del oficialismo zamorista que acata un estricto silencio sobre la crisis estructural.",
+      "frase_fuerte": null
+    }
+  ]
+}
