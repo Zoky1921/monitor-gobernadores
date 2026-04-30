@@ -149,7 +149,7 @@ async function cargarTablero(fecha) {
                     <div style="text-align: center; padding: 25px; color: #cbd5e1; background-color: rgba(30, 41, 59, 0.5); border-radius: 8px; border: 1px dashed #334155;">
                         <h4 style="color: #38bdf8; margin-bottom: 10px;">No hay informes para el ${fecha} (${turnoVisual}).</h4>
                         <p style="margin: 0; font-size: 0.95rem;">Los datos se procesan en dos turnos:</p>
-                        <p style="margin: 0; font-size: 0.95rem;">Por la <strong>mañana (10:45 aprox)</strong> y por la <strong>noche (20:15 aprox)</strong>.</p>
+                        <p style="margin: 0; font-size: 0.95rem;">Por la <strong>mañana (11:15 aprox)</strong> y por la <strong>noche (21:15 aprox)</strong>.</p>
                     </div>
                 `;
             }
