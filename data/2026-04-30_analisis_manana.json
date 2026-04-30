@@ -1,0 +1,39 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores de Chaco y Tucumán lideran la agenda federal con un fuerte énfasis en la seguridad pública y el sostenimiento de la infraestructura básica frente a la crisis. Leandro Zdero (Chaco) ratificó una postura intransigente contra los cortes de ruta bajo la premisa de no ceder ante 'extorsiones ni amenazas', mientras que Osvaldo Jaldo (Tucumán) supervisó una inversión millonaria en obras hídricas para mitigar el impacto de temporales. Ambas administraciones priorizan la gestión territorial y la respuesta inmediata, distanciándose de la incertidumbre nacional mediante el uso de recursos propios y una narrativa de orden institucional.",
+    "analisis_profundo": "La dinámica federal de la jornada se asienta sobre los pilares de la institucionalización del orden público y la autonomía en la ejecución de infraestructura crítica. En la provincia del Chaco, Leandro Zdero (Chaco) ha marcado una línea divisoria tajante respecto a la conflictividad social. Al declarar que su administración 'no cederá ante extorsiones ni amenazas', el mandatario no solo busca garantizar la libre circulación frente a los tradicionales cortes de ruta, sino que también intenta refundar la autoridad política provincial bajo una narrativa de legalidad y previsibilidad. Esta postura se presenta como una respuesta directa a las prácticas de presión callejera, posicionando al distrito como un espacio que prioriza el derecho al tránsito por sobre el reclamo sectorial.\n\nSimultáneamente, en el NOA, Osvaldo Jaldo (Tucumán) despliega una agenda de gestión pragmática y de alto impacto territorial. La supervisión de las obras en el Canal Sur, que cuentan con una inversión de 1.400 millones de pesos, constituye una pieza central de su estrategia para blindar al Gran San Miguel de Tucumán frente a las inclemencias climáticas. En un escenario donde la obra pública nacional enfrenta demoras, Jaldo enfatiza el uso de fondos propios y la eficiencia administrativa como herramientas para sostener la calidad de vida de los tucumanos. Este enfoque se complementa con una política de seguridad que pone el foco en la respuesta directa a las necesidades de la gente, intentando ofrecer resultados tangibles en áreas de alta sensibilidad.\n\nEste escenario de 'gestión activa' revela cómo las provincias están asumiendo roles protagónicos frente a la parálisis de recursos centrales. Mientras Leandro Zdero (Chaco) asume el costo político de confrontar con los movimientos sociales para normalizar la vida cotidiana, Osvaldo Jaldo (Tucumán) asume el desafío financiero de infraestructuras de gran escala. El resultado es un mapa federal donde el éxito político depende cada vez más de la capacidad de los mandatarios para mostrar autonomía operativa y capacidad de respuesta frente a las demandas básicas de seguridad y hábitat, independientemente de las fluctuaciones de la política nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Garantía de libre circulación y prohibición de cortes de ruta",
+            "gobernadores_involucrados": ["@LeandroZdero"]
+        },
+        {
+            "tema": "Infraestructura hídrica estratégica y prevención de inundaciones",
+            "gobernadores_involucrados": ["@OsvaldoJaldo"]
+        },
+        {
+            "tema": "Inversión en obra pública con recursos propios y apoyo nacional",
+            "gobernadores_involucrados": ["@OsvaldoJaldo"]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@LeandroZdero",
+        "texto": "NO VAMOS A CEDER ANTE EXTORSIONES NI AMENAZAS. No más cortes, garantizamos libre circulación.",
+        "por_que_es_clave": "Representa un endurecimiento de la postura política provincial frente a la protesta social y establece un precedente de orden público en la región.",
+        "pregunta_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": ["Orden público", "Libre circulación"],
+            "postura_politica": "Mantiene una línea de confrontación directa contra los movimientos sociales, priorizando la transitabilidad y la seguridad vial sobre las protestas, a las que califica como extorsiones.",
+            "frase_fuerte": "NO VAMOS A CEDER ANTE EXTORSIONES NI AMENAZAS."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": ["Infraestructura", "Gestión hídrica"],
+            "postura_politica": "Enfocado en la supervisión de obras de gran envergadura para prevenir inundaciones, destacando la administración responsable de recursos propios en un contexto económico complejo.",
+            "frase_fuerte": "En este contexto nacional tan complejo, en nuestra provincia seguimos apostando a la obra pública con recursos propios y el apoyo de la Nación."
+        }
+    ]
+}
