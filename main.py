@@ -473,7 +473,7 @@ TWEETS A ANALIZAR:
                 raise RuntimeError("❌ [Camino 1] Ni Gemini, ni DeepSeek, ni Groq devolvieron respuesta.")
 
             raw_text = _limpiar_json_llm(raw_text)
-            resumen_data = json.loads(raw_text)
+            resumen_data = json.loads(repair_json(raw_text))
 
             # --- 5. AUDITORÍA OPENARG (FRANCOTIRADOR) ---
             if "tweet_destacado" in resumen_data:
