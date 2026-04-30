@@ -1,0 +1,253 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una fuerte tensión entre las provincias y el Gobierno Nacional, con gobernadores como Axel Kicillof (Buenos Aires), Gildo Insfrán (Formosa) y Hugo Passalacqua (Misiones) elevando reclamos por desfinanciamiento en áreas críticas como la alimentación escolar y la asistencia a personas con discapacidad. Simultáneamente, la gestión local acaparó gran parte de la agenda, con Martín Llaryora (Córdoba), Alberto Weretilneck (Río Negro) y Claudio Poggi (San Luis) destacando inversiones en viviendas e infraestructura con fondos propios. La 'Mesa del Litio' continuó reuniendo a mandatarios del Norte Grande para definir estrategias de desarrollo, mientras Rolando Figueroa (Neuquén) dialogó con el Ministro de Economía nacional sobre inversiones en energía.",
+    "analisis_profundo": "El escenario político federal se encuentra dominado por la fricción constante entre las administraciones provinciales y el Gobierno Nacional. Axel Kicillof (Buenos Aires) e Gildo Insfrán (Formosa) encabezaron los señalamientos, acusando a Nación de generar una crisis social y de desatender responsabilidades como el Servicio Alimentario Escolar. Insfrán, además, rechazó un supuesto 'proyecto de intervención' provincial, sugiriendo un intento de desviar la atención de la crisis económica nacional. Hugo Passalacqua (Misiones) reforzó esta narrativa al anunciar medidas provinciales para paliar la falta de asistencia nacional en programas para personas con discapacidad, evidenciando una estrategia de 'Estado presente' a nivel subnacional frente a la retirada federal.\n\nEn paralelo, la agenda de gestión local fue intensiva, con un notable énfasis en la autonomía y la capacidad de las provincias para ejecutar obras. Martín Llaryora (Córdoba) destacó inauguraciones de viviendas, obras viales y sedes universitarias, incluso criticando el desfinanciamiento nacional en educación superior. Claudio Poggi (San Luis) anunció importantes inversiones en infraestructura vial y viviendas, sumando un programa educativo para 'Una Hora Más' de clase. Alberto Weretilneck (Río Negro) mostró una gestión activa en seguridad, viviendas y desarrollo minero, articulando incluso financiamiento internacional para la gestión de residuos. Rolando Figueroa (Neuquén) mantuvo un diálogo directo con el Ministro de Economía nacional para impulsar el Régimen de Incentivo para Grandes Inversiones (RIGI) y nuevas inversiones energéticas, marcando una postura más pragmática en la relación con Nación. Alfredo Cornejo (Mendoza) consolidó su provincia como polo turístico y minero, mientras Carlos Sadir (Jujuy) y Gustavo Sáenz (Salta) se reunieron en la Mesa del Litio para coordinar estrategias de desarrollo de un recurso clave. El clima general refleja una polarización donde las provincias refuerzan su capacidad de respuesta y demandan previsibilidad a una administración central percibida como distante o restrictiva.",
+    "temas_calientes": [
+        {
+            "tema": "Desfinanciamiento Nacional y Reclamos Federales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@insfran_gildo",
+                "@passalacquaok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Desarrollo Minero y Mesa del Litio",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@GustavoSaenzOK",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Inversión Provincial en Infraestructura y Vivienda",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Gestión de Salud y Políticas Alimentarias",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@passalacquaok",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@GustavoSaenzOK",
+        "texto": "En Jujuy participé de una nueva reunión de la Mesa del Litio junto a los gobernadores @carlossadirjuy y @RaulJalil_ok, convencidos de que el norte argentino tiene una oportunidad histórica. Tenemos todo lo que el mundo necesita. Pero para crecer de verdad, necesitamos algo fundamental: políticas de Estado, previsibilidad y reglas de juego claras a nivel país. Estoy convencido de que solo así podremos proyectar a la Argentina como un país serio, generar confianza y atraer inversiones que se traduzcan en trabajo, desarrollo y más oportunidades de crecimiento para nuestra gente. Seguimos avanzando en una agenda común, con el acompañamiento del @CFI_Argentina, para fortalecer el desarrollo de toda la región. Agradezco especialmente al gobernador Carlos Sadir por recibirnos y seguir consolidando este espacio de trabajo conjunto.",
+        "por_que_es_clave": "El gobernador de Salta articula la visión de las provincias del Norte Grande sobre la necesidad de una política de Estado y reglas de juego claras a nivel nacional para el desarrollo de recursos estratégicos como el litio. Destaca la oportunidad histórica de la región para atraer inversiones y generar empleo, lo que posiciona a las provincias como actores clave en la definición de la estrategia económica federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Reclamo a Nación",
+                "Asistencia Alimentaria Escolar",
+                "Crisis Económica"
+            ],
+            "postura_politica": "Fuerte crítica al Gobierno Nacional por el desfinanciamiento y la crisis social, asumiendo un rol de contención provincial y demandando responsabilidad en la garantía de derechos básicos.",
+            "frase_fuerte": "Milei tiene que hacerse cargo de la crisis que está generando en los hogares de los bonaerenses."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Orden Público",
+                "Explotación Infantil",
+                "Migración Ilegal"
+            ],
+            "postura_politica": "Enfocado en la aplicación de 'ley y orden', combatiendo la usurpación y la explotación, con énfasis en la expulsión de inmigrantes ilegales y la defensa de la seguridad ciudadana.",
+            "frase_fuerte": "Esto es lo que protegen los defensores de okupas."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Asistencia por Temporal",
+                "Plan de Contingencia"
+            ],
+            "postura_politica": "Resalta la acción del gobierno provincial en la asistencia a damnificados por eventos climáticos extremos, mostrando un Estado presente en la emergencia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Viviendas",
+                "Educación Superior",
+                "Salud (PAMI)",
+                "Federalización Universitaria"
+            ],
+            "postura_politica": "Centrado en la gestión provincial y la inversión en obras y servicios con fondos propios, criticando el desfinanciamiento nacional en universidades y la situación de PAMI, al tiempo que reafirma el compromiso con la educación pública.",
+            "frase_fuerte": "No voy a dejar a nuestros abuelos sin salud."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Obras de Infraestructura Local"
+            ],
+            "postura_politica": "Destaca la inversión provincial en obras de desarrollo local y turístico, impulsando la mejora de la calidad de vida en las comunidades.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Reclamo a Nación",
+                "Autonomía Provincial",
+                "Salarios",
+                "Defensa del Modelo Provincial"
+            ],
+            "postura_politica": "Crítico con el Gobierno Nacional, defendiendo la estabilidad y los logros de la gestión provincial en salarios y servicios frente a los recortes y supuestos intentos de intervención.",
+            "frase_fuerte": "Su enérgico repudio y rechazo al proyecto de intervención de la provincia presentado por la oposición local, como intento de desviar la atención a la triste realidad que se vive en el país por la gran cantidad de despidos, cierres de fuentes de trabajo y pérdida del poder adquisitivo de las familias argentinas."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Mesa del Litio",
+                "Desarrollo Minero",
+                "Federalismo"
+            ],
+            "postura_politica": "Impulsa el desarrollo minero regional a través de la cooperación interprovincial, buscando un crecimiento sostenido para la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Derechos"
+            ],
+            "postura_politica": "Defensa enfática de la salud como un derecho garantizado por el Estado provincial, reafirmando el compromiso con el bienestar de su gente.",
+            "frase_fuerte": "ACÁ LA SALUD SIGUE SIENDO UN DERECHO."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Turismo",
+                "Minería",
+                "Desarrollo Económico"
+            ],
+            "postura_politica": "Promueve la provincia como un centro de turismo de reuniones y un polo minero con proyección internacional, buscando la estabilidad macroeconómica y reglas claras a nivel nacional para atraer inversiones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Salud Local",
+                "Asistencia a Discapacidad",
+                "Retiro de Nación"
+            ],
+            "postura_politica": "Comprometido con la salud y la asistencia social a nivel provincial, respondiendo con fondos propios ante la ausencia de apoyo nacional en áreas sensibles.",
+            "frase_fuerte": "Ante el retiro de la Nación en la asistencia a personas con discapacidad, en Misiones implementamos una medida concreta para sostener el funcionamiento de los centros."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inversiones Energéticas (RIGI)",
+                "Becas Educativas",
+                "Obras de Agua",
+                "Competitividad"
+            ],
+            "postura_politica": "Proactivo en la búsqueda de inversiones y mejora de la competitividad, destacando la implementación del RIGI y la colaboración con el gobierno nacional en temas económicos estratégicos para el crecimiento provincial.",
+            "frase_fuerte": "Se vienen nuevos proyectos RIGI con más inversiones para Neuquén, que permitirán acelerar el crecimiento y el empleo neuquino."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Viviendas",
+                "Seguridad",
+                "Minería",
+                "Gestión de Residuos",
+                "Salarios Estatales"
+            ],
+            "postura_politica": "Enfatiza la gestión provincial con fondos propios, el fortalecimiento de la seguridad con acciones concretas y la apuesta por el desarrollo minero sostenible, garantizando el cumplimiento de los salarios estatales.",
+            "frase_fuerte": "En Río Negro hay una decisión clara: el que delinque, no tiene lugar."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Mesa del Litio",
+                "Políticas de Estado",
+                "Inversiones",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Aboga por políticas de Estado claras y previsibilidad a nivel nacional para atraer inversiones en el sector minero y generar desarrollo en la región del Norte Grande.",
+            "frase_fuerte": "Tenemos todo lo que el mundo necesita. Pero para crecer de verdad, necesitamos algo fundamental: políticas de Estado, previsibilidad y reglas de juego claras a nivel país."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obras Viales",
+                "Viviendas",
+                "Educación (Una Hora Más, Habilidades Matemáticas)"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura y educación como motores de crecimiento y empleo provincial, implementando programas que buscan mejorar la calidad educativa y la seguridad vial.",
+            "frase_fuerte": "OBRA PÚBLICA, INFRAESTRUCTURA VIAL y NUEVOS PUESTOS DE TRABAJO."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Salud (Tomógrafo)",
+                "Apoyo a Municipios",
+                "Producción"
+            ],
+            "postura_politica": "Resalta la inversión en salud para saldar 'deudas históricas' y el trabajo conjunto con municipios para impulsar el desarrollo productivo, mostrando un Estado activo en la mejora de servicios esenciales.",
+            "frase_fuerte": "DECIDIMOS TERMINAR CON LA ESPERA DE AÑOS DE NUESTROS VECINOS, HOY LA CUENCA TIENE TOMÓGRAFO Y NUEVA SALA"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Asistencia por Lluvias",
+                "Escrituras de Viviendas",
+                "Gestión Local"
+            ],
+            "postura_politica": "Foco en la presencia territorial y la respuesta a necesidades locales, como la emergencia climática y la regularización dominial, destacando un compromiso con el norte productivo de la provincia.",
+            "frase_fuerte": "Es importante estar siempre en el territorio, para escuchar y dar respuestas al norte productivo de nuestra Provincia que tantas veces fue olvidado y postergado."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Reforma del Estado",
+                "Reducción del Gasto Político",
+                "Convocatoria a Constituyentes"
+            ],
+            "postura_politica": "Impulsa una reforma del Estado para modernizar la provincia y reducir el gasto político sin afectar derechos, a través de la convocatoria a una convención constituyente.",
+            "frase_fuerte": "Promovemos una reforma que nos permita reducir el gasto político, fortalecer las instituciones y proyectar una provincia más justa y moderna, sin afectar derechos ni servicios esenciales."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Superávit Fiscal",
+                "Empleo Formal",
+                "Apoyo a Emprendedores",
+                "Seguridad",
+                "Transporte Público",
+                "PASO",
+                "Producción de Café"
+            ],
+            "postura_politica": "Destaca el orden fiscal y el crecimiento del empleo provincial, reafirmando el compromiso con el sector productivo y la inversión en seguridad. Crítico con el sistema de transporte actual y defensor de las PASO mejoradas.",
+            "frase_fuerte": "Tucumán es una de las siete provincias de la Argentina que cerraron el 2025 con superávit fiscal."
+        }
+    ]
+}
