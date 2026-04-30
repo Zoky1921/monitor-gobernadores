@@ -1,0 +1,75 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de bajo voltaje federal: Kicillof (Buenos Aires) marca territorio ideológico con RT de Madres y dictadura; Zdero (Chaco) aprieta contra 'extorsiones' en rutas sin aludir a Nación; efemérides locales en Corrientes y Formosa. Ausencia de caja, coparticipación o litio. Gobernadores se parapetan en gestión municipal/provincial, erosionando relato nacional de Milei.",
+    "analisis_profundo": "El 30 de abril revela un subsuelo político en ebullición contenida, donde la superficie protocolar oculta un apagón estratégico coordinado. Kicillof (Buenos Aires), con su RT de la primera Marcha de Madres, no saluda efeméride inocua: es un dardo envenenado al 'modelo económico' mileísta, recordando dictadura cívico-militar para legitimar su narrativa de 'crisis en hogares bonaerenses' vía deudas SAE. ¿Casualidad que coincida con reclamos previos por $220M adeudados? No: es cartelizacion simbólica del peronismo K para desgastar a Casa Rosada, usando PBA (40% PBI) como ariete fiscal sin mover ficha abierta.\n\nZdero (Chaco) irrumpe con 'NO VAMOS A CEDER ANTE EXTORSIONES', garantizando 'libre circulación' contra cortes. ¿A quién apunta? Al piquetero residual o al federalismo salvaje que paraliza rutas productivas? En Chaco agroexportador, es marca de autonomía frente a reclamos sociales que podrían escalar a Nación, pero lee como guiño a Caputo: 'nosotros ordenamos, Milei no interfiera'. Aislamiento chaqueño debilita Casa Rosada, que pierde relato de 'orden' en provincias aliadas.\n\nValdés (Corrientes) y Insfrán (Formosa) en efemérides puras: Fiesta Surubí y aniversario local. Protocolo que es política en Argentina: Valdés reivindica turismo NEA sin roce nacional; Insfrán, bunkerizado, usa #TodosUnidos para blindar Formosa ante rumores intervencionistas. Silencios elocuentes de pesos pesados como Llaryora (Córdoba) o Pullaro (Santa Fe): ¿coordinan apagón para forzar caja en DNU glaciares/litio?\n\nEl test de ausencia grita: no hay mención coparticipación, RIGI, deuda provincial. Es un juego de espejos donde gobernadores federalistas (Cornejo RT ANMAT/medicamentos) fingen alineación mientras oficialistas como Zdero marcan distancia sutil. Casa Rosada sangra legitimidad: si provincias se aíslan en gestión, el ajuste nacional queda huérfano. ¿Próximo: Mesa Litio NOA aprieta sin Nación? El federalismo no pide, exige.",
+    "temas_calientes": [
+        {
+            "tema": "Efemérides como marca ideológica/territorial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@gustavovaldesok",
+                "@insfran_gildo"
+            ]
+        },
+        {
+            "tema": "Seguridad vial y anti-extorsión en rutas",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Gestión administrativa (salud/medicamentos)",
+            "gobernadores_involucrados": [
+                "@alfredocornejo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@LeandroZdero (Chaco)",
+        "texto": "NO VAMOS A CEDER ANTE EXTORSIONES NI AMENAZAS. No más cortes, garantizamos libre circulación.",
+        "por_que_es_clave": "Posiciona Chaco como garante de orden vial en rutas productivas, sutil desafío a reclamos sociales que podrían escalar federalmente; erosiona relato nacional de 'libertad' si Nación no respalda.",
+        "pregunta_openarg": "¿Zdero aprieta piqueteros o prepara terreno para reclamos coparticipables por rutas nacionales abandonadas?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Efemérides ideológicas"
+            ],
+            "postura_politica": "RT Madres Plaza de Mayo evoca dictadura para victimizar PBA ante 'recortes SAE'; subtexto: Milei desfinancia, Kicillof contiene con caja provincial. Daño a relato ajuste nacional.",
+            "frase_fuerte": "30 de abril, primera Marcha de Madres de Plaza de Mayo 🤍 A un año del inicio de la última dictadura cívico-militar..."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Seguridad vial"
+            ],
+            "postura_politica": "Anti-extorsiones en rutas marca autonomía; ignora Nación pero lee como 'nosotros ordenamos solos'. Aislamiento chaqueño debilita hegemonía Casa Rosada en LLA.",
+            "frase_fuerte": "NO VAMOS A CEDER ANTE EXTORSIONES NI AMENAZAS. No más cortes, garantizamos libre circulación."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Turismo"
+            ],
+            "postura_politica": "Fiesta Surubí es protocolo que reivindica NEA productivo sin roce federal; agenda local sin impacto caja.",
+            "frase_fuerte": "Comenzó la 49º Fiesta Nacional del Surubí... con récord de más de 1400 embarcaciones."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Efemérides"
+            ],
+            "postura_politica": "Aniversario local con #TodosUnidos blinda bunker ante rumores intervención; opacidad formoseña ignora agenda nacional.",
+            "frase_fuerte": "ANIVERSARIO SUBTENIENTE PERÍN... ¡Muchas felicidades!"
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud"
+            ],
+            "postura_politica": "RT ANMAT/medicamentos finge federalismo pro-Milei; subtexto: Mendoza importa libremente, pero ¿quién paga caja glaciares/minería?",
+            "frase_fuerte": null
+        }
+    ]
+}
