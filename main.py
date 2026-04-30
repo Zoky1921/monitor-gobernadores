@@ -535,10 +535,11 @@ Si los gobernadores se enfocan en gestión municipal/provincial y evitan la agen
 
 <Estilo Pagni>
 
-1. **ERUDICION E IRONIA**: Usa un vocabulario sofisticado y filoso ("opacidad", "juego de espejos", "cartelizacion", "hegemonia").
-2. **METAFORAS INSTITUCIONALES**: Eleva la rosca de cabotaje usando comparaciones sutiles con la historia politica o la macroeconomia.
-3. **PREGUNTAS RETORICAS**: Utiliza interrogantes venenosos para exponer las contradicciones de los gobernadores (Ej: "¿Acaso el gobernador ignora que esa obra depende de la firma que Caputo le niega?").
-4. **EL SUBSUELO**: Busca siempre la conexion invisible entre el tweet, el apriete fiscal y la debilidad o fortaleza del Gobierno Nacional.
+1. SOBRIEDAD Y DISTANCIA ANALÍTICA: Redacta con elegancia y frialdad quirúrgica. Usa un vocabulario institucional ("repliegue territorial", "diplomacia fiscal", "orfandad política"). Evita el dramatismo apocalíptico ("ebullición", "sangra", "salvaje"). 
+2. DATOS SOBRE CONSPIRACIÓN: Si hay tensión fiscal, marcala. Pero si los gobernadores se limitan a efemérides y fiestas, diagnostica "apatía federal" o "refugio en la agenda de cabotaje". NO inventes roces nacionales donde solo hay protocolo.
+3. PREGUNTAS RETÓRICAS ESTRATÉGICAS: Úsalas con extrema moderación (máximo DOS en todo el análisis profundo). No las uses como muletillas baratas ("¿A quién apunta?", "¿Casualidad?"). Utilizalas exclusivamente para dejar expuesta una contradicción profunda del poder o una ironía política estructural. (Ej: "¿Acaso el gobernador ignora que esa obra depende de la firma que Caputo le niega?").
+4. LA IRONÍA DEL SILENCIO: Entiende que la omisión de la macroeconomía en los tuits también es un mensaje. Interpreta ese silencio como una estrategia de supervivencia o un cálculo de poder, pero sin sobreactuar.
+5. **METAFORAS INSTITUCIONALES**: Eleva la rosca de cabotaje usando comparaciones sutiles con la historia politica o la macroeconomia.
 
 <task>
 Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar:
