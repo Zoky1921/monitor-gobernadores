@@ -1,0 +1,112 @@
+{
+    "clima_general": "CONFLICTO",
+    "resumen_ejecutivo": "Los gobernadores concentran la agenda en el Día del Trabajador, pero el tono es marcadamente conflictivo con el Estado Nacional. Axel Kicillof (Buenos Aires) y Sergio Ziliotto (La Pampa) denuncian el ajuste y la destrucción de empleo, mientras Hugo Passalacqua (Misiones) presenta un discurso legislativo con medidas de alivio fiscal y nuevos programas sociales para contrarrestar la crisis. Leandro Zdero (Chaco) y Alfredo Cornejo (Mendoza) enfatizan gestión local y obras. La tensión federal se expresa en reclamos por coparticipación, rutas nacionales y programas sociales desfinanciados.",
+    "analisis_profundo": "El Día del Trabajador actúa como catalizador de la conflictividad federal. Axel Kicillof (Buenos Aires) articula un discurso de confrontación directa, describiendo una 'Argentina desigual donde ganan unos pocos' y responsabilizando al Gobierno nacional por la crisis alimentaria y sanitaria. Su postura marca la línea más dura de la oposición provincial. Sergio Ziliotto (La Pampa) profundiza esta crítica, afirmando que 'el ajuste no es un número: se siente en cada casa' y conectando la pérdida de derechos laborales con decisiones nacionales. Hugo Passalacqua (Misiones), en su discurso ante la Legislatura, adopta una estrategia dual: detalla un paquete de medidas provinciales ('Ahora Verdulería', 'Ahora Sepelios', suspensión del pago a cuenta para pymes) para amortiguar el impacto de la 'contracción económica', mientras expone la inequidad de la coparticipación, señalando que Misiones recibe menos per cápita que sus vecinos del NEA. Esta combinación de gestión compensatoria y reclamo fiscal es un patrón emergente. Leandro Zdero (Chaco) y Alfredo Cornejo (Mendoza) optan por un tono más gestionario, destacando obras de infraestructura y conectividad, aunque Cornejo (Mendoza) también menciona la necesidad de 'racionalidad económica' para crear empleo. Gildo Insfrán (Formosa) utiliza la fecha para reforzar su modelo provincial y rechazar un proyecto de intervención federal presentado por la oposición local, mostrando una tensión intraprovincial adicional. El clima general es de CONFLICTO, no solo por la crítica económica, sino por la percepción de abandono en infraestructura nacional (rutas) y programas sociales (Remediar, alimentario), que fuerza a las provincias a actuar como Estado subsidiario.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al modelo económico nacional y defensa del empleo y derechos laborales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@insfran_gildo",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Gestión provincial compensatoria: programas de alivio fiscal y social para amortiguar la crisis",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Reclamo por inequidad en la coparticipación y desfinanciamiento federal",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura vial y conectividad como eje de desarrollo local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@alfredocornejo",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Defensa del modelo provincial y rechazo a iniciativas de intervención federal",
+            "gobernadores_involucrados": [
+                "@insfran_gildo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "A los comerciantes y empresarios pyme; a los jóvenes que ya no pueden ni soñar con alquilar; a los trabajadores despedidos y a los que se esfuerzan todos los días para salir adelante en esta Argentina desigual donde ganan unos pocos mientras la enorme mayoría la pasa cada vez peor. A todos ellos quiero decirles que no les vamos a dar la espalda y, aunque quieran convencernos de que no hay alternativa, vamos a construir ese futuro posible en el que nuestro pueblo trabajador pueda vivir mejor.",
+        "por_que_es_clave": "Es el posicionamiento político más contundente del día, dirigido directamente a las bases afectadas por la crisis económica, estableciendo una narrativa de confrontación con el Gobierno nacional y prometendo una alternativa desde la provincia.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al modelo económico",
+                "Defensa del empleo",
+                "Reclamo por programas sociales nacionales"
+            ],
+            "postura_politica": "Posición frontal de oposición. Denuncia la desigualdad y la destrucción de empleo, responsabilizando al Gobierno nacional. Promete construir una alternativa desde la provincia, enfatizando la defensa de los trabajadores y los programas sociales desfinanciados.",
+            "frase_fuerte": "A los comerciantes y empresarios pyme; a los jóvenes que ya no pueden ni soñar con alquilar; a los trabajadores despedidos y a los que se esfuerzan todos los días para salir adelante en esta Argentina desigual donde ganan unos pocos mientras la enorme mayoría la pasa cada vez peor."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Gestión local",
+                "Conectividad"
+            ],
+            "postura_politica": "Foco en la gestión concreta y obras de infraestructura. Anuncia obras históricas en Resistencia y destaca el dinamismo del Puerto de Barranqueras. Su tono es proactivo y centrado en el desarrollo provincial, sin confrontación explícita.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Crítica al ajuste nacional",
+                "Defensa del trabajo",
+                "Política habitacional"
+            ],
+            "postura_politica": "Crítica profunda al 'ajuste' nacional, describiendo su impacto social en 'cada casa'. Reafirma la defensa del trabajo como derecho y prioriza la política habitacional provincial como respuesta. Postura claramente opositora y con fuerte contenido social.",
+            "frase_fuerte": "El ajuste no es un número: se siente en cada casa, en cada familia que recorta, que posterga y que se preocupa, con consecuencias sociales, institucionales y económicas negativas que aún no alcanzamos a dimensionar y que no serán fáciles de reconstruir."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Día del Trabajador",
+                "Gestión provincial",
+                "Infraestructura"
+            ],
+            "postura_politica": "Saludo protocolar al Día del Trabajador, combinado con un mensaje de gestión que vincula la creación de empleo con 'racionalidad económica'. Anuncia obras de infraestructura (anillo digital en San Rafael) y prepara su discurso legislativo. Postura más técnica y menos confrontativa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Alivio fiscal y social",
+                "Crítica a la coparticipación",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Presenta un extenso discurso legislativo con medidas concretas para amortiguar la crisis ('Ahora Verdulería', 'Ahora Sepelios', suspensión de pago a cuenta para pymes). Simultáneamente expone la inequidad de la coparticipación. Estrategia de gestión compensatoria combinada con reclamo fiscal.",
+            "frase_fuerte": "La Ley de Coparticipación Federal modificada en 1988 que nos hizo perder el 30% de esos recursos, aún opera con coeficientes fijos que hoy no reflejan el crecimiento demográfico y productivo de Misiones."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Día del Trabajador",
+                "Defensa del modelo provincial",
+                "Rechazo a intervención federal"
+            ],
+            "postura_politica": "Utiliza la fecha para reforzar el 'Modelo Formoseño', destacando la distribución de recursos 'para el beneficio del pueblo'. Denuncia políticas nacionales y rechaza un proyecto de intervención federal presentado por la oposición local. Postura defensiva del modelo provincial y confrontativa con la Nación.",
+            "frase_fuerte": "El mundo está muy convulsionado y el contexto nacional no ayuda para nada. Como ejemplo, hoy vemos cómo las obras sociales están en un muy mal momento económico, casi fundidas, fundamentalmente nacionales como el PAMI, y sus afiliados están recurriendo al sistema de salud pública de la provincia. Nosotros no les vamos a dar la espalda; se les va a brindar el servicio a todos."
+        }
+    ]
+}
