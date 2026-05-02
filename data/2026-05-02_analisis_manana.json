@@ -1,0 +1,64 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada actual y las últimas horas de ayer muestran una actividad dispar entre los gobernadores. Sergio Ziliotto (La Pampa) adoptó una postura abiertamente confrontativa con el gobierno nacional, denunciando el abandono de obras de vivienda y utilizando una retórica fuerte aludiendo a 'militantes de la crueldad'. En contraste, Rolando Figueroa (Neuquén) se concentró en la promoción del desarrollo económico local a través del turismo y la gastronomía, mientras que Oscar Herrera Ahuad (Misiones) realizó una mención institucional genérica sobre la legislatura provincial. Esto marca una dicotomía entre la confrontación federal y el enfoque en la gestión provincial autónoma.",
+    "analisis_profundo": "La agenda federal de las últimas horas se ha concentrado en pocos actores, destacándose las marcadas diferencias en las estrategias políticas de los gobernadores frente al escenario nacional. Sergio Ziliotto (La Pampa) fue el más explícito en su crítica al gobierno central, al denunciar el abandono de importantes obras de vivienda y afirmar que su provincia se ha hecho cargo de la finalización de estas, a pesar de la inacción nacional. Su declaración, que incluye una fuerte referencia a 'militantes de la crueldad', sugiere una escalada en la tensión entre La Pampa y la Nación, especialmente en lo que respecta a la distribución y ejecución de recursos para la obra pública. Este posicionamiento refuerza la narrativa de defensa de la autonomía provincial frente a un gobierno central que, según Ziliotto (La Pampa), desatiende necesidades fundamentales de la población.\n\nPor otro lado, Rolando Figueroa (Neuquén) optó por una comunicación enfocada en la gestión y el desarrollo endógeno. Su participación en la 'Fiesta Nacional del Chef Patagónico' y su énfasis en la integración de la producción, el turismo y la gastronomía, reflejan una estrategia para potenciar la economía regional y generar oportunidades de empleo desde la provincia. Este enfoque, más allá de cualquier conflicto federal, busca capitalizar los recursos y la identidad neuquina para fomentar un crecimiento sostenido. El mensaje de Figueroa (Neuquén) es un ejemplo de cómo algunas provincias buscan blindar su desarrollo a través de iniciativas locales y la valorización de sus activos propios.\n\nFinalmente, Oscar Herrera Ahuad (Misiones) se mantuvo en un tono institucional, haciendo una referencia general a un 'momento importante' en la legislatura provincial. La ausencia de declaraciones de otros gobernadores en el filtro temporal resalta la focalización de la actividad en estas tres provincias. La jornada evidencia una polarización entre la confrontación explícita por la falta de apoyo nacional y la consolidación de agendas de desarrollo provincial, configurando un clima federal de tensión subyacente ante la divergencia de prioridades y discursos.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la inacción del Gobierno Nacional en obra pública y vivienda",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Impulso al desarrollo económico local, turismo y producción regional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Actividad legislativa e institucional provincial",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "LA FIESTA NACIONAL DEL CHEF PATAGÓNICO LLEGÓ A SU 20° EDICIÓN Celebramos en Villa Pehuenia una nueva edición de nuestra fiesta más emblemática, donde la identidad neuquina se vive en cada plato. Es un cambio que genera oportunidades para quienes producen, emprenden y sostienen la economía local. Actualizamos el Sello Gastronómico e incorporamos el Embajador del Vino, integrando producción, turismo y gastronomía en un modelo neuquino que fortalece el desarrollo y pone en valor lo nuestro.",
+        "por_que_es_clave": "Este tweet es clave porque subraya la estrategia de desarrollo económico de Neuquén centrada en la valorización de la identidad local, la producción, el turismo y la gastronomía, como motores de oportunidades y empleo. Muestra una agenda proactiva de gestión provincial en un contexto de inacción o retiro de fondos nacionales.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Gestión de viviendas",
+                "Crítica a políticas nacionales",
+                "Rol del Estado provincial"
+            ],
+            "postura_politica": "El gobernador Ziliotto (La Pampa) adopta una postura confrontativa con el gobierno nacional, denunciando el abandono de obras de vivienda y asumiendo un rol proactivo para que la provincia las finalice. Subraya la 'dignidad del pueblo' frente a las políticas nacionales de ajuste.",
+            "frase_fuerte": "NI LOS MILITANTES DE LA CRUELDAD, NI LOS CÓMPLICES QUE CALLAN, NOS HARÁN CAMBIAR LAS PRIORIDADES: PRIMERO LA DIGNIDAD DEL PUEBLO."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Gestión legislativa",
+                "Democracia y respeto institucional"
+            ],
+            "postura_politica": "El gobernador Passalacqua (Misiones) mantuvo una postura institucional y protocolar, refiriéndose a una sesión legislativa reciente y destacando el respeto por la democracia. Su mensaje es general y evita posicionamientos políticos específicos o confrontaciones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo económico regional",
+                "Turismo",
+                "Gastronomía",
+                "Producción local"
+            ],
+            "postura_politica": "El gobernador Figueroa (Neuquén) enfoca su agenda en la promoción del desarrollo económico a través del turismo y la gastronomía, destacando eventos que refuerzan la identidad local y generan oportunidades productivas. Su enfoque es de gestión y valorización de recursos propios.",
+            "frase_fuerte": "Es un cambio que genera oportunidades para quienes producen, emprenden y sostienen la economía local."
+        }
+    ]
+}
