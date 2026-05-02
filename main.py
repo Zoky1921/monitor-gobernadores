@@ -546,7 +546,7 @@ TWEETS A ANALIZAR:
             if not raw_text:
                 raise RuntimeError("❌ [Camino 1] Ni Gemini, ni DeepSeek, ni Groq devolvieron respuesta.")
 
-                        required_fields = [
+            required_fields = [
                 "clima_general",
                 "resumen_ejecutivo",
                 "analisis_profundo",
