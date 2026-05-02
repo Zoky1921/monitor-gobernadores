@@ -83,6 +83,80 @@ def _limpiar_json_llm(raw_text: str) -> str:
     if start != -1 and end != -1:
         t = t[start:end+1]
     return t
+def _parsear_y_validar_resumen(
+    raw_text: str,
+    *,
+    required_fields: list,
+    expected_types: dict,
+    contexto: str = "LLM",
+    guardar_raw_en: str | None = None,
+    preview_chars: int = 500,
+):
+    """
+    Limpia, repara, parsea y valida el JSON del LLM.
+
+    - required_fields: lista de claves obligatorias a nivel raíz.
+    - expected_types: dict {campo: tipo_esperado} para validación de tipos (nivel raíz).
+    - guardar_raw_en: si se provee, guarda el raw (ya limpiado) a ese path en caso de error.
+    """
+    raw_limpio = _limpiar_json_llm(raw_text)
+
+    if not raw_limpio or not raw_limpio.strip():
+        raise ValueError(f"[{contexto}] Texto vacío tras limpieza.")
+
+    try:
+        # repair_json(return_objects=True) devuelve objeto Python si puede
+        obj = repair_json(raw_limpio, return_objects=True)
+    except Exception as e:
+        # Guardado y preview para debugging
+        if guardar_raw_en:
+            try:
+                with open(guardar_raw_en, "w", encoding="utf-8") as f:
+                    f.write(raw_limpio)
+            except Exception:
+                pass
+        raise ValueError(
+            f"[{contexto}] Falló repair_json/parseo: {e}. Preview: {raw_limpio[:preview_chars]}"
+        ) from e
+
+    if not isinstance(obj, dict):
+        if guardar_raw_en:
+            try:
+                with open(guardar_raw_en, "w", encoding="utf-8") as f:
+                    f.write(raw_limpio)
+            except Exception:
+                pass
+        raise ValueError(
+            f"[{contexto}] JSON root no es dict: {type(obj)}. Preview: {raw_limpio[:preview_chars]}"
+        )
+
+    faltantes = [c for c in required_fields if c not in obj]
+    if faltantes:
+        if guardar_raw_en:
+            try:
+                with open(guardar_raw_en, "w", encoding="utf-8") as f:
+                    f.write(raw_limpio)
+            except Exception:
+                pass
+        raise ValueError(
+            f"[{contexto}] JSON incompleto. Faltan campos: {faltantes}. Preview: {raw_limpio[:preview_chars]}"
+        )
+
+    # Validación de tipos (nivel raíz)
+    for campo, tipo in (expected_types or {}).items():
+        if campo in obj and tipo is not None and not isinstance(obj[campo], tipo):
+            if guardar_raw_en:
+                try:
+                    with open(guardar_raw_en, "w", encoding="utf-8") as f:
+                        f.write(raw_limpio)
+                except Exception:
+                    pass
+            raise ValueError(
+                f"[{contexto}] Tipo inválido en '{campo}': {type(obj[campo])} (esperado {tipo}). "
+                f"Preview: {raw_limpio[:preview_chars]}"
+            )
+
+    return obj, raw_limpio
 
 def _openrouter_chat_completions(modelo: str, prompt: str, timeout: int = 90, max_tokens: int = 5000, temperature: float = 0.2):
     """Llamada estándar OpenRouter (estilo OpenAI chat.completions). Devuelve (raw_text, usage_dict)."""
@@ -472,8 +546,31 @@ TWEETS A ANALIZAR:
             if not raw_text:
                 raise RuntimeError("❌ [Camino 1] Ni Gemini, ni DeepSeek, ni Groq devolvieron respuesta.")
 
-            raw_text = _limpiar_json_llm(raw_text)
-            resumen_data = json.loads(repair_json(raw_text))
+                        required_fields = [
+                "clima_general",
+                "resumen_ejecutivo",
+                "analisis_profundo",
+                "temas_calientes",
+                "tweet_destacado",
+                "analisis_por_gobernador",
+            ]
+            expected_types = {
+                "clima_general": str,
+                "resumen_ejecutivo": str,
+                "analisis_profundo": str,
+                "temas_calientes": list,
+                "tweet_destacado": dict,
+                "analisis_por_gobernador": list,
+            }
+
+            resumen_data, _raw_limpio_cam1 = _parsear_y_validar_resumen(
+                raw_text,
+                required_fields=required_fields,
+                expected_types=expected_types,
+                contexto="Camino 1",
+                guardar_raw_en=f"data/{fecha_hoy_str}_camino1_raw_fail_{turno}.txt",
+                preview_chars=500,
+            )
 
             # --- 5. AUDITORÍA OPENARG (FRANCOTIRADOR) ---
             if "tweet_destacado" in resumen_data:
@@ -637,44 +734,66 @@ Clasificar y analizar los tweets de los 24 gobernadores argentinos para detectar
             MAX_REINTENTOS_GROK = 3
             raw_text_sub = ""
             usage_sub = {}
+            resumen_subtrama = None
 
-            for intento in range(MAX_REINTENTOS_GROK):
-                print(f"🕵️ [Camino 2] Intento {intento + 1}/{MAX_REINTENTOS_GROK} con Grok...")
-                raw_text_sub, usage_sub = _openrouter_chat_completions(
-                    modelo=MODELO_GROK_SUBTRAMA,
-                    prompt=prompt_subtrama,
-                    timeout=180,
-                    max_tokens=10000,
-                    temperature=0.2,
-                )
-                raw_text_sub = _limpiar_json_llm(raw_text_sub)
-                if raw_text_sub.strip():
-                    print(f"✅ [Camino 2] Grok respondió en intento {intento + 1}.")
-                    break
-                print(f"⚠️ [Camino 2] Grok devolvió vacío en intento {intento + 1}. Esperando 30s...")
-                time.sleep(30)
-
-            if not raw_text_sub.strip():
-                raise RuntimeError("❌ [Camino 2] Grok devolvió vacío en los 3 intentos. Abortando.")
-            resumen_subtrama = repair_json(raw_text_sub, return_objects=True)
-
-            # 🛡️ VALIDAR QUE SEA DICT
-            if not isinstance(resumen_subtrama, dict):
-                raise ValueError(f"❌ [Camino 2] repair_json devolvió {type(resumen_subtrama)}. Preview: {raw_text_sub[:200]}")
-            
-            # 🛡️ VALIDACIÓN POST-PARSE
-            campos_requeridos = [
+            required_fields = [
                 "clima_general",
                 "resumen_ejecutivo",
                 "analisis_profundo",
                 "temas_calientes",
                 "tweet_destacado",
-                "analisis_por_gobernador"
+                "analisis_por_gobernador",
             ]
-            faltantes = [c for c in campos_requeridos if c not in resumen_subtrama]
-            if faltantes:
-                raise ValueError(f"❌ [Camino 2] JSON incompleto. Faltan campos: {faltantes}")
-            
+            expected_types = {
+                "clima_general": str,
+                "resumen_ejecutivo": str,
+                "analisis_profundo": str,
+                "temas_calientes": list,
+                "tweet_destacado": dict,
+                "analisis_por_gobernador": list,
+            }
+
+            for intento in range(MAX_REINTENTOS_GROK):
+                n = intento + 1
+                print(f"🕵️ [Camino 2] Intento {n}/{MAX_REINTENTOS_GROK} con Grok...")
+
+                try:
+                    raw_text_sub, usage_sub = _openrouter_chat_completions(
+                        modelo=MODELO_GROK_SUBTRAMA,
+                        prompt=prompt_subtrama,
+                        timeout=180,
+                        max_tokens=10000,
+                        temperature=0.2,
+                    )
+
+                    ruta_raw_fail = f"data/{fecha_hoy_str}_camino2_grok_raw_fail_{turno}_intento{n}.txt"
+
+                    resumen_subtrama, _raw_limpio_sub = _parsear_y_validar_resumen(
+                        raw_text_sub,
+                        required_fields=required_fields,
+                        expected_types=expected_types,
+                        contexto=f"Camino 2 / Grok intento {n}",
+                        guardar_raw_en=ruta_raw_fail,
+                        preview_chars=500,
+                    )
+
+                    print(f"✅ [Camino 2] JSON válido en intento {n}.")
+                    break  # SOLO si parse+validación OK
+
+                except Exception as e:
+                    print(f"❌ [Camino 2] Intento {n} falló: {e}")
+                    preview = (_limpiar_json_llm(raw_text_sub) or "")[:500]
+                    print(f"🧾 [Camino 2] Preview raw_text_sub (500 chars): {preview}")
+
+                    # Backoff incremental (10s, 20s, 30s)
+                    espera = 10 * n
+                    print(f"⏳ [Camino 2] Reintentando en {espera}s...")
+                    time.sleep(espera)
+                    continue
+
+            if resumen_subtrama is None:
+                raise RuntimeError("❌ [Camino 2] Grok no devolvió un JSON válido tras 3 intentos. Abortando.")
+
             print("✅ [Camino 2] Estructura JSON validada correctamente.")
 
             # Guardar el análisis subtrama
