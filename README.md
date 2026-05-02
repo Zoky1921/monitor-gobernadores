@@ -1,8 +1,6 @@
 # 📡 El Radar Federal
 > **Idiomas / Languages:** [Español] | [English](README.en.md)
 
-# 📡 El Radar Federal
-
 **Plataforma de Inteligencia Política y Análisis Discursivo de la Argentina Federal.**
 
 El Radar Federal es un sistema de monitoreo estratégico que procesa, sistematiza y disecciona el discurso público de los 24 gobernadores argentinos en tiempo real. Utiliza una arquitectura de **Pipeline Dual** para separar la gestión institucional de la "subtrama" del poder.
