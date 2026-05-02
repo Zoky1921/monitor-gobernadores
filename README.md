@@ -1,4 +1,7 @@
 # 📡 El Radar Federal
+> **Idiomas / Languages:** [Español] | [English](README.en.md)
+
+# 📡 El Radar Federal
 
 **Plataforma de Inteligencia Política y Análisis Discursivo de la Argentina Federal.**
 
