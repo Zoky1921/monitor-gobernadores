@@ -1,8 +1,6 @@
 # 📡 El Radar Federal (Federal Radar)
 > **Idiomas / Languages:** [Spanish](README.md) | [English]
 
-# 📡 El Radar Federal (Federal Radar)
-
 **Strategic Intelligence & Discursive Analysis Platform for the Argentine Federal Landscape.**
 
 Federal Radar is a strategic monitoring system designed to process, systematize, and dissect the public discourse of Argentina's 24 provincial governors in real-time. It utilizes a **Dual Pipeline** architecture to separate institutional management from political "undercurrents" and power dynamics[cite: 1].
