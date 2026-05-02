@@ -1,0 +1,244 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal de hoy, 1 de mayo de 2026, estuvo marcada por un clima tenso, donde varios gobernadores, como Axel Kicillof (Buenos Aires), Sergio Ziliotto (La Pampa) y Ricardo Quintela (La Rioja), utilizaron el Día del Trabajador para criticar duramente las políticas económicas nacionales, señalando el impacto negativo en el empleo y las finanzas provinciales. En contraste, otros mandatarios como Jorge Macri (CABA), Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro) destacaron obras de infraestructura, atracción de inversiones y medidas de gestión local. Se observa un fuerte enfoque en la defensa de los recursos y la autonomía provincial, así como la implementación de programas propios para mitigar la crisis y fomentar el desarrollo productivo. La preocupación por el empleo y la búsqueda de auto-financiamiento son temas transversales.",
+    "analisis_profundo": "El escenario político federal se presenta fragmentado este 1 de mayo, con una clara dicotomía en las narrativas de los gobernadores. Por un lado, figuras del peronismo y aliados albertistas como Axel Kicillof (Buenos Aires) y Sergio Ziliotto (La Pampa) capitalizaron la conmemoración del Día del Trabajador para arremeter contra las políticas del gobierno nacional. Kicillof (Buenos Aires) lamentó la devastadora pérdida de empleos registrados y prometió no dar la espalda a pymes y trabajadores. Ziliotto (La Pampa) fue más allá, vinculando directamente las 'decisiones nacionales' con el cierre de industrias y la concentración de riqueza, destacando la defensa de la producción local y un Estado presente. Ricardo Quintela (La Rioja) también se sumó a esta línea, anunciando el congelamiento de tarifas y la reducción de cuotas de viviendas, eligiendo 'hacerse cargo' ante la crisis. Hugo Passalacqua (Misiones) presentó un discurso de apertura de sesiones muy crítico, denunciando la desregulación de la yerba mate y la desigualdad que genera la competencia con Brasil y Paraguay, al mismo tiempo que anunció medidas de alivio fiscal y apoyo al productor.\n\nEn la vereda opuesta, gobernadores como Jorge Macri (CABA) celebraron avances en modernización de infraestructura, como la implementación de autopistas 'free flow', mostrando una gestión enfocada en eficiencia. Raúl Jalil (Catamarca) inauguró el 137° Período de Sesiones Ordinarias destacando el sostenimiento del empleo y el impulso a la producción provincial a pesar de un contexto complejo. Martín Llaryora (Córdoba) enfatizó la importancia de generar trabajo mediante la obra pública, como la circunvalación de Río Cuarto, y defendió el trabajo cordobés. Leandro Zdero (Chaco) resaltó obras históricas y el fortalecimiento del Puerto de Barranqueras como eje logístico. Ignacio Torres (Chubut) mostró firmeza en la lucha contra el crimen organizado, anunciando detenciones y la adhesión a la Ley Antimafia. Alberto Weretilneck (Río Negro) celebró la aprobación del proyecto SESA para exportar GNL, una inversión de miles de millones de dólares, en colaboración con el gobierno nacional y Neuquén, destacando estabilidad política y seguridad jurídica. Alfredo Cornejo (Mendoza) vinculó la generación de empleo con la 'racionalidad económica' y la 'cultura del trabajo'. Gustavo Sáenz (Salta) y Claudio Poggi (San Luis) también se enfocaron en la gestión local y el apoyo a sus comunidades.\n\nUn tema recurrente es la tensión Nación-Provincias, con quejas por desfinanciamiento y abandono de obras, mientras las provincias asumen responsabilidades con recursos propios. La defensa del empleo y el impulso productivo local son prioridades, a menudo contrapuestas a las políticas económicas centrales. La inversión en infraestructura, la seguridad y la tecnología también ocupan un lugar destacado en la agenda. El federalismo se invoca tanto para criticar recortes como para justificar autonomía en la gestión de recursos.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a Políticas Nacionales y Defensa del Empleo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Impulso a Obra Pública e Infraestructura",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@WeretilneckOK",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Autonomía Provincial y Reclamos Federales",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@maxipullaro",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Delito",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@alfredocornejo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@passalacquaok",
+        "texto": "La yerba mate forma parte de nuestra propia historia, cultura y eje central de la economía de cientos de miles de familias. La relevancia productiva del tarefero representa el 85% del volumen destinado a la producción, quienes sólo reciben alrededor del 8% del valor final. Esta desregulación no es libertad, es una asimetría profunda que deja el escenario donde se permite que el pez grande se devore al más chico. La provincia ya demandó al Estado Nacional para restaurar las facultades del INYM; ahora también lo están haciendo varias asociaciones gremiales yerbateras, a las que apoyamos. La decisión final quedará en manos de la Justicia Federal. Nuestra postura es clara: el productor yerbatero debe recibir un precio justo por su trabajo. Hace exactamente un año pedíamos en este mismo lugar $505 y ese valor hoy sería $700 el kilo de hoja verde. La crisis SÍ EXISTE, pero no la están pagando todos por igual; el ajuste castiga al eslabón más vulnerable, el productor, mientras el sector industrial mantiene sus márgenes.",
+        "por_que_es_clave": "Este tweet es clave porque detalla una crítica específica y contundente a la política de desregulación nacional que impacta directamente en una economía regional vital como la yerbatera. La mención de acciones legales contra el Estado Nacional y la defensa explícita de los productores misioneros, enmarcada en la Apertura de Sesiones, demuestra una postura de confrontación y autonomía frente a las decisiones centrales.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crisis económica",
+                "Empleo",
+                "Políticas nacionales"
+            ],
+            "postura_politica": "Crítica contundente a las políticas del gobierno nacional, las responsabiliza por la pérdida de empleos y el deterioro social. Reafirma el compromiso provincial con los trabajadores y pymes.",
+            "frase_fuerte": "A todos ellos quiero decirles que no les vamos a dar la espalda y, aunque quieran convencernos de que no hay alternativa, vamos a construir ese futuro posible en el que nuestro pueblo trabajador pueda vivir mejor."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Modernización",
+                "Tecnología en servicios públicos"
+            ],
+            "postura_politica": "Enfoque en la eficiencia de la gestión y la modernización de los servicios. Destaca los logros en la implementación de tecnologías para mejorar la circulación vial y la seguridad.",
+            "frase_fuerte": "Desde hoy el 100% de las autopistas de la Ciudad de Buenos Aires son inteligentes. Con la eliminación del último peaje manual ubicado en la autopista 25 de Mayo, nos convertimos en la primera ciudad de la Argentina con una red de autopistas 100% free flow."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Apertura de sesiones legislativas",
+                "Gestión provincial",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Resalta el esfuerzo provincial para sostener el empleo y la producción en un contexto complejo, ratificando un rumbo de desarrollo con diálogo y responsabilidad. Enfoque en logros de gestión.",
+            "frase_fuerte": "Dimos cuenta de un año de trabajo en un contexto complejo, con decisiones que sostuvieron el empleo, impulsaron la producción y mantuvieron en marcha obras clave en toda la provincia."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura",
+                "Logística",
+                "Seguridad ciudadana"
+            ],
+            "postura_politica": "Enfocado en la reactivación de obras históricas y el desarrollo de la infraestructura productiva y logística de la provincia. Busca fortalecer la seguridad a través de la cooperación internacional.",
+            "frase_fuerte": "Iniciamos la primer etapa de una obra HISTÓRICA junto a la Municipalidad de Resistencia: La reconstrucción de Av. Soberanía Nacional y Av. Islas Malvinas, conectando 4 localidades y beneficiando a más de 60.000 chaqueños."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el crimen organizado",
+                "Narcotráfico"
+            ],
+            "postura_politica": "Firmeza en la aplicación de la ley y el combate al crimen. Anuncia medidas para fortalecer las herramientas legales contra las organizaciones criminales, priorizando la seguridad ciudadana.",
+            "frase_fuerte": "La semana pasada lo dijimos claro: a los que durante más de veinte años intentaron sembrar el miedo en Comodoro, los queremos presos. Hoy cumplimos."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Empleo",
+                "Obra pública",
+                "Educación",
+                "Defensa de Malvinas"
+            ],
+            "postura_politica": "Prioriza la generación de empleo a través de la obra pública, resaltando el rol del Estado en el desarrollo. Destaca la inversión en educación y la importancia de eventos conmemorativos de la identidad nacional y provincial.",
+            "frase_fuerte": "Gobernar es generar trabajo. Y en estos tiempos difíciles que vive la Argentina, quiero ratificar mi convicción de que la mejor política social es un buen #empleo."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Trabajo",
+                "Esfuerzo provincial"
+            ],
+            "postura_politica": "Reconoce el esfuerzo de los trabajadores como motor de la provincia, si bien el mensaje es breve, subraya la importancia de la constancia y el compromiso de la gente.",
+            "frase_fuerte": "Detrás de cada logro hay esfuerzo y constancia. ¡Feliz día, trabajadores!"
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Promoción turística",
+                "Eventos internacionales"
+            ],
+            "postura_politica": "Se enfoca en la promoción de Jujuy como destino de eventos deportivos de nivel internacional, buscando potenciar la provincia y generar vínculos.",
+            "frase_fuerte": "Recibimos a Chris Thompson, manager del seleccionado australiano de rugby, quien estuvo recorriendo Jujuy en los preparativos para el encuentro entre Los Pumas y los Wallabies, el 29 de agosto en nuestro Estadio 23 de Agosto."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Empleo",
+                "Políticas nacionales",
+                "Vivienda",
+                "Derechos"
+            ],
+            "postura_politica": "Critica abiertamente las 'decisiones nacionales' que provocan la pérdida de empleo y la concentración de riqueza, defendiendo un Estado presente que cuida y garantiza derechos como el trabajo y la vivienda.",
+            "frase_fuerte": "Porque hay decisiones nacionales que explican cada empleo que se cae, cada industria que cierra, cada comercio que se apaga y cada emprendimiento que no logra sostenerse."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Crisis económica",
+                "Tarifas",
+                "Vivienda",
+                "Federalismo"
+            ],
+            "postura_politica": "Frente al 'contexto económico tan complejo', anuncia medidas para mitigar el impacto en los riojanos (congelamiento de tarifas, reducción de cuotas de viviendas). Destaca la defensa de derechos constitucionales y el diálogo federal.",
+            "frase_fuerte": "Frente a esto, hay dos caminos: mirar para otro lado o hacerse cargo. Nosotros elegimos hacernos cargo."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Empleo",
+                "Racionalidad económica",
+                "Seguridad"
+            ],
+            "postura_politica": "Vincula la generación de empleo con la 'racionalidad económica' y la 'cultura del trabajo'. Destaca la inversión en tecnología para la seguridad y la coordinación interprovincial para combatir el delito.",
+            "frase_fuerte": "Una sociedad se ordena, se sostiene y se proyecta sobre el valor del trabajo. Los mendocinos lo sabemos, porque está en el corazón de nuestra cultura."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Federalismo",
+                "Producción regional (yerba mate)",
+                "Impacto de políticas nacionales",
+                "Programas de apoyo provincial",
+                "Infraestructura",
+                "Salud"
+            ],
+            "postura_politica": "Fuerte crítica al 'retiro del Estado Nacional' y la desregulación que afecta a la producción yerbatera, anunciando demanda judicial. Presenta un amplio paquete de medidas provinciales de apoyo económico y social, inversión en infraestructura y defensa de la soberanía educativa.",
+            "frase_fuerte": "Esta desregulación no es libertad, es una asimetría profunda que deja el escenario donde se permite que el pez grande se devore al más chico."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Conectividad",
+                "Salud"
+            ],
+            "postura_politica": "Enfatiza el trabajo conjunto con municipios para llevar servicios esenciales (salud, conectividad) a todas las localidades y avanzar en obras de infraestructura vial. Reconoce el esfuerzo de los neuquinos como motor de la provincia.",
+            "frase_fuerte": "Conectamos la provincia. Hoy recorrimos, junto al intendente de Villa Pehuenia, @ArturodeGreg, la obra de la Ruta 23, que avanza a buen ritmo. Con cada ruta que impulsamos, también avanzamos en el tendido de fibra óptica."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Inversiones",
+                "Energía (GNL)",
+                "Vivienda"
+            ],
+            "postura_politica": "Resalta la aprobación de un proyecto clave para exportar GNL, que implica una gran inversión y generación de ingresos para la provincia, en coordinación con Nación y Neuquén. Enfatiza la estabilidad política y las reglas claras para inversores, además del relanzamiento de un programa de regularización dominial.",
+            "frase_fuerte": "Esto demuestra que acá hay estabilidad política, seguridad jurídica y reglas claras para atraer inversiones. Así construimos la nueva Argentina desde la Norpatagonia."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Esfuerzo laboral",
+                "Desarrollo local",
+                "Promoción deportiva"
+            ],
+            "postura_politica": "Reconoce el esfuerzo de los salteños como pilar de la provincia y se compromete a generar oportunidades. Apoya eventos deportivos que fortalecen la identidad y el encuentro comunitario.",
+            "frase_fuerte": "Hoy quiero reconocer a cada salteño que todos los días se levanta a poner el hombro y no se rinde, aún en tiempos difíciles."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obra pública",
+                "Vivienda",
+                "Formación política"
+            ],
+            "postura_politica": "Prioriza la inversión en obra pública, como la puesta en valor de espacios públicos, y promueve la capacitación de jóvenes en formación política y gestión pública.",
+            "frase_fuerte": "Acompañé a la Sra Intendenta Rosita Calderón en la inauguración de la puesta en valor del solado exterior de la Iglesia (Programa Construyendo con tu Pueblo)"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Empleo",
+                "Economía provincial",
+                "Obra pública",
+                "Vivienda",
+                "Políticas nacionales"
+            ],
+            "postura_politica": "Critica el contexto económico nacional y el miedo a perder el trabajo, pero se compromete a generar empleo a través de políticas provinciales (reducción de Ingresos Brutos, sostenimiento de obra pública). Destaca la finalización de viviendas con fondos propios ante el abandono nacional.",
+            "frase_fuerte": "El trabajo está en el ADN de los santafesinos. Somos los que nos levantamos temprano y le damos hasta tarde, contra viento y marea, para que nuestro proyecto, empresa o lugar en el que trabajamos salga adelante."
+        }
+    ]
+}

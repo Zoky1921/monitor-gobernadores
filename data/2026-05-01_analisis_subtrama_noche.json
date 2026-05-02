@@ -1,0 +1,195 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Día del Trabajador marca la fractura federal: Kicillof (Buenos Aires) lidera el apriete opositor con cifras de despidos bonaerenses y reclamos fiscales pendientes, mientras gobernadores afines como Llaryora (Córdoba), Zdero (Chaco) y Torres (Chubut) optan por refugio en gestión local y silencios calculados. Ausencia de pacto explícito evidencia orfandad política en Casa Rosada, con diplomacia fiscal en pausa.",
+    "analisis_profundo": "El 1 de mayo de 2026, fecha ritual del trabajador, expone la arquitectura institucional fracturada del federalismo argentino. Axel Kicillof (Buenos Aires), con su peso demográfico y 10x superior en influencia, rompe el protocolo y traduce la efeméride en subtrama material: 304.322 empleos perdidos, 71 mil bonaerenses en el sector privado, un dardo directo al ajuste nacional que posiciona a Milei como responsable de la 'Argentina desigual'. No es casual: retuitea a Pablo López para amplificar el daño político, mientras su mensaje a pymes y despedidos ('no les vamos a dar la espalda') construye un relato de resistencia peronista que busca captar la orfandad de los gobernadores medios. ¿Acaso el gobernador ignora que esa caja alimentaria adeudada por Nación depende de la firma que Caputo le niega?\n\nEn el otro extremo, Martín Llaryora (Córdoba) y Leandro Zdero (Chaco) ejecutan repliegue territorial clásico: gestión cabotaje con obras viales y salud, evitando la macro. Llaryora vincula empleo a circunvalación ('la más importante del país'), un guiño sutil a la diplomacia fiscal con Nación, pero sin menoscabar el ajuste. Zdero celebra puerto y soberanía nacional, ironía estructural ante reclamos kicillofistas. Hugo Passalacqua (Misiones), en apertura legislativa, critica desregulación yerbatera ('pez grande devora chico') y suspende 'aduana paralela', un apriete fiscal interno que alivia pymes pero señala tensión con Nación por INYM.\n\nRaúl Jalil (Catamarca) y Sergio Ziliotto (La Pampa) marcan sesiones ordinarias con balances provinciales, silencio sobre Día del Trabajador como estrategia de supervivencia: Jalil ratifica 'equilibrio' en minería/litio, Ziliotto denuncia 'crueldad' nacional en empleo. Nacho Torres (Chubut) prioriza narco ('Ñoqui Vera preso'), Hugo Insfrán (Formosa) ataca 'destrucción de empleos' por políticas nacionales. El apagón político es coordinado: aislamiento provincial deslegitima el relato mileísta, fuerza a Casa Rosada a negociar caja sin ceder agenda nacional. La omisión de coparticipación en 23/24 gobernadores no es apatía, sino cálculo: refugio en cabotaje para erosionar centralismo sin confrontación abierta, evocando el federalismo de los '90 donde provincias usaban silencio como arma fiscal.",
+    "temas_calientes": [
+        {
+            "tema": "Ataque al ajuste nacional por despidos y caja alimentaria",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@insfran_gildo"
+            ]
+        },
+        {
+            "tema": "Gestión cabotaje en obras y empleo local",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Seguridad y narco como prioridad territorial",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Sesiones ordinarias con balances provinciales",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Silencio federal en coparticipación y RIGI",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@gustavovaldesok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (Buenos Aires)",
+        "texto": "Es lamentable conmemorar este #DíaDelTrabajador con indicadores tan devastadores: 🔴304.322 empleos registrados menos 🔴El sector privado concentra el 75% de la pérdida 🔴Entre privados, 71 mil son bonaerenses https://t.co/RlPbVWJU6H",
+        "por_que_es_clave": "Cifras demoledoras posicionan a Buenos Aires como epicentro del daño mileísta, fuerza negociación fiscal y deslegitima ajuste nacional ante gobernadores tibios.",
+        "pregunta_openarg": "¿Caputo liberará caja SAE adeudada o Kicillof escalará con paros bonaerenses?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "empleo perdido",
+                "Día del Trabajador"
+            ],
+            "postura_politica": "Ataque frontal a Nación por despidos (71k bonaerenses), subtrama de diplomacia fiscal fallida en SAE; busca liderar orfandad opositora y forzar caja.",
+            "frase_fuerte": "Es lamentable conmemorar este #DíaDelTrabajador con indicadores tan devastadores"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "autopistas free flow"
+            ],
+            "postura_politica": "Agenda local sin impacto federal, protocolo pro-Nación implícito en innovación vial; aislamiento calculado para no chocar con ajuste.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "sesiones ordinarias",
+                "empleo sostenido"
+            ],
+            "postura_politica": "Balance provincial en minería/empleo, silencio sobre Día del Trabajador como pacto inconfesable con Nación por RIGI litio.",
+            "frase_fuerte": "Ratificamos el rumbo con la convicción clara de cuidar lo logrado"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Día del Trabajador",
+                "obras viales"
+            ],
+            "postura_politica": "Gestión cabotaje (puerto, soberanía), efeméride light evade tensión nacional; refugio territorial ante reclamos fiscales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "narco presos"
+            ],
+            "postura_politica": "Agenda local sin impacto federal",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Día del Trabajador",
+                "obras circunvalación"
+            ],
+            "postura_politica": "Empleo vía infraestructura ('mejor política social'), guiño a Nación sin confrontar ajuste; equilibrio diplomático fiscal.",
+            "frase_fuerte": "Gobernar es generar trabajo"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Día del Trabajador"
+            ],
+            "postura_politica": "Agenda local sin impacto federal",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Día del Trabajador"
+            ],
+            "postura_politica": "Ataque a políticas nacionales por despidos/salarios, pacto con CGT local; resistencia peronista clásica.",
+            "frase_fuerte": "políticas del gobierno nacional generan destrucción de empleos"
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "rugby internacional"
+            ],
+            "postura_politica": "Agenda local sin impacto federal",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Día del Trabajador"
+            ],
+            "postura_politica": "Denuncia 'crueldad' nacional en empleo, defensa estatal pampeana; dardo a ajuste sin escalada.",
+            "frase_fuerte": "El ajuste no es un número: se siente en cada casa"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "tarifas congeladas",
+                "Día del Trabajador"
+            ],
+            "postura_politica": "Congelamiento tarifas como escudo anti-ajuste, peronismo protector; pacto inconfesable con base social.",
+            "frase_fuerte": "Nosotros elegimos hacernos cargo"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "sesiones",
+                "yerba",
+                "programas Ahora"
+            ],
+            "postura_politica": "Crítica desregulación INYM ('asimetría profunda'), suspensión aduana paralela; apriete fiscal interno ante crisis nacional.",
+            "frase_fuerte": "La desregulación no es libertad, es una asimetría profunda"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Día del Trabajador",
+                "obras",
+                "salud"
+            ],
+            "postura_politica": "Gestión cabotaje en Vaca Muerta/salud, silencio sobre nacional; alineación implícita con RIGI.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "ninguno reciente"
+            ],
+            "postura_politica": "Agenda local sin impacto federal",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Día del Trabajador"
+            ],
+            "postura_politica": "Gestión protocolar aislada",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Día del Trabajador"
+            ],
+            "postura_politica": "Agenda local sin impacto federal",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Día del Trabajador"
+            ],
+            "postura_politica": "Reclamo empleo privado vs ajuste, pero gestión pro-Nación; equilibrio tenso.",
+            "frase_fuerte": "Falta mucho. Es un momento difícil para el país"
+        }
+    ]
+}
