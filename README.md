@@ -1,63 +1,62 @@
 # 📡 El Radar Federal
 
-Una plataforma de análisis estratégico que utiliza Inteligencia Artificial (Google Gemini) para monitorear, sistematizar y analizar el discurso público de los 24 gobernadores argentinos.
+**Plataforma de Inteligencia Política y Análisis Discursivo de la Argentina Federal.**
 
-## Características
+El Radar Federal es un sistema de monitoreo estratégico que procesa, sistematiza y disecciona el discurso público de los 24 gobernadores argentinos en tiempo real. Utiliza una arquitectura de **Pipeline Dual** para separar la gestión institucional de la "subtrama" del poder[cite: 1].
 
-* **Análisis Ejecutivo con IA:** Generación de resúmenes diarios (versiones "Rápida" y "Extensa") que sintetizan la postura política detectada por modelos LLM.
-* **Semáforo de Clima Político:** Indicador visual que mide la tensión o cooperación federal mediante análisis de sentimiento.
-* **Efecto Terono (Filtros Interactivos):** Motor que permite filtrar la grilla de gobernadores según las tendencias del día, resaltándolos en la grilla.
-* **Layout adaptable con scroll interno:** El panel de análisis mantiene altura natural y agrega scroll interno para textos extensos sin recortes.
-* **Compartibilidad Integrada:** Botones para exportar citas a WhatsApp y X (Twitter) con atribución de autoría automática.
+## 🚀 Características Principales
 
-## Instalación
+*   **Análisis de Doble Vía:**
+    *   **Camino Institucional (Gemini 2.5 Flash):** Resumen ejecutivo y técnico de medidas de gestión, obras y anuncios oficiales[cite: 1].
+    *   **Camino de Subtrama (Grok 4.1 Fast):** Análisis descarnado con "Estilo Pagni" sobre tensiones fiscales, diplomacia de la caja y posicionamientos simbólicos[cite: 1].
+*   **🔍 Francotirador OpenArg:** Integración con la API de OpenArg para la verificación fáctica de datos económicos y sociales mencionados en los posteos destacados[cite: 1].
+*   **🚥 Semáforo de Clima Político:** Indicador de tensión federal (Nación vs. Provincias) basado en análisis de sentimiento de la jornada[cite: 1].
+*   **🎯 Efecto Terono:** Motor de filtrado interactivo que resalta tendencias y agrupa mandatarios según la agenda del día.
+*   **🛠️ Blindaje Anti-Alucinación:** Sistema de validación de esquemas JSON con reintentos automáticos, backoff incremental y logs de auditoría raw[cite: 1].
 
-1. **Cloná el repositorio:**
-   ```bash
-   git clone [https://github.com/zoky1921/radar-federal.git](https://github.com/tu-usuario/radar-federal.git)
-   cd radar-federal
-   ```
+## 🛠️ Stack Tecnológico
 
-2. **Configuración del Robot (Python):**
-   * Instalá las dependencias necesarias:
-     ```bash
-     pip install google-generativeai requests
-     ```
-   * Configurá tu `GEMINI_API_KEY` en las variables de entorno.
+*   **Motores de IA:** Google Gemini 2.5 Flash, xAI Grok 4.1 (vía OpenRouter) y DeepSeek V3/R1[cite: 1].
+*   **Backend:** Python 3.11+ con `google-genai` y `json_repair`[cite: 1].
+*   **Base de Datos:** SQLite para el logueo de consumo de tokens y auditoría de costos[cite: 1].
+*   **Frontend:** Vanilla JS (ES6+), CSS3 con variables dinámicas y HTML5.
+*   **Automatización:** Integrado con GitHub Actions para ejecuciones programadas (Mañana/Noche).
 
-3. **Visualización:**
-   * Abrí `index.html` mediante un servidor local (ej: Live Server en VS Code) para permitir la carga de archivos JSON locales sin errores de seguridad.
+## 📋 Requisitos e Instalación
 
-## Arquitectura
+1.  **Clonado de Repositorio:**
+    ```bash
+    git clone [https://github.com/zoky1921/monitor-gobernadores.git](https://github.com/zoky1921/monitor-gobernadores.git)
+    cd monitor-gobernadores
+    ```
 
-### Estructura de Componentes
-* **`index.html`**: Estructura del dashboard con secciones para clima político, tendencias y grilla.
-* **`script.js`**: Control de carga asíncrona y motor de filtrado "Terono".
-* **`style.css`**: Sistema de diseño basado en variables de modo oscuro y Flexbox dinámico.
+2.  **Configuración del Entorno:**
+    Instalar dependencias[cite: 1]:
+    ```bash
+    pip install google-genai requests json_repair
+    ```
 
-### Pipeline de Datos
-El sistema utiliza un "Robot" en Python (`main.py`) que genera archivos diarios en la carpeta `data/`:
-* **`YYYY-MM-DD_analisis.json`**: Análisis detallado, tendencias y clima general.
-* **`YYYY-MM-DD_crudo.json`**: Historial de tweets procesados en la jornada.
+3.  **Variables de Entorno (Secrets):**
+    Es necesario configurar las siguientes keys[cite: 1]:
+    *   `TWITTERAPI_KEY`: Extracción de datos de X.
+    *   `GEMINI_API_KEY`: Motor institucional.
+    *   `OPENROUTER_API_KEY`: Acceso a Grok y modelos de backup.
+    *   `OPENARG_API_KEY`: Verificación de datos.
 
-## Tecnologías
+## 🏗️ Arquitectura de Datos
 
-* **Google Gemini API**: Motor de inteligencia artificial para procesamiento de lenguaje natural.
-* **Python**: Automatización de la extracción y procesamiento de datos.
-* **Vanilla JavaScript (ES6+)**: Gestión de la interactividad y manipulación del DOM.
-* **CSS3 Custom Properties**: Estilizado dinámico y adaptativo.
+El sistema opera mediante un proceso de **Hardening Estructural**[cite: 1]:
+1.  **Extracción:** Recolección de tweets mediante TwitterAPI.io con persistencia en `json` crudo[cite: 1].
+2.  **Validación:** La función `_parsear_y_validar_resumen()` garantiza que la IA entregue objetos JSON íntegros y tipados[cite: 1].
+3.  **Auditoría:** Fallos de formato son almacenados en archivos `.txt` individuales para mejora del prompt[cite: 1].
+4.  **Despliegue:** Generación de archivos `analisis_manana.json` y `analisis_noche.json` para consumo del dashboard[cite: 1].
 
-## Notas sobre el Proyecto
+## ✍️ Autor
 
-* **Origen de Datos**: Extracción mediante técnicas de scraping sobre las cuentas oficiales de los mandatarios provinciales de Argentina.
-* **Propósito**: Herramienta de transparencia institucional y análisis de políticas públicas.
+**Politólogo** 
+*   Licenciado en Ciencia Política (UDESA) y Maestría en politicas públicas (UTDT) 
+*   Desarrollador de herramientas de transparencia de datos y archivos digitales.
 
-## Autor
-
-**X**:
-* Politólogo.
-* U.
-
-## Licencia
+## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT.
