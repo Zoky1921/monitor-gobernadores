@@ -1,0 +1,51 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "Los gobernadores Leandro Zdero (Chaco) y Maximiliano Pullaro (Santa Fe) centraron su agenda en políticas de gestión local. Zdero anunció inversiones en equipamiento y obras para fortalecer la salud pública chaqueña, enfocándose en modernización y eficiencia hospitalaria. Por su parte, Pullaro destacó el compromiso de Santa Fe contra el acoso escolar y las amenazas en escuelas, articulando ministerios de Educación y Salud e implementando herramientas tecnológicas para la prevención y el control parental. La jornada refleja una marcada orientación hacia la gestión provincial de servicios esenciales y seguridad, sin declaraciones confrontativas a nivel federal.",
+    "analisis_profundo": "La agenda federal de hoy se caracterizó por un enfoque en la gestión provincial de servicios clave, con los gobernadores Leandro Zdero (Chaco) y Maximiliano Pullaro (Santa Fe) liderando las comunicaciones políticas relevantes. Zdero (Chaco) puso de manifiesto una clara inversión en el sector de la salud, detallando obras de infraestructura y la incorporación de tecnología avanzada en el Hospital Perrando. Su mensaje subraya la modernización y la mejora en la capacidad de respuesta para los ciudadanos chaqueños, posicionando la salud pública como un pilar de su administración.\n\nEn una línea similar de atención a problemáticas sociales con soluciones desde el Estado provincial, Pullaro (Santa Fe) abordó la cuestión del acoso escolar y las amenazas en el ámbito educativo. Su anuncio no solo ratifica un compromiso preventivo, sino que también revela una estrategia interministerial (Educación y Salud) y la implementación de una aplicación para el control parental. Esto demuestra una preocupación activa por la seguridad y el bienestar de los jóvenes, y una adaptación a los desafíos de la era digital.\n\nAmbos gobernadores optaron por comunicar avances y medidas concretas de gobierno, evitando cualquier mención a tensiones con el gobierno nacional o conflictos interprovinciales. La naturaleza de sus declaraciones sugiere una jornada de puertas hacia adentro en la gestión provincial, priorizando la ejecución de políticas públicas y el fortalecimiento de servicios esenciales. Esta tendencia a la gestión doméstica contrasta con periodos de mayor fricción federal, indicando una fase de concentración en las responsabilidades internas de cada jurisdicción.",
+    "temas_calientes": [
+        {
+            "tema": "Fortalecimiento de la Salud Pública",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Seguridad y Bienestar en Escuelas",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "En el Día contra el Acoso Escolar, desde el @GobSantaFe ratificamos nuestro compromiso de trabajo preventivo. Es fundamental detectar a tiempo y diferenciar las situaciones de Bullying de aquellas amenazas que buscan armar escenarios delictivos en nuestras escuelas. Articulamos acciones entre los ministerios de Educación y de Salud para intervenir rápido y, esta semana, sumamos una app para que los padres tengamos control sobre lo que ven nuestros hijos y evitar que queden expuestos a mensajes que incitan a la violencia. Falta mucho por hacer, pero el camino es esta alianza entre el Estado, las familias y las escuelas para cuidar a los jóvenes.",
+        "por_que_es_clave": "Destaca una política integral de seguridad y bienestar en el ámbito educativo, articulando diferentes ministerios y sumando herramientas tecnológicas para la prevención del acoso y las amenazas, con foco en el rol de las familias. Aborda una problemática social relevante con una respuesta multifacética del Estado provincial.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Infraestructura Hospitalaria",
+                "Equipamiento Tecnológico"
+            ],
+            "postura_politica": "Se enfoca en una gestión de gobierno que prioriza la inversión directa en la modernización y fortalecimiento del sistema de salud provincial, buscando mejorar la calidad y eficiencia de la atención para los chaqueños.",
+            "frase_fuerte": "Paso a paso, avanzamos hacia una salud pública más moderna y eficiente para todos los chaqueños."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Acoso Escolar",
+                "Seguridad Escolar",
+                "Educación",
+                "Salud",
+                "Ciberseguridad",
+                "Control Parental"
+            ],
+            "postura_politica": "Demuestra un compromiso activo con la protección de la infancia y juventud en el ámbito escolar, mediante una estrategia que integra prevención, intervención interministerial y el uso de la tecnología para involucrar a las familias.",
+            "frase_fuerte": "Falta mucho por hacer, pero el camino es esta alianza entre el Estado, las familias y las escuelas para cuidar a los jóvenes."
+        }
+    ]
+}
