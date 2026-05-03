@@ -329,25 +329,25 @@ def ejecutar_monitoreo():
             # --- 🤖 SÚPER PROMPT NIVEL CONSULTORÍA (INTOCABLE) ---
             prompt_institucional = f"""
 Eres un Analista Político Senior y Consultor Estratégico experto en dinámicas federales en Argentina.
-Tu tarea es analizar los siguientes tweets crudos de los 24 gobernadores provinciales. Hoy es {fecha_pantalla} y son las {hora_corte} hs (Hora de Buenos Aires, GMT-3). Cada tweet incluye su fecha original de publicación.
+Tu tarea es analizar los siguientes tweets crudos de los 24 gobernadores provinciales. Hoy es {fecha_pantalla} y son las {hora_corte} hs (Hora de Buenos Aires, GMT-3). Cada tweet incluye su fecha[...]
 
 🚫 RESTRICCIÓN CRÍTICA DE IDENTIDAD Y DATOS VACÍOS:
-Solo podés mencionar a los gobernadores que aparecen explícitamente en el archivo JSON provisto. Tenés terminantemente prohibido usar información externa, tu memoria de entrenamiento o nombres de mandatarios de años anteriores. 
-Si no hay tweets que cumplan el filtro temporal en absoluto, devolvé el JSON con `temas_calientes`: [], `analisis_por_gobernador`: [], y aplicá la estructura nula para `tweet_destacado` definida en la Regla 5.
+Solo podés mencionar a los gobernadores que aparecen explícitamente en el archivo JSON provisto. Tenés terminantemente prohibido usar información externa, tu memoria de entrenamiento o nombres de [...]
+Si no hay tweets que cumplan el filtro temporal en absoluto, devolvé el JSON con `temas_calientes`: [], `analisis_por_gobernador`: [], y aplicá la estructura nula para `tweet_destacado` definida en [...]
 
 REGLAS DE ANÁLISIS ESTRATÉGICO:
-1. FILTRO TEMPORAL Y ACTUALIDAD ESTRICTA: IGNORA POR COMPLETO cualquier tweet que no haya sido publicado hoy ({fecha_pantalla}) o a última hora de ayer (después de las 20:00 hs GMT-3). Procesa exclusivamente declaraciones políticas, medidas de gestión, reclamos al Estado Nacional o posicionamientos ideológicos. Ignora efemérides. (ACLARACIÓN: Esto aplica solo al análisis general; para `tweet_destacado` rige la Regla 5).
-2. REGLA DE NOMENCLATURA (CRÍTICA): Cada vez que menciones a un gobernador en cualquier parte del análisis, DEBES incluir el nombre de su provincia entre paréntesis inmediatamente después. Ejemplo: "Maximiliano Pullaro (Santa Fe) anunció...". Nunca nombres a un gobernador sin su provincia.
+1. FILTRO TEMPORAL Y ACTUALIDAD ESTRICTA: IGNORA POR COMPLETO cualquier tweet que no haya sido publicado hoy ({fecha_pantalla}) o a última hora de ayer (después de las 20:00 hs GMT-3). Procesa exclu[...]
+2. REGLA DE NOMENCLATURA (CRÍTICA): Cada vez que menciones a un gobernador en cualquier parte del análisis, DEBES incluir el nombre de su provincia entre paréntesis inmediatamente después. Ejemplo[...]
 3. DOBLE VELOCIDAD DE LECTURA:
    - "Resumen Ejecutivo": Redacta un panorama hiper directo de 1 solo párrafo (aprox. 100 palabras) para lectura rápida de 1 minuto.
    - "Análisis Profundo": Redacta un reporte analítico extenso (aprox. 400 palabras, 3 minutos de lectura). Conecta temas y marca tensiones.
-4. JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales que resuman la agenda federal. Para cada tendencia, DEBES listar los usuarios de X (@usuario) que se hayan posicionado sobre ese tema.
-5. TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político. REGLA CRÍTICA DE TIEMPO: **SOLO** puedes seleccionar un tweet si su fecha corresponde ESTRICTAMENTE AL DÍA DE HOY ({fecha_pantalla}). 
+4. JERARQUÍA DE TENDENCIAS ("Efecto Terono"): Extrae un máximo de 5 tendencias principales que resuman la agenda federal. Para cada tendencia, DEBES listar los usuarios de X (@usuario) que se hayan [...]
+5. TWEET DESTACADO ("El post del día"): Selecciona la cita de mayor peso político. REGLA CRÍTICA DE TIEMPO: **SOLO** puedes seleccionar un tweet si su fecha corresponde ESTRICTAMENTE AL DÍA DE HOY[...]
 
 REGLAS ESTRICTAS DE ESTILO Y REDACCIÓN:
 1. CERO META-TEXTO: Está absolutamente prohibido empezar con frases como "El análisis revela...", "En el día de hoy se observa...", o "Los tweets muestran...".
 2. ARRANQUE DIRECTO: La primera oración debe ir directo al hecho político principal. (Ejemplo correcto: "Los gobernadores paralizaron la agenda nacional para enfocarse en gestión local...").
-3. TONO DE CONSULTORÍA: Redacción quirúrgica, oraciones cortas y formato de 'Executive Briefing'. Elimina el tono académico o de ensayo. No narres qué hiciste, entrega directamente las conclusiones de poder.
+3. TONO DE CONSULTORÍA: Redacción quirúrgica, oraciones cortas y formato de 'Executive Briefing'. Elimina el tono académico o de ensayo. No narres qué hiciste, entrega directamente las conclusion[...]
 
 
 Si no hay nada relevante hoy, `tweet_destacado` debe ser exactamente:
@@ -357,14 +357,14 @@ Si no hay nada relevante hoy, `tweet_destacado` debe ser exactamente:
     "por_que_es_clave": null,
     "pregunta_openarg": null
 }}
-Si hay un tweet válido (ESTO SIGNIFICA: a. Es de HOY, y b. Es políticamente relevante, PROHIBIDO usar saludos, efemérides o protocolo), el texto debe ser ORIGINAL y COMPLETO, pero SIN etiquetas previas. Si el tweet comienza con "[RE-TWEET de @autor]", ELIMINA esa etiqueta del campo `texto`, y en el campo `usuario` escribí "@Gobernador (RT de @autor)". Si comienza solo con "[RE-TWEET]" sin indicar autor, eliminá la etiqueta y poné "@Gobernador (RT)".
+Si hay un tweet válido (ESTO SIGNIFICA: a. Es de HOY, y b. Es políticamente relevante, PROHIBIDO usar saludos, efemérides o protocolo), el texto debe ser ORIGINAL y COMPLETO, pero SIN etiquetas pre[...]
 6. COBERTURA MÍNIMA: Si un gobernador no tiene tweets válidos dentro del filtro temporal, no lo incluyas bajo ninguna circunstancia en la lista de `analisis_por_gobernador`.
-7. SEMÁFORO DE CLIMA POLÍTICO: Evalúa el nivel de conflictividad general de la jornada (Nación vs Provincias o entre ellas) y devuelve UNA SOLA PALABRA. DEBE ser estrictamente uno de estos 4 valores: TENSO, NEUTRAL, POSITIVO, CONFLICTO.
-8. SEGURIDAD JSON Y COMILLAS (CRÍTICA): El objeto JSON debe ser perfecto. Evitar comillas dobles dentro de los textos; si hacen falta, reemplazarlas por comillas simples ('). Las comillas dobles SOLO deben usarse para las claves y valores estructurales del JSON. Además, los valores nulos deben ser estrictamente el tipo de dato `null` (sin comillas), nunca "null". El campo `tweet_destacado.usuario` debe ser estrictamente de tipo string o null.
-9. REGLA DE CITA LITERAL: El campo `frase_fuerte` dentro de `analisis_por_gobernador` DEBE ser exclusivamente una cita textual literal del tweet. Si no existe una cita literal contundente, este campo debe ser estrictamente `null` (sin comillas).
+7. SEMÁFORO DE CLIMA POLÍTICO: Evalúa el nivel de conflictividad general de la jornada (Nación vs Provincias o entre ellas) y devuelve UNA SOLA PALABRA. DEBE ser estrictamente uno de estos 4 valor[...]
+8. SEGURIDAD JSON Y COMILLAS (CRÍTICA): El objeto JSON debe ser perfecto. Evitar comillas dobles dentro de los textos; si hacen falta, reemplazarlas por comillas simples ('). Las comillas dobles SOLO[...]
+9. REGLA DE CITA LITERAL: El campo `frase_fuerte` dentro de `analisis_por_gobernador` DEBE ser exclusivamente una cita textual literal del tweet. Si no existe una cita literal contundente, este campo [...]
 
 FORMATO DE SALIDA OBLIGATORIO Y LISTAS VACÍAS:
-Responde ÚNICAMENTE con un objeto JSON válido. ATENCIÓN: Si no hay tweets válidos analizados, `temas_calientes` debe ser [] y `analisis_por_gobernador` debe ser [] (no inventes datos para rellenar).
+Responde ÚNICAMENTE con un objeto JSON válido. ATENCIÓN: Si no hay tweets válidos analizados, `temas_calientes` debe ser [] y `analisis_por_gobernador` debe ser [] (no inventes datos para rellenar[...]
 La estructura exacta, incluyendo la correcta indentación, debe ser:
 
 {{
@@ -396,6 +396,25 @@ La estructura exacta, incluyendo la correcta indentación, debe ser:
 TWEETS A ANALIZAR:
 {data_context}
 """
+
+            required_fields = [
+                "clima_general",
+                "resumen_ejecutivo",
+                "analisis_profundo",
+                "temas_calientes",
+                "tweet_destacado",
+                "analisis_por_gobernador",
+            ]
+            expected_types = {
+                "clima_general": str,
+                "resumen_ejecutivo": str,
+                "analisis_profundo": str,
+                "temas_calientes": list,
+                "tweet_destacado": dict,
+                "analisis_por_gobernador": list,
+            }
+
+            resumen_data = None
 
             # --- PLAN A: Gemini (6 intentos, backoff incremental) ---
             print("🚀 [Camino 1] Plan A: Gemini...")
@@ -435,8 +454,23 @@ TWEETS A ANALIZAR:
                     else:
                         print(f"❌ Plan A agotado tras {intentos_max} intentos: {error_msg[:120]}")
 
+            # Validación estructural post-Gemini (criterio definitivo de éxito del Plan A)
+            if raw_text:
+                try:
+                    resumen_data, _raw_limpio_cam1 = _parsear_y_validar_resumen(
+                        raw_text,
+                        required_fields=required_fields,
+                        expected_types=expected_types,
+                        contexto="Camino 1 / Gemini",
+                        guardar_raw_en=f"data/{fecha_hoy_str}_camino1_gemini_raw_fail_{turno}.txt",
+                        preview_chars=500,
+                    )
+                except Exception:
+                    print("⚠️ Gemini falló la validación estructural. Pasando a Plan B.")
+                    raw_text = ""
+
             # --- PLAN B: DeepSeek V3.2 (OpenRouter) ---
-            if not raw_text:
+            if resumen_data is None:
                 print(f"🔄 [Camino 1] Plan B: {MODELO_DEEPSEEK} vía OpenRouter...")
                 if not OPENROUTER_API_KEY:
                     print("⚠️ Falta OPENROUTER_API_KEY. Pasando a Plan C (Groq).")
@@ -449,7 +483,16 @@ TWEETS A ANALIZAR:
                             max_tokens=5000,
                             temperature=0.2,
                         )
-                        raw_text = cand
+
+                        resumen_data, _raw_limpio_cam1 = _parsear_y_validar_resumen(
+                            cand,
+                            required_fields=required_fields,
+                            expected_types=expected_types,
+                            contexto="Camino 1 / DeepSeek",
+                            guardar_raw_en=f"data/{fecha_hoy_str}_camino1_deepseek_raw_fail_{turno}.txt",
+                            preview_chars=500,
+                        )
+
                         print("✅ [Camino 1] Plan B (DeepSeek) exitoso.")
                         try:
                             t_in_or = usage_or.get("prompt_tokens", 0) or 0
@@ -460,117 +503,105 @@ TWEETS A ANALIZAR:
                     except Exception as e_or:
                         print(f"⚠️ Plan B (DeepSeek) falló: {e_or}. Pasando a Plan C...")
 
-            # --- PLAN C: Groq (si Plan A y Plan B no produjeron texto) ---
-            if not raw_text:
+            # --- PLAN C: Groq (si Plan A y Plan B no produjeron un JSON válido) ---
+            if resumen_data is None:
                 print("🔄 [Camino 1] Plan C: Groq...")
                 if not GROQ_API_KEY:
                     raise EnvironmentError("❌ Falta GROQ_API_KEY y la IA anterior no respondió.")
 
-                groq_url = "https://api.groq.com/openai/v1/chat/completions"
-                groq_headers = {
-                    "Authorization": f"Bearer {GROQ_API_KEY}",
-                    "Content-Type": "application/json",
-                }
-
-                # --- Pre-filtro de fechas para Groq (payload reduction) ---
-                ayer_ar = ahora - timedelta(days=1)
-                hoy_fmt_cero = ahora.strftime('%b %d')
                 try:
-                    hoy_fmt_simple = ahora.strftime('%b %-d')
-                except ValueError:
-                    hoy_fmt_simple = hoy_fmt_cero.replace(' 0', ' ')
-                ayer_fmt_cero = ayer_ar.strftime('%b %d')
-                try:
-                    ayer_fmt_simple = ayer_ar.strftime('%b %-d')
-                except ValueError:
-                    ayer_fmt_simple = ayer_fmt_cero.replace(' 0', ' ')
+                    groq_url = "https://api.groq.com/openai/v1/chat/completions"
+                    groq_headers = {
+                        "Authorization": f"Bearer {GROQ_API_KEY}",
+                        "Content-Type": "application/json",
+                    }
 
-                def _tweet_es_reciente(linea: str) -> bool:
-                    if hoy_fmt_cero in linea or hoy_fmt_simple in linea:
-                        return True
-                    if ayer_fmt_cero in linea or ayer_fmt_simple in linea:
-                        match_hora = re.search(r'(\d{1,2}):(\d{2}):\d{2}', linea)
-                        if match_hora:
-                            hora_tweet = int(match_hora.group(1))
-                            return hora_tweet >= 20
-                        return True
-                    return False
+                    # --- Pre-filtro de fechas para Groq (payload reduction) ---
+                    ayer_ar = ahora - timedelta(days=1)
+                    hoy_fmt_cero = ahora.strftime('%b %d')
+                    try:
+                        hoy_fmt_simple = ahora.strftime('%b %-d')
+                    except ValueError:
+                        hoy_fmt_simple = hoy_fmt_cero.replace(' 0', ' ')
+                    ayer_fmt_cero = ayer_ar.strftime('%b %d')
+                    try:
+                        ayer_fmt_simple = ayer_ar.strftime('%b %-d')
+                    except ValueError:
+                        ayer_fmt_simple = ayer_fmt_cero.replace(' 0', ' ')
 
-                lineas_filtradas = [
-                    linea for linea in data_context.split("\n---\n")
-                    if linea.strip() and _tweet_es_reciente(linea)
-                ]
-                data_context_groq = "\n---\n".join(lineas_filtradas)
-                print(f"📏 [Camino 1] Contexto Groq pre-filtrado: {len(data_context_groq):,} chars ({len(lineas_filtradas)} tweets)")
+                    def _tweet_es_reciente(linea: str) -> bool:
+                        if hoy_fmt_cero in linea or hoy_fmt_simple in linea:
+                            return True
+                        if ayer_fmt_cero in linea or ayer_fmt_simple in linea:
+                            match_hora = re.search(r'(\d{1,2}):(\d{2}):\d{2}', linea)
+                            if match_hora:
+                                hora_tweet = int(match_hora.group(1))
+                                return hora_tweet >= 20
+                            return True
+                        return False
 
-                if not data_context_groq.strip():
-                    print("⚠️ [Camino 1] Pre-filtro vacío; usando contexto completo.")
-                    data_context_groq = data_context
+                    lineas_filtradas = [
+                        linea for linea in data_context.split("\n---\n")
+                        if linea.strip() and _tweet_es_reciente(linea)
+                    ]
+                    data_context_groq = "\n---\n".join(lineas_filtradas)
+                    print(f"📏 [Camino 1] Contexto Groq pre-filtrado: {len(data_context_groq):,} chars ({len(lineas_filtradas)} tweets)")
 
-                prompt_groq = prompt_institucional
-                marker = "TWEETS A ANALIZAR:\n"
-                if marker in prompt_institucional:
-                    prompt_groq = prompt_institucional.rsplit(marker, 1)[0] + marker + data_context_groq
-                elif data_context and data_context in prompt_institucional:
-                    prompt_groq = prompt_institucional.replace(data_context, data_context_groq, 1)
+                    if not data_context_groq.strip():
+                        print("⚠️ [Camino 1] Pre-filtro vacío; usando contexto completo.")
+                        data_context_groq = data_context
 
-                groq_payload = {
-                    "model": "meta-llama/llama-4-scout-17b-16e-instruct",
-                    "messages": [
-                        {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
-                        {"role": "user", "content": prompt_groq},
-                    ],
-                    "temperature": 0.2,
-                    "max_tokens": 5000,
-                    "response_format": {"type": "json_object"},
-                }
+                    prompt_groq = prompt_institucional
+                    marker = "TWEETS A ANALIZAR:\n"
+                    if marker in prompt_institucional:
+                        prompt_groq = prompt_institucional.rsplit(marker, 1)[0] + marker + data_context_groq
+                    elif data_context and data_context in prompt_institucional:
+                        prompt_groq = prompt_institucional.replace(data_context, data_context_groq, 1)
 
-                resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=60)
-                resp_groq.raise_for_status()
-                rj = resp_groq.json()
+                    groq_payload = {
+                        "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+                        "messages": [
+                            {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
+                            {"role": "user", "content": prompt_groq},
+                        ],
+                        "temperature": 0.2,
+                        "max_tokens": 5000,
+                        "response_format": {"type": "json_object"},
+                    }
 
-                choices = rj.get("choices") or []
-                if not choices:
-                    raise ValueError("Groq devolvió respuesta sin 'choices'.")
+                    resp_groq = requests.post(groq_url, headers=groq_headers, json=groq_payload, timeout=60)
+                    resp_groq.raise_for_status()
+                    rj = resp_groq.json()
 
-                raw_text = ((choices[0].get("message") or {}).get("content") or "").strip()
-                print("✅ [Camino 1] Plan C (Groq) exitoso.")
-                try:
-                    uso_groq = rj.get("usage", {})
-                    t_in_g = uso_groq.get("prompt_tokens", 0) or 0
-                    t_out_g = uso_groq.get("completion_tokens", 0) or 0
-                    registrar_consumo_tokens(t_in_g, t_out_g, modelo="meta-llama/llama-4-scout-17b-16e-instruct", turno_corrida=turno)
-                except Exception:
-                    pass
+                    choices = rj.get("choices") or []
+                    if not choices:
+                        raise ValueError("Groq devolvió respuesta sin 'choices'.")
 
-            if not raw_text:
-                raise RuntimeError("❌ [Camino 1] Ni Gemini, ni DeepSeek, ni Groq devolvieron respuesta.")
+                    raw_text = ((choices[0].get("message") or {}).get("content") or "").strip()
 
-            required_fields = [
-                "clima_general",
-                "resumen_ejecutivo",
-                "analisis_profundo",
-                "temas_calientes",
-                "tweet_destacado",
-                "analisis_por_gobernador",
-            ]
-            expected_types = {
-                "clima_general": str,
-                "resumen_ejecutivo": str,
-                "analisis_profundo": str,
-                "temas_calientes": list,
-                "tweet_destacado": dict,
-                "analisis_por_gobernador": list,
-            }
+                    resumen_data, _raw_limpio_cam1 = _parsear_y_validar_resumen(
+                        raw_text,
+                        required_fields=required_fields,
+                        expected_types=expected_types,
+                        contexto="Camino 1 / Groq",
+                        guardar_raw_en=f"data/{fecha_hoy_str}_camino1_groq_raw_fail_{turno}.txt",
+                        preview_chars=500,
+                    )
 
-            resumen_data, _raw_limpio_cam1 = _parsear_y_validar_resumen(
-                raw_text,
-                required_fields=required_fields,
-                expected_types=expected_types,
-                contexto="Camino 1",
-                guardar_raw_en=f"data/{fecha_hoy_str}_camino1_raw_fail_{turno}.txt",
-                preview_chars=500,
-            )
+                    print("✅ [Camino 1] Plan C (Groq) exitoso.")
+                    try:
+                        uso_groq = rj.get("usage", {})
+                        t_in_g = uso_groq.get("prompt_tokens", 0) or 0
+                        t_out_g = uso_groq.get("completion_tokens", 0) or 0
+                        registrar_consumo_tokens(t_in_g, t_out_g, modelo="meta-llama/llama-4-scout-17b-16e-instruct", turno_corrida=turno)
+                    except Exception:
+                        pass
+
+                except Exception as e_groq:
+                    print(f"⚠️ Plan C (Groq) falló: {e_groq}")
+
+            if resumen_data is None:
+                raise RuntimeError("❌ Ningún modelo superó la validación.")
 
             # --- 5. AUDITORÍA OPENARG (FRANCOTIRADOR) ---
             if "tweet_destacado" in resumen_data:
