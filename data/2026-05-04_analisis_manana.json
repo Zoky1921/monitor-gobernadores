@@ -1,0 +1,117 @@
+{
+    "clima_general": "AGITADO",
+    "resumen_ejecutivo": "La jornada federal muestra un panorama agitado, especialmente con la drástica decisión del gobernador Claudio Poggi (San Luis) de solicitar la renuncia de todos sus funcionarios para profundizar la austeridad y asegurar el compromiso con el 'cambio' ante la caída de ingresos fiscales. En contraste, los gobernadores Rolo Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) enfocan sus agendas en el desarrollo energético y la preparación de sus poblaciones para nuevas oportunidades laborales, destacando el impacto positivo del RIGI. Otros, como Hugo Passalacqua (Misiones) y Claudio Vidal (Santa Cruz), se centran en la gestión local, obras públicas y programas sociales, mostrando una diversidad en las prioridades provinciales frente a los desafíos económicos y de gobernanza.",
+    "analisis_profundo": "El escenario político federal se presenta hoy con una marcada bipolaridad: una fuerte señal de crisis interna y reestructuración en San Luis, contrapuesta con la agenda de desarrollo productivo y preparación para el futuro en la Norpatagonia. El gobernador Claudio Poggi (San Luis) ha generado un cimbronazo al solicitar la renuncia de la totalidad de sus funcionarios políticos. Esta medida radical, justificada por la necesidad de profundizar la austeridad y 'no volver al pasado' ante una sostenida caída de ingresos fiscales, subraya la profunda crisis económica que algunas provincias enfrentan y la exigencia de redefinir el compromiso de sus estructuras de gobierno. Se anticipa una nueva ley de Ministerios y un paquete de acciones para atraer inversión privada, indicando un giro hacia una gestión más ajustada y enfocada en la reactivación económica local.\n\nPor otro lado, la Norpatagonia, representada por los gobernadores Rolo Figueroa (Neuquén) y Alberto Weretilneck (Río Negro), continúa consolidando una agenda de desarrollo ligada a la energía y la inversión. Figueroa (Neuquén) enfatiza la competitividad y el impacto positivo del Régimen de Incentivo para Grandes Inversiones (RIGI) en la creación de empleo y la actividad económica, en un contexto internacional como la OTC en Houston. También proyecta la provincia en el ámbito espacial con una candidata a astronauta, diversificando la visión de futuro. Weretilneck (Río Negro) refuerza la vinculación entre el 'futuro energético' y la capacitación laboral, destacando su programa de inglés gratuito y la inversión en infraestructura local, como el polideportivo de Barda del Medio, para garantizar que los rionegrinos sean parte de este crecimiento. Ambos gobernadores buscan posicionar a sus provincias como polos de desarrollo y exportación de energía.\n\nEn el Nordeste, Hugo Passalacqua (Misiones) se dedica a la celebración del aniversario de Montecarlo, reconociendo el esfuerzo de sus pioneros y la identidad trabajadora de la comunidad, un enfoque en la gestión local y la reafirmación cultural. De manera similar, Elías Suárez (Santiago del Estero) destaca la llegada de nuevas obras públicas al departamento Loreto, manteniendo una agenda de cercanía territorial y desarrollo de infraestructura. Finalmente, Claudio Vidal (Santa Cruz) enfoca su comunicación en una política social concreta: la distribución masiva de leche fortificada para madres y niños, priorizando la salud pública y el bienestar infantil en la provincia. Estas acciones reflejan una gestión más orientada a lo social y lo local, distanciándose de los debates económicos nacionales más conflictivos. La diversidad de estas agendas muestra una adaptación regional a los desafíos, con San Luis como el epicentro de la mayor agitación política interna del día.",
+    "temas_calientes": [
+        {
+            "tema": "Reestructuración y Austeridad Gubernamental, con una renovación total de gabinetes y enfoque en la inversión privada.",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Desarrollo Energético y Atracción de Inversiones (RIGI), destacando el potencial de Vaca Muerta para empleo y crecimiento.",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Desarrollo Local, a través de obras públicas y programas comunitarios.",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Formación para el Futuro y Capital Humano, con énfasis en capacitación técnica y bilingüismo para oportunidades laborales.",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales y Salud Pública, con foco en asistencia alimentaria y cuidado de la niñez.",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@claudiojpoggi",
+        "texto": "En el marco de lo anteriormente dicho, y para evaluar personalmente la tarea de cada uno; hoy pediré la RENUNCIA a todos los Funcionarios Políticos del Gobierno Provincial, del 100 % (de todos los Ministerios y Entes Descentralizados). El criterio de evaluación, entre otros, será: mayor austeridad (dado el contexto de caída de los ingresos fiscales de la Pcia que ya lleva cuatro meses consecutivos) y pleno compromiso de no volver al pasado.",
+        "por_que_es_clave": "Esta medida es una acción política contundente y sin precedentes recientes, que refleja una profunda crisis económica y la necesidad de una reestructuración total del Estado provincial. Implica un fuerte mensaje de austeridad y cambio de rumbo, generando incertidumbre pero también una expectativa de renovación radical.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Celebraciones provinciales",
+                "Identidad local",
+                "Trabajo y comunidad"
+            ],
+            "postura_politica": "El gobernador se enfoca en la reafirmación de la identidad y el valor del trabajo de los pioneros, destacando la importancia de las celebraciones locales como parte del tejido social y cultural de Misiones.",
+            "frase_fuerte": "Porque son ellos quienes abrieron camino, quienes hicieron de esta tierra una comunidad trabajadora, pujante y con identidad."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inversión productiva",
+                "RIGI",
+                "Generación de empleo",
+                "Desarrollo tecnológico",
+                "Industria espacial"
+            ],
+            "postura_politica": "Figueroa posiciona a Neuquén como líder en la atracción de inversiones, especialmente por el RIGI en el sector energético. Subraya la competitividad provincial y el liderazgo en indicadores económicos, además de proyectar una visión hacia el futuro en tecnología y espacio.",
+            "frase_fuerte": "El RIGI ha acelerado las inversiones, y esto es muy importante porque tenemos un tiempo acotado para aprovechar nuestros recursos."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Proximidad estatal",
+                "Capacitación laboral",
+                "Desarrollo energético",
+                "Infraestructura deportiva",
+                "Educación bilingüe"
+            ],
+            "postura_politica": "El gobernador impulsa la cercanía del Estado a la ciudadanía con programas de trámites y educación gratuita en inglés, vinculando directamente la formación con las oportunidades del futuro energético. También destaca inversiones en infraestructura local con fondos propios.",
+            "frase_fuerte": "Con el futuro energético en marcha, necesitamos que nuestra gente esté preparada para acceder a puestos de trabajo y ser parte de este desarrollo."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Austeridad gubernamental",
+                "Reestructuración estatal",
+                "Reducción de cargos políticos",
+                "Generación de empleo privado",
+                "Caída de ingresos fiscales"
+            ],
+            "postura_politica": "Poggi adopta una postura de cambio radical, exigiendo la renuncia de todo su gabinete para combatir la caída de ingresos fiscales y profundizar la austeridad. Busca reorientar la gestión hacia la inversión privada y la creación de empleo, marcando un quiebre con el pasado.",
+            "frase_fuerte": "hoy pediré la RENUNCIA a todos los Funcionarios Políticos del Gobierno Provincial, del 100 % (de todos los Ministerios y Entes Descentralizados). El criterio de evaluación, entre otros, será: mayor austeridad (dado el contexto de caída de los ingresos fiscales de la Pcia que ya lleva cuatro meses consecutivos) y pleno compromiso de no volver al pasado."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Salud pública",
+                "Asistencia social",
+                "Nutrición infantil",
+                "Cuidado de la niñez",
+                "Estado presente"
+            ],
+            "postura_politica": "Vidal prioriza la salud pública y el bienestar infantil a través de programas de distribución de leche fortificada. Su gestión se muestra cercana y enfocada en garantizar el acceso a insumos esenciales para las familias de Santa Cruz.",
+            "frase_fuerte": "Seguimos poniendo los recursos donde más se necesitan, con un Estado presente y una decisión clara de cuidar la salud desde el primer momento."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Desarrollo departamental",
+                "Gestión local"
+            ],
+            "postura_politica": "Suárez se centra en la continuidad de obras públicas en el interior provincial, reafirmando una agenda de gestión territorial y cercanía con las comunidades para mejorar su infraestructura y calidad de vida.",
+            "frase_fuerte": "Llegamos con nuevas obras para el departamento #Loreto 📍"
+        }
+    ]
+}
