@@ -1,13 +1,57 @@
 {
-    "clima_general": "SILENCIO",
-    "resumen_ejecutivo": "Sin señales de poder, posicionamiento simbólico o agenda fiscal relevante en la jornada de hoy.",
-    "analisis_profundo": "Jornada de repliegue estratégico o puramente administrativa. Los gobernadores evitaron posicionamientos que afecten la dinámica federal o la relación con Nación.",
-    "temas_calientes": [],
-    "tweet_destacado": {
-        "usuario": null,
-        "texto": "Sin posteos destacados en la jornada de hoy",
-        "por_que_es_clave": null,
-        "pregunta_openarg": null
+  "clima_general": "REPLIEGUE",
+  "resumen_ejecutivo": "En una jornada de bajo voltaje federal, los gobernadores se refugian en la gestión territorial (viviendas, salud, obras locales) y evitan confrontar abiertamente la agenda nacional. Claudio Poggi (San Luis) marca la excepción con un gesto de reordenamiento interno drástico, mientras Vidal (Santa Cruz) y otros priorizan contención social básica. La caja y la macroeconomía brillan por su ausencia: cálculo de supervivencia ante un ajuste que ya golpea las provincias.",
+  "analisis_profundo": "La superficie protocolar de este 4 de mayo revela un federalismo en modo defensivo. Lejos de las grandes batallas por coparticipación o recursos estratégicos que definieron otros momentos, los mandatarios provinciales optan por el terreno conocido: pavimentos, hospitales, leche fortificada y títulos de propiedad. Es el clásico repliegue a la agenda de cabotaje cuando la relación con Nación se torna incierta o costosa.\n\nClaudio Poggi (San Luis) emerge como la señal más nítida de movimiento interno: al pedir la renuncia masiva de funcionarios políticos y anunciar una nueva ley de Ministerios con reducción de cargos, envía un mensaje dual. Por un lado, responde a la caída de ingresos fiscales provinciales con austeridad visible; por otro, consolida control político y se blinda ante cualquier reproche de ineficiencia. En un contexto de cuatro meses consecutivos de caída de recursos, Poggi elige la narrativa del 'cambio real' frente a la herencia.\n\nEn Santa Cruz, Claudio Vidal insiste en la distribución de leche y obras de infraestructura básica, reforzando un perfil de Estado presente en lo elemental. Similar lógica sigue Elias Suarez en Santiago del Estero con obras puntuales en Loreto. El resto del mapa muestra un patrón claro: intendentes, pavimentos, salud local y efemérides. Ausente está la pulseada fiscal explícita, las quejas por obras nacionales frenadas o la defensa corporativa de recursos como litio o hidrocarburos que caracterizaron momentos de mayor tensión.\n\nEste silencio macroeconómico no es inocente. Refleja un cálculo racional: con la Nación concentrada en su propio ajuste, los gobernadores evitan desgastarse en batallas de alto perfil que podrían traducirse en menos fondos o mayor aislamiento. Prefieren mostrar gestión tangible en sus territorios, donde el votante percibe pavimento y leche antes que debates sobre RIGI o glaciares. Es diplomacia de la caja por omisión: no agredir para no ser agredido. Sin embargo, este repliegue colectivo genera una orfandad política en la Casa Rosada, que carece de aliados visibles dispuestos a defender el modelo en el territorio. El efecto es un federalismo fragmentado, donde cada provincia negocia su supervivencia en silencio mientras la Nación avanza sin contrapeso provincial organizado.",
+  "temas_calientes": [
+    {
+      "tema": "Reordenamiento interno y austeridad provincial",
+      "gobernadores_involucrados": ["claudiojpoggi"]
     },
-    "analisis_por_gobernador": []
+    {
+      "tema": "Contención social básica y distribución de insumos (leche, salud)",
+      "gobernadores_involucrados": ["ClaudioVidalSer"]
+    },
+    {
+      "tema": "Obras locales y gestión territorial en el interior",
+      "gobernadores_involucrados": ["EliasSuarezSDE"]
+    }
+  ],
+  "tweet_destacado": {
+    "usuario": "claudiojpoggi",
+    "texto": "En el marco de lo anteriormente dicho, y para evaluar personalmente la tarea de cada uno; hoy pediré la RENUNCIA a todos los Funcionarios Políticos del Gobierno Provincial, del 100 %  (de todos los Ministerios y Entes Descentralizados). El criterio de evaluación, entre otros,  será: mayor austeridad (dado el contexto de caída de los ingresos fiscales de la Pcia que ya lleva cuatro meses consecutivos) y pleno compromiso de no volver al pasado.",
+    "por_que_es_clave": "Poggi transforma la presión fiscal en gesto político de control y renovación. Es una jugada que combina austeridad visible con limpieza interna, anticipando críticas y marcando territorio ante posibles tensiones con Nación.",
+    "pregunta_openarg": "¿Cuántos gobernadores seguirán el ejemplo de Poggi ante la caída de recursos, o preferirán el silencio administrativo?"
+  },
+  "analisis_por_gobernador": [
+    {
+      "gobernador": "claudiojpoggi (San Luis)",
+      "temas_mencionados": ["Austeridad", "Renuncia de funcionarios", "Reforma ministerial", "Caída de ingresos fiscales"],
+      "postura_politica": "Poggi asume el rol de reformador interno drástico. Frente a la realidad fiscal adversa, elige mostrar decisión y ruptura con el pasado en lugar de quejarse de Nación, posicionándose como gestor serio que prioriza eficiencia.",
+      "frase_fuerte": "hoy pediré la RENUNCIA a todos los Funcionarios Políticos del Gobierno Provincial, del 100 %"
+    },
+    {
+      "gobernador": "ClaudioVidalSer (Santa Cruz)",
+      "temas_mencionados": ["Distribución de leche fortificada", "Salud perinatal"],
+      "postura_politica": "Vidal refuerza el perfil de Estado presente en lo básico. En un contexto de restricciones, prioriza contención social directa (leche para hospitales) como respuesta tangible a necesidades inmediatas, evitando agenda de confrontación.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "EliasSuarezSDE (Santiago del Estero)",
+      "temas_mencionados": ["Obras en Loreto", "Gestión territorial"],
+      "postura_politica": "Agenda puramente local de ejecución de obras. Suarez se mantiene en el terreno administrativo provincial sin emitir señales hacia Nación, coherente con un perfil de gestión focalizada en el territorio.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "Kicillofok (Buenos Aires)",
+      "temas_mencionados": ["Gestión provincial anterior"],
+      "postura_politica": "Agenda local sin impacto federal visible en tweets recientes. Refugio en la narrativa de contención provincial.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "MartinLlaryora (Córdoba)",
+      "temas_mencionados": ["Gestión provincial anterior"],
+      "postura_politica": "Agenda local sin impacto federal visible en tweets recientes. Refugio en la narrativa de contención provincial.",
+      "frase_fuerte": null
+    }
+  ]
 }
