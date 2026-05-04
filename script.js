@@ -380,7 +380,7 @@ function actualizarSemaforo(estadoClima) {
     if (estado.includes("TENSO") || estado.includes("NEGATIVO") || estado.includes("CONFLICTO")) {
         semaforo.classList.add('rojo');
         semaforo.title = "Clima Político: TENSO";
-    } else if (estado.includes("NEUTRAL") || estado.includes("MODERADO") || estado.includes("AMBIVALENTE")) {
+    } else if (estado.includes("NEUTRAL") || estado.includes("MODERADO") || estado.includes("AGITADO") || estado.includes("AMBIVALENTE")) {
         semaforo.classList.add('amarillo');
         semaforo.title = "Clima Político: NEUTRAL / MODERADO";
     } else if (estado.includes("POSITIVO") || estado.includes("COOPERATIVO") || estado.includes("ACUERDO")) {
