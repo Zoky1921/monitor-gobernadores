@@ -1,0 +1,86 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "La jornada del 4 de mayo revela un repliegue territorial generalizado: los gobernadores priorizan efemérides locales, inauguraciones menores y gestión cabotaje, evitando confrontaciones con Nación. Ausencia total de reclamos fiscales o coparticipación; el silencio sobre macroeconomía es la subtrama: diplomacia fiscal implícita para no tensionar con Caputo en vísperas de negociaciones presupuestarias.",
+    "analisis_profundo": "El 4 de mayo de 2026 expone la arquitectura de un federalismo en compás de espera. No hay estruendo, solo el zumbido protocolar de la gestión municipal: Kicillof (Buenos Aires) retuitea angiógrafos y patrullas rurales, un catálogo de paliativos ante el desfinanciamiento nacional que él mismo denuncia en días previos pero omite hoy. Macri (CABA), con su año sin manteros en Chacarita, marca territorio urbano contra el desorden heredado, pero sin escalada federal. Frigerio (Entre Ríos) gestiona con Santilli y Caputo rutas y caja, la diplomacia fiscal clásica del peronismo dialoguista que evita el apriete público para no quemar cartuchos. Martin Llaryora (Córdoba) lanza mesas antinarcóticos y finales de fútbol en Kempes, un posicionamiento simbólico de 'Córdoba hostil al crimen' que ironiza el caos nacional sin nombrarlo. Zdero (Chaco) activa ChacoJuega, deporte como refugio ante temporales ignorados por Nación. Passalacqua (Misiones) celebra aniversarios comunales, apatía federal calculada en una provincia que depende de yerba y caja. El resto: silencio o peso bajo. Este apagón político no es casual; es cálculo: gobernadores alineados o neutrales preservan la caja ante un Milei que retiene fondos SAE y Remediar. Kicillof, el peso pesado, opta por el aislamiento bonaerense, dejando a Casa Rosada sin interlocutores. ¿Acaso ignoran que el ajuste nacional depende de su consenso para no implosionar? La omisión de litio, coparticipación o deuda es el verdadero mensaje: supervivencia por encima de la rosca. En el subsuelo, pactos inconfesables con Caputo para diferir tensiones fiscales; en la superficie, protocolo que deslegitima el relato mileísta de 'provincias pródigas'. El federalismo se refugia en cabotaje, dejando a Nación en orfandad política.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión cabotaje y efemérides locales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Diplomacia fiscal con Nación",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Seguridad y narcotráfico",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@frigeriorogelio (Entre Ríos)",
+        "texto": "Hoy estuve reunido con los ministros nacionales @diegosantilli y @LuisCaputoAR, y el secretario de Coordinación de Infraestructura, Fernando Hermann. Gestionamos rutas, transporte público, viviendas y obras de agua y saneamiento para Entre Ríos. El camino es claro: soluciones concretas para los entrerrianos, sin excusas.",
+        "por_que_es_clave": "Reunión con Caputo y Santilli evidencia diplomacia fiscal selectiva: Frigerio negocia caja y obras sin ruido público, preservando relación con Nación mientras otros callan. Subtrama: apriete velado por fondos retenidos.",
+        "pregunta_openarg": "¿Caputo giró fondos para rutas entrerrianas o es solo foto para la tribuna?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "salud provincial",
+                "seguridad rural"
+            ],
+            "postura_politica": "Retuits de angiógrafos y patrulla rural marcan refugio en gestión cabotaje; omite ataques a Nación de días previos para no escalar tensión fiscal pre-Día del Trabajador. Incentivo: deslegitimar ajuste mileísta sin quemar puentes con Caputo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "orden urbano"
+            ],
+            "postura_politica": "Un año sin manteros en Chacarita es marca territorial pro-Milei; refuerza relato de 'ley y orden' alineado con Casa Rosada, sin roces federales.",
+            "frase_fuerte": "La Ciudad del desorden, del caos y del vale todo se terminó."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "infraestructura con Nación"
+            ],
+            "postura_politica": "Reunión con Caputo/Santilli es diplomacia de la caja pura: gestiona rutas y viviendas sin dardo público, calculando supervivencia fiscal ante retenciones SAE.",
+            "frase_fuerte": "soluciones concretas para los entrerrianos, sin excusas."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "deporte"
+            ],
+            "postura_politica": "Lanzamiento ChacoJuega es agenda local aislada; ignora temporal y Nación, refugio en valores para contrarrestar crisis económica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "narcotráfico",
+                "eventos deportivos"
+            ],
+            "postura_politica": "Mesa antinarcóticos y final en Kempes posicionan Córdoba como 'referencia segura'; simbólico daño a relato nacional de descontrol, sin fiscalidad.",
+            "frase_fuerte": "Córdoba es y tiene que seguir siendo una referencia en la lucha contra el crimen organizado."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "aniversarios comunales"
+            ],
+            "postura_politica": "Montecarlo 106 años es protocolo cabotaje; omite yerba y Nación, apatía federal para preservar caja.",
+            "frase_fuerte": null
+        }
+    ]
+}
