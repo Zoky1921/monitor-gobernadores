@@ -1,13 +1,149 @@
 {
-    "clima_general": "SILENCIO",
-    "resumen_ejecutivo": "Sin señales de poder, posicionamiento simbólico o agenda fiscal relevante en la jornada de hoy.",
-    "analisis_profundo": "Jornada de repliegue estratégico o puramente administrativa. Los gobernadores evitaron posicionamientos que afecten la dinámica federal o la relación con Nación.",
-    "temas_calientes": [],
-    "tweet_destacado": {
-        "usuario": null,
-        "texto": "Sin posteos destacados en la jornada de hoy",
-        "por_que_es_clave": null,
-        "pregunta_openarg": null
+  "clima_general": "TENSION",
+  "resumen_ejecutivo": "La jornada no mostró una rebelión coral de gobernadores sino algo más sofisticado: un archipiélago de mensajes donde las provincias patagónicas y algunas periféricas aprovecharon la crisis energética y el repliegue nacional para reafirmar autonomía material, mientras Buenos Aires convirtió el conflicto de combustibles en un alegato directo contra Milei. En el resto, predominó una administración del silencio: gestión local, orden público o propaganda territorial como modo de evitar costos en una pelea con Nación que hoy no todos están dispuestos a escalar.",
+  "analisis_profundo": "Acto 1 — El Conflicto Central: la tensión dominante del día no fue una disputa formal por coparticipación sino una pelea más elusiva y acaso más profunda: quién absorbe el costo político y material del retiro nacional. Axel Kicillof (Buenos Aires) eligió romper el cerco y convertir el aumento de combustibles en una acusación ideológica frontal contra la Casa Rosada, ligando guerra internacional, precio del petróleo y deserción estatal. Del otro lado del mapa, Rolando Figueroa (Neuquén), Alberto Weretilneck (Río Negro), Claudio Vidal (Santa Cruz) y Gustavo Melella (Tierra del Fuego) no se montaron en esa retórica, pero hicieron algo más interesante: hablaron desde los recursos estratégicos, la energía y la defensa del trabajo local. Es la vieja gramática federal: cuando Nación se retira, la provincia exhibe activos.\\n\\nActo 2 — Los Alineamientos: no hubo un bloque homogéneo. Kicillof (Buenos Aires) se ubicó como opositor explícito y buscó nacionalizar el daño económico. Jorge Macri (CABA), en cambio, se refugió en la doctrina del orden, sin entrar en la discusión fiscal ni social del día: la omisión revela que para la Ciudad hoy rinde más consolidar una identidad de control urbano que disputar la macroeconomía. En la Patagonia apareció un alineamiento funcional, no necesariamente coordinado, alrededor de la renta energética y la protección del empleo. Figueroa (Neuquén) reivindicó Vaca Muerta y la baja del desempleo; Weretilneck (Río Negro) defendió el proyecto Vaca Muerta Sur como plataforma exportadora; Vidal (Santa Cruz) convirtió la caída de YCRT en un expediente de abandono nacional; Melella (Tierra del Fuego) reactivó la épica industrial frente a la amenaza de apertura. No es una liga formal, pero sí un mismo idioma material.\\n\\nActo 3 — La Micro-política: en las provincias de menor centralidad sistémica apareció el refugio en la agenda de cabotaje. Hugo Passalacqua (Misiones) eligió mostrar salud pública, atención y cercanía. Claudio Poggi (San Luis) usó la efeméride del Himno para reafirmar una pedagogía republicana de baja intensidad. Ricardo Quintela (La Rioja), aun sin un tuit de confrontación económica directa, insistió en una escena de cuidado social y pertenencia territorial. No es trivial: cuando los gobernadores muestran hospitales, escuelas, actos patrios o presencia barrial, están diciendo que la legitimidad ya no se compra en Buenos Aires sino en la administración capilar del territorio. El cálculo detrás es simple: si no pueden torcer la macro, al menos blindan el vínculo local.\\n\\nActo 4 — Saldo Presidencial: para la Casa Rosada, el balance es ambiguo. No hubo una sublevación federal sincronizada, y eso evita la foto de aislamiento presidencial. Pero tampoco hubo adhesión política de los gobernadores al relato libertario en una jornada sensible. Incluso los que callaron sobre Nación hablaron de empleo, industria, energía, obra o cuidado social, es decir, de todo aquello que el credo oficial suele degradar o subordinar. El problema para el Presidente no es solo la crítica abierta de Buenos Aires; es algo más estructural: mientras Nación defiende una abstracción doctrinaria, las provincias vuelven a presentarse como administradoras concretas del daño. Allí se cocina una disputa más seria que un trending topic: la reconstrucción de una legitimidad federal por sustitución.",
+  "temas_calientes": [
+    {
+      "tema": "Combustibles, petróleo y costo político del ajuste energético",
+      "gobernadores_involucrados": [
+        "@Kicillofok",
+        "@Rolo_Figueroa",
+        "@WeretilneckOK",
+        "@ClaudioVidalSer"
+      ]
     },
-    "analisis_por_gobernador": []
+    {
+      "tema": "Defensa provincial del empleo industrial y productivo frente al repliegue nacional",
+      "gobernadores_involucrados": [
+        "@gustavomelella",
+        "@Rolo_Figueroa",
+        "@WeretilneckOK",
+        "@Kicillofok"
+      ]
+    },
+    {
+      "tema": "Orden urbano y seguridad como refugio discursivo en distritos centrales",
+      "gobernadores_involucrados": [
+        "@jorgemacri"
+      ]
+    },
+    {
+      "tema": "Gestión sanitaria y social como sustituto de la ausencia nacional",
+      "gobernadores_involucrados": [
+        "@Kicillofok",
+        "@passalacquaok",
+        "@QuintelaRicardo"
+      ]
+    },
+    {
+      "tema": "Patriotismo provincial y agenda protocolar como marca de territorio político",
+      "gobernadores_involucrados": [
+        "@claudiojpoggi",
+        "@QuintelaRicardo"
+      ]
+    }
+  ],
+  "tweet_destacado": {
+    "usuario": "@Kicillofok",
+    "texto": "La guerra de Milei contra el bolsillo de los argentinos\\n\\nComo se sabe, la guerra en Medio Oriente puso presión sobre el precio del petróleo y, por lo tanto, sobre los combustibles y la nafta en particular. Antes de que Estados Unidos e Israel iniciaran la operación 'Furia Épica' contra Irán, el barril de Brent oscilaba entre 65 y 70 dólares. Luego del inicio del conflicto, el precio casi se duplicó y hoy supera los 100 dólares.\\n\\nFrente a estas circunstancias, muchos países tomaron medidas para impedir que el aumento del crudo impactara en los precios de los combustibles y de la energía, y se trasladara al bolsillo de las familias y a los costos de las empresas. En esos países, el Estado —ese que Milei desprecia— intervino para evitar, o al menos atenuar, que las consecuencias de la guerra deterioren aún más la calidad de vida de sus sociedades.\\nLamentablemente, este complejo contexto mundial encuentra a nuestro país con un gobierno aferrado a una ideología anacrónica, incompatible con el interés nacional y, sobre todo, totalmente inoportuna para gobernar en estas circunstancias. Para Milei —a diferencia incluso de aliados como Trump, Meloni o el derrotado Orbán— el mercado lo resuelve todo y el Estado, al que considera responsable de todos los males, debe simplemente desaparecer. En los artículos teóricos del Presidente estas falsedades no hacen daño; en la realidad, son un problema gravísimo. Hay guerra, el precio del petróleo se dispara y el Estado decide no hacer absolutamente nada. Un Estado desertor que renuncia a actuar como Estado nacional. \\n\\nEn este marco, nos enteramos de que 'descongelan' el precio de las naftas y aplican un nuevo aumento: al 25% previo se suma ahora otro 9%. Tal vez, en medio de sus fantasías bélicas, el Presidente decidió librar su propia guerra: una guerra contra el bolsillo de los argentinos.\\n\\nQue la nafta siga aumentando en Argentina tiene, además, un agravante, también producto de una ideología contraria al interés nacional. Gracias a la recuperación de YPF en 2012 y al desarrollo de Vaca Muerta, el país viene recuperando el autoabastecimiento e incluso cuenta con excedentes exportables. Sin embargo, Milei sostiene que el petróleo extraído del subsuelo argentino debe pagarse al precio internacional, incluso en un contexto de guerra. Es decir: en Argentina terminamos pagando lo mismo que un país que no produce petróleo y debe importar.\\n\\nMientras tanto, en muchísimos países, además de medidas para contener el precio de los combustibles, se evalúan contribuciones extraordinarias a las empresas petroleras, que multiplican sus ganancias en medio del sufrimiento de pueblos afectados —directa o indirectamente— por guerras absurdas, al menos mientras dure el conflicto. Son gobiernos que priorizan el bienestar de sus sociedades. Hoy Argentina no cuenta con eso, pero falta menos para que termine este capítulo de infamia, esta cascada de irresponsabilidad que cae sobre los argentinos. Hay otro camino y lo vamos a seguir construyendo.",
+    "por_que_es_clave": "Porque convierte un shock externo en una acusación política interna y disputa el sentido de Vaca Muerta: ya no como activo exportador de Nación, sino como prueba de que el gobierno nacional elige trasladar el daño al consumidor. Es un intento de apropiarse de la representación del agravio social y, al mismo tiempo, de presentar a la Provincia como un Estado que todavía interviene donde la Casa Rosada se retira.",
+    "pregunta_openarg": "Si Argentina produce petróleo y cuenta con Vaca Muerta, ¿por qué el precio interno de los combustibles debe seguir la lógica internacional incluso en un contexto de guerra y shock externo?"
+  },
+  "analisis_por_gobernador": [
+    {
+      "gobernador": "@Kicillofok (Buenos Aires)",
+      "temas_mencionados": [
+        "combustibles",
+        "petróleo",
+        "Servicio Alimentario Escolar",
+        "salud pública",
+        "obra alimentaria"
+      ],
+      "postura_politica": "Dijo que Milei deserta como Estado y deja que la guerra externa se descargue sobre el bolsillo interno; quiso decir que Buenos Aires va a ocupar el lugar de protector social mientras Nación administra el ajuste. El dardo va directo a la Casa Rosada, pero también busca ordenar a la oposición peronista detrás de una agenda de daño material verificable.",
+      "frase_fuerte": "Tal vez, en medio de sus fantasías bélicas, el Presidente decidió librar su propia guerra: una guerra contra el bolsillo de los argentinos."
+    },
+    {
+      "gobernador": "@jorgemacri (CABA)",
+      "temas_mencionados": [
+        "orden urbano",
+        "control estatal",
+        "estacionamientos truchos"
+      ],
+      "postura_politica": "Dijo que combate abusos en el espacio público; quiso decir que su capital político no se juega en la macro sino en la promesa de autoridad. La omisión de toda referencia a Nación sugiere un cálculo defensivo: gana más consolidando identidad de gestión dura que entrando en una disputa donde Milei fija el ritmo.",
+      "frase_fuerte": "La ley y el orden rigen en cada metro cuadrado de la Ciudad."
+    },
+    {
+      "gobernador": "@QuintelaRicardo (La Rioja)",
+      "temas_mencionados": [
+        "agenda social",
+        "territorio",
+        "identidad provincial"
+      ],
+      "postura_politica": "Su presencia válida en la jornada no escaló un conflicto federal explícito. El silencio sugiere que prefiere reservar capital político para peleas donde pueda mostrar perjuicio concreto de Nación, evitando sobreactuar en una jornada donde otros ya ocuparon la escena nacional. Gestión protocolar aislada.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@passalacquaok (Misiones)",
+      "temas_mencionados": [
+        "salud",
+        "gestión territorial",
+        "cercanía"
+      ],
+      "postura_politica": "Dijo gestión y cuidado de proximidad; quiso decir que Misiones preserva autonomía sin romper del todo con nadie. Provincia periférica, sospecha moderada: más que un desafío federal, aparece un repliegue prudente a la administración local. Agenda local sin impacto federal.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@Rolo_Figueroa (Neuquén)",
+      "temas_mencionados": [
+        "Vaca Muerta",
+        "empleo",
+        "energía",
+        "desarrollo productivo"
+      ],
+      "postura_politica": "Dijo desarrollo neuquino asociado a recursos estratégicos; quiso decir que Neuquén no aceptará ser solo plataforma extractiva mientras otros capturan la renta política. El silencio sobre un choque frontal con Nación revela una negociación en curso: presiona mostrando fortaleza, no victimización.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@WeretilneckOK (Río Negro)",
+      "temas_mencionados": [
+        "Vaca Muerta Sur",
+        "exportación",
+        "infraestructura energética"
+      ],
+      "postura_politica": "Dijo obra y proyección exportadora; quiso decir que Río Negro exige ser socio del negocio energético, no apenas corredor pasivo. El dardo es oblicuo: si Nación celebra superávit y apertura, la provincia reclama tajada territorial y reconocimiento estratégico.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@claudiojpoggi (San Luis)",
+      "temas_mencionados": [
+        "efeméride patria",
+        "identidad institucional",
+        "pedagogía cívica"
+      ],
+      "postura_politica": "Dijo patria e himno; quiso decir orden simbólico y restauración institucional en clave provincial. No hay músculo federal en el mensaje, pero sí una voluntad de reconstruir legitimidad desde los rituales del Estado. Gestión protocolar aislada.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+      "temas_mencionados": [
+        "YCRT",
+        "empleo",
+        "energía",
+        "abandono nacional"
+      ],
+      "postura_politica": "Dijo defensa del trabajo y de activos estratégicos; quiso decir que Santa Cruz no aceptará el vaciamiento de enclaves históricos sin cobrar costo político. El dardo apunta a Nación como administradora de retiro, aunque envuelto en una retórica de protección laboral más que de oposición partidaria.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@gustavomelella (Tierra del Fuego)",
+      "temas_mencionados": [
+        "industria fueguina",
+        "empleo",
+        "defensa productiva",
+        "soberanía económica"
+      ],
+      "postura_politica": "Dijo defensa del trabajo local; quiso decir que la apertura irrestricta amenaza el pacto de supervivencia de la isla. Es una posición simbólica y material a la vez: proteger el régimen fueguino como frontera industrial, laboral y geopolítica frente a una Nación que mide eficiencia donde la provincia mide existencia.",
+      "frase_fuerte": null
+    }
+  ]
 }
