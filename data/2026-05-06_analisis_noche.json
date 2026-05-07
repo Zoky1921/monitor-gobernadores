@@ -1,0 +1,255 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal del 6 de mayo de 2026 reveló una profunda tensión entre Nación y provincias. Axel Kicillof (Buenos Aires) lanzó una dura crítica al gobierno central por la política de combustibles, calificándola de 'guerra contra el bolsillo de los argentinos'. En contraste, Jorge Macri (Ciudad de Buenos Aires) celebró una exitosa emisión de deuda, mientras Martín Llaryora (Córdoba) y Gustavo Melella (Tierra del Fuego) destacaron la autonomía provincial para suplir las carencias nacionales en servicios. La inversión en minería fue clave para Marcelo Orrego (San Juan), Rolando Figueroa (Neuquén) y Carlos Sadir (Jujuy). En tanto, Alberto Weretilneck (Río Negro) enfrentó un paro docente y Maximiliano Pullaro (Santa Fe) celebró la recuperación de la seguridad en Rosario.",
+    "analisis_profundo": "La dinámica federal del 6 de mayo estuvo marcada por una acentuada polarización y el consecuente realineamiento de las agendas provinciales. Axel Kicillof (Buenos Aires) se posicionó en la vanguardia de la oposición, articulando una extensa y vehemente crítica a la política económica nacional. Su alocución sobre la 'guerra de Milei contra el bolsillo de los argentinos' y el rol de un 'Estado desertor' ante la crisis de combustibles es un claro intento de capitalizar el descontento popular y contrastar la gestión bonaerense en obras y servicios con la inacción federal.\n\nEn antítesis, Jorge Macri (Ciudad de Buenos Aires) proyectó una imagen de estabilidad y solvencia, celebrando una emisión de deuda récord con la 'mejor tasa en su historia', lo que refuerza una narrativa de orden fiscal y predictibilidad en la capital. Sus acciones en seguridad, bajo la consigna de 'Ley y orden', buscan consolidar una gestión que se desmarca de las problemáticas sociales y económicas más acuciantes en el interior.\n\nVarios gobernadores peronistas, si bien no tan frontales como Kicillof, subrayaron la capacidad provincial para sostener servicios esenciales ante el repliegue nacional. Martín Llaryora (Córdoba) declaró explícitamente que 'las provincias y los municipios nos estamos haciendo cargo de lo que abandona el Gobierno nacional', evidenciando la carga que asumen en educación (Boleto Educativo) y asistencia por discapacidad. Sergio Ziliotto (La Pampa) y Claudio Poggi (San Luis) hicieron hincapié en la continuidad de sus planes de vivienda con fondos propios, enfatizando la 'dignidad del pueblo' frente a un contexto nacional adverso. Gustavo Melella (Tierra del Fuego) replicó esta lógica al sostener un programa de medicamentos que antes era federal. Rogelio Frigerio (Entre Ríos) optó por la gestión directa con la Nación para resolver temas de escuelas técnicas y deudas jubilatorias, manteniendo un canal de diálogo.\n\nEl sector productivo, particularmente la minería e hidrocarburos, mantuvo un rol central. Marcelo Orrego (San Juan) y Carlos Sadir (Jujuy) destacaron la atracción de inversiones y la responsabilidad social empresaria en sus respectivas exposiciones mineras. Rolando Figueroa (Neuquén) amplificó el mensaje de Vaca Muerta como la 'última gran oportunidad' para el país, anunciando licitaciones de nuevas áreas y proyectando a Neuquén como motor de desarrollo. Osvaldo Jaldo (Tucumán) enfocó su mensaje en la zafra azucarera y la articulación público-privada.\n\nEn el ámbito social y de gestión interna, Alberto Weretilneck (Río Negro) confrontó el paro docente con datos de alta asistencia, calificando la medida como una 'decisión política de confrontación'. Maximiliano Pullaro (Santa Fe) capitalizó la mejora de los índices de seguridad en Rosario, vinculando la reducción de la violencia con la recuperación del turismo. Este amplio espectro de acciones y discursos ilustra un federalismo que busca consolidar su autonomía y capacidad de respuesta frente a un gobierno central percibido como distante o deficitario en varias áreas clave.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación y Reclamo Federal ante la Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@GustavoSaenzOK",
+                "@gustavomelella",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Inversión y Gestión Autónoma de Infraestructura y Servicios",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Fomento al Desarrollo Productivo y Minero",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego",
+                "@Rolo_Figueroa",
+                "@carlossadirjuy",
+                "@OsvaldoJaldo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educación como Prioridad Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Urbano",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La guerra de Milei contra el bolsillo de los argentinos. Como se sabe, la guerra en Medio Oriente puso presión sobre el precio del petróleo y, por lo tanto, sobre los combustibles y la nafta en particular. Antes de que Estados Unidos e Israel iniciaran la operación “Furia Épica” contra Irán, el barril de Brent oscilaba entre 65 y 70 dólares. Luego del inicio del conflicto, el precio casi se duplicó y hoy supera los 100 dólares. Frente a estas circunstancias, muchos países tomaron medidas para impedir que el aumento del crudo impactara en los precios de los combustibles y de la energía, y se trasladara al bolsillo de las familias y a los costos de las empresas. En esos países, el Estado —ese que Milei desprecia— intervino para evitar, o al menos atenuar, que las consecuencias de la guerra deterioren aún más la calidad de vida de sus sociedades. Lamentablemente, este complejo contexto mundial encuentra a nuestro país con un gobierno aferrado a una ideología anacrónica, incompatible con el interés nacional y, sobre todo, totalmente inoportuna para gobernar en estas circunstancias. Para Milei —a diferencia incluso de aliados como Trump, Meloni o el derrotado Orbán— el mercado lo resuelve todo y el Estado, al que considera responsable de todos los males, debe simplemente desaparecer. En los artículos teóricos del Presidente estas falsedades no hacen daño; en la realidad, son un problema gravísimo. Hay guerra, el precio del petróleo se dispara y el Estado decide no hacer absolutamente nada. Un Estado desertor que renuncia a actuar como Estado nacional. En este marco, nos enteramos de que “descongelan” el precio de las naftas y aplican un nuevo aumento: al 25% previo se suma ahora otro 9%. Tal vez, en medio de sus fantasías bélicas, el Presidente decidió librar su propia guerra: una guerra contra el bolsillo de los argentinos. Que la nafta siga aumentando en Argentina tiene, además, un agravante, también producto de una ideología contraria al interés nacional. Gracias a la recuperación de YPF en 2012 y al desarrollo de Vaca Muerta, el país viene recuperando el autoabastecimiento e incluso cuenta con excedentes exportables. Sin embargo, Milei sostiene que el petróleo extraído del subsuelo argentino debe pagarse al precio internacional, incluso en un contexto de guerra. Es decir: en Argentina terminamos pagando lo mismo que un país que no produce petróleo y debe importar. Mientras tanto, en muchísimos países, además de medidas para contener el precio de los combustibles, se evalúan contribuciones extraordinarias a las empresas petroleras, que multiplican sus ganancias en medio del sufrimiento de pueblos afectados —directa o indirectamente— por guerras absurdas, al menos mientras dure el conflicto. Son gobiernos que priorizan el bienestar de sus sociedades. Hoy Argentina no cuenta con eso, pero falta menos para que termine este capítulo de infamia, esta cascada de irresponsabilidad que cae sobre los argentinos. Hay otro camino y lo vamos a seguir construyendo.",
+        "por_que_es_clave": "Es la crítica más explícita y contundente de un gobernador a la política económica del gobierno nacional, que no solo cuestiona las decisiones sobre combustibles sino el rol ideológico del Estado en un contexto de crisis global. Posiciona al gobernador como líder de la oposición.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica a políticas nacionales",
+                "Gestión de salud",
+                "Infraestructura educativa",
+                "Vivienda",
+                "Seguridad alimentaria",
+                "Autonomía provincial"
+            ],
+            "postura_politica": "Asume un rol de fuerte oposición al gobierno nacional, criticando la inacción estatal ante la crisis de combustibles y el desfinanciamiento. A la vez, exhibe una gestión provincial activa en obras y servicios. Su narrativa apunta a contrastar su modelo con el de Milei, defendiendo la presencia del Estado para garantizar derechos y el bienestar social.",
+            "frase_fuerte": "La guerra de Milei contra el bolsillo de los argentinos"
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad y orden",
+                "Gestión financiera",
+                "Transparencia"
+            ],
+            "postura_politica": "Proyecta una imagen de 'mano dura' en seguridad y orden público, alineada con preceptos liberales de aplicación de la ley. Destaca su gestión financiera con un récord en la emisión de deuda, buscando diferenciarse positivamente y señalando la estabilidad y previsibilidad logradas.",
+            "frase_fuerte": "MIEDO. DROGA. INSEGURIDAD. Así querían condenar a vivir a los porteños. Aunque los defensores de los okupas lloren, no vamos a parar. Vamos a recuperar cada propiedad usurpada y devolverle la tranquilidad al barrio. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Emprendedorismo"
+            ],
+            "postura_politica": "Enfocado en el fomento del emprendedorismo local, buscando generar oportunidades y desarrollo desde la base provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desfinanciamiento nacional",
+                "Infraestructura de gas",
+                "Educación",
+                "Boleto educativo",
+                "Obras provinciales"
+            ],
+            "postura_politica": "Marca una clara postura de autonomía y responsabilidad provincial, destacando cómo Córdoba asume costos y servicios esenciales que el gobierno nacional ha retirado. Impulsa obras de infraestructura y políticas educativas con fuerte inversión local.",
+            "frase_fuerte": "Las provincias y los municipios nos estamos haciendo cargo de lo que abandona el Gobierno nacional."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Gestión federal",
+                "Educación técnica",
+                "Deuda con ANSES"
+            ],
+            "postura_politica": "Muestra una gestión proactiva ante el gobierno nacional, buscando soluciones a la deuda de ANSES con la caja jubilatoria provincial y avanzando en infraestructura educativa. Su enfoque es resolver problemas concretos para su provincia.",
+            "frase_fuerte": "Los entrerrianos eligieron un cambio y eso significa resolver, no esperar."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Vivienda",
+                "Transparencia",
+                "Dignidad"
+            ],
+            "postura_politica": "Prioriza la política habitacional y la garantía de derechos con recursos propios, resaltando la transparencia en la adjudicación de viviendas. Su mensaje implícitamente critica el contexto nacional al destacar el esfuerzo provincial por la 'dignidad del pueblo'.",
+            "frase_fuerte": "Cuando se garantizan derechos y hay reglas claras, las políticas públicas llegan a quienes realmente las merecen."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura deportiva"
+            ],
+            "postura_politica": "Centrado en el reconocimiento a figuras deportivas locales y la inversión en infraestructura para el deporte.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Salud pública",
+                "Acceso a medicamentos",
+                "Autonomía provincial"
+            ],
+            "postura_politica": "Resalta la capacidad y decisión de la provincia para garantizar el acceso a medicamentos, asumiendo una función que antes correspondía a la Nación. Refuerza la autonomía y capacidad de respuesta provincial frente a la retirada federal.",
+            "frase_fuerte": "No vamos a permitir que nadie se quede sin su medicamento. (...) Hoy lo que antes cubría Nación, lo sostiene Tierra del Fuego."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Salud",
+                "Infraestructura de salud",
+                "Desarrollo local",
+                "Financiamiento"
+            ],
+            "postura_politica": "Enfocado en la gestión de obras y servicios de salud, así como en el diálogo con el sector financiero y líderes locales para impulsar el desarrollo provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Minería",
+                "Inversión extranjera",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Promueve a San Juan como un actor clave en la minería internacional, destacando la Expo Minera y las reuniones con embajadores para atraer inversiones bajo un marco de responsabilidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura educativa",
+                "Vivienda",
+                "Cooperativismo"
+            ],
+            "postura_politica": "Impulsa políticas de desarrollo social y educativo con foco en la juventud y el acceso a la vivienda, enfatizando el trabajo en Juana Koslay.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo energético",
+                "Vaca Muerta",
+                "Inversión",
+                "Infraestructura",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Posiciona a Neuquén como un pilar fundamental para el desarrollo nacional a través de Vaca Muerta, promoviendo la inversión y la gestión de obras con una visión de 'última gran oportunidad' para la Argentina.",
+            "frase_fuerte": "Es la última gran oportunidad y no la pensamos desaprovechar. Tenemos que ser la generación que puso de pie a la Argentina."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura",
+                "Educación",
+                "Producción"
+            ],
+            "postura_politica": "Concentrado en la inversión en infraestructura deportiva, educativa y productiva a nivel local, buscando impulsar el desarrollo y el trabajo genuino en la provincia.",
+            "frase_fuerte": "EL CAMINO ES POR ACÁ: EN GOBERNADOR GREGORES INVERTIMOS EN EDUCACIÓN Y PRODUCCIÓN PARA GENERAR TRABAJO"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Producción agroindustrial",
+                "Zafra azucarera",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Reafirma el compromiso con el sector productivo y el trabajo local, destacando la importancia del diálogo y los acuerdos regionales para fortalecer la economía provincial, especialmente la actividad azucarera.",
+            "frase_fuerte": "Con el inicio de una nueva zafra, renovamos nuestro compromiso con la producción, el trabajo y el desarrollo del interior tucumano."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el narcotráfico",
+                "Desarrollo turístico"
+            ],
+            "postura_politica": "Celebró el éxito en la reducción de la violencia y el crimen organizado en Rosario, asociando la recuperación del orden con el relanzamiento del turismo y la actividad económica. Enfatiza la firme decisión política de enfrentar a las mafias.",
+            "frase_fuerte": "Tomamos la firme decisión política de enfrentar a las mafias, demostrando que cuando el Estado asume su responsabilidad y no mira para otro lado, se le puede ganar al narcotráfico."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Gestión federal",
+                "Obras de infraestructura",
+                "Rutas",
+                "Transporte"
+            ],
+            "postura_politica": "Mantiene un rol de gestor ante el gobierno nacional, buscando destrabar obras e inversiones esenciales para la provincia. Su mensaje enfatiza la constancia en el reclamo y el trabajo diario para obtener lo que le 'corresponde' a Salta.",
+            "frase_fuerte": "No me voy a cansar de reclamar lo que nos corresponde. Defender a Salta es esto: insistir y trabajar todos los días para que las obras se concreten y las soluciones lleguen."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Educación",
+                "Conflicto docente",
+                "Infraestructura"
+            ],
+            "postura_politica": "Adopta una postura firme frente al paro docente, utilizando datos de presentismo y aumentos salariales para deslegitimar la medida de fuerza. Enfatiza la continuidad de la inversión educativa y la gestión de obras.",
+            "frase_fuerte": "NO HAY JUSTIFICACIÓN PARA DEJAR A LOS CHICOS SIN CLASES"
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Minería",
+                "Responsabilidad social empresarial"
+            ],
+            "postura_politica": "Resalta el potencial de la minería en Jujuy para generar desarrollo y oportunidades, enfocándose en la implementación de programas de responsabilidad social empresarial que beneficien a las comunidades locales.",
+            "frase_fuerte": null
+        }
+    ]
+}
