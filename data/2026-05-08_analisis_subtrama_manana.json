@@ -1,0 +1,100 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "En jornada de máxima sospecha para provincias centrales, Kicillof (Buenos Aires) marca explícitamente el desfinanciamiento nacional con inauguraciones locales y críticas a Milei por naftas y obras paralizadas. Macri (CABA) repliega en gestión prolija sin mención a Nación. Periféricos como Jalil (Catamarca) y Zdero (Chaco) exhiben gestión sin roces. Ausencia de gobernadores clave revela cálculo de supervivencia ante tensión fiscal implícita.",
+    "analisis_profundo": "El Conflicto Central: La asfixia fiscal se materializa en el contraste entre el bombardeo de Kicillof (Buenos Aires), que nombra 'obras paralizadas por decisión del Gobierno nacional' mientras inaugura aulas y bases policiales, y el silencio ensordecedor de la mayoría. No hay reclamos abiertos por coparticipación, pero la omisión revela una deuda acumulada: Nación repliega, provincias gestionan lo que pueden con recursos propios, en un tablero donde el petróleo disparado por guerras globales agrava el bolsillo sin intervención estatal.\n\nLos Alineamientos: Aliados implícitos emergen en la Mesa Federal Minera, con Jalil (Catamarca), Llaryora (Córdoba) y Macri (CABA) en nado sincronizado sobre minería como 'diplomacia fiscal' con Nación, sugiriendo pacto coyuntural por litio y cobre ante estabilidad macro. Paria evidente: Kicillof, con dardo directo a Milei por 'guerra contra el bolsillo'. Ambigüedad calculada en Torres CH (Chubut) y Figueroa (Neuquén), que alientan consumo local ignorando macro, preservando autonomía energética.\n\nLa Micro-política: Provincias periféricas optan por refugio en cabotaje: Zdero (Chaco) exporta carne a Omán como 'hecho histórico', Melella (TDF) ausente en tensión. Gestos de supervivencia como entregas de escrituras o centros de salud marcan territorio ante orfandad nacional, pero sin peso federal. El silencio de 15 gobernadores sugiere cálculo: ¿qué pierden si hablan en día de Expo Minera? Nada; ¿qué ganan si callan? Previsibilidad con Casa Rosada.\n\nSaldo Presidencial: Milei sale indemne, con gobernadores mineros validando su marco (RIGI, seguridad jurídica) y centrales en modo defensivo. La omisión colectiva deslegitima reclamos fiscales futuros, fortaleciendo el relato de 'orden macro' que permea incluso a opositores como Llaryora. Casa Rosada acumula capital: provincias gestionan lo micro, Nación dicta lo macro.",
+    "temas_calientes": [
+        {
+            "tema": "Mesa Federal Minera como articulación Nación-provincias",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@MartinLlaryora",
+                "@carlossadirjuy",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Gestión local frente a desfinanciamiento nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Obras y seguridad provinciales ignorando macro",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Producción exportadora sin roce fiscal",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Alivio fiscal y herramientas financieras locales",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (Buenos Aires)",
+        "texto": "Llegamos a las 1400 nuevas aulas inauguradas en la provincia con la obra de ampliación del Instituto Superior de Formación Docente N°41 en #AlmiranteBrown.\n\nEn épocas donde la Argentina está llena de obras paralizadas por decisión del Gobierno nacional, estos logros en materia de infraestructura educativa tienen un significado aún mayor.",
+        "por_que_es_clave": "Kicillof usa inauguración local para exponer contradicción central: Nación paraliza, Provincia gestiona. Máxima sospecha calibrada en Buenos Aires, reclama deuda implícita por desfinanciamiento educativo.",
+        "pregunta_openarg": "¿Cuánto del presupuesto nacional para educación bonaerense se evaporó en paralizaciones desde diciembre 2023?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "infraestructura educativa",
+                "seguridad",
+                "crítica a Milei"
+            ],
+            "postura_politica": "Exhibe 1400 aulas y bases policiales para disimular orfandad nacional; dardo directo por 'obras paralizadas' y naftas caras. Quiere decir: Nación abandona, PBA resiste. Apunta a Milei para reposicionarse opositor.",
+            "frase_fuerte": "En épocas donde la Argentina está llena de obras paralizadas por decisión del Gobierno nacional"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "gestión PRO",
+                "orden y seguridad"
+            ],
+            "postura_politica": "RTs masivos de gestión prolija (obras, estacionamientos truchos) sin mención Nación. Silencio sugiere cálculo: valida estabilidad macro sin confrontar. Agenda local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "minería federal"
+            ],
+            "postura_politica": "Lanza Mesa Federal Minera con Nación y pares; omisión macro revela alineación por inversiones litio/cobre. Quiere decir: articulo para desarrollo local.",
+            "frase_fuerte": "En el marco de la Expo San Juan Minera, participamos del lanzamiento de la Mesa Federal Minera"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "exportaciones"
+            ],
+            "postura_politica": "Exporta carne a Omán como 'hecho histórico'. Gestión cabotaje sin roce Nación; silencio sugiere supervivencia productiva periférica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "alivio financiero"
+            ],
+            "postura_politica": "Herramientas para bolsillo ante 'crisis nacional'. Omisión revela cálculo: amortigua ajuste Milei con caja provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "minería"
+            ],
+            "postura_politica": "Mesa Federal Minera posiciona Córdoba como proveedora energética. Alineado con Nación por clúster petrolero.",
+            "frase_fuerte": null
+        }
+    ]
+}
