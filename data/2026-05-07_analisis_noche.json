@@ -1,0 +1,276 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal estuvo marcada por la afirmación de la autonomía provincial frente a un contexto nacional complejo. Gobernadores de diversas fuerzas, como Axel Kicillof (Buenos Aires), Martín Llaryora (Córdoba), Sergio Ziliotto (La Pampa) y Rogelio Frigerio (Entre Ríos), enfatizaron la continuidad de la gestión y la inversión en áreas clave como educación, infraestructura, salud y desarrollo productivo, muchas veces asumiendo roles que atribuyen al abandono del Gobierno nacional. El Día de la Minería impulsó una agenda de desarrollo productivo en provincias como San Juan, Mendoza, Córdoba, Santa Fe, La Rioja y Río Negro, que buscan atraer inversiones y consolidarse como actores clave. Paralelamente, la conmemoración del natalicio de Eva Perón sirvió como plataforma para discursos de justicia social y defensa de derechos.",
+    "analisis_profundo": "La agenda de los gobernadores este 7 de mayo de 2026 y la última hora de ayer revela una estrategia dual: por un lado, una fuerte impronta de gestión y concreción de obras a nivel local y provincial, y por otro, una reafirmación identitaria y una crítica velada o explícita a las políticas del Gobierno nacional.\nEn el ámbito de la gestión, Axel Kicillof (Buenos Aires) destacó la inauguración de aulas y bases de seguridad, mientras que Jorge Macri (CABA) se enfocó en operativos de 'ley y orden' y la eliminación de irregularidades. Leandro Zdero (Chaco) y Claudio Vidal (Santa Cruz) también hicieron hincapié en obras de infraestructura y mejora de servicios en sus provincias. Estas acciones buscan proyectar una imagen de estados activos y eficientes, capaces de dar respuestas a las necesidades ciudadanas.\nUn eje central del día fue la minería. Gobernadores como Marcelo Orrego (San Juan), Alfredo Cornejo (Mendoza), Martín Llaryora (Córdoba), Maximiliano Pullaro (Santa Fe), Ricardo Quintela (La Rioja) y Alberto Weretilneck (Río Negro) convergieron en San Juan para la Mesa Federal Minera y la Expo San Juan Minera. Se observa un consenso interprovincial sobre el potencial de la actividad para atraer inversiones y generar empleo, aunque con distintos énfasis en la necesidad de 'reglas claras' y 'seguridad jurídica' a nivel nacional. La presencia de funcionarios nacionales en San Juan sugiere un intento de acercamiento, pero persisten las tensiones sobre el marco macroeconómico y el RIGI. Weretilneck (Río Negro) incluso anunció las primeras exportaciones mineras metalíferas de su provincia, un hito significativo.\nEl elemento ideológico se hizo sentir con fuerza a través de la conmemoración del natalicio de Eva Perón. Axel Kicillof (Buenos Aires), Gildo Insfrán (Formosa), Sergio Ziliotto (La Pampa) y Ricardo Quintela (La Rioja) utilizaron esta fecha para reafirmar las banderas de la justicia social, la defensa de los derechos y un Estado presente, contrastando directamente con las narrativas de 'egoísmo e individualismo' y 'ajuste' que atribuyen al Gobierno central. Estas expresiones marcan una clara línea de oposición y defensa de un modelo de gestión con fuerte intervención estatal en lo social.\nAsimismo, la relación Nación-Provincias sigue siendo un punto de fricción. Rogelio Frigerio (Entre Ríos) planteó la 'injusticia histórica' de la tarifa de Salto Grande y la deuda de ANSES. Rolando Figueroa (Neuquén) puso de manifiesto el rol del Estado provincial supliendo la atención a afiliados de PAMI. Martín Llaryora (Córdoba) remarcó que las provincias se están 'haciendo cargo de lo que abandona el Gobierno nacional' en transporte y educación, y Claudio Vidal (Santa Cruz) criticó la 'falta de federalismo y ausencia de inversiones reales' al inaugurar obras. Estos señalamientos recurrentes dibujan un escenario de desfinanciamiento y delegación de responsabilidades de la órbita nacional hacia las jurisdicciones subnacionales, que reaccionan con autofinanciamiento y críticas. La salud y la educación, en particular, aparecen como sectores donde las provincias asumen mayores cargas.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo Minero e Inversión",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego",
+                "@alfredocornejo",
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@QuintelaRicardo",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Autonomía Provincial y Crítica a Políticas Nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@frigeriorogelio",
+                "@insfran_gildo",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Urbano",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Justicia Social y Legado de Evita",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@insfran_gildo"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Servicios Básicos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Llegamos a las 1400 nuevas aulas inauguradas en la provincia con la obra de ampliación del Instituto Superior de Formación Docente N°41 en #AlmiranteBrown. En épocas donde la Argentina está llena de obras paralizadas por decisión del Gobierno nacional, estos logros en materia de infraestructura educativa tienen un significado aún mayor.",
+        "por_que_es_clave": "El gobernador (Buenos Aires) capitaliza un logro de gestión educativa para criticar explícitamente al Gobierno nacional por la paralización de obras públicas, marcando una clara contraposición entre la acción provincial y la inacción federal, un reclamo común de varias jurisdicciones.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura",
+                "Seguridad",
+                "Vivienda",
+                "Ideología Peronista",
+                "Relación Nación-Provincia"
+            ],
+            "postura_politica": "Fuerte énfasis en la gestión provincial y la expansión de derechos (educación, vivienda, seguridad) como contrapunto a las políticas de ajuste y paralización de obras del Gobierno nacional. Reafirma la vigencia de la justicia social en el natalicio de Evita.",
+            "frase_fuerte": "En épocas donde la Argentina está llena de obras paralizadas por decisión del Gobierno nacional, estos logros en materia de infraestructura educativa tienen un significado aún mayor."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Orden Urbano",
+                "Gestión",
+                "Lucha contra irregularidades"
+            ],
+            "postura_politica": "Mantiene un discurso centrado en 'Ley y Orden', mostrando acciones concretas para mejorar la seguridad y combatir las irregularidades administrativas en la ciudad.",
+            "frase_fuerte": "Basta de vivos. Se terminaron los estacionamientos truchos."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo productivo",
+                "Comercio exterior"
+            ],
+            "postura_politica": "Prioriza la reactivación de infraestructura clave para el desarrollo económico y la logística regional, buscando potenciar el comercio exterior.",
+            "frase_fuerte": "Así, el puerto sigue consolidándose como un nodo estratégico del NEA. Cada avance cuenta. Y este, sin dudas, marca un antes y un después para el desarrollo productivo chaqueño. 🤝🏼"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Minería",
+                "Industria",
+                "Energía",
+                "Infraestructura",
+                "Educación",
+                "Transporte",
+                "Relación Nación-Provincia"
+            ],
+            "postura_politica": "Aboga por un desarrollo económico con fuerte componente industrial y minero, posicionando a Córdoba como un actor estratégico. Critica la falta de una política productiva nacional y destaca la asunción de responsabilidades provinciales ante el retiro de Nación en áreas como subsidios al transporte y educación.",
+            "frase_fuerte": "Argentina crecerá con #industria, nunca sin industria, y mucho menos contra la industria. Porque una industria competitiva es la base de un país competitivo."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Promoción de inversiones",
+                "Comercio exterior",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Impulsa herramientas institucionales para fomentar la inversión y el comercio exterior, buscando consolidar el crecimiento económico de la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Relación Nación-Provincia",
+                "Energía (Salto Grande)",
+                "Educación (INET)",
+                "Seguridad Social (ANSES)"
+            ],
+            "postura_politica": "Mantiene una postura activa de reclamo y gestión ante el Gobierno nacional para resolver 'injusticias históricas' y deudas pendientes que afectan a la provincia en áreas clave como energía y seguridad social.",
+            "frase_fuerte": "Seguimos trabajando con el Gobierno Nacional para corregir una injusticia histórica con Entre Ríos."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Educación",
+                "Justicia Social",
+                "Modelo Formoseño",
+                "Legado de Evita"
+            ],
+            "postura_politica": "Enfatiza los logros del 'Modelo Formoseño' en educación y justicia social, celebrando el natalicio de Evita como guía de un Estado presente y equitativo frente a las necesidades del pueblo.",
+            "frase_fuerte": "Muchos de ellos son hijos e hijas de pequeños productores paipperos: esto es verdadera justicia social."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Justicia Social",
+                "Legado de Evita",
+                "Contexto Económico Nacional",
+                "Dignidad"
+            ],
+            "postura_politica": "Utiliza la figura de Evita para criticar la 'indiferencia y el ajuste' del Gobierno nacional, reafirmando la defensa de las banderas de justicia social, el trabajo y la dignidad del pueblo pampeano en un 'tiempo difícil'.",
+            "frase_fuerte": "En este tiempo difícil para millones de argentinos y argentinas, cuando el trabajo falta, la angustia crece y pareciera que el dolor de nuestra gente quedó lejos de las prioridades nacionales, volver a Evita es volver a abrazar las banderas de la justicia social y la dignidad."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Minería",
+                "Planificación",
+                "Justicia Social",
+                "Legado de Evita"
+            ],
+            "postura_politica": "Reafirma el compromiso con la minería responsable como motor de desarrollo planificado. Conmemora a Eva Perón, destacando su lucha por la justicia social y los derechos de los más vulnerables.",
+            "frase_fuerte": "Evita sigue siendo un símbolo de lucha, de amor por quienes más necesitan y de compromiso con la justicia social."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Minería",
+                "Seguridad",
+                "Integración Regional",
+                "Economía"
+            ],
+            "postura_politica": "Fuerte defensor del desarrollo minero sostenible con inversión y tecnología. Demuestra apertura a la colaboración interprovincial en seguridad y control. Demanda estabilidad macroeconómica y reglas claras a nivel nacional para el sector minero.",
+            "frase_fuerte": "La minería necesita estabilidad macroeconómica, seguridad jurídica, reglas claras y una visión de largo plazo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Alivio fiscal",
+                "Economía"
+            ],
+            "postura_politica": "Prioriza el apoyo a la actividad económica local mediante la extensión de medidas de alivio fiscal, buscando brindar previsibilidad a los profesionales y la producción.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Turismo",
+                "Gestión Pública",
+                "Desarrollo Energético (Vaca Muerta)",
+                "Producción Vitivinícola"
+            ],
+            "postura_politica": "Resalta la fortaleza y amplitud del sistema de salud provincial. Impulsa el desarrollo turístico y la eficiencia en la gestión pública con programas de cese voluntario. Promueve el sector energético y vitivinícola como motores de crecimiento.",
+            "frase_fuerte": "HISTÓRICO: NUEVO RÉCORD DE ATENCIÓN EN LA SALUD PÚBLICA El sistema público de salud alcanzó su pico máximo de personas atendidas con 508.115 usuarios, 71% de los habitantes de la provincia. Del total, el 62% cuenta con obra social. Un dato clave: el sistema abraza a todos, incluyendo a más de 44.000 afiliados de PAMI (9% del total de usuarios)."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Minería",
+                "Desarrollo Productivo",
+                "Infraestructura",
+                "Economía",
+                "Inversión"
+            ],
+            "postura_politica": "Celebra el inicio de exportaciones mineras como un hito de desarrollo y generación de empleo. Promueve la inversión privada y acompaña al sector productivo con bonificaciones fiscales, destacando el potencial de la provincia.",
+            "frase_fuerte": "RÍO NEGRO EMPIEZA A EXPORTAR SU MINERÍA AL MUNDO Es producción real, trabajo rionegrino, proveedores locales, inversión y desarrollo para la Región Sur."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Salud",
+                "Tecnología en Salud",
+                "Federalización de servicios"
+            ],
+            "postura_politica": "Busca mejorar y federalizar el acceso a la salud pública a través de alianzas con instituciones de prestigio y la incorporación de tecnología, asegurando atención de calidad en toda la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Minería",
+                "Integración Regional",
+                "Inversión",
+                "Turismo",
+                "Relación Nación-Provincia"
+            ],
+            "postura_politica": "Consolida a San Juan como epicentro minero y de eventos, buscando atraer inversiones con reglas claras. Promueve la integración con provincias vecinas para proyectos de desarrollo y seguridad, recibiendo a funcionarios nacionales y embajadores.",
+            "frase_fuerte": "San Juan fue sede del lanzamiento de la Mesa Federal Minera, un espacio de articulación público-privada para impulsar la inversión minera en la Argentina."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Empleo (oficios)",
+                "Infraestructura (viviendas, centros vecinales)",
+                "Políticas Sociales",
+                "Cooperativismo"
+            ],
+            "postura_politica": "Fuerte énfasis en la educación técnica y el impulso a la economía del conocimiento para generar empleo. Sostiene programas sociales y de infraestructura que benefician a la comunidad, y fomenta el cooperativismo escolar.",
+            "frase_fuerte": "Un modelo académico de OFICIOS de nivel universitario."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Deporte",
+                "Producción",
+                "Trabajo",
+                "Federalismo",
+                "Relación Nación-Provincia"
+            ],
+            "postura_politica": "Destaca la inversión en infraestructura y la promoción de la producción y el trabajo local. Critica la 'falta de federalismo' y 'ausencia de inversiones reales' del gobierno central, presentando las obras provinciales como logros que superan años de 'sueños truncos'.",
+            "frase_fuerte": "INAUGURAMOS LA PRIMERA CANCHA DE CÉSPED SINTÉTICO DE GOBERNADOR GREGORES EN UNA FIESTA QUE UNIÓ A TODO EL PUEBLO Quizás para algunos una cancha no sea mucho, pero para muchas localidades de nuestras provincia, estas obras representan algo mucho más profundo, porque también dejan en evidencia los años de sueños truncos, de promesas incumplidas, la falta de federalismo y la ausencia de inversiones reales, sobre todo en algo que representa algo tan importante como un espacio de recreación, de encuentro y de formación para nuestras comunidades."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Minería",
+                "Integración Regional",
+                "Seguridad",
+                "Turismo",
+                "Economía"
+            ],
+            "postura_politica": "Articula la provincia en el desarrollo minero nacional y busca que el crecimiento genere empleo santafesino. Resalta la recuperación del turismo en Rosario gracias a la lucha contra el narcotráfico, mostrando liderazgo en seguridad.",
+            "frase_fuerte": "Tomamos la firme decisión política de enfrentar a las mafias, demostrando que cuando el Estado asume su responsabilidad y no mira para otro lado, se le puede ganar al narcotráfico."
+        }
+    ]
+}
