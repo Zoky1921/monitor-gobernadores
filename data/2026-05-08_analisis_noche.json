@@ -1,0 +1,295 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de hoy se caracterizó por la reafirmación de la autonomía provincial frente a un contexto nacional complejo. Gobernadores del centro y norte confluyeron en la Mesa Federal Minera en San Juan, buscando potenciar el sector con inversión y empleo, pero también demandando reglas claras a Nación. La Pampa escaló un conflicto fiscal con el gobierno central al conocerse que la Corte Suprema admitió su demanda por fondos ATN. Por otro lado, la gestión local y el desarrollo económico provincial fueron el foco en múltiples distritos, con anuncios de obras, alivio financiero y exportaciones. La transparencia institucional también fue un eje clave con decisiones contundentes en Misiones y Santa Cruz.",
+    "analisis_profundo": "La jornada reflejó una clara intensificación de la autonomía provincial y la proactividad en la búsqueda de soluciones locales, en un contexto de persistente tensión con el Gobierno Nacional. La Mesa Federal Minera, celebrada en San Juan (Orrego) con amplia participación de gobernadores del Norte y Centro del país, se erigió como el principal foro de cohesión. Allí, Catamarca (Jalil) y Mendoza (Cornejo) subrayaron el potencial minero para generar empleo e inversión, mientras Córdoba (Llaryora) presentó su capacidad como proveedora industrial. Esta confluencia resalta un interés colectivo en blindar y potenciar un sector clave, demandando indirectamente seguridad jurídica y políticas de Estado previsibles, un tema también abordado por Santa Fe (Pullaro) al buscar la integración de sus empresas.\n\nEn contraposición, la tensión con la administración central se manifestó explícitamente. Axel Kicillof (Buenos Aires) lanzó críticas directas al programa económico nacional y su impacto en trabajadores y la salud, proponiendo una 'alternativa federal'. Sergio Ziliotto (La Pampa) escaló su enfrentamiento al anunciar la admisión de la demanda por fondos ATN por parte de la Corte Suprema, interpretando la acción nacional como un debilitamiento del federalismo. Ricardo Quintela (La Rioja) adoptó medidas de alivio económico (congelamiento de tarifas) atribuyendo la complejidad a las políticas nacionales y a la necesidad de proteger el ingreso de los riojanos.\n\nA nivel de gestión, varios gobernadores destacaron logros y planes para el desarrollo propio. Jorge Macri (CABA) continuó una línea comunicacional centrada en la 'gestión PRO' y las obras urbanas. Leandro Zdero (Chaco) celebró una histórica exportación de carne y reforzó lazos internacionales. Ignacio Torres (Chubut) impulsó medidas de alivio financiero. Alberto Weretilneck (Río Negro) avanzó con licitaciones de infraestructura y planes de formación. Rolando Figueroa (Neuquén) no solo reportó un crecimiento económico provincial significativo, sino que lanzó un plan ambicioso de créditos para vivienda, consolidando una política de 'ordenar para redistribuir'. Claudio Poggi (San Luis) también enfatizó la recuperación de la provincia a través de la agenda del CFI.\n\nFinalmente, la bandera de la transparencia y la calidad institucional fue levantada por Hugo Passalacqua (Misiones) con la implementación de exámenes toxicológicos para funcionarios, y de forma más dramática por Claudio Vidal (Santa Cruz), quien solicitó la renuncia de su Ministro de Trabajo, subrayando su compromiso con la gobernanza transparente por encima de los lazos personales. Estas acciones, aunque distintas en su origen, convergen en la necesidad de fortalecer la confianza pública y la eficiencia estatal, un imperativo compartido entre los distintos distritos.",
+    "temas_calientes": [
+        {
+            "tema": "Minería como motor de desarrollo y demanda de reglas claras",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@MartinLlaryora",
+                "@carlossadirjuy",
+                "@alfredocornejo",
+                "@DrMarceloOrrego",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Federalismo y confrontación con el Gobierno Nacional por recursos y políticas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Gestión local, obras públicas e infraestructura",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo y fomento de la actividad económica provincial",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@DrMarceloOrrego",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Transparencia y calidad institucional en la función pública",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "NO ABANDONAMOS LA DEFENSA DEL FEDERALISMO. SEGUIREMOS RECLAMANDO LO QUE PERTENECE A LAS Y LOS PAMPEANOS. La Corte Suprema admitió la demanda que La Pampa interpuso por la apropiación de fondos ATN que pertenecen a las provincias y sus municipios, y le dio 60 días al Gobierno nacional para responder el recurso presentado. Su distribución no puede ser discrecional: por mandato constitucional debe respetar criterios equitativos, solidarios y automáticos. Vamos a seguir defendiendo cada peso que corresponde a las y los pampeanos, frente a un modelo político y económico que concentra recursos, castiga a las provincias y debilita el federalismo argentino. Como siempre. Y hoy, más que nunca.",
+        "por_que_es_clave": "Este tweet marca una escalada institucional y legal significativa en el conflicto fiscal entre las provincias y el Gobierno Nacional. La admisión de la demanda de La Pampa por la Corte Suprema por fondos ATN representa un precedente y una reafirmación enérgica de la defensa del federalismo y la autonomía provincial en la distribución de recursos, con implicancias para el resto del país.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Política económica nacional",
+                "Salud",
+                "Federalismo",
+                "Defensa de derechos"
+            ],
+            "postura_politica": "Fuerte oposición al programa económico nacional, acusando de golpear a trabajadores y familias. Critica la desinversión nacional en salud y propone construir una 'alternativa política federal'.",
+            "frase_fuerte": "El programa económico que prometía reactivación, inversiones y mejoras para los argentinos está golpeando cada vez más a los trabajadores y a las familias, y por eso necesitamos construir, junto al movimiento obrero, una alternativa política que demuestre que hay otro camino posible."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Gestión",
+                "Desarrollo urbano",
+                "Seguridad"
+            ],
+            "postura_politica": "Reafirma la eficiencia de la 'Gestión PRO' en la Ciudad, destacando el orden, las obras y el uso del superávit para mejorar la calidad de vida de los porteños. Su comunicación se centra en logros concretos y comparaciones favorables con otras gestiones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería",
+                "Desarrollo productivo",
+                "Empleo",
+                "Federalismo",
+                "Litio",
+                "Cobre"
+            ],
+            "postura_politica": "Aboga por la minería como política de Estado para el desarrollo de Catamarca, con enfoque en planificación y articulación público-privada para generar empleo e infraestructura. Participa activamente en espacios federales.",
+            "frase_fuerte": "En nuestra provincia venimos demostrando que la minería puede generar crecimiento, empleo y oportunidades cuando existe planificación y articulación entre el Estado, las empresas y las comunidades."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Comercio exterior",
+                "Desarrollo productivo",
+                "Infraestructura",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Enfatiza la transformación de la matriz productiva y el impulso a las exportaciones, destacando el trabajo articulado y la apertura a mercados internacionales con resultados concretos como la primera exportación de carne a Omán.",
+            "frase_fuerte": "15 toneladas de carne chaqueña partieron con destino a Omán, marcando la primera exportación al Medio Oriente. Un Hecho Histórico que es resultado del trabajo articulado entre productores, el Estado, inversiones y vínculos internacionales 🤝🏼"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Economía provincial",
+                "Alivio financiero",
+                "Crisis nacional",
+                "Empleo"
+            ],
+            "postura_politica": "Prioriza el cuidado del bolsillo de los chubutenses ante la crisis nacional, implementando medidas de alivio financiero (créditos y bajas de tasas) para sostener la actividad económica y el empleo local.",
+            "frase_fuerte": "En un momento donde la crisis nacional golpea fuerte al bolsillo de los trabajadores, y muchas familias hacen un esfuerzo enorme para llegar a fin de mes, en Chubut no miramos para otro lado."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo regional",
+                "Obras públicas",
+                "Seguridad",
+                "Minería",
+                "Federalización",
+                "Energía renovable"
+            ],
+            "postura_politica": "Promueve el desarrollo equilibrado del interior provincial mediante inversiones en infraestructura, programas de igualdad territorial y federalización de la formación policial. Posiciona a Córdoba como un actor estratégico en la cadena de valor minera y energética.",
+            "frase_fuerte": "Córdoba tiene capacidad, conocimiento y empresas listas para abastecer proyectos estratégicos en todo el territorio nacional."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Educación",
+                "Justicia social",
+                "Seguridad pública",
+                "Sistema educativo"
+            ],
+            "postura_politica": "Celebra los logros educativos de la provincia, destacando la igualdad de oportunidades y la justicia social en la Universidad Provincial de Laguna Blanca. Reconoce la labor de la policía científica en la seguridad pública.",
+            "frase_fuerte": "La UPLaB ya cuenta con 188 egresados de 28 localidades distintas de toda la provincia. Es importante destacar que el 97 % de ellos son la primera generación de egresados de sus familias, y que el 63 % son mujeres, lo cual nos enorgullece y demuestra el crecimiento de nuestro sistema educativo con equidad territorial."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Minería",
+                "Federalismo",
+                "Articulación público-privada"
+            ],
+            "postura_politica": "Participa activamente en la Mesa Federal Minera, buscando fortalecer lazos entre Nación, provincias y el sector privado para impulsar el desarrollo minero en Jujuy.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Federalismo",
+                "Recursos provinciales",
+                "Relación con Nación",
+                "Justicia"
+            ],
+            "postura_politica": "Defiende enérgicamente los recursos pampeanos frente a un 'modelo político y económico que concentra recursos', utilizando la vía judicial contra el Gobierno nacional por fondos ATN, con una postura de 'no abandono de la defensa del federalismo'.",
+            "frase_fuerte": "NO ABANDONAMOS LA DEFENSA DEL FEDERALISMO. SEGUIREMOS RECLAMANDO LO QUE PERTENECE A LAS Y LOS PAMPEANOS."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Energía renovable",
+                "Matriz productiva",
+                "Planificación",
+                "Desarrollo",
+                "Formación política"
+            ],
+            "postura_politica": "Impulsa el desarrollo de energías renovables como motor de cambio en la matriz energética provincial, generando empleo local y planificando un futuro sustentable. También participa en espacios de formación política para construir alternativas.",
+            "frase_fuerte": "Planificamos un futuro con energías renovables y ponemos en marcha un plan para lograr la sustentabilidad que tanto necesitamos."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Seguridad",
+                "Tecnología",
+                "Vivienda",
+                "Infraestructura",
+                "Minería",
+                "Desarrollo"
+            ],
+            "postura_politica": "Prioriza la seguridad a través de la incorporación de tecnología (drones policiales) y fortalece la política habitacional y la infraestructura vial. Posiciona la minería como una oportunidad de desarrollo con inversión y empleo, participando en foros federales del sector.",
+            "frase_fuerte": "El orden no se negocia y la seguridad es una prioridad. Cada paso adelante es para dotar a la Policía de Mendoza de mejores herramientas, que fortalecen la prevención, aceleran la respuesta y amplían la presencia en el territorio, para cuidar mejor a los mendocinos."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Transparencia",
+                "Función pública",
+                "Cultura",
+                "Seguridad",
+                "Prevención de consumos problemáticos"
+            ],
+            "postura_politica": "Enfatiza la ética en la función pública mediante exámenes toxicológicos obligatorios. Promueve la cultura, la lectura y reconoce la labor de las fuerzas de seguridad, en el marco del 'Año de la prevención de consumos problemáticos'.",
+            "frase_fuerte": "He firmado el Decreto N° 776 para implementar la obligatoriedad de exámenes toxicológicos en la función pública. Esta es una decisión directa para garantizar que cada persona con poder de decisión tenga la idoneidad y la ética que la familia misionera merece."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Economía",
+                "Crecimiento",
+                "Vivienda",
+                "Salud pública",
+                "Ordenamiento estatal"
+            ],
+            "postura_politica": "Destaca el liderazgo de Neuquén en crecimiento económico a nivel nacional. Implementa un plan de créditos hipotecarios y resalta la inversión en salud pública, todo bajo un modelo de 'ordenar para redistribuir' y generar oportunidades para las familias neuquinas.",
+            "frase_fuerte": "Este es el modelo neuquino: ordenar para redistribuir y transformar esos recursos en más oportunidades para las familias neuquinas."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Vivienda",
+                "Educación bilingüe",
+                "Desarrollo"
+            ],
+            "postura_politica": "Impulsa grandes obras de infraestructura, como el acceso al aeropuerto de Bariloche, y desarrolla programas educativos como Río Negro Bilingüe. Muestra compromiso con la provisión de vivienda para las familias de la provincia.",
+            "frase_fuerte": "Hoy junto al intendente, Walter Cortes licitamos una obra histórica para rehabilitar por completo el acceso al aeropuerto de Bariloche."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Reforma judicial",
+                "Justicia penal",
+                "Transparencia",
+                "Seguridad"
+            ],
+            "postura_politica": "Lidera una profunda transformación de la justicia penal en Salta, buscando mayor celeridad, transparencia y cercanía a la ciudadanía a través de un nuevo sistema acusatorio y juicio por jurados.",
+            "frase_fuerte": "En Salta estamos llevando adelante una de las transformaciones más importantes de la Justicia Penal en décadas."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Economía",
+                "Finanzas",
+                "Desarrollo productivo",
+                "Minería",
+                "Planificación",
+                "Relaciones interprovinciales"
+            ],
+            "postura_politica": "Promueve el crecimiento de San Juan a través del diálogo con expertos en economía y finanzas, el fomento del trabajo conjunto público-privado, y la integración regional, especialmente en minería. Anfitrión de la Mesa Federal Minera.",
+            "frase_fuerte": "San Juan tiene capacidad, talento y mucho potencial para seguir creciendo. Y ese futuro se construye con planificación, diálogo y una mirada de largo plazo."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Emprendedurismo",
+                "Financiamiento",
+                "Educación",
+                "Recuperación institucional"
+            ],
+            "postura_politica": "Impulsa una agenda de desarrollo provincial en conjunto con el CFI, enfocada en mujeres emprendedoras, planes estratégicos de agua y energía, y capacitación para jóvenes, marcando una recuperación institucional tras años de 'inexplicable ausencia'.",
+            "frase_fuerte": "San Luis está recuperando el tiempo perdido luego de 18 años de inexplicable ausencia en el CFI. Bien !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Transparencia",
+                "Gestión pública",
+                "Ética política"
+            ],
+            "postura_politica": "Prioriza la transparencia en la gestión, tomando decisiones contundentes como pedir la renuncia a un ministro para demostrar compromiso con el pueblo de Santa Cruz por encima de vínculos personales y defender 'lo indefendible'.",
+            "frase_fuerte": "Por encima de cualquier relación personal, siempre va a estar el compromiso que asumimos con el pueblo de Santa Cruz."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Economía provincial",
+                "Alivio impositivo",
+                "Empresas",
+                "Federalismo"
+            ],
+            "postura_politica": "Presenta un plan de alivio de deudas impositivas para empresas y familias, con el objetivo de fomentar el desarrollo y el trabajo, reafirmando el enfoque de su gobierno en quienes producen y se esfuerzan. Busca integrar empresas santafesinas a la minería.",
+            "frase_fuerte": "Este gobierno que me toca gestionar siempre se va a centrar en mejorar las condiciones de quienes trabajan y se esfuerzan; de quienes no quieren un plan social y a quienes apuestan al desarrollo de la provincia y del país."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Legislación",
+                "Salud",
+                "Ampliación de derechos"
+            ],
+            "postura_politica": "A través del Retweet de la senadora Zamora, promueve iniciativas legislativas para ampliar derechos en salud (salud mental, protectores solares) y fortalecer capacidades estatales, reflejando una agenda de ampliación de derechos.",
+            "frase_fuerte": null
+        }
+    ]
+}
