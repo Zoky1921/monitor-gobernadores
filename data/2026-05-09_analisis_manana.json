@@ -1,0 +1,141 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal hoy se articula en torno a la gestión provincial y la búsqueda de desarrollo regional ante un complejo escenario nacional. Axel Kicillof (Buenos Aires) se centra en fortalecer el federalismo a través de la educación y la cooperación interprovincial. Leandro Zdero (Chaco) y Martín Llaryora (Córdoba) resaltan inversiones en salud e infraestructura, respectivamente. Oscar Herrera Ahuad (Misiones) impulsa la producción local con la piscicultura. Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) anuncian obras viales y urbanísticas. Marcelo Orrego (San Juan) posiciona a su provincia como líder minera, promoviendo inversiones y seguridad jurídica. Maximiliano Pullaro (Santa Fe) reivindica el federalismo histórico y aplica alivio fiscal frente a la situación económica adversa.",
+    "analisis_profundo": "La dinámica federal actual está fuertemente marcada por la capacidad de gestión y la autonomía estratégica de las provincias en un contexto nacional desafiante. Los gobernadores priorizan el desarrollo interno y la protección de sus economías y servicios. Axel Kicillof (Buenos Aires) exhibe un modelo de federalismo cooperativo, enfatizando la educación y las economías regionales mediante alianzas interprovinciales. Su acercamiento a Córdoba es un claro indicio de la construcción de una red subnacional para afrontar las circunstancias económicas y sociales. \n\nLa inversión en infraestructura y salud son pilares fundamentales. Leandro Zdero (Chaco) comunica mejoras significativas en equipamiento hospitalario, buscando modernizar el sistema sanitario provincial. Martín Llaryora (Córdoba) subraya los avances en el interior de su provincia, como la pavimentación de rutas y programas de igualdad territorial, esenciales para la generación de empleo y la atracción de inversiones. En el sur del país, Rolando Figueroa (Neuquén) enfoca sus esfuerzos en obras viales para el turismo y el desarrollo local, mientras que Alberto Weretilneck (Río Negro) anuncia la revitalización de espacios urbanos en Cipolletti, reflejando una gestión orientada a la calidad de vida de sus ciudadanos.\n\nEl impulso productivo se diversifica, con Oscar Herrera Ahuad (Misiones) destacando el crecimiento de la piscicultura a través de la cooperación público-privada. No obstante, el sector minero emerge como un protagonista central, con Marcelo Orrego (San Juan) liderando la agenda federal desde la Expo Internacional San Juan Minera. Orrego promueve un entorno de seguridad jurídica y articulación público-privada para atraer inversiones y generar empleo. Esta visión contrasta con la postura de Maximiliano Pullaro (Santa Fe), quien, apelando al legado federalista de Estanislao López, defiende los recursos del interior frente a la concentración en Buenos Aires y anuncia un plan de alivio de deudas impositivas, evidenciando la capacidad provincial de respuesta ante la difícil coyuntura económica nacional. La jornada refleja un liderazgo provincial activo, enfocado en blindar sus territorios de las fluctuaciones nacionales y consolidar un camino propio de desarrollo.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo y Autonomía Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@maxipullaro",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego",
+                "@passalacquaok",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Respuestas Provinciales a la Crisis Económica",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Cooperación Regional y Gestión Colaborativa",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@DrMarceloOrrego",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Carli_Bianco)",
+        "texto": "El derecho a estudiar en la universidad, vivas donde vivas: para eso trabajamos en el Gobierno de la Provincia a través del programa #PUENTES",
+        "por_que_es_clave": "Destaca el compromiso del Gobierno de la Provincia de Buenos Aires con la universalización del acceso a la educación superior, un tema de alta sensibilidad y debate nacional por el rol del Estado y el financiamiento universitario.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Federalismo",
+                "Cooperación Interprovincial",
+                "Educación",
+                "Economías Regionales"
+            ],
+            "postura_politica": "Enfatiza el rol del Estado provincial y la cooperación interregional para fortalecer la educación y el desarrollo productivo. Se posiciona como defensor de un federalismo que garantice derechos y oportunidades en todo el territorio.",
+            "frase_fuerte": "Vinimos a #Córdoba a seguir consolidando el federalismo y la cooperación con importantes convenios para fortalecer la educación, las economías regionales y el sector productivo de nuestras provincias."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Equipamiento Médico",
+                "Tecnología Sanitaria"
+            ],
+            "postura_politica": "Centrado en la modernización y el fortalecimiento del sistema de salud público provincial. Prioriza la inversión en tecnología para mejorar la capacidad diagnóstica y la atención de los chaqueños.",
+            "frase_fuerte": "MÁS Y NUEVOS EQUIPAMIENTOS PARA EL HOSPITAL DE FONTANA. 🏥 En el Hospital “Luis Fleitas” continuamos con un gran avance tecnológico para la salud de los chaqueños, incorporando nuevos insumos y equipamiento de alta tecnología que permitirá reducir los tiempos de exposición, agilizar la adquisición de imágenes y mejorar la capacidad diagnóstica."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo del Interior",
+                "Infraestructura",
+                "Empleo",
+                "Igualdad Territorial"
+            ],
+            "postura_politica": "Impulsa el desarrollo equitativo de todo el territorio cordobés, priorizando la inversión en infraestructura vial y programas de igualdad para generar empleo y progreso en las localidades del interior.",
+            "frase_fuerte": "El departamento #Minas forma parte del Programa de #IgualdadTerritorial, que reduce las desigualdades mediante la promoción, el desarrollo, crecimiento y consolidación de 13 departamentos de las regiones noroeste y sur-sur de la provincia."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Desarrollo Económico Local",
+                "Piscicultura",
+                "Cooperación Público-Privada"
+            ],
+            "postura_politica": "Promueve un modelo de desarrollo provincial basado en el trabajo conjunto entre diversos actores para potenciar sectores económicos locales. Destaca la piscicultura como ejemplo de crecimiento y generación de oportunidades.",
+            "frase_fuerte": "Participé de la inauguración de la segunda edición de la Fiesta del Pescado de Cultivo en Apóstoles, una celebración que refleja ese modelo de desarrollo a la misionera que nos identifica, que es juntarse para tener un logro, para tener un éxito."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Planificación Provincial",
+                "Infraestructura Vial",
+                "Turismo",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "Se enfoca en la planificación a largo plazo y la inversión en infraestructura vial para potenciar el turismo y el desarrollo local. Presenta un 'modelo neuquino' que prioriza el crecimiento y el bienestar de sus habitantes.",
+            "frase_fuerte": "RUTAS QUE IMPULSAN EL TURISMO EN LA REGIÓN DE LOS LAGOS DEL SUR La pavimentación de la ruta provincial 61 supera el 20% de ejecución."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo Urbano",
+                "Gestión Local",
+                "Reactivación de Espacios"
+            ],
+            "postura_politica": "Centrado en la transformación urbana y la recuperación de espacios históricos para el desarrollo local. Afirma un 'rumbo' claro de gestión para mejorar la calidad de vida y modernizar las ciudades de Río Negro.",
+            "frase_fuerte": "Empieza una nueva etapa para Cipolletti, recuperamos un espacio histórico para transformarlo en el nuevo parque central de la ciudad. Tenemos rumbo."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Minería",
+                "Desarrollo Económico",
+                "Inversión",
+                "Seguridad Jurídica",
+                "Federalismo"
+            ],
+            "postura_politica": "Posiciona a San Juan como un referente clave en el desarrollo minero, promoviendo la inversión y el empleo genuino bajo un marco de seguridad jurídica y colaboración entre los diferentes niveles de gobierno y el sector privado.",
+            "frase_fuerte": "La minería argentina necesita reglas claras, seguridad jurídica y una convicción central: poner a la gente en el centro."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Federalismo",
+                "Recursos Provinciales",
+                "Alivio Fiscal",
+                "Contexto Económico Nacional"
+            ],
+            "postura_politica": "Reivindica un federalismo histórico que defienda los recursos del interior. Asume la responsabilidad de su provincia ante la difícil situación económica nacional, implementando medidas de alivio impositivo para sostener la actividad productiva y el empleo.",
+            "frase_fuerte": "Estanislao López fue el gran estratega del federalismo argentino. Hace más de 200 años ya defendía que los recursos del interior no queden concentrados en Buenos Aires y cada provincia tenga las mismas oportunidades para crecer."
+        }
+    ]
+}
