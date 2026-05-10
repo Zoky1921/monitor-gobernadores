@@ -1,0 +1,256 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una intensa agenda de gestión provincial, donde los gobernadores se concentraron en el desarrollo económico, la inversión en infraestructura y la mejora de servicios clave como educación, salud y seguridad. Se destacan iniciativas para potenciar la producción local, atraer inversiones y fomentar la conectividad. A pesar de este enfoque interno, persisten las tensiones federales, evidenciadas por reclamos sobre la concentración de recursos y la defensa de la autonomía provincial. La retórica se centra en la eficiencia del Estado y la colaboración público-privada para impulsar el progreso regional, con un fuerte acento en el federalismo y la justicia social en ciertos discursos.",
+    "analisis_profundo": "El panorama federal actual refleja una marcada primacía de las agendas provinciales, con los gobernadores volcados en la concreción de obras y el impulso de sectores productivos locales. Se observa una tendencia a consolidar la autonomía de gestión, priorizando inversiones en infraestructura vial, educativa y sanitaria, como se ve en las acciones de @MartinLlaryora (Córdoba) con su plan de 'Igualdad Territorial' o @Rolo_Figueroa (Neuquén) en obras viales estratégicas. La diversificación económica es un eje central; @WeretilneckOK (Río Negro) posiciona a su provincia como 'la nueva Argentina energética', mientras que @LeandroZdero (Chaco) celebra nuevas exportaciones de carne ovina y @passalacquaok (Misiones) impulsa la piscicultura. La minería sigue siendo un sector clave, con @DrMarceloOrrego (San Juan) proyectando a su provincia como un hub internacional. En seguridad, @jorgemacri (Ciudad de Buenos Aires) mantiene un discurso de 'Ley y orden' con acciones contundentes, y @MartinLlaryora (Córdoba) federaliza la formación policial. El área social también recibe atención, con @alfredocornejo (Mendoza) inaugurando servicios de salud mental y jardines de infantes. La dimensión de justicia y memoria emerge con fuerza en el mensaje de @QuintelaRicardo (La Rioja) sobre la identificación de desaparecidos. A nivel interprovincial, se observa cooperación puntual, como la mencionada por @Kicillofok (Buenos Aires) en Córdoba. No obstante, el subtexto de tensión federal se mantiene, con figuras como @maxipullaro (Santa Fe) evocando la figura de Estanislao López para criticar la concentración de recursos en Buenos Aires, una constante en la dinámica centro-periferia. En general, los gobernadores buscan demostrar capacidad de gestión y liderazgo en sus territorios, a menudo destacando el contraste con el ritmo de la política nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo de infraestructura y conectividad provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Fomento de la producción y diversificación económica regional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Federalismo interno y equilibrio territorial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Inversión en políticas sociales y educación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Mantener la memoria viva y la lucha por la verdad y la justicia da frutos. El Equipo Argentino de Antropología Forense que trabaja en Loma del Torito, en el antiguo centro de detención clandestino de La Perla, logró identificar a dos riojanos desaparecidos durante la última dictadura militar, Adrián Ferreyra y José Luis Goyochea y a su esposa Nélida Noemí Moreno, nacida en Córdoba. Compartimos esta noticia con la certeza de que no borra todo el dolor ocasionado por sus ausencias, pero sabiendo que nos devuelve la esperanza de que tarde o temprano, la verdad sale a la luz y nos ayuda a seguir luchando por la justicia que necesitamos como pueblo. Abrazo desde el corazón a las familias de Adrián, José Luis y Nélida, e invitó a todos los riojanos y riojanas a que juntos sigamos alzando la voz por los compañeros que nos faltan. Hoy, desde hace 50 años y para siempre; Nunca Más.",
+        "por_que_es_clave": "Este tweet tiene un peso político y social trascendental al abordar la memoria, la verdad y la justicia en el contexto de la dictadura militar. La identificación de desaparecidos es un tema sensible y central en la agenda de derechos humanos de Argentina, posicionando al gobernador en una defensa activa de estos valores, con implicancias que superan la gestión provincial.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Cooperación interprovincial",
+                "Educación",
+                "Economías regionales",
+                "Cultura"
+            ],
+            "postura_politica": "Enfocado en la consolidación del federalismo a través de la cooperación con otras provincias. Muestra un fuerte compromiso con el fortalecimiento de la educación, las economías regionales y la cultura como pilares del desarrollo provincial y nacional.",
+            "frase_fuerte": "Vinimos a #Córdoba a seguir consolidando el federalismo y la cooperación con importantes convenios para fortalecer la educación, las economías regionales y el sector productivo de nuestras provincias."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Anti-narcóticos",
+                "Orden público",
+                "Obras públicas"
+            ],
+            "postura_politica": "Adopta una postura de mano dura en seguridad, destacando operativos anti-narcóticos y la expulsión de extranjeros vinculados a delitos. Refuerza la imagen de una gestión eficiente en obras públicas y desarrollo urbano, asociando directamente estos logros a la identidad de su partido.",
+            "frase_fuerte": "Un peruano y un chileno pensaron que podían montar un búnker narco en la Villa 31. Se les terminó. Los detuvimos y ya pedimos su expulsión del país. Que les quede claro: en la Ciudad no hay un solo metro cuadrado donde se puedan esconder. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Producción",
+                "Exportaciones",
+                "Salud",
+                "Sistema sanitario",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Impulsa activamente la producción local con un enfoque en la expansión hacia mercados internacionales, logrando hitos de exportación. Mantiene el compromiso con el fortalecimiento del sistema de salud público a través de la incorporación de tecnología y equipamiento.",
+            "frase_fuerte": "¡Un nuevo hito que impulsa y posiciona la producción chaqueña en el mundo!"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Deporte",
+                "Desarrollo social"
+            ],
+            "postura_politica": "Prioriza el apoyo al deporte como herramienta de desarrollo social y comunitario, reconociendo el esfuerzo y el compromiso de los clubes y las familias. Se enfoca en logros locales que fomentan la identidad y la integración provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Igualdad Territorial",
+                "Federalización provincial",
+                "Infraestructura",
+                "Seguridad",
+                "Educación"
+            ],
+            "postura_politica": "Lidera un ambicioso plan de 'Igualdad Territorial' para federalizar Córdoba, llevando inversión y oportunidades a todas las regiones, incluyendo la formación policial y obras esenciales. Su narrativa enfatiza el progreso y la transformación a través de la gestión y la cercanía con los municipios.",
+            "frase_fuerte": "NOS PROPUSIMOS FEDERALIZAR #CÓRDOBA Y LO ESTAMOS CUMPLIENDO."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Condolencias"
+            ],
+            "postura_politica": "Expresa pesar por el fallecimiento de un intendente, mostrando cercanía y respeto institucional en un momento de pérdida para la política local. Su tweet se centra en un acto protocolar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Aniversario local"
+            ],
+            "postura_politica": "Mantiene una política de cercanía con las comunidades locales, celebrando aniversarios fundacionales y fortaleciendo el sentido de pertenencia. Su mensaje es de unidad y felicitación a los vecinos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Conectividad",
+                "Sinergia público-privada",
+                "Desarrollo regional",
+                "Federalismo"
+            ],
+            "postura_politica": "Presenta a La Pampa como un ejemplo de éxito en conectividad gracias a la sinergia público-privada, destacando la eficiencia y equidad social del modelo. Propone esta experiencia como un 'puente hacia el futuro' para otras provincias.",
+            "frase_fuerte": "'La eficiencia financiera y la equidad social no son excluyentes; en La Pampa funcionaron como puente hacia el futuro'."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Derechos Humanos",
+                "Memoria",
+                "Justicia"
+            ],
+            "postura_politica": "Se posiciona firmemente en la defensa de los derechos humanos y la búsqueda de justicia, celebrando la identificación de desaparecidos de la última dictadura militar. Su mensaje es un llamado a mantener viva la memoria y a seguir luchando por la verdad.",
+            "frase_fuerte": "Mantener la memoria viva y la lucha por la verdad y la justicia da frutos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud mental",
+                "Educación",
+                "Producción",
+                "Cooperación público-privada"
+            ],
+            "postura_politica": "Enfocado en políticas sociales clave como la salud mental y la educación temprana, con la inauguración de servicios y mejoras de infraestructura. Destaca la importancia de la cultura del trabajo y la cooperación entre el sector público y privado para el crecimiento provincial.",
+            "frase_fuerte": "La salud mental es uno de los grandes desafíos de nuestro tiempo y sabemos que muchas familias atraviesan situaciones difíciles que necesitan acompañamiento, atención y un Estado presente."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Piscicultura",
+                "Desarrollo productivo",
+                "Infraestructura"
+            ],
+            "postura_politica": "Impulsa el desarrollo de la piscicultura misionera, apoyando a los productores con infraestructura y fomentando un 'modelo de desarrollo a la misionera' basado en el trabajo conjunto. Busca agregar valor a la producción y generar oportunidades locales.",
+            "frase_fuerte": "En Apóstoles inauguramos una nueva sala de faena para seguir fortaleciendo la piscicultura misionera y acompañar a nuestros productores con herramientas concretas para crecer."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Desarrollo regional",
+                "Infraestructura vial",
+                "Inversión",
+                "Turismo",
+                "Planificación"
+            ],
+            "postura_politica": "Centrado en equilibrar el crecimiento provincial mediante inversiones históricas en infraestructura vial, especialmente en la región de El Cholar, con el fin de impulsar el turismo y el desarrollo local. Enfatiza la planificación y un 'modelo neuquino' que prioriza a sus habitantes.",
+            "frase_fuerte": "ESTAMOS EQUILIBRANDO EL CRECIMIENTO DE LA PROVINCIA"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Energía",
+                "Desarrollo económico",
+                "Diversificación productiva",
+                "Servicios públicos",
+                "Vivienda"
+            ],
+            "postura_politica": "Posiciona a Río Negro como un actor clave en la transformación energética nacional, destacando inversiones multimillonarias y la diversificación de su matriz productiva. Muestra un fuerte compromiso con la cercanía del Estado a los ciudadanos, ofreciendo servicios y planes de vivienda adaptados.",
+            "frase_fuerte": "En nuestro mar se está construyendo la nueva Argentina energética."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Minería",
+                "Desarrollo económico",
+                "Inversión",
+                "Relaciones internacionales",
+                "Planificación"
+            ],
+            "postura_politica": "Promueve a San Juan como un polo minero de relevancia internacional, enfocado en el crecimiento, la inversión y el desarrollo con una visión de futuro. Destaca la planificación y la generación de confianza para atraer oportunidades reales a la provincia.",
+            "frase_fuerte": "El mundo mira a San Juan, y San Juan mira al futuro."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Planes estratégicos",
+                "Desarrollo económico",
+                "Emprendedurismo femenino",
+                "Cultura",
+                "Memoria"
+            ],
+            "postura_politica": "Impulsa planes estratégicos de agua, energía y oportunidades productivas, en colaboración con el CFI, para recuperar el tiempo perdido en desarrollo económico. Demuestra apoyo al emprendedurismo femenino y la promoción cultural, incluyendo la memoria de Malvinas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Producción",
+                "Infraestructura",
+                "Educación",
+                "Deporte",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Enfocado en un 'rumbo productivo' para Santa Cruz, invirtiendo en obras e infraestructura para localidades previamente olvidadas, como plantas peletizadoras, jardines maternales y canchas deportivas. Subraya el trabajo en equipo y un Estado presente para generar oportunidades en toda la provincia.",
+            "frase_fuerte": "Estamos demostrando que cuando hay decisión política, trabajo en equipo y un Estado presente, las cosas empiezan a suceder en cada rincón de Santa Cruz."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Recursos provinciales",
+                "Historia",
+                "Identidad provincial"
+            ],
+            "postura_politica": "Utiliza la historia del Brigadier Estanislao López para reivindicar el federalismo y criticar la concentración de recursos en Buenos Aires. Posiciona a Santa Fe como motor productivo del interior y defensora de los valores federales, especialmente en 'un momento difícil' para las familias argentinas.",
+            "frase_fuerte": "Estanislao López fue el gran estratega del federalismo argentino. Hace más de 200 años ya defendía que los recursos del interior no queden concentrados en Buenos Aires y cada provincia tenga las mismas oportunidades para crecer."
+        }
+    ]
+}
