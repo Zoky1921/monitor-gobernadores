@@ -1,0 +1,172 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada del 10 de mayo mostró a los gobernadores focalizados en la gestión local y la reafirmación de la autonomía provincial. Martín Llaryora (Córdoba) y Maximiliano Pullaro (Santa Fe) destacaron la capacidad de sus provincias para avanzar con obras y mantener el orden fiscal, marcando una clara diferencia con el contexto nacional. Rolando Figueroa (Neuquén) impulsó programas de vivienda y grandes obras de infraestructura, posicionando a su provincia con políticas únicas. Leandro Zdero (Chaco) e Ignacio Torres (Chubut) entregaron viviendas, mientras Hugo Passalacqua (Misiones) y Gerardo Zamora (Santiago del Estero) promovieron el turismo y la cultura. Alberto Weretilneck (Río Negro) homenajeó a Malvinas y reforzó la presencia estatal. Ricardo Quintela (La Rioja) se sumó con un mensaje de desarrollo local en un aniversario. La agenda provincialista se consolida, enfatizando la capacidad de autogestión frente a un escenario federal complejo.",
+    "analisis_profundo": "El análisis de los tweets de la jornada del 10 de mayo de 2026 revela una consolidación de la agenda provincialista, donde los gobernadores acentúan la capacidad de sus administraciones para generar desarrollo y bienestar, a menudo en un tono que implícitamente contrasta con la situación nacional. Martín Llaryora (Córdoba) emitió un mensaje potente al afirmar que su provincia se 'destaca en el contexto nacional' gracias al orden fiscal y la inversión, una declaración que subraya la eficiencia de la gestión cordobesa en un panorama federal desafiante. Esta postura se refuerza con la promoción del 'Plan de Igualdad Territorial' y la ejecución de obras de infraestructura vitales en el interior provincial, demostrando una voluntad de desarrollo equilibrado. En una línea similar, Maximiliano Pullaro (Santa Fe) destacó la inauguración de una obra esperada por décadas en Rosario, declarando que 'en un momento muy duro para el país, en Santa Fe elegimos no detenernos', una clara señal de autonomía y resiliencia provincial frente a las dificultades que atraviesa la nación. Rolando Figueroa (Neuquén) exhibió un intenso activismo en redes, promocionando un programa de 4000 créditos hipotecarios como una 'política única en el país' y anunciando inversiones multimillonarias en infraestructura vial y educativa. Su insistencia en el 'modelo neuquino' y el liderazgo de la provincia en crecimiento del PBG refleja una identidad fuerte y una visión de autogestión. Leandro Zdero (Chaco) e Ignacio Torres (Chubut) se concentraron en políticas de vivienda social, evidenciando un Estado presente que responde a necesidades básicas con recursos propios. Hugo Passalacqua (Misiones) y Gerardo Zamora (Santiago del Estero) enfatizaron la promoción turística y cultural como ejes de desarrollo, utilizando eventos y obras de infraestructura para tal fin. Alberto Weretilneck (Río Negro) articuló la conmemoración de Malvinas con la cercanía del Estado a través de programas territoriales. En menor medida, Raúl Jalil (Catamarca) difundió un informe sobre educación y empleo. La tónica general es de una gestión provincial robusta, que busca diferenciarse y proteger a sus ciudadanos, asumiendo roles que el gobierno central podría haber disminuido o abandonado, generando una tensión subyacente en la dinámica federal.",
+    "temas_calientes": [
+        {
+            "tema": "Inversión en Infraestructura y Servicios Públicos con financiamiento provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento del Federalismo y Autonomía Provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Políticas de Vivienda y Acceso a la Propiedad",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Desarrollo y Promoción Turística y Cultural",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@passalacquaok",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Educación e Inversión en Capital Humano",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "Los cordobeses demostramos que con esfuerzo, responsabilidad y un orden fiscal destinado a la inversión en #infraestructura y servicios, es posible construir una provincia que se destaque en el contexto nacional. Se dio a conocer el Índice de Ciudades Argentinas (ICA), que posiciona a las dos principales ciudades de nuestra provincia - #CórdobaCapital y #RíoCuarto - entre las mejores y más relevantes del país, lo que refleja un modelo de gestión que apuesta al desarrollo, la planificación y el #progreso. Es un logro colectivo que nos llena de orgullo y, al mismo tiempo, nos compromete a seguir cuidando y consolidando este camino de crecimiento para #Córdoba. #HacerParaCrecer",
+        "por_que_es_clave": "El gobernador de Córdoba (Córdoba) realiza una fuerte declaración sobre la capacidad de su provincia para destacarse a nivel nacional mediante la gestión fiscal y la inversión en infraestructura y servicios, implicando un contraste con la situación federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Educación",
+                "Empleo",
+                "Brecha de Habilidades"
+            ],
+            "postura_politica": "A través de un retuit, el gobernador de Catamarca (Catamarca) difunde un informe sobre la brecha de habilidades en Argentina, alineándose con la agenda de desarrollo de capital humano y la conexión entre educación y oportunidades laborales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Dignidad",
+                "Desarrollo local"
+            ],
+            "postura_politica": "El gobernador del Chaco (Chaco) se enfoca en la gestión social y la respuesta a necesidades básicas, enfatizando la importancia de la vivienda para la dignidad y el crecimiento de las familias chaqueñas.",
+            "frase_fuerte": "cada vivienda entregada es dignidad, tranquilidad y una oportunidad de crecer."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Calidad de vida",
+                "Compromiso estatal"
+            ],
+            "postura_politica": "El gobernador del Chubut (Chubut) destaca el rol del Estado provincial en resolver demandas históricas de vivienda, enfocándose en el impacto humano de la gestión y la mejora de la calidad de vida de los chubutenses.",
+            "frase_fuerte": "detrás de cada solución habitacional hay vidas que cambian para siempre."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Orden fiscal",
+                "Inversión pública",
+                "Infraestructura",
+                "Desarrollo regional",
+                "Federalismo",
+                "Igualdad territorial"
+            ],
+            "postura_politica": "El gobernador de Córdoba (Córdoba) proyecta a su provincia como un modelo de gestión fiscal ordenada y eficiente que permite la inversión en infraestructura y el desarrollo territorial, logrando destacarse a nivel nacional. Subraya un federalismo proactivo.",
+            "frase_fuerte": "Los cordobeses demostramos que con esfuerzo, responsabilidad y un orden fiscal destinado a la inversión en #infraestructura y servicios, es posible construir una provincia que se destaque en el contexto nacional."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Aniversario municipal",
+                "Identidad cultural",
+                "Desarrollo local"
+            ],
+            "postura_politica": "El gobernador de La Rioja (La Rioja) envía un mensaje celebratorio por el aniversario de una localidad, pero incorpora el compromiso de su gobierno con el desarrollo, el crecimiento y las oportunidades para los riojanos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Promoción cultural",
+                "Turismo",
+                "Lazos internacionales"
+            ],
+            "postura_politica": "El gobernador de Misiones (Misiones) enfatiza la importancia de la cultura y los eventos internacionales para el desarrollo provincial, fomentando el turismo y las relaciones bilaterales como motor de crecimiento.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Vivienda",
+                "Créditos hipotecarios",
+                "Ordenamiento estatal",
+                "Desarrollo regional",
+                "Turismo",
+                "Educación",
+                "Infraestructura vial",
+                "Inversión pública"
+            ],
+            "postura_politica": "El gobernador de Neuquén (Neuquén) muestra un gobierno proactivo con políticas 'únicas' a nivel nacional, centradas en la inversión social (vivienda, educación) y en obras de gran envergadura (viales) para equilibrar el desarrollo provincial y potenciar el turismo. Destaca un 'modelo neuquino' de gestión.",
+            "frase_fuerte": "PUSIMOS EN MARCHA 4000 CRÉDITOS EN UNA POLÍTICA ÚNICA EN EL EL PAÍS"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Malvinas",
+                "Memoria",
+                "Federalismo",
+                "Gestión territorial",
+                "Servicios públicos"
+            ],
+            "postura_politica": "El gobernador de Río Negro (Río Negro) articula la defensa de la soberanía y la memoria histórica de Malvinas con la gestión cercana del Estado provincial, que busca resolver las necesidades de los rionegrinos sin intermediarios.",
+            "frase_fuerte": "MALVINAS NOS UNE EN LA MEMORIA Y EN EL COMPROMISO"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura urbana",
+                "Desarrollo local",
+                "Gestión provincial",
+                "Contexto nacional"
+            ],
+            "postura_politica": "El gobernador de Santa Fe (Santa Fe) enfatiza la capacidad de la provincia para avanzar con obras de infraestructura largamente esperadas, incluso en un contexto nacional difícil, posicionando la acción provincial como motor de desarrollo y equidad.",
+            "frase_fuerte": "En un momento muy duro para el país, en Santa Fe elegimos no detenernos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Turismo",
+                "Infraestructura turística",
+                "Desarrollo económico",
+                "Educación"
+            ],
+            "postura_politica": "El gobernador de Santiago del Estero (Santiago del Estero) prioriza el impulso del turismo como eje de desarrollo económico, destacando la infraestructura asociada y las oportunidades que genera para la provincia. Incluye un saludo institucional a una universidad.",
+            "frase_fuerte": "Esta noche dejamos inaugurada oficialmente la Temporada Turística Invernal 2026 en Las Termas de Río Hondo. Me llena de orgullo ver una ciudad que crece, que se transforma y que sigue eligiendo el camino del trabajo y el desarrollo."
+        }
+    ]
+}
