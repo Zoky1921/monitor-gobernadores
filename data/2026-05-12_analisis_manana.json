@@ -1,0 +1,154 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda de los gobernadores hoy se divide entre una fuerte crítica a las políticas nacionales de ajuste y el énfasis en la gestión y desarrollo provincial. Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba) se posicionaron en defensa de la educación pública ante el desfinanciamiento del gobierno nacional, haciendo eco de la 'Marcha Federal Universitaria'. En contraste, Jorge Macri (Ciudad Autónoma de Buenos Aires) avanzó con la privatización de medios públicos, alineándose con tendencias de desregulación. Otros mandatarios como Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) priorizaron la obra pública, programas sociales y el fomento de la inversión local, mientras Sergio Ziliotto (La Pampa) defendió recursos hídricos y Maximiliano Pullaro (Santa Fe) informó sobre operativos de seguridad. Osvaldo Jaldo (Tucumán) se centró en la coordinación institucional, buscando estabilidad en un contexto complejo.",
+    "analisis_profundo": "La jornada política de los gobernadores exhibe una marcada polarización. Por un lado, Axel Kicillof (Buenos Aires) adoptó una postura frontal contra el Gobierno nacional, denunciando explícitamente el 'ajuste y desfinanciamiento' de la universidad pública. Esta crítica resuena con la mención de Martín Llaryora (Córdoba) a la 'Marcha Federal Universitaria' y su reafirmación del compromiso provincial con la inversión en infraestructura educativa. Ambos mandatarios, desde diferentes trincheras, expresan una preocupación compartida por el impacto de las políticas federales en la educación superior y técnica, un tema que genera alta conflictividad social y política a nivel nacional. Esta línea de acción de los gobernadores de Buenos Aires y Córdoba refuerza la tensión preexistente entre el gobierno central y varias provincias por la distribución de fondos y la autonomía en la gestión de servicios esenciales. Jorge Macri (Ciudad Autónoma de Buenos Aires) se desmarcó de esta confrontación al anunciar la licitación del gerenciamiento de la TV y Radio de la Ciudad, una decisión que, en su argumentación de 'no financiar con impuestos lo que puede gestionar el sector privado', se alinea con la visión de desregulación y achicamiento del Estado que propicia el gobierno federal. Esta postura lo ubica en un extremo ideológico opuesto a las críticas de Kicillof. Por otro lado, una serie de gobernadores se mantuvieron enfocados en la gestión y el desarrollo provincial. Rolando Figueroa (Neuquén) destacó la generación de 'espacios para el diálogo y el desarrollo' con el sector privado y la importancia social de los clubes. Alberto Weretilneck (Río Negro) reportó múltiples inauguraciones de obras clave, como un nuevo hospital en Darwin y la rehabilitación de la Ruta 65 en Cipolletti, además de promover becas y la inversión privada en su provincia. Ricardo Quintela (La Rioja) se centró en el fortalecimiento institucional y el trabajo legislativo interprovincial. Sergio Ziliotto (La Pampa) reafirmó su compromiso con la 'histórica lucha pampeana por nuestros ríos', un tema de defensa de recursos y soberanía provincial. Leandro Zdero (Chaco) informó sobre operaciones de asistencia en zonas rurales. Maximiliano Pullaro (Santa Fe) continuó enfatizando la lucha contra el crimen organizado, a través de retweets sobre operativos y allanamientos. Osvaldo Jaldo (Tucumán) abordó la necesidad de 'garantizar estabilidad' mediante la coordinación interpoderes, reflejando una estrategia de adaptación y gestión local frente a la complejidad del escenario nacional. La jornada subraya la diversidad de estrategias provinciales: confrontación, alineamiento o foco exclusivo en la gestión, en un entramado federal con puntos de fricción evidentes.",
+    "temas_calientes": [
+        {
+            "tema": "Defensa y Financiación de la Educación Pública",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Privatización y Gestión de Medios Públicos",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo de Infraestructura y Fomento de la Inversión Provincial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Defensa de Recursos Naturales y Soberanía Provincial",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Seguridad Pública y Lucha contra el Crimen Organizado",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La universidad pública es una de las mayores conquistas de la democracia argentina. Frente al ajuste y el desfinanciamiento del gobierno de Milei, defenderla es cuidar la ciencia, el desarrollo y el derecho al futuro.",
+        "por_que_es_clave": "Este tweet del gobernador de Buenos Aires (Kicillofok) es clave porque representa una crítica directa y explícita a las políticas de 'ajuste y desfinanciamiento' del Gobierno nacional sobre un pilar fundamental como la universidad pública. Su declaración alinea la defensa universitaria con la ciencia, el desarrollo y el futuro del país, marcando un punto de alta tensión en la relación federal y un tema de gran impacto social en la jornada.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Educación Pública",
+                "Relación Nación-Provincias",
+                "Desfinanciamiento Estatal"
+            ],
+            "postura_politica": "Adopta una postura crítica hacia el Gobierno nacional, denunciando el ajuste y desfinanciamiento de la universidad pública. Posiciona la defensa de la educación superior como un pilar de la democracia y el desarrollo nacional.",
+            "frase_fuerte": "Frente al ajuste y el desfinanciamiento del gobierno de Milei, defenderla es cuidar la ciencia, el desarrollo y el derecho al futuro."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Gestión Pública",
+                "Privatización",
+                "Medios Públicos",
+                "Eficiencia Estatal"
+            ],
+            "postura_politica": "Impulsa la licitación de medios públicos para que el sector privado asuma su gerenciamiento, argumentando eficiencia y reducción de costos fiscales. Esta medida se alinea con una visión de menor intervención estatal en la economía.",
+            "frase_fuerte": "No es momento para financiar con los impuestos de los porteños algo que puede gestionar el sector privado sin costarle un peso a los vecinos."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Asistencia Social",
+                "Gestión Territorial",
+                "Comunidades Vulnerables"
+            ],
+            "postura_politica": "Enfocado en la gestión territorial y la asistencia directa a comunidades, especialmente en zonas complejas. Demuestra un compromiso con la presencia del Estado para brindar apoyo y servicios esenciales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación Pública",
+                "Infraestructura Educativa",
+                "Compromiso Provincial"
+            ],
+            "postura_politica": "Reafirma el compromiso provincial con la inversión y expansión de la educación pública, en un contexto de reflexión y defensa de este sector. Su mención a la 'Marcha Federal Universitaria' lo posiciona como defensor de la educación frente a posibles recortes.",
+            "frase_fuerte": "en #Córdoba reafirmamos nuestro compromiso con la inversión provincial en #infraestructura, #conectividad y expansión educativa."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Recursos Hídricos",
+                "Federalismo",
+                "Soberanía Provincial"
+            ],
+            "postura_politica": "Mantiene una postura firme y continua en la defensa de los recursos hídricos de La Pampa, enfatizando la 'histórica lucha' por lo que considera un derecho provincial inalienable.",
+            "frase_fuerte": "Fieles a la histórica lucha pampeana por nuestros ríos, seguimos de pie defendiendo lo que nos pertenece."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Institucionalidad",
+                "Coordinación Legislativa"
+            ],
+            "postura_politica": "Promueve el fortalecimiento del trabajo legislativo interprovincial y la modernización institucional. Destaca la importancia de estos encuentros para construir un federalismo más integrado y transparente, adaptado a los desafíos actuales.",
+            "frase_fuerte": "Creo profundamente en estos espacios de encuentro, porque ayudan a construir un federalismo más integrado, con instituciones más cercanas, transparentes y preparadas para los desafíos que hoy demanda nuestra sociedad."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo Económico",
+                "Empleo",
+                "Programas Sociales",
+                "Infraestructura Deportiva"
+            ],
+            "postura_politica": "Impulsa el diálogo y el trabajo conjunto entre el sector público y privado como motor de desarrollo y empleo. Promueve programas que fortalecen la infraestructura comunitaria y deportiva, buscando beneficios para toda la sociedad neuquina.",
+            "frase_fuerte": "Creemos en el trabajo conjunto entre el sector público y privado para generar empleo, fortalecer el desarrollo y consolidar este cambio que busca llevar beneficios a toda la sociedad neuquina."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Salud",
+                "Educación",
+                "Inversión Privada",
+                "Desarrollo Provincial"
+            ],
+            "postura_politica": "Centrado en la ejecución de obras de infraestructura provincial (hospitales, rutas) y el fomento de la inversión privada, destacando la previsibilidad y reglas claras como motores de crecimiento. También apoya la educación superior con becas.",
+            "frase_fuerte": "Cuando el sector privado encuentra confianza para invertir, Río Negro crece. Y ese rumbo ya está en marcha."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad Pública",
+                "Lucha contra el Narcotráfico",
+                "Prevención del Delito"
+            ],
+            "postura_politica": "Reafirma el compromiso con la seguridad pública a través de operativos de saturación, patrullajes y allanamientos. Enfatiza la continuidad de la lucha contra el narcotráfico y el crimen organizado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Gestión Provincial",
+                "Coordinación Institucional",
+                "Estabilidad Política",
+                "Contexto Político y Económico Nacional"
+            ],
+            "postura_politica": "Destaca la importancia del trabajo conjunto y el diálogo entre los poderes del Estado para garantizar la estabilidad provincial. Analiza el escenario político y económico actual, buscando respuestas concretas para los tucumanos.",
+            "frase_fuerte": "reafirmando la importancia del trabajo conjunto, el diálogo y los consensos para seguir garantizando estabilidad en Tucumán."
+        }
+    ]
+}

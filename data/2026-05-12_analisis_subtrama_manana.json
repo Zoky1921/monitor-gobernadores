@@ -1,0 +1,101 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Axel Kicillof (Buenos Aires) lidera el frente anti-Milei con críticas directas al ajuste en salud y universidad pública, marcando desfinanciamiento nacional. Martín Llaryora (Córdoba) responde con fondo propio para escuelas técnicas ante recortes nacionales. Jorge Macri (CABA) y Leandro Zdero (Chaco) optan por gestión local. Silencio en provincias centrales como Neuquén sugiere cálculo de bajo perfil fiscal.",
+    "analisis_profundo": "El Conflicto Central: En esta jornada de máxima sospecha para núcleos centrales, la tensión fiscal entre Nación y provincias adquiere contornos nítidos. Kicillof (Buenos Aires) no informa: reclama deudas pendientes por recortes en salud ($25.000M) y universidad, posicionando a Milei como desertor estatal en plena crisis respiratoria y suba de naftas por guerra en Medio Oriente. Llaryora (Córdoba) replica con $2.000M provinciales para escuelas técnicas, quintuplicando fondos nacionales evaporados, un dardo calibrado a la asfixia educativa.\n\nLos Alineamientos: Kicillof lidera el bloque opositor peronista, con retuits a marchas universitarias y críticas al 'Estado desertor'. Llaryora (Córdoba), en ambigüedad calculada, gestiona autonomía sin romper puentes. Aliados implícitos como Jalil (Catamarca) y Zdero (Chaco) callan sobre Nación, priorizando minería y exportaciones. Paria: el silencio de Figueroa (Neuquén), peso alto por Vaca Muerta, revela repliegue territorial ante tensiones energéticas. Macri (CABA) y Torres (Chubut) alinean con relato PRO de 'orden y gestión', ignorando macro.\n\nLa Micro-política: Provincias periféricas como Formosa (Insfrán) y Corrientes (Valdés) exhiben apatía federal: efemérides y condolencias locales, refugio en cabotaje ante asfixia coparticipante. Zdero (Chaco) y Torres (Chubut) multiplican gestión (salud, viviendas, exportaciones), un apagón político coordinado que deslegitima el ajuste nacional sin mencionarlo. Silencios como el de Pullaro (Santa Fe) o Melella (Tierra del Fuego) son mensajes: ¿qué gana callando ante coparticipación? La omisión revela cálculo de supervivencia.\n\nSaldo Presidencial: Milei acumula desgaste en el Círculo Rojo bonaerense y cordobés, donde Kicillof y Llaryora marcan autonomía fiscal como antídoto al desfinanciamiento. El tablero federal se fragmenta: peronismos centrales reclaman, no alineados gestionan cabotaje, y el oficialismo provincial (Macri) amplifica superávit local. Casa Rosada pierde oxígeno simbólico en educación y salud, con gobernadores centrales convirtiendo carencias nacionales en victorias territoriales.",
+    "temas_calientes": [
+        {
+            "tema": "Ajuste nacional en salud y educación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Gestión local de seguridad y obras",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Defensa universidad pública",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento escuelas técnicas ante recortes",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Efemérides y agenda protocolar",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@gustavovaldesok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (Buenos Aires)",
+        "texto": "La universidad pública es una de las mayores conquistas de la democracia argentina. Frente al ajuste y el desfinanciamiento del gobierno de Milei, defenderla es cuidar la ciencia, el desarrollo y el derecho al futuro. Leé la nota completa 👉 https://t.co/UI4BHa2FhC",
+        "por_que_es_clave": "Kicillof usa retuit para posicionar defensa universitaria como batalla federal contra Milei, disimulando orfandad bonaerense en fondos nacionales y reclamando deuda simbólica en vísperas de marcha del 12/5.",
+        "pregunta_openarg": "¿Cuánto del presupuesto universitario bonaerense absorbe Nación realmente, o es puro relato anti-Milei?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Ajuste salud",
+                "Universidad pública",
+                "Marcha 12/5"
+            ],
+            "postura_politica": "No informa conquistas: reclama desfinanciamiento nacional en salud ($25-45M recortados) y universidad, posicionando Milei como culpable de crisis sanitaria y educativa. Dardo a Nación para marcar autonomía bonaerense ante carencia federal.",
+            "frase_fuerte": "Frente al ajuste y el desfinanciamiento del gobierno de Milei, defenderla es cuidar la ciencia"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Gestión TV/Radio",
+                "Seguridad narco"
+            ],
+            "postura_politica": "Agenda local sin impacto federal: licitación privada de medios públicos y detenciones narco (colombiano, peruanos) refuerzan relato PRO de 'ley y orden', disimulando orfandad coparticipante porteña.",
+            "frase_fuerte": "No es momento para financiar con los impuestos de los porteños algo que puede gestionar el sector privado"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Escuelas técnicas",
+                "Educación pública"
+            ],
+            "postura_politica": "No celebra efemérides: fondo $2.000M provincial quintuplica recortes nacionales en técnicas, marcando autonomía ante desfinanciamiento. Cálculo: ¿qué pierde Córdoba callando sobre coparticipación?",
+            "frase_fuerte": "Destruir, desfinanciar o asfixiar las escuelas técnicas es sacrificar el presente y el futuro"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud",
+                "Obras"
+            ],
+            "postura_politica": "Gestión protocolar aislada: equipamiento hospitalario y operativo Interfluvio, omisión de Nación sugiere apagón político para deslegitimar ajuste sin confrontar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Ríos"
+            ],
+            "postura_politica": "Lucha histórica por ríos como marca territorial, reclamando soberanía hídrica ante Nación sin escalada fiscal.",
+            "frase_fuerte": "Fieles a la histórica lucha pampeana por nuestros ríos, seguimos de pie defendiendo lo que nos pertenece"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Encuentro parlamentarios"
+            ],
+            "postura_politica": "Diplomacia legislativa federal, omisión de tensiones sugiere cálculo de bajo perfil.",
+            "frase_fuerte": null
+        }
+    ]
+}
