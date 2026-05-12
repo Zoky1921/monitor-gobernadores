@@ -1,0 +1,118 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Axel Kicillof (Buenos Aires) lidera el fuego cruzado contra el ajuste nacional en salud, marcando una deuda fiscal explícita con Nación. Martín Llaryora (Córdoba) replica con fondo propio para escuelas técnicas ante recortes federales. Jorge Macri (CABA) y gobernadores centrales priorizan gestión local de seguridad y obras, omitiendo macro. Provincias periféricas callan o refugian en cabotaje, revelando un apagón político coordinado.",
+    "analisis_profundo": "El Conflicto Central: En esta jornada de 11 de mayo, la tensión fiscal entre Nación y provincias centrales irrumpe con nitidez quirúrgica. Kicillof (Buenos Aires) destapa el recorte sanitario de $25.000 millones como un Estado desertor, mientras Llaryora (Córdoba) quintuplica fondos nacionales para escuelas técnicas desfinanciadas. No es mera queja: es diplomacia fiscal que reclama deudas pendientes y disimula orfandad presupuestaria en el corazón productivo del país.\n\nLos Alineamientos: Kicillof lidera el bloque opositor explícito, con retuits que amplifican la marcha universitaria y críticas al ajuste. Llaryora (Córdoba) se posiciona en ambigüedad calculada: gestión autónoma que opaca el repliegue nacional sin confrontación directa. Jorge Macri (CABA) y Leandro Zdero (Chaco) forman el dúo de 'orden y obras', ignorando Nación para fortificar territorio propio. Periféricos como Insfrán (Formosa) optan por silencio o efemérides, preservando supervivencia en la agenda de cabotaje.\n\nLa Micro-política: Provincias como Catamarca (Jalil) y Chubut (Torres) exhiben equipamiento hospitalario como marca de autonomía ante desfinanciamiento central, un gesto sutil que dice 'gestionamos lo que Nación abandonó'. Zdero (Chaco) y Figueroa (Neuquén) pavimentan exportaciones y créditos habitacionales, un refugio en lo local que evade la macroeconomía en crisis. El silencio de pesos medios revela cálculo: ¿qué pierden si hablan, qué ganan si callan ante un ajuste que asfixia?\n\nSaldo Presidencial: La Casa Rosada acumula daño político en el núcleo federal. Kicillof y Llaryora erosionan el relato de equilibrio fiscal, posicionando a Nación como verdugo de la salud y educación. El apagón de gobernadores afines sugiere repliegue territorial, pero fortalece la narrativa opositora de 'provincias solas'. Milei pierde capital simbólico en Buenos Aires y Córdoba, donde cada aula o hospital provincial es un dardo contra el ajuste.",
+    "temas_calientes": [
+        {
+            "tema": "Ajuste sanitario nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Desfinanciamiento educativo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Gestión autónoma en salud",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden local",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Obras y exportaciones provinciales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @nkreplak)",
+        "texto": "Mientras aumenta la demanda en hospitales y centros de salud, el Gobierno nacional vuelve a responder con más ajuste. En plena suba de enfermedades respiratorias, caída de coberturas de vacunación y crisis en el acceso a medicamentos, decidieron volver a recortar el presupuesto sanitario. Recortan $25.000 millones destinados al fortalecimiento de los sistemas provinciales, $20.000 millones en medicamentos, insumos y tecnología médica, fondos para vacunas, VIH, tuberculosis, hepatitis, salud sexual y hasta recursos del INCUCAI.",
+        "por_que_es_clave": "Kicillof usa retuit para amplificar reclamo fiscal directo contra Nación, exponiendo carencia presupuestaria como abandono estatal y posicionándose como garante de la salud bonaerense frente al ajuste mileísta.",
+        "pregunta_openarg": "¿Cuánto más recortará Nación en salud antes de que Buenos Aires declare quiebra sanitaria?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "ajuste sanitario nacional",
+                "educación universitaria"
+            ],
+            "postura_politica": "Explícito contra Nación: recortes sanitarios como Estado desertor disimulan deuda coparticipable. Retuits universitarios marcan autonomía educativa ante repliegue federal.",
+            "frase_fuerte": "Cuando el Estado se retira del cuidado, las consecuencias las paga la gente."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad"
+            ],
+            "postura_politica": "Ley y orden local: detenciones de narcos extranjeros refuerzan imagen PRO sin mencionar Nación, calculando omisión para no tensionar con Milei.",
+            "frase_fuerte": "Ley y orden."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "educación técnica",
+                "obras cloacales"
+            ],
+            "postura_politica": "Fondo provincial quintuplica recortes nacionales en escuelas técnicas, marcando autonomía ante desfinanciamiento central sin confrontación abierta.",
+            "frase_fuerte": "Destruir, desfinanciar o asfixiar las escuelas técnicas es sacrificar el presente y el futuro de nuestra industria nacional."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "salud",
+                "viviendas",
+                "exportaciones"
+            ],
+            "postura_politica": "Agenda local de equipamiento sanitario y carne a Omán ignora Nación, un apagón político que deslegitima ajuste federal vía gestión cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "salud"
+            ],
+            "postura_politica": "Tomógrafo en hospital patagónico como autonomía ante crisis nacional, omisión que revela cálculo de supervivencia fiscal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "viviendas",
+                "deporte"
+            ],
+            "postura_politica": "Créditos habitacionales con fondos propios marcan independencia energética ante ajuste, priorizando cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "alivio fiscal"
+            ],
+            "postura_politica": "Refinanciación de deudas con tasa bonificada evade macro, un gesto de supervivencia en periferia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "duelo provincial"
+            ],
+            "postura_politica": "Banderas a media asta por tragedia local, gestión protocolar aislada sin impacto federal.",
+            "frase_fuerte": null
+        }
+    ]
+}
