@@ -1,0 +1,146 @@
+{
+    "clima_general": "AUTÓNOMO",
+    "resumen_ejecutivo": "La agenda de los gobernadores se concentra hoy en una activa gestión provincial, con un fuerte impulso en infraestructura, salud y desarrollo local. Mientras algunos, como Osvaldo Jaldo (Tucumán), gestionan obras críticas asumiendo costos que atribuyen a la Nación y planean reclamar reintegros, otros como Carlos Sadir (Jujuy) buscan financiamiento internacional directo del Banco Mundial. Martín Llaryora (Córdoba) y Leandro Zdero (Chaco) destacan inversiones en el interior provincial y asistencia social, respectivamente. Rolando Figueroa (Neuquén) resalta la ciencia local. Gustavo Sáenz (Salta) invierte en infraestructura deportiva. En Río Negro, Alberto Weretilneck avanza con obras viales y energéticas. Este enfoque subraya una capacidad de resolución y una proactividad de las provincias frente a las dinámicas nacionales.",
+    "analisis_profundo": "El pulso político de la jornada, marcado por los movimientos en las últimas 24 horas, revela una clara estrategia de los gobernadores para consolidar la autonomía y la capacidad de gestión provincial. Se observa una tendencia a priorizar inversiones en infraestructura y servicios esenciales, a menudo supliendo o diferenciándose de las políticas nacionales. Esta dinámica subraya la tensión federal y la necesidad de las provincias de asegurar su propio desarrollo.\n\nMartín Llaryora (Córdoba) ha desplegado una intensa agenda territorial en San Justo, destacando inversiones en viviendas, redes de gas natural e infraestructura educativa. Su énfasis en el 'trabajo conjunto con municipios y comunas' refleja un modelo de desarrollo basado en la coordinación local y el fortalecimiento del interior provincial. En una línea similar, Claudio Poggi (San Luis) anuncia el inicio de obras para un nuevo Centro de Salud, enfocándose en la mejora de la atención primaria y la comodidad de los ciudadanos.\n\nEn cuanto a infraestructura estratégica, Carlos Sadir (Jujuy) gestiona directamente con el Banco Mundial para 'obras estratégicas', una señal clara de búsqueda de financiamiento alternativo ante posibles restricciones nacionales. En Río Negro, Alberto Weretilneck avanza con proyectos clave como la Ruta 65 y convoca a audiencias públicas para el Gasoducto Tratayén-San Antonio Oeste, subrayando el desarrollo energético y vial como motores provinciales. Osvaldo Jaldo (Tucumán) ha asumido la ejecución de la reparación de la Presa Lateral N°3, una obra que considera responsabilidad nacional, anunciando acciones judiciales para el reintegro de una inversión provincial superior a los $15 mil millones. Esta decisión marca una postura firme de defensa de los intereses provinciales frente a la inacción central.\n\nLeandro Zdero (Chaco) enfoca su gestión en la asistencia social y territorial con el 'Operativo Interfluvio' en el Impenetrable Chaqueño, garantizando la presencia del Estado en comunidades vulnerables. Rolando Figueroa (Neuquén) pone en valor la ciencia local al destacar el reconocimiento internacional al CEAN por su trabajo en hantavirus, posicionando a la provincia como referente en investigación. Gustavo Sáenz (Salta) apuesta al deporte con la construcción de una pista de patinaje de nivel internacional, viéndola como una 'herramienta de inclusión' para la juventud.\n\nEn contraste, Ariel Kicillof (Buenos Aires) se enfoca en la promoción de un evento político interno, utilizando el lema 'hay otro camino', lo que sugiere una construcción de agenda y un posicionamiento político de oposición al gobierno nacional. El conjunto de estas acciones evidencia una Argentina donde las provincias, más allá de la confrontación, están decididas a forjar su propio destino, con o sin el acompañamiento explícito de la Nación.",
+    "temas_calientes": [
+        {
+            "tema": "Inversión en Infraestructura Estratégica",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@carlossadirjuy",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Autonomía y Financiamiento Provincial ante Recortes Nacionales",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Social y Asistencia Territorial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Impulso a la Ciencia y Tecnología Local",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Posicionamiento Político y Construcción de Alternativas",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@carlossadirjuy",
+        "texto": "Recibí a representantes del Banco Mundial con quienes seguimos avanzando en gestiones concretas para obras estratégicas en Jujuy.",
+        "por_que_es_clave": "En un contexto de ajuste nacional y restricción de obra pública, la gestión directa de financiamiento internacional por parte de un gobernador para 'obras estratégicas' es un indicio clave de autonomía y pragmatismo provincial. Subraya la búsqueda de vías alternativas de desarrollo frente a las limitaciones impuestas por el gobierno central.",
+        "pregunta_openarg": "¿La profundización de la relación directa entre las provincias y organismos financieros internacionales marca un nuevo modelo de gestión federal, independientemente de la política económica nacional?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Política interna",
+                "Movilización",
+                "Futuro político"
+            ],
+            "postura_politica": "Se posiciona como líder de una alternativa política, enfocándose en la movilización de bases y la promoción de su proyecto para 'Derecho al Futuro', lo que sugiere una clara oposición al rumbo nacional y una construcción propia de agenda.",
+            "frase_fuerte": "ʜᴀʏ ᴏᴛʀᴏ ᴄᴀᴍɪɴᴏ Con @kicillofok, Derecho al Futuro."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Asistencia social",
+                "Gestión local",
+                "Intervención territorial"
+            ],
+            "postura_politica": "Demuestra una gestión activa en el territorio, con operativos de asistencia integral a comunidades rurales. Su enfoque es la presencia estatal directa y la respuesta a necesidades básicas en áreas vulnerables, reflejando una administración de cercanía.",
+            "frase_fuerte": "Trabajamos articuladamente entre organismos provinciales y nacionales, acercando asistencia a las familias de distintos parajes mediante la entrega de módulos alimentarios, agua y atención integral."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Educación",
+                "Desarrollo local",
+                "Colaboración municipal"
+            ],
+            "postura_politica": "Mantiene una agenda intensiva de gestión territorial, priorizando obras de infraestructura educativa y desarrollo en el interior provincial. Su énfasis en el 'trabajo conjunto con municipios y comunas' y la inversión local demuestra un modelo de desarrollo basado en la articulación sub-provincial para el progreso y la creación de oportunidades.",
+            "frase_fuerte": "No vamos a bajar los brazos. Vamos a seguir trabajando, gestionando e invirtiendo para que el progreso llegue a cada rincón de #Córdoba."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Financiamiento internacional",
+                "Obras estratégicas",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Busca activamente fuentes de financiamiento externas, como el Banco Mundial, para ejecutar 'obras estratégicas' en su provincia. Esto subraya una estrategia de búsqueda de autonomía financiera y desarrollo, mitigando la dependencia de fondos nacionales.",
+            "frase_fuerte": "Recibí a representantes del Banco Mundial con quienes seguimos avanzando en gestiones concretas para obras estratégicas en Jujuy."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Ciencia",
+                "Investigación",
+                "Salud pública",
+                "Reconocimiento internacional"
+            ],
+            "postura_politica": "Pone en valor la ciencia y la investigación desarrollada en Neuquén, destacando el reconocimiento internacional al CEAN por su trabajo en hantavirus. Esto posiciona a la provincia como un referente en conocimiento y prevención, invirtiendo en capacidades científicas locales.",
+            "frase_fuerte": "NEUQUÉN ES REFERENCIA INTERNACIONAL EN INVESTIGACIÓN Y PREVENCIÓN"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Energía",
+                "Seguridad",
+                "Obras públicas"
+            ],
+            "postura_politica": "Se enfoca en la ejecución de obras de infraestructura clave, como la Ruta 65, y avanza en proyectos energéticos estratégicos como el Gasoducto Tratayén – San Antonio Oeste, con énfasis en la transparencia a través de audiencias públicas. También muestra firmeza en seguridad con la mención de incautaciones de drogas.",
+            "frase_fuerte": "🛣️LA RUTA 65 YA ES UNA REALIDAD"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura",
+                "Juventud",
+                "Inclusión"
+            ],
+            "postura_politica": "Anuncia inversiones en infraestructura deportiva de alto nivel (pista de patinaje internacional), enfatizando el deporte como una herramienta de inclusión y desarrollo para la juventud. Se alinea con una política de fomento de oportunidades y valores a través de espacios comunitarios.",
+            "frase_fuerte": "En El Carril vamos a construir la primera pista de patinaje de nivel internacional de Salta."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Salud pública",
+                "Infraestructura sanitaria"
+            ],
+            "postura_politica": "Prioriza la mejora de la infraestructura de salud en la capital provincial, iniciando la construcción de un nuevo Centro de Salud. Su gestión se orienta a fortalecer la atención primaria y la comodidad de vecinos y trabajadores en el sistema público.",
+            "frase_fuerte": "Comenzamos la construcción del nuevo edificio del CENTRO DE SALUD Nro 11 del Barrio AMEP en la Ciudad de San Luis."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Infraestructura hídrica",
+                "Tensión Nación-Provincias",
+                "Gestión provincial",
+                "Financiamiento"
+            ],
+            "postura_politica": "Demuestra una fuerte capacidad de gestión provincial al financiar y ejecutar la reparación de una presa que considera responsabilidad nacional, y a la vez, iniciar acciones legales para reclamar el reintegro de fondos. Esto marca una postura de defensa de los intereses provinciales y asunción de responsabilidades ante la inacción central.",
+            "frase_fuerte": "Avanzamos con una obra histórica que devuelve seguridad, capacidad operativa y previsibilidad al sistema hídrico provincial."
+        }
+    ]
+}
