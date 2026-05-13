@@ -1,30 +1,260 @@
+
+
+I need to analyze the tweets from Argentine governors for today (May 13, 2026) and yesterday evening (May 12 after 20hs ARG). Let me first convert the UTC timestamps to ARG time (UTC-3).
+
+**Tweets from May 13, 2026 (today):**
+- Kicillofok: Wed May 13 13:28:25 UTC → 10:28 ARG ✓
+- LeandroZdero: Wed May 13 01:35:49 UTC → May 12 22:35 ARG ✓ (after 20hs)
+- MartinLlaryora: Wed May 13 14:33:47 UTC → 11:33 ARG ✓
+- MartinLlaryora: Wed May 13 00:16:51 UTC → May 12 21:16 ARG ✓ (after 20hs)
+- carlossadirjuy: Wed May 13 11:47:12 UTC → 08:47 ARG ✓
+- claudiojpoggi: Wed May 13 00:22:11 UTC → May 12 21:22 ARG ✓ (after 20hs)
+- GustavoSaenzOK: Wed May 13 11:06:54 UTC → 08:06 ARG ✓
+- Rolo_Figueroa: Wed May 13 10:55:18 UTC → 07:55 ARG ✓
+- Rolo_Figueroa: Wed May 13 02:07:22 UTC → May 12 23:07 ARG ✓ (after 20hs)
+
+**Tweets from May 12, 2026 (after 20hs ARG = after 23hs UTC):**
+- Kicillofok: Tue May 12 22:05:19 UTC → 19:05 ARG ✗ (before 20hs)
+- jorgemacri: Tue May 12 12:26:51 UTC → 09:26 ARG ✗
+- LeandroZdero: Tue May 12 22:26:54 UTC → 19:26 ARG ✗ (before 20hs)
+- LeandroZdero: Tue May 12 15:26:40 UTC → 12:26 ARG ✗
+- LeandroZdero: Tue May 12 01:37:36 UTC → May 11 22:37 ARG ✗ (May 11)
+- NachoTorresCH: Tue May 12 21:43:14 UTC → 18:43 ARG ✗ (before 20hs)
+- MartinLlaryora: Tue May 12 21:11:34 UTC → 18:11 ARG ✗ (before 20hs)
+- MartinLlaryora: Tue May 12 20:39:13 UTC → 17:39 ARG ✗
+- MartinLlaryora: Tue May 12 17:27:26 UTC → 14:27 ARG ✗
+- MartinLlaryora: Tue May 12 15:04:38 UTC → 12:04 ARG ✗
+- MartinLlaryora: Tue May 12 13:48:15 UTC → 10:48 ARG ✗
+- QuintelaRicardo: Tue May 12 21:49:17 UTC → 18:49 ARG ✗ (before 20hs)
+- QuintelaRicardo: Tue May 12 11:27:39 UTC → 08:27 ARG ✗
+- alfredocornejo: Tue May 12 18:07:43 UTC → 15:07 ARG ✗
+- alfredocornejo: Tue May 12 15:26:23 UTC → 12:26 ARG ✗
+- passalacquaok: Tue May 12 15:09:28 UTC → 12:09 ARG ✗
+- passalacquaok: Tue May 12 15:08:29 UTC → 12:08 ARG ✗
+- passalacquaok: Tue May 12 11:24:30 UTC → 08:24 ARG ✗
+- Rolo_Figueroa: Tue May 12 18:55:09 UTC → 15:55 ARG ✗
+- Rolo_Figueroa: Tue May 12 16:51:37 UTC → 13:51 ARG ✗
+- Rolo_Figueroa: Tue May 12 16:13:57 UTC → 13:13 ARG ✗
+- Rolo_Figueroa: Tue May 12 14:33:40 UTC → 11:33 ARG ✗
+- Rolo_Figueroa: Tue May 12 01:16:04 UTC → May 11 22:16 ARG ✗ (May 11)
+- WeretilneckOK: Tue May 12 23:09:33 UTC → 20:09 ARG ✓ (after 20hs)
+- WeretilneckOK: Tue May 12 23:09:28 UTC → 20:09 ARG ✓
+- WeretilneckOK: Tue May 12 23:09:19 UTC → 20:09 ARG ✓
+- WeretilneckOK: Tue May 12 22:14:25 UTC → 19:14 ARG ✗ (before 20hs)
+- WeretilneckOK: Tue May 12 20:59:37 UTC → 17:59 ARG ✗
+- WeretilneckOK: Tue May 12 20:17:01 UTC → 17:17 ARG ✗
+- WeretilneckOK: Tue May 12 17:09:19 UTC → 14:09 ARG ✗
+- WeretilneckOK: Tue May 12 16:57:15 UTC → 13:57 ARG ✗
+- WeretilneckOK: Tue May 12 16:47:59 UTC → 13:47 ARG ✗
+- WeretilneckOK: Tue May 12 14:45:48 UTC → 11:45 ARG ✗
+- WeretilneckOK: Tue May 12 13:31:23 UTC → 10:31 ARG ✗
+- WeretilneckOK: Tue May 12 12:49:22 UTC → 09:49 ARG ✗
+- WeretilneckOK: Tue May 12 10:20:32 UTC → 07:20 ARG ✗
+- WeretilneckOK: Tue May 12 01:23:44 UTC → May 11 22:23 ARG ✗ (May 11)
+- maxipullaro: Tue May 12 21:43:45 UTC → 18:43 ARG ✗ (before 20hs)
+- maxipullaro: Tue May 12 15:15:55 UTC → 12:15 ARG ✗
+- maxipullaro: Tue May 12 01:02:04 UTC → May 11 22:02 ARG ✗ (May 11)
+- EliasSuarezSDE: Tue May 12 16:56:09 UTC → 13:56 ARG ✗
+- OsvaldoJaldo: Tue May 12 23:51:36 UTC → 20:51 ARG ✓ (after 20hs)
+- OsvaldoJaldo: Tue May 12 18:08:32 UTC → 15:08 ARG ✗
+- OsvaldoJaldo: Tue May 12 14:22:32 UTC → 11:22 ARG ✗
+
+Now let me compile the valid tweets and analyze them:
+
+**Valid tweets (May 13 or May 12 after 20hs ARG):**
+
+1. **Kicillofok** (May 13 10:28 ARG): RT de @MDFMujeresYDiv - lanzamiento MDF Mujeres y Diversidades
+2. **LeandroZdero** (May 12 22:35 ARG): Operativo Interfluvio N°131 en el Impenetrable Chaqueño
+3. **MartinLlaryora** (May 13 11:33 ARG): RT de @gobdecordoba - obra sede UPC en LasVarillas
+4. **MartinLlaryora** (May 12 21:16 ARG): Recorrida por departamento San Justo, gestión en localidades del interior
+5. **carlossadirjuy** (May 13 08:47 ARG): Reunión con Banco Mundial para obras en Jujuy
+6. **claudiojpoggi** (May 12 21:22 ARG): Construcción Centro de Salud Nro 11 en San Luis
+7. **GustavoSaenzOK** (May 13 08:06 ARG): Anuncio pista de patinaje internacional en El Carril, Salta
+8. **Rolo_Figueroa** (May 13 07:55 ARG): RT propio - CEAN reconocido por DW sobre hantavirus
+9. **Rolo_Figueroa** (May 12 23:07 ARG): CEAN reconocido internacionalmente por investigación hantavirus
+10. **WeretilneckOK** (May 12 20:09 ARG x3): RTs de rionegrogob - Ruta 65, audiencia pública gasoducto, secuestro marihuana
+11. **OsvaldoJaldo** (May 12 20:51 ARG): Reparación Presa Lateral N°3 del Complejo Hidroeléctrico Celestino Gelsi
+
+Now let me build the comprehensive analysis:
+
+```json
 {
-    "clima_general": "SILENCIO",
-    "resumen_ejecutivo": "Sin señales de poder, posicionamiento simbólico o agenda fiscal relevante en la jornada de hoy.",
-    "analisis_profundo": "Acto 1 — El Conflicto Central: En esta jornada de 13/05/2026, el eje de tensión fiscal entre Nación y provincias permanece en un letargo calculado, sin estallidos ni reclamos abiertos sobre coparticipación o desfinanciamiento. La ausencia de roces marca un repliegue táctico ante la macroeconomía adversa.\n\nActo 2 — Los Alineamientos: Gobernadores centrales como Kicillof (Buenos Aires) y Llaryora (Córdoba) optan por omisiones estratégicas, evitando confrontaciones que podrían interpretarse como debilidad; periféricos como Insfran (Formosa) se refugian en efemérides locales. No hay nado sincronizado ni parias evidentes, solo una neutralidad que preserva capital político.\n\nActo 3 — La Micro-política: Provincias como Santa Cruz y San Luis exhiben gestión de cabotaje con inauguraciones menores, disimulando carencias estructurales mediante selfies institucionales. El silencio sobre Nación revela un cálculo de supervivencia: callar para no exponer orfandad fiscal.\n\nActo 4 — Saldo Presidencial: La Casa Rosada gana un respiro valioso; la falta de fuego federal fortalece su narrativa de ajuste sin rebeliones, consolidando un tablero donde las provincias centrales acumulan deudas simbólicas para futuras reclamaciones.",
-    "temas_calientes": [],
-    "tweet_destacado": {
-        "usuario": null,
-        "texto": "Sin posteos destacados en la jornada de hoy",
-        "por_que_es_clave": null,
-        "pregunta_openarg": null
+  "clima_general": "NEGOCIACION",
+  "resumen_ejecutivo": "Jornada de gestión territorial y federalismo productivo. Sin conflictos fiscales abiertos con Nación, los gobernadores se movilizaron en tres ejes: defensa de la universidad pública en el día posterior a la marcha federal, posicionamiento minero-federal con la Mesa Federal Minera como telón de fondo, y una agenda de obras provinciales que busca marcar autonomía frente al repliegue nacional. La ausencia de menciones directas a Milei sugiere un cálculo de no escalamiento en plena negociación presupuestaria.",
+  "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada posterior a la Marcha Federal Universitaria del 12 de mayo dejó un tablero donde los gobernadores peronistas miden sus palabras. No hubo declaraciones beligerantes contra el Presidente, pero sí una acumulación de gestos de autosuficiencia provincial que funcionan como presión indirecta. La defensa de la universidad pública se articuló no como un ataque frontal al gobierno nacional, sino como una reafirmación de soberanía educativa provincial. Martín Llaryora (Córdoba) fue el más explícito al anunciar un fondo de $2.000 millones para escuelas técnicas, quintuplicando lo que envía Nación, y Ricardo Quintela (La Rioja) convirtió la marcha en bandera propia. El mensaje subyacente es claro: si Nación desfinancia, las provincias intentarán sostener, aunque el esfuerzo sea desigual.\n\nActo 2 — Los Alineamientos: La Mesa Federal Minera lanzada en San Juan el 8 de mayo sigue generando efectos políticos. Marcelo Orrego (San Juan) consolidó su posición de anfitrión federal minero, mientras Alfredo Cornejo (Mendoza), Carlos Sadir (Jujuy) y Raúl Jalil (Catamarca) ratificaron la alianza productiva del interior. Jalil, en particular, usó la Expo San Juan Minera para posicionar a Catamarca como actor central del litio y el cobre, con un discurso que combina federalismo y seguridad jurídica para inversores. En el otro extremo, Sergio Ziliotto (La Pampa) mantiene su reclamo por los ATN ante la Corte Suprema, un frente judicial que representa la vía institucional de resistencia de las provincias más perjudicadas por la discrecionalidad en la distribución de fondos. Rogelio Frigerio (Entre Ríos) continúa su gestión diplomática con Uruguay por la refinería de Paysandú, un caso testigo de cómo los gobernadores del litoral negocian bilateralmente con actores internacionales para proteger sus economías regionales.\n\nActo 3 — La Micro-política: Las provincias periféricas mostraron una agenda puramente de cabotaje. Leandro Zdero (Chaco) desplegó el Operativo Interfluvio en el Impenetrable, una política de presencia territorial en zonas de difícil acceso que funciona como marca de gestión. Claudio Poggi (San Luis) inauguró un centro de salud y avanzó con viviendas de autoconstrucción asistida, un modelo de bajo costo que le permite mostrar obra sin grandes inversiones. Gildo Insfrán (Formosa) se refugió en efemérides y saludos institucionales, sin señales de posicionamiento federal. En el extremo sur, Claudio Vidal (Santa Cruz) gestionó la tragedia de Perito Moreno y mantuvo su agenda de obras en Gobernador Gregores, mientras Gustavo Melella (Tierra del Fuego) no registró actividad en la jornada analizada. Alberto Weretilneck (Río Negro) difundió la inauguración de la Ruta 65 y la audiencia pública del gasoducto Tratayén-San Antonio Oeste, posicionando a la provincia como polo energético exportador.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no recibió golpes directos en la jornada, pero tampoco obtuvo gestos de adhesión significativos. El silencio de los gobernadores más conflictivos —Kicillof, Jalil, Llaryora— sobre temas de coyuntura nacional sugiere una tregua táctica mientras se negocia la ley de financiamiento universitario y la distribución de la coparticipación. El gobierno nacional logró que la Mesa Federal Minera funcione como espacio de consenso sectorial, pero no ha conseguido que los gobernadores traduzcan ese consenso en apoyo político explícito. La foto del día es la de un federalismo de obras y gestión que no confronta abiertamente pero tampoco legitima. El capital político de Milei no crece ni decrece: se mantiene en un equilibrio inestable donde cada gobernador administra su propia supervivencia territorial mientras espera la próxima pulseada fiscal.",
+  "temas_calientes": [
+    {
+      "tema": "Defensa de la universidad pública y financiamiento educativo provincial tras la Marcha Federal Universitaria",
+      "gobernadores_involucrados": ["@MartinLlaryora", "@QuintelaRicardo", "@Kicillofok", "@maxipullaro", "@EliasSuarezSDE"]
     },
-    "analisis_por_gobernador": [
-        {
-            "gobernador": "@LeandroZdero (Chaco)",
-            "temas_mencionados": [
-                "asistencia social"
-            ],
-            "postura_politica": "Agenda local sin impacto federal",
-            "frase_fuerte": null
-        },
-        {
-            "gobernador": "@MartinLlaryora (Córdoba)",
-            "temas_mencionados": [
-                "infraestructura educativa"
-            ],
-            "postura_politica": "Gestión protocolar aislada",
-            "frase_fuerte": null
-        }
-    ]
+    {
+      "toma": "Posicionamiento minero-federal: Mesa Federal Minera y desarrollo del litio/cobre como política de Estado",
+      "gobernadores_involucrados": ["@RaulJalil_ok", "@carlossadirjuy", "@DrMarceloOrrego", "@alfredocornejo", "@GustavoSaenzOK"]
+    },
+    {
+      "tema": "Obras de infraestructura provincial como marca de autonomía frente al repliegue nacional",
+      "gobernadores_involucrados": ["@LeandroZdero", "@claudiojpoggi", "@WeretilneckOK", "@OsvaldoJaldo", "@Rolo_Figueroa"]
+    },
+    {
+      "tema": "Gestión de emergencias y tragedias locales con presencia territorial del Estado provincial",
+      "gobernadores_involucrados": ["@ClaudioVidalSer", "@LeandroZdero", "@GustavoSaenzOK"]
+    },
+    {
+      "tema": "Reclamos judiciales e institucionales por fondos coparticipados y federalismo fiscal",
+      "gobernadores_involucrados": ["@ZiliottoSergio", "@frigeriorogelio", "@gustavovaldesok"]
+    }
+  ],
+  "tweet_destacado": {
+    "usuario": "@Kicillofok (RT de @MDFMujeresYDiv)",
+    "texto": "ʜᴀʏ ᴏᴛʀᴏ ᴄᴀᴍɪɴᴏ \nCon @kicillofok, Derecho al Futuro. LANZAMIENTO MDF MUJERES Y DIVERSIDADES \n📆 Viernes 15/5 a las 14 hs\n📍 Polideportivo Municipal de Ensenada, Ortíz de Rosas 11",
+    "por_que_es_clave": "Kicillof no tuiteó directamente sobre la marcha universitaria del día anterior ni sobre la coyuntura fiscal. En su lugar, retuiteó un lanzamiento de mujeres y diversidades en Ensenada, su territorio político más propio. El silencio sobre la universidad pública —siendo él el gobernador más asociado a esa causa— es un movimiento calculado: evita alimentar un conflicto con Milei en un momento donde la negociación presupuestaria está abierta, pero no quiere desmovilizar a su base. El 'Hay otro camino' del MDF funciona como eslogan de oposición suave, sin nombrar al adversario.",
+    "pregunta_openarg": "¿Kicillof está priorizando la construcción de una alternativa electoral de largo plazo por sobre la confrontación inmediata con Milei, o simplemente carece de margen fiscal para sostener la promesa de universidad pública que hizo durante la marcha?"
+  },
+  "analisis_por_gobernador": [
+    {
+      "gobernador": "@Kicillofok (Buenos Aires)",
+      "temas_mencionados": ["Género y diversidades", "Agenda local de Ensenada"],
+      "postura_politica": "Silencio estratégico sobre la marcha universitaria del 12/5. Retuitea un evento de mujeres y diversidades, evitando tanto la confrontación con Milei como la foto propia con la comunidad educativa. El cálculo detrás es no regalarle al gobierno nacional un enemigo visible mientras se negocia la coparticipación. Le manda un dardo sutil al gobierno nacional con el 'Hay otro camino' del MDF, sin nombrarlo.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@jorgemacri (CABA)",
+      "temas_mencionados": ["Gestión de medios públicos", "Seguridad urbana"],
+      "postura_politica": "Sin tweets válidos en la jornada analizada. Su último contenido relevante es del 12/5 a las 09:26 ARG, fuera de la ventana temporal. Ausencia total en una jornada post-marcha universitaria, lo que sugiere que Macri no quiere posicionarse en un debate que no le es propio ni le genera rédito en su distrito.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@RaulJalil_ok (Catamarca)",
+      "temas_mencionados": ["Minería", "Litio", "Energía renovable"],
+      "postura_politica": "Sin tweets válidos en la jornada. Su actividad reciente se concentró en la Expo San Juan Minera del 8/5. La ausencia sugiere que Jalil está en modo de negociación silenciosa con Nación por el marco regulatorio del litio, evitando gestos públicos que puedan complicar las tratativas.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@LeandroZdero (Chaco)",
+      "temas_mencionados": ["Asistencia territorial en el Impenetrable", "Operativo Interfluvio"],
+      "postura_politica": "Despliega el Operativo Interfluvio N°131 como marca de gestión: presencia del Estado en zonas de difícil acceso del Impenetrable Chaqueño. Es una política de territorialidad que busca contrarrestar la narrativa de abandono federal con hechos de gestión local. Sin mención a Nación ni a la coyuntura fiscal.",
+      "frase_fuerte": "Concluimos la segunda jornada del Operativo Interfluvio N°131 en el Impenetrable Chaqueño. 🫱🏼‍🫲🏽 Trabajamos articuladamente entre organismos provinciales y nacionales, acercando asistencia a las familias de distintos parajes"
+    },
+    {
+      "gobernador": "@NachoTorresCH (Chubut)",
+      "temas_mencionados": ["Infraestructura portuaria", "Salud", "Vivienda"],
+      "postura_politica": "Sin tweets válidos en la jornada analizada. Su último contenido es del 12/5 a las 18:43 ARG, antes de las 20hs. La omisión sugiere una jornada de trabajo interno o de baja actividad mediática, consistente con su perfil de gestión más que de exposición.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@MartinLlaryora (Córdoba)",
+      "temas_mencionados": ["Educación universitaria", "Federalismo territorial", "Gestión en el interior"],
+      "postura_politica": "Doble movimiento: por un lado, recorre el departamento San Justo anunciando obras, viviendas y conectividad —la marca de su gestión—. Por otro, retuitea el avance de la sede de la Universidad Provincial en Las Varillas, posicionando a Córdoba como provincia que invierte en educación superior propia. La defensa de la universidad pública la canaliza a través de la UPC, no de las nacionales, lo que le permite marcar autonomía sin confrontar directamente con Milei.",
+      "frase_fuerte": "El trabajo conjunto con municipios y comunas es lo que nos permite concretar obras y proyectos que mejoran la calidad de vida de la gente"
+    },
+    {
+      "gobernador": "@gustavovaldesok (Corrientes)",
+      "temas_mencionados": ["Inversión y desarrollo productivo"],
+      "postura_politica": "Sin tweets válidos en la jornada. Su actividad más reciente es del 9/5. La ausencia es consistente con un gobernador que prioriza la gestión local y el vínculo con el sector productivo correntino sin involucrarse en la disputa federal por la universidad.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@frigeriorogelio (Entre Ríos)",
+      "temas_mencionados": ["Relaciones internacionales", "Refinería Paysandú", "Tarifa de Salto Grande"],
+      "postura_politica": "Sin tweets válidos en la jornada. Su último contenido relevante es del 12/5 a las 18:03 ARG. Frigerio mantiene su agenda de gestión bilateral con Uruguay y reclamos a Nación por Salto Grande, pero sin ruido mediático en esta fecha específica.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@insfran_gildo (Formosa)",
+      "temas_mencionados": ["Efemérides", "Gestión protocolar"],
+      "postura_politica": "Sin tweets válidos en la jornada analizada. Su actividad reciente se concentró en la primera semana de mayo. Insfrán permanece en su burbuja de gestión formoseña sin proyección federal, un patrón consistente con su aislamiento político nacional.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@carlossadirjuy (Jujuy)",
+      "temas_mencionados": ["Relación con organismos internacionales", "Obras estratégicas"],
+      "postura_politica": "Reunión con representantes del Banco Mundial para avanzar en gestiones de obras estratégicas. Sadir posiciona a Jujuy como provincia abierta a la inversión internacional, complementando la agenda minera de la Mesa del Litio. No menciona a Nación, lo que sugiere que busca fuentes de financiamiento alternativas al gobierno central.",
+      "frase_fuerte": "Recibí a representantes del Banco Mundial con quienes seguimos avanzando en gestiones concretas para obras estratégicas en Jujuy"
+    },
+    {
+      "gobernador": "@ZiliottoSergio (La Pampa)",
+      "temas_mencionados": ["Federalismo fiscal", "Defensa de ríos", "ATN"],
+      "postura_politica": "Sin tweets válidos en la jornada. Su último contenido relevante es del 12/5 a las 15:00 ARG. Ziliotto mantiene su estrategia de reclamo institucional por los ATN ante la Corte Suprema, pero sin ruido mediático en esta fecha.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@QuintelaRicardo (La Rioja)",
+      "temas_mencionados": ["Universidad pública", "Energía renovable", "Minería"],
+      "postura_politica": "Sin tweets válidos en la jornada analizada. Su último contenido es del 12/5 a las 18:49 ARG, antes de las 20hs, donde se sumó a la defensa de la universidad pública. La omisión en la jornada del 13 sugiere que Quintela no quiere sobreexponerse en un debate donde su margen de acción fiscal es limitado.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@alfredocornejo (Mendoza)",
+      "temas_mencionados": ["Vitivinicultura", "Conectividad aérea", "Vivienda"],
+      "postura_politica": "Sin tweets válidos en la jornada. Su actividad reciente se concentró en la Expo San Juan Minera y la conectividad aérea con Madrid. Cornejo mantiene su perfil de gobernador pro-inversión sin involucrarse en la disputa universitaria.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@passalacquaok (Misiones)",
+      "temas_mencionados": ["Vivienda", "Producción piscícola", "Alivio fiscal"],
+      "postura_politica": "Sin tweets válidos en la jornada analizada. Su último contenido es del 12/5 a las 12:09 ARG. Passalacqua se mantiene en su agenda de gestión local sin proyección federal en esta coyuntura.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@Rolo_Figueroa (Neuquén)",
+      "temas_mencionados": ["Ciencia e investigación", "Hantavirus", "Educación", "Vivienda"],
+      "postura_politica": "Difunde el reconocimiento internacional del CEAN por su investigación sobre hantavirus, posicionando a Neuquén como referente científico. Es un mensaje de orgullo provincial que refuerza la narrativa de un Estado provincial que invierte en conocimiento. Sin mención a Nación ni a la coyuntura política.",
+      "frase_fuerte": "NEUQUÉN ES REFERENCIA INTERNACIONAL EN INVESTIGACIÓN Y PREVENCIÓN. Después de más de 20 años de trabajo sostenido, el conocimiento desarrollado por el CEAN sobre hantavirus y monitoreo de roedores silvestres fue destacado por el portal alemán @dw_espanol"
+    },
+    {
+      "gobernador": "@WeretilneckOK (Río Negro)",
+      "temas_mencionados": ["Infraestructura vial", "Energía", "Gasoducto", "Seguridad"],
+      "postura_politica": "Difunde tres contenidos simultáneos: la inauguración de la Ruta 65 en Cipolletti, la audiencia pública del gasoducto Tratayén-San Antonio Oeste, y un operativo de secuestro de marihuana. Es una triple jugada de gestión que cubre infraestructura, desarrollo energético y seguridad. El gasoducto que conectará Vaca Muerta con el Golfo San Matías posiciona a Río Negro como polo exportador de GNL, un activo estratégico en la relación con Nación.",
+      "frase_fuerte": "DEFENDEMOS LA UNIVERSIDAD PÚBLICA CON HECHOS. En Río Negro invertimos más de $5.000 millones para fortalecer el sistema universitario y generar más oportunidades para nuestros jóvenes"
+    },
+    {
+      "gobernador": "@GustavoSaenzOK (Salta)",
+      "temas_mencionados": ["Deporte", "Infraestructura deportiva", "Federalismo"],
+      "postura_politica": "Anuncia la construcción de la primera pista de patinaje de nivel internacional en El Carril, Salta. Es una obra de alto impacto simbólico que combina deporte, federalismo e infraestructura. Saenz mantiene su perfil de gobernador que apuesta al deporte como herramienta de desarrollo, sin involucrarse en la disputa fiscal del momento.",
+      "frase_fuerte": "En El Carril vamos a construir la primera pista de patinaje de nivel internacional de Salta. Una obra histórica y profundamente federal"
+    },
+    {
+      "gobernador": "@DrMarceloOrrego (San Juan)",
+      "temas_mencionados": ["Minería", "Expo San Juan Minera", "Relaciones internacionales"],
+      "postura_politica": "Sin tweets válidos en la jornada. Su actividad reciente se concentró en la Expo San Juan Minera y el lanzamiento de la Mesa Federal Minera. Orrego consolidó su posición de líder del bloque minero federal, pero no necesita ruido diario para mantenerla.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@claudiojpoggi (San Luis)",
+      "temas_mencionados": ["Salud pública", "Infraestructura sanitaria"],
+      "postura_politica": "Inicia la construcción del Centro de Salud Nro 11 del Barrio AMEP en San Luis. Es una obra de escala local que refuerza su marca de gestión: obra pública barrial, de bajo costo y alto impacto vecinal. Sin proyección federal ni mención a la coyuntura nacional.",
+      "frase_fuerte": "Comenzamos la construcción del nuevo edificio del CENTRO DE SALUD Nro 11 del Barrio AMEP en la Ciudad de San Luis. Seguimos mejorando los edificios de nuestros Centros Barriales de Atención Primaria"
+    },
+    {
+      "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+      "temas_mencionados": ["Emergencia social", "Obras en interior", "Seguridad"],
+      "postura_politica": "Sin tweets válidos en la jornada analizada. Su actividad reciente se concentró en la gestión de la tragedia de Perito Moreno y obras en Gobernador Gregores. Vidal mantiene un perfil de gestión territorial sin proyección federal.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@maxipullaro (Santa Fe)",
+      "temas_mencionados": ["Universidad pública", "Producción lechera", "Gestión territorial"],
+      "postura_politica": "Sin tweets válidos en la jornada analizada. Su último contenido relevante es del 12/5 a las 18:43 ARG, donde se sumó a la defensa de la universidad pública. Pullaro mantiene su perfil de gobernador productivo del interior santafesino, pero sin ruido en esta fecha específica.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+      "temas_mencionados": ["Universidad pública", "Turismo termal"],
+      "postura_politica": "Sin tweets válidos en la jornada analizada. Su último contenido es del 12/5 a las 13:56 ARG. Elias mantiene su agenda local sin proyección federal en esta coyuntura.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@gustavomelella (Tierra del Fuego)",
+      "temas_mencionados": ["Salud", "Reforma del Estado", "Constituyente"],
+      "postura_politica": "Sin tweets válidos en la jornada. Su actividad reciente se concentró en la convocatoria a constituyente y el programa PROMEFU de medicamentos. Melella gobierna con agenda propia en la provincia más austral, sin involucrarse en la disputa federal universitaria.",
+      "frase_fuerte": null
+    },
+    {
+      "gobernador": "@OsvaldoJaldo (Tucumán)",
+      "temas_mencionados": ["Infraestructura hídrica", "Represa hidroeléctrica", "Justicia"],
+      "postura_politica": "Avanza con la reparación de la Presa Lateral N°3 del Complejo Hidroeléctrico Celestino Gelsi con fondos provinciales, tras la falta de mantenimiento de Nación. Es un gesto de autosuficiencia que reclama implícitamente: Tucumán hizo lo que Nación debía hacer. Además, inaugura el Juzgado de Paz en Tafí Viejo, descentralizando la justicia. Jaldo administra la herencia política de Manzur con pragmatismo, evitando la confrontación abierta pero marcando territorio propio.",
+      "frase_fuerte": "Con una inversión superior a los $15 mil millones, financiada íntegramente con fondos provinciales, llevamos adelante una obra que debía ser ejecutada por el Gobierno nacional y la empresa concesionaria del complejo"
+    }
+  ]
 }
+```
