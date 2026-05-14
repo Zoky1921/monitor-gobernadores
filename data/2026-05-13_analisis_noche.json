@@ -1,0 +1,283 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una profunda tensión entre las provincias y el Gobierno nacional. Gobernadores como Axel Kicillof (Buenos Aires), Sergio Ziliotto (La Pampa), Ricardo Quintela (La Rioja), Maximiliano Pullaro (Santa Fe), y Osvaldo Jaldo (Tucumán) denunciaron de forma contundente recortes presupuestarios y el desfinanciamiento nacional, especialmente en educación pública y obras de infraestructura. Jorge Macri (Ciudad Autónoma de Buenos Aires) generó controversia con declaraciones sobre seguridad y el 'conurbano'. En contraste, otros mandatarios como Alberto Weretilneck (Río Negro), Rolando Figueroa (Neuquén) y Leandro Zdero (Chaco) centraron su agenda en la gestión provincial y obras con fondos propios, destacando la autonomía para el desarrollo local. La defensa de la educación y el rechazo al ajuste dominaron la mayoría de los discursos, configurando un escenario de alta conflictividad entre jurisdicciones.",
+    "analisis_profundo": "La agenda federal se configuró hoy en torno a una marcada polarización entre la gestión provincial autónoma y el impacto de las políticas de ajuste del Gobierno nacional, exacerbando un clima de alta conflictividad.\n\nUn eje central fue la explícita crítica al desfinanciamiento nacional. Axel Kicillof (Buenos Aires) articuló una 'agenda de trabajo común' con Santa Fe 'frente al ajuste y las políticas económicas destructivas del gobierno Nacional', enfocándose en sostener actividades conjuntas y defender 'el trabajo, la producción y el desarrollo'. En la misma línea, Ricardo Quintela (La Rioja) defendió la universidad pública, señalando que el 'incumplimiento de la Ley de financiamiento universitario no es solamente un delito, sino el abandono y la discriminación hacia millones de estudiantes'. Martín Llaryora (Córdoba) también denunció que 'mientras desde Nación se desfinancia la educación, en Córdoba no paramos de ampliar oportunidades para los jóvenes' y lamentó el 'fuerte recorte de fondos nacionales para estas instituciones', creando un fondo provincial de $2.000 millones. Maximiliano Pullaro (Santa Fe) se sumó a la defensa de la universidad pública, ligando su fortalecimiento al 'desarrollo y la integración al mundo de la República Argentina'. Sergio Ziliotto (La Pampa) retuiteó un mensaje que denuncia 'OTRO RECORTE A LAS PROVINCIAS' en salud, educación e infraestructura. Osvaldo Jaldo (Tucumán) tuvo que invertir $15 mil millones en la reparación de una presa que era responsabilidad nacional, iniciando acciones judiciales para reclamar esos fondos, un claro ejemplo de provincias asumiendo roles del Gobierno central. Carlos Sadir (Jujuy) mantuvo una reunión con el Banco Mundial para 'obras estratégicas', evidenciando la búsqueda de financiamiento alternativo ante la situación nacional. Oscar Herrera Ahuad (Misiones) expresó 'profundamente el recorte de fondos al Parque Nacional Iguazú', alertando sobre el riesgo a la conservación ambiental y el turismo.\n\nParalelamente, la seguridad emergió con posturas contrastantes. Jorge Macri (Ciudad Autónoma de Buenos Aires) lanzó una declaración altamente controversial sobre 'Un muro de control para proteger a los porteños de lo peor del conurbano', lo que sin duda encenderá un debate interjurisdiccional. Esta afirmación denota una visión de frontera y segregación que contrasta con el federalismo cooperativo.\n\nOtros gobernadores enfocaron su comunicación en la gestión local y el desarrollo productivo con recursos propios. Alberto Weretilneck (Río Negro) inauguró un hospital y una Casa de Abrigo Rural, además de un programa de viviendas para personas con discapacidad, todo con un fuerte énfasis en la financiación y gestión provincial. Rolando Figueroa (Neuquén) destacó el 'Modelo Neuquino' de Estado eficiente y la inversión en desarrollo productivo y turismo. Leandro Zdero (Chaco) informó sobre obras de electrificación rural, programas de salud y asistencia en el Impenetrable Chaqueño, mostrando un enfoque territorial. Gustavo Valdés (Corrientes) celebró la Expo Búfalos y la expropiación de tierras para ampliar el parque industrial y puerto, buscando 'más empresas para invertir y generar más trabajo'.\n\nEn síntesis, la jornada subraya la fractura entre las provincias que denuncian el ajuste nacional y aquellas que, aunque con autonomía, priorizan la gestión local para sortear la situación económica, mientras un comentario polarizante sobre seguridad en la CABA añade una capa de tensión interprovincial.",
+    "temas_calientes": [
+        {
+            "tema": "Impacto del ajuste nacional y defensa de la educación pública",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@ZiliottoSergio",
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Gestión y obras de infraestructura con fondos provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@carlossadirjuy",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y convivencia interjurisdiccional",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo y atracción de inversiones",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok",
+                "@frigeriorogelio",
+                "@carlossadirjuy",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@passalacquaok",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Federalismo y relación con el Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@frigeriorogelio",
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@passalacquaok",
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Un muro de control para proteger a los porteños de lo peor del conurbano. Ley y orden.",
+        "por_que_es_clave": "Esta declaración es altamente provocadora y genera una barrera discursiva y potencial fáctica entre la CABA y la provincia de Buenos Aires, abordando la seguridad con un tono confrontativo que polariza la discusión sobre la integración metropolitana y la gestión del delito.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Infraestructura local",
+                "Cooperación interprovincial",
+                "Crítica al ajuste nacional",
+                "Defensa de la producción y el empleo",
+                "Educación superior",
+                "Asistencia a municipios"
+            ],
+            "postura_politica": "Postura crítica y confrontativa con las políticas económicas del Gobierno nacional, a las que califica de 'destructivas'. Enfatiza la necesidad de 'diseñar una agenda de trabajo común' con otras provincias para 'sostener actividades conjuntas' y defender el trabajo y la producción. Impulsa la gestión local y la cooperación con municipios para paliar los efectos del ajuste. Reafirma su compromiso con la universidad pública.",
+            "frase_fuerte": "Frente al ajuste y las políticas económicas destructivas del gobierno Nacional, nos propusimos diseñar una agenda de trabajo común que permita sostener las actividades conjuntas que la PBA y Santa Fe actualmente llevan adelante."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Infraestructura de transporte",
+                "Gestión urbana"
+            ],
+            "postura_politica": "Fuerte énfasis en la 'ley y orden' y en la protección de los ciudadanos de la CABA, con una retórica que genera división con el conurbano bonaerense. Destaca la inversión en infraestructura de transporte público y modernización, presentándola como un avance significativo para la calidad de vida en la ciudad, en contraste con gestiones anteriores. Adopta un perfil de gestión eficiente y orientada a resultados concretos.",
+            "frase_fuerte": "Un muro de control para proteger a los porteños de lo peor del conurbano. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Electrificación rural",
+                "Salud visual",
+                "Asistencia humanitaria",
+                "Vivienda",
+                "Obras de infraestructura"
+            ],
+            "postura_politica": "Enfocado en la gestión territorial y la cercanía con los ciudadanos, priorizando obras y programas con impacto directo en las comunidades rurales y vulnerables. Destaca la articulación con el Gobierno nacional para programas de salud, pero el grueso de la agenda es local. Resalta la 'inclusión y transparencia' en la entrega de viviendas y el 'compromiso' en la atención médica, mostrando un Estado presente en el interior profundo.",
+            "frase_fuerte": "Con cercanía y compromiso, la atención médica sigue llegando a cada rincón."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Deuda provincial",
+                "Obras estratégicas",
+                "Infraestructura portuaria"
+            ],
+            "postura_politica": "Se posiciona como un gestor eficiente y responsable, logrando la cancelación de la deuda provincial con la Nación a través de la ejecución de 'obras fundamentales'. Enfatiza la inversión en infraestructura clave para el desarrollo económico regional, como la ampliación del muelle de Puerto Madryn. Busca transformar 'deudas heredadas' en 'infraestructura estratégica', proyectando una imagen de orden y progreso.",
+            "frase_fuerte": "CANCELAMOS TOTALMENTE LA DEUDA CON NACIÓN, EJECUTANDO OBRAS ESTRATÉGICAS PARA EL FUTURO DE LA PROVINCIA"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación pública",
+                "Inversión universitaria",
+                "Infraestructura local",
+                "Producción agropecuaria",
+                "Empleo",
+                "Crítica al desfinanciamiento nacional"
+            ],
+            "postura_politica": "Firme defensor de la 'educación pública', contrasta la inversión provincial en universidades y escuelas técnicas con el 'desfinanciamiento' nacional. Aboga por 'poner a la producción y al empleo en primer lugar', reclamando medidas que impulsen el sector agropecuario y que el RIGI contemple la baja de retenciones. Muestra un perfil federalista que busca el desarrollo del interior del país, con fuerte presencia en el territorio junto a municipios y comunas.",
+            "frase_fuerte": "Mientras desde Nación se desfinancia la educación, en Córdoba no paramos de ampliar oportunidades para los jóvenes."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Industrialización",
+                "Inversión",
+                "Legislación provincial"
+            ],
+            "postura_politica": "Impulsa activamente el desarrollo productivo y la industrialización de la provincia, buscando atraer inversiones a través de la ampliación de parques industriales y puertos mediante leyes de expropiación. Demuestra una gestión orientada a generar 'más trabajo, producción y comercio', destacando el potencial bubalino de la provincia. Muestra un liderazgo proactivo en la creación de un marco favorable para el crecimiento económico local.",
+            "frase_fuerte": "La Cámara de Diputados aprobó la ley de expropiación de más de 700 hectáreas en #Ituzaingó para ampliar el Parque Industrial y el puerto: con más tierras disponibles, más empresas elegirán #Corrientes para invertir y generar más trabajo, producción y comercio. Lo celebro."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Transparencia fiscal",
+                "Relaciones internacionales",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Se presenta como un promotor de la transparencia fiscal y el diálogo internacional para defender los intereses provinciales, como la relocalización de una refinería en Uruguay. Busca un equilibrio entre el apoyo a la inversión y el desarrollo con la protección del medio ambiente y la economía local. Enfatiza la verdad a la gente en materia tributaria y el 'esfuerzo para que cada vez sean menos los impuestos'.",
+            "frase_fuerte": "Durante décadas naturalizamos algo que no es normal: pagar impuestos sin saber cuánto pagábamos, sin distinguir qué parte del precio es producto y qué parte se lo lleva el Estado."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Educación",
+                "Modelo Formoseño",
+                "Justicia social",
+                "Defensa de la democracia",
+                "Crítica a políticas nacionales"
+            ],
+            "postura_politica": "Reafirma el compromiso del 'Modelo Formoseño' con la 'educación con criterio de equidad' y la 'justicia social', destacando la inauguración de numerosas unidades educativas. Critica las políticas nacionales que afectan la educación y la ciencia, presentándose como un defensor del pueblo y del 'sistema democrático y la paz social frente a los ataques de quienes anteponen los intereses personales'.",
+            "frase_fuerte": "Hoy aquí en Formosa estamos aportando a la construcción de esa educación con criterio de equidad, dándole más a los que menos tienen. Esto es la justicia social, un concepto que los peronistas tomamos de la doctrina social de la Iglesia."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Obras estratégicas",
+                "Financiamiento internacional"
+            ],
+            "postura_politica": "Enfocado en la gestión y el desarrollo de obras estratégicas para la provincia, busca financiamiento con organismos internacionales como el Banco Mundial. Muestra una actitud proactiva en la búsqueda de recursos y alianzas para el progreso local.",
+            "frase_fuerte": "Recibí a representantes del Banco Mundial con quienes seguimos avanzando en gestiones concretas para obras estratégicas en Jujuy."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Recortes nacionales",
+                "Ley de Glaciares",
+                "Protección ambiental",
+                "Defensa del federalismo"
+            ],
+            "postura_politica": "Clara confrontación con el Gobierno nacional por los recortes de partidas en salud, educación e infraestructura. Enfatiza la defensa de los 'intereses pampeanos', especialmente en temas ambientales como la Ley de Glaciares que afecta su patrimonio hídrico. Se posiciona como un defensor del federalismo y de la autonomía provincial ante la concentración de recursos por parte de la Nación.",
+            "frase_fuerte": "La reforma de la Ley de Glaciares afecta el patrimonio hídrico pampeano. Imposible no defenderlo."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Educación pública",
+                "Financiamiento universitario",
+                "Movilidad social",
+                "Participación juvenil"
+            ],
+            "postura_politica": "Enérgico defensor de la universidad pública y gratuita, critica el 'incumplimiento de la Ley de financiamiento universitario' por parte del Gobierno nacional, calificándolo de 'delito' y 'abandono'. Promueve la participación activa de las juventudes en el debate y la 'construcción de una alternativa política'. Se enfoca en la educación como herramienta de 'movilidad social ascendente' y derecho.",
+            "frase_fuerte": "Hoy el país se volvió a hacer escuchar, volvimos a mostrar al gobierno nacional que las universidades públicas son un derecho conquistado por millones de personas que pasaron por sus aulas, terminaron sus carreras con sacrificio y esfuerzo, y que hoy trabajan todos los días para haciendo crecer a nuestro país."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Recortes nacionales",
+                "Conservación ambiental",
+                "Turismo",
+                "Desarrollo local",
+                "Seguridad forestal"
+            ],
+            "postura_politica": "Denuncia el 'profundo recorte de fondos al Parque Nacional Iguazú' por parte de la Nación, alertando sobre el riesgo a la biodiversidad, el turismo y la economía local. Muestra un fuerte compromiso con la conservación ambiental y el 'modelo de desarrollo a la misionera' que impulsa la producción local y el trabajo en equipo. Enfatiza la necesidad de 'cuidar la selva misionera'.",
+            "frase_fuerte": "Me duele profundamente el recorte de fondos al Parque Nacional Iguazú y a Campo San Juan, porque cuando se desfinancia la conservación ambiental, no se afecta solamente al turismo, se pone en riesgo nuestra selva, la biodiversidad y uno de los ecosistemas más importantes de la Argentina."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Crecimiento económico",
+                "Modelo de gestión",
+                "Turismo",
+                "Seguridad jurídica",
+                "Inversión local",
+                "Ciencia e investigación"
+            ],
+            "postura_politica": "Presenta el 'Modelo Neuquino' como un enfoque de 'Estado eficiente, ordenado y cercano' que trabaja en equipo para el desarrollo provincial. Promueve el 'crecimiento equilibrado' con fuerte énfasis en la 'seguridad jurídica' para las empresas y la priorización de la participación local en el sector petrolero. Destaca la inversión en turismo y el reconocimiento internacional de la investigación científica local.",
+            "frase_fuerte": "Creemos en un Estado eficiente, ordenado y cercano, que trabaja en equipo para dar respuestas concretas y seguir defendiendo el desarrollo de todos los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Salud",
+                "Infraestructura vial",
+                "Inclusión social",
+                "Vivienda",
+                "Educación pública",
+                "Seguridad",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Enfocado en una gestión activa y con 'rumbo', prioriza la inversión en salud (nuevos hospitales, Casa de Abrigo Rural) e infraestructura vial con 'fondos 100% provinciales'. Impulsa programas de inclusión social y vivienda para personas con discapacidad. Defiende la 'universidad pública con hechos', destinando 'más de $5.000 millones' al sistema universitario. Articula el desarrollo productivo con la inversión privada y reglas claras, posicionando a Río Negro como una provincia pujante.",
+            "frase_fuerte": "UN HOSPITAL QUE CHIMPAY SE MERECÍA Y HOY ES UNA REALIDAD. Durante mucho tiempo fue una espera, una necesidad y también una deuda con su comunidad."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura",
+                "Desarrollo juvenil"
+            ],
+            "postura_politica": "Apuesta al deporte como 'herramienta de inclusión, de oportunidades y de formación en valores', con una inversión histórica en infraestructura como la primera pista de patinaje de nivel internacional. Fomenta el talento juvenil y la construcción de un futuro con oportunidades a través de espacios deportivos. Muestra una gestión federal que busca desarrollar todas las regiones de la provincia.",
+            "frase_fuerte": "En El Carril vamos a construir la primera pista de patinaje de nivel internacional de Salta."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Servicios públicos",
+                "Cooperativismo",
+                "Articulación público-privada",
+                "Salud"
+            ],
+            "postura_politica": "Enfocado en la mejora de la infraestructura y servicios en municipios, con una activa presencia en inauguraciones y reuniones de gestión local. Promueve el 'cooperativismo' como modelo asociativo y empresarial, apoyándolo con programas específicos. Destaca la 'articulación pública y privada' para generar puestos de trabajo y mejorar espacios como la EDIRO. Prioriza la 'comodidad para los trabajadores de la Salud Pública' y los vecinos, en la construcción de nuevos centros de salud.",
+            "frase_fuerte": "El cooperativismo es un muy buen modelo asociativo y empresario que genera oportunidades de trabajo."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Educación pública",
+                "Financiamiento universitario",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Defensor de la 'universidad pública fuerte', exige el cumplimiento de la Ley de Financiamiento Universitario para recomponer salarios y garantizar el presupuesto. Vincula directamente el apoyo a las universidades con el 'futuro de nuestra provincia y el país' y el cambio de la matriz productiva, subrayando que la educación pública es 'desarrollo, productividad y la verdadera oportunidad'.",
+            "frase_fuerte": "Hoy miles de estudiantes y docentes se movilizan nuevamente reclamando algo fundamental para el país que soñamos: que se cumpla la Ley de Financiamiento Universitario para recomponer salarios y garantizar el presupuesto para su funcionamiento."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Gestión provincial",
+                "Obras hídricas",
+                "Seguridad",
+                "Financiamiento",
+                "Diálogo interinstitucional",
+                "Crítica a Nación"
+            ],
+            "postura_politica": "Presenta una gestión 'basada en el diálogo, los consensos y el trabajo conjunto' para dar respuestas a los tucumanos. Destaca la inversión provincial en obras de infraestructura crítica (como la reparación de la Presa Lateral N°3) que el Gobierno nacional debió ejecutar, iniciando acciones judiciales para el reintegro de fondos. Busca fortalecer la 'institucionalidad', los servicios públicos y el desarrollo con una mirada estratégica.",
+            "frase_fuerte": "Con una inversión superior a los $15 mil millones, financiada íntegramente con fondos provinciales, llevamos adelante una obra que debía ser ejecutada por el Gobierno nacional y la empresa concesionaria del complejo."
+        }
+    ]
+}

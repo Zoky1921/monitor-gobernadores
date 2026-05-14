@@ -1,0 +1,141 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "En jornada de máxima sospecha para provincias centrales, Kicillof (Buenos Aires) lidera el fuego cruzado contra el ajuste nacional con retuits sobre salud, universidad y agenda obrera federal, mientras Macri (CABA) y Llaryora (Córdoba) repliegan en gestión local y seguridad para marcar autonomía. Provincias periféricas optan por cabotaje productivo y obras, un apagón político coordinado que deslegitima el relato de Nación sin confrontación directa.",
+    "analisis_profundo": "El Conflicto Central: La asfixia fiscal se materializa en el repliegue de Buenos Aires, donde Kicillof (Buenos Aires) usa retuits para denunciar recortes sanitarios y desfinanciamiento universitario, un dardo quirúrgico al ajuste de Nación que revela la deuda coparticipante no saldada. En provincias centrales, el silencio sobre macroeconomía no es inocencia, sino cálculo: publicar gestión es reclamar lo que el centro retiene.\n\nLos Alineamientos: Kicillof (Buenos Aires) teje diplomacia fiscal con Santa Fe y UE, posicionándose como eje peronista federal contra Milei; Llaryora (Córdoba) y Zdero (Chaco) alinean en universidad pública, un nado sincronizado simbólico que opaca el relato nacional sin nombrarlo. Paria implícita: Macri (CABA), con muro anti-conurbano, refuerza grieta ideológica. Ambigüedad calculada en Jalil (Catamarca) y Torres (Chubut), que celebran minería y deuda cancelada con Nación como trofeo propio.\n\nLa Micro-política: Periferia sobrevive en refugio cabotaje: Zdero (Chaco) y Leandro Zdero exhiben electrificación rural y exportaciones como autonomía ante desatención central; Frigerio (Entre Ríos) y Valdés (Corrientes) ponderan transparencia fiscal y parques industriales, gestos de supervivencia que disimulan orfandad coparticipante. Insfran (Formosa) y Melella (Tierra del Fuego) ausentes en lo reciente, su silencio revela cálculo: callar gana tiempo en tensión institucional.\n\nSaldo Presidencial: Nación sale indemne pero expuesta; el apagón político federal erosiona su capital simbólico, forzando concesiones futuras en litio y coparticipación. Milei acumula daño en salud y educación, donde provincias centrales convierten carencia en munición territorial.",
+    "temas_calientes": [
+        {
+            "tema": "Ajuste nacional y desfinanciamiento",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Gestión autónoma en seguridad y obras",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Minería y desarrollo productivo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Infraestructura y apoyo municipal",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@gustavovaldesok"
+            ]
+        },
+        {
+            "tema": "Educación y salud provincial",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@ZiliottoSergio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (Buenos Aires)",
+        "texto": "[RE-TWEET de @waltercorreaok] Junto al gobernador @Kicillofok, recibimos a dirigentes de trabajadoras y trabajadores municipales de Santa Fe, a la sec. gral. de la Regional General Obligado de CGT y sec. adjunta de FESTRAM, Andrea Paz, el presidente de AMFESTRAM, Claudio Leoni, y el sec. de coordinación de FESTRAM, Mauricio Herzog. Frente al ajuste y las políticas económicas destructivas del gobierno Nacional, nos propusimos diseñar una agenda de trabajo común que permita sostener las actividades conjuntas que la PBA y Santa Fe actualmente llevan adelante. Construimos de abajo hacia arriba, y desde la periferia al centro, con una mirada federal que exprese las necesidades de todas las comunidades y defienda el trabajo, la producción y el desarrollo.",
+        "por_que_es_clave": "Kicillof articula alianza periférica contra ajuste nacional, usando Santa Fe para amplificar reclamo fiscal y obrero; máxima sospecha calibrada en central, disimula orfandad coparticipante con federalismo de cabotaje.",
+        "pregunta_openarg": "¿Es esta agenda Kicillof-Santa Fe un embrión de peronismo federal anti-Milei, o solo diplomacia fiscal para presionar coparticipación?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "ajuste nacional",
+                "salud",
+                "universidad",
+                "agenda obrera"
+            ],
+            "postura_politica": "Retuits contra recortes sanitarios y universitarios marcan autonomía ante desfinanciamiento central; alianza con Santa Fe revela cálculo para opacar relato nacional y reclamar caja coparticipante.",
+            "frase_fuerte": "Frente al ajuste y las políticas económicas destructivas del gobierno Nacional"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "obras",
+                "subte"
+            ],
+            "postura_politica": "Muro anti-conurbano y obras PRO disimulan orfandad fiscal con ley y orden; responde a grieta bonaerense sin aludir Nación, priorizando daño simbólico a Kicillof.",
+            "frase_fuerte": "Un muro de control para proteger a los porteños de lo peor del conurbano."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "educación"
+            ],
+            "postura_politica": "Retuit educativo de peso bajo; agenda local sin impacto federal, sospecha moderada en periferia revela gestión cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "obras rurales",
+                "salud",
+                "viviendas"
+            ],
+            "postura_politica": "Electrificación y operativos articulan con Nación para marcar autonomía ante repliegue central; cabotaje productivo disimula asfixia fiscal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "deuda con Nación",
+                "puerto"
+            ],
+            "postura_politica": "Cancelación deuda vía obras con Nación es trofeo de orden fiscal propio; omisión macro revela cálculo para no tensionar capitales.",
+            "frase_fuerte": "CANCELAMOS TOTALMENTE LA DEUDA CON NACIÓN"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "educación",
+                "seguridad"
+            ],
+            "postura_politica": "Universidad contra desfinanciamiento nacional en máxima sospecha central; gestión territorial disimula reclamo coparticipante con igualdad territorial.",
+            "frase_fuerte": "Mientras desde Nación se desfinancia la educación, en Córdoba no paramos de ampliar oportunidades"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "producción",
+                "infraestructura"
+            ],
+            "postura_politica": "Parques industriales y expropiaciones marcan desarrollo local; cabotaje en periferia sin roce federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "transparencia fiscal"
+            ],
+            "postura_politica": "Reglamentación Ley Transparencia disimula deuda fiscal con Nación; agenda cabotaje en tensión institucional.",
+            "frase_fuerte": "Entre Ríos es una de las 3 provincias que reglamentó la Ley del Régimen de Transparencia Fiscal"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "educación rural"
+            ],
+            "postura_politica": "Obras educativas en colonias rurales como justicia social ante ajuste; cabotaje peronista.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "recortes",
+                "glaciares"
+            ],
+            "postura_politica": "Retuit contra recortes y defensa glaciares marcan tensión ambiental-fiscal con Nación; omisión revela cálculo hídrico.",
+            "frase_fuerte": null
+        }
+    ]
+}
