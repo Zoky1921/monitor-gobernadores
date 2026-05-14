@@ -1,0 +1,172 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracteriza por una marcada autoafirmación de las provincias, que priorizan la gestión local y la inversión en infraestructura y servicios esenciales. Gobernadores como @maxipullaro (Santa Fe) lideran la articulación de bloques del interior para defender el desarrollo regional, mientras otros como @Rolo_Figueroa (Neuquén) y @OsvaldoJaldo (Tucumán) aseguran financiamiento y recursos propios para obras clave, evidenciando capacidad de respuesta ante un 'contexto económico difícil'. La defensa de la educación pública y la formación también resalta en las agendas provinciales. Este enfoque proactivo de los mandatarios, si bien centrado en el hacer, denota una tensión subyacente con la dinámica nacional.",
+    "analisis_profundo": "La agenda de los gobernadores en la jornada de hoy revela una clara estrategia de gestión y reafirmación de la capacidad provincial frente a un escenario nacional percibido como complejo o desfinanciador. Un hito importante es la reunión en Rosario de gobernadores como @maxipullaro (Santa Fe) con sus pares de Chubut y Mendoza, junto a la mención de Corrientes, para 'defender el desarrollo y la integración de nuestra región al mundo'. Esta articulación de un 'interior que empuja' sugiere la construcción de un bloque de poder regional con un mensaje de autonomía y proactividad.\n\nLa inversión en infraestructura y servicios públicos emerge como un pilar fundamental de las gestiones provinciales. @Rolo_Figueroa (Neuquén) destaca la firma de contratos de financiamiento con el Banco Mundial para rutas y turismo, mostrando un fuerte compromiso con el desarrollo de la infraestructura estratégica. En la misma línea, @WeretilneckOK (Río Negro) anuncia la licitación de obras de electrificación para comunidades, y @claudiojpoggi (San Luis) enfatiza el apoyo a cooperativas y la transformación de espacios urbanos. Estos anuncios reflejan una administración focalizada en la mejora directa de la calidad de vida de los ciudadanos y el estímulo económico local.\n\nLa educación y la formación también concentran la atención provincial. @QuintelaRicardo (La Rioja) subraya la continuidad de programas de becas y transporte gratuito en un 'contexto económico difícil', mientras que @MartinLlaryora (Córdoba) inaugura una nueva sede para la formación de oficiales de policía, apostando a la descentralización y el arraigo. @Kicillofok (Buenos Aires) organiza cursos de formación política con una 'mirada nacional, federal y soberana', marcando una impronta ideológica y de visión de país desde la provincia.\n\nLa postura frente al gobierno central, aunque no siempre explícitamente confrontativa en todos los casos, se manifiesta en la asunción de responsabilidades y la defensa de lo provincial. @OsvaldoJaldo (Tucumán) resalta la inversión en la Sociedad Aguas del Tucumán (SAT) y la reparación de infraestructura que 'debía ser ejecutada por el Gobierno nacional', posicionando a la provincia como garante de servicios esenciales. En conjunto, los tweets dibujan un panorama donde las provincias buscan soluciones endógenas y refuerzan su protagonismo en la construcción de una agenda federal, manteniendo un clima de cautela y firmeza frente a las decisiones nacionales.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo y Articulación Regional: Gobernadores del interior unen fuerzas para impulsar una agenda de desarrollo regional y federalismo, buscando fortalecer el posicionamiento de las provincias frente al escenario nacional.",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Servicios Públicos: Fuerte énfasis en obras viales, electrificación, saneamiento y mejoras urbanas, muchas veces con financiamiento propio o internacional, para potenciar el desarrollo y la calidad de vida.",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Defensa y Fomento de la Educación y la Formación: Acciones concretas para garantizar el acceso a la educación pública, becas y formación especializada, incluyendo capacitación policial, como pilar de desarrollo y oportunidades.",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@MartinLlaryora",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Fortalecimiento Local: Iniciativas para impulsar la economía provincial, apoyar cooperativas y emprendedores, y promover la articulación público-privada.",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Apoyo al Deporte e Integración Comunitaria: Inversión en infraestructura deportiva y fomento de actividades comunitarias a través del deporte.",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Santa Fe, Chubut, Corrientes y Mendoza. Representamos el interior que empuja, que produce y que no para ni un segundo. Hoy nos encontramos en #Rosario con @NachoTorresCH @JPValdesok y @alfredocornejo para seguir profundizando en nuestras gestiones que defienden el desarrollo y la integración de nuestra región al mundo, con orden e infraestructura 🇦🇷",
+        "por_que_es_clave": "Este tweet es clave porque articula explícitamente a un grupo de gobernadores del interior, posicionándolos como un bloque proactivo y unificador para 'defender el desarrollo' de sus regiones. Su lenguaje 'el interior que empuja' es una clara declaración política sobre el protagonismo provincial frente a la dinámica federal.",
+        "pregunta_openarg": "¿Cómo capitalizará este bloque de gobernadores del interior la visibilidad y fuerza adquirida para negociar de manera más efectiva con el gobierno central en la distribución de recursos y definición de políticas estratégicas?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Formación Política",
+                "Soberanía",
+                "Federalismo",
+                "Economía"
+            ],
+            "postura_politica": "Articula la formación política con una visión que enfatiza la soberanía y el federalismo, buscando delinear una agenda propia para la provincia de Buenos Aires.",
+            "frase_fuerte": "con una mirada nacional, federal y soberana."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Asistencia Social",
+                "Gestión Territorial",
+                "Cooperación Interjurisdiccional"
+            ],
+            "postura_politica": "Demuestra una gestión activa en el territorio, priorizando la asistencia a comunidades vulnerables y destacando la colaboración entre niveles de gobierno.",
+            "frase_fuerte": "Trabajamos articuladamente entre organismos provinciales y nacionales, acercando asistencia a las familias de distintos parajes"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Seguridad",
+                "Educación",
+                "Descentralización",
+                "Oportunidades para jóvenes"
+            ],
+            "postura_politica": "Apuesta por la descentralización de la formación de seguridad y la creación de oportunidades en el interior provincial, fomentando el arraigo y el compromiso local.",
+            "frase_fuerte": "Los jóvenes que decidan integrar la fuerza policial podrán hacerlo sin tener que abandonar sus localidades, fortaleciendo el arraigo, el sentido de comunidad y el compromiso con la seguridad de cada ciudad y pueblo del interior."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Educación Pública",
+                "Apoyo a Estudiantes",
+                "Políticas Sociales"
+            ],
+            "postura_politica": "Reafirma el compromiso del gobierno provincial con la educación gratuita y la igualdad de oportunidades, sosteniendo políticas de apoyo en un contexto económico desafiante.",
+            "frase_fuerte": "Sostener estas políticas públicas en un contexto económico difícil es una decisión que reafirma el compromiso con la educación y la igualdad de oportunidades."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Gestión Municipal",
+                "Eficiencia Gubernamental",
+                "Innovación Local"
+            ],
+            "postura_politica": "Posiciona a Mendoza como líder en gestión eficiente y promueve la colaboración intermunicipal para fortalecer el federalismo a nivel nacional.",
+            "frase_fuerte": "fortalecer un trabajo federal que la Argentina necesita."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo Provincial",
+                "Infraestructura Vial",
+                "Turismo",
+                "Financiamiento Internacional"
+            ],
+            "postura_politica": "Enfoca la gestión en la obtención de financiamiento internacional para obras estratégicas que impulsen el desarrollo provincial y el turismo.",
+            "frase_fuerte": "Tenemos un plan de desarrollo para Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Servicios Públicos",
+                "Infraestructura Eléctrica",
+                "Seguridad",
+                "Calidad de Vida"
+            ],
+            "postura_politica": "Destaca la gestión provincial en la provisión de servicios esenciales como la energía eléctrica, buscando mejorar la seguridad y calidad de vida de los habitantes.",
+            "frase_fuerte": "Seguimos resolviendo problemas reales, en el territorio y junto a la gente. Río Negro está en marcha."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Gestión Pública",
+                "Cooperación Federal",
+                "Desarrollo Cooperativo",
+                "Infraestructura"
+            ],
+            "postura_politica": "Muestra una administración activa en el fortalecimiento institucional, el apoyo a iniciativas locales y la apertura a la cooperación con organismos nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura Deportiva",
+                "Desarrollo Comunitario"
+            ],
+            "postura_politica": "Resalta la inversión en infraestructura deportiva como un pilar para el desarrollo comunitario, la contención social y el fomento de valores.",
+            "frase_fuerte": "Estoy convencido de que los clubes cumplen un rol fundamental en cada comunidad."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Federalismo",
+                "Desarrollo Regional",
+                "Integración Económica",
+                "Orden e Infraestructura"
+            ],
+            "postura_politica": "Emerge como una figura clave en la articulación de un bloque regional, defendiendo la proactividad del interior para impulsar el desarrollo económico y la integración global.",
+            "frase_fuerte": "Representamos el interior que empuja, que produce y que no para ni un segundo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Servicios Sanitarios",
+                "Infraestructura Pública",
+                "Reconocimiento Laboral",
+                "Gestión Provincial"
+            ],
+            "postura_politica": "Enfatiza la capacidad de gestión y la inversión del gobierno provincial en servicios públicos esenciales, asumiendo responsabilidades incluso en un 'contexto complejo para el país'.",
+            "frase_fuerte": "En un contexto complejo para el país, reafirmamos el compromiso de seguir fortaleciendo la SAT, consolidando las fuentes de trabajo y sosteniendo una empresa pública eficiente, con capacidad de respuesta y al servicio de los tucumanos."
+        }
+    ]
+}
