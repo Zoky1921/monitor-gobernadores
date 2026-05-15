@@ -1,0 +1,201 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una marcada tensión con el Gobierno Nacional y una intensa agenda de gestión provincial. Gobernadores como Axel Kicillof (Buenos Aires), Claudio Vidal (Santa Cruz), Maxi Pullaro (Santa Fe) y Osvaldo Jaldo (Tucumán) expresaron fuertes críticas a las políticas y recortes nacionales, o celebraron fallos judiciales que impactan en la autonomía provincial. En paralelo, se destacaron anuncios significativos en infraestructura, energía y desarrollo productivo, con Alfredo Cornejo (Mendoza) y Rolando Figueroa (Neuquén) impulsando grandes proyectos. La seguridad y el desarrollo social también figuraron prominentemente, reflejando una postura de autogestión y defensa de los intereses provinciales frente a un escenario nacional complejo.",
+    "analisis_profundo": "La agenda política de los gobernadores hoy estuvo dominada por dos ejes principales: la confrontación y defensa provincial frente al Gobierno Nacional, y la reafirmación de una gestión autónoma a través de inversiones y desarrollo estratégico. La tensión con la Nación fue explícita, con Axel Kicillof (Buenos Aires) señalando un 'abandono' que costó a la provincia billones de pesos, reflejando el impacto directo de las políticas centrales en las finanzas bonaerenses. De manera similar, Claudio Vidal (Santa Cruz) celebró un fallo de la Corte Suprema que, según él, puso fin a 'tres décadas de impunidad' en el ámbito judicial provincial, marcando una clara ruptura con gestiones anteriores y un alineamiento con el poder judicial nacional para reordenar la institucionalidad local. Maxi Pullaro (Santa Fe) se posicionó como líder de un 'interior que empuja', articulando con otros gobernadores para defender la producción y la integración regional frente a la centralización. Osvaldo Jaldo (Tucumán) destacó el superávit fiscal de su provincia como prueba de una gestión ordenada en un 'contexto nacional complejo', subrayando la necesidad de proteger la actividad productiva y el empleo local. \n\nEn cuanto a la gestión proactiva, varios mandatarios anunciaron importantes inversiones. Alfredo Cornejo (Mendoza) inauguró el parque solar más grande del país y celebró la inclusión de proyectos mineros en el RIGI, demostrando una clara apuesta por la energía limpia y el desarrollo económico. Rolando Figueroa (Neuquén) resaltó la llegada de nuevas inversiones a Vaca Muerta y el financiamiento del Banco Mundial para obras viales y de desarrollo. Los anuncios en infraestructura y servicios públicos fueron constantes, con Leandro Zdero (Chaco) y Arabela Carreras (Río Negro) impulsando operativos de asistencia y obras esenciales. Martin Llaryora (Córdoba) se enfocó en políticas sociales y de seguridad, descentralizando la formación policial. Ricardo Quintela (La Rioja) y Claudio Poggi (San Luis) también enfatizaron inversiones en educación, salud e infraestructura local, buscando mejorar la calidad de vida de sus ciudadanos. El gobernador Marcelo Orrego (San Juan) posicionó su provincia como sede de eventos internacionales, potenciando el turismo y la economía regional. La jornada subraya una dinámica federal donde las provincias, ante un panorama nacional volátil, refuerzan sus capacidades de autogestión y articulación para proteger y desarrollar sus territorios.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación Federal y Autonomía Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Impulso a la Producción y Energía",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@passalacquaok",
+                "@DrMarceloOrrego",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Reforma Judicial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo de Infraestructura y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Articulación Interprovincial y Financiamiento Externo",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@DrMarceloOrrego",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "FIN DE LA IMPUNIDAD EN SANTA CRUZ ¡SE TERMINÓ! La Corte Suprema dejó sin efecto el fallo del Tribunal Superior de Justicia de Santa Cruz que había declarado inconstitucional la Ley Provincial N° 3.949 de ampliación del máximo tribunal, y dejó un mensaje contundente ante la impunidad que funcionó durante décadas. Durante 30 años destruyeron la producción, desaparecieron obras y vaciaron la provincia, mientras una parte de la Justicia, convertida en la última trinchera del kirchnerismo, no solo miraba para otro lado, sino que fue parte del sistema que protegió a los responsables del saqueo. Se terminó el tiempo de los privilegios, de las causas dormidas y de los intocables. En Santa Cruz ya no todo vale. La ley vuelve a ser igual para todos. Santa Cruz Puede...",
+        "por_que_es_clave": "Este tweet es clave porque anuncia un cambio institucional de gran envergadura en la provincia, impulsado por una decisión de la Corte Suprema de Justicia de la Nación. Su contenido político es extremadamente fuerte, aludiendo a 'décadas de impunidad' y vinculando el sistema judicial provincial anterior con la protección de la corrupción. Marca una declaración directa y combativa contra el pasado político y judicial, prometiendo una nueva era de transparencia y legalidad. La referencia a la Corte Suprema como garante de este cambio le otorga una dimensión federal y un impacto significativo en la dinámica de poderes a nivel provincial y nacional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Tensión Federal y Defensa de Recursos Provinciales",
+                "Seguridad y Orden Público",
+                "Desarrollo de Infraestructura y Servicios Públicos"
+            ],
+            "postura_politica": "Crítico de las políticas nacionales que afectan las finanzas provinciales y paralizan obras, mientras enfatiza la gestión local en seguridad y formación política.",
+            "frase_fuerte": "La PBA sigue pagando los costos del abandono del Gobierno nacional. La pérdida de recursos de la Provincia acumula $24,6 billones, entre obras paralizadas, recorte de programas, deudas directas y caída de la recaudación por un modelo que destruye el empleo y el mercado interno."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad y Orden Público"
+            ],
+            "postura_politica": "Fuerte énfasis en la seguridad pública y el restablecimiento del 'orden y ley' en la ciudad a través de operativos directos y resultados visibles.",
+            "frase_fuerte": "Balvanera estaba completamente tomado. Lo liberamos y le devolvimos la paz a los vecinos. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo de Infraestructura y Servicios Públicos",
+                "Fortalecimiento Institucional y Desarrollo Social"
+            ],
+            "postura_politica": "Enfocado en la asistencia social en zonas vulnerables y en la provisión de equipamiento para la educación especial. Destaca la articulación con organismos nacionales en operativos.",
+            "frase_fuerte": "Trabajamos de manera articulada entre organismos provinciales y nacionales, acercando asistencia a más de 5.000 familias de distintos parajes, mediante la entrega de módulos alimentarios, agua y atención integral."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo de Infraestructura y Servicios Públicos",
+                "Seguridad y Reforma Judicial",
+                "Fortalecimiento Institucional y Desarrollo Social"
+            ],
+            "postura_politica": "Prioriza la inversión provincial en políticas sociales y de seguridad, descentralizando la formación policial y abordando consumos problemáticos en un 'momento tan cruel y deshumanizante'.",
+            "frase_fuerte": "En este momento tan cruel y deshumanizante de la Argentina, necesitamos volver al camino de la #solidaridad y poner en el centro a las personas."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Desarrollo de Infraestructura y Servicios Públicos",
+                "Tensión Federal y Defensa de Recursos Provinciales"
+            ],
+            "postura_politica": "Mantiene políticas de apoyo a la educación a pesar del difícil contexto económico nacional y busca la unidad justicialista ante la situación del país.",
+            "frase_fuerte": "Estamos preocupados por la situación que atraviesa nuestro país, pero sabemos que las cosas pueden cambiar si trabajamos unidos con un mismo objetivo."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Impulso a la Producción y Energía",
+                "Articulación Interprovincial y Financiamiento Externo",
+                "Tensión Federal y Defensa de Recursos Provinciales"
+            ],
+            "postura_politica": "Proactivo en la promoción de inversiones en minería y energías renovables, destacando la eficiencia provincial y la articulación para el desarrollo económico. Reconoce el impacto positivo del RIGI.",
+            "frase_fuerte": "Mendoza inauguró el Parque Solar El Quemado, el más grande de la Argentina. Dimos otro paso concreto hacia una matriz energética más limpia, moderna y preparada para el crecimiento de nuestra provincia."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Impulso a la Producción y Energía",
+                "Desarrollo de Infraestructura y Servicios Públicos"
+            ],
+            "postura_politica": "Enfocado en la innovación productiva (biotecnología) y el desarrollo turístico-cultural, buscando diversificar la matriz económica provincial.",
+            "frase_fuerte": "Recorrimos las obras de refuncionalización del Centro de Interpretación de San Ignacio, un espacio que muy pronto volverá a abrir sus puertas para recibir a misioneros y visitantes."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Impulso a la Producción y Energía",
+                "Desarrollo de Infraestructura y Servicios Públicos",
+                "Articulación Interprovincial y Financiamiento Externo",
+                "Fortalecimiento Institucional y Desarrollo Social"
+            ],
+            "postura_politica": "Muestra una gestión activa en obras de infraestructura vial, acceso a servicios básicos y promoción de inversiones en Vaca Muerta, con apoyo de financiamiento internacional. Prioriza la educación.",
+            "frase_fuerte": "La seguridad y previsibilidad que brinda Neuquén resultan clave para la llegada de nuevos actores."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo de Infraestructura y Servicios Públicos",
+                "Fortalecimiento Institucional y Desarrollo Social"
+            ],
+            "postura_politica": "Destaca una gestión orientada a la inversión en infraestructura clave (agua, gas, hospitales) y la implementación de programas sociales innovadores, siempre con una perspectiva de 'rumbo' y 'estado presente'.",
+            "frase_fuerte": "Sierra Grande está viviendo una transformación histórica y tenemos que prepararla para lo que viene. Hoy licitamos una obra clave que garantizará agua potable por los próximos 20 años para más de 20 mil usuarios entre vecinos y turistas."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Impulso a la Producción y Energía",
+                "Articulación Interprovincial y Financiamiento Externo"
+            ],
+            "postura_politica": "Posiciona a San Juan como sede de eventos internacionales y destino clave para la inversión, especialmente en el sector turístico y productivo, promoviendo el desarrollo económico local.",
+            "frase_fuerte": "Cada evento que llega a San Juan mueve la economía, genera trabajo y nos conecta con el mundo. La capacidad hotelera ya está al máximo. ¡Los esperamos!"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Desarrollo de Infraestructura y Servicios Públicos",
+                "Impulso a la Producción y Energía",
+                "Fortalecimiento Institucional y Desarrollo Social"
+            ],
+            "postura_politica": "Promueve la reconstrucción de infraestructura sanitaria, impulsa la educación superior y fomenta el cooperativismo como modelo de desarrollo productivo y laboral en la provincia.",
+            "frase_fuerte": "Comenzamos con un Policlinico destruido y finalizaré la gestión con el Policlínico a nuevo. 👏👏"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Seguridad y Reforma Judicial",
+                "Tensión Federal y Defensa de Recursos Provinciales",
+                "Desarrollo de Infraestructura y Servicios Públicos"
+            ],
+            "postura_politica": "Celebra activamente un fallo de la Corte Suprema que, según él, pone fin a 'tres décadas de impunidad' en la justicia provincial, vinculando esto a la corrupción pasada y al kirchnerismo. Enfatiza el deporte como inclusión.",
+            "frase_fuerte": "Se terminaron tres décadas de impunidad en Santa Cruz. En Santa Cruz ya no todo vale. La ley vuelve a ser igual para todos."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Tensión Federal y Defensa de Recursos Provinciales",
+                "Articulación Interprovincial y Financiamiento Externo"
+            ],
+            "postura_politica": "Lidera un frente de gobernadores del interior, reivindicando el rol productivo de las provincias y demandando mayor federalismo y respeto por sus gestiones ante el gobierno nacional.",
+            "frase_fuerte": "Representamos el interior que empuja, que produce y que no para ni un segundo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Tensión Federal y Defensa de Recursos Provinciales",
+                "Impulso a la Producción y Energía",
+                "Seguridad y Reforma Judicial",
+                "Desarrollo de Infraestructura y Servicios Públicos",
+                "Fortalecimiento Institucional y Desarrollo Social"
+            ],
+            "postura_politica": "Destaca el superávit fiscal provincial y el crecimiento del empleo formal, presentándose como una gestión ordenada que defiende los intereses de Tucumán frente a un 'contexto nacional complejo', con inversiones en infraestructura y salud.",
+            "frase_fuerte": "Hoy Tucumán es una de las siete provincias de la Argentina que cerraron el 2025 con superávit fiscal, según informes de consultoras privadas."
+        }
+    ]
+}
