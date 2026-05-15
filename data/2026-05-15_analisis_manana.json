@@ -1,0 +1,161 @@
+{
+    "clima_general": "VARIABLE",
+    "resumen_ejecutivo": "Los gobernadores se enfocaron principalmente en la gestión provincial y la obra pública, reflejando una diversidad de prioridades a pesar de las tensiones con el gobierno nacional. Jorge Macri (CABA) destacó megaoperativos de seguridad, reforzando su postura de 'ley y orden' y confrontando a 'La Cámpora'. Axel Kicillof (Buenos Aires) se centró en políticas educativas y sociales. Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) impulsaron grandes obras de infraestructura energética y de servicios. Raúl Jalil (Catamarca) buscó estrechar lazos internacionales para atraer inversiones. Ricardo Quintela (La Rioja) mantuvo diálogos políticos a nivel federal, mientras Leandro Zdero (Chaco) y Marcelo Orrego (San Juan) resaltaron programas de asistencia social y empleo. Claudio Vidal (Santa Cruz) puso el foco en la transparencia presupuestaria. Osvaldo Jaldo (Tucumán) inauguró infraestructura educativa y cultural, reafirmando la autonomía provincial para sostener servicios esenciales.",
+    "analisis_profundo": "La jornada reciente de los gobernadores se caracterizó por una marcada impronta de gestión provincial, con un tono predominantemente constructivo hacia el desarrollo local y regional, aunque con referencias explícitas o implícitas a las dinámicas con el gobierno nacional. Jorge Macri (CABA) lideró la agenda de seguridad con múltiples mensajes sobre operativos contra la delincuencia y el narcotráfico, utilizando un lenguaje firme de 'Ley y orden' e incluso confrontando a 'La Cámpora'. Esta postura reafirma un eje central de su administración y puede interpretarse como un mensaje a la política nacional sobre la eficacia de su enfoque en seguridad. Axel Kicillof (Buenos Aires) mantuvo un perfil centrado en la política educativa y social, destacando la entrega de equipamiento escolar y el inicio de cursos de formación política. Sus comunicaciones reflejan un compromiso con la provisión de servicios básicos y la construcción de cuadros políticos. Raúl Jalil (Catamarca) abrió su agenda a la diplomacia y la inversión al reunirse con el embajador de Estados Unidos, buscando fortalecer vínculos que impulsen el desarrollo y el turismo provincial. Leandro Zdero (Chaco), por su parte, se enfocó en operativos de asistencia social articulados con el nivel nacional, subrayando el compromiso con las familias en situaciones vulnerables. Ricardo Quintela (La Rioja) dialogó con diputados nacionales de su bloque, evidenciando una preocupación por la realidad nacional y la búsqueda de caminos conjuntos, lo que subraya la importancia de la articulación política a nivel federal. Rolando Figueroa (Neuquén) destacó el avance de obras energéticas clave, como el Aprovechamiento Multipropósito Nahueve, enfatizando la visión de su provincia hacia la generación de energía y el desarrollo de infraestructura productiva. Alberto Weretilneck (Río Negro) también se concentró en la infraestructura de servicios, con el inicio de una red cloacal y la promoción de la participación juvenil en la política, marcando un enfoque en la calidad de vida y la gobernanza. Marcelo Orrego (San Juan) impulsó programas de capacitación y autoempleo, buscando generar oportunidades laborales y fortalecer el desarrollo económico local. Claudio Vidal (Santa Cruz) hizo hincapié en la transparencia presupuestaria, posicionando a su provincia como un ejemplo de buena administración y acceso a la información pública, lo que implica una crítica implícita a gestiones pasadas. Finalmente, Osvaldo Jaldo (Tucumán) exhibió una intensa actividad de inauguración de infraestructura educativa y cultural, resaltando la inversión provincial en educación como una apuesta estratégica para el futuro, a pesar del 'difícil contexto económico nacional'. En conjunto, la jornada mostró gobernadores enfocados en consolidar su gestión, defendiendo los intereses provinciales y adaptándose a las dinámicas federales, a veces con cooperación y otras con una clara diferenciación del gobierno central.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Infraestructura Energética y de Servicios Básicos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Educación y Desarrollo de Capital Humano",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@DrMarceloOrrego",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Federalismo, Transparencia y Relación con Nación",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer",
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (CABA)",
+        "texto": "Las personas humildes y trabajadoras que ustedes se jactan de representar son las que nos piden ir con toda la fuerza de la ley contra los delincuentes y los narcos. Si hacía falta algo más para saber que este es el camino, apareció La Cámpora para confirmarlo. Ley y orden.",
+        "por_que_es_clave": "El gobernador Jorge Macri (CABA) no solo reafirma su política de seguridad de 'ley y orden' en un tema sensible como la delincuencia y el narcotráfico, sino que introduce una crítica directa a 'La Cámpora', una facción del peronismo. Esto eleva la discusión de gestión a un plano de confrontación política explícita y federal, marcando una clara línea ideológica y de enfoque sobre el rol del Estado.",
+        "pregunta_openarg": "¿Cómo impactará esta confrontación directa de Macri (CABA) con una facción clave del peronismo en las futuras negociaciones de seguridad a nivel federal?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Educación",
+                "Política Social",
+                "Formación Política"
+            ],
+            "postura_politica": "Centrado en la gestión social y educativa como pilares de su administración, enfatizando el fortalecimiento de programas de asistencia alimentaria escolar y la formación de cuadros políticos. Reafirma una visión de estado presente y activo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el narcotráfico",
+                "Orden público",
+                "Confronte político"
+            ],
+            "postura_politica": "Exhibe una postura inflexible en materia de seguridad, promoviendo 'ley y orden' y destacando la eficacia de los megaoperativos policiales. Utiliza la confrontación política para reforzar su mensaje y diferenciarse.",
+            "frase_fuerte": "Las personas humildes y trabajadoras que ustedes se jactan de representar son las que nos piden ir con toda la fuerza de la ley contra los delincuentes y los narcos. Si hacía falta algo más para saber que este es el camino, apareció La Cámpora para confirmarlo. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Inversión",
+                "Desarrollo productivo",
+                "Turismo"
+            ],
+            "postura_politica": "Busca activamente lazos internacionales para atraer inversiones y promover el potencial económico y turístico de su provincia, demostrando una apertura a la cooperación global.",
+            "frase_fuerte": "Fue un encuentro de diálogo bilateral e intercambio institucional, donde compartimos miradas sobre las oportunidades de desarrollo, inversión y crecimiento productivo para nuestra provincia."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Asistencia social",
+                "Cooperación interinstitucional",
+                "Salud"
+            ],
+            "postura_politica": "Enfocado en la gestión social en zonas vulnerables, destacando la articulación entre organismos provinciales y nacionales para garantizar asistencia integral a las familias.",
+            "frase_fuerte": "Trabajamos de manera articulada entre organismos provinciales y nacionales, acercando asistencia a más de 5.000 familias de distintos parajes, mediante la entrega de módulos alimentarios, agua y atención integral."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Diálogo político",
+                "Realidad nacional"
+            ],
+            "postura_politica": "Mantiene un rol activo en el diálogo con legisladores nacionales de su bloque, expresando preocupación por la situación del país y buscando consensos para trazar un camino político.",
+            "frase_fuerte": "Estos encuentros sirven para trazar juntos el camino que queremos seguir recorriendo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Energía",
+                "Infraestructura",
+                "Desarrollo",
+                "Recursos Hídricos"
+            ],
+            "postura_politica": "Prioriza la inversión en grandes obras de infraestructura energética y de recursos hídricos como motores para el desarrollo y la calidad de vida de los neuquinos.",
+            "frase_fuerte": "Es un gran cambio para todo el pueblo de Villa del Nahueve tener esta represa multipropósito porque va a poder generar electricidad, pero también va a proveer agua para el consumo y ampliar las posibilidades de riego."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Servicios básicos",
+                "Desarrollo local",
+                "Participación juvenil",
+                "Federalismo"
+            ],
+            "postura_politica": "Aborda la mejora de servicios esenciales como las cloacas y el gas con fondos propios, y promueve la inclusión de los jóvenes en la definición de políticas públicas, destacando una gestión cercana y federal.",
+            "frase_fuerte": "LA VOZ DE LOS JÓVENES MARCA EL RUMBO Queremos que sean ellos y ellas quienes nos digan qué necesitan, qué sueñan y qué esperan de su provincia."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Empleo",
+                "Capacitación",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Promueve activamente programas de formación y autoempleo para fortalecer las capacidades laborales de los sanjuaninos y dinamizar la economía local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Transparencia",
+                "Gobernanza",
+                "Finanzas públicas"
+            ],
+            "postura_politica": "Destaca los avances en transparencia presupuestaria de su gestión como un logro significativo, posicionando a Santa Cruz como un ejemplo de buena administración y acceso a la información pública.",
+            "frase_fuerte": "¿SABÍAS QUE EN UN SOLO AÑO LOGRAMOS QUE SANTA CRUZ SEA LA PROVINCIA QUE MÁS CRECIÓ EN TRANSPARENCIA PRESUPUESTARIA EN TODO EL PAÍS?"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura",
+                "Cultura",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Impulsa la descentralización educativa con nuevas infraestructuras universitarias y la revalorización de espacios culturales, demostrando una fuerte inversión provincial para el desarrollo y la calidad de vida.",
+            "frase_fuerte": "Para nosotros, la educación no es un gasto, sino una inversión estratégica en el presente y el futuro de Tucumán."
+        }
+    ]
+}
