@@ -1,0 +1,265 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La jornada federal revela una marcada polarización entre gobernadores que confrontan activamente con las políticas del Gobierno nacional y aquellos que priorizan la gestión local con fondos propios. Destaca la fuerte retórica de seguridad por parte de Jorge Macri (Ciudad Autónoma de Buenos Aires) y la postura de resistencia de Axel Kicillof (Buenos Aires). Otros mandatarios se enfocan en inversiones en infraestructura, educación y desarrollo productivo, con énfasis en la autonomía fiscal y la transparencia. La cooperación interprovincial en áreas como la energía y la minería coexiste con la tensión por el desfinanciamiento nacional y la reforma judicial en Santa Cruz, mostrando un panorama de gestiones proactivas frente a un escenario nacional complejo.",
+    "analisis_profundo": "El tablero federal del día exhibe una dinámica de doble velocidad. Por un lado, una facción de gobernadores peronistas como Axel Kicillof (Buenos Aires) adoptan una postura frontal de 'resistencia' contra el Gobierno nacional, denunciando la paralización de obras y la afectación de servicios clave, mientras movilizan agendas sociales. En la vereda opuesta, Jorge Macri (Ciudad Autónoma de Buenos Aires) intensifica su discurso de 'Ley y orden' con operativos de seguridad y críticas directas a la oposición, consolidando un eje de gestión muy marcado. \n\nOtros gobernadores, como Leandro Zdero (Chaco) y Claudio Poggi (San Luis), se concentran en una gestión territorial exhaustiva, con entrega de viviendas, programas educativos y asistencia social, a menudo destacando la inversión con fondos provinciales frente al retiro nacional. Ignacio Torres (Chubut) da un paso significativo en autonomía fiscal al eliminar impuestos a la construcción, delineando un 'modelo de provincia diferente' con un claro mensaje a gestiones pasadas. \n\nEn el ámbito productivo y energético, Ricardo Quintela (La Rioja) impulsa la economía del conocimiento con acuerdos tecnológicos internacionales, mientras Omar Gutiérrez (Neuquén) y Alberto Cornejo (Mendoza) capitalizan el potencial de Vaca Muerta, las energías renovables y la minería (RIGI), buscando posicionar a sus provincias como líderes en la integración energética y productiva. La transparencia y el fortalecimiento institucional son banderas para Hugo Passalacqua (Misiones), que implementa exámenes toxicológicos, y para Claudio Vidal (Santa Cruz), que celebra avances en la transparencia presupuestaria y el fin de la 'impunidad judicial'. Sergio Ziliotto (La Pampa) y Gustavo Sáenz (Salta) no tuvieron actividad relevante en el marco temporal establecido. La interacción entre provincias para proyectos estratégicos y la defensa de recursos sigue siendo un pilar, aunque con una constante alusión al difícil contexto económico nacional que impulsa a las provincias a una mayor autonomía y gestión propia.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica y Resistencia a la Gestión Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y 'Ley y Orden'",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo Energético, Productivo y Minero",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Educación, Vivienda e Infraestructura Social",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Transparencia y Fortalecimiento Institucional",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Las personas humildes y trabajadoras que ustedes se jactan de representar son las que nos piden ir con toda la fuerza de la ley contra los delincuentes y los narcos. Si hacía falta algo más para saber que este es el camino, apareció La Cámpora para confirmarlo. Ley y orden.",
+        "por_que_es_clave": "Este tweet de Jorge Macri (Ciudad Autónoma de Buenos Aires) es clave porque no solo refuerza el eje central de su gestión ('Ley y orden'), sino que también lanza una crítica directa y explícita a una facción política opositora (La Cámpora), asociándolos implícitamente con la defensa de los delincuentes. Marca una línea divisoria clara y escalada en el discurso político, mostrando una postura de confrontación activa que trasciende la gestión para entrar en el terreno de la disputa ideológica y la seguridad.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Crítica a la Gestión Nacional",
+                "Educación",
+                "Obras Públicas",
+                "Género y Diversidades",
+                "Programas Sociales"
+            ],
+            "postura_politica": "Se posiciona como líder de la 'resistencia Argentina' frente a las políticas del gobierno nacional, enfatizando el rol de las mujeres y diversidades. Destaca la inversión provincial en educación y obra pública, contrastándola directamente con la paralización de proyectos por parte de la Nación.",
+            "frase_fuerte": "Desde que llegó Milei la vanguardia de la resistencia Argentina la tienen las mujeres y las diversidades: lo muestran en las calles, en los sindicatos, en los barrios, en las fábricas, en las universidades y sobre todo, lo han mostrado en las urnas."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el Narcotráfico",
+                "Orden Público",
+                "Crítica Política"
+            ],
+            "postura_politica": "Refuerza su eje de 'Ley y orden' con la descripción de mega operativos contra el delito y el narcotráfico. Emplea una retórica fuerte, felicitando a las fuerzas de seguridad y criticando a La Cámpora, consolidando su imagen de firmeza y confrontación con ciertos sectores políticos.",
+            "frase_fuerte": "Las personas humildes y trabajadoras que ustedes se jactan de representar son las que nos piden ir con toda la fuerza de la ley contra los delincuentes y los narcos. Si hacía falta algo más para saber que este es el camino, apareció La Cámpora para confirmarlo. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Relaciones Internacionales",
+                "Inversión Extranjera",
+                "Desarrollo Productivo",
+                "Turismo"
+            ],
+            "postura_politica": "Mantiene una agenda proactiva en relaciones internacionales, reuniéndose con el embajador de Estados Unidos para fomentar la cooperación, la inversión y el desarrollo productivo y turístico provincial. Busca proyectar a Catamarca en el escenario global.",
+            "frase_fuerte": "Nos reunimos con el embajador de Estados Unidos en Argentina, @USAmbassadorARG, para dialogar sobre la realidad de nuestra provincia y seguir fortaleciendo los vínculos de cooperación y entendimiento entre Catamarca y Estados Unidos."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Asistencia Social",
+                "Operativos Territoriales",
+                "Cooperación Provincial-Nacional"
+            ],
+            "postura_politica": "Prioriza la gestión social y territorial, con la entrega de viviendas y la continuidad del 'Operativo Impenetrable'. Destaca el trabajo articulado con organismos nacionales para brindar asistencia a las familias más vulnerables, mostrando un Estado presente en el territorio.",
+            "frase_fuerte": "Trabajamos de manera articulada entre organismos provinciales y nacionales, acercando asistencia a más de 5.000 familias de distintos parajes, mediante la entrega de módulos alimentarios, agua y atención integral."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Política Fiscal",
+                "Reducción de Impuestos",
+                "Equilibrio Fiscal",
+                "Generación de Empleo",
+                "Vivienda"
+            ],
+            "postura_politica": "Anuncia una medida fiscal histórica al eliminar impuestos a la construcción, enmarcando esta decisión en un modelo de provincia que busca desendeudar, lograr el equilibrio fiscal y crear empleo. Contrapone su gestión con la 'decadencia' de administraciones anteriores.",
+            "frase_fuerte": "Primera vez en la historia de Chubut: eliminamos Ingresos Brutos y Sellos para que la gente pueda construir o ampliar su casa."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Gestión Territorial",
+                "Programas Sociales",
+                "Infraestructura",
+                "Educación",
+                "Salud Mental",
+                "Cooperación Interpartidaria"
+            ],
+            "postura_politica": "Mantiene una intensa agenda de gestión local, entregando programas y anunciando obras en distintas localidades. Enfatiza la importancia de la 'solidaridad' y la 'presencia activa del Estado' en tiempos nacionales 'crueles y deshumanizantes', promoviendo el trabajo conjunto con intendentes de todos los partidos.",
+            "frase_fuerte": "Cada vez que me recibe una ciudad o un pueblo de #Córdoba me llevo algo valioso: la fuerza, el esfuerzo y la esperanza de la gente. Eso reafirma que tenemos que seguir estando presentes en cada comunidad."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Economía del Conocimiento",
+                "Educación Superior",
+                "Tecnología",
+                "Relaciones Internacionales",
+                "Articulación Política"
+            ],
+            "postura_politica": "Apuesta fuertemente a la economía del conocimiento mediante un convenio con Huawei y universidades para capacitar a jóvenes en nuevas tecnologías. Se reúne con diputados nacionales justicialistas, destacando la preocupación por la situación del país y la necesidad de unidad política para el futuro.",
+            "frase_fuerte": "Seguimos apostando a la economía del conocimiento como una de las mejores formas de aportar al crecimiento de La Rioja."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Educación Técnica",
+                "Infraestructura Educativa",
+                "Política Energética",
+                "Minería",
+                "Liderazgo Nacional"
+            ],
+            "postura_politica": "Destaca la inauguración de una escuela técnica con enfoque en programación y robótica, así como el liderazgo de Mendoza en entidades nacionales de energía. Subraya el desarrollo minero con proyectos que ingresan al RIGI, defendiendo la inversión y las 'reglas claras' para el crecimiento provincial.",
+            "frase_fuerte": "En Mendoza construimos la escuela Francisco Domínguez en Junín en solo 6 meses y hoy la estamos inaugurando, sumando una orientación técnica en Programación y Robótica que prepara a nuestros jóvenes para el futuro y el mundo del trabajo."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Transparencia",
+                "Ética Pública",
+                "Agroindustria",
+                "Educación"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con la transparencia y la ética en la función pública al realizarse y publicitar un examen toxicológico junto a su equipo. Resalta la importancia de la ciencia y la tecnología en la formación agro-industrial para el desarrollo productivo provincial.",
+            "frase_fuerte": "Me realicé el examen toxicológico junto al equipo de Gobierno. La función pública exige responsabilidad, transparencia y dar el ejemplo todos los días."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Energía",
+                "Vaca Muerta",
+                "Integración Regional",
+                "Infraestructura Vial",
+                "Generación Eléctrica"
+            ],
+            "postura_politica": "Reafirma Vaca Muerta como política de estado y el objetivo de posicionar a Neuquén como proveedor energético global. Impulsa obras viales y de infraestructura hidroeléctrica (Nahueve), además de reuniones con la ministra de Energía de Chile para la integración energética del Cono Sur.",
+            "frase_fuerte": "VAMOS A LLEVAR NUESTRA ENERGÍA AL MUNDO Este anuncio no hace más que ratificar el rumbo que venimos llevando adelante desde el inicio de la gestión con Vaca Muerta como política de estado."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Obras Públicas",
+                "Gas Natural",
+                "Saneamiento",
+                "Participación Juvenil",
+                "Fondos Propios"
+            ],
+            "postura_politica": "Enfocado en la gestión con fondos propios para obras de infraestructura clave como el gasoducto y redes cloacales, subrayando la mejora en la calidad de vida. Promueve la participación de jóvenes en el diseño de políticas públicas con una 'mirada federal'.",
+            "frase_fuerte": "Río Negro construye con decisión, planificación y fondos propios. Tenemos rumbo."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Empleo",
+                "Capacitación",
+                "Autoempleo",
+                "Desarrollo Económico",
+                "Turismo Deportivo"
+            ],
+            "postura_politica": "Promueve el desarrollo del empleo a través de programas de capacitación y autoempleo, fomentando el crecimiento de las familias sanjuaninas. Destaca el impacto económico y la proyección internacional de eventos deportivos de gran envergadura en la provincia.",
+            "frase_fuerte": "Más capacitación, más oportunidades y más herramientas para crecer ☀️"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Educación",
+                "Infraestructura Educativa",
+                "Programas Sociales",
+                "Emprendedurismo"
+            ],
+            "postura_politica": "Despliega una intensa agenda territorial enfocada en la entrega de viviendas y escrituras sociales, programas de apoyo a la educación (bicicletas, boleto educativo) y fomento al emprendedurismo local. Reafirma el compromiso con la política habitacional y la inversión en infraestructura educativa.",
+            "frase_fuerte": "La política de Vivienda volvió a San Luis y llegó para quedarse. 👏👏"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Transparencia",
+                "Ferrocarriles",
+                "Infraestructura",
+                "Justicia",
+                "Lucha contra la Impunidad"
+            ],
+            "postura_politica": "Destaca el liderazgo de Santa Cruz en transparencia presupuestaria y la recuperación de infraestructura ferroviaria. Mantiene una postura firme contra la 'impunidad' y el 'kirchnerismo' en el ámbito judicial, celebrando el rol de la Corte Suprema en la reforma judicial.",
+            "frase_fuerte": "¿SABÍAS QUE EN UN SOLO AÑO LOGRAMOS QUE SANTA CRUZ SEA LA PROVINCIA QUE MÁS CRECIÓ EN TRANSPARENCIA PRESUPUESTARIA EN TODO EL PAÍS?"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Programas Sociales",
+                "Gestión Local",
+                "Dignidad"
+            ],
+            "postura_politica": "Centra su mensaje en la satisfacción de entregar escrituras de viviendas, lo que representa un 'sueño cumplido' y dignificación para las familias. Destaca la gestión provincial en apoyo a los vecinos y la inversión en el crecimiento de Santa Fe.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Tecnología",
+                "Innovación Urbana",
+                "Eventos",
+                "Desarrollo Urbano"
+            ],
+            "postura_politica": "Promueve a Santiago del Estero como un polo de debate e innovación con la realización de la Smart City Expo. Su enfoque es posicionar a la provincia como un centro de referencia en inteligencia artificial y desarrollo urbano a través de grandes eventos.",
+            "frase_fuerte": "Santiago del Estero vuelve a posicionarse como un punto de encuentro para el debate y la innovación con una nueva edición del Smart City Expo, que reunirá a destacados especialistas nacionales e internacionales en inteligencia artificial, innovación urbana y desarrollo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Educación Superior",
+                "Infraestructura Educativa",
+                "Obras Públicas",
+                "Contexto Nacional",
+                "Servicios Públicos"
+            ],
+            "postura_politica": "Destaca la inauguración de un Campus Universitario en Lules, descentralizando la educación superior como inversión estratégica. Resalta la continuidad de obras y servicios esenciales con fondos provinciales, a pesar del 'difícil contexto económico nacional', reafirmando un enfoque federal y cercano a los municipios.",
+            "frase_fuerte": "Para nosotros, la educación no es un gasto, sino una inversión estratégica en el presente y el futuro de Tucumán."
+        }
+    ]
+}
