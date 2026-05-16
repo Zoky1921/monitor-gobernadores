@@ -1,0 +1,160 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores Kicillofok (Buenos Aires) y Llaryora (Córdoba) marcaron una clara postura frente al Gobierno nacional, el primero realzando la 'resistencia' femenina y de diversidades, y el cordobés posicionando a su provincia como 'amortiguador' ante el ajuste. La agenda federal, por su parte, se centró en la gestión y el desarrollo local. Figueroa (Neuquén) impulsó inversiones RIGI en Vaca Muerta y subsidios energéticos. Weretilneck (Río Negro), Sáenz (Salta) y Poggi (San Luis) destacaron obras de infraestructura, cultura y programas de vivienda. Vidal (Santa Cruz) celebró la recuperación del tren en el norte provincial, mientras Pullaro (Santa Fe) se enfocó en la entrega de escrituras y Suárez (Santiago del Estero) anunció oportunidades para docentes.",
+    "analisis_profundo": "La jornada federal del 16 de mayo de 2026 exhibe una clara bifurcación en la comunicación política de los gobernadores. Por un lado, una facción, liderada por Axel Kicillofok (Buenos Aires), adopta un tono abiertamente confrontativo con el Gobierno nacional, identificando a 'mujeres y diversidades' como 'vanguardia de la resistencia argentina' contra las políticas de la administración Milei. Esta postura sugiere una estrategia de polarización y movilización social en respuesta al ajuste. Martín Llaryora (Córdoba), por su parte, si bien no tan directo, articuló una crítica subyacente al presentar a su provincia como un 'amortiguador social y productivo' frente a las 'consecuencias del ajuste nacional', apelando a la unidad 'más allá de los partidos políticos'. Esto lo posiciona como un actor que, aun reclamando, busca mostrar proactividad y gestión en un contexto adverso.\nEn contraste, la mayoría de los gobernadores se concentraron en la gestión provincial y el impulso de obras y programas locales, minimizando la mención directa de las tensiones con Nación. Rolando Figueroa (Neuquén) destacó la atracción de nuevas inversiones bajo el Régimen de Incentivo para Grandes Inversiones (RIGI) en Vaca Muerta, la infraestructura educativa y los subsidios eléctricos, posicionando a Neuquén como un polo energético y de desarrollo. Alberto Weretilneck (Río Negro) mostró un fuerte enfoque en la infraestructura, desde obras de gas y hospitales hasta la promoción educativa y minera, reflejando una agenda de 'Río Negro construye'. Gustavo Sáenz (Salta) celebró la trayectoria cultural de su Orquesta Sinfónica, mientras Claudio Poggi (San Luis) enfatizó las viviendas, las bicicletas 'TUBI' para estudiantes y las olimpiadas para empleados públicos. Claudio Vidal (Santa Cruz) se volcó a la recuperación de proyectos históricos como el tren en Jaramillo, y Maximiliano Pullaro (Santa Fe) en la entrega de escrituras de viviendas, ambos subrayando la relevancia de la gestión y la identidad local. Elías Suárez (Santiago del Estero) se centró en la educación, anunciando un importante ofrecimiento de cargos docentes, lo que indica un fuerte respaldo al sistema educativo provincial.\nLa dicotomía entre la crítica frontal al gobierno central y una gestión pragmática enfocada en soluciones locales es palpable. La construcción de narrativas de 'resistencia' y 'amortiguación' desde las provincias más pobladas y políticamente influyentes, como Buenos Aires y Córdoba, subraya un clima de tensión que, si bien no siempre explícito en el día a día, se mantiene latente y define parte de la dinámica federal.",
+    "temas_calientes": [
+        {
+            "tema": "Resistencia al Ajuste Nacional y Defensa de lo Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Desarrollo Energético (RIGI/Vaca Muerta)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Vivienda y Gestión Social",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Educación y Oportunidades Laborales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Rolo_Figueroa",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Obras de Infraestructura y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "En Argentina estamos atravesando un momento difícil. Sin embargo, en #Córdoba seguimos adelante, haciendo todo lo posible para amortiguar y mitigar las consecuencias del ajuste nacional. Por eso es tan importante estar unidos y sostener una agenda común, más allá de los partidos políticos. La agenda de trabajo que hoy realizamos en el departamento Río Segundo, junto a dirigentes de distintos sectores, instituciones, el sector privado y la comunidad, refleja el camino que necesitamos construir. Sería bueno que esta imagen de diálogo y cooperación pudiera replicarse en todo el país. Cuando hay que ajustar o reducir recursos, cada decisión debe pensarse muchas veces: qué se hace, cómo se hace y qué estamos dispuestos a resignar para poder seguir adelante sin abandonar a nuestra gente. En Córdoba estamos actuando como un verdadero amortiguador social y productivo. Nos ven reclamar lo que le corresponde a la provincia, pero al mismo tiempo seguimos gestionando, sosteniendo obras, acompañando a los sectores productivos y cuidando a quienes más lo necesitan.",
+        "por_que_es_clave": "El gobernador de Córdoba (Córdoba) establece un posicionamiento político clave al asumir el rol de su provincia como 'amortiguador social y productivo' ante el ajuste nacional. Este tweet, publicado hoy, es una declaración directa sobre la estrategia provincial frente al gobierno central, apelando a la unidad y la gestión local como respuesta a las dificultades económicas.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Resistencia al ajuste",
+                "Gestión de obras públicas",
+                "Federalismo"
+            ],
+            "postura_politica": "Adopta una postura confrontativa con el Gobierno nacional, identificando a los movimientos sociales y de mujeres como 'vanguardia de la resistencia'. Simultáneamente, destaca la gestión provincial en obras clave, diferenciándose de las políticas de ajuste central.",
+            "frase_fuerte": "Desde que llegó Milei la vanguardia de la resistencia Argentina la tienen las mujeres y las diversidades: lo muestran en las calles, en los sindicatos, en los barrios, en las fábricas, en las universidades y sobre todo, lo han mostrado en las urnas."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Ajuste nacional",
+                "Gestión provincial",
+                "Desarrollo productivo",
+                "Unidad política"
+            ],
+            "postura_politica": "Se posiciona como un gestor pragmático que busca proteger a su provincia (Córdoba) de las consecuencias del ajuste nacional. Promueve el diálogo interpartidario y la proactividad en la gestión local como mecanismo de contención social y económica.",
+            "frase_fuerte": "En Córdoba estamos actuando como un verdadero amortiguador social y productivo. Nos ven reclamar lo que le corresponde a la provincia, pero al mismo tiempo seguimos gestionando, sosteniendo obras, acompañando a los sectores productivos y cuidando a quienes más lo necesitan."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inversión",
+                "Energía (Vaca Muerta)",
+                "Infraestructura vial",
+                "Educación",
+                "Servicios públicos"
+            ],
+            "postura_politica": "Destaca el liderazgo de Neuquén (Neuquén) en atracción de inversiones RIGI en Vaca Muerta, afianzando su rol como polo energético. Impulsa obras de infraestructura educativa y vial, además de programas de subsidios energéticos, reflejando una gestión orientada al desarrollo y bienestar local.",
+            "frase_fuerte": "NEUQUEN SUMA UN NUEVO PROYECTO RIGI ENTRE GEOPARK y GyP"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Servicios públicos",
+                "Educación",
+                "Desarrollo minero",
+                "Balance de gestión"
+            ],
+            "postura_politica": "Enfocado en la gestión provincial y la concreción de obras y programas con recursos propios, mostrando un 'rumbo' claro para Río Negro (Río Negro). Aborda desde la expansión del gas y la infraestructura hospitalaria hasta la promoción educativa y el potencial minero.",
+            "frase_fuerte": "Gas y más obras para Jacobacci. Tenemos rumbo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Cultura",
+                "Historia",
+                "Identidad"
+            ],
+            "postura_politica": "Realza el valor cultural e histórico de Salta (Salta), celebrando hitos como el 25º aniversario de su Orquesta Sinfónica. Su discurso se centra en el orgullo por la identidad provincial y la promoción del arte.",
+            "frase_fuerte": "La Orquesta Sinfónica de Salta es un orgullo de nuestra provincia y parte de una identidad cultural que venimos construyendo entre todos desde hace 25 años."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Educación",
+                "Deporte",
+                "Programas sociales"
+            ],
+            "postura_politica": "Enfocado en la gestión de programas sociales y de infraestructura que impactan directamente en la calidad de vida de los puntanos (San Luis). Prioriza la política de vivienda, la promoción educativa con bicicletas 'TUBI' y el fomento del deporte para empleados públicos.",
+            "frase_fuerte": "La política de Vivienda volvió a San Luis y llegó para quedarse."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Recuperación histórica",
+                "Desarrollo productivo",
+                "Identidad"
+            ],
+            "postura_politica": "Destaca la recuperación de proyectos históricos como el tren en el norte de Santa Cruz (Santa Cruz) como un símbolo de avance y de 'Santa Cruz Puede'. Su mensaje enfatiza la voluntad de revertir años de abandono y de impulsar el desarrollo productivo y la identidad provincial.",
+            "frase_fuerte": "HACE 48 AÑOS EL TREN SE APAGÓ EN EL NORTE DE SANTA CRUZ… HOY LO ESTAMOS RECUPERANDO"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Vivienda",
+                "Gestión social",
+                "Dignidad"
+            ],
+            "postura_politica": "Subraya el impacto tangible de su gestión en la vida de los ciudadanos de Santa Fe (Santa Fe) a través de la entrega de escrituras de viviendas. Su discurso resalta el esfuerzo de las familias y la tranquilidad que brinda la titularidad del hogar.",
+            "frase_fuerte": "Poder acompañar esa alegría desde nuestra gestión en el @gobsantafe es lo más gratificante, porque sé muy bien el esfuerzo de años que hay detrás de cada hogar y hoy al entregar la titularidad, se garantiza esa tranquilidad de saber que el techo por el que trabajaron tanto es 100% suyo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Educación",
+                "Carrera docente",
+                "Oportunidades laborales"
+            ],
+            "postura_politica": "Prioriza la educación como eje fundamental para el futuro de Santiago del Estero (Santiago del Estero), enfocándose en la valorización de los docentes. Anuncia un importante ofrecimiento de cargos, consolidando la estabilidad laboral y el sistema educativo provincial.",
+            "frase_fuerte": "la educación es una prioridad y los docentes son protagonistas fundamentales en la construcción de un mejor futuro."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Educación superior",
+                "Infraestructura cultural",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Se enfoca en la descentralización de la educación superior y la mejora de espacios públicos y culturales en el interior de Tucumán (Tucumán). Demuestra un compromiso con el acceso a la formación y el fortalecimiento de la identidad de las comunidades locales.",
+            "frase_fuerte": "Para nosotros, la educación no es un gasto, sino una inversión estratégica en el presente y el futuro de Tucumán."
+        }
+    ]
+}
