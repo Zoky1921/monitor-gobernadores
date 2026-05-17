@@ -1,0 +1,100 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "Los gobernadores se focalizan hoy en la gestión provincial y el diálogo estratégico con Nación. Resalta la priorización de obras públicas con fondos propios en Río Negro y Córdoba, así como la recuperación de infraestructura ferroviaria en Santa Cruz. Neuquén busca consenso con el Gobierno Nacional para el desarrollo de Vaca Muerta, mientras la Ciudad de Buenos Aires celebra un récord en un evento deportivo internacional. La jornada refleja un enfoque en la autonomía y la búsqueda de oportunidades locales, con una interacción constructiva, aunque firme, en el ámbito federal.",
+    "analisis_profundo": "La agenda de los gobernadores muestra un fuerte anclaje en la gestión local y la inversión en infraestructura. Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro) destacan la ejecución de obras significativas con recursos provinciales, subrayando una estrategia de autofinanciamiento y autonomía frente a un contexto nacional complejo. Weretilneck (Río Negro) también enfatiza una postura contundente en seguridad, combatiendo el narcotráfico con operaciones específicas. Claudio Vidal (Santa Cruz) marca la recuperación de infraestructura ferroviaria histórica como un símbolo de desarrollo y cambio para su provincia. En el plano federal, Rolando Figueroa (Neuquén) se posiciona en el diálogo con el Gobierno Nacional, buscando consenso para el Régimen de Incentivo a Grandes Inversiones (RIGI) y el impulso de Vaca Muerta, evidenciando una gestión pragmática que defiende los intereses neuquinos en políticas nacionales clave. Jorge Macri (Ciudad de Buenos Aires) utiliza un logro deportivo internacional para proyectar la imagen global y turística de su distrito. La tónica general es de un federalismo activo, donde las provincias buscan soluciones y oportunidades desde su esfera de acción, ya sea con recursos propios o a través de una negociación estratégica con el poder central, sin registrarse tensiones abiertas en la jornada de hoy.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Obra Pública",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo Energético e Inversiones",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Federalismo y Relación Nación-Provincias",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Promoción de la Ciudad y Eventos Internacionales",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "EL DIÁLOGO ES EL CAMINO Nos reunimos con @diegosantilli para avanzar en la hoja de ruta que trazamos para abordar temas estratégicos para la provincia con el Gobierno Nacional. El acompañamiento de Nación con el RIGI para el upstream representa una oportunidad para impulsar el desarrollo de Vaca Muerta y fortalecer el crecimiento de Neuquén. Vamos a buscar consenso en aquello que favorezca a los neuquinos y defender siempre los intereses de la provincia.",
+        "por_que_es_clave": "El gobernador de Neuquén expone una postura central en las dinámicas federales: la búsqueda de consenso con el Gobierno Nacional para políticas económicas clave como el RIGI, que impacta directamente en el desarrollo de Vaca Muerta. Este tweet sintetiza la tensión entre intereses provinciales y marcos regulatorios nacionales, en un día que no presenta otros grandes focos de conflicto.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Deportes",
+                "Turismo",
+                "Promoción de la Ciudad"
+            ],
+            "postura_politica": "Destaca el rol de la Ciudad (CABA) como sede de eventos internacionales de gran envergadura. Proyecta una imagen de Buenos Aires como capital global, potenciando el turismo y el prestigio, incluso a través de retweets de resultados deportivos que reflejan récords de asistencia.",
+            "frase_fuerte": "BUENOS AIRES HAS SET A NEW 𝗪𝗢𝗥𝗟𝗗-𝗥𝗘𝗖𝗢𝗥𝗗 🇦🇷🏟️"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Gestión Provincial",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Enfatiza la continuidad de la gestión provincial de obras e infraestructura con fondos propios. Destaca el trabajo conjunto con los municipios, pese al contexto económico nacional, y subraya el 'hacer' y el 'crecer' como ejes de su administración en un modelo de federalismo interno.",
+            "frase_fuerte": "En #Córdoba seguimos demostrando que cuando trabajamos juntos, las cosas suceden."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Inversiones",
+                "Vaca Muerta",
+                "Consenso"
+            ],
+            "postura_politica": "Muestra una postura pragmática de diálogo y búsqueda de consenso con el Gobierno Nacional para temas económicos clave, como el Régimen de Incentivo a Grandes Inversiones (RIGI) y el desarrollo de Vaca Muerta. Prioriza la defensa de los intereses de Neuquén en las negociaciones federales.",
+            "frase_fuerte": "Vamos a buscar consenso en aquello que favorezca a los neuquinos y defender siempre los intereses de la provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Gestión Provincial",
+                "Seguridad",
+                "Lucha contra el Narcotráfico"
+            ],
+            "postura_politica": "Destaca la capacidad de Río Negro para ejecutar grandes obras de infraestructura con recursos propios, asegurando servicios esenciales a largo plazo. Adicionalmente, demuestra una firmeza en la política de seguridad y combate al narcotráfico, enfatizando la eficiencia policial y la decisión política provincial.",
+            "frase_fuerte": "Río Negro construye con fondos propios. Ese es el rumbo."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Infraestructura Ferroviaria",
+                "Recuperación Histórica",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Enfatiza la recuperación de infraestructura ferroviaria clave que estuvo abandonada por décadas, como un símbolo de desarrollo y capacidad de su provincia. Proyecta un cambio de rumbo en Santa Cruz basado en la concreción de obras y la visión de futuro.",
+            "frase_fuerte": "Después de décadas de abandono, volvimos a poner en movimiento un vehículo bivial sobre las vías del norte santacruceño."
+        }
+    ]
+}
