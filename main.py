@@ -22,7 +22,7 @@ if not GEMINI_KEY:
 
 MODELO_GEMINI = "gemini-2.5-flash"
 MODELO_DEEPSEEK = "deepseek/deepseek-v3.2"
-MODELO_GROK_SUBTRAMA = "x-ai/grok-4.1-fast"
+MODELO_GROK_SUBTRAMA = "deepseek/deepseek-v4-flash"
 
 # 2. Inicializar Gemini (Librería moderna)
 client = genai.Client(api_key=GEMINI_KEY)
