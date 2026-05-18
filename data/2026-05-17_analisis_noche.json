@@ -1,0 +1,194 @@
+{
+    "clima_general": "DIVERSO",
+    "resumen_ejecutivo": "La agenda provincial de hoy se centró en una gestión local proactiva y el desarrollo económico, con énfasis en infraestructura y promoción de sectores productivos. Gobernadores como Kicillof (Buenos Aires), Macri (CABA), Zdero (Chaco), Torres (Chubut), Llaryora (Córdoba), Quintela (La Rioja), Passalacqua (Misiones), Figueroa (Neuquén), Weretilneck (Río Negro), Poggi (San Luis), Vidal (Santa Cruz) y Suárez (Santiago del Estero) destacaron obras viales, redes de gas y agua, seguridad, fomento al emprendedurismo y la implementación de marcos de inversión como el RIGI. La tónica es la autonomía provincial y la búsqueda de soluciones locales ante desafíos macroeconómicos, consolidando una gestión orientada a la mejora de servicios y la generación de empleo.",
+    "analisis_profundo": "La jornada del 17 de mayo de 2026, incluyendo las últimas horas del día anterior, revela un escenario donde los gobernadores acentúan su rol como gestores directos del desarrollo local. Delinean una agenda propia en contraste con un entorno nacional de incertidumbre económica. La inversión en infraestructura emerge como pilar, manifestado en obras viales (Jorge Macri de CABA, Alberto Weretilneck de Río Negro), redes de gas y agua (Weretilneck de Río Negro) y modernización de espacios comunitarios (Claudio Poggi de San Luis, Hugo Passalacqua de Misiones). Estas iniciativas, a menudo financiadas con fondos provinciales, reflejan una estrategia de amortiguación frente a la paralización de la obra pública nacional.\n\nEn el plano económico, la promoción de la producción y el empleo es una constante. Nacho Torres (Chubut) impulsa el emprendedurismo femenino con herramientas digitales, Ricardo Quintela (La Rioja) postula pueblos al programa 'Best Tourism Villages', y Claudio Vidal (Santa Cruz) inaugura un Mercado Concentrador Patagónico para reducir costos alimentarios y reactivar la cadena de valor. El sector energético y minero también figura, con Rolando Figueroa (Neuquén) destacando la conversación con el Gobierno Nacional sobre el RIGI para Vaca Muerta y un nuevo proyecto de inversión en la misma región. La seguridad pública tuvo su espacio con Leandro Zdero (Chaco) inaugurando una División Rural y Weretilneck (Río Negro) reportando un 'golpe al narcomenudeo'.\n\nEl gobernador Axel Kicillof (Buenos Aires) se enfoca en el análisis de las exportaciones y la propuesta de un 'Movimiento Derecho al Futuro' con una agenda sanitaria federal, marcando una postura de oposición constructiva. Martín Llaryora (Córdoba) enfatiza el progreso a través de obras y la superación de diferencias partidarias a nivel local, una declaración política potente sobre la autonomía provincial y el foco en la gestión.\n\nLa narrativa predominante es de proactividad provincial, capacidad de gestión autónoma y la defensa de los intereses locales ante un contexto macroeconómico desafiante. Hay un claro intento de despolitizar la gestión diaria, enfocándose en la resolución de problemas concretos para los ciudadanos. Esto consolida la imagen de gobernadores como 'escudos' frente a las complejidades nacionales. La dinámica sugiere una búsqueda de resiliencia y autoafirmación provincial, con diálogos puntuales con Nación cuando se trata de marcos estratégicos compartidos.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo productivo y económico local",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Infraestructura estratégica y servicios públicos",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y fortalecimiento policial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Energía e inversiones federales (RIGI)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Gestión local y cohesión social",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "EL DIÁLOGO ES EL CAMINO. Nos reunimos con @diegosantilli para avanzar en la hoja de ruta que trazamos para abordar temas estratégicos para la provincia con el Gobierno Nacional. El acompañamiento de Nación con el RIGI para el upstream representa una oportunidad para impulsar el desarrollo de Vaca Muerta y fortalecer el crecimiento de Neuquén. Vamos a buscar consenso en aquello que favorezca a los neuquinos y defender siempre los intereses de la provincia.",
+        "por_que_es_clave": "Destaca la interacción directa entre la provincia y el gobierno nacional en torno a un marco de inversión federal (RIGI) para un sector estratégico como Vaca Muerta, clave para el desarrollo energético del país y provincial.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Economía",
+                "Salud federal",
+                "Propuesta política"
+            ],
+            "postura_politica": "Presenta datos económicos que reflejan un crecimiento heterogéneo en las exportaciones de la provincia, señalando desafíos en la industria. Además, impulsa una propuesta sanitaria federal desde un movimiento político propio, posicionándose como líder de una alternativa.",
+            "frase_fuerte": "Desde el Movimiento Derecho al Futuro avanzamos en la construcción de una propuesta sanitaria federal; por eso el 28 de mayo, con @Kicillofok a la cabeza, nos encontramos en La Plata para participar del LANZAMIENTO DEL MDF SALUD. Nace el #MDFSalud. ¡HAY OTRO CAMINO!"
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura vial",
+                "Promoción de eventos"
+            ],
+            "postura_politica": "Enfocado en la gestión de infraestructura con el avance de obras clave como la Autopista Dellepiane. También resalta la capacidad de la Ciudad para albergar eventos internacionales, proyectando una imagen de eficiencia y dinamismo urbano.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Seguridad rural",
+                "Equipamiento policial"
+            ],
+            "postura_politica": "Demuestra un compromiso activo con la seguridad en zonas rurales, inaugurando nuevas divisiones y dotando de recursos a la policía. Su mensaje se centra en brindar tranquilidad a las familias y productores chaqueños.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Emprendedurismo",
+                "Conectividad"
+            ],
+            "postura_politica": "Resalta la inversión en programas de fomento a emprendedoras, utilizando la conectividad y la capacitación para generar oportunidades. Subraya el impacto positivo del crecimiento individual en el desarrollo provincial.",
+            "frase_fuerte": "Porque cuando una emprendedora crece, crece toda la provincia."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Desarrollo local",
+                "Deporte",
+                "Gestión multipartidaria"
+            ],
+            "postura_politica": "Afirma una gestión enfocada en el 'Hacer Para Crecer', llevando soluciones a diversas comunidades y superando diferencias partidarias. Promueve el deporte como orgullo provincial y la inversión en infraestructura.",
+            "frase_fuerte": "Nuestro desafío seguirá siendo impulsar el crecimiento de cada localidad a través de nuevas obras, porque cuando los recursos llegan al interior, se genera trabajo, se fortalece la economía local y se crean más oportunidades para nuestra gente."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Turismo sostenible",
+                "Promoción internacional"
+            ],
+            "postura_politica": "Destaca la proyección de pueblos riojanos a nivel mundial a través del turismo, enfatizando un enfoque sostenible e inclusivo. Busca poner en valor la identidad cultural y natural para fortalecer las economías regionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Valores sociales"
+            ],
+            "postura_politica": "Muestra un fuerte compromiso con el fomento del deporte, invirtiendo en infraestructura para ampliar oportunidades de entrenamiento y competencia. Conecta el deporte con la salud, la integración y el futuro de la juventud misionera.",
+            "frase_fuerte": "Siempre digo que el deporte es una escuela de valores. Por eso, invertir en infraestructura deportiva es invertir en salud, integración y en el futuro de nuestros gurises."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Innovación tecnológica",
+                "Gobernanza",
+                "Turismo",
+                "RIGI",
+                "Vaca Muerta",
+                "Diálogo nacional"
+            ],
+            "postura_politica": "Destaca el potencial de Neuquén en tecnología y turismo. Mantiene un diálogo proactivo con el Gobierno Nacional sobre el RIGI y Vaca Muerta, buscando consensos para el desarrollo energético y defendiendo los intereses provinciales.",
+            "frase_fuerte": "El acompañamiento de Nación con el RIGI para el upstream representa una oportunidad para impulsar el desarrollo de Vaca Muerta y fortalecer el crecimiento de Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obras de infraestructura",
+                "Tránsito",
+                "Gas",
+                "Agua",
+                "Vivienda social",
+                "Seguridad",
+                "Narcomenudeo",
+                "Minería",
+                "Respuesta a emergencias"
+            ],
+            "postura_politica": "Enfatiza la inversión provincial en obras 'históricas' de agua y gas, la lucha contra el narcotráfico y el fomento a la minería. Muestra una gestión proactiva con fondos propios, enfocada en la mejora de la calidad de vida y el desarrollo económico regional.",
+            "frase_fuerte": "LA MAYOR OBRA DE AGUA DE LA HISTORIA DE RÍO NEGRO AVANZA EN ROCA."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Emprendedurismo",
+                "Eventos cívico-militares"
+            ],
+            "postura_politica": "Centrado en la cercanía con las comunidades, la promoción de emprendedores locales y la celebración de valores históricos y culturales. Muestra una gestión activa en el interior provincial, fomentando la participación ciudadana.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Abastecimiento",
+                "Costos de alimentos",
+                "Infraestructura ferroviaria"
+            ],
+            "postura_politica": "Impulsa políticas para impactar directamente en el costo de vida, como la puesta en marcha de un Mercado Concentrador. También se enfoca en la recuperación de infraestructura histórica como el tren, simbolizando un nuevo impulso para la provincia.",
+            "frase_fuerte": "ABRIMOS UN NUEVO CAMINO PARA BAJAR EL COSTO DE LOS ALIMENTOS EN SANTA CRUZ PONIENDO EN MARCHA EL NUEVO MERCADO CONCENTRADOR PATAGÓNICO."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Vivienda",
+                "Desarrollo urbano"
+            ],
+            "postura_politica": "Prioriza la entrega de lotes y escrituras para garantizar el acceso a la vivienda, lo que considera una acción gratificante que brinda tranquilidad y seguridad a las familias. Enfatiza el esfuerzo conjunto para el crecimiento provincial.",
+            "frase_fuerte": "'Hoy se me cumplió el sueño', me decían vecinos de #SanLorenzo al entregar 50 escrituras de viviendas."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Tradiciones populares",
+                "Fe",
+                "Unidad"
+            ],
+            "postura_politica": "Destaca la importancia de las tradiciones religiosas y culturales como elementos de cohesión social. Su mensaje es de unidad, esperanza y trabajo compartido en la provincia.",
+            "frase_fuerte": null
+        }
+    ]
+}
