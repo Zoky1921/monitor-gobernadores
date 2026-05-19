@@ -1,0 +1,255 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por un doble registro: gobernadores peronistas como Kicillof y Llaryora intensificaron el ataque al ajuste nacional, mientras que Macri y Frigerio mostraron capacidad de negociación con la Casa Rosada. El resto se refugió en gestión local o silencio estratégico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal dominó el día. Kicillof, con datos duros, denunció una merma de 250 mil millones en coparticipación y reclamó un cambio de modelo. Llaryora, en la misma línea, advirtió que excluir a Córdoba de la zona fría implicaría aumentos de hasta el 100% en el gas. Ambos enviaron un mensaje claro: el ajuste nacional golpea directo al bolsillo de las provincias centrales. Macri, en cambio, mostró la otra cara de la moneda: logró un acuerdo para cancelar la deuda de coparticipación, sin incluir la gestión anterior, lo que lo posiciona como el interlocutor eficaz frente al gobierno libertario.\n\nActo 2 — Los Alineamientos: Se consolidan dos bloques. Por un lado, el núcleo duro anti Milei: Kicillof, Llaryora, Ziliotto, Insfran y Quintela, que usan la agenda local como plataforma de resistencia. Por el otro, los gobernadores dialoguistas: Macri, Frigerio, Cornejo, Weretilneck y Saenz, que gestionan con Nación y obtienen respuestas concretas (acuerdos de deuda, financiamiento para obras, RIGI). En el medio, una mayoría silenciosa (Zdero, Jalil, Passalacqua, etc.) que evitan posicionamientos nacionales y se refugian en obras de cabotaje.\n\nActo 3 — La Micro-política: Las provincias periféricas como Formosa, Chaco y Santiago del Estero desplegaron una agenda de gestión pura: inauguraciones, operativos de asistencia y efemérides. No hay señales de conflicto con Nación, pero tampoco de respaldo. Es un repliegue calculado: evitan la confrontación para no perder lo que queda de fondos. En Catamarca, Jalil solo tuvo un retweet de una campaña internacional, lo que sugiere que el gobernador minero está más enfocado en la diplomacia corporativa que en la política local.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada deja un saldo agridulce. Por un lado, la negociación con Macri y Frigerio muestra que hay canales abiertos. Por el otro, la ofensiva de Kicillof y Llaryora evidencia que el conflicto fiscal no se descomprime. El silencio de provincias como Jujuy, San Juan y Tierra del Fuego sugiere que están esperando definiciones de inversiones mineras y energéticas, mientras que el gobierno nacional necesita resolver la zona fría para no sumar un nuevo frente de conflicto.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto fiscal y recortes de coparticipación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Modificación del régimen de Zona Fría",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Negociaciones por deuda y financiamiento provincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Gestión de obras y servicios con fondos propios",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Minería y RIGI",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Logramos un acuerdo con el Gobierno Nacional para cancelar la deuda por la coparticipación acumulada durante el último año. Después de meses de trabajo conjunto, diálogo permanente con el ministro de Economía, Luis Caputo, y voluntad de ambas partes para resolver esta situación, logramos avanzar en una solución concreta. Este nuevo acuerdo alcanzado mediante el diálogo constructivo entre las partes no incluye el pago de la deuda generada por el kirchnerismo durante el gobierno de Alberto Fernández.",
+        "por_que_es_clave": "Macri se presenta como el gestor eficaz que logra lo que otros no: un acuerdo con Nación para recuperar fondos, al mismo tiempo que se despega del kirchnerismo. Es una jugada de doble rentabilidad: recursos para CABA y capital político para su perfil presidencial.",
+        "pregunta_openarg": "¿Cuánto de la deuda de coparticipación que Macri negoció es real y cuánto es un adelanto de fondos que ya estaban presupuestados?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Cultura y patrimonio",
+                "Coparticipación y crisis nacional",
+                "Símbolos patrios"
+            ],
+            "postura_politica": "Usa la reapertura de un museo y el día de la escarapela como marco para, a través de un retweet de su ministro, lanzar una andanada de datos contra el modelo Milei. La subtexto es: 'yo gestiono mientras Nación abandona'. La omisión de mencionar a la oposición directa en los tweets propios sugiere que busca no sobreactuar, pero el retweet de Bianco es una declaración de guerra fiscal.",
+            "frase_fuerte": "El presidente Milei tiene que cambiar este modelo económico."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Deuda de coparticipación",
+                "Acuerdo con Nación",
+                "Diferenciación con kirchnerismo"
+            ],
+            "postura_politica": "Macri capitaliza la negociación mostrándose como el único que puede sentarse a la mesa con Caputo y obtener resultados. Al excluir la deuda del gobierno de Alberto Fernández, refuerza su relato de 'ellos destruyeron, nosotros arreglamos'. Es un posicionamiento de cara a 2027.",
+            "frase_fuerte": "Este nuevo acuerdo no incluye el pago de la deuda generada por el kirchnerismo."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Relaciones internacionales (retweet de campaña)"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. El único tweet del día es un retweet de una campaña de Plan UK, sin contenido provincial. Sugiere que Jalil está enfocado en la gestión minera y diplomática, pero en esta jornada no hay señales políticas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obras hospitalarias",
+                "Pavimento",
+                "Deporte",
+                "Operativo Interfluvio"
+            ],
+            "postura_politica": "Gestión pura: inauguraciones, anuncios de obras y asistencia social. No hay mención a Nación ni a conflicto. Es un repliegue en la agenda de cabotaje para mostrar gestión sin roces. La omisión de la macroeconomía es un mensaje en sí mismo: en Chaco no hay espacio para la confrontación, solo para la administración de la pobreza.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "Financiamiento productivo",
+                "Recorrida de obras"
+            ],
+            "postura_politica": "Llaryora se planta como el defensor de los cordobeses frente a un proyecto nacional que, según él, castiga a más de 600 mil hogares. Convocó a intendentes y usó la Mesa Provincia-Municipio para unificar el rechazo. Es una jugada de posicionamiento: construye liderazgo regional al mismo tiempo que desafía al gobierno libertario.",
+            "frase_fuerte": "No podemos permitir que esta ley avance. Sacar a Córdoba de la zona fría es una locura."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Régimen de Inversiones (RINI)",
+                "Transparencia fiscal",
+                "Relaciones con Uruguay",
+                "Negociaciones con Nación"
+            ],
+            "postura_politica": "Frigerio combina gestión local (RINI, transparencia) con una intensa agenda de diálogo con Nación y Uruguay. Se muestra como un gobernador pragmático que gestiona conflictos (refinería en Paysandú) y obtiene respuestas del gobierno nacional. Es el perfil del 'amigo del diálogo' dentro del bloque dialoguista.",
+            "frase_fuerte": "Apoyamos la inversión y el desarrollo en el país hermano Uruguay y creemos que esto no tiene por qué afectar el desarrollo económico y el empleo de la costa entrerriana."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Día de la Escarapela",
+                "Saludo a Madre Paraguaya",
+                "Obras educativas"
+            ],
+            "postura_politica": "Insfran mantiene la impronta peronista clásica: efemérides, vínculos con países vecinos y obras. No hay crítica directa a Nación, pero su discurso de 'justicia social' y 'modelo formoseño' es una reivindicación implícita frente al ajuste. La omisión de la crisis fiscal es calculada: no necesita declarar porque su gestión habla por sí sola.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Defensa de la gente (enlace truncado)"
+            ],
+            "postura_politica": "El tweet es críptico: enlace a más información. La frase 'no abandonamos a nuestra gente' sugiere una postura de resistencia frente a recortes, pero sin detalles. Es un aviso de que algo se viene, pero no da la batalla en el plano simbólico. Probablemente esté reservando munición para otro día.",
+            "frase_fuerte": "En La Pampa no abandonamos a nuestra gente."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Salud",
+                "Día de la Escarapela",
+                "Economía del conocimiento (Huawei)",
+                "Política nacional"
+            ],
+            "postura_politica": "Quintela mezcla gestión con política: habla con diputados del PJ, recibe a senadores y despliega una agenda de obras. La firma con Huawei es su apuesta a la economía del conocimiento. No hay enfrentamiento directo con Nación, pero su pertenencia al peronismo lo alinea con la resistencia. El tweet sobre la escarapela es un guiño a la identidad nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Escuela técnica",
+                "Energía solar",
+                "Minería RIGI"
+            ],
+            "postura_politica": "Cornejo se enfoca en mostrar gestión: inaugura una escuela en tiempo récord y pone en marcha el parque solar más grande del país. El ingreso de PSJ al RIGI es un logro que lo alinea con la política minera del gobierno nacional. Su postura es de apoyo tácito a la Nación, sin críticas.",
+            "frase_fuerte": "Mendoza presidirá por primera vez dos de las principales entidades nacionales vinculadas al sector energético."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Viajes educativos",
+                "Día de la Escarapela",
+                "Hockey",
+                "Exámenes toxicológicos"
+            ],
+            "postura_politica": "Passalacqua despliega una agenda variada que incluye desde deporte hasta controles de grooming. El día de la escarapela y el tweet sobre el recorte de fondos al Parque Nacional Iguazú (de días anteriores) lo posicionan como un defensor de lo local frente a lo nacional, pero sin beligerancia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obras viales y educativas",
+                "Subsidios eléctricos",
+                "RIGI",
+                "Reunión con Santilli"
+            ],
+            "postura_politica": "Figueroa es el gobernador de la obra pública y el diálogo. Anuncia pavimentación, nuevos edificios escolares y una asociación Geopark-GyP para RIGI. La reunión con Santilli muestra que gestiona con Nación. Su postura es de colaboración sin subordinación.",
+            "frase_fuerte": "Estamos ejecutando el plan integral de rutas más importante de la historia de la provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Seguridad (911)",
+                "Hospital",
+                "Exportación snacks",
+                "Narcotráfico",
+                "Fogario"
+            ],
+            "postura_politica": "Weretilneck combina seguridad (nuevo centro de monitoreo, allanamientos) con desarrollo productivo (Fogario) y exportación. El Consejo Federal de Precursores Químicos en Bariloche lo muestra como anfitrión de la lucha contra el narcotráfico. Su postura es de gestión firme y coordinación federal.",
+            "frase_fuerte": "FEDERALISMO ES COORDINAR PARA DAR LA PELEA CONTRA EL NARCOTRÁFICO."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Corredor Bioceánico (ruta 51)",
+                "Salta 2050",
+                "Cultura",
+                "Reclamo de gas"
+            ],
+            "postura_politica": "Saenz avanza en obras estratégicas con financiamiento internacional y reclama por el abastecimiento de gas. El plan Salta 2050 es su apuesta a la planificación de largo plazo. No confronta directamente, pero el reclamo de gas es una presión indirecta a Nación.",
+            "frase_fuerte": "No estamos pidiendo privilegios. Estamos reclamando previsibilidad y un trato justo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Relaciones con UE",
+                "Emprendedurismo",
+                "Viviendas",
+                "Deporte"
+            ],
+            "postura_politica": "Poggi despliega una agenda de gestión tradicional: viviendas, obras y actividades deportivas. La reunión con el embajador de la UE es su jugada de posicionamiento internacional, pero sin contenido político federal. Su postura es de gestión local sin roce nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Mercado concentrador",
+                "Recuperación ferroviaria",
+                "Transparencia presupuestaria",
+                "Justicia"
+            ],
+            "postura_politica": "Vidal Ser apuesta a un cambio de paradigma: rompe con la herencia kirchnerista (TSJ, impunidad) y muestra logros como el avance en transparencia. El mercado concentrador y el tren son gestos de gestión transformadora. Su postura es de oposición al kirchnerismo pero de diálogo con Nación.",
+            "frase_fuerte": "Se terminaron tres décadas de impunidad en Santa Cruz."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Seguridad (reformas penales)",
+                "Medicamentos",
+                "Apoyo universidad",
+                "Alivio de deudas"
+            ],
+            "postura_politica": "Pullaro combina seguridad dura (reformas) con gestión social (medicamentos, alivio de deudas). La crítica a Nación por los medicamentos es velada pero clara: 'la caja de medicamentos vacía que nos dejó el Gobierno Nacional'. Su postura es de firmeza en seguridad y acompañamiento social.",
+            "frase_fuerte": "Frente al retiro de Nación y la caída de envíos de programas vitales como el Plan Remediar, en Santa Fe tomamos la firme decisión de hacernos cargo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Obras educativas",
+                "Smart City",
+                "Aniversario UNSE",
+                "Reuniones institucionales"
+            ],
+            "postura_politica": "Suarez se enfoca en gestión local: inaugura escuelas, entrega viviendas, y promueve el evento Smart City. El aniversario de la universidad pública es un guiño a la defensa de la educación. No hay posicionamiento nacional explícito, pero su pertenencia al peronismo lo alinea con la resistencia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obras (pavimento, salud)",
+                "Reuniones con intendentes",
+                "Justicia",
+                "Acueducto",
+                "Cooperativas"
+            ],
+            "postura_politica": "Jaldo es el gestor incansable: múltiples actos de inauguración y reuniones. La obra del acueducto con financiamiento del BID es su logro del día. No critica a Nación, pero la reunión con diputados nacionales sugiere que gestiona recursos. Su postura es de articulación permanente.",
+            "frase_fuerte": null
+        }
+    ]
+}

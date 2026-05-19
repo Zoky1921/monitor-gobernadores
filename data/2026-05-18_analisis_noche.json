@@ -1,0 +1,232 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por la creciente tensión entre el gobierno nacional y varias provincias, que denuncian el impacto de las políticas centrales. Gobernadores como Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba) lideraron las críticas por recortes de coparticipación y el inminente tratamiento del régimen de Zona Fría. Maximiliano Pullaro (Santa Fe) evidenció la asunción de responsabilidades en salud ante la ausencia de Nación. En contraste, Jorge Macri (Ciudad Autónoma de Buenos Aires) celebró un acuerdo de coparticipación, mientras Alberto Weretilneck (Río Negro) mostró cooperación en seguridad. La mayoría de los mandatarios continuaron enfocados en la gestión local de obra pública, educación y salud con fondos provinciales, reafirmando el federalismo ante el ajuste.",
+    "analisis_profundo": "La dinámica federal del 18 de mayo de 2026 reflejó una jornada de gestión provincial intensa, fuertemente condicionada por la tensión con el gobierno nacional. Gobernadores como Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba) manifestaron un claro rechazo a medidas centrales, poniendo en evidencia el impacto directo de los recortes y la posible modificación del régimen de Zona Fría en la economía de sus habitantes. Kicillof (Buenos Aires) detalló una merma de 250 mil millones de pesos en coparticipación durante el primer trimestre y criticó el modelo económico del Presidente, abogando por un cambio de rumbo y presentando iniciativas para proteger a trabajadores de plataformas. Por su parte, Llaryora (Córdoba), junto a intendentes, unificó una postura enérgica contra la amenaza de aumentos de gas de hasta el 100% en 600 mil hogares cordobeses, al tiempo que lanzó líneas de financiamiento productivo para sostener la actividad económica local y calificar de 'patriota' al sector industrial.\n\nMaximiliano Pullaro (Santa Fe) ilustró la asunción de responsabilidades provinciales, destacando la provisión de medicamentos esenciales ante la 'caja vacía' que, según él, dejó el Gobierno Nacional, y promovió reformas en seguridad para combatir la delincuencia. Sergio Ziliotto (La Pampa) mantuvo su habitual postura defensiva del federalismo, enfatizando que su provincia 'no abandona a su gente' frente a recortes. Osvaldo Jaldo (Tucumán) también articuló gestiones con diputadas nacionales para reactivar obras públicas paralizadas y defender los intereses tucumanos ante la caída de la coparticipación.\n\nEn el polo opuesto, Jorge Macri (Ciudad Autónoma de Buenos Aires) informó sobre un 'diálogo constructivo' que resultó en un acuerdo con el ministro Luis Caputo para cancelar la deuda de coparticipación del último año, diferenciando esta resolución de pasivos kirchneristas. Alberto Weretilneck (Río Negro) mostró un ejemplo de cooperación al iniciar el Consejo Federal de Precursores Químicos junto al Ministerio de Seguridad de la Nación, aunque también sus tweets de seguridad revelaron un delincuente con captura de otra provincia, resaltando la necesidad de coordinación interprovincial.\n\nOtros gobernadores, como Leandro Zdero (Chaco), Ricardo Quintela (La Rioja), Alfredo Cornejo (Mendoza), Hugo Passalacqua (Misiones) y Rolando Figueroa (Neuquén), centraron su agenda en la concreción de obra pública, inauguración de hospitales, viviendas, escuelas y mejoras viales con fondos propios o alianzas estratégicas, como la de Neuquén con YPF. Claudio Poggi (San Luis) buscó activamente inversiones extranjeras, afianzando lazos con la Unión Europea. Gustavo Sáenz (Salta) se enfocó en grandes obras de infraestructura con financiamiento externo (BID) y la planificación a largo plazo. La jornada expuso un panorama donde las provincias buscan soluciones y recursos a nivel local o mediante alianzas interprovinciales, a menudo para suplir la ausencia o el impacto negativo de políticas nacionales. La gestión sigue activa, pero la narrativa dominante es de resistencia y adaptación frente a un contexto económico y político nacional percibido como adverso.",
+    "temas_calientes": [
+        {
+            "tema": "Impacto de políticas nacionales y defensa de fondos provinciales (coparticipación, zona fría)",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Obra Pública (local y reactivación)",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Economía Regional (financiamiento, exportaciones)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Educación y Salud Pública (inversión, garantía de servicios)",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora (RT de @gobdecordoba)",
+        "texto": "Con el respaldo de la Provincia, intendentes de 13 departamentos expresan su firme rechazo al proyecto nacional que busca modificar el régimen de Zona Fría, una medida que podría impactar de lleno en la economía de cientos de miles de familias cordobesas.",
+        "por_que_es_clave": "Este tweet resalta una fuerte oposición provincial y municipal a una medida nacional con impacto directo en la economía familiar, evidenciando una defensa unificada de los intereses locales frente a políticas del gobierno central.",
+        "pregunta_openarg": "¿Esta resistencia coordinada forzará al gobierno nacional a revisar el proyecto o a negociar compensaciones, considerando el costo político y social de afectar a 600 mil hogares en Córdoba?",
+        "fecha": "Mon May 18 23:04:52 +0000 2026",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crisis económica nacional",
+                "Recortes de coparticipación",
+                "Régimen de zona fría",
+                "Derechos laborales",
+                "Gestión cultural"
+            ],
+            "postura_politica": "Enfática oposición al modelo económico nacional, denuncia de recortes y sus consecuencias provinciales. Proactividad en legislación laboral y gestión cultural para compensar carencias.",
+            "frase_fuerte": "Los recursos provinciales sufren el impacto de la crisis económica desatada por el modelo del presidente Milei y los recortes que le impone a nuestra provincia. El mayor componente de la caída está en los recursos de origen nacional: en el primer trimestre de este año, la provincia sufrió una merma de recursos de coparticipación de 250 mil millones de pesos."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Deuda de coparticipación",
+                "Diálogo con Nación"
+            ],
+            "postura_politica": "Pragmatismo y búsqueda de acuerdos con el Gobierno Nacional para resolver controversias económicas, diferenciando claramente la deuda actual de gestiones pasadas. Enfoque en la resolución a través del diálogo constructivo.",
+            "frase_fuerte": "Logramos un acuerdo con el Gobierno Nacional para cancelar la deuda por la coparticipación acumulada durante el último año."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública",
+                "Salud",
+                "Infraestructura",
+                "Deporte"
+            ],
+            "postura_politica": "Gestión orientada a la obra pública y el desarrollo local, con énfasis en la mejora de la calidad de vida y el impulso de infraestructuras clave en salud y deporte.",
+            "frase_fuerte": "Cada cuadra que pavimentamos se traduce en mejor calidad de vida para los chaqueños."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Régimen de Zona Fría",
+                "Financiamiento productivo",
+                "Defensa de la industria"
+            ],
+            "postura_politica": "Lidera la defensa de los intereses provinciales frente a políticas nacionales que considera perjudiciales. Implementa programas de apoyo económico local para mitigar el impacto de la crisis nacional.",
+            "frase_fuerte": "SER INDUSTRIAL EN ARGENTINA ES SER PATRIOTA"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Federalismo",
+                "Defensa de la gente"
+            ],
+            "postura_politica": "Mantiene una postura combativa y defensiva del federalismo y de los intereses pampeanos frente a las políticas nacionales, asumiendo la responsabilidad de su provincia en la protección de sus ciudadanos.",
+            "frase_fuerte": "En La Pampa no abandonamos a nuestra gente, capítulo..."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Vivienda",
+                "Gestión local"
+            ],
+            "postura_politica": "Enfoque en la gestión de infraestructura social y sanitaria, con énfasis en la recuperación post-temporal y la mejora de servicios básicos para la población. Prioriza la acción directa en el territorio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Política habitacional",
+                "Infraestructura urbana"
+            ],
+            "postura_politica": "Gestión activa en políticas de vivienda e infraestructura, con un fuerte componente de continuidad y financiación provincial para proyectos que impactan directamente en el arraigo y la calidad de vida.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Educación",
+                "Turismo interno"
+            ],
+            "postura_politica": "Fomento de la educación y el turismo local a través de programas que buscan superar barreras presupuestarias para los estudiantes, destacando la importancia de las salidas escolares en la formación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura educativa",
+                "Viviendas para mayores",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Continúa con un ambicioso plan de obras de infraestructura con financiamiento provincial, priorizando educación, atención a personas mayores y mejora de la conectividad vial, incluyendo colaboración con empresas como YPF.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad",
+                "Salud",
+                "Vivienda",
+                "Producción",
+                "Federalismo",
+                "Narcotráfico"
+            ],
+            "postura_politica": "Gestión integral centrada en la seguridad (tecnología, coordinación federal), salud (nueva infraestructura), vivienda y apoyo al sector productivo. Destaca la financiación provincial de obras y la confrontación directa con el crimen.",
+            "frase_fuerte": "FEDERALISMO ES COORDINAR PARA DAR LA PELEA CONTRA EL NARCOTRÁFICO"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Desarrollo minero",
+                "Planificación a largo plazo"
+            ],
+            "postura_politica": "Enfoque en grandes obras de infraestructura con financiamiento externo (BID) para fortalecer la conectividad y el desarrollo minero. Promueve la planificación estratégica a largo plazo y el diálogo provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Inversión extranjera",
+                "Vínculos con la Unión Europea"
+            ],
+            "postura_politica": "Búsqueda activa de inversión extranjera directa a través de la vinculación con entidades internacionales, posicionando a la provincia como competitiva para el desarrollo económico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Deporte barrial",
+                "Infraestructura deportiva"
+            ],
+            "postura_politica": "Compromiso con el fomento del deporte barrial como herramienta de inclusión social, apoyando a los clubes y a la comunidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Salud",
+                "Políticas nacionales"
+            ],
+            "postura_politica": "Fuerte postura proactiva en seguridad con reformas legales y operativa, y asunción de responsabilidades que antes eran nacionales en salud. Crítico con el gobierno nacional por la falta de recursos y políticas.",
+            "frase_fuerte": "Acá está caja de medicamentos vacía que nos dejó el Gobierno Nacional, pero nosotros garantizamos nuestra propia caja llena de medicamentos esenciales para cuidar a cada familia de la provincia."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Educación",
+                "Vivienda social",
+                "Infraestructura"
+            ],
+            "postura_politica": "Prioridad en la inversión en infraestructura educativa y vivienda social, destacando el rol de la educación como motor de desarrollo y el compromiso provincial con la igualdad de oportunidades, en un marco de 'mirada federal'.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra pública",
+                "Gestión municipal",
+                "Coparticipación",
+                "Salud",
+                "Educación"
+            ],
+            "postura_politica": "Compromiso con la obra pública y los servicios esenciales a nivel municipal y provincial, a pesar del contexto económico. Búsqueda de recursos nacionales para obras y defensa de la coparticipación.",
+            "frase_fuerte": "En tiempos difíciles, en Tucumán seguimos demostrando que se puede administrar con responsabilidad y al mismo tiempo continuar haciendo obras públicas, llevando infraestructura, salud, seguridad y mejores servicios a cada rincón de la provincia."
+        }
+    ]
+}
