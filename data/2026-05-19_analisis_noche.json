@@ -1,0 +1,256 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una clara polarización entre la gestión provincial y las políticas nacionales. Gobernadores como Axel Kicillof (Buenos Aires), Martín Llaryora (Córdoba), Maximiliano Pullaro (Santa Fe) y Gustavo Melella (Tierra del Fuego) elevaron críticas directas al gobierno central por recortes, desfinanciamiento y el impacto social de sus medidas, particularmente en salud y servicios. En paralelo, numerosas provincias destacaron la continuidad de obras públicas y programas de desarrollo con fondos y gestión propia, buscando mitigar el ajuste y fomentar sus economías regionales, así como la seguridad y la educación. La agenda local se mantuvo activa en infraestructura, desarrollo productivo y lazos internacionales, pero el pulso político estuvo dominado por la tensión con Nación.",
+    "analisis_profundo": "La agenda política federal de hoy, 19 de mayo de 2026, refleja una marcada tensión entre las administraciones provinciales y el Gobierno nacional. El gobernador Axel Kicillof (Buenos Aires) fue particularmente incisivo, denunciando una 'catástrofe sanitaria' producto del 'abandono explícito' nacional y la desregulación de las prepagas, adhiriendo a una marcha federal por la salud. Esta postura es replicada por Martín Llaryora (Córdoba), quien rechazó la quita de subsidios al gas por el régimen de Zona Fría, instando a los legisladores nacionales a defender los intereses cordobeses. De igual forma, Maximiliano Pullaro (Santa Fe) criticó al gobierno central por dejar 'cajas de medicamentos vacías' y solicitó más herramientas para la justicia, incluyendo la baja de la edad de imputabilidad. Gustavo Melella (Tierra del Fuego), por su parte, impulsó una reforma constitucional para 'terminar con privilegios de la política' y 'corregir lo injusto', en una aparente referencia a la búsqueda de autonomía y eficiencia provincial frente al contexto nacional.\n\nFrente a este escenario de ajuste, la mayoría de los gobernadores resaltaron la importancia de la obra pública y el desarrollo con fondos propios. Kicillof (Buenos Aires) destacó inversiones en educación y deporte, mientras que Leandro Zdero (Chaco) y Gildo Insfrán (Formosa) enfatizaron en seguridad y salud. Sergio Ziliotto (La Pampa) anunció la reducción de impuestos para sectores clave y Ricardo Quintela (La Rioja) celebró la expansión de Internet para Todos. Alfredo Cornejo (Mendoza) promovió la provincia como sede de grandes eventos deportivos y Omar Gutiérrez (Neuquén) consolidó el 'Modelo Neuquino' con obras eléctricas y sociales. Alberto Weretilneck (Río Negro) y Claudio Poggi (San Luis) también presentaron importantes avances en viviendas, gas natural y seguridad. Osvaldo Jaldo (Tucumán) supervisó obras y promovió economías regionales como la cañera y el café.\n\nLa promoción económica y la búsqueda de inversiones internacionales fueron otra constante. Raúl Jalil (Catamarca) estuvo en la Feria SIAL China, Rogerio Frigerio (Entre Ríos) celebró la integración MERCOSUR-UE, y Carlos Sadir (Jujuy) recibió al embajador de Suecia. Estos esfuerzos subrayan una estrategia provincial activa para generar desarrollo y empleo frente a las dificultades macroeconómicas. En general, la jornada expuso una federalización de la gestión y una clara redefinición de roles, donde las provincias asumen responsabilidades históricamente compartidas con la Nación, al tiempo que aumentan las voces críticas al modelo centralista.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica y Afrontamiento del Ajuste Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Impulso a la Obra Pública y Desarrollo con Fondos Provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Promoción Económica, Atracción de Inversiones y Vínculos Internacionales",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@frigeriorogelio",
+                "@carlossadirjuy",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Seguridad y la Justicia Provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Reforma del Estado y Gobernanza Local",
+            "gobernadores_involucrados": [
+                "@gustavomelella"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Atravesamos una verdadera catástrofe sanitaria en la que miles de familias sufren el abandono explícito del Gobierno nacional. Producto de la crisis económica y la desregulación de la medicina prepaga más de 742 mil personas perdieron su cobertura de obra social. En muy poco tiempo, el ajuste, la interrupción en la entrega de medicamentos y la eliminación de programas generaron un aumento sin precedentes en la mortalidad infantil, la mortalidad materna y las internaciones por causas evitables. Pero la Provincia y los municipios no nos quedamos de brazos cruzados. Una vez más, junto a los intendentes nos estamos haciendo cargo de la situación y brindando todas las respuestas que están a nuestro alcance, aun con nuestros sistemas de salud sobrecargados. Por eso adherimos a la marcha federal por el acceso y el derecho a la salud de todos los argentinos. Muchas gracias a las y los intendentes de todas las fuerzas políticas que nos están acompañando en este reclamo que es para cumplir con el único pacto que tenemos, que es con el pueblo bonaerense.",
+        "por_que_es_clave": "Este tweet del gobernador de Buenos Aires (Axel Kicillof) es clave porque realiza una crítica frontal y detallada a las políticas del Gobierno nacional en materia de salud, atribuyéndoles una 'catástrofe sanitaria'. Utiliza datos concretos de pérdida de cobertura y aumento de mortalidad, posicionando a la provincia como un 'amortiguador' de la crisis y convocando a una 'marcha federal'. Su mensaje es un llamado a la acción colectiva y reafirma la primacía del compromiso provincial frente a la 'indiferencia' central.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Obra Pública",
+                "Ciencia y Tecnología",
+                "Crítica a Nación"
+            ],
+            "postura_politica": "Defensor acérrimo de la salud pública y la inversión estatal, se posiciona como gestor que asume responsabilidades no cubiertas por la Nación. Crítico del 'abandono explícito del Gobierno nacional' y sus consecuencias en áreas sensibles como la salud.",
+            "frase_fuerte": "Atravesamos una verdadera catástrofe sanitaria en la que miles de familias sufren el abandono explícito del Gobierno nacional."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Comercio Exterior",
+                "Promoción Productiva",
+                "Apertura de Mercados"
+            ],
+            "postura_politica": "Activo en la búsqueda de oportunidades comerciales internacionales para la producción provincial, con foco en mercados estratégicos como China y Asia. Procura fortalecer vínculos comerciales y el crecimiento de empresas locales.",
+            "frase_fuerte": "China y Asia son hoy una puerta estratégica para nuestras exportaciones. Estar presentes en estos espacios nos permite mostrar la calidad de lo que produce Catamarca, fortalecer vínculos comerciales y acompañar el crecimiento de nuestras empresas y productores."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Seguridad",
+                "Salud Pública",
+                "Gestión Local"
+            ],
+            "postura_politica": "Enfocado en la modernización y fortalecimiento de la seguridad. También busca acercar servicios de salud esenciales a la población rural y urbana a través de operativos de atención médica gratuita y especializada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Servicios Básicos",
+                "Subsidios al Gas",
+                "Federalismo",
+                "Crítica a Nación"
+            ],
+            "postura_politica": "Defensor de la inversión en infraestructura local y los subsidios al gas. Crítico de las políticas nacionales que 'ponen en riesgo' a los hogares cordobeses, llamando a la unidad provincial y a la defensa del federalismo.",
+            "frase_fuerte": "Rechazamos la quita de subsidios al gas en #Córdoba."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Integración Económica Internacional",
+                "Fomento de la Inversión Privada",
+                "Reducción de Impuestos"
+            ],
+            "postura_politica": "Promotor de la integración de la provincia al mercado global, especialmente con el MERCOSUR-UE. Incentiva la inversión privada con exenciones impositivas, destacando el rol del Estado como facilitador del crecimiento y desarrollo.",
+            "frase_fuerte": "Gran noticia para quienes creemos que el camino es la integración al mundo. Más aún, con el Acuerdo MERCOSUR-UE en marcha. Entre Ríos tiene todo para aprovechar este escenario. Y lo vamos a hacer."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Relaciones Internacionales",
+                "Minería",
+                "Energía",
+                "Tecnología"
+            ],
+            "postura_politica": "Busca fortalecer vínculos diplomáticos y atraer inversiones extranjeras en sectores estratégicos para el desarrollo provincial, como la minería, la energía, la tecnología y la electromovilidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Reducción de Impuestos",
+                "Fomento Productivo",
+                "Empleo Rural",
+                "Formación de RRHH",
+                "Crítica Implícita a Nación"
+            ],
+            "postura_politica": "Impulsa políticas de estímulo fiscal para el sector productivo y la inversión en capital humano. Articula con el sector privado y gremios rurales, enfatizando el rol provincial de no 'abandonar a la gente' frente a la situación nacional.",
+            "frase_fuerte": "La Pampa: seguimos reduciendo impuestos a los que arriesgan, invierten y generan empleo."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Educación Pública",
+                "Conectividad",
+                "Relaciones Internacionales"
+            ],
+            "postura_politica": "Reafirma el compromiso con la educación pública, garantizando cargos docentes. Destaca la expansión de la conectividad como un derecho y busca la cooperación internacional para el desarrollo y el intercambio.",
+            "frase_fuerte": "Reafirmamos nuestro compromiso con la educación pública con cada decisión que tomamos."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Turismo",
+                "Desarrollo Económico",
+                "Regularización Dominial",
+                "Deporte Internacional"
+            ],
+            "postura_politica": "Posiciona a Mendoza como sede de grandes eventos internacionales para impulsar el turismo y la economía local. Impulsa programas de acceso a la propiedad para brindar seguridad jurídica a las familias.",
+            "frase_fuerte": "Mendoza volverá a recibir a Los Pumas en un nuevo test match internacional frente a Australia, el próximo 5 de septiembre en el estadio Malvinas Argentinas."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Gestión Local",
+                "Patrimonio Cultural",
+                "Medio Ambiente"
+            ],
+            "postura_politica": "Enfoque en el trabajo conjunto con los municipios para resolver problemas locales. Valora y promueve el patrimonio histórico y cultural de la provincia, destacando su liderazgo ambiental.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo Energético",
+                "Infraestructura Eléctrica",
+                "Obra Social",
+                "Modelo Provincial"
+            ],
+            "postura_politica": "Promueve el 'Modelo Neuquino' como clave para el superávit energético y el empleo, resaltando la articulación de actores. Asegura inversiones en infraestructura eléctrica y social para el equilibrio territorial y el desarrollo de Vaca Muerta.",
+            "frase_fuerte": "NEUQUÉN ES MÁS QUE UNA ROCA, ES UN MODELO DE DESARROLLO"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo Regional",
+                "Crecimiento Económico",
+                "Obra Pública",
+                "Viviendas",
+                "Seguridad"
+            ],
+            "postura_politica": "Proyecta a Río Negro como una región pujante con grandes inversiones y futuro energético. Destaca la inversión provincial en obras esenciales como viviendas, hospitales y seguridad local con fondos propios.",
+            "frase_fuerte": "LA NORPATAGONIA SE CONSOLIDA COMO LA REGIÓN MÁS PUJANTE DE NUESTRO PAÍS"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Infraestructura Urbana",
+                "Vivienda",
+                "Seguridad",
+                "Reinserción Social"
+            ],
+            "postura_politica": "Impulsa proyectos de infraestructura local (deportes, gas natural), programas de acceso a la vivienda y legalización de propiedades. También se enfoca en la seguridad y la reinserción social a través de capacitaciones y talleres.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Seguridad",
+                "Justicia Penal",
+                "Salud Pública",
+                "Crítica a Nación"
+            ],
+            "postura_politica": "Impulsa obras de infraestructura largamente esperadas y aboga por mayor dureza en la justicia penal, incluyendo la baja de imputabilidad. Critica al gobierno nacional por recortes en salud, asumiendo la provisión provincial de medicamentos.",
+            "frase_fuerte": "El @GobSantaFe viene haciendo un gran esfuerzo para cuidar a los santafesinos. Rosario está recuperando la paz y los espacios públicos, pero no podemos retroceder o ser blandos con quienes matan o están con armas en la calle preparados para hacer daño."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Servicios Básicos",
+                "Vivienda",
+                "Eventos Tecnológicos"
+            ],
+            "postura_politica": "Enfocado en la expansión de infraestructura básica (agua, electricidad) y viviendas sociales en el interior provincial. Promueve eventos de innovación urbana como el Smart City Expo para posicionar a la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Reforma Constitucional",
+                "Privilegios Políticos",
+                "Gobernanza"
+            ],
+            "postura_politica": "Defensor de una reforma constitucional para modernizar la provincia y eliminar 'privilegios de la política', buscando una gestión más justa y eficiente. Subraya la decisión provincial de 'corregir lo injusto' y garantizar ayuda directa a los ciudadanos.",
+            "frase_fuerte": "La reforma constitucional propone eso: darle un nuevo impulso a Tierra del Fuego, terminar con privilegios de la política y avanzar hacia una provincia más justa."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Producción Regional",
+                "Desarrollo Económico",
+                "Financiamiento"
+            ],
+            "postura_politica": "Activo en la supervisión de obras de infraestructura (muchas con fondos provinciales), promoción de economías regionales (azúcar, café) y búsqueda de financiamiento para la diversificación productiva, con un enfoque en generar empleo local.",
+            "frase_fuerte": "Cada nueva producción que nace en Tucumán representa más oportunidades, más trabajo y más desarrollo para nuestra gente."
+        }
+    ]
+}
