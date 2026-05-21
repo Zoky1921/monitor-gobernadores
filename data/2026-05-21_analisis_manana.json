@@ -1,0 +1,166 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron la agenda del 21 de mayo de 2026 en intensificar la gestión y el desarrollo provincial, priorizando obras de infraestructura clave en vivienda, salud y educación, así como la promoción económica local. Este enfoque se manifestó en un contexto de tensiones con el gobierno nacional, particularmente evidente en el enérgico rechazo a la eliminación del régimen de 'Zona Fría' por parte de La Pampa (Sergio Ziliotto) y San Luis (Claudio Poggi). La proactividad en la búsqueda de financiamiento externo y el fortalecimiento de lazos internacionales por parte de Neuquén (Rolo Figueroa) y Tucumán (Osvaldo Jaldo) también marcaron la jornada, buscando alternativas a los recortes federales.",
+    "analisis_profundo": "La jornada del 21 de mayo de 2026, hasta el mediodía, revela una polarización en la agenda federal, con un fuerte énfasis en la gestión provincial autónoma, a menudo en abierta crítica o como respuesta a políticas nacionales. Un punto de alta tensión lo constituyó el rechazo de los gobernadores Sergio Ziliotto (La Pampa) y Claudio Poggi (San Luis) a la media sanción en Diputados que elimina el régimen de 'Zona Fría'. Ambos mandatarios alertaron sobre el 'golpe directo al bolsillo' y los 'aumentos exponenciales' en tarifas de gas para millones de familias, pidiendo a sus senadores nacionales que defiendan los intereses provinciales. Ziliotto (La Pampa) complementó esta postura destacando la fortaleza fiscal de su provincia para garantizar salarios mínimos sobre la línea de pobreza, en contraste con el 'ahogo financiero nacional'.\n\nEn el ámbito de la infraestructura y obra pública, se observó una notable actividad por parte de las provincias que impulsan proyectos con recursos propios o a través de gestiones específicas. Leandro Zdero (Chaco) anunció avances en viviendas sociales y respaldo a la reforma de la Ley de Cabotaje para reducir costos logísticos, buscando beneficiar a los productores regionales. Rolo Figueroa (Neuquén) presentó una flota de colectivos eléctricos y detalló progresos en infraestructura vial, mientras que Alberto Weretilneck (Río Negro) lideró debates sobre el Plan Director del Cerro Catedral y el gasoducto Tratayén-San Antonio Oeste, fundamentales para el desarrollo turístico y energético. Claudio Vidal (Santa Cruz) también destacó obras de urbanización y empleo en Puerto Santa Cruz.\n\nLa educación y la modernización fueron ejes centrales en varias provincias. Alfredo Cornejo (Mendoza) resaltó su participación en un evento sobre educación y la implementación de IA para mejorar aprendizajes, mientras que Rolo Figueroa (Neuquén) enfatizó la continuidad de las becas 'Gregorio Álvarez' como política educativa única. En el plano de la promoción económica y fiscal, Hugo Passalacqua (Misiones) anunció medidas para reducir cargas fiscales al sector productivo y mejorar la competitividad, junto con la inauguración de centros de salud. Finalmente, Osvaldo Jaldo (Tucumán) mantuvo una intensa agenda de reuniones con embajadores de Ucrania, Alemania e Israel, buscando fortalecer lazos de cooperación, exportaciones y proyectos en innovación y tecnología, una clara señal de una política exterior provincial activa frente a un escenario nacional complejo. La jornada subraya la resiliencia y la búsqueda de autonomía de las provincias para proteger a sus ciudadanos y fomentar el desarrollo local ante los desafíos macroeconómicos y las reconfiguraciones de poder entre Nación y las jurisdicciones.",
+    "temas_calientes": [
+        {
+            "tema": "Defensa de Subsidios y Autonomía Fiscal (Zona Fría)",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Obra Pública Local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Económico Regional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Educación y Capital Humano",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Relaciones Internacionales con Mirada Federal",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo",
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@claudiojpoggi",
+        "texto": "Esta media sanción de la Cámara de Diputados de la Nación eliminando la calificación de zona fría para San Luis afecta directamente el bolsillo de miles de familias Sanluiseñas. Espero que, ahora que pasa al Senado, nuestros Senadores de San Luis, NO acompañen este proyecto. Perjudica a San Luis.",
+        "por_que_es_clave": "Representa la crítica más directa y explícita de un gobernador a una medida legislativa nacional de impacto económico negativo para su provincia, destacando la tensión fiscal entre Nación y provincias.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Ley de Cabotaje",
+                "Desarrollo logístico"
+            ],
+            "postura_politica": "Proactiva en la gestión local de viviendas y obras sociales. Impulsa la competitividad regional a través de reformas logísticas nacionales para reducir costos y fomentar la producción.",
+            "frase_fuerte": "Más de 30 familias de San Bernardo dieron un paso más hacia el sueño de la vivienda propia a través de un sorteo público. 🏡"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Política salarial",
+                "Autonomía fiscal",
+                "Impacto de políticas nacionales"
+            ],
+            "postura_politica": "Defensor de la autonomía provincial y los derechos laborales, garantizando un alto salario mínimo. Critica el 'ahogo financiero nacional' y la quita de derechos en la discusión federal.",
+            "frase_fuerte": "En La Pampa, agentes públicos con familia tipo percibirán en mayo un sueldo mínimo garantizado de bolsillo de $1.600.000."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Medios de comunicación",
+                "Federalismo comunicacional"
+            ],
+            "postura_politica": "Promueve la visibilidad de las realidades provinciales en medios nacionales, abogando por un federalismo en la comunicación que integre las voces e identidades regionales.",
+            "frase_fuerte": "Que un medio nacional apueste por una repetidora en La Rioja también fortalece una mirada más federal de la comunicación, visibilizando nuestras voces, nuestras realidades y nuestra identidad."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Educación",
+                "Innovación tecnológica",
+                "Inteligencia Artificial",
+                "Coordinación interprovincial"
+            ],
+            "postura_politica": "Enfocado en la modernización educativa y el desarrollo tecnológico, promueve la colaboración interprovincial para la mejora de políticas públicas y la preparación de jóvenes para el futuro laboral.",
+            "frase_fuerte": "La educación necesita políticas sostenidas, innovación y tecnología aplicada para ampliar oportunidades y preparar mejor a los jóvenes para el mundo que viene."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Alivio fiscal",
+                "Competitividad productiva",
+                "Salud pública local"
+            ],
+            "postura_politica": "Impulsa medidas fiscales para el sector productivo y fortalece la atención primaria de salud, destacando la gestión conjunta con municipios como clave para el desarrollo local.",
+            "frase_fuerte": "Menos costos, más competitividad y más empleo para la provincia."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Movilidad sostenible",
+                "Infraestructura vial",
+                "Becas educativas",
+                "Financiamiento internacional"
+            ],
+            "postura_politica": "Abocado al desarrollo urbano sostenible y la mejora de la infraestructura, destacando programas educativos innovadores y la búsqueda de financiamiento externo para obras estratégicas.",
+            "frase_fuerte": "LAS BECAS GREGORIO ÁLVAREZ SON UN PROGRAMA ÚNICO EN EL PAÍS Y EN LATINOAMÉRICA"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Planificación urbana",
+                "Desarrollo energético",
+                "Infraestructura de salud",
+                "Educación bilingüe",
+                "Participación ciudadana"
+            ],
+            "postura_politica": "Impulsa el desarrollo provincial a través de la planificación estratégica, la inversión en infraestructura clave y la participación ciudadana en debates sobre el futuro energético y turístico, destacando el rol de Río Negro en la agenda nacional.",
+            "frase_fuerte": "Río Negro no le teme al debate ni le cierra la puerta al desarrollo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Oposición a eliminación Zona Fría",
+                "Vivienda",
+                "Educación",
+                "Seguridad fronteriza",
+                "Gas natural",
+                "Infraestructura local"
+            ],
+            "postura_politica": "Firme opositor a políticas nacionales que perjudican económicamente a la provincia. Se enfoca en la gestión local de servicios básicos e infraestructura, mejorando la seguridad y la calidad de vida de los ciudadanos.",
+            "frase_fuerte": "Esta media sanción de la Cámara de Diputados de la Nación eliminando la calificación de zona fría para San Luis afecta directamente el bolsillo de miles de familias Sanluiseñas."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Generación de empleo",
+                "Ordenamiento urbano"
+            ],
+            "postura_politica": "Enfoque en la inversión en obras públicas para el ordenamiento urbano y la creación de empleo, a través de programas de entrenamiento laboral. Prioriza la gestión municipal y el desarrollo de los barrios.",
+            "frase_fuerte": "FIRMAMOS JUNTO AL INTENDENTE JUAN MANUEL BORQUEZ UN ACTA COMPROMISO PARA AVANZAR EN LA EJECUCIÓN DE VEREDAS EN DISTINTOS SECTORES DE PUERTO SANTA CRUZ."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Cooperación económica",
+                "Desarrollo productivo",
+                "Seguridad"
+            ],
+            "postura_politica": "Promueve una activa política exterior provincial para atraer inversiones, fortalecer vínculos comerciales y de cooperación con diversos países, buscando potenciar el desarrollo productivo y la economía del conocimiento en Tucumán.",
+            "frase_fuerte": "Nuestra provincia continúa consolidando relaciones internacionales que permiten potenciar inversiones, cooperación y nuevos espacios de intercambio."
+        }
+    ]
+}
