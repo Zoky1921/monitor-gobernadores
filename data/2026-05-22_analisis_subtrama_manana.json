@@ -1,0 +1,175 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada muestra un tablero partido: gobernadores del interior productivo celebran la baja de retenciones y se alinean con Nación, mientras Kicillof (Buenos Aires) redobla su apuesta opositora con el lanzamiento del MDF Salud. Macri (CABA) profundiza su perfil liberal desregulando Uber, y la seguridad sigue siendo un eje transversal donde varios mandatarios reclaman más herramientas federales.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La baja de retenciones anunciada por la Casa Rosada divide aguas. Los gobernadores del Norte y el Litoral (Zdero, Frigerio) la celebran como un alivio para sus economías regionales, mientras que Kicillof, lejos de sumarse, eligió el mismo día para lanzar el MDF Salud, una estructura paralela que busca capitalizar el descontento sanitario y posicionarlo como el principal armador opositor de cara a 2027. La omisión deliberada de la macroeconomía en sus tuits refuerza su estrategia de instalar la agenda social como campo de batalla.\n\nActo 2 — Los Alineamientos: Los gobernadores del interior productivo (Zdero, Frigerio, Figueroa) se muestran alineados con la gestión nacional en materia fiscal y de gestión de obras. Frigerio incluso suma un respaldo desde el rating (S&P mejora calificación de Entre Ríos), mientras que Figueroa apuesta a obras de infraestructura energética en Neuquén sin confrontar con el gobierno central. Macri, por su parte, se consolida como el alfil liberal de la metrópoli con la legalización de Uber, marcando un contraste nítido con el estatismo kirchnerista. En el otro extremo, Kicillof se posiciona como el vocero de la resistencia, articulando una red de intendentes y movimientos sociales.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas o con bajo peso electoral (Valdes, Sadir, Poggi, Vidal) se refugian en la agenda local: cultura, vino, escrituras, tecnología policial. No hay mención a la coparticipación ni al ajuste nacional; es un repliegue estratégico para evitar desgaste. Incluso Jaldo (Tucumán) opta por una foto institucional con la ministra de Seguridad, lejos de debates fiscales. Este silencio revela que prefieren no abrir frentes con la Rosada mientras gestionan la escasez.\n\nActo 4 — Saldo Presidencial: La jornada deja al gobierno nacional con algunos apoyos explícitos (Zdero, Frigerio) pero también con la consolidación de un frente opositor (Kicillof) que crece desde la salud. La seguridad sigue siendo un tema donde los gobernadores de distintos signos (Weretilneck, Jaldo, Vidal) piden más herramientas, sin que se avizore una respuesta federal unificada. Milei gana oxígeno temporal con las retenciones, pero el tablero político sigue fragmentado.",
+    "temas_calientes": [
+        {
+            "tema": "Baja de retenciones: apoyo explícito de gobernadores del interior productivo",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Seguridad: reclamo de mayor presencia federal y herramientas contra el crimen",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@OsvaldoJaldo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Obras de infraestructura provincial como marca de gestión propia",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Desregulación y libertad económica: Macri legaliza Uber en CABA",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Movimiento político opositor: Kicillof lanza MDF Salud como plataforma federal",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @MDFSALUDoficial)",
+        "texto": "Desde el Movimiento Derecho al Futuro avanzamos en la construcción de una propuesta sanitaria federal; por eso el 28 de mayo, con Axel Kicillof a la cabeza, nos encontramos en La Plata para participar del lanzamiento del MDF Salud. HAY OTRO CAMINO 🇦🇷✌️ https://t.co/GkAKgjc61O",
+        "por_que_es_clave": "Kicillof utiliza la salud pública como caballo de Troya para articular un frente opositor al ajuste nacional. El lanzamiento del MDF Salud no es solo un acto sanitario: es la primera piedra de una estructura política que busca disputar el relato federal y posicionarlo como el heredero del kirchnerismo con perfil propio.",
+        "pregunta_openarg": "¿El MDF Salud es una genuina propuesta federal de salud o una maniobra de Kicillof para consolidar su liderazgo opositor de cara a 2027, aprovechando el descontento con el ajuste de Milei?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Salud pública federal",
+                "Obra hidráulica provincial"
+            ],
+            "postura_politica": "Oposición activa. Construye un movimiento político propio (MDF Salud) para capitalizar el descontento sanitario y posicionarse como alternativa al gobierno nacional. Omite mencionar la baja de retenciones o cualquier logro de Nación.",
+            "frase_fuerte": "HAY OTRO CAMINO"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Desregulación del transporte",
+                "Legalización de Uber"
+            ],
+            "postura_politica": "Alineado con el liberalismo. Marca perfil propio al desburocratizar taxis y aplicaciones, en contraste con el 'kuka Kicillof'. Busca mostrar gestión eficiente y libertad económica como sello de su gestión.",
+            "frase_fuerte": "Ordenamos algo que debería haberse ordenado hace tiempo."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Baja de retenciones",
+                "Obras urbanas"
+            ],
+            "postura_politica": "Apoyo explícito a la medida nacional. Aprovecha la baja de retenciones para alinearse con el campo y mostrar gestión local. Sin críticas visibles al gobierno central.",
+            "frase_fuerte": "Celebramos la BAJA DE RETENCIONES. Este es el camino para recuperar la competitividad."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Obras públicas"
+            ],
+            "postura_politica": "Gestión provincial sin confrontación. Muestra avances de obras en Córdoba, evitando meterse en debates nacionales. Un guiño al 'hacer' por sobre la grieta.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Cultura",
+                "Arte contemporáneo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se refugia en la inauguración de una feria de arte, evitando cualquier posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Baja de retenciones",
+                "Calificación crediticia",
+                "Seguridad",
+                "Economías regionales"
+            ],
+            "postura_politica": "Alineado con Nación y marketing de gestión. Celebra la baja de retenciones y el upgrade de S&P, mostrando orden fiscal. Además, exhibe operativos de seguridad para mostrar control territorial.",
+            "frase_fuerte": "La baja de retenciones SIEMPRE es una medida para celebrar."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Producción vitivinícola",
+                "Feria regional"
+            ],
+            "postura_politica": "Agenda local. Acompaña a bodegueros en una feria, sin posicionamiento nacional. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura de gas",
+                "Puentes",
+                "Educación",
+                "Regularización de tierras",
+                "Transporte eléctrico"
+            ],
+            "postura_politica": "Gestión provincial intensa. Muestra obras en todo Neuquén, desde gas para comunidades hasta colectivos eléctricos. Se posiciona como gestor eficiente que salda deudas históricas, sin confrontar con Nación.",
+            "frase_fuerte": "Estamos saldando una deuda histórica que cambia para siempre la calidad de vida."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Salud pública",
+                "Infraestructura energética",
+                "Vivienda"
+            ],
+            "postura_politica": "Gestión con énfasis en seguridad y desarrollo. Anuncia medidas concretas (residentes, gasoducto, plan calor) y muestra firmeza contra el crimen. Se alinea con el discurso de 'orden' pero sin mencionar a Nación.",
+            "frase_fuerte": "En Río Negro, quien mata tiene que pagar."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Regularización dominial",
+                "Salud"
+            ],
+            "postura_politica": "Gestión local sin impacto federal. Entrega escrituras y refacciona un centro de salud. Evita cualquier debate nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Tecnología policial",
+                "Gas"
+            ],
+            "postura_politica": "Modernización de fuerzas de seguridad. Incorpora antena Starlink y nuevas instalaciones para cibercrimen. Busca mostrar eficiencia tecnológica en un contexto de recursos escasos.",
+            "frase_fuerte": "Seguimos incorporando tecnología y herramientas que fortalecen el trabajo de quienes recorren, cuidan y están presentes."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Innovación tecnológica",
+                "Seguridad"
+            ],
+            "postura_politica": "Posicionamiento en tecnología con la Smart City Expo. Se suma al Consejo Federal de Seguridad, mostrando cooperación federal pero sin agenda propia de confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Cooperación federal"
+            ],
+            "postura_politica": "Cooperación con Nación en seguridad. Recibe a la ministra Monteoliva y participa del Consejo Federal, mostrando perfil institucional y de trabajo conjunto contra el narcotráfico.",
+            "frase_fuerte": "Seguimos consolidando una agenda federal de seguridad basada en la cooperación entre provincias y Nación."
+        }
+    ]
+}

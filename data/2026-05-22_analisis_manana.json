@@ -1,0 +1,194 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La jornada de los gobernadores se divide entre una intensa gestión local y la interacción con políticas nacionales. Se observa un fuerte impulso a obras de infraestructura y servicios esenciales en Neuquén (Figueroa), Córdoba (Llaryora) y Chaco (Zdero), además de medidas para fortalecer la seguridad en Santa Cruz (Vidal) y Neuquén (Figueroa), y la cultura en Corrientes (Valdés). En el ámbito federal, existen posturas contrastantes: Rogelio Frigerio (Entre Ríos) y Leandro Zdero (Chaco) celebran la baja de retenciones, mientras que Hugo Passalacqua (Misiones) retuitea críticas severas a la desregulación yerbatera. Un encuentro clave de seguridad interior en Tucumán (Jaldo) reunió a gobernadores del NOA con la Ministra de Seguridad nacional, indicando cooperación. Jorge Macri (Ciudad Autónoma de Buenos Aires) avanza con la desregulación de plataformas de transporte, priorizando la competencia y la libertad del usuario.",
+    "analisis_profundo": "La agenda de los gobernadores hoy refleja una dinámica compleja, marcada por la autonomía en la gestión provincial y la articulación, a veces crítica, con las políticas del Gobierno nacional. En materia de infraestructura, Martín Llaryora (Córdoba) destaca el avance de megaobras viales financiadas con recursos propios, subrayando el impacto en la calidad de vida y el empleo local. Rolando Figueroa (Neuquén) demuestra un enfoque contundente en saldar 'deudas históricas', llevando gas a comunidades rurales, inaugurando instituciones judiciales y adjudicando proyectos viales clave para el desarrollo de Vaca Muerta y la resiliencia climática. La inversión en salud y educación también se mantiene como prioridad, como lo evidencia Figueroa (Neuquén) con un nuevo edificio escolar y Alberto Weretilneck (Río Negro) con la incorporación de residentes sanitarios.\n\nLa esfera económica nacional genera reacciones diversas. Rogelio Frigerio (Entre Ríos) y Leandro Zdero (Chaco) celebran la baja de retenciones, interpretándola como un paso positivo para la competitividad y la inversión, y Frigerio aprovecha para impulsar un 'nuevo acuerdo fiscal federal'. En contraste, Hugo Passalacqua (Misiones) se posiciona con dureza, retuiteando contenidos que denuncian el fracaso de la desregulación del sector yerbatero y su perjuicio para las inversiones provinciales. Esta disparidad subraya las diferentes percepciones y afectaciones de las políticas económicas nacionales en las economías regionales.\n\nEn el plano de la seguridad, la colaboración federal se concretó en Tucumán (Jaldo), donde el Consejo Federal de Seguridad Interior reunió a los gobernadores de Salta (Sáenz), Jujuy (Sadir) y Santiago del Estero (Suárez) con la Ministra de Seguridad nacional, buscando coordinar estrategias contra el narcotráfico y el crimen organizado. Complementariamente, Claudio Vidal (Santa Cruz) refuerza la policía rural con tecnología satelital, mientras Figueroa (Neuquén) impulsa la justicia de paz, mostrando enfoques diversificados para la seguridad ciudadana.\n\nFinalmente, Jorge Macri (Ciudad Autónoma de Buenos Aires) avanza con la desregulación del transporte, legalizando plataformas como Uber y simplificando normativas para taxis, una medida que busca modernizar el sector y potenciar la libertad de elección de los usuarios. Esta acción, aunque local, se inscribe en un debate más amplio sobre la flexibilidad regulatoria y la intervención estatal. El conjunto de estas acciones y declaraciones ilustra una jornada activa, con gobernadores priorizando la gestión territorial y al mismo tiempo participando, desde el apoyo o la crítica, en la compleja dinámica federal del país.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Obra Pública con Fondos Provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Impacto de Políticas Económicas Nacionales y Fiscalidad Federal",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@frigeriorogelio",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Seguridad y Cooperación Interprovincial/Nacional",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo",
+                "@GustavoSaenzOK",
+                "@carlossadirjuy",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desregulación y Modernización de Servicios de Transporte",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Promoción Económica Local",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@gustavovaldesok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@frigeriorogelio",
+        "texto": "La baja de retenciones SIEMPRE es una medida para celebrar. Ojalá pronto se puedan eliminar por completo de una buena vez por todas, junto con todos los impuestos distorsivos en los tres niveles de gobierno. Ese camino requiere un esfuerzo conjunto y coordinado entre Nación, provincias y municipios. Por eso es necesario avanzar hacia un nuevo acuerdo fiscal federal.",
+        "por_que_es_clave": "El gobernador (Entre Ríos) celebra una medida económica nacional favorable y, más allá de eso, utiliza la oportunidad para exigir un 'nuevo acuerdo fiscal federal', lo que revela una postura proactiva en la reconfiguración de las relaciones fiscales entre Nación y provincias.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Salud federal",
+                "Infraestructura provincial"
+            ],
+            "postura_politica": "Continúa enfocándose en la gestión provincial y la inversión en obras estratégicas con fondos propios, como el Plan Maestro del Río Salado. Asimismo, impulsa una propuesta sanitaria con alcance federal.",
+            "frase_fuerte": "Invertir en infraestructura hidráulica es una decisión inteligente: significa prevenir inundaciones, cuidar la producción, y planificar el futuro de la provincia y del país."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Desregulación",
+                "Modernización del transporte",
+                "Libertad económica"
+            ],
+            "postura_politica": "Lidera una política de desregulación y modernización del sistema de transporte, legalizando plataformas como Uber y simplificando trámites para taxis, con un fuerte enfoque en la competencia y la libertad del usuario.",
+            "frase_fuerte": "'Pusimos la libertad de los usuarios por encima'."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Economía regional",
+                "Presión fiscal",
+                "Obras urbanas"
+            ],
+            "postura_politica": "Celebra la baja de retenciones como un impulso para la competitividad y la inversión en el Chaco. Complementa esto con una activa gestión en obras de mejoramiento urbano para Resistencia.",
+            "frase_fuerte": "Celebramos la BAJA DE RETENCIONES. Este es el camino para recuperar la competitividad, confianza e inversión en todo el País."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Desarrollo local",
+                "Empleo"
+            ],
+            "postura_politica": "Destaca la continuidad de importantes obras de infraestructura en la capital, como un altonivel, financiadas con fondos provinciales, subrayando el impacto positivo en la calidad de vida, seguridad y generación de empleo.",
+            "frase_fuerte": "Esta imagen no es habitual en gran parte del país, pero sí en #Córdoba, donde invertimos en #infraestructura porque sabemos que las #obras consolidan el desarrollo, generan más seguridad, crean #empleo y, principalmente, mejoran la calidad de vida de los cordobeses, hoy y en el futuro."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Cultura",
+                "Arte",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Impulsa la cultura como motor de desarrollo, destacando la inauguración de ArteCo en un museo de arte contemporáneo, lo que contribuye al crecimiento del mercado cultural y turístico en la provincia.",
+            "frase_fuerte": "Se inauguró ArteCo, ¡y por primera vez se realiza en el Museo de Arte Contemporáneo, creado para que las vanguardias culturales lleguen a más gente!"
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Federalismo fiscal",
+                "Política económica nacional",
+                "Reducción de impuestos"
+            ],
+            "postura_politica": "Celebra las medidas nacionales de reducción de retenciones, pero va más allá al exigir un 'nuevo acuerdo fiscal federal' que elimine impuestos distorsivos, buscando una coordinación fiscal entre los tres niveles de gobierno.",
+            "frase_fuerte": "La baja de retenciones SIEMPRE es una medida para celebrar. Ojalá pronto se puedan eliminar por completo de una buena vez por todas, junto con todos los impuestos distorsivos en los tres niveles de gobierno. Ese camino requiere un esfuerzo conjunto y coordinado entre Nación, provincias y municipios. Por eso es necesario avanzar hacia un nuevo acuerdo fiscal federal."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Economía regional",
+                "Producción local",
+                "Turismo"
+            ],
+            "postura_politica": "Promueve el desarrollo productivo local, en este caso el sector vitivinícola y los emprendedores, a través de la participación y apoyo a ferias que visibilizan la oferta provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Desregulación económica",
+                "Impacto en economías regionales",
+                "Federalismo"
+            ],
+            "postura_politica": "Manifiesta una fuerte crítica a las políticas de desregulación económica del Gobierno nacional, específicamente en el sector yerbatero, alertando sobre sus consecuencias negativas para la provincia y el desarrollo de inversiones.",
+            "frase_fuerte": "LA DESREGULACIÓN DE LA YERBA NUNCA FUNCIONÓ... Brutos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura social y productiva",
+                "Energía",
+                "Educación",
+                "Justicia local"
+            ],
+            "postura_politica": "Enfocado en saldar 'deudas históricas' de la provincia, como la provisión de gas a comunidades remotas y la mejora de infraestructura educativa y vial, incluyendo obras clave para el desarrollo de Vaca Muerta. También busca fortalecer las instituciones locales.",
+            "frase_fuerte": "Es un acto de estricta justicia: toda la vida estas comunidades convivieron con un caño que llevaba gas a Chile, mientras no tenían en sus hogares. Estamos saldando una deuda histórica que cambia para siempre la calidad de vida en todas estas localidades del Alto Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Salud pública",
+                "Infraestructura energética",
+                "Participación ciudadana"
+            ],
+            "postura_politica": "Invierte en el fortalecimiento del sistema de salud pública con la incorporación de nuevos profesionales. Promueve el debate público sobre proyectos energéticos estratégicos, como el gasoducto, enfatizando la transparencia y el desarrollo.",
+            "frase_fuerte": "MÁS RESIDENTES PARA FORTALECER LA SALUD PÚBLICA EN RÍO NEGRO Este año vamos a incorporar 73 nuevos residentes en hospitales públicos de toda la provincia, fortaleciendo nuestro sistema de salud con más profesionales y más especialidades en cada región."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Gestión local",
+                "Cercanía con la gente"
+            ],
+            "postura_politica": "Prioriza la cercanía con los ciudadanos a través de giras institucionales por el interior provincial, promoviendo una forma de gobierno que busca estar presente en cada localidad y atender las necesidades directas de los vecinos.",
+            "frase_fuerte": "La 'cercanía' con cada rincón de la geografía provincial es nuestra forma de gobernar."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Seguridad",
+                "Tecnología",
+                "Conectividad rural"
+            ],
+            "postura_politica": "Impulsa la modernización de las fuerzas de seguridad mediante la incorporación de tecnología avanzada, como antenas Starlink, para mejorar la conectividad y el trabajo policial en zonas rurales de la provincia.",
+            "frase_fuerte": "La conectividad es una herramienta clave para fortalecer el trabajo de nuestras Fuerzas de Seguridad. Por eso, incorporamos una antena Starlink destinada al Departamento de Operaciones Rurales de la Policía de Santa Cruz, acompañando las tareas que se desarrollan en distintos puntos de la provincia."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Seguridad federal",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Participa activamente en espacios de coordinación federal en materia de seguridad, demostrando un compromiso con el trabajo conjunto entre provincias y el gobierno nacional para abordar problemáticas como el narcotráfico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Seguridad federal",
+                "Lucha contra el narcotráfico",
+                "Cooperación Nación-Provincias"
+            ],
+            "postura_politica": "Lidera la organización de un encuentro clave del Consejo Federal de Seguridad Interior, fortaleciendo el diálogo y la coordinación con la Ministra de Seguridad nacional y otros gobernadores para enfrentar el crimen organizado en la región NOA.",
+            "frase_fuerte": "Seguimos consolidando una agenda federal de seguridad basada en la cooperación entre provincias y Nación, con el objetivo de llevar más tranquilidad y protección a todos los argentinos."
+        }
+    ]
+}
