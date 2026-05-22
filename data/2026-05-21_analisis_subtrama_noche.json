@@ -1,0 +1,262 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "Jornada de guerra fiscal abierta: Kicillof, Llaryora y Poggi denuncian la quita del régimen de Zona Fría como un ataque directo a sus provincias. Mientras, la Casa Rosada suma apoyos de gobernadores alineados con el RIGI (Cornejo, Figueroa) y una ofensiva de seguridad en CABA, Santa Cruz y Río Negro. El tablero se divide entre los que resisten el ajuste y los que negocian obras por deuda.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La modificación del régimen de Zona Fría detonó la jornada. Kicillof, Llaryora y Poggi (Buenos Aires, Córdoba, San Luis) dispararon contra el Gobierno nacional en tándem, acusándolo de castigar a sus provincias con aumentos de hasta el 100% en las tarifas de gas. No es un reclamo técnico: es una declaración de guerra en un año electoral, donde cada gobernador busca capitalizar el descontento social mientras se despega del ajuste. La pregunta es si esta resistencia se coordinará en el Senado o quedará en gestos aislados.\n\nActo 2 — Los Alineamientos: Mientras los peronistas y algunos radicales se posicionan en contra, el oficialismo suma gobernadores que convalidan el rumbo. Cornejo (Mendoza) promociona el RIGI para el proyecto San Jorge y se reúne con Caputo. Figueroa (Neuquén) defiende las exportaciones de Vaca Muerta y negocia financiamiento internacional. Frigerio (Entre Ríos) gestiona la deuda de la Caja de Jubilaciones con Nación. Son los socios estratégicos de la Casa Rosada: necesitan fondos y obras a cambio de silencio político. En el medio, Macri (CABA) se alinea con la desregulación de Uber y la mano dura, marcando perfil propio.\n\nActo 3 — La Micro-política: Las provincias periféricas se refugian en la gestión local. Zdero (Chaco), Torres (Chubut), Passalacqua (Misiones) y Vidal (Santa Cruz) muestran obras de infraestructura, viviendas y conectividad. Es un mensaje de autonomía frente al abandono nacional. Ziliotto (La Pampa) denuncia recortes y defiende sus sueldos, pero sin mencionar a Nación. Son gestos de supervivencia: saben que no pueden competir en la disputa fiscal, así que construyen su propia narrativa de eficiencia provincial.\n\nActo 4 — Saldo Presidencial: Milei gana la pulseada del RIGI y la energía, pero pierde la batalla simbólica de la Zona Fría. Los gobernadores que más gritan (Kicillof, Llaryora) son los que más necesitan el conflicto para consolidar sus liderazgos. La Casa Rosada, por ahora, deja que el Congreso dirima la cuestión, pero el costo político de aparecer como 'los que sacan el gas a la gente' es alto. El silencio de Pullaro (Santa Fe) y Jalil (Catamarca) sugiere cálculo: no se suben al barco de la resistencia abierta, pero tampoco defienden el ajuste.",
+    "temas_calientes": [
+        {
+            "tema": "Zona Fría: rechazo a la quita de subsidios al gas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "RIGI y minería: promoción de inversiones en Mendoza y Jujuy",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@LuisCaputoAR (RT)",
+                "@carlossadirjuy (mención en tweet de Cornejo)"
+            ]
+        },
+        {
+            "tema": "Seguridad y narcotráfico: operativos y mano dura",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Obra pública y gestión provincial como respuesta al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@passalacquaok",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Negociación fiscal con Nación: deuda y compensaciones",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@ZiliottoSergio",
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Cuando pensábamos que había llegado al límite de crueldad, el Gobierno nacional vuelve a castigar al pueblo, esta vez con la modificación del régimen de Zona Fría. Un proyecto que descarga aun más sobre la gente el peso de un ajuste que cada día está más lejos de ser para la casta. De ningún modo el Senado debe convalidar esta iniciativa que profundiza la desigualdad y le complica la vida a millones de argentinos.",
+        "por_que_es_clave": "Kicillof usa el tema Zona Fría para posicionarse como defensor del pueblo bonaerense contra el ajuste 'para la casta'. Es un ataque directo al relato de Milei y busca forzar a los senadores a definirse. El gobernador más pesado del peronismo marca la cancha en la previa de la discusión parlamentaria.",
+        "pregunta_openarg": "¿Los senadores de las provincias afectadas por la quita de Zona Fría se animarán a votar en contra del oficialismo nacional o priorizarán la disciplina partidaria?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "Salud",
+                "Educación",
+                "Marcha federal",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Oposición frontal a Nación. Cada tweet es un acto de denuncia del ajuste y una reivindicación de su gestión como contrapeso. La inauguración del CAPS Paulo Freire y el Polo Universitario son mensajes de autonomía: 'yo gestiono lo que Nación abandona'. El retweet de la marcha por salud es un llamado a la movilización. Kicillof construye su candidatura presidencial sobre el conflicto.",
+            "frase_fuerte": "Cuando pensábamos que había llegado al límite de crueldad, el Gobierno nacional vuelve a castigar al pueblo, esta vez con la modificación del régimen de Zona Fría."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Legalización de Uber",
+                "Seguridad",
+                "Acuerdo con Nación"
+            ],
+            "postura_politica": "Perfil de gestión y mano dura, alineado con el relato libertario pero con agenda propia. La legalización de Uber es un guiño al electorado joven y liberal. El acuerdo por deuda de coparticipación muestra capacidad de negociación con Caputo. Macri evita chocar con Nación, pero tampoco se subordina.",
+            "frase_fuerte": "Desburocratizamos y le sacamos reglas absurdas a los taxis y normalizamos el servicio de las plataformas para que puedan trabajar en libertad."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Salud",
+                "Seguridad"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Muestra obras de pavimento, salud y saneamiento. Es gestión pura, sin mención a Nación. Un refugio en el territorio para evitar posicionamientos incómodos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Conectividad",
+                "Vivienda",
+                "Reducción de impuestos",
+                "Seguridad"
+            ],
+            "postura_politica": "Perfil reformista y de autonomía. Destaca eliminación de Ingresos Brutos para la construcción, cancelación de deuda con Nación y lucha contra el crimen organizado. Torres construye una narrativa de orden fiscal y mano dura, compitiendo con el relato nacional desde la provincia.",
+            "frase_fuerte": "Primera vez en la historia de Chubut: eliminamos Ingresos Brutos y Sellos para que la gente pueda construir o ampliar su casa."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "Gestión provincial",
+                "Industria"
+            ],
+            "postura_politica": "Reclamo federal con tono moderado. Llaryora denuncia la quita de Zona Fría pero lo hace desde la datos y la convocatoria a intendentes, no desde la confrontación directa. Su agenda de obras en el interior muestra gestión pese al ajuste. Busca un equilibrio entre defensa de Córdoba y no romper con Nación.",
+            "frase_fuerte": "El proyecto nacional que modifica la Zona Fría quitando subsidios al gas en Córdoba, pone en riesgo a unos 688 mil hogares y a más de 2,2 millones de cordobeses."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Legislación provincial",
+                "Producción",
+                "Norte Grande"
+            ],
+            "postura_politica": "Agenda institucional y de desarrollo productivo. Muestra avances en leyes de expropiación para parques industriales y participación en el Parlamento del Norte Grande. Sin conflicto con Nación, se enfoca en la gestión local y la promoción económica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Negociación con Nación",
+                "Exportaciones",
+                "Régimen de Transparencia Fiscal"
+            ],
+            "postura_politica": "Perfil dialoguista y de gestión. Frigerio negocia con Caputo y Santilli, avanza en compensación de deuda y promueve apertura de mercados. Se posiciona como un gobernador que gestiona con Nación, no contra ella. El RINI y la transparencia fiscal son sus caballitos de batalla.",
+            "frase_fuerte": "El RINI está funcionando. Y los números lo demuestran. Casi 150 empresas tramitando su adhesión, 300.000 millones comprometidos y 2.000 puestos de trabajo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Salarios",
+                "Recortes nacionales",
+                "Glaciares",
+                "Conectividad"
+            ],
+            "postura_politica": "Reclamo fiscal con perfil peronista. Denuncia recortes a través de retweet y defiende la suba salarial provincial. También se planta en la defensa de la Ley de Glaciares. Ziliotto usa la gestión para marcar diferencias con el ajuste nacional, pero sin confrontación directa.",
+            "frase_fuerte": "En La Pampa, agentes públicos con familia tipo percibirán en mayo un sueldo mínimo garantizado de bolsillo de 1.600.000."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Gestión provincial",
+                "Educación",
+                "Conectividad"
+            ],
+            "postura_politica": "Agenda local con tono peronista. Muestra obras de vivienda, salud y educación, así como reuniones con embajadores. Sin mención a Nación, pero con un mensaje de 'sostener con esfuerzo' lo que Nación abandonó. Busca mostrarse como gestor eficiente en un contexto adverso.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "RIGI",
+                "Energía solar",
+                "Educación",
+                "Reforma constitucional"
+            ],
+            "postura_politica": "Alineado con el Gobierno nacional en materia de inversiones. Cornejo promociona el Parque Solar El Quemado y el proyecto San Jorge en el RIGI. Su reunión con Caputo es una foto de apoyo. También impulsa reformas institucionales. Es el gobernador radical que mejor sintoniza con Milei.",
+            "frase_fuerte": "Mendoza inauguró el Parque Solar El Quemado, el más grande de la Argentina. Dimos otro paso concreto hacia una matriz energética más limpia, moderna y preparada para el crecimiento de nuestra provincia."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Aniversarios",
+                "Salud",
+                "Deporte"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Passalacqua se enfoca en festejos de pueblos, inauguraciones de centros de salud y deporte. Evita cualquier roce con Nación. Es un repliegue calculado en un contexto de ajuste.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vivienda y escrituración",
+                "Obra pública",
+                "Seguridad",
+                "Energía"
+            ],
+            "postura_politica": "Perfil de gestión con énfasis en la autonomía. Figueroa inaugura escuelas, entrega escrituras, y destaca que Neuquén avanza con fondos propios. También se posiciona en seguridad con operativos. Sin conflicto con Nación, pero reivindicando el modelo neuquino como exitoso.",
+            "frase_fuerte": "Decidimos que no vamos a esperar más a los gobiernos nacionales. La obra que se llamaba ALIPIBA ahora se va a llamar ALIVILLA y la vamos a hacer nosotros."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Energía",
+                "Obra pública",
+                "Vivienda"
+            ],
+            "postura_politica": "Perfil de gestión y seguridad. Weretilneck muestra operativos contra el narcotráfico, inaugura centros de monitoreo y promociona el desarrollo energético. Su mensaje es de orden y eficiencia. Se alinea con el discurso de mano dura y atrae inversiones, sin confrontar con Nación.",
+            "frase_fuerte": "En Río Negro, al narcotráfico se lo enfrenta. Si sabés algo, denunciá al 0800-333-4124."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Conectividad aérea",
+                "Ruta 51",
+                "Minería",
+                "Salud",
+                "Justicia"
+            ],
+            "postura_politica": "Perfil modernizador y de gestión. Sáenz muestra la nueva ruta aérea a Brasil, avances en la Ruta 51, el nuevo sistema penal. Se reúne con Karina Milei y Santilli para gestionar obras. Busca posicionar Salta como hub del norte, sin confrontación directa, pero reclamando lo que corresponde.",
+            "frase_fuerte": "La salida al Pacífico es clave para seguir generando desarrollo, conectividad y oportunidades para Salta y el norte argentino."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Minería",
+                "Eventos deportivos",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Perfil pro-minería y de promoción internacional. Orrego destaca la Expo Minera, el Desafío Ruta 40 y reuniones con embajadores. Se alinea con el Gobierno nacional en la agenda minera. Su postura es de apoyo al RIGI y a la inversión extranjera.",
+            "frase_fuerte": "El mundo mira a San Juan, y San Juan mira al futuro."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "Vivienda",
+                "Salud",
+                "Seguridad",
+                "Educación"
+            ],
+            "postura_politica": "Reclamo fiscal directo. Poggi denuncia la quita de Zona Fría y pide a los senadores que no la acompañen. Al mismo tiempo, muestra una intensa agenda de obras y entregas de escrituras en el interior. Es un gobernador que gestiona mientras reclama.",
+            "frase_fuerte": "Esta media sanción de la Cámara de Diputados de la Nación eliminando la calificación de zona fría para San Luis afecta directamente el bolsillo de miles de familias Sanluiseñas."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Gas",
+                "Seguridad",
+                "Ferrocarril",
+                "Transparencia"
+            ],
+            "postura_politica": "Perfil reformista y de gestión. Vidal destaca la recuperación del tren, la transparencia presupuestaria y el acceso al gas. También muestra mano dura contra el narcotráfico. Sin conflicto directo con Nación, pero con un mensaje de cambio y orden.",
+            "frase_fuerte": "Durante años, muchas familias de Santa Cruz quedaron afuera de algo tan básico como el gas. Esa realidad no podía seguir igual."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Smart City Expo",
+                "Obra pública",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Agenda de innovación y gestión. Suárez promociona la Smart City Expo y muestra obras de agua y viviendas. Sin mención a Nación, se enfoca en posicionar a Santiago como polo tecnológico. Es un refugio en la agenda de cabotaje.",
+            "frase_fuerte": "Planificar es una obligación, pero gestionar y ejecutar es el verdadero compromiso con el pueblo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Gestión provincial",
+                "Educación",
+                "Obra pública",
+                "Zafra"
+            ],
+            "postura_politica": "Agenda local intensa. Jaldo inaugura obras, se reúne con embajadores y supervisa la zafra. Sin conflicto con Nación, muestra un Estado presente. Su postura es de gestión permanente, con un perfil peronista de bajo perfil.",
+            "frase_fuerte": null
+        }
+    ]
+}
