@@ -1,0 +1,217 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda de los gobernadores se centró hoy en la reafirmación de la gestión provincial, con un fuerte impulso a la obra pública y el desarrollo local en contraste con las políticas nacionales. Se observó una clara polarización: mientras algunos celebraron medidas desregulatorias y de reducción fiscal, otros criticaron duramente el impacto de la desregulación nacional en economías regionales y la retracción de fondos. La seguridad y la justicia social en el acceso a servicios esenciales como el gas también fueron pilares discursivos, marcando una jornada de prioridades locales y tensiones con el modelo central. El diálogo federal de seguridad en el NOA fue un punto de encuentro, aunque las diferencias económicas persisten.",
+    "analisis_profundo": "La jornada política federal del 22 de mayo de 2026 reveló una intensa actividad de los gobernadores, quienes enfatizaron sus agendas propias, muchas veces en contraste o abierta crítica a las directrices del gobierno nacional. Axel Kicillof (Buenos Aires) destacó la continuidad de obras estratégicas como el acceso a City Bell y el Plan Maestro del Río Salado, financiadas íntegramente por la provincia, reafirmando una gestión orientada al desarrollo local y la generación de empleo, además de impulsar una propuesta sanitaria federal. Su postura se alinea con la defensa de la obra pública en tiempos de ajuste nacional.\n\nEn un polo opuesto, Jorge Macri (Ciudad Autónoma de Buenos Aires) celebró con vehemencia la desregulación del sistema de taxis y la legalización de aplicaciones de movilidad, enmarcando estas acciones en conceptos de 'libertad' y 'modernización', y utilizando un retuit para confrontar directamente el modelo de Kicillof (Buenos Aires). Adicionalmente, reforzó su imagen de 'ley y orden' con la demolición de construcciones ilegales.\n\nEn el Norte Grande, la seguridad fue un eje de cooperación. Carlos Sadir (Jujuy) y Osvaldo Jaldo (Tucumán) participaron en el Consejo Federal de Seguridad Interior junto a la Ministra de Seguridad de la Nación, buscando estrategias coordinadas contra el narcotráfico y los vuelos ilegales. Ricardo Quintela (La Rioja), por su parte, celebró el aniversario de la policía provincial, destacando su sentido federal y cercanía con la comunidad. Estas instancias reflejan un intento de articular políticas en áreas críticas que trascienden las jurisdicciones provinciales.\n\nLa política económica generó divisiones. Leandro Zdero (Chaco) aplaudió la baja de retenciones, viéndola como un camino para la competitividad agrícola, mientras Rogelio Frigerio (Entre Ríos) también la celebró, instando a un nuevo acuerdo fiscal federal. En Misiones, Hugo Passalacqua utilizó retuits para denunciar que la desregulación en el sector yerbatero está provocando que la provincia pierda '2 o 3 Rigi anuales', subrayando el impacto negativo de las políticas nacionales en las economías regionales.\n\nEn la Patagonia, Rolando Figueroa (Neuquén) tomó una postura firme al asegurar 'EL GAS PRIMERO PARA LOS NEUQUINOS', señalando una deuda histórica con sus comunidades rurales y priorizando el acceso a servicios básicos. Alberto Weretilneck (Río Negro) proyectó a su provincia como 'protagonista' en el futuro energético nacional a través del gasoducto Tratayén-San Antonio Oeste, haciendo hincapié en la participación ciudadana y el beneficio para los rionegrinos. Ignacio Torres (Chubut) continuó su agenda de 'mano dura' con una ley para sacar celulares de las cárceles. Finalmente, Claudio Poggi (San Luis) concentró su gestión en la cercanía territorial, entregando viviendas y escrituras, y ampliando servicios de salud, enfatizando la visión de 'San Luis tiene futuro' a través de jóvenes intendentes.",
+    "temas_calientes": [
+        {
+            "tema": "Obra Pública e Inversión Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Seguridad Federal y Lucha contra el Crimen Organizado",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@carlossadirjuy",
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Políticas Económicas y Federalismo Fiscal",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@frigeriorogelio",
+                "@passalacquaok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo Energético y Soberanía de Recursos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desregulación y Modernización de Servicios",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa (Neuquén)",
+        "texto": "EL GAS PRIMERO PARA LOS NEUQUINOS Llegamos con el gas a la Comunidad Antiñir Pilquiñan y completamos todo el ejido de Los Miches con el servicio de gas. A través de Hidenesa ya llegamos a Los Guañacos, Villa del Nahueve y las obras continúan hacia Las Ovejas, Varvarco y Manzano Amargo. Es un acto de estricta justicia: toda la vida estas comunidades convivieron con un caño que llevaba gas a Chile, mientras no tenían en sus hogares. Estamos saldando una deuda histórica que cambia para siempre la calidad de vida en todas estas localidades del Alto Neuquén. Somos conscientes de que falta mucho. Son muchos años de retraso, pero es muy importante todo lo que estamos haciendo.",
+        "por_que_es_clave": "El gobernador (Neuquén) realiza una fuerte declaración sobre la soberanía energética y la justicia social, priorizando el acceso al gas para las comunidades locales en una provincia productora, incluso señalando la paradoja de exportar mientras carecen del servicio. Es una afirmación contundente de la autonomía provincial y la demanda de equidad en la distribución de recursos que resuena con los reclamos federales.",
+        "pregunta_openarg": "¿Cómo equilibrarán las provincias productoras de energía sus demandas de abastecimiento interno con las exigencias de exportación y los planes federales, especialmente en un contexto de escasez y crisis?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura",
+                "Salud",
+                "Federalismo"
+            ],
+            "postura_politica": "Fuerte énfasis en la gestión provincial y la obra pública como motor de desarrollo y empleo, financiadas con recursos propios frente a la inacción nacional. Promueve una propuesta sanitaria federal, buscando la autonomía y capacidad de respuesta de la provincia.",
+            "frase_fuerte": "En la provincia la obra pública no se frene porque crea trabaja, mejora la calidad de vida y apuntala el desarrollo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Urbanismo",
+                "Desregulación",
+                "Economía",
+                "Libertad"
+            ],
+            "postura_politica": "Línea dura en seguridad y orden urbano, con acciones concretas como demoliciones. Defensor acérrimo de la desregulación económica y la libertad de competencia, utilizando la gestión en taxis y apps como ejemplo y contraste con otras administraciones.",
+            "frase_fuerte": "Creían que construyendo de noche no los íbamos a agarrar. Se equivocaron. Lo demolimos y vamos a instalar un destacamento policial."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Políticas económicas",
+                "Desarrollo agrícola",
+                "Infraestructura urbana"
+            ],
+            "postura_politica": "Celebra las medidas nacionales de baja de retenciones como un impulso al desarrollo provincial. Se enfoca en el mejoramiento urbano y las obras de infraestructura local, buscando potenciar el perfil productivo del Chaco.",
+            "frase_fuerte": "Celebramos la BAJA DE RETENCIONES. Este es el camino para recuperar la competitividad, confianza e inversión en todo el País."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Reforma carcelaria"
+            ],
+            "postura_politica": "Aplica una política de 'mano dura' en materia de seguridad, enfocándose en la reforma carcelaria para evitar que los reclusos sigan delinquiendo desde prisión.",
+            "frase_fuerte": "SE TERMINÓ LA JODA EN LAS CÁRCELES. Nuestras cárceles son para cumplir condenas. No para seguir delinquiendo."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Diálogo social",
+                "Eventos",
+                "Infraestructura",
+                "Autonomía provincial"
+            ],
+            "postura_politica": "Proactivo en la organización de encuentros nacionales que promuevan el consenso y el 'bien común'. Destaca la inversión en infraestructura y la capacidad de su provincia para generar impacto económico a través de eventos, reafirmando una Córdoba que avanza con gestión propia.",
+            "frase_fuerte": "Es muy valioso que #Córdoba sea sede de un encuentro nacional que convocará a referentes de la vida social, política, empresarial, sindical y académica de nuestro país para reflexionar, dialogar y ayudar a construir consensos en un momento complejo de la Argentina."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Cultura",
+                "Arte",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Impulsa el desarrollo cultural como vector de crecimiento y visibilidad para la provincia. Enfatiza la importancia del arte contemporáneo y la expansión de mercados culturales para potenciar la identidad local.",
+            "frase_fuerte": "Se inauguró ArteCo, ¡y por primera vez se realiza en el Museo de Arte Contemporáneo, creado para que las vanguardias culturales lleguen a más gente!"
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Políticas fiscales",
+                "Economía regional",
+                "Ordenamiento financiero"
+            ],
+            "postura_politica": "Celebra la baja de retenciones y aboga por un nuevo acuerdo fiscal federal para eliminar impuestos distorsivos. Resalta la mejora en la calificación crediticia provincial como resultado de la consolidación fiscal, buscando mayor autonomía y estabilidad.",
+            "frase_fuerte": "La baja de retenciones SIEMPRE es una medida para celebrar. Ojalá pronto se puedan eliminar por completo de una buena vez por todas, junto con todos los impuestos distorsivos en los tres niveles de gobierno."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Seguridad federal",
+                "Desarrollo productivo",
+                "Turismo regional"
+            ],
+            "postura_politica": "Participa activamente en la coordinación federal de seguridad para el NOA. Fomenta las economías regionales a través del apoyo a productores y la promoción del turismo del vino, buscando el crecimiento local y la integración.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Seguridad provincial",
+                "Celebraciones locales"
+            ],
+            "postura_politica": "Reafirma el apoyo a su fuerza policial y la inversión en su formación y equipamiento, destacando su vocación de servicio y sentido federal. Su gestión se enfoca en el reconocimiento de las instituciones locales.",
+            "frase_fuerte": "Queremos una policía amiga, de puertas abiertas y profundamente humana."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Conectividad",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura vial estratégica, como la Ruta 7, para mejorar la competitividad, el turismo y la integración regional, especialmente con Chile, buscando modernizar una vía clave para la producción y el comercio.",
+            "frase_fuerte": "La Ruta 7 es estratégica para Mendoza y para toda la Argentina. La incorporación del Tramo Cuyo a la Red Federal de Concesiones es algo que veníamos solicitando."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Desregulación económica",
+                "Economía regional"
+            ],
+            "postura_politica": "Crítica directa a las políticas nacionales de desregulación, especialmente en el sector yerbatero, señalando sus efectos negativos en la economía provincial y el potencial de inversión perdido. Defiende la protección de las economías regionales.",
+            "frase_fuerte": "Misiones se pierde 2 o 3 Rigi anuales por el desastre que armó El Coloso con la desregulación del sector yerbatero."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Servicios públicos",
+                "Justicia social",
+                "Infraestructura",
+                "Obras públicas"
+            ],
+            "postura_politica": "Enfoque en saldar deudas históricas con comunidades rurales en el acceso a servicios básicos como el gas. Promueve la inversión en infraestructura clave para el desarrollo provincial y la mejora de la calidad de vida, priorizando a los ciudadanos sobre las inacciones nacionales.",
+            "frase_fuerte": "EL GAS PRIMERO PARA LOS NEUQUINOS. Es un acto de estricta justicia: toda la vida estas comunidades convivieron con un caño que llevaba gas a Chile, mientras no tenían en sus hogares."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo energético",
+                "GNL",
+                "Participación pública",
+                "Justicia"
+            ],
+            "postura_politica": "Lidera una visión de Río Negro como 'protagonista' en el futuro energético argentino, impulsando megaproyectos de GNL con fuerte énfasis en la participación ciudadana y el beneficio local. Adicionalmente, muestra firmeza en la investigación de crímenes.",
+            "frase_fuerte": "Río Negro no quiere ser espectador del futuro energético argentino. Quiere ser protagonista. Y ese protagonismo tiene una condición innegociable: desarrollo, sí. Pero con los rionegrinos adentro."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Salud",
+                "Educación",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Enfatiza la cercanía con el interior provincial a través de giras institucionales. Prioriza la entrega de escrituras y viviendas, la ampliación de infraestructura de salud y el apoyo a la educación local, mostrando una fuerte gestión territorial y promoción de jóvenes líderes.",
+            "frase_fuerte": "SAN LUIS TIENE FUTURO - Marcelo, Macarena y Mateo son tres Jóvenes, pujantes y emprendedores INTENDENTES de Los Molles, Cortaderas y Villa Larca respectivamente."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra pública",
+                "Seguridad federal",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Ejecuta obras viales importantes con inversión provincial, mejorando la conectividad y seguridad. Participa activamente en la coordinación federal de seguridad del NOA para combatir el crimen organizado y el narcotráfico, reforzando el compromiso de su provincia con la agenda federal.",
+            "frase_fuerte": "Tucumán | Hoy hicimos realidad una obra esperada durante muchos años por las familias del sur tucumano: inauguramos la repavimentación integral de 14 kilómetros de la Ruta Provincial 331."
+        }
+    ]
+}
