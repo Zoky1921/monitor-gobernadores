@@ -1,0 +1,163 @@
+{
+    "clima_general": "DE CONFLICTO",
+    "resumen_ejecutivo": "La jornada federal exhibe un claro clima de conflicto entre las provincias y el Gobierno nacional, marcado por la contundente crítica de Axel Kicillof (Buenos Aires) a la modificación del régimen de Zona Fría. Mientras tanto, otros gobernadores como Arabela Carreras (Río Negro) y Osvaldo Jaldo (Tucumán) avanzan con agendas de gestión local y desarrollo productivo, destacando obras de infraestructura y proyectos energéticos estratégicos. Se observan también movimientos de posicionamiento político, como el encuentro de Alfredo Cornejo (Mendoza) con Mauricio Macri, y tensiones internas por reformas constitucionales en Tierra del Fuego. La seguridad y el crecimiento económico regional son temas recurrentes en la agenda subnacional.",
+    "analisis_profundo": "La dinámica federal de la última jornada se presenta polarizada. Por un lado, la provincia de Buenos Aires, a través de Axel Kicillof, emerge como un foco de tensión explícita con el Gobierno nacional, al denunciar con dureza el impacto de la modificación del régimen de Zona Fría en cinco millones de bonaerenses. Este pronunciamiento no solo visibiliza una profunda preocupación social por las tarifas, sino que también interpela directamente al Senado, buscando el rechazo de la iniciativa. Esta postura subraya una clara divergencia en la política de subsidios y una defensa del poder adquisitivo provincial frente a las medidas de ajuste centralizadas.\n\nEn contraste, otros mandatarios adoptan enfoques más orientados a la gestión y el desarrollo regional, aunque no exentos de implicaciones políticas. Arabela Carreras (Río Negro) destaca una audiencia pública clave para un gasoducto que busca transportar gas desde Vaca Muerta, enfatizando el 'desarrollo, sí. Pero con los rionegrinos adentro', lo que denota una fuerte defensa de los intereses provinciales en megaproyectos. Osvaldo Jaldo (Tucumán) resalta una significativa inversión en repavimentación vial, un clásico de la gestión de obra pública local. Leandro Zdero (Chaco) celebra un crecimiento notable en las exportaciones provinciales, buscando realzar el perfil productivo regional.\n\nAlfredo Cornejo (Mendoza) muestra una agenda dual: por un lado, un convenio innovador en salud pública para detección temprana de AME, y por otro, un encuentro 'de camaradería' con el expresidente Mauricio Macri, lo que sugiere un diálogo interno y posicionamiento dentro del espectro político. Claudio Poggi (San Luis) despliega una intensa actividad en la inauguración de obras, entrega de viviendas y programas sociales, consolidando una imagen de gestión cercana y eficiente. Finalmente, Gustavo Melella (Tierra del Fuego) expone una tensión política interna al lamentar la impugnación de la reforma constitucional, un reflejo de las complejas dinámicas de poder local. La agenda de seguridad, con Claudio Vidal (Santa Cruz) fortaleciendo a sus fuerzas, también se mantiene vigente.\n\nEn suma, se observa un federalismo en ebullición, con provincias que confrontan al centro, otras que buscan capitalizar oportunidades de desarrollo en sectores estratégicos como la energía y la producción, y algunas que consolidan su gestión a nivel micro. La complejidad del escenario nacional impulsa a los gobernadores a extremar su ingenio, ya sea en la confrontación política o en la ejecución pragmática de obras y programas locales para mantener la cohesión y el respaldo en sus territorios.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto por Tarifas y Ajuste Nacional: Critica fuertemente al Gobierno nacional por la modificación del régimen de Zona Fría.",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Desarrollo Energético y Defensa de Recursos Provinciales: Río Negro avanza con proyectos gasíferos estratégicos, buscando asegurar beneficios locales.",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión y Obra Pública Local: Varias provincias destacan inauguraciones y avances en infraestructura vial, salud y vivienda, como forma de responder a las necesidades ciudadanas.",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@OsvaldoJaldo",
+                "@LeandroZdero",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Salud Pública y Programas de Prevención: Mendoza implementa un programa de detección temprana de enfermedades, evidenciando el enfoque en la mejora de los servicios sanitarios.",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Posicionamiento Político y Diálogo Interprovincial/Nacional: Gobernadores se reúnen para dialogar sobre la situación nacional o fortalecer bloques regionales.",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@gustavomelella"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Tornquist, 9 AM, 4 grados. Una verdadera zona fría de la provincia de Buenos Aires. Como acá, en muchos otros lugares de nuestro territorio las familias necesitan tarifas diferenciales para poder afrontar el invierno. La modificación del régimen de Zona Fría deja sin esa posibilidad a 5 millones de bonaerenses que no pueden pagar la luz, el gas y otras cuestiones básicas. Por crueldad, por ignorancia, el Gobierno nacional vuelve a complicarle la vida a los argentinos. El Senado tiene que rechazar este proyecto.",
+        "por_que_es_clave": "El tweet representa una crítica directa y explícita al Gobierno nacional sobre un tema de alto impacto social y económico, generando una clara tensión federal y una llamada a la acción legislativa.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al Gobierno Nacional",
+                "Tarifas de Servicios",
+                "Federalismo",
+                "Zona Fría"
+            ],
+            "postura_politica": "Postura fuertemente crítica y confrontativa hacia el Gobierno nacional, al que acusa de 'crueldad' e 'ignorancia' por la modificación del régimen de Zona Fría. Defiende los intereses de los bonaerenses y apela al Senado para rechazar la medida, posicionándose como protector del poder adquisitivo provincial.",
+            "frase_fuerte": "Por crueldad, por ignorancia, el Gobierno nacional vuelve a complicarle la vida a los argentinos. El Senado tiene que rechazar este proyecto."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Diálogo político",
+                "Consenso",
+                "Semana Social"
+            ],
+            "postura_politica": "Enfatiza la importancia del diálogo y la construcción de consensos en un contexto nacional complejo, posicionando a Córdoba como un espacio para la reflexión multisectorial. Muestra una postura constructiva y abierta, buscando 'tender puentes' para el bien común.",
+            "frase_fuerte": "Es muy valioso que #Córdoba sea sede de un encuentro nacional que convocará a referentes de la vida social, política, empresarial, sindical y académica de nuestro país para reflexionar, dialogar y ayudar a construir consensos en un momento complejo de la Argentina."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Gestión local",
+                "Desarrollo",
+                "Vivienda",
+                "Salud",
+                "Educación",
+                "Inversión privada"
+            ],
+            "postura_politica": "Proyecta una imagen de gobernador proactivo y enfocado en la gestión micro, destacando logros y avances en infraestructura y programas sociales. Subraya la 'vocación de servicio' de jóvenes intendentes y la importancia de la 'seguridad jurídica y tranquilidad familiar' en la entrega de escrituras.",
+            "frase_fuerte": "Estos jóvenes Dirigentes me demuestran, con su vocación de servicio, que San Luis tiene futuro."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo energético",
+                "Gasoductos",
+                "Vaca Muerta",
+                "Participación ciudadana",
+                "Defensa de intereses provinciales"
+            ],
+            "postura_politica": "Adopta una postura firme en la defensa de los intereses rionegrinos frente a proyectos energéticos de gran escala. Destaca la participación ciudadana y la transparencia, buscando que el 'desarrollo deje valor' en la provincia, con un enfoque pragmático y de futuro.",
+            "frase_fuerte": "Río Negro no quiere ser espectador del futuro energético argentino. Quiere ser protagonista. Y ese protagonismo tiene una condición innegociable: desarrollo, sí. Pero con los rionegrinos adentro."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Equipamiento policial",
+                "Gestión"
+            ],
+            "postura_politica": "Se enfoca en fortalecer las fuerzas de seguridad provincial, destacando la inversión en equipamiento y recursos. Proyecta una imagen de compromiso con la seguridad ciudadana y de cumplimiento de promesas, reiterando el lema 'Santa Cruz Puede...'.",
+            "frase_fuerte": "CUMPLIMOS CON LA PALABRA DE ACOMPAÑAR A NUESTRAS FUERZAS CON MÁS EQUIPAMIENTO Y RECURSOS"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial",
+                "Desarrollo regional",
+                "Gestión local"
+            ],
+            "postura_politica": "Resalta la concreción de una obra vial de gran envergadura como un logro esperado, mostrando un fuerte compromiso con la mejora de la infraestructura y la calidad de vida en el interior de la provincia. Enfatiza la inversión provincial en un contexto desafiante.",
+            "frase_fuerte": "Hoy hicimos realidad una obra esperada durante muchos años por las familias del sur tucumano: inauguramos la repavimentación integral de 14 kilómetros de la Ruta Provincial 331"
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Innovación",
+                "Detección temprana",
+                "Diálogo político",
+                "Contexto nacional"
+            ],
+            "postura_politica": "Muestra una gestión activa en salud con un enfoque innovador y de prevención. A nivel político, su encuentro con Mauricio Macri refleja un rol de diálogo y colaboración dentro de su espacio, buscando fortalecer el rumbo provincial en el marco de la situación nacional.",
+            "frase_fuerte": "Firmamos un convenio entre nuestro Ministerio de Salud y la empresa farmacéutica Novartis para implementar un programa de detección temprana de Atrofia Muscular Espinal (AME) en recién nacidos de toda la provincia."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública local",
+                "Economía provincial",
+                "Exportaciones",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Destaca avances en infraestructura local y celebra el crecimiento de las exportaciones, presentándose como un impulsor del desarrollo productivo. Mantiene un tono de gestión y enfoque en resultados económicos para la provincia.",
+            "frase_fuerte": "¡LAS EXPORTACIONES DEL CHACO CRECIERON UN 56%!"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inclusión educativa",
+                "Obra pública",
+                "Economía provincial",
+                "Consumo"
+            ],
+            "postura_politica": "Proyecta una imagen de liderazgo en gestión con un enfoque social en educación y un tono optimista sobre el desempeño económico de la provincia, respaldado por datos de consumo. Enfatiza el 'cambio real' y la inversión per cápita en obra pública.",
+            "frase_fuerte": "NEUQUÉN LIDERA EL CONSUMO EN SUPERMERCADOS"
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Reforma constitucional",
+                "Política interna",
+                "Tensión política"
+            ],
+            "postura_politica": "Expresa desaprobación ante la impugnación de la reforma constitucional, lo que sugiere una defensa de su iniciativa y un clima de tensión política interna en la provincia. Subraya la búsqueda de un 'nuevo impulso' para la provincia.",
+            "frase_fuerte": "Lamento profundamente la insistencia a la impugnación de la reforma parcial de nuestra Constitución Provincial."
+        }
+    ]
+}
