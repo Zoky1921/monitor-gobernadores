@@ -1,0 +1,89 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "Los gobernadores se concentraron en la difusión de logros de gestión provincial, marcando una jornada sin tensiones federales o inter-provinciales evidentes. La agenda principal giró en torno al desarrollo económico, con Neuquén destacándose en la creación de empleo privado. Otros mandatarios priorizaron la finalización de obras de vivienda e infraestructura social, así como el fomento de la actividad local a través de eventos o apoyo a PyMEs. El enfoque fue la autonomía de gestión y la capacidad provincial para generar soluciones y oportunidades.",
+    "analisis_profundo": "La jornada federal transcurrió con un marcado énfasis en las agendas provinciales, donde los gobernadores optaron por comunicar logros de gestión y políticas locales, distanciándose de confrontaciones con el Gobierno nacional o entre jurisdicciones. Esta dinámica sugiere una estrategia de afirmación de la autonomía y la capacidad de las provincias para generar soluciones frente a un contexto económico complejo.\n\nEl gobernador @Rolo_Figueroa (Neuquén) encabezó la agenda con una sólida declaración sobre el crecimiento del empleo registrado en el sector privado, posicionando a su provincia como líder a nivel nacional. Esta afirmación, respaldada por datos, refuerza la narrativa de un 'modelo neuquino' de estado ordenado e inversor, enfocado en reglas claras para el desarrollo económico. De forma similar, el gobernador @ZiliottoSergio (La Pampa) subrayó el rol del Banco de La Pampa como 'bien público, bien del Estado' en la protección del empleo y la producción, a través del apoyo a las PyMEs pampeanas, marcando una postura de defensa de la intervención estatal en la economía local.\n\nEn el ámbito de la infraestructura y el desarrollo social, el gobernador @ClaudioVidalSer (Santa Cruz) hizo hincapié en la promesa de terminar viviendas para madres solteras en Puerto Santa Cruz, presentándolo como una recuperación de obras inconclusas y una oportunidad real para familias vulnerables, reflejando un compromiso con la justicia social y la eficacia en la ejecución de proyectos abandonados. El gobernador @LeandroZdero (Chaco) también inauguró una plaza central con oficinas sociales en Colonia Aborigen, vinculando la obra pública con la recuperación de espacios históricos y la atención a comunidades originarias y excombatientes.\n\nPor su parte, el gobernador @GustavoSaenzOK (Salta) destacó el impacto económico y turístico de grandes eventos deportivos como el SuperTC2000, posicionando a su provincia como un polo de atracción que genera movimiento y empleo. Estas comunicaciones, si bien diversas en sus especificidades, confluyen en una agenda común de proactividad provincial, buscando demostrar resiliencia y capacidad de autogestión en un escenario nacional desafiante. La ausencia de pronunciamientos conflictivos sugiere un periodo de consolidación de agendas internas y pragmatismo político.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo económico y fomento del empleo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@ZiliottoSergio",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura y vivienda social",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Rol proactivo del Estado provincial y gestión autónoma",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "EL MODELO NEUQUINO SE EXPRESA EN CADA UNO DE LOS INDICADORES. Desde el inicio de la gestión en 2023 hasta febrero de 2026 en la provincia creció un 5.8% la creación de empleo registrado en el sector privado, lo que nos ubica en el primer lugar entre las 24 jurisdicciones. Un estado ordenado, una gran inversión en obras y reglas claras nos dan la posibilidad de generar más empleo privado registrado, mayor actividad económica y un fuerte impulso a la construcción. Hemos logrado reducir el desempleo y la pobreza, y aunque sabemos que todavía falta, tenemos un objetivo claro y estamos trabajando todos juntos para alcanzarlo.",
+        "por_que_es_clave": "El gobernador (Neuquén) presenta un informe detallado sobre el liderazgo de su provincia en la creación de empleo privado a nivel nacional, consolidando una narrativa de éxito en la gestión económica y diferenciándose del contexto general del país. Es una afirmación contundente de la eficacia de su 'modelo neuquino'.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura social",
+                "Atención a comunidades",
+                "Patrimonio cultural"
+            ],
+            "postura_politica": "El gobernador (Chaco) muestra un enfoque en la recuperación y mejora de la infraestructura social, con un fuerte componente de inclusión y reconocimiento histórico. La inauguración de la plaza central en Colonia Aborigen y las nuevas oficinas para originarios y excombatientes reflejan una gestión orientada a necesidades específicas y la valoración del patrimonio local.",
+            "frase_fuerte": "¡OBRA HISTÓRICA! Inauguramos a nueva la Plaza Central en Colonia Aborigen junto con nuevas oficinas para la atención de las familias."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Apoyo a PyMEs",
+                "Fomento del empleo",
+                "Rol del Estado en la economía"
+            ],
+            "postura_politica": "El gobernador (La Pampa) enfatiza una política económica provincial proactiva, centrada en el apoyo a las pequeñas y medianas empresas y la protección del empleo. Subraya el rol del Banco de La Pampa como un instrumento estatal para el desarrollo, posicionándose en defensa de un Estado presente y activo frente a las dinámicas del mercado.",
+            "frase_fuerte": "Ayudar a las Pymes pampeanas es proteger el empleo, es sostener el salario, es potenciar el trabajo y la producción. Banco de La Pampa. Bien público, bien del Estado."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Crecimiento económico",
+                "Creación de empleo",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "El gobernador (Neuquén) se proyecta como un gestor eficaz, destacando el liderazgo de su provincia en la creación de empleo privado a nivel nacional. Vincula este éxito a un 'estado ordenado', 'inversión en obras' y 'reglas claras', promoviendo la idea de un modelo de desarrollo provincial robusto y diferenciado.",
+            "frase_fuerte": "EL MODELO NEUQUINO SE EXPRESA EN CADA UNO DE LOS INDICADORES. Desde el inicio de la gestión en 2023 hasta febrero de 2026 en la provincia creció un 5.8% la creación de empleo registrado en el sector privado, lo que nos ubica en el primer lugar entre las 24 jurisdicciones."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Turismo",
+                "Desarrollo económico regional",
+                "Eventos deportivos"
+            ],
+            "postura_politica": "El gobernador (Salta) impulsa una estrategia de desarrollo económico basada en la promoción de grandes eventos deportivos. Su enfoque busca atraer turismo, generar movimiento económico y crear oportunidades laborales para las familias salteñas, consolidando a la provincia como un destino atractivo y dinámico.",
+            "frase_fuerte": "Cuando Salta recibe grandes eventos deportivos, gana toda la provincia."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Compromiso de gestión",
+                "Madres solteras"
+            ],
+            "postura_politica": "El gobernador (Santa Cruz) demuestra un compromiso firme con la finalización de obras de vivienda social que habían quedado inconclusas, especialmente dirigidas a madres solteras. Su discurso enfatiza la importancia de 'terminar lo que dejaron a medio hacer' como una política de oportunidades y dignidad para las familias, reflejando una postura de corrección de gestiones anteriores y un fuerte acento social.",
+            "frase_fuerte": "VAMOS A TERMINAR LO QUE DEJARON A MEDIO HACER, Y ESTA VEZ LAS VIVIENDAS SERÁN PARA MADRES SOLTERAS DE PUERTO SANTA CRUZ"
+        }
+    ]
+}
