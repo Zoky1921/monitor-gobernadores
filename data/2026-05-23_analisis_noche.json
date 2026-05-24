@@ -1,0 +1,198 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal evidenció una clara dicotomía: mientras el gobernador Axel Kicillof (Buenos Aires) arremetió duramente contra el Gobierno nacional por la modificación del régimen de Zona Fría, la mayoría de sus pares priorizaron la gestión local. Gobernadores como Rolando Figueroa (Neuquén) y Leandro Zdero (Chaco) destacaron el avance de obras de infraestructura, la promoción de sus economías regionales y datos económicos positivos. Otros, como Claudio Vidal (Santa Cruz) y Claudio Poggi (San Luis), se enfocaron en programas de vivienda, servicios públicos y acceso a bienes a precios justos, mostrando una fuerte impronta social y de cercanía con la ciudadanía, a pesar de las tensiones federales subyacentes.",
+    "analisis_profundo": "La agenda de los gobernadores provinciales hoy, 23 de mayo de 2026, estuvo marcada por una combinación de gestión provincial y confrontación federal. El punto de mayor tensión provino de Axel Kicillof (Buenos Aires), quien denunció al Gobierno nacional con vehemencia por la modificación del régimen de Zona Fría, calificándola de 'crueldad' e 'ignorancia' y exigiendo al Senado su rechazo. Esta postura polariza la relación con la administración central en un tema de alto impacto social y económico para su provincia. Gustavo Melella (Tierra del Fuego) también señaló una disputa institucional al lamentar la impugnación a la reforma de su Constitución Provincial, añadiendo otra capa de fricción al panorama federal. \n\nEn contraste, un grupo significativo de gobernadores se dedicó a comunicar logros y avances en la gestión territorial. Rolando Figueroa (Neuquén) se destacó en el sector energético, anunciando acuerdos con YPF para el desarrollo de Vaca Muerta y el proyecto GNL, y celebrando un crecimiento del 2,6% en el consumo en supermercados, consolidando a Neuquén como protagonista económico. Leandro Zdero (Chaco) reportó un impresionante aumento del 56% en las exportaciones y la continuidad de obras de pavimentación, elementos que refuerzan la productividad regional. En Santa Cruz, Claudio Vidal impulsó la apertura de un Mercado Concentrador Patagónico para ofrecer productos accesibles y destacó la entrega de viviendas y el fortalecimiento de la seguridad. \n\nLa inversión en infraestructura social y servicios públicos fue un eje recurrente. Claudio Poggi (San Luis) anunció la preadjudicación de 150 viviendas en la capital y la ampliación de centros de salud, además de programas educativos. Alberto Weretilneck (Río Negro) enfatizó la lucha contra el narcotráfico y la criminalidad, mientras impulsaba un gasoducto clave y acercaba servicios del Estado a las comunidades. Alfredo Cornejo (Mendoza) destacó un convenio innovador con Novartis para la detección temprana de Atrofia Muscular Espinal, y Hugo Passalacqua (Misiones) celebró la formación de jóvenes profesionales y obras viales, vitales para el turismo. Martín Llaryora (Córdoba) se centró en la organización de la Semana Social y el impacto económico de grandes eventos deportivos, buscando el diálogo y el desarrollo. Gustavo Sáenz (Salta) también realzó el turismo deportivo como motor económico. Este despliegue de acciones provinciales subraya la búsqueda de autonomía y el foco en las necesidades locales ante un contexto nacional complejo.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo y Crítica a Políticas Nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Obra Pública",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Regional y Productividad",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales, Salud y Vivienda",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Tornquist, 9 AM, 4 grados. Una verdadera zona fría de la provincia de Buenos Aires. Como acá, en muchos otros lugares de nuestro territorio las familias necesitan tarifas diferenciales para poder afrontar el invierno. La modificación del régimen de Zona Fría deja sin esa posibilidad a 5 millones de bonaerenses que no pueden pagar la luz, el gas y otras cuestiones básicas. Por crueldad, por ignorancia, el Gobierno nacional vuelve a complicarle la vida a los argentinos. El Senado tiene que rechazar este proyecto.",
+        "por_que_es_clave": "El gobernador Kicillof (Buenos Aires) lanza una crítica frontal y directa al Gobierno nacional, acusándolo de 'crueldad' e 'ignorancia' por la modificación del régimen de Zona Fría. Su llamado explícito al Senado para rechazar el proyecto marca una escalada en la tensión entre la provincia y la Nación, visibilizando un conflicto federal con un impacto social y económico masivo.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Federalismo",
+                "Tarifas energéticas",
+                "Vivienda",
+                "Educación",
+                "Tecnología",
+                "Crítica al Gobierno Nacional"
+            ],
+            "postura_politica": "Se muestra como un defensor de los derechos provinciales y del bienestar de los bonaerenses frente a las políticas del Gobierno nacional, al que acusa de perjudicar a la población con medidas como la modificación de la Zona Fría. Adicionalmente, resalta la gestión local en vivienda y educación.",
+            "frase_fuerte": "Por crueldad, por ignorancia, el Gobierno nacional vuelve a complicarle la vida a los argentinos. El Senado tiene que rechazar este proyecto."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo económico",
+                "Exportaciones"
+            ],
+            "postura_politica": "Enfatiza los logros de su gestión en infraestructura vial con obras de pavimentación en diversas localidades. Destaca un importante crecimiento de las exportaciones, presentándolo como un éxito de la política provincial para el desarrollo económico y productivo.",
+            "frase_fuerte": "¡LAS EXPORTACIONES DEL CHACO CRECIERON UN 56%!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Adultos mayores",
+                "Gestión local"
+            ],
+            "postura_politica": "Muestra cercanía con la ciudadanía, especialmente con el sector de los adultos mayores, a quienes se compromete a apoyar con infraestructura. Su enfoque es de gestión directa y de atención a las necesidades de la comunidad.",
+            "frase_fuerte": "CERCA DE QUIENES HICIERON GRANDE A NUESTRA PROVINCIA"
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Innovación",
+                "Colaboración público-privada",
+                "Diálogo político"
+            ],
+            "postura_politica": "Refuerza el compromiso con la salud pública a través de la implementación de programas innovadores en conjunto con el sector privado. Además, mantiene un perfil dialoguista con figuras políticas relevantes a nivel nacional, como el expresidente Macri.",
+            "frase_fuerte": "Siempre es valioso poder dialogar y compartir miradas sobre la situación económica y social de la Argentina y de nuestra provincia."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Educación",
+                "Juventud",
+                "Infraestructura",
+                "Turismo"
+            ],
+            "postura_politica": "Resalta la importancia de la educación y la formación de jóvenes profesionales para el desarrollo provincial. Informa sobre avances en infraestructura vial, fundamental para la conectividad y el impulso turístico de la región.",
+            "frase_fuerte": "Cada egresado representa más oportunidades y más herramientas para seguir fortaleciendo una ciudad que crece todos los días y que necesita profesionales capacitados para un turismo y unos servicios de excelencia."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Energía",
+                "Vaca Muerta",
+                "Inversión",
+                "Infraestructura",
+                "Educación inclusiva",
+                "Economía provincial"
+            ],
+            "postura_politica": "Posiciona a Neuquén como un actor clave en la matriz energética nacional e internacional, promoviendo el desarrollo de Vaca Muerta y el GNL. Destaca la inversión en infraestructura educativa y los indicadores económicos positivos que muestran el crecimiento provincial, diferenciándose del contexto nacional.",
+            "frase_fuerte": "Neuquén tiene la oportunidad histórica de convertirse en protagonista de una nueva etapa para la Argentina: producir, industrializar y exportar energía al mundo."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia",
+                "Lucha contra el narcotráfico",
+                "Servicios públicos",
+                "Infraestructura",
+                "Participación ciudadana"
+            ],
+            "postura_politica": "Demuestra firmeza en la lucha contra el crimen y el narcotráfico, destacando la eficiencia policial y el rol de las denuncias anónimas. Paralelamente, impulsa grandes obras energéticas con participación pública y refuerza el acercamiento de servicios del Estado a los ciudadanos.",
+            "frase_fuerte": "En Río Negro al narcotráfico se lo enfrenta."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Turismo",
+                "Deporte",
+                "Desarrollo económico local"
+            ],
+            "postura_politica": "Proyecta a Salta como un destino atractivo para grandes eventos deportivos, utilizando el turismo como motor de crecimiento económico y generador de empleo para la provincia.",
+            "frase_fuerte": "Cuando Salta recibe grandes eventos deportivos, gana toda la provincia."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Economía local",
+                "Acceso a alimentos",
+                "Vivienda",
+                "Seguridad"
+            ],
+            "postura_politica": "Enfatiza el compromiso con el bienestar de las familias santacruceñas, ofreciendo productos a precios accesibles a través de un mercado concentrador y garantizando el acceso a la vivienda. Reafirma el apoyo y fortalecimiento de las fuerzas de seguridad.",
+            "frase_fuerte": "CIENTOS DE FAMILIAS APROVECHARON LA PRIMERA JORNADA DE VENTA MINORISTA DEL MERCADO CONCENTRADOR PATAGÓNICO"
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Reforma constitucional",
+                "Política institucional"
+            ],
+            "postura_politica": "Expresa descontento y lamenta la impugnación de la reforma constitucional provincial, lo que sugiere un contexto de disputa institucional en su provincia.",
+            "frase_fuerte": "Lamento profundamente la insistencia a la impugnación de la reforma parcial de nuestra Constitución Provincial."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Salud",
+                "Educación",
+                "Juventud",
+                "Infraestructura",
+                "Desarrollo económico local"
+            ],
+            "postura_politica": "Se enfoca en una gestión de cercanía con los municipios, destacando el avance en programas de vivienda, la mejora de la infraestructura de salud, y el impulso a la educación y el desarrollo económico a través de inversiones privadas y públicas.",
+            "frase_fuerte": "La 'cercanía' con cada rincón de la geografía provincial es nuestra forma de gobernar."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Diálogo institucional",
+                "Impacto económico del turismo y eventos",
+                "Deporte"
+            ],
+            "postura_politica": "Promueve el diálogo intersectorial a través de la organización de la Semana Social. Destaca la capacidad de Córdoba para atraer grandes eventos, evidenciando el significativo impacto económico que estos generan para la provincia, especialmente en turismo y empleo.",
+            "frase_fuerte": "La Semana Social que tendrá lugar en nuestra provincia... es muy valioso que #Córdoba sea sede de un encuentro nacional que convocará a referentes de la vida social, política, empresarial, sindical y académica de nuestro país para reflexionar, dialogar y ayudar a construir consensos."
+        }
+    ]
+}

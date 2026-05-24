@@ -1,0 +1,181 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada combina ataques directos de Kicillof contra el ajuste nacional por la Zona Fría, con gestos de alineamiento opositor de Cornejo con Macri, mientras gobernadores periféricos se refugian en gestión local y seguridad. El silencio de los radicales y peronistas no-K sobre la macroeconomía sugiere repliegue táctico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La ofensiva de Axel Kicillof (Buenos Aires) contra la modificación del régimen de Zona Fría concentra la tensión fiscal del día. Con el Senado como destino de su reclamo, el gobernador bonaerense no solo denuncia una medida que castigaría a 5 millones de habitantes, sino que traza una línea divisoria: el Gobierno nacional actúa por 'crueldad' e 'ignorancia'. Es una jugada de doble filo: busca capitalizar el malestar social invernal y, al mismo tiempo, disciplinar a los senadores propios y ajenos en la previa de una votación clave. La omisión de otros gobernadores sobre este tema —incluso de aquellos cuyas provincias también perderían el beneficio— revela un cálculo: algunos prefieren no confrontar abiertamente con la Casa Rosada, mientras otros guardan silencio para no incomodar a sus legisladores nacionales.\n\nActo 2 — Los Alineamientos: Alfredo Cornejo (Mendoza) rompe el molde al recibir al expresidente Mauricio Macri en un gesto de camaradería que trasciende lo protocolario. La foto con el líder del PRO, sumada a su reunión con Luis Caputo por el RIGI solar, lo posiciona como el gobernador radical más alineado con el núcleo duro del oficialismo nacional. En la vereda opuesta, Maximiliano Pullaro (Santa Fe) y Rogelio Frigerio (Entre Ríos) optan por la ambigüedad calculada: el primero se enfoca en seguridad y obra pública sin mencionar la Zona Fría; el segundo celebra la baja de retenciones pero pide un nuevo acuerdo fiscal federal. Es un 'sí, pero' que busca evitar ser arrinconado en la grieta.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas se repliegan en la agenda de cabotaje. Claudio Poggi (San Luis) entrega viviendas y escrituras, Claudio Vidal (Santa Cruz) inaugura un mercado concentrador para contener precios, y Leandro Zdero (Chaco) festeja exportaciones récord. Son gestos de supervivencia en un contexto de achique fiscal, donde la gestión local se convierte en el único escudo contra el desgaste nacional. Rolando Figueroa (Neuquén) da un paso más allá: su reunión con YPF por el proyecto GNL no solo es un anuncio de gestión, sino una declaración de autonomía energética y una señal de que el sur no piensa esperar a que Nación resuelva la macro.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día deja un saldo agridulce. Por un lado, la ofensiva de Kicillof confirma que el kirchnerismo duro no dará tregua en el Congreso. Por el otro, el apoyo explícito de Cornejo y el silencio de otros gobernadores radicales y peronistas no-K sugieren que el oficialismo aún conserva margen para negociar. Sin embargo, la ausencia de una defensa cerrada del ajuste tarifario entre los mandatarios provinciales es una advertencia: el invierno puede congelar las lealtades políticas. El riesgo no es solo fiscal, es también territorial: cuantos más gobernadores se refugien en la gestión local, más se debilita la narrativa nacional de sacrificio compartido.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto por la modificación del régimen de Zona Fría",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Energía e hidrocarburos (GNL y Vaca Muerta)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Alineamiento político con el PRO",
+            "gobernadores_involucrados": [
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Gestión local con impactos en exportaciones y créditos",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Tornquist, 9 AM, 4 grados. Una verdadera zona fría de la provincia de Buenos Aires. Como acá, en muchos otros lugares de nuestro territorio las familias necesitan tarifas diferenciales para poder afrontar el invierno.   La modificación del régimen de Zona Fría deja sin esa posibilidad a 5 millones de bonaerenses que no pueden pagar la luz, el gas y otras cuestiones básicas.  Por crueldad, por ignorancia, el Gobierno nacional vuelve a complicarle la vida a los argentinos. El Senado tiene que rechazar este proyecto.",
+        "por_que_es_clave": "Kicillof utiliza una postal invernal para convertir una medida técnica de tarifas en un acto de 'crueldad' política. El mensaje es doble: retrata al Gobierno nacional como insensible y, al mismo tiempo, presiona al Senado para que bloquee la iniciativa, en un intento de capitalizar el descontento social y posicionarse como defensor del bolsillo bonaerense.",
+        "pregunta_openarg": "¿Cuántos senadores del oficialismo y la oposición mantendrán su voto a favor de la reforma de Zona Fría después de que Kicillof la etiquete como un acto de 'crueldad'?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "Viviendas",
+                "Educación digital"
+            ],
+            "postura_politica": "Oposición frontal al Gobierno nacional. Utiliza la gestión local como plataforma para denunciar el ajuste, en especial la modificación del régimen de Zona Fría que afecta a su provincia. Su tono es de denuncia moral y política, buscando arrastrar al Senado a su posición.",
+            "frase_fuerte": "Por crueldad, por ignorancia, el Gobierno nacional vuelve a complicarle la vida a los argentinos."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Exportaciones",
+                "Obras de pavimento",
+                "Festividad religiosa"
+            ],
+            "postura_politica": "Positivismo gestionario sin confrontación con Nación. Destaca el crecimiento de las exportaciones chaqueñas como un logro propio, evitando cualquier crítica directa al gobierno federal. La agenda es de cabotaje y promoción económica.",
+            "frase_fuerte": "¡LAS EXPORTACIONES DEL CHACO CRECIERON UN 56%! ... el mejor primer cuatrimestre de los últimos cuatro años."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Seguridad en cárceles",
+                "Conectividad rural",
+                "Adultos mayores"
+            ],
+            "postura_politica": "Discurso de mano dura en seguridad, en sintonía con la línea nacional de 'ley y orden'. No menciona a Nación en sus tuits de hoy, lo que sugiere que su capital político se construye en la gestión local y en la lucha contra el delito, sin alinearse ni confrontar abiertamente con la Casa Rosada.",
+            "frase_fuerte": "SE TERMINÓ LA JODA EN LAS CÁRCELES ... mientras algunos defendían privilegios para los presos, nosotros avanzamos con una ley para sacarles los celulares."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Día del Trabajador de la Educación"
+            ],
+            "postura_politica": "Agenda protocolar sin impacto federal. El saludo a los docentes es genérico y no contiene críticas ni menciones a la Nación. Refleja una gestión aislada de la macroeconomía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Peregrinación religiosa"
+            ],
+            "postura_politica": "Agenda local de cabotaje. El tweet sobre la peregrinación a Catuna es meramente institucional y religioso, sin contenido político visible.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Encuentro con Mauricio Macri",
+                "RIGI solar"
+            ],
+            "postura_politica": "Alineamiento con el macrismo y el oficialismo nacional. El encuentro con Macri es una señal clara de su ubicación en la interna opositora. Además, promociona la inversión en energía solar vía RIGI, en sintonía con la política energética de Nación.",
+            "frase_fuerte": "En su visita a Mendoza mantuve un encuentro de camaradería con el expresidente Mauricio Macri. Siempre es valioso poder dialogar..."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Créditos con Banco Nación",
+                "Obras de asfaltado",
+                "Educación"
+            ],
+            "postura_politica": "Gestión articulada con Nación. El lanzamiento de líneas de crédito con el Banco Nación muestra una relación operativa positiva, sin confrontación. Se enfoca en la gestión territorial y el desarrollo productivo.",
+            "frase_fuerte": "Junto al Banco Nación lanzamos nuevas líneas de crédito por $97 mil millones... para productores, cooperativas, industrias y PyMEs misioneras."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "GNL con YPF",
+                "Asfalto en Villa La Angostura",
+                "Educación inclusiva",
+                "Consumo lidera"
+            ],
+            "postura_politica": "Posicionamiento estratégico en energía. La reunión con YPF por el proyecto GNL es un gesto de autonomía y un guiño a la política energética nacional, pero con claro beneficio para su provincia. Liderazgo en consumo y obra pública refuerzan su gestión.",
+            "frase_fuerte": "NEUQUÉN IMPULSA LA NUEVA ETAPA ENERGÉTICA DE LA ARGENTINA ... Estamos trabajando para lograr que la Argentina produzca GNL."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Seguridad y narcotráfico",
+                "Trámites y gestión cercana",
+                "Gasoducto y audiencia pública"
+            ],
+            "postura_politica": "Doble eje: seguridad y desarrollo energético. Por un lado, muestra resultados concretos en la lucha contra el narco. Por el otro, impulsa el gasoducto Tratayén-San Antonio Oeste como proyecto estratégico, con un discurso de participación y transparencia. No hay confrontación con Nación; más bien, cooperación técnica.",
+            "frase_fuerte": "En Río Negro al narcotráfico se lo enfrenta. Si sabés algo, denunciá al 0800-333-4124."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Evento deportivo Super TC2000"
+            ],
+            "postura_politica": "Agenda de promoción turística y económica. El tweet destaca el impacto del evento deportivo, sin contenido político partidario. Es un posicionamiento de gestión local exitosa.",
+            "frase_fuerte": "Cuando Salta recibe grandes eventos deportivos, gana toda la provincia. El Super TC2000 volvió al Autódromo... generando movimiento económico, turismo y trabajo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Salud",
+                "Escrituras",
+                "Educación"
+            ],
+            "postura_politica": "Pura gestión local. Los tweets son de anuncios de obras, entrega de viviendas y mejoras en salud, sin mención a la política nacional. Refleja una administración enfocada en lo territorial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Mercado Concentrador Patagónico",
+                "Viviendas",
+                "Equipamiento policial"
+            ],
+            "postura_politica": "Gestión social y seguridad. Pone en marcha un mercado para contener precios y entrega viviendas, con un discurso de 'cumplir promesas'. El equipamiento policial apunta a mejorar la seguridad, un tema clave en la provincia.",
+            "frase_fuerte": "CIENTOS DE FAMILIAS APROVECHARON LA PRIMERA JORNADA DE VENTA MINORISTA DEL MERCADO CONCENTRADOR PATAGÓNICO"
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Reforma constitucional"
+            ],
+            "postura_politica": "Posicionamiento de reforma política. Lamenta la impugnación a la reforma constitucional, una jugada que busca modernizar la provincia pero que genera resistencias. Se presenta como impulsor del cambio frente al statu quo.",
+            "frase_fuerte": "Lamento profundamente la insistencia a la impugnación de la reforma parcial de nuestra Constitución Provincial."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Repavimentación de ruta",
+                "Seguridad regional",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Gestión local y articulación regional. La inauguración de la ruta es obra pública provincial. La reunión de seguridad con otros gobernadores del NOA muestra coordinación, pero sin enfrentamiento con Nación.",
+            "frase_fuerte": "Hoy hicimos realidad una obra esperada durante muchos años por las familias del sur tucumano: inauguramos la repavimentación integral de 14 kilómetros de la Ruta Provincial 331."
+        }
+    ]
+}
