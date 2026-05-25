@@ -1,0 +1,237 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por la tensión fiscal entre Nación y provincias, con Kicillof y Llaryora denunciando la modificación del régimen de Zona Fría. Sin embargo, la mayoría de los gobernadores optó por una agenda de gestión local, reforzando la autonomía frente al repliegue nacional. Destacan también las gestiones en seguridad y energía en provincias del sur.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El eje de la jornada lo ocupa la disputa por el régimen de Zona Fría, aunque solo dos gobernadores lo mencionan en sus posteos válidos. Kicillof (Buenos Aires) y Llaryora (Córdoba) utilizan el tema para marcar territorio frente al ajuste nacional, pero lo hacen desde ángulos distintos: el bonaerense apela a la crueldad y la desigualdad, mientras el cordobés conjuga el reclamo con una demostración de gestión propia. La omisión del resto de los mandatarios sobre este tema sugiere un cálculo de supervivencia: no todos pueden darse el lujo de confrontar abiertamente.\n\nActo 2 — Los Alineamientos: Se perfila un bloque de gobernadores que priorizan la gestión local por sobre el conflicto con Nación. Macri (CABA) y Poggi (San Luis) se refugian en agendas celebratorias y de baja intensidad política, evitando cualquier roce con la Casa Rosada. En la vereda opuesta, Figueroa (Neuquén) y Weretilneck (Río Negro) se posicionan como motores del desarrollo energético, con un discurso que celebra el crecimiento provincial sin atacar directamente al gobierno nacional. Saenz (Salta) combina la promoción de inversiones con un reclamo velado por la falta de respuestas históricas en materia de gas.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas y de menor peso relativo optan por la gestión de cabotaje como estrategia de supervivencia. Jalil (Catamarca) muestra su perfil pro-minero y de apertura internacional; Zdero (Chaco) se enfoca en obras y exportaciones; Passalacqua (Misiones) reparte créditos y celebra aniversarios; Ziliotto (La Pampa) defiende la universidad pública y el federalismo fiscal, pero sin mencionar a Nación; Quintela (La Rioja) combina religión y gestión social; Vidal (Santa Cruz) pone el acento en la recuperación de obras y la asistencia sanitaria. Torres (Chubut) se destaca por su discurso duro en seguridad y su logro de cancelar la deuda con Nación, un hecho que lo posiciona como un gestor eficaz dentro del oficialismo de facto.\n\nActo 4 — Saldo Presidencial: La Casa Rosada enfrenta una jornada de desgaste controlado. Si bien no hay una rebelión abierta, la ausencia de menciones explícitas de apoyo a las políticas nacionales por parte de la mayoría de los gobernadores revela un distanciamiento táctico. El gobierno logra que los mandatarios no coordinen un frente común contra el ajuste, pero la acumulación de silencios y reclamos soterrados siembra dudas sobre la gobernabilidad del segundo semestre. La estrategia de 'no pelear, pero tampoco ayudar' parece ser la consigna del día.",
+    "temas_calientes": [
+        {
+            "tema": "Rechazo a la modificación del régimen de Zona Fría (tweets de días anteriores, pero mencionado en análisis por Kicillof y Llaryora)",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Reivindicación de la obra pública provincial como respuesta al abandono nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@passalacquaok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Desarrollo energético y minero como motor de crecimiento",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Celebración de eventos deportivos y culturales como marca de gestión",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @RCSalvarezza)",
+        "texto": "El primer proyecto de energía undimotriz de Argentina fue paralizado por Milei y por @DarioGenua, pese a que contaba con un préstamo del Banco Interamericano de Desarrollo.\n\nHoy en día, por decisión de @Kicillofok, el proyecto sigue en marcha.\nhttps://t.co/SGglo3fHld",
+        "por_que_es_clave": "Kicillof utiliza un proyecto energético estratégico para denunciar el saqueo nacional y reivindicar la autonomía provincial. Es un mensaje doble: critica a Milei por frenar el desarrollo y se muestra como el gestor que rescata la iniciativa. La mención al BID subraya la pérdida de financiamiento internacional por decisiones políticas.",
+        "pregunta_openarg": "¿Cuántos proyectos de energía renovable fueron paralizados por el gobierno nacional y cuántos fueron retomados por las provincias desde 2023?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "energía undimotriz",
+                "escrituras",
+                "Conectar Igualdad",
+                "viviendas",
+                "Zona Fría",
+                "salud",
+                "educación"
+            ],
+            "postura_politica": "Kicillof despliega una ofensiva discursiva contra el gobierno nacional en múltiples frentes: energía, salud, educación y tarifas. Su postura es de confrontación directa, buscando posicionarse como el defensor del pueblo bonaerense frente al ajuste. La retórica de 'crueldad' y 'abandono' busca movilizar a su base y construir un relato de resistencia.",
+            "frase_fuerte": "Por crueldad, por ignorancia, el Gobierno nacional vuelve a complicarle la vida a los argentinos."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Obelisco 90 años",
+                "celebración",
+                "gestión PRO"
+            ],
+            "postura_politica": "Jorge Macri se refugia en la agenda festiva y de marketing urbano. Su tuit sobre el Obelisco es un ejercicio de marca: mostrar a CABA como un oasis de orden y eventos masivos en contraste con el resto del país. Evita cualquier mención a la coyuntura nacional o a conflictos con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "premio a Christian Asinelli",
+                "feria SIAL China",
+                "minería",
+                "litio"
+            ],
+            "postura_politica": "Jalil continúa consolidando su perfil de gobernador pro-mercado y orientado a las exportaciones. Su retweet sobre Asinelli es un guiño a la integración regional y al financiamiento internacional. No hay críticas a Nación, sino una apuesta a la gestión propia y al desarrollo minero.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "torneo de pesca",
+                "plaza en Colonia Aborigen",
+                "pavimento",
+                "exportaciones",
+                "ruta nacional 16"
+            ],
+            "postura_politica": "Zdero muestra una gestión territorial intensa, con obras y anuncios de impacto local. Su tuit sobre la baja de retenciones es un apoyo explícito a la política nacional, lo que lo alinea con el gobierno de Milei. El resto de su agenda es de bajo perfil político.",
+            "frase_fuerte": "Celebramos la BAJA DE RETENCIONES. Este es el camino para recuperar la competitividad."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "pesca embarcada",
+                "jubilados",
+                "cárceles",
+                "conectividad",
+                "viviendas",
+                "deuda con Nación",
+                "seguridad"
+            ],
+            "postura_politica": "Torres combina una agenda de gestión con un discurso duro en seguridad y un logro significativo: la cancelación de la deuda con Nación. Esto lo posiciona como un gestor eficaz y confrontativo con el crimen, pero sin atacar al gobierno nacional. Omite cualquier crítica a la macroeconomía.",
+            "frase_fuerte": "SE TERMINÓ LA JODA EN LAS CÁRCELES"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "final de fútbol Belgrano-River",
+                "Semana Social",
+                "Zona Fría",
+                "obras",
+                "industria"
+            ],
+            "postura_politica": "Llaryora utiliza los eventos deportivos y la agenda social para construir una imagen de provincia pujante y plural. Su defensa de la Zona Fría es un reclamo directo a los legisladores cordobeses. La combinación de celebración y reclamo muestra un gobernador que busca no quedar despegado de su base territorial.",
+            "frase_fuerte": "Sacar a Córdoba de la zona fría es una locura, porque significará que las facturas de gas natural aumenten de manera exponencial."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Pymes",
+                "salarios",
+                "parque industrial",
+                "glaciares",
+                "federalismo"
+            ],
+            "postura_politica": "Ziliotto mantiene una postura de defensa del federalismo y la autonomía provincial. Su tuit sobre los salarios es una muestra de gestión propia frente al ajuste nacional. La defensa de los glaciares y el reclamo por fondos ATN lo ubican en la vereda opositora, pero sin escalar el conflicto.",
+            "frase_fuerte": "En La Pampa no abandonamos a nuestra gente, capítulo..."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "olivicultura",
+                "peregrinación",
+                "policía",
+                "internet",
+                "viviendas",
+                "educación"
+            ],
+            "postura_politica": "Quintela combina fe, gestión social y anuncios de conectividad. Su perfil es de un gobernador peronista que sostiene el Estado de bienestar a pesar del contexto. No hay críticas directas a Nación, pero la omisión es significativa en un contexto de ajuste.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Fazenda de la Esperanza",
+                "aniversarios",
+                "obras",
+                "créditos",
+                "salud"
+            ],
+            "postura_politica": "Passalacqua se muestra como un gestor cercano a la comunidad, con fuerte presencia en actos locales. Su anuncio de créditos con el Banco Nación sugiere una relación funcional con el gobierno nacional. Su agenda es predominantemente de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "empleo privado",
+                "GNL",
+                "aeropuerto",
+                "escuela",
+                "gas",
+                "puente",
+                "clubes"
+            ],
+            "postura_politica": "Figueroa proyecta una imagen de gestión exitosa y orden fiscal. Su tuit sobre el empleo y el GNL es una celebración de su modelo, alineado con el desarrollo energético sin confrontar con Nación. La omisión de críticas o reclamos sugiere una relación de cooperación pragmática.",
+            "frase_fuerte": "Neuquén tiene la oportunidad histórica de convertirse en protagonista de una nueva etapa para la Argentina."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "producción agrícola",
+                "empleo",
+                "tren",
+                "narcotráfico",
+                "gasoducto",
+                "salud digital"
+            ],
+            "postura_politica": "Weretilneck se enfoca en la producción y la seguridad, mostrando una provincia en movimiento. Su tuit sobre el empleo junto a Neuquén busca posicionar a la Norpatagonia como motor del país. No hay críticas a Nación, sino un discurso de gestión propia y cooperación regional.",
+            "frase_fuerte": "La Norpatagonia se consolida como uno de los motores del crecimiento argentino."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Super TC2000",
+                "seguridad",
+                "vuelo directo a Brasil",
+                "Ruta 51",
+                "Mesa del Litio",
+                "justicia"
+            ],
+            "postura_politica": "Saenz despliega una agenda diversa: deporte, seguridad, conectividad y minería. Su reunión con Karina Milei y Santilli sugiere una relación fluida con el gobierno nacional. Los reclamos por gas y rutas son sutiles y no escalan a confrontación.",
+            "frase_fuerte": "No me voy a cansar de reclamar lo que nos corresponde."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "procesión cívica",
+                "pericón nacional",
+                "viviendas",
+                "jóvenes intendentes",
+                "salud",
+                "escrituras"
+            ],
+            "postura_politica": "Poggi se muestra en modo celebratorio y de gestión local, con fuerte presencia en actos comunitarios. No hay ningún posicionamiento nacional, lo que sugiere una estrategia de bajo perfil y refugio en la agenda de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "obras",
+                "medicamentos",
+                "viviendas",
+                "mercado concentrador",
+                "policía",
+                "gas",
+                "tren"
+            ],
+            "postura_politica": "Vidal Ser busca mostrar gestión y respuestas concretas en un contexto de abandono nacional. Su tuit sobre medicamentos es una denuncia implícita de la falta de insumos, pero la resuelve con recursos propios. Se posiciona como un gestor eficaz que no espera soluciones de Nación.",
+            "frase_fuerte": "Tomamos la decisión de cambiar la forma de administrar los recursos públicos y poner en orden un sistema que durante años tuvo dificultades."
+        }
+    ]
+}

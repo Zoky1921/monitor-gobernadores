@@ -1,0 +1,198 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal del día se caracteriza por la marcada autoafirmación de las gestiones provinciales, enfocadas en la obra pública, el desarrollo económico local y la atención social. Gobernadores como Axel Kicillof (Buenos Aires) y Claudio Vidal (Santa Cruz) se centran en la entrega de viviendas y la continuidad de proyectos estratégicos, con Kicillof incluso desafiando políticas nacionales de paralización. Jorge Macri (Ciudad Autónoma de Buenos Aires) y Martín Llaryora (Córdoba) destacan la capacidad de sus jurisdicciones para albergar grandes eventos, generando movimiento económico. Ignacio Torres (Chubut) y Ricardo Quintela (La Rioja) promueven el turismo y la producción local. En un contraste clave, Alberto Weretilneck (Río Negro) y Rolando Figueroa (Neuquén) celebran el crecimiento del empleo privado en la Norpatagonia, señalando una divergencia respecto a la media nacional. El tono general evidencia una dinámica provincial activa y resolutiva, con algunos puntos de tensión implícita y explícita con el gobierno federal.",
+    "analisis_profundo": "La jornada del 24 de mayo de 2026 refleja una dinámica provincial activa, donde los gobernadores exhiben una agenda de gestión fuertemente anclada en el territorio, con énfasis en la obra pública, el desarrollo productivo y la atención a las necesidades sociales. El clima político se percibe tenso, alimentado por la autoafirmación provincial y la crítica velada o directa a las políticas nacionales.\n\nAxel Kicillof (Buenos Aires) proyecta una imagen de Estado presente al destacar la entrega de escrituras y, crucialmente, al señalar que un proyecto de energía undimotriz 'paralizado por Milei' (Gobierno Nacional) sigue en marcha por decisión de su provincia. Esto no solo subraya una divergencia ideológica, sino que también posiciona a la provincia de Buenos Aires como un actor que contrarresta la inacción federal, capitalizando el descontento hacia la gestión central.\n\nEn el mismo sentido, Claudio Vidal (Santa Cruz) enfatiza la finalización de viviendas para madres solteras y la garantía de medicamentos, marcando un contraste con 'lo que dejaron a medio hacer' y un enfoque en la 'administración responsable'. Sergio Ziliotto (La Pampa) defiende el rol del Banco de La Pampa para proteger el empleo y potenciar la producción local, una declaración que resuena en un contexto de retracción económica a nivel nacional.\n\nLa Norpatagonia emerge como un polo de crecimiento diferenciado. Rolando Figueroa (Neuquén) celebra que su provincia lidera la creación de empleo privado registrado, un dato reforzado por Alberto Weretilneck (Río Negro) quien subraya que Neuquén (Neuquén) y Río Negro (Río Negro) son las únicas dos provincias con crecimiento de empleo privado, mientras el promedio nacional cae. Este discurso no solo promueve el 'modelo neuquino' y el desarrollo rionegrino, sino que también funciona como una crítica implícita a la performance económica del Gobierno Nacional. La celebración de la producción local, como la olivicultura por Ricardo Quintela (La Rioja) o el sector cebollero por Alberto Weretilneck (Río Negro), refuerza la narrativa de resiliencia provincial.\n\nPor otro lado, Jorge Macri (Ciudad Autónoma de Buenos Aires) utiliza la celebración del aniversario del Obelisco y la organización de eventos masivos para destacar la transformación de la Ciudad (Ciudad Autónoma de Buenos Aires) de un foco de 'acampes y piquetes' a un centro de eventos, sugiriendo una gestión eficiente y diferenciada del resto del país. Martín Llaryora (Córdoba) capitaliza el triunfo del Club Atlético Belgrano, utilizando el evento deportivo para posicionar a Córdoba (Córdoba) como sede de grandes acontecimientos, lo que genera un significativo impacto económico y refuerza su autonomía y capacidad de gestión.\n\nGildo Insfrán (Formosa), Rogelio Frigerio (Entre Ríos), Carlos Sadir (Jujuy), Alfredo Cornejo (Mendoza), Elías Suárez (Santiago del Estero), Gustavo Melella (Tierra del Fuego) y Osvaldo Jaldo (Tucumán) no tuvieron actividad relevante en el marco temporal establecido, lo que implica una ausencia de sus voces en la agenda de discusión más inmediata. La jornada, en suma, perfila a las provincias como actores proactivos y críticos, priorizando la gestión local y la defensa de sus recursos frente a un panorama nacional desafiante.",
+    "temas_calientes": [
+        {
+            "tema": "Reafirmación de la Gestión Provincial frente a la Inacción Federal",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Regional y Creación de Empleo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Promoción y Visibilidad de Eventos e Identidad Local",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@GustavoSaenzOK",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Inversión en Obra Pública y Servicios Sociales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Críticas Implícitas/Explícitas a Políticas Nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @RCSalvarezza)",
+        "texto": "El primer proyecto de energía undimotriz de Argentina fue paralizado por Milei y por @DarioGenua, pese a que contaba con un préstamo del Banco Interamericano de Desarrollo. Hoy en día, por decisión de @Kicillofok, el proyecto sigue en marcha.",
+        "por_que_es_clave": "Marca una clara tensión con el gobierno nacional al denunciar la paralización de un proyecto energético estratégico, contrastándolo con la decisión de la provincia de Buenos Aires de mantenerlo en marcha. Subraya la autonomía provincial frente a políticas federales y se posiciona como un actor que genera soluciones.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Energía undimotriz",
+                "Regularización dominial",
+                "Obra pública"
+            ],
+            "postura_politica": "Crítico de las políticas nacionales, especialmente la paralización de proyectos. Enfocado en la gestión provincial y social para garantizar derechos como la vivienda. Destaca la continuidad de proyectos provinciales ante la inacción nacional.",
+            "frase_fuerte": "El primer proyecto de energía undimotriz de Argentina fue paralizado por Milei y por @DarioGenua, pese a que contaba con un préstamo del Banco Interamericano de Desarrollo. Hoy en día, por decisión de @Kicillofok, el proyecto sigue en marcha."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Eventos culturales",
+                "Promoción turística",
+                "Gestión urbana"
+            ],
+            "postura_politica": "Enfocado en la visibilidad y el atractivo de la Ciudad Autónoma de Buenos Aires (Ciudad Autónoma de Buenos Aires), destacando su capacidad de organizar eventos masivos y la mejora en la calidad de vida y seguridad. Tono positivo y de autoafirmación de la gestión.",
+            "frase_fuerte": "La Ciudad pasó de ser noticia por acampes y piquetes a serlo por tener eventos masivos en cuestión de semanas. Parece un país aparte…"
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Integración regional",
+                "Coherencia y continuidad de gestión"
+            ],
+            "postura_politica": "Apoyo a figuras argentinas en organismos internacionales, reforzando la idea de una Argentina integrada. Mensaje de respaldo a la proyección de profesionales argentinos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública local",
+                "Desarrollo local",
+                "Turismo"
+            ],
+            "postura_politica": "Centrado en la recuperación y mejora de espacios públicos con valor histórico y social, y en el impulso de actividades que generan desarrollo local y turístico. Subraya la cercanía con las comunidades y la atención a grupos específicos.",
+            "frase_fuerte": "Poco a poco, recuperamos espacios con historia y valor para todos los chaqueños."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Turismo",
+                "Recursos naturales",
+                "Promoción provincial"
+            ],
+            "postura_politica": "Destaca las maravillas naturales de Chubut (Chubut) como atractivo turístico mundial y su compromiso con el desarrollo de eventos locales. Tono de orgullo provincial y promoción de la identidad local.",
+            "frase_fuerte": "NO ES IA, ES CHUBUT 🐋❤️"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Deporte",
+                "Eventos masivos",
+                "Impacto económico"
+            ],
+            "postura_politica": "Destaca la capacidad de Córdoba (Córdoba) para organizar grandes eventos deportivos con éxito y el impacto económico positivo que estos generan. Enfatiza el esfuerzo, la planificación y la infraestructura provincial como claves del desarrollo.",
+            "frase_fuerte": "Desde el corazón del interior de la Argentina, #Córdoba volvió a demostrar que aquí también se escriben las grandes páginas del fútbol nacional."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Apoyo a PyMEs",
+                "Empleo",
+                "Rol del Estado"
+            ],
+            "postura_politica": "Fuerte defensa de las políticas de apoyo al sector productivo local y al empleo. Enfatiza el rol del Estado a través del Banco de La Pampa como promotor del bien público y el desarrollo económico, en un contexto de 'ahogo financiero nacional'.",
+            "frase_fuerte": "Ayudar a las Pymes pampeanas es proteger el empleo, es sostener el salario, es potenciar el trabajo y la producción."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Producción local",
+                "Desarrollo económico regional"
+            ],
+            "postura_politica": "Celebra y valora la actividad olivícola como parte fundamental de la identidad y motor productivo de La Rioja (La Rioja). Destaca el impulso al crecimiento económico y las oportunidades que genera el sector local.",
+            "frase_fuerte": "El trabajo de productores, trabajadoras y empresas del sector impulsa el crecimiento económico, genera oportunidades y posiciona a nuestra provincia como una de las principales referentes olivícolas del país."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Asistencia social",
+                "Vivienda",
+                "Aniversarios locales"
+            ],
+            "postura_politica": "Enfocado en la asistencia social y el bienestar de los jóvenes, especialmente en situaciones de vulnerabilidad, y en el reconocimiento del esfuerzo y la historia de las comunidades provinciales. Destaca la gestión en materia de regularización dominial.",
+            "frase_fuerte": "Hoy celebramos los 80 años de El Soberbio, una comunidad que creció con esfuerzo, trabajo y el empuje de generaciones enteras que hicieron de esta tierra un lugar lleno de vida y esperanza."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Empleo privado",
+                "Indicadores económicos",
+                "Modelo de gestión provincial"
+            ],
+            "postura_politica": "Presenta a Neuquén (Neuquén) como líder en creación de empleo registrado y en indicadores económicos, destacando su modelo de estado ordenado, inversión en obras y reglas claras. Compromiso con la continuidad del desarrollo y la reducción del desempleo y la pobreza.",
+            "frase_fuerte": "EL MODELO NEUQUINO SE EXPRESA EN CADA UNO DE LOS INDICADORES Desde el inicio de la gestión en 2023 hasta febrero de 2026 en la provincia creció un 5.8% la creación de empleo registrado en el sector privado, lo que nos ubica en el primer lugar entre las 24 jurisdicciones."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Producción regional",
+                "Empleo privado",
+                "Infraestructura de transporte",
+                "Servicios digitales"
+            ],
+            "postura_politica": "Resalta el dinamismo productivo de Río Negro (Río Negro) y Neuquén (Neuquén) como motores del crecimiento, contrastándolo con la caída del empleo a nivel nacional. Subraya la planificación, inversión y reglas claras como claves del éxito provincial. Impulsa la modernización de servicios estatales.",
+            "frase_fuerte": "LA NORPATAGONIA EMPUJA EL EMPLEO Y EL DESARROLLO ARGENTINO Entre noviembre de 2023 y febrero de 2026, Neuquén y Río Negro fueron las únicas dos provincias del país que crecieron en empleo privado registrado."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Turismo deportivo",
+                "Impacto económico de eventos"
+            ],
+            "postura_politica": "Destaca el beneficio económico y turístico de albergar grandes eventos deportivos en Salta (Salta), promoviéndolos como motores de desarrollo, crecimiento y generación de empleo para las familias salteñas.",
+            "frase_fuerte": "Cuando Salta recibe grandes eventos deportivos, gana toda la provincia."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación cívica",
+                "Cultura tradicional",
+                "Identidad provincial"
+            ],
+            "postura_politica": "Resalta la importancia de las tradiciones cívicas y culturales en San Luis (San Luis), como la Procesión Cívica y el Pericón Nacional. Transmite un mensaje de cercanía con las familias y de apoyo a la identidad local y el sentir patrio.",
+            "frase_fuerte": "Acompañé la tradicional PROCESIÓN CÍVICA de los 24 de Mayo organizada por la Promoción Tiffarios 2026 de la Escuela Normal Juan Pascual Pringles. Una actividad cívica que cumplió 110 años."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obra pública",
+                "Salud",
+                "Vivienda social",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Compromiso con la finalización de obras inconclusas y la garantía de acceso a servicios esenciales como salud y vivienda, especialmente para grupos vulnerables como madres solteras. Énfasis en la administración responsable y las prioridades claras para la provincia.",
+            "frase_fuerte": "VAMOS A TERMINAR LO QUE DEJARON A MEDIO HACER, Y ESTA VEZ LAS VIVIENDAS SERÁN PARA MADRES SOLTERAS DE PUERTO SANTA CRUZ"
+        }
+    ]
+}
