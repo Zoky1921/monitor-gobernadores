@@ -1,0 +1,164 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada post-25 de Mayo expone una grieta fiscal entre Nación y provincias, con Kicillof, Llaryora y Weretilneck marcando autonomía frente al ajuste de la Casa Rosada. La modificación del régimen de Zona Fría concentra las críticas del peronismo, mientras gobernadores del PRO y aliados refuerzan gestión local sin confrontar.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La disputa por el régimen de Zona Fría condensa la tensión fiscal del día. Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba) denuncian que la reforma nacional castiga a millones de hogares en sus provincias, en un moviendo calculado para erosionar la base electoral del oficialismo. La omisión de la Nación como garante de subsidios revela una estrategia de repliegue: los gobernadores peronistas asumen el rol de defensores del bolsillo popular, mientras el Gobierno nacional busca desligarse del costo político.\n\nActo 2 — Los Alineamientos: La coalición de gobernadores radicales y aliados (Cornejo, Pullaro, Frigerio) opta por un perfil bajo en la polémica. Maximiliano Pullaro (Santa Fe) y Rogelio Frigerio (Entre Ríos) priorizan la gestión de obras y seguridad, evitando posicionarse sobre la Zona Fría. Esto sugiere un pacto tácito: a cambio de no escalar el conflicto, esperan concesiones en coparticipación o financiamiento. En contraste, el neuquino Rolando Figueroa y el rionegrino Alberto Weretilneck consolidan su autonomía energética, celebrando obras en Vaca Muerta y la Norpatagonia como modelo de desarrollo independiente.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Claudio Poggi en San Luis, Claudio Vidal en Santa Cruz, Osvaldo Jaldo en Tucumán) se refugian en la agenda de cabotaje: entregas de viviendas, inauguraciones de escuelas y ferias productivas. La ausencia de menciones a la macroeconomía es un síntoma de supervivencia política: evitan confrontar con un gobierno nacional que los financia, pero tampoco legitiman su relato. El silencio es su mejor calculo.\n\nActo 4 — Saldo Presidencial: La Casa Rosada pierde la batalla comunicacional del día. Mientras Kicillof y Llaryora instalan la narrativa del ajuste perjudicial, los gobernadores dialoguistas no salen a bancar la reforma. El capital político de la administración Milei se reduce a la gestión de hechos (obras con RIGI, baja de retenciones) sin un relato federal que los contenga. La grieta fiscal se profundiza y el interior productivo exige respuestas concretas, no promesas.",
+    "temas_calientes": [
+        {
+            "tema": "Denuncia por modificación del régimen de Zona Fría",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Reivindicación de obra pública provincial frente al abandono nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Celebración del 25 de Mayo con enfoque federal y autonomía",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@EliasSuarezSDE",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de infraestructura energética (gas, electricidad) como política de Estado",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Seguridad provincial y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @CostaAugusto9)",
+        "texto": "LA DESTRUCCIÓN DE UN DERECHO. El Gobierno Nacional avanza con un plan sistemático de privatización y vaciamiento de las Unidades Turísticas de Chapadmalal y Embalse. Más de 80 años de historia y conquista del turismo social están en riesgo. Abrimos hilo 👇",
+        "por_que_es_clave": "Kicillof utiliza un retweet para marcar territorio: la defensa del patrimonio público como bandera de campaña. Al poner el foco en el turismo social, busca interpelar a sectores medios y trabajadores que el peronismo perdió, y al mismo tiempo forzar al Gobierno nacional a explicar su política de concesiones.",
+        "pregunta_openarg": "¿La privatización de los complejos de Chapadmalal y Embalse profundiza el ajuste o es una medida de eficiencia estatal que el peronismo rechaza por cálculo electoral?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "privatización de unidades turísticas",
+                "gestión provincial",
+                "25 de Mayo"
+            ],
+            "postura_politica": "Se posiciona como el defensor de los derechos sociales frente a un gobierno nacional que califica de 'cruel'. Cada tuit es una acusación directa a la Casa Rosada, buscando capitalizar el descontento bonaerense.",
+            "frase_fuerte": "La modificación del régimen de Zona Fría deja sin esa posibilidad a 5 millones de bonaerenses que no pueden pagar la luz, el gas y otras cuestiones básicas. Por crueldad, por ignorancia, el Gobierno nacional vuelve a complicarle la vida a los argentinos."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "obra pública",
+                "25 de Mayo",
+                "diálogo político"
+            ],
+            "postura_politica": "Crítica la Zona Fría pero con un tono menos confrontativo que Kicillof. Apela a la unidad y al diálogo, buscando un perfil de gobernador gestor que no rompe puentes con Nación. La agenda de obras es su principal carta de presentación.",
+            "frase_fuerte": "El proyecto nacional que modifica la Zona Fría quitando subsidios al gas en #Córdoba, pone en riesgo a unos 688 mil hogares y a más de 2,2 millones de cordobeses."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "25 de Mayo",
+                "obras",
+                "seguridad",
+                "educación"
+            ],
+            "postura_politica": "Mensaje patriótico con tono de unidad, pero sin mencionar a Nación. La agenda de obras y la lucha contra el narcotráfico muestran un gobierno activo que intenta diferenciarse por gestión, no por confrontación.",
+            "frase_fuerte": "La verdadera libertad no existe si una familia no puede trabajar, si un joven tiene que irse de su tierra por falta de oportunidades o si el Estado no está presente cuando falta un medicamento o un plato de comida."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "25 de Mayo",
+                "seguridad regional",
+                "obras",
+                "diplomacia"
+            ],
+            "postura_politica": "Se muestra como anfitrión de reuniones de seguridad y receptor de embajadores, reforzando su perfil institucional y de gestión. Evita polémicas y se alinea con la agenda de gobierno en temas de narcotráfico.",
+            "frase_fuerte": "La Revolución de Mayo nos dejó un legado que continúa vigente. Hoy, más de dos siglos después, tenemos el desafío de seguir construyendo una provincia y un país donde prevalezcan el respeto, el diálogo y el compromiso colectivo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "25 de Mayo",
+                "Smart City Expo",
+                "educación",
+                "relaciones internacionales"
+            ],
+            "postura_politica": "Gobernador de bajo perfil federal. Su agenda es eminentemente local y tecnológica, con escasa confrontación nacional. La ausencia de críticas a Nación indica un cálculo de supervivencia: no incomodar al gobierno central.",
+            "frase_fuerte": "Planificar es una obligación, pero gestionar y ejecutar es el verdadero compromiso con el pueblo. Santiago del Estero ya no está esperando el futuro: lo está ejecutando desde sus propias raíces federales."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "infraestructura energética",
+                "Vaca Muerta",
+                "empleo",
+                "25 de Mayo"
+            ],
+            "postura_politica": "Proyecta a Neuquén como motor energético del país, con una narrativa de autonomía y eficiencia. Su mensaje del 25 de Mayo reivindica la 'autodeterminación energética', un guiño a los sectores que quieren mayor control provincial sobre los recursos.",
+            "frase_fuerte": "La autodeterminación energética y la seguridad energética del país hoy nacen en Neuquén. Queremos una provincia solidaria con el país, pero sin perder nunca nuestra identidad."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "gas",
+                "obra pública",
+                "producción",
+                "25 de Mayo"
+            ],
+            "postura_politica": "Similar a Figueroa: gestión local con énfasis en resultados. Su tuit sobre la producción de cebolla y el tren regional busca visibilizar una provincia activa, sin roces con Nación.",
+            "frase_fuerte": "La Norpatagonia se consolida como uno de los motores del crecimiento argentino: Neuquén produce energía, Río Negro industrializa, conecta y exporta."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "25 de Mayo",
+                "salud",
+                "unidad"
+            ],
+            "postura_politica": "Mensaje emotivo y federal, pidiendo unidad. No hay crítica directa, pero reclama una 'mayor mirada federal' de Nación. Es un tono conciliador pero con una demanda implícita.",
+            "frase_fuerte": "Los misioneros somos un pueblo trabajador, orgulloso de su identidad, y vamos a seguir levantando la voz para que el país mire más al interior profundo, a nuestras chacras, nuestros pueblos y nuestra gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "gestión local",
+                "educación",
+                "viviendas",
+                "fiestas patrias"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Sus tuits son de bajo contenido político, centrados en visitas a escuelas y entrega de viviendas. No hay posicionamiento sobre la macroeconomía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "25 de Mayo",
+                "viviendas",
+                "mercado concentrador",
+                "gas"
+            ],
+            "postura_politica": "Gobernador peronista que prioriza la gestión territorial y la provisión de servicios. Su tuit del 25 de Mayo destaca la unidad y el trabajo, sin atacar a Nación, pero reivindicando el rol provincial.",
+            "frase_fuerte": "Los momentos difíciles se enfrentan con trabajo, responsabilidad y dejando de lado las divisiones."
+        }
+    ]
+}

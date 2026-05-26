@@ -1,0 +1,148 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracteriza por una marcada tensión entre el gobierno nacional y las provincias, donde gobernadores del interior y de la Provincia de Buenos Aires elevan críticas directas a políticas centrales que afectan sus autonomías y economías. Se observa un fuerte énfasis en la autogestión provincial para la ejecución de obras de infraestructura, salud y educación, muchas de ellas presentadas como reactivaciones de proyectos 'paralizados' o 'sin financiamiento' nacional. La demanda de un trato más equitativo y la defensa del 'interior productivo' resuenan como eje central, con el rechazo explícito a las retenciones que castigan al campo. La búsqueda de la unidad provincial y el desarrollo propio marcan la agenda frente a un contexto nacional percibido como complejo y desatento a las necesidades regionales.",
+    "analisis_profundo": "El panorama federal de hoy exhibe una fractura estratégica notoria entre la administración central y las provincias, con un Gobierno Nacional señalado por la inacción o por medidas que impactan negativamente en las economías y servicios regionales. Axel Kicillof (Buenos Aires) lidera la ofensiva al condenar la privatización de unidades turísticas nacionales como 'destrucción de un derecho', una declaración que eleva el tono confrontativo en la arena federal. En consonancia, Martín Llaryora (Córdoba) articula una defensa enérgica del 'interior productivo', responsabilizando a las 'malditas retenciones' por frenar el desarrollo, un reclamo recurrente que unifica a diversas provincias agrarias y manufactureras. Su llamado a la unidad y al diálogo interpartidario para proteger los intereses provinciales subraya la necesidad de un frente común. \n\nOtros gobernadores, como Hugo Passalacqua (Misiones), Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro), refuerzan esta postura al destacar la inversión provincial en infraestructuras y servicios esenciales —salud, energía, gas—, haciendo hincapié en la reactivación de obras que, implícitamente, carecían de apoyo nacional. Figueroa (Neuquén), en particular, menciona proyectos 'abandonados' en Vaca Muerta, una referencia clara a la falta de continuidad en inversiones estratégicas de índole federal. Osvaldo Jaldo (Tucumán) se suma a esta narrativa al inaugurar una escuela que, según sus palabras, 'había quedado paralizada y sin financiamiento', asumiendo la responsabilidad con recursos provinciales. Esta tendencia revela una estrategia de los gobiernos subnacionales de demostrar capacidad de gestión y presencia estatal frente a lo que perciben como una retirada o afectación por parte de la Nación.\n\nEn un matiz diferente, pero dentro de la dinámica de fortalecimiento provincial, Claudio Vidal (Santa Cruz) convoca a la unidad interna de su provincia para afrontar los 'momentos difíciles', mientras que Maximiliano Pullaro (Santa Fe) celebra inversiones educativas locales. Elías Suárez (Santiago del Estero) busca activar relaciones internacionales con China, una vía de desarrollo alternativa a la dependencia de recursos nacionales. En conjunto, estos movimientos pintan un escenario de autonomización forzada, donde las provincias, bajo la presión de un contexto económico y político complejo, asumen roles protagónicos en la provisión de servicios y la inversión, al tiempo que aumentan su voz crítica contra las políticas centrales que consideran perjudiciales. La agenda federal se polariza, con un Ejecutivo Nacional que enfrenta una creciente resistencia y demandas explícitas por parte de los liderazgos provinciales.",
+    "temas_calientes": [
+        {
+            "tema": "Critica a politicas economicas y federales del Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Inversion provincial en infraestructura y servicios publicos (salud, energia, gas, obras viales)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Compromiso con la educacion e infraestructura escolar",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo regional y defensa del campo",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la autonomia y gestion provincial",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "Todos juntos tenemos que defender al interior productivo y a nuestros productores. Las retenciones siguen castigando al campo y frenando el desarrollo de nuestros pueblos. Sin esas malditas retenciones, la realidad de Córdoba sería totalmente distinta.",
+        "por_que_es_clave": "El gobernador de Córdoba (Córdoba) emite una fuerte crítica a una política económica central del Gobierno Nacional ('retenciones') que afecta directamente a las provincias. Su llamado a la unidad para defender el 'interior productivo' resalta la tensión entre Nación y provincias.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Critica a politicas nacionales",
+                "Privatizacion",
+                "Turismo social"
+            ],
+            "postura_politica": "Adopta una postura de confrontación directa con el Gobierno Nacional, acusándolo de 'destruir un derecho' mediante la privatización de bienes estatales vinculados al turismo social, y advirtiendo sobre los riesgos a la historia y la conquista de derechos.",
+            "frase_fuerte": "LA DESTRUCCIÓN DE UN DERECHO. El Gobierno Nacional avanza con un plan sistemático de privatización y vaciamiento de las Unidades Turísticas de Chapadmalal y Embalse."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Federalismo",
+                "Retenciones",
+                "Desarrollo local",
+                "Obras publicas",
+                "Dialogo"
+            ],
+            "postura_politica": "Defiende con vehemencia el 'interior productivo' y critica las 'retenciones' como un castigo al campo. Promueve la unidad y el diálogo entre provincias, independientemente de los colores políticos, para impulsar el desarrollo local y gestionar obras de infraestructura, educación y servicios.",
+            "frase_fuerte": "Todos juntos tenemos que defender al interior productivo y a nuestros productores. Las retenciones siguen castigando al campo y frenando el desarrollo de nuestros pueblos. Sin esas malditas retenciones, la realidad de Córdoba sería totalmente distinta."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Salud publica",
+                "Inversion provincial"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con la salud pública provincial, destacando la inversión en tecnología de punta (tomógrafo) para mejorar la atención, lo que subraya la autonomía y el rol activo del Estado provincial en el bienestar de sus ciudadanos.",
+            "frase_fuerte": "Son recursos públicos invertidos para seguir cuidando a nuestros misioneros y misioneras."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Obras publicas",
+                "Infraestructura energetica",
+                "Planificacion a largo plazo",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Se enfoca en la ejecución de grandes obras de infraestructura (eléctrica y vial) para el crecimiento de Neuquén (Neuquén) y su rol en la soberanía energética de Vaca Muerta. Resalta la reactivación de proyectos 'abandonados' y la planificación estratégica a largo plazo.",
+            "frase_fuerte": "Estamos haciendo las obras pensando en una provincia que va a tener un millón de habitantes. Nos estamos preparando para el Neuquén 2030."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Servicios basicos",
+                "Obras de infraestructura",
+                "Calidad de vida"
+            ],
+            "postura_politica": "Prioriza la gestión de obras de servicios esenciales como la ampliación de la red de gas, enfocándose en mejorar la seguridad, comodidad y calidad de vida de las familias rionegrinas (Río Negro), reafirmando el compromiso provincial con soluciones concretas.",
+            "frase_fuerte": "Detrás de cada obra hay algo mucho más importante que los números: hogares con más seguridad, más comodidad y mejores condiciones para atravesar el invierno."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Unidad provincial",
+                "Responsabilidad",
+                "Futuro"
+            ],
+            "postura_politica": "Convoca a la unidad y el trabajo conjunto dentro de Santa Cruz (Santa Cruz) para afrontar los 'momentos difíciles' y construir un futuro próspero. Su mensaje enfatiza la responsabilidad provincial y el esfuerzo compartido.",
+            "frase_fuerte": "Estoy convencido de que los momentos difíciles se enfrentan con trabajo, responsabilidad y dejando de lado las divisiones."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Educacion",
+                "Infraestructura escolar",
+                "Gestion provincial"
+            ],
+            "postura_politica": "Subraya el compromiso de su gobierno con la educación a través de la inauguración de nueva infraestructura escolar, lo que se presenta como un 'sueño cumplido' para la comunidad educativa de Santa Fe (Santa Fe) y una prioridad de la gestión provincial.",
+            "frase_fuerte": "Otro sueño cumplido! Hoy inauguramos el nuevo edificio del Jardín 323 de #Esperanza."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Inversion extranjera"
+            ],
+            "postura_politica": "Fomenta activamente las relaciones diplomáticas con potencias como China, buscando fortalecer los vínculos bilaterales y atraer inversiones que contribuyan al desarrollo económico de Santiago del Estero (Santiago del Estero).",
+            "frase_fuerte": "Recibimos en Casa de Gobierno al Sr. Embajador de la República Popular #China, Wang Wei 🇦🇷🤝🇨🇳"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Educacion",
+                "Infraestructura escolar",
+                "Financiamiento provincial",
+                "Reactivacion de obras"
+            ],
+            "postura_politica": "Destaca la inversión provincial en educación con la inauguración de una escuela que había sido 'paralizada y sin financiamiento', reafirmando la educación como prioridad y el rol del Estado provincial para asegurar su continuidad y desarrollo en Tucumán (Tucumán).",
+            "frase_fuerte": "Esta obra había quedado paralizada y sin financiamiento, pero decidimos avanzar con recursos provinciales porque sabemos que la educación debe ser una prioridad permanente."
+        }
+    ]
+}
