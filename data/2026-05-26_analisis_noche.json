@@ -1,0 +1,235 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una clara reafirmación del rol provincial frente a un contexto nacional complejo. Gobernadores de diversas provincias destacaron la inversión en obra pública, seguridad y educación con recursos propios, incluso asumiendo responsabilidades tradicionalmente nacionales. Se observaron críticas directas a las políticas económicas del gobierno central, como las retenciones al campo o el vaciamiento de unidades turísticas. La gestión del empleo privado y la proyección internacional, especialmente con China, también figuraron en la agenda. La tensión se palpó en el reclamo por demoras nacionales en infraestructura clave, llevando a soluciones autónomas por parte de las provincias.",
+    "analisis_profundo": "El escenario político federal se presenta tenso, con una agenda provincial robusta que, en varios puntos, contrasta y, en ocasiones, confronta directamente con las políticas y responsabilidades del gobierno nacional. La infraestructura y la obra pública emergen como un pilar central de la gestión subnacional; gobernadores como Gustavo Sáenz (Salta) han tomado la decisión estratégica de financiar con fondos provinciales la continuidad de obras nacionales críticas, como la Ruta Nacional 9/34, ante lo que describen como ‘demora de los trabajos comprometidos por Nación’. Este accionar no solo visibiliza la autonomía provincial, sino que también ejerce una presión sobre el gobierno central.\n\nEn el ámbito económico, la crítica hacia el Ejecutivo nacional es explícita. Axel Kicillof (Buenos Aires) amplifica cuestionamientos sobre la privatización de unidades turísticas, mientras que Martín Llaryora (Córdoba) reitera su firme oposición a las retenciones al campo, señalándolas como un freno al desarrollo regional. Sergio Ziliotto (La Pampa) enfatiza la ‘independencia económica’ y el ‘orden fiscal’ provincial como base para una gestión eficiente, diferenciándose de la narrativa nacional de ajuste.\n\nLa seguridad y la educación también ocupan un lugar prioritario en las agendas provinciales. Llaryora (Córdoba) invierte en la federalización de la formación policial y universitaria, mientras que Maximiliano Pullaro (Santa Fe) exhibe la construcción de una nueva cárcel de alto perfil, buscando posicionar a su provincia como referente en gestión de seguridad. Claudio Poggi (San Luis) y Osvaldo Jaldo (Tucumán) también enfocan en la mejora de infraestructura educativa y de seguridad, demostrando un Estado provincial activo en áreas esenciales.\n\nFinalmente, el desarrollo productivo y la proyección internacional son una constante. Gobernadores como Leandro Zdero (Chaco) y Gustavo Valdés (Corrientes) promueven economías regionales y eventos productivos. Elías Suárez (Santiago del Estero) y Rolando Figueroa (Neuquén) buscan fortalecer lazos con China y destacar el crecimiento del empleo privado, respectivamente. La jornada dibuja un mapa de provincias que, lejos de paralizarse, redoblan esfuerzos y recursos para proteger a sus ciudadanos y proyectar desarrollo, a menudo llenando vacíos dejados por el gobierno central o criticando sus medidas.",
+    "temas_calientes": [
+        {
+            "tema": "Críticas a Políticas Nacionales / Defensa Federal",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Obras Públicas Provinciales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@LeandroZdero",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Gestión de la Seguridad y Justicia",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Economía Regional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@gustavovaldesok",
+                "@Rolo_Figueroa",
+                "@EliasSuarezSDE",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Educación y Acceso a la Formación",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@GustavoSaenzOK",
+        "texto": "Tomé la decisión de financiar con fondos provinciales la continuidad de obras en la Ruta Nacional 9/34, uno de los principales ingresos a Salta, en el tramo Metán – Rosario de la Frontera. Son 27 kilómetros fundamentales para la seguridad vial, la conectividad y el desarrollo de Salta. A esta vía la conocemos como la 'ruta de la muerte' y vamos a cambiar esta triste realidad. Por eso, y aunque se trata de una ruta nacional cuya ejecución no es responsabilidad de la Provincia, decidimos hacer un enorme esfuerzo económico para sostener y reactivar esta obra tan necesaria. Ante la demora de los trabajos comprometidos por Nación, firmé un convenio con la Dirección Nacional de Vialidad que permitirá priorizar las intervenciones más urgentes y avanzar en la puesta en valor de este tramo. Los salteños no podemos seguir esperando.",
+        "por_que_es_clave": "El gobernador de Salta (@GustavoSaenzOK) evidencia una tensión central en la dinámica federal: la inacción del gobierno nacional en infraestructura crítica. Su decisión de financiar con fondos provinciales una ruta nacional, calificada como 'ruta de la muerte', subraya la autonomía y responsabilidad provincial frente a las demoras de Nación, marcando un claro posicionamiento de gestión proactiva ante la ineficiencia federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica a Políticas Nacionales",
+                "Obra Pública"
+            ],
+            "postura_politica": "Crítica al gobierno nacional por el vaciamiento de políticas sociales (turismo social), mientras destaca la continuidad de la obra pública provincial como el Viaducto 'Papa Francisco'.",
+            "frase_fuerte": "🚨 LA DESTRUCCIÓN DE UN DERECHO. El Gobierno Nacional avanza con un plan sistemático de privatización y vaciamiento de las Unidades Turísticas de Chapadmalal y Embalse. Más de 80 años de historia y conquista del turismo social están en riesgo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Política Social"
+            ],
+            "postura_politica": "Foco en el orden y el cumplimiento de la ley, especialmente en políticas que imponen consecuencias a deudores alimentarios, en colaboración con el gobierno nacional.",
+            "frase_fuerte": "Si no cumplen con sus hijos, tampoco entran a la cancha. El que no cumple con una obligación tan básica como alimentar a sus hijos tiene que tener consecuencias."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo Rural",
+                "Obra Pública",
+                "Conmemoración Patria"
+            ],
+            "postura_politica": "Resalta el apoyo a la producción rural con el programa 'Ñande' y la continuidad de obras de electrificación rural, mientras mantiene el tono patriótico.",
+            "frase_fuerte": "¡LANZAMOS EL PROGRAMA ÑANDE! Una política pública orientada a fortalecer de manera integral a productores rurales y actores de la economía familiar y territorial, con el objetivo de atender demandas productivas, sociales y territoriales mediante acompañamiento, capacitaciones y asistencia técnica para impulsar el arraigo, la inclusión y el desarrollo local."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación Universitaria",
+                "Seguridad",
+                "Crítica Económica Nacional",
+                "Infraestructura"
+            ],
+            "postura_politica": "Fuerte apuesta a la federalización de la educación superior y la formación policial en el interior, criticando el desfinanciamiento nacional y las retenciones al campo, mientras impulsa obras.",
+            "frase_fuerte": "En un contexto nacional donde la educación universitaria atraviesa dificultades y desfinanciamiento, en Córdoba decidimos dar un paso más: federalizar el acceso a la educación superior y generar más oportunidades para que nuestros jóvenes puedan estudiar cerca de sus hogares, sin tener que migrar a los grandes centros urbanos."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Sector Ganadero"
+            ],
+            "postura_politica": "Enfoque en el potencial productivo de la provincia, destacando eventos que promueven la ganadería y la genética.",
+            "frase_fuerte": "Las Nacionales 2026 en la Rural de Corrientes exhiben el enorme trabajo, la genética y el potencial de los productores y del sector ganadero de todo el país y la región, una exposición que sigue creciendo y posicionándose como una de las más importantes de la Argentina."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Gestión Provincial",
+                "Autonomía Económica"
+            ],
+            "postura_politica": "Destaca la eficiencia y soberanía de la gestión pública provincial, sustentada en independencia económica y orden fiscal, como modelo exitoso.",
+            "frase_fuerte": "Cuando la gestión pública se sustenta en la independencia económica, el orden fiscal y el fomento de la economía, la eficiencia del Estado no se discute. Los resultados surgen naturalmente y se amplía nuestra soberanía digital y energética."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Políticas de Niñez y Adolescencia",
+                "Diálogo Político"
+            ],
+            "postura_politica": "Foco en la protección de la niñez y adolescencia mediante programas conjuntos con UNICEF, y en la importancia del diálogo sobre desafíos políticos actuales.",
+            "frase_fuerte": "Recibí al director de Coordinación Federal de la Defensoría Nacional de los Derechos de Niñas, Niños y Adolescentes, Daniel Molina, para dialogar sobre la implementación del programa MUNA (Municipios Unidos por la Niñez y la Adolescencia), una iniciativa impulsada junto a UNICEF, que eligió a La Rioja entre diez provincias del país para fortalecer las políticas públicas destinadas a las infancias."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Transporte Público",
+                "Tecnología"
+            ],
+            "postura_politica": "Impulsa la modernización del transporte público con tecnología (aplicación MendoTran) para mejorar la experiencia del usuario y la gestión del sistema.",
+            "frase_fuerte": "La app MendoTran Cuándo Subo ahora suma la Zona Este y unifica en un solo sistema la información del transporte de Gran Mendoza, Lavalle y toda la región integrada con SUBE."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Relaciones Internacionales"
+            ],
+            "postura_politica": "Fortalece lazos de cooperación con Paraguay, destacando la importancia del diálogo y el trabajo conjunto entre pueblos hermanos.",
+            "frase_fuerte": "Recibí la cordial visita de mi querido amigo gobernador de Itapúa, Javier Pereira Rieve, con quien conversamos sobre la importancia de seguir fortaleciendo el vínculo entre nuestros pueblos hermanos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Empleo Privado",
+                "Obra Pública",
+                "Infraestructura Energética",
+                "Desarrollo Local",
+                "Escrituras"
+            ],
+            "postura_politica": "Destaca a Neuquén como líder en empleo privado y resalta la continuidad de obras clave (puentes, sistemas eléctricos, escrituras, circunvalación) como parte de un 'Modelo Neuquino' de desarrollo planificado y eficiente.",
+            "frase_fuerte": "NEUQUÉN ES LA SEGUNDA PROVINCIA CON MAYOR CANTIDAD DE EMPLEO PRIVADO. Quienes creen que esto se explica solo por una roca subestiman el trabajo, el esfuerzo y la capacidad de todos los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Infraestructura",
+                "Desarrollo Local",
+                "Gestión de Emergencias"
+            ],
+            "postura_politica": "Prioriza la modernización de la salud con financiamiento nacional, la infraestructura local (gas, riego) y la coordinación en emergencias, enfatizando un enfoque en el desarrollo integral más allá de los grandes proyectos.",
+            "frase_fuerte": "MODERNIZAR LA SALUD ES CUIDAR MEJOR A NUESTRA GENTE. Quiero agradecer al Gobierno Nacional y al ministro @LuisCaputoAR por acompañar a Río Negro en este paso importante, autorizando el inicio de las gestiones para un financiamiento internacional de US$ 60 millones que nos va a permitir transformar nuestro sistema público de salud."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Federalismo",
+                "Seguridad Vial"
+            ],
+            "postura_politica": "Toma la iniciativa de financiar obras de infraestructura nacional cruciales ('ruta de la muerte') con fondos provinciales ante la inacción del gobierno nacional, reafirmando la responsabilidad provincial.",
+            "frase_fuerte": "Tomé la decisión de financiar con fondos provinciales la continuidad de obras en la Ruta Nacional 9/34, uno de los principales ingresos a Salta, en el tramo Metán – Rosario de la Frontera. Los salteños no podemos seguir esperando."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad",
+                "Educación",
+                "Deportes"
+            ],
+            "postura_politica": "Impulsa programas habitacionales y de apoyo a clubes, mejora la infraestructura de seguridad y educativa, demostrando un Estado presente en diversas áreas sociales.",
+            "frase_fuerte": "PLAN HABITACIONAL “TENEMOS FUTURO” - Firmamos los contratos para iniciar la construcción de nuevas VIVIENDAS en Carpinteria, Nueva Galia, Buena Esperanza, El Morro, Las Chacras y Batavia. La Vivienda volvió a la Pcia y volvió para quedarse !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Infraestructura Deportiva",
+                "Gestión de Obras",
+                "Conmemoración Patria"
+            ],
+            "postura_politica": "Compromiso con la concreción de obras deportivas largamente esperadas y con la continuidad de políticas habitacionales, en un marco de unidad y responsabilidad provincial.",
+            "frase_fuerte": "DESPUÉS DE MUCHOS AÑOS DE ESPERA, VAMOS A HACER REALIDAD EL SUEÑO DE LA CANCHA DE CÉSPED SINTÉTICO PARA INDEPENDIENTE DE RÍO GALLEGOS"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Obra Pública",
+                "Educación",
+                "Conmemoración Patria"
+            ],
+            "postura_politica": "Destaca la eficiencia en la gestión de obras de seguridad (cárceles) y educativas, reafirmando el compromiso con los veteranos de Malvinas y la construcción de un destino propio para la provincia.",
+            "frase_fuerte": "Lo que en otros países lleva hasta 7 años, acá en Santa Fe lo estamos haciendo en 18 meses. Recibimos a una delegación del gobierno de Chile que vino a conocer el modelo de construcción y segmentación de la nueva cárcel de alto perfil que estamos levantando en Piñero."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Relaciones Internacionales",
+                "Desarrollo Económico"
+            ],
+            "postura_politica": "Fortalece los lazos de cooperación con China para atraer inversiones y promover el potencial cultural, turístico, agropecuario y de industrias emergentes de la provincia.",
+            "frase_fuerte": "Hoy tuvimos el honor de recibir al Embajador de la República Popular China, Wang Wei fortaleciendo los lazos de cooperación y diálogo que proyectan nuevas oportunidades para nuestra provincia."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Conmemoración Patria",
+                "Educación",
+                "Obra Pública",
+                "Gestión Municipal"
+            ],
+            "postura_politica": "Participación activa en las celebraciones patrias, priorizando la educación con inauguración de nuevas escuelas y la continuidad de obras públicas en el interior, en diálogo con municipios.",
+            "frase_fuerte": "Famaillá | En una tarde cargada de emoción, identidad y profundo fervor patriótico, participamos de las celebraciones por el 216° aniversario de la Revolución de Mayo en el Parque Industrial de esta querida ciudad. Hoy recordamos a aquellos hombres y mujeres que dieron los primeros pasos hacia una patria libre y soberana, reafirmando el orgullo de que Tucumán haya sido protagonista central de nuestra historia."
+        }
+    ]
+}

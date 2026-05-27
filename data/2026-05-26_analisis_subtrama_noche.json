@@ -1,0 +1,248 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por ataques directos de gobernadores peronistas (Kicillof, Llaryora, Ziliotto) al ajuste nacional, mientras los aliados (Macri, Pullaro, Figueroa) exhiben gestión propia y coordinación con Nación. La Zona Fría y el recorte de fondos son el eje del conflicto fiscal.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La modificación del régimen de Zona Fría se consolida como el campo de batalla del día. Kicillof (Buenos Aires) y Llaryora (Córdoba) disparan contra la Casa Rosada, denunciando un ajuste que castiga a sus provincias. Kicillof, con su tono de denuncia social, busca capitalizar el descontento bonaerense y posicionarse como el líder de la resistencia peronista. Llaryora, más moderado pero igual de contundente, utiliza el tema para marcar autonomía y reclamar federalismo fiscal. Ziliotto (La Pampa) se suma con un mensaje de defensa del salario y la obra pública, en sintonía con el relato de 'Estado presente' frente al abandono nacional. \n\nActo 2 — Los Alineamientos: Del otro lado, los gobernadores aliados (Macri, Pullaro, Figueroa, Weretilneck) evitan confrontar y se enfocan en mostrar resultados de gestión. Macri (CABA) se luce con el control de deudores alimentarios y la celebración del Obelisco, sin mencionar a Nación. Pullaro (Santa Fe) destaca obras y seguridad, agradeciendo tácitamente la coordinación nacional. Figueroa (Neuquén) y Weretilneck (Río Negro) exhiben datos de empleo y obras estratégicas, posicionándose como el motor productivo del país. Saenz (Salta) y Jaldo (Tucumán) participan en reuniones de seguridad con la ministra Monteoliva, mostrando cooperación federal. \n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Zdero, Valdes, Passalacqua, Poggi, Vidal Ser) se refugian en la agenda local. Zdero (Chaco) celebra la baja de retenciones y obras viales. Valdes (Corrientes) promociona ferias y eventos. Passalacqua (Misiones) pide unidad y atención federal. Poggi (San Luis) inaugura obras menores. Vidal Ser (Santa Cruz) entrega viviendas y equipamiento policial. Son gestos de supervivencia: evitan posicionarse sobre la macro para no quedar expuestos. \n\nActo 4 — Saldo Presidencial: El balance para la Casa Rosada es agridulce. Por un lado, los gobernadores aliados sostienen la gobernabilidad y evitan sumarse al coro de críticas. Por otro, el peronismo logró instalar la narrativa del ajuste cruel, con Kicillof como principal ariete. La Zona Fría se convierte en un símbolo de la disputa fiscal que, si no se resuelve, puede escalar a un conflicto abierto en el Senado.",
+    "temas_calientes": [
+        {
+            "tema": "Modificación del régimen de Zona Fría y recorte de subsidios energéticos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Gestión de seguridad y coordinación federal (Plan Güemes, Consejo de Seguridad)",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo",
+                "@EliasSuarezSDE",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Empleo privado y desarrollo productivo (Vaca Muerta, RIGI)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Obra pública provincial como respuesta al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Celebraciones del 25 de Mayo y reivindicación federal",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@passalacquaok",
+                "@QuintelaRicardo",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Cuando pensábamos que había llegado al límite de crueldad, el Gobierno nacional vuelve a castigar al pueblo, esta vez con la modificación del régimen de Zona Fría. Un proyecto que descarga aun más sobre la gente el peso de un ajuste que cada día está más lejos de ser para la casta. De ningún modo el Senado debe convalidar esta iniciativa que profundiza la desigualdad y le complica la vida a millones de argentinos.",
+        "por_que_es_clave": "Kicillof elige el día después del 25 de Mayo para lanzar una ofensiva directa contra el ajuste nacional, utilizando la Zona Fría como símbolo de la crueldad del Gobierno. Busca unificar al peronismo en el Senado y marcar el terreno de cara a la discusión parlamentaria.",
+        "pregunta_openarg": "¿El rechazo a la modificación de Zona Fría será el primer gran triunfo legislativo del peronismo unido contra el oficialismo?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "Ajuste nacional",
+                "Obra pública",
+                "Salud",
+                "Educación"
+            ],
+            "postura_politica": "Denuncia constante al Gobierno nacional por el ajuste. Se posiciona como defensor de los derechos sociales y la autonomía provincial. Cada tuit es un dardo a la Casa Rosada.",
+            "frase_fuerte": "De ningún modo el Senado debe convalidar esta iniciativa que profundiza la desigualdad"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Deudores alimentarios",
+                "Eventos culturales",
+                "25 de Mayo"
+            ],
+            "postura_politica": "Gestión eficiente y coordinación con Nación. Evita confrontar y se muestra como un aliado confiable. La agenda es de marketing urbano y control social.",
+            "frase_fuerte": "El que no cumple con una obligación tan básica como alimentar a sus hijos tiene que tener consecuencias."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obra rural",
+                "Baja de retenciones",
+                "Exportaciones",
+                "Vivienda"
+            ],
+            "postura_politica": "Celebra medidas nacionales favorables (retenciones) y muestra gestión local. Busca equilibrio: no confronta pero tampoco se alinea explícitamente.",
+            "frase_fuerte": "Celebramos y apoyamos estas decisiones que favorecen el crecimiento del campo, nuestro motor económico."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "Educación",
+                "Seguridad",
+                "Obra pública",
+                "Deporte"
+            ],
+            "postura_politica": "Crítica moderada al ajuste nacional, pero con fuerte énfasis en la gestión propia. Se presenta como el gobernador que hace obras mientras Nación abandona.",
+            "frase_fuerte": "Mientras 688 mil familias cordobesas quedan sin el beneficio de Zonas Frías que le corresponde, anoche los diputados libertarios festejaban la aprobación de la Ley que saca a Córdoba de Zonas Frías."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Ganadería",
+                "Cultura",
+                "Legislación provincial"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a promocionar eventos y proyectos legislativos menores.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Salario",
+                "Paritarias",
+                "Obra pública",
+                "Conectividad"
+            ],
+            "postura_politica": "Defensa del salario y el Estado presente. Crítica implícita al ajuste nacional al mostrar que La Pampa mantiene poder adquisitivo.",
+            "frase_fuerte": "En La Pampa, agentes públicos con familia tipo percibirán en mayo un sueldo mínimo garantizado de bolsillo de $1.600.000."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Infancia",
+                "Cultura",
+                "Aniversario policial",
+                "Educación"
+            ],
+            "postura_politica": "Gestión social y reuniones con organismos internacionales. Evita confrontar con Nación, se enfoca en lo local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Transporte",
+                "Salud",
+                "Energía solar",
+                "Minería"
+            ],
+            "postura_politica": "Muestra avances en gestión y coordinación con Nación (RIGI, energía). Se posiciona como un gobernador moderno y eficiente.",
+            "frase_fuerte": "Mendoza inauguró el Parque Solar El Quemado, el más grande de la Argentina."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "25 de Mayo",
+                "Unidad",
+                "Federalismo",
+                "Cooperación con Paraguay"
+            ],
+            "postura_politica": "Discurso de unidad y reclamo federal. Pide mayor atención de Nación hacia el interior.",
+            "frase_fuerte": "En situaciones complejas tenemos que estar juntos, hombro con hombro."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Empleo privado",
+                "Obra pública",
+                "Vaca Muerta",
+                "GNL",
+                "Energía"
+            ],
+            "postura_politica": "Exhibe datos de crecimiento y obras. Se posiciona como el motor energético del país, con un Estado eficiente y reglas claras.",
+            "frase_fuerte": "Neuquén es la segunda provincia del país con mayor cantidad de empleo privado registrado."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Salud",
+                "Producción",
+                "Empleo",
+                "Tren",
+                "Obras"
+            ],
+            "postura_politica": "Muestra gestión articulada con Nación y resultados concretos. Se suma al relato de la Norpatagonia como polo de desarrollo.",
+            "frase_fuerte": "La Norpatagonia se consolida como uno de los motores del crecimiento argentino."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Rutas",
+                "Conectividad aérea",
+                "Minería"
+            ],
+            "postura_politica": "Cooperación con Nación en seguridad y reclamo de obras viales. Se muestra como gestor que exige lo que corresponde.",
+            "frase_fuerte": "Los salteños no podemos seguir esperando."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad",
+                "Educación",
+                "Deporte"
+            ],
+            "postura_politica": "Agenda local intensa. Sin posicionamiento federal. Gestión pura.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Salud",
+                "Seguridad",
+                "Mercado concentrador"
+            ],
+            "postura_politica": "Muestra gestión y cumplimiento de promesas. Evita temas nacionales.",
+            "frase_fuerte": "Santa Cruz Puede..."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Obra pública",
+                "Educación",
+                "Cárceles"
+            ],
+            "postura_politica": "Fuerte en seguridad y obras. Se alinea con Nación en la baja de imputabilidad y muestra coordinación. Gobernador de gestión dura.",
+            "frase_fuerte": "Lo que en otros países lleva hasta 7 años, acá en Santa Fe lo estamos haciendo en 18 meses."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Smart City",
+                "Obra hídrica",
+                "Educación"
+            ],
+            "postura_politica": "Apertura al mundo y modernización. Sin conflicto con Nación. Gestión tecnológica y diplomática.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Obra pública",
+                "Educación",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Cooperación regional en seguridad y gestión local. Se muestra como anfitrión de encuentros federales. Peronismo dialoguista.",
+            "frase_fuerte": "Cuando hay responsabilidad institucional y voluntad de trabajar juntos, las soluciones para la gente siempre encuentran el camino."
+        }
+    ]
+}
