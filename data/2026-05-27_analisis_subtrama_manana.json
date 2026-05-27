@@ -1,0 +1,193 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por el enfrentamiento directo de Axel Kicillof (Buenos Aires) con el Gobierno nacional por la modificación del régimen de Zona Fría, mientras que Gustavo Sáenz (Salta) reclamó el cumplimiento de compromisos de obras y pagos. En contraste, varios gobernadores (Llaryora, Figueroa, Weretilneck) exhibieron gestión provincial autónoma, y Jorge Macri (CABA) reforzó su perfil de seguridad y orden. El silencio de otros mandatarios sugiere repliegue estratégico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal y política entre Nación y provincias se cristalizó en dos frentes. Por un lado, Axel Kicillof (Buenos Aires) redobló su ofensiva contra la Casa Rosada al denunciar la modificación del régimen de Zona Fría como un acto de 'crueldad' que perjudica a 5 millones de bonaerenses. Su mensaje no es solo una queja social: es una jugada para posicionarse como el defensor del interior bonaerense frente al ajuste nacional, y para marcar el terreno de cara a la discusión por la coparticipación. Por otro lado, Gustavo Sáenz (Salta) elevó el tono al reunirse con Luis Caputo y plantearle la demora en pagos a empresas de obras estratégicas, incluyendo rutas nacionales y plantas depuradoras. Sáenz, que suele mantener un perfil dialoguista, optó por la presión pública, revelando que la paciencia fiscal tiene un límite.\n\nActo 2 — Los Alineamientos: En el tablero de alianzas, se observan tres grupos. El primero, el de los gobernadores que explicitan su enfrentamiento con Nación: Kicillof (Buenos Aires) y, en menor medida, Sáenz (Salta). El segundo, el de los que priorizan la gestión local y evitan confrontar: Martín Llaryora (Córdoba) inauguró obras y anunció una sede universitaria, reforzando su narrativa de 'hacer para crecer' sin mencionar a Nación; Rolando Figueroa (Neuquén) destacó el empleo privado y la obra pública provincial, subrayando la autonomía energética; Alberto Weretilneck (Río Negro) mostró avances en salud y gas, con un guiño de agradecimiento a Caputo por un financiamiento internacional. El tercer grupo, el de los que se alinean con el discurso de orden y seguridad: Jorge Macri (CABA) intensificó su perfil de 'ley y orden' con operativos contra deudores alimentarios y okupas, en sintonía con la agenda nacional de seguridad.\n\nActo 3 — La Micro-política: Los gestos de supervivencia de provincias periféricas y gestión de cabotaje se evidencian en los tuits de Claudio Poggi (San Luis) y Claudio Vidal (Santa Cruz). Poggi se limitó a inaugurar instalaciones policiales y entregar viviendas, sin ninguna referencia a la macroeconomía. Vidal, por su parte, anunció la finalización de viviendas para madres solteras y la llegada de gas a barrios, en un claro intento de mostrar eficiencia local frente al abandono nacional. Hugo Passalacqua (Misiones) y Osvaldo Jaldo (Tucumán) combinaron actos patrios con anuncios de obras, pero sin confrontar. Alfredo Cornejo (Mendoza) destacó el récord de inscripciones a residencias médicas, un dato de gestión que refuerza su perfil técnico. Leandro Zdero (Chaco) celebró la baja de retenciones y lanzó programas productivos, alineándose con el discurso nacional de alivio fiscal.\n\nActo 4 — Saldo Presidencial: El balance para la Casa Rosada es mixto. Por un lado, logra que varios gobernadores (Llaryora, Figueroa, Weretilneck, Cornejo) se centren en la gestión y eviten la confrontación directa, lo que le da un respiro en el frente federal. Sin embargo, la ofensiva de Kicillof y el reclamo de Sáenz muestran que la paciencia se agota en provincias clave. El silencio de otros mandatarios (Jalil, Torres, Frigerio, etc.) sugiere que esperan el momento oportuno para sumarse al reclamo o negociar en privado. La estrategia de 'apagón político' no se consolidó, pero la tensión subyacente es innegable.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto por el régimen de Zona Fría y reclamo de fondos a Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y control del delito con perfil de orden",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Gestión provincial autónoma con obras e infraestructura",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Reclamo de pagos y obras nacionales atrasadas",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Política habitacional y acceso a servicios básicos",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@LeandroZdero"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Cuando pensábamos que había llegado al límite de crueldad, el Gobierno nacional vuelve a castigar al pueblo, esta vez con la modificación del régimen de Zona Fría. Un proyecto que descarga aun más sobre la gente el peso de un ajuste que cada día está más lejos de ser para la casta.\n\nDe ningún modo el Senado debe convalidar esta iniciativa que profundiza la desigualdad y le complica la vida a millones de argentinos.",
+        "por_que_es_clave": "Kicillof utiliza el drama social para marcar territorio político: se presenta como el único escudo de los bonaerenses frente a un Gobierno que, según él, castiga a las provincias. Es un llamado a la acción legislativa y una advertencia de que la pelea por los recursos escalará.",
+        "pregunta_openarg": "¿Es la modificación del régimen de Zona Fría una medida de ajuste necesaria o un castigo político a las provincias gobernadas por la oposición?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "ajuste nacional",
+                "desigualdad"
+            ],
+            "postura_politica": "Kicillof se posiciona como el principal antagonista del Gobierno nacional. Su tweet no es solo una denuncia social, sino una jugada para capitalizar el descontento y presionar al Senado. Omite mencionar la gestión provincial para centrarse en el conflicto con Nación, buscando unificar a la oposición en torno a la defensa de los subsidios energéticos.",
+            "frase_fuerte": "Cuando pensábamos que había llegado al límite de crueldad, el Gobierno nacional vuelve a castigar al pueblo"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "deudores alimentarios",
+                "okupas",
+                "ley y orden"
+            ],
+            "postura_politica": "Macri refuerza su perfil de gestión dura en seguridad, alineado con la agenda nacional. Al destacar la recuperación de propiedades y el control de deudores, busca diferenciarse de la 'anarquía' que atribuye a otros distritos. Su silencio sobre la macroeconomía es una omisión calculada: no quiere confrontar con Nación, sino mostrarse como un aliado en la lucha contra el delito.",
+            "frase_fuerte": "En esta Ciudad se terminó el vale todo."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "exportaciones",
+                "baja de retenciones",
+                "viviendas",
+                "energía rural"
+            ],
+            "postura_politica": "Zdero celebra la baja de retenciones y muestra gestión en obras, alineándose con el discurso nacional de alivio fiscal. Su perfil es de gobernador dialoguista que aprovecha las medidas de Nación para impulsar su agenda local. La omisión de críticas sugiere que busca mantener buenos vínculos con la Casa Rosada.",
+            "frase_fuerte": "Celebramos la BAJA DE RETENCIONES. Este es el camino para recuperar la competitividad"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obras públicas",
+                "educación",
+                "seguridad",
+                "gas natural",
+                "viviendas"
+            ],
+            "postura_politica": "Llaryora despliega una intensa agenda de gestión en el interior cordobés, mostrando que su provincia no se detiene pese al contexto nacional. Al no mencionar a Nación, envía un mensaje de autonomía y eficiencia. Su énfasis en la unidad y el diálogo es una estrategia para posicionarse como un líder federal moderado, alejado de las trincheras.",
+            "frase_fuerte": "La Argentina necesita volver a encontrarse. Hace muchos años que se construye trincheras y no puentes."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "salud",
+                "residencias médicas",
+                "transporte"
+            ],
+            "postura_politica": "Cornejo se enfoca en datos de gestión sanitaria, mostrando resultados concretos. Su perfil es técnico y desideologizado. Al no referirse a la macroeconomía, evita el conflicto y refuerza su imagen de gestor eficiente. Es un gobernador que no necesita confrontar para marcar presencia.",
+            "frase_fuerte": "Más de 1000 profesionales ya se inscribieron para las residencias 2026 en Mendoza: un 230% más que los inscriptos en 2023."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "25 de Mayo",
+                "unidad",
+                "federalismo",
+                "gestión local"
+            ],
+            "postura_politica": "Passalacqua utiliza el acto patrio para convocar a la unidad y reclamar mayor atención federal. Su mensaje es de tono conciliador pero con un dardo a Nación: pide que el país mire al interior. La omisión de críticas directas sugiere que busca mantener un perfil bajo pero firme en la defensa de los intereses misioneros.",
+            "frase_fuerte": "En situaciones complejas tenemos que estar juntos, hombro con hombro, como lo hicieron aquellos revolucionarios."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "empleo privado",
+                "obras eléctricas",
+                "viviendas",
+                "energía"
+            ],
+            "postura_politica": "Figueroa destaca los indicadores económicos de Neuquén y la obra pública provincial, subrayando la autonomía y el modelo neuquino. Su tweet sobre la autodeterminación energética es una declaración de independencia frente a Nación. Se posiciona como un gobernador que gestiona sin depender de la Casa Rosada, aprovechando los recursos de Vaca Muerta.",
+            "frase_fuerte": "Queremos una provincia solidaria con el país, pero sin perder nunca nuestra identidad."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "salud",
+                "gas",
+                "empleo privado",
+                "financiamiento internacional"
+            ],
+            "postura_politica": "Weretilneck combina gestión local con un agradecimiento puntual a Nación por el financiamiento de salud. Su perfil es de gobernador pragmático que reconoce la ayuda nacional pero sin subordinarse. Al destacar el empleo privado y las obras de gas, muestra que su provincia avanza con orden fiscal.",
+            "frase_fuerte": "Río Negro genera empleo privado y está por encima de la media nacional."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "reclamo de obras",
+                "pagos a empresas",
+                "gas",
+                "seguridad"
+            ],
+            "postura_politica": "Sáenz pasa del diálogo a la presión pública. Al reunirse con Caputo y luego twittear los reclamos, busca forzar a Nación a cumplir. Su mención a la 'ruta de la muerte' y la decisión de financiar obras provinciales es un acto de autonomía forzada. Se posiciona como un defensor de los intereses salteños, dispuesto a confrontar si es necesario.",
+            "frase_fuerte": "Los salteños no podemos seguir esperando."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "energía solar",
+                "minería",
+                "eventos internacionales"
+            ],
+            "postura_politica": "Orrego se enfoca en la promoción de la minería y las energías renovables, mostrando a San Juan como un polo de inversión. Su tweet sobre el Parque Solar Ullum Alfa es una muestra de gestión con visión de futuro. No menciona a Nación, lo que sugiere que su provincia avanza con recursos propios y alianzas privadas.",
+            "frase_fuerte": "El Parque Solar Fotovoltaico Ullum Alfa es una de las obras energéticas más importantes que hoy se están desarrollando en la provincia."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "viviendas",
+                "seguridad",
+                "educación",
+                "programas sociales"
+            ],
+            "postura_politica": "Poggi muestra una agenda de gestión local sin ningún contenido federal. Sus tweets son de bajo peso político, limitados a inauguraciones y programas. La omisión de la macroeconomía sugiere un repliegue estratégico: no quiere exponerse en un contexto de tensión.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "viviendas",
+                "gas",
+                "salud",
+                "mercado concentrador"
+            ],
+            "postura_politica": "Vidal se enfoca en resolver problemas básicos como vivienda y gas, en un claro intento de mostrar eficiencia local frente al abandono nacional. Su eslogan 'Santa Cruz Puede' es una declaración de autonomía. La omisión de críticas a Nación sugiere que prefiere los hechos a las palabras.",
+            "frase_fuerte": "Vamos a terminar lo que dejaron a medio hacer, y esta vez las viviendas serán para madres solteras."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "cultura",
+                "educación",
+                "obras viales",
+                "relaciones internacionales"
+            ],
+            "postura_politica": "Jaldo combina actos protocolares con anuncios de gestión, mostrando una provincia activa. Su reunión con embajadores y el lanzamiento de Cine Tucumano buscan proyectar una imagen de modernidad. No confronta con Nación, sino que se posiciona como un gobernador que gestiona en todos los frentes.",
+            "frase_fuerte": "Tucumán sigue dando pasos firmes para fortalecer su industria cultural y audiovisual."
+        }
+    ]
+}

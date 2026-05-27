@@ -1,0 +1,215 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda de los gobernadores hoy estuvo marcada por la gestión provincial, con un fuerte énfasis en la autonomía frente a un 'contexto nacional difícil'. Gobernadores como Gustavo Sáenz (Salta) y Martín Llaryora (Córdoba) elevaron reclamos directos a la Nación por incumplimiento de obras y recortes, mientras que otros como Axel Kicillof (Buenos Aires), Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) destacaron inversiones propias en infraestructura, empleo y servicios esenciales. La mayoría consolidó una postura de auto-suficiencia y defensa de los recursos locales, priorizando obras públicas, programas de fomento productivo y el fortalecimiento de la salud y educación en sus provincias. Jorge Macri (CABA) se centró en la seguridad urbana y el 'orden' en la Ciudad.",
+    "analisis_profundo": "La jornada federal exhibe una dinámica tensa entre las provincias y el gobierno central, con una clara orientación de los mandatarios provinciales hacia la gestión interna y la auto-suficiencia. Gobernadores como Gustavo Sáenz (Salta) no dudaron en enfrentar al ministro de Economía de la Nación, Luis Caputo, por la demora en pagos y el incumplimiento de obras estratégicas, señalando que las provincias están sosteniendo proyectos nacionales con fondos propios. Esta postura de reclamo se complementa con la narrativa de Martín Llaryora (Córdoba), quien enfatizó el momento 'difícil que vive el país' y la necesidad de defender la eliminación de retenciones y la Ley de Biocombustibles. Axel Kicillof (Buenos Aires), por su parte, reivindicó el rol de la banca pública provincial como motor del desarrollo municipal frente a las necesidades bonaerenses.\n\nEn contraste con las percepciones de inacción nacional, varios gobernadores destacaron una robusta agenda de obra pública y fomento económico. Leandro Zdero (Chaco) lanzó programas de construcción y créditos, mientras que Rolando Figueroa (Neuquén) celebró el liderazgo provincial en empleo privado, atribuyéndolo a la eficiencia estatal y la inversión local. Alberto Weretilneck (Río Negro) no solo informó sobre el pago de salarios y el crecimiento del empleo privado, sino que también anunció gestiones para un financiamiento internacional de 60 millones de dólares para modernizar el sistema de salud. Marcelo Orrego (San Juan) consolidó a su provincia como líder en energía solar con un importante parque fotovoltaico, enfatizando la visión de futuro.\n\nLa seguridad y el orden urbano también ocuparon un lugar, con Jorge Macri (CABA) resaltando la recuperación de propiedades usurpadas bajo el lema de 'Ley y orden', y Claudio Poggi (San Luis) inaugurando infraestructura policial y un plan habitacional. En el ámbito educativo y cultural, Alfredo Cornejo (Mendoza) celebró el aumento de inscripciones a residencias sanitarias, y Osvaldo Jaldo (Tucumán) impulsó la industria audiovisual local. La agenda común es la de un federalismo que se ejerce en la acción local, con los gobernadores consolidando sus propias capacidades y recursos para responder a las demandas de sus ciudadanos, a menudo en abierta contradicción con la dirección de las políticas nacionales.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamos Federales y Austeridad Nacional",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@MartinLlaryora",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Impulso a la Obra Pública y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Fomento del Empleo y la Actividad Económica Local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Salud y Educación Provincial",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@ClaudioVidalSer",
+                "@MartinLlaryora",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Gestión de Seguridad y Espacio Público Urbano",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@GustavoSaenzOK",
+        "texto": "Al ministro de Economía de la Nación, @LuisCaputoAR, le planteé nuevamente el cumplimiento de los compromisos asumidos con los salteños y la demora en los pagos a las empresas para que continúen obras estratégicas para el desarrollo de Salta. Se trata de proyectos fundamentales como las plantas depuradoras de Salta y Cafayate, rutas nacionales, la Ciudad Judicial de Orán y nuevas escuelas. En muchos casos, la Provincia viene sosteniendo con recursos propios obras que corresponden a Nación para evitar que se frenen. También solicité previsibilidad en el abastecimiento de gas para Salta y la región, porque cada invierno sufrimos problemas que afectan a las familias y al sector productivo e industrial. Además, planteé la incorporación de nuevos departamentos salteños al régimen de Zonas Cálidas para ampliar los subsidios energéticos a más salteños.",
+        "por_que_es_clave": "Este tweet es clave por su confrontación directa y detallada con el Gobierno Nacional, exponiendo el incumplimiento de compromisos federales y la obligación de la provincia de asumir obras de competencia nacional con fondos propios. Señala la falta de previsibilidad en servicios esenciales y la demanda de equidad en subsidios, marcando una fuerte tensión en la relación Nación-Provincia.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Gestión municipal",
+                "Banca pública",
+                "Desarrollo económico",
+                "Financiamiento provincial"
+            ],
+            "postura_politica": "Se enfoca en el apoyo a los municipios mediante la banca pública provincial para sostener la gestión y el desarrollo local en un contexto económico nacional adverso. Reafirma el rol del Estado provincial como garante de soluciones ante las necesidades.",
+            "frase_fuerte": "Es muy importante en este contexto económico seguir defendiendo el rol de nuestra banca pública para acompañar el desarrollo de los 135 distritos y dar respuestas a las necesidades de los bonaerenses."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad urbana",
+                "Recuperación de propiedades",
+                "Ley y orden"
+            ],
+            "postura_politica": "Exhibe una política de mano dura contra la usurpación de propiedades, vinculándola a actividades ilegales. Reafirma la autoridad del gobierno porteño para imponer 'ley y orden' en la Ciudad.",
+            "frase_fuerte": "Los defensores de okupas siempre desaparecen cuando encontramos talleres clandestinos, hacinamiento y negocios ilegales adentro de propiedades usurpadas. Mucho discursito romántico hasta que aparecen estas cosas. En esta Ciudad se terminó el vale todo. 800 propiedades recuperadas. Y seguimos. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública",
+                "Vivienda",
+                "Créditos",
+                "Desarrollo rural",
+                "Inclusión social",
+                "Energía eléctrica"
+            ],
+            "postura_politica": "Lanza programas de vivienda y crédito con participación del sector financiero y comercio. Promueve el desarrollo rural integral y la extensión de servicios esenciales como la luz, con un enfoque en la inclusión y el arraigo.",
+            "frase_fuerte": "Lanzamos 'Chaco Construye' y 'Tu Préstamo 36 cuotas'. Una iniciativa conjunta entre el Estado provincial, el sector financiero y el comercio local para que más familias chaqueñas puedan construir, ampliar y refaccionar sus hogares, potenciando la construcción y promoviendo la modernización digital en comercios."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Asistencia provincial",
+                "Educación",
+                "Salud",
+                "Infraestructura",
+                "Trabajo",
+                "Desarrollo local",
+                "Retenciones",
+                "Biocombustibles",
+                "Gas natural"
+            ],
+            "postura_politica": "Demuestra un compromiso activo con el bienestar de los cordobeses en un contexto nacional 'difícil', priorizando la asistencia, infraestructura y empleo a través del trabajo conjunto con municipios. Crítica a las retenciones al campo.",
+            "frase_fuerte": "Córdoba piensa con el corazón. En este momento difícil que vive el país, vamos a hacer todo lo posible para asistir a cada cordobés con educación, salud, infraestructura y trabajo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Gestión municipal",
+                "Pago de salarios"
+            ],
+            "postura_politica": "Muestra una gestión financiera ordenada al anunciar el pago de salarios de manera previsible. Se enfoca en el diálogo y la colaboración con los intendentes locales.",
+            "frase_fuerte": "Informo que el sábado 30 de mayo estarán acreditados los haberes de los trabajadores activos del Estado provincial y de los jubilados, pensionados y retirados del IPS."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Empleo privado",
+                "Empresas públicas",
+                "Infraestructura",
+                "Servicios esenciales",
+                "Regularización de tierras"
+            ],
+            "postura_politica": "Destaca el liderazgo de Neuquén en generación de empleo privado, atribuyéndolo a un Estado eficiente y la inversión en obras. Promueve la seguridad jurídica mediante la regularización de tierras fiscales y el fortalecimiento de empresas públicas para proveer servicios.",
+            "frase_fuerte": "NEUQUÉN ES LA SEGUNDA PROVINCIA CON MAYOR CANTIDAD DE EMPLEO PRIVADO, con 219 empleos cada 1.000 habitantes. Quienes creen que esto se explica solo por una roca subestiman el trabajo, el esfuerzo y la capacidad de todos los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Empleo privado",
+                "Obras de gas",
+                "Pago de salarios",
+                "Modernización de la salud",
+                "Financiamiento internacional"
+            ],
+            "postura_politica": "Resalta el buen desempeño de Río Negro en empleo privado y el compromiso con el pago de salarios. Anuncia importantes obras de infraestructura y gestiones para un financiamiento externo que modernizará el sistema de salud.",
+            "frase_fuerte": "RÍO NEGRO GENERA EMPLEO PRIVADO Y ESTÁ POR ENCIMA DE LA MEDIA NACIONAL Con 154 empleos asalariados privados cada 1.000 habitantes, Río Negro supera el promedio nacional de 144 y se posiciona entre las provincias con mejor desempeño del país."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Reclamo a Nación",
+                "Obras estratégicas",
+                "Financiamiento",
+                "Previsibilidad energética",
+                "Subsidios energéticos",
+                "Zonas cálidas"
+            ],
+            "postura_politica": "Enfrenta directamente al gobierno nacional por el incumplimiento de obras y la demora en pagos, exigiendo previsibilidad en gas y ampliación de subsidios. Destaca el esfuerzo provincial para sostener obras nacionales con fondos propios.",
+            "frase_fuerte": "Al ministro de Economía de la Nación, @LuisCaputoAR, le planteé nuevamente el cumplimiento de los compromisos asumidos con los salteños y la demora en los pagos a las empresas para que continúen obras estratégicas para el desarrollo de Salta."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Energías renovables",
+                "Parque solar",
+                "Desarrollo productivo",
+                "Generación de empleo"
+            ],
+            "postura_politica": "Afianza a San Juan como líder en energía solar, destacando el avance de un parque fotovoltaico que generará energía limpia y empleo. Subraya la importancia de la infraestructura para el desarrollo futuro de la provincia.",
+            "frase_fuerte": "El Parque Solar Fotovoltaico Ullum Alfa es una de las obras energéticas más importantes que hoy se están desarrollando en la provincia. Recorrí su avance y pude ver de cerca cómo este proyecto, impulsado por EPSE (Energía Provincial Sociedad del Estado), sigue consolidando a San Juan como líder nacional en generación solar."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obras e inversiones",
+                "Infraestructura urbana",
+                "Educación",
+                "Sanidad",
+                "Servicios esenciales"
+            ],
+            "postura_politica": "Enfatiza la continuidad de obras e inversiones en infraestructura diversa para mejorar la calidad de vida de las familias santacruceñas. Resalta el compromiso con el desarrollo local.",
+            "frase_fuerte": "SEGUIMOS LLEVANDO OBRAS E INVERSIONES A CADA RINCÓN DE SANTA CRUZ Durante mayo profundizamos obras y decisiones de inversión en distintas localidades de la provincia, acompañando el crecimiento de infraestructura urbana, educativa, sanitaria y de servicios esenciales."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Residencias médicas",
+                "Formación profesional",
+                "Transparencia"
+            ],
+            "postura_politica": "Celebra el aumento significativo de inscripciones a residencias médicas y no médicas, interpretándolo como una recuperación del valor de la formación sanitaria en la provincia. Destaca la seriedad y transparencia de la política sanitaria.",
+            "frase_fuerte": "Más de 1000 profesionales ya se inscribieron para las residencias 2026 en Mendoza: un 230% más que los inscriptos en 2023. No solo rompimos la tendencia decreciente sino que más que triplicamos las inscripciones, hecho inédito en el país."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Cultura",
+                "Industria audiovisual",
+                "Plataforma digital",
+                "Economía del conocimiento",
+                "Empleo"
+            ],
+            "postura_politica": "Impulsa la industria cultural y audiovisual provincial a través de una plataforma digital gratuita, buscando generar empleo y proyectar el talento local, con enfoque en la economía del conocimiento.",
+            "frase_fuerte": "Tucumán sigue dando pasos firmes para fortalecer su industria cultural y audiovisual con el lanzamiento de Cine Tucumano, una plataforma digital gratuita que pone en valor el talento, la creatividad y el trabajo de nuestros realizadores y artistas."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Plan habitacional",
+                "Seguridad",
+                "Infraestructura policial",
+                "Deporte"
+            ],
+            "postura_politica": "Anuncia el inicio de nuevas viviendas como parte de un plan habitacional y la mejora de la infraestructura de seguridad para fortalecer el servicio en la provincia, además de programas de apoyo a clubes.",
+            "frase_fuerte": "PLAN HABITACIONAL 'TENEMOS FUTURO' - Firmamos los contratos para iniciar la construcción de nuevas VIVIENDAS en Carpinteria, Nueva Galia, Buena Esperanza, El Morro, Las Chacras y Batavia. La Vivienda volvió a la Pcia y volvió para quedarse !!"
+        }
+    ]
+}
