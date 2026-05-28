@@ -1,0 +1,331 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de alta temperatura fiscal y simbólica. Kicillof lidera la ofensiva contra el ajuste nacional con datos de caída de inversión y reivindicación de obra pública. El interior productivo (Córdoba, Entre Ríos, Santa Fe) se alinea en crítica a retenciones y reclamo federal, mientras gobernadores dialoguistas (Mendoza, Salta, Neuquén) negocian beneficios puntuales con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La disputa fiscal domina la jornada. Kicillof (Buenos Aires) twittea datos demoledores de la OCDE: caída del 73,1% de la IED en Argentina durante 2025, la peor de América Latina. El gobernador bonaerense no solo exhibe el fracaso del modelo mileísta, sino que construye un relato de reemplazo: mientras Nación desinvierte, la Provincia de Buenos Aires sostiene obra pública, banca pública, conectividad y escrituración. La modificación del régimen de Zona Fría aparece como otro frente de conflicto: Kicillof denuncia castigo a 5 millones de bonaerenses y pide al Senado que rechace el proyecto. Es una jugada doble: pelea por recursos y marca territorio electoral.\n\nActo 2 — Los Alineamientos: Pullaro (Santa Fe), Frigerio (Entre Ríos) y Llaryora (Córdoba) conforman un eje del interior productivo. Los tres celebraron la baja de retenciones pero reclamaron eliminación total y un nuevo acuerdo fiscal federal. Pullaro va más allá: se reunió con Frigerio en Entre Ríos y juntos visibilizaron una alianza que cruza colores partidarios para presionar a Nación. En la vereda opuesta, Cornejo (Mendoza), Figueroa (Neuquén) y Sáenz (Salta) negocian en modo pragmático: obtienen RIGI para megaproyectos (El Quemado, San Jorge, litio), gestionan deudas previsionales y obras viales. No confrontan; gestionan.\n\nActo 3 — La Micro-política: Los gobernadores periféricos se refugian en gestión local. Zdero (Chaco) inaugura viviendas y programas productivos; Insfrán (Formosa) apuesta a efemérides y actos escolares; Poggi (San Luis) muestra obras de pavimento y gas. Sin embargo, Passalacqua (Misiones) y Quintela (La Rioja) hacen equilibrio: el primero reclama federalismo en el acto del 25 de Mayo; el segundo inaugura acueductos y centros terapéuticos, pero evita confrontar abiertamente con Nación. Jaldo (Tucumán) se reúne con intendentes peronistas para fortalecer el PJ provincial, en un gesto de rearme político.\n\nActo 4 — Saldo Presidencial: La Casa Rosada enfrenta un escenario de desgaste lento pero sostenido. Los gobernadores que más presionan son los de mayor peso poblacional y productivo. El Gobierno nacional mantiene a sus aliados mediante beneficios concretos (RIGI, obras, compensaciones), pero la base social del ajuste se erosiona. La pregunta abierta es si el oficialismo podrá sostener la gobernabilidad sin una revisión del pacto fiscal.",
+    "temas_calientes": [
+        {
+            "tema": "Caída de inversiones y crítica al modelo económico nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Baja de retenciones y reclamo de nuevo acuerdo fiscal federal",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@frigeriorogelio",
+                "@MartinLlaryora",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Obra pública provincial como respuesta al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico con enfoque federal",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "RIGI y minería como herramienta de desarrollo provincial",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@DrMarceloOrrego",
+                "@RaulJalil_ok",
+                "@carlossadirjuy"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "[RE-TWEET de @Carli_Bianco] Ayer se conoció que la Argentina tuvo en 2025 el peor registro de IED entre los países latinoamericanos, detrás de Brasil, México, Chile y Costa Rica. Pero los datos no terminan ahí. Según el mismo informe de la OCDE, la Argentina también tuvo la mayor caída interanual de la región: un derrumbe de -73,1%. (..) La caída ocurrió a contramano de la tendencia internacional. (..) Como era de esperarse, la caída de la actividad económica, del salario, del consumo, y la desinversión brutal en infraestructura pesan más que el RIGI, la desregulación y el alineamiento externo. Todos mecanismos que solo han configurado un régimen de privilegios para unos pocos jugadores a costas del bienestar de la mayoría de los argentinos.",
+        "por_que_es_clave": "Kicillof utiliza datos duros de la OCDE para deslegitimar el relato oficial de recuperación. No es un simple tweet opositor: es la construcción de una contra-narrativa con respaldo internacional, justo cuando el Gobierno nacional celebra el RIGI y la llegada de inversiones. El gobernador bonaerense se posiciona como el vocero de la 'mayoría castigada' frente a los 'privilegios de unos pocos'.",
+        "pregunta_openarg": "¿Puede el Gobierno nacional sostener su relato de recuperación económica cuando la inversión extranjera directa se derrumbó un 73,1% en 2025?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "IED",
+                "obra pública",
+                "banca pública",
+                "Zona Fría",
+                "crítica a Milei"
+            ],
+            "postura_politica": "Oposición frontal a Nación. Usa datos internacionales para deslegitimar el modelo, mientras exhibe gestión provincial como alternativa. Marca perfil presidenciable.",
+            "frase_fuerte": "la desinversión brutal en infraestructura pesa más que el RIGI, la desregulación y el alineamiento externo"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "okupas",
+                "deudores alimentarios",
+                "Mundial"
+            ],
+            "postura_politica": "Alineado con el discurso de 'Ley y Orden' del Gobierno nacional. Muestra gestión efectiva y coordinación con Nación (Tribuna Segura). Sin fisuras.",
+            "frase_fuerte": "Aunque los defensores de okupas lloren, los vamos a ir a buscar a donde se escondan"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "semillas",
+                "Mesa Federal Minera",
+                "RIGI",
+                "litio",
+                "relaciones internacionales"
+            ],
+            "postura_politica": "Pragmatismo productivo. Se alinea con Nación en minería y apertura comercial. No confronta; busca inversiones.",
+            "frase_fuerte": "La minería puede generar crecimiento, empleo y oportunidades cuando existe planificación y articulación"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "viviendas",
+                "programas productivos",
+                "baja de retenciones",
+                "exportaciones"
+            ],
+            "postura_politica": "Gestión local sin conflicto con Nación. Celebra medidas nacionales (retenciones) y muestra obras. Perfil bajo y constructivo.",
+            "frase_fuerte": "celebramos y apoyamos estas decisiones que favorecen el crecimiento del campo"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Ruta 40",
+                "seguridad",
+                "deuda con Nación",
+                "obra pública",
+                "impuestos"
+            ],
+            "postura_politica": "Autonomía con gestión. Cancela deuda con Nación mediante obras, baja impuestos, hace foco en seguridad. Posicionamiento de gestión eficiente, sin pleitos.",
+            "frase_fuerte": "SE TERMINÓ LA JODA EN LAS CÁRCELES"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obra pública",
+                "educación",
+                "seguridad",
+                "crítica a retenciones",
+                "crítica a Nación"
+            ],
+            "postura_politica": "Doble juego: se muestra constructor frente al ajuste nacional, pero evita la ruptura. Reclama federalismo y unidad, pero marca diferencias con Nación en retenciones y desfinanciamiento.",
+            "frase_fuerte": "Mientras el Gobierno nacional abandona responsabilidades esenciales, nosotros seguimos garantizando la salud, la educación y la asistencia alimentaria"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "exposición ganadera",
+                "ArteCo",
+                "leyes provinciales",
+                "inversiones",
+                "norte grande"
+            ],
+            "postura_politica": "Agenda local con perfil institucional. Sin conflicto con Nación. Promueve desarrollo productivo y cultural. Bajo perfil federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "hermanamiento con Pullaro",
+                "baja de retenciones",
+                "RINI",
+                "Salto Grande",
+                "reunión con Caputo"
+            ],
+            "postura_politica": "Coordinación regional con Santa Fe. Reclama por tarifa de Salto Grande y compensación de caja jubilatoria, pero negocia con Nación. Pragmático y dialoguista.",
+            "frase_fuerte": "La baja de retenciones SIEMPRE es una medida para celebrar. Ojalá pronto se puedan eliminar por completo"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "25 de Mayo",
+                "aniversarios",
+                "educación",
+                "reunión con intendentes repudio intervención"
+            ],
+            "postura_politica": "Peronismo ortodoxo. Se refugia en agenda local y efemérides. Crítica velada al ajuste nacional, pero sin confrontación directa. Defensa del 'Modelo Formoseño'.",
+            "frase_fuerte": "En Formosa hay un gobierno que cree y trabaja siempre por la justicia social"
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "25 de Mayo",
+                "Mesa Federal Minera",
+                "seguridad regional",
+                "litio"
+            ],
+            "postura_politica": "Alineamiento técnico con Nación en minería y seguridad. No hay conflicto visible. Perfil de gestión.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "conectividad",
+                "salarios",
+                "paritarias",
+                "parques productivos",
+                "juicio a Nación por ATN"
+            ],
+            "postura_politica": "Peronismo de gestión con litigio. Confronta judicialmente por fondos ATN, pero en paralelo muestra gestión autónoma soberanía digital y energética. Perfil técnico.",
+            "frase_fuerte": "La Corte Suprema admitió la demanda que La Pampa interpuso por la apropiación de fondos ATN"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "agua",
+                "caminos rurales",
+                "educación",
+                "Policía",
+                "diálogo con oposición"
+            ],
+            "postura_politica": "Gestión local con crítica implícita a Nación por abandono de obras. Perfil bajo. Evita confrontación abierta mientras muestra gestión.",
+            "frase_fuerte": "pese a haber sido abandonadas por el Gobierno nacional, en La Rioja decidimos sostener con esfuerzo y compromiso"
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "residencias médicas",
+                "transporte",
+                "RIGI",
+                "minería",
+                "energía solar",
+                "enmienda constitucional"
+            ],
+            "postura_politica": "Alineamiento total con Nación. Promociona RIGI y proyectos energéticos. Perfil de gestión moderna y dialoguista. Sin conflictos.",
+            "frase_fuerte": "Mendoza inauguró el Parque Solar El Quemado, el más grande de la Argentina"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "educación",
+                "prevención climática",
+                "25 de Mayo",
+                "relaciones con Paraguay"
+            ],
+            "postura_politica": "Crítica moderada a Nación en acto patrio reclamando federalismo, pero sin escalar. Agenda local predominante. Perfil institucional.",
+            "frase_fuerte": "Los misioneros somos un pueblo trabajador, orgulloso de su identidad, y vamos a seguir levantando la voz para que el país mire más al interior profundo"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "empresas públicas",
+                "regularización de tierras",
+                "empleo privado",
+                "Vaca Muerta",
+                "GNL"
+            ],
+            "postura_politica": "Exhibe gestión exitosa en Vaca Muerta y empleo. No confronta con Nación; negocia proyectos de GNL. Perfil de eficiencia.",
+            "frase_fuerte": "Neuquén tiene la oportunidad histórica de convertirse en protagonista de una nueva etapa para la Argentina"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "El Bolsón obras",
+                "hospital",
+                "salud financiamiento BID",
+                "seguridad",
+                "empleo privado"
+            ],
+            "postura_politica": "Gestión intensa sin conflicto. Agradece a Nación por financiamiento. Perfil técnico y de gestión. Sin ruido político.",
+            "frase_fuerte": "Quiero agradecer al Gobierno Nacional y al ministro @LuisCaputoAR por acompañar a Río Negro"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "reunión con Caputo",
+                "obra RN 9/34",
+                "seguridad regional",
+                "gas",
+                "vuelos brasil"
+            ],
+            "postura_politica": "Reclamo firme pero negociador. Pide cumplimiento de compromisos a Nación, pero sostiene obras con fondos provinciales. Perfil de gestor que exige sin romper.",
+            "frase_fuerte": "Al ministro de Economía de la Nación le planteé nuevamente el cumplimiento de los compromisos asumidos con los salteños"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "minería",
+                "RIGI",
+                "Expo San Juan Minera",
+                "energía solar",
+                "Ironman"
+            ],
+            "postura_politica": "Alineamiento total con Nación en minería. Eventos internacionales promocionan provincia. Perfil de gestión pro-inversión.",
+            "frase_fuerte": "San Juan tiene capacidad, talento y mucho potencial para seguir creciendo"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "deporte",
+                "jardines",
+                "pavimento",
+                "viviendas",
+                "seguridad"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Efemérides y gestión municipal. Sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "polideportivo",
+                "viviendas",
+                "gas",
+                "salud",
+                "Mercado Concentrador"
+            ],
+            "postura_politica": "Gestión local con reclamo implícito. Muestra que Santa Cruz resuelve donde Nación no llega. Perfil de gestión territorial.",
+            "frase_fuerte": "Durante años, muchas familias de Santa Cruz quedaron afuera de algo tan básico como el gas. Esa realidad no podía seguir igual"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "cárcel",
+                "educación",
+                "25 de Mayo",
+                "obras",
+                "seguridad",
+                "reunión con Frigerio"
+            ],
+            "postura_politica": "Construye eje alternativo al poder nacional con Frigerio. Marca perfil de gestión y seguridad. Crítica a Nación por desfinanciamiento universitario.",
+            "frase_fuerte": "Cuando las provincias nos unimos para trabajar codo a codo, el interior productivo termina empujando al país"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "relaciones China",
+                "25 de Mayo",
+                "seguridad regional",
+                "Smart City Expo"
+            ],
+            "postura_politica": "Internacionalización y gestión local. Sin conflicto con Nación. Perfil de gestión modernizadora.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "reunión peronista",
+                "cultura audiovisual",
+                "obras",
+                "25 de Mayo",
+                "seguridad regional"
+            ],
+            "postura_politica": "Reactivación del peronismo tucumano. Recibe a intendentes y fortalece el PJ. Crítica velada al ajuste, pero mantiene diálogo con Nación en seguridad.",
+            "frase_fuerte": "En momentos donde muchos miran para otro lado, en Tucumán elegimos organizarnos, trabajar unidos y poner siempre a la gente en el centro"
+        }
+    ]
+}

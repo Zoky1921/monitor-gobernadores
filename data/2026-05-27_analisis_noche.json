@@ -1,0 +1,290 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por la proactividad de los gobernadores en la gestión provincial y la ejecución de obras, a menudo contrastando con el escenario nacional. Axel Kicillof (Buenos Aires) y Gustavo Sáenz (Salta) intensificaron sus críticas a las políticas nacionales, especialmente sobre inversiones y manejo económico, con Sáenz incluso decidiendo financiar obras nacionales con fondos provinciales. En contraste, Rogelio Frigerio (Entre Ríos) y Maximiliano Pullaro (Santa Fe) destacaron su agenda de desarrollo regional y colaboración, con foco en producción e inversión. Otros mandatarios como Ricardo Quintela (La Rioja), Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) también priorizaron infraestructura, servicios y desarrollo local, subrayando la eficiencia de la gestión provincial en un contexto complejo, reafirmando la autonomía y capacidad de respuesta de las provincias.",
+    "analisis_profundo": "El panorama federal de hoy exhibe una notable divergencia entre la agenda provincial y la nacional. Gobernadores como Axel Kicillof (Buenos Aires) mantuvieron una postura crítica, señalando la caída de la Inversión Extranjera Directa (IED) en 2025 y contrastando la obra pública provincial con el 'presupuesto cero en infraestructura' del gobierno nacional. Su énfasis en la banca pública bonaerense y el fomento de la gestión municipal refuerza una visión de Estado presente frente a las políticas de ajuste. De manera similar, Gustavo Sáenz (Salta) confrontó directamente al Ministro de Economía de la Nación, Luis Caputo, por el incumplimiento de compromisos y la demora en pagos para obras clave, llegando a anunciar financiamiento provincial para una ruta nacional, evidenciando la tensión por la desfinanciación federal.\n\nEn otro espectro, la gestión de Jorge Macri (Ciudad Autónoma de Buenos Aires) se centró en políticas de 'Ley y orden', destacando la recuperación de propiedades usurpadas y la prohibición de ingreso a eventos masivos para deudores alimentarios, una agenda que resuena con narrativas de seguridad y cumplimiento normativo. La colaboración regional fue un punto de unión entre Rogelio Frigerio (Entre Ríos) y Maximiliano Pullaro (Santa Fe), quienes compartieron una visión de desarrollo basada en la producción y la inversión privada, sellando un 'hermanamiento' entre municipios y promoviendo exenciones impositivas para inversores. Pullaro (Santa Fe) también exhibió avances en infraestructura carcelaria, contrastando la velocidad de su provincia con la de otros países.\n\nOtros gobernadores, como Ricardo Quintela (La Rioja), Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro), se volcaron a comunicar avances en infraestructura esencial: acceso al agua, caminos rurales, centros educativos y energéticos, así como programas de regularización de tierras y empleo privado. Claudio Poggi (San Luis) y Leandro Zdero (Chaco) también enfatizaron la entrega de viviendas y el impulso a programas de construcción y deporte. Osvaldo Jaldo (Tucumán) y Hugo Passalacqua (Misiones) destacaron la inversión en cultura, educación y la previsión ante fenómenos climáticos, además de reuniones con intendentes para fortalecer frentes provinciales y coordinar acciones. La constante en casi todas las jurisdicciones es la búsqueda de mostrar una gestión activa y resolutiva frente a las necesidades locales, a menudo en el marco de un 'contexto complejo' que, velada o abiertamente, se atribuye a la esfera nacional. El federalismo de acción se manifiesta con fuerza.",
+    "temas_calientes": [
+        {
+            "tema": "Critica y contraste con políticas nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Infraestructura y obra pública provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo y fomento económico",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@ZiliottoSergio",
+                "@WeretilneckOK",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden local",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Educación y salud pública",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@GustavoSaenzOK (Salta)",
+        "texto": "Al ministro de Economía de la Nación, @LuisCaputoAR, le planteé nuevamente el cumplimiento de los compromisos asumidos con los salteños y la demora en los pagos a las empresas para que continúen obras estratégicas para el desarrollo de Salta. También solicité previsibilidad en el abastecimiento de gas para Salta y la región, porque cada invierno sufrimos problemas que afectan a las familias y al sector productivo e industrial. Además, planteé la incorporación de nuevos departamentos salteños al régimen de Zonas Cálidas para ampliar los subsidios energéticos a más salteños.",
+        "por_que_es_clave": "Este tweet es clave por su confrontación directa con un ministro nacional, exponiendo públicamente el incumplimiento de compromisos federales y la afectación de obras estratégicas provinciales, lo que revela la tensión por el financiamiento y la autonomía provincial.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Economía nacional",
+                "Inversión extranjera",
+                "Obra pública",
+                "Banca pública"
+            ],
+            "postura_politica": "Fuerte crítico de las políticas económicas y de infraestructura del gobierno nacional, enfatizando el rol activo y protector del Estado provincial y la banca pública frente al ajuste y la desregulación.",
+            "frase_fuerte": "Esto marca un rumbo bien distinto al de Milei y Caputo, con presupuesto cero en infraestructura."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y orden",
+                "Usurpaciones",
+                "Deudores alimentarios"
+            ],
+            "postura_politica": "Se posiciona como garante del orden y la legalidad, con acciones concretas contra usurpaciones y deudores alimentarios, en línea con una agenda de seguridad y disciplina.",
+            "frase_fuerte": "Aunque los defensores de okupas lloren, los vamos a ir a buscar a donde se escondan. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Producción agrícola",
+                "Crecimiento económico"
+            ],
+            "postura_politica": "Centrado en el desarrollo económico provincial a través del fomento de la producción agrícola, como la de semillas, vista como estratégica para el crecimiento.",
+            "frase_fuerte": "cómo la producción de semillas se transformó en una política estratégica para el crecimiento económico de Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obra pública",
+                "Desarrollo rural",
+                "Financiamiento local"
+            ],
+            "postura_politica": "Impulsa activamente la vivienda y la infraestructura rural con programas propios, buscando potenciar la construcción y la modernización digital en los comercios.",
+            "frase_fuerte": "Más familias chaqueñas recibieron las llaves de su nuevo hogar en la Chacra 214 en Resistencia."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Seguridad",
+                "Prevención del delito"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con la recuperación de infraestructura vial clave y el fortalecimiento de la seguridad con operativos y controles para combatir el crimen.",
+            "frase_fuerte": "AVANZA LA RECONSTRUCCIÓN DE LA RUTA 40: CONTROLES DE CARGA Y BALANZA PARA CUIDAR LA OBRA"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Asistencia social",
+                "Educación universitaria",
+                "Infraestructura",
+                "Política fiscal"
+            ],
+            "postura_politica": "Prioriza la asistencia social, la inversión en educación universitaria y obras de gas en un 'momento difícil' para el país, reiterando la defensa de la eliminación de retenciones.",
+            "frase_fuerte": "Córdoba piensa con el corazón. En este momento difícil que vive el país, vamos a hacer todo lo posible para asistir a cada cordobés con educación, salud, infraestructura y trabajo."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Desarrollo regional",
+                "Inversión privada",
+                "Fomento productivo"
+            ],
+            "postura_politica": "Enfatiza la colaboración interprovincial y el impulso a la inversión privada a través de exenciones impositivas, centrado en el desarrollo productivo y la generación de empleo genuino.",
+            "frase_fuerte": "A Entre Ríos y Santa Fe nos une una visión de desarrollo basada en la producción, la inversión privada y el trabajo genuino."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Gestión pública",
+                "Independencia económica",
+                "Soberanía digital",
+                "Soberanía energética"
+            ],
+            "postura_politica": "Defiende una gestión pública basada en la independencia económica y el orden fiscal, promoviendo la eficiencia estatal y ampliando la soberanía digital y energética provincial.",
+            "frase_fuerte": "Cuando la gestión pública se sustenta en la independencia económica, el orden fiscal y el fomento de la economía, la eficiencia del Estado no se discute."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Derecho al agua",
+                "Infraestructura rural",
+                "Inclusión",
+                "Educación pública"
+            ],
+            "postura_politica": "Reafirma el compromiso con el acceso a servicios básicos como el agua, la mejora de la infraestructura rural y la educación pública, impulsando la inclusión de personas con discapacidad.",
+            "frase_fuerte": "El agua es un derecho, y mantenemos el compromiso de que cada familia riojana tenga acceso a ella."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Formación profesional"
+            ],
+            "postura_politica": "Destaca el fortalecimiento de la política sanitaria con un incremento significativo en las inscripciones a residencias, reflejando una gestión planificada y transparente en salud.",
+            "frase_fuerte": "Este crecimiento refleja que estamos recuperando el valor de las residencias gracias a una política sanitaria seria, planificada y sostenida."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Innovación educativa",
+                "Tecnología",
+                "Inteligencia artificial",
+                "Prevención climática",
+                "Gestión municipal",
+                "Salarios estatales"
+            ],
+            "postura_politica": "Fomenta la innovación educativa y la aplicación de tecnología, mientras se ocupa de la previsión climática y la gestión salarial, manteniendo un diálogo constante con las comunidades.",
+            "frase_fuerte": "Vivimos tiempos donde la educación cambia constantemente, las paredes de las aulas se volvieron porosas y el conocimiento ya no llega solamente desde el docente, sino también desde nuevos lenguajes y herramientas que nos desafían todos los días."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Empresas públicas",
+                "Empleo privado",
+                "Regularización de tierras",
+                "Infraestructura energética"
+            ],
+            "postura_politica": "Destaca el rol de las empresas públicas en la provisión de servicios esenciales, el crecimiento del empleo privado y la regularización de tierras fiscales, como pilares del 'Modelo Neuquino'.",
+            "frase_fuerte": "Tenemos muchas cosas para defender: nuestras empresas públicas y una forma de vida que los neuquinos construimos con mucho esfuerzo."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Seguridad",
+                "Servicios básicos",
+                "Empleo privado"
+            ],
+            "postura_politica": "Presenta una gestión robusta en seguridad, salud (con financiamiento internacional) y servicios esenciales, mostrando orgullo por el empleo privado que supera la media nacional.",
+            "frase_fuerte": "RÍO NEGRO GENERA EMPLEO PRIVADO Y ESTÁ POR ENCIMA DE LA MEDIA NACIONAL"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Financiamiento de obras",
+                "Abastecimiento de gas",
+                "Subsidios energéticos",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Mantiene una postura confrontativa con el gobierno nacional por la falta de cumplimiento de compromisos y el financiamiento de obras, optando por recursos provinciales para no detener proyectos clave.",
+            "frase_fuerte": "Al ministro de Economía de la Nación, @LuisCaputoAR, le planteé nuevamente el cumplimiento de los compromisos asumidos con los salteños y la demora en los pagos a las empresas para que continúen obras estratégicas para el desarrollo de Salta."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Energía solar",
+                "Infraestructura energética",
+                "Empleo local"
+            ],
+            "postura_politica": "Posiciona a San Juan como líder en energía solar, promoviendo grandes proyectos que generan empleo y fortalecen la matriz energética provincial.",
+            "frase_fuerte": "sigue consolidando a San Juan como líder nacional en generación solar."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Deporte",
+                "Educación",
+                "Infraestructura urbana",
+                "Vivienda",
+                "Seguridad"
+            ],
+            "postura_politica": "Impulsa programas de apoyo al deporte y la educación infantil, invierte en infraestructura urbana y vivienda, y fortalece la seguridad con nuevas instalaciones policiales.",
+            "frase_fuerte": "La Vivienda volvió a la Pcia y volvió para quedarse !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Inversión pública",
+                "Obras urbanas",
+                "Salud",
+                "Abastecimiento"
+            ],
+            "postura_politica": "Enfocado en la inversión en obras y el ordenamiento de la gestión pública para mejorar servicios esenciales y la calidad de vida de las familias santacruceñas.",
+            "frase_fuerte": "SEGUIMOS LLEVANDO OBRAS E INVERSIONES A CADA RINCÓN DE SANTA CRUZ"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Desarrollo regional",
+                "Seguridad",
+                "Infraestructura carcelaria"
+            ],
+            "postura_politica": "Colabora con provincias vecinas para el desarrollo productivo y destaca la eficiencia en la construcción de infraestructura carcelaria para fortalecer la seguridad.",
+            "frase_fuerte": "Lo que en otros países lleva hasta 7 años, acá en Santa Fe lo estamos haciendo en 18 meses."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Desarrollo económico",
+                "Inversión"
+            ],
+            "postura_politica": "Fomenta los lazos de cooperación internacional, especialmente con China, para atraer inversiones y promover el desarrollo cultural, turístico y productivo de la provincia.",
+            "frase_fuerte": "Hoy tuvimos el honor de recibir al Embajador de la República Popular China, Wang Wei fortaleciendo los lazos de cooperación y diálogo que proyectan nuevas oportunidades para nuestra provincia."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Gestión provincial",
+                "Frente político",
+                "Industria cultural",
+                "Audiovisual"
+            ],
+            "postura_politica": "Fortalece el frente político provincial y promueve la industria cultural y audiovisual, resaltando la importancia de la unidad y el trabajo en equipo para el desarrollo de Tucumán.",
+            "frase_fuerte": "En momentos donde muchos miran para otro lado, en Tucumán elegimos organizarnos, trabajar unidos y poner siempre a la gente en el centro de cada decisión."
+        }
+    ]
+}
