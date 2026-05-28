@@ -1,0 +1,215 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La jornada federal del 28 de mayo de 2026 estuvo marcada por una fuerte agenda de gestión provincial y un clima de tensión latente con el gobierno nacional. Gobernadores como Axel Kicillof (Buenos Aires) y Ricardo Quintela (La Rioja) endurecieron su discurso, criticando el modelo de ajuste nacional y repudiando intervenciones judiciales en asuntos gremiales. Se observa un consenso interprovincial en el apoyo al 'interior productivo' y la inversión en infraestructura clave para el desarrollo local. La salud, la seguridad y el fomento del empleo privado se destacan como prioridades provinciales, buscando soluciones autónomas frente a la percepción de desatención federal.",
+    "analisis_profundo": "El panorama federal del 28 de mayo revela una clara polarización en la interacción con el gobierno central, balanceada con una activa agenda de gestión y colaboración interprovincial. La narrativa del 'modelo de ajuste y crueldad' del gobierno nacional resonó en los mensajes de Axel Kicillof (Buenos Aires), quien no solo criticó la dirección económica sino que también propuso una 'alternativa' bonaerense centrada en el desarrollo sostenible marino y costero, marcando una senda de autonomía programática. En una línea más confrontativa, Ricardo Quintela (La Rioja) escaló la tensión al repudiar explícitamente la anulación de elecciones sindicales de la UOM por parte de la justicia, un claro desafío a la autoridad judicial nacional y un respaldo contundente al movimiento obrero.\n\nOtros gobernadores, como Alfredo Cornejo (Mendoza) y Claudio Vidal (Santa Cruz), también demuestran una fuerte impronta de acción provincial frente a posibles recortes nacionales. Cornejo anuncia una significativa inversión en salud de alta complejidad, subrayando la 'federalización de la salud pública' y la modernización del sistema, lo que puede interpretarse como una respuesta a la retirada o desfinanciamiento de áreas clave por parte de la Nación. Vidal, por su parte, defiende el futuro de YCRT, una empresa estatal emblemática, a través de una 'Ley de Financiamiento Estratégico', buscando asegurar obras y producción para la Cuenca Carbonífera con diálogo sindical.\n\nLa agenda de obra pública y desarrollo local fue central para varios mandatarios. Leandro Zdero (Chaco) y Claudio Poggi (San Luis) enfatizaron la entrega de viviendas y la inauguración de servicios esenciales como el gas natural, apuntalando la calidad de vida y el desarrollo productivo. Raúl Jalil (Catamarca) promocionó la producción de semillas como motor económico, mientras que Hugo Passalacqua (Misiones) destacó la reconstrucción de infraestructura municipal con el esfuerzo compartido.\n\nUn eje de estabilidad y cooperación se evidenció en la sinergia interprovincial. Rogelio Frigerio (Entre Ríos) y Maximiliano Pullaro (Santa Fe) destacaron su visión compartida de desarrollo basada en la producción y la inversión privada, consolidando el rol del 'interior productivo' como motor del país. Finalmente, en el ámbito de la seguridad y la gestión estatal, Jorge Macri (Ciudad Autónoma de Buenos Aires) reafirmó su postura de 'ley y orden' en la recuperación de propiedades, mientras que Rolando Figueroa (Neuquén) apostó por la formación y eficiencia de la administración pública. Gildo Insfrán (Formosa) se mantuvo en la línea de reivindicación de un modelo de justicia social y federalismo arraigado en una 'reparación histórica' nacional.\n\nEl día exhibe un federalismo reactivo y proactivo a la vez: los gobernadores consolidan sus agendas locales y regionales, algunos con críticas abiertas al gobierno central y otros, como Elías Suárez (Santiago del Estero), enfocados en fortalecer la seguridad y vivienda con inversión provincial, reafirmando el rol del Estado provincial como garante de servicios básicos.",
+    "temas_calientes": [
+        {
+            "tema": "Desafío al modelo de ajuste nacional y defensa de políticas provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Insfran_Gildo",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Obra Pública con foco provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Regionalismo y Cooperación Interprovincial",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Seguridad y el Estado",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@EliasSuarezSDE",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Económico Local",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@frigeriorogelio",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Todo mi apoyo y solidaridad con el compañero Abel Furlán ante este atropello. Repudio totalmente la decisión de la justicia de anular las elecciones e intervenir la Unión Obrera Metalúrgica (UOM) en un proceso interno que debe resolverse democráticamente por las y los trabajadores. Mi acompañamiento a la lucha de Abel y de todas las trabajadoras y trabajadores metalúrgicos. Apoyamos firmemente las medidas de fuerza y los acompañamos en el reclamo.",
+        "por_que_es_clave": "El gobernador de La Rioja expresa un fuerte repudio a una decisión judicial que interviene en un gremio, mostrando una postura combativa frente a la justicia federal y un claro apoyo a los trabajadores, lo cual tiene implicancias directas en la tensión entre poderes y la relación Nación-provincias.",
+        "pregunta_openarg": "¿Esta postura de Ricardo Quintela (La Rioja) frente a la UOM y el poder judicial augura un endurecimiento de la tensión federal en torno a conflictos laborales y la autonomía de las provincias?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Crítica a políticas nacionales",
+                "Desarrollo sostenible",
+                "Federalismo"
+            ],
+            "postura_politica": "Fuerte oposición al 'modelo de ajuste y crueldad' nacional, proponiendo una 'alternativa' bonaerense. Enfocado en el desarrollo productivo y soberanía provincial sobre recursos marinos.",
+            "frase_fuerte": "Con el lanzamiento de @mdfsalud damos otro paso en la construcción de una alternativa al modelo de ajuste y crueldad que gobierna nuestro país. ¡Hay otro camino!"
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y orden",
+                "Propiedad privada"
+            ],
+            "postura_politica": "Línea dura en seguridad y recuperación de propiedades, enfatizando el 'cambio de decisión política' y la aplicación de la ley.",
+            "frase_fuerte": "Patricia no se calla más. 800 dueños que recuperaron sus propiedades no se callan más. Cambió la decisión política. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Economía regional"
+            ],
+            "postura_politica": "Impulsa la producción local (semillas) como eje estratégico para el crecimiento económico provincial.",
+            "frase_fuerte": "Participamos del Congreso MAIZAR 2026 junto al intendente de Los Altos, @BarotRaul, para presentar cómo la producción de semillas se transformó en una política estratégica para el crecimiento económico de Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Vivienda"
+            ],
+            "postura_politica": "Centrado en la gestión local y la entrega de soluciones habitacionales.",
+            "frase_fuerte": "¡Su felicidad es la nuestra! Más familias chaqueñas recibieron las llaves de su nuevo hogar en la Chacra 214 de Resistencia. 🏠"
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Cooperación interprovincial",
+                "Desarrollo productivo",
+                "Inversión privada"
+            ],
+            "postura_politica": "Promueve el trabajo conjunto con otras provincias y la atracción de inversiones privadas mediante exenciones impositivas, en sintonía con un enfoque pro-mercado y productivista.",
+            "frase_fuerte": "A Entre Ríos y Santa Fe nos une una visión de desarrollo basada en la producción, la inversión privada y el trabajo genuino."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Justicia social",
+                "Reivindicación histórica"
+            ],
+            "postura_politica": "Reafirma un modelo provincial de 'justicia social' y 'desarrollo' ligado a la herencia del kirchnerismo, destacando el rol del gobierno nacional en la 'reparación histórica'.",
+            "frase_fuerte": "A 23 años de la firma del Acta de Reparación Histórica, recordamos una decisión política del expresidente Néstor Kirchner que transformó el presente y el futuro de nuestra provincia."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Defensa sindical",
+                "Crítica al poder judicial",
+                "Obra pública"
+            ],
+            "postura_politica": "Expresa fuerte solidaridad con un líder sindical y repudio a una decisión judicial que afecta la autonomía gremial, posicionándose como defensor de los trabajadores frente a lo que considera 'atropello'.",
+            "frase_fuerte": "Repudio totalmente la decisión de la justicia de anular las elecciones e intervenir la Unión Obrera Metalúrgica (UOM) en un proceso interno que debe resolverse democráticamente por las y los trabajadores."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Federalización de servicios",
+                "Inversión"
+            ],
+            "postura_politica": "Impulsa una gran inversión en salud de alta complejidad, con una estrategia de 'federalizar' la salud pública y modernizar el sistema a nivel provincial.",
+            "frase_fuerte": "...forma parte de una política concreta como lo es la de federalizar la salud pública, acercar servicios esenciales y seguir modernizando el sistema sanitario de Mendoza."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Obra pública local",
+                "Gestión",
+                "Esfuerzo comunitario"
+            ],
+            "postura_politica": "Enfatiza la reconstrucción y el esfuerzo compartido a nivel municipal para la recuperación de infraestructura.",
+            "frase_fuerte": "El municipio es la casa del pueblo. Por eso emociona verlo ponerse de pie nuevamente, con el esfuerzo compartido de todos los misioneros."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Modernización del Estado",
+                "Meritocracia",
+                "Formación pública"
+            ],
+            "postura_politica": "Apuesta por la capacitación de agentes públicos y la eficiencia estatal, buscando una administración basada en la preparación y el mérito.",
+            "frase_fuerte": "Esto representa un gran cambio: nadie debe ocupar un lugar por azar, sino prepararse para administrar el Estado."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Planificación urbana",
+                "Desarrollo sostenible",
+                "Visión de futuro"
+            ],
+            "postura_politica": "Centrado en la planificación del crecimiento de Bariloche y la provincia, destacando la necesidad de infraestructura y visión a largo plazo para un desarrollo sostenible.",
+            "frase_fuerte": "Bariloche crece, Río Negro crece y tenemos la responsabilidad de acompañar ese desarrollo con planificación, infraestructura y visión de futuro."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Educación cívica",
+                "Deporte juvenil"
+            ],
+            "postura_politica": "Destaca la inversión en infraestructura básica (gas natural) y el fomento de programas educativos y deportivos para la juventud.",
+            "frase_fuerte": "Inauguramos, esta noche, el GAS NATURAL para el pueblo de Leandro N Alem. Un antes y un después en la calidad de vida de sus vecinos y en la proyección turística y productiva de la Localidad y por ende en la generación de nuevos puestos de trabajo. Una Obra Pública anhelada por los vecinos desde hace años. Cumplimos !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Inversión estratégica",
+                "Defensa de empresas estatales",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Promueve una ley de financiamiento para una empresa estatal (YCRT), enfatizando el diálogo sindical y la inversión para el futuro productivo y laboral de la región carbonífera.",
+            "frase_fuerte": "Estamos convencidos de que defender YCRT no es solamente hablar del pasado, sino también construir un futuro con más producción, trabajo y desarrollo para toda la región."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Cooperación interprovincial",
+                "Apoyo a la producción"
+            ],
+            "postura_politica": "Resalta la colaboración con provincias vecinas para impulsar el 'interior productivo' y el desarrollo económico.",
+            "frase_fuerte": "Cuando las provincias nos unimos para trabajar codo a codo, el interior productivo termina empujando al país 💪🏽🇦🇷"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Obra pública",
+                "Vivienda social"
+            ],
+            "postura_politica": "Enfatiza el fortalecimiento de la infraestructura de seguridad y la entrega de viviendas sociales como servicios indelegables del Estado.",
+            "frase_fuerte": "Con la inauguración de la nueva Comisaría N°13 de la ciudad de La Banda, seguimos fortaleciendo la infraestructura de seguridad y acercando respuestas concretas a los vecinos."
+        }
+    ]
+}
