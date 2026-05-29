@@ -1,0 +1,110 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada evidencia una agenda federal fragmentada: mientras gobernadores del interior como Pullaro (Santa Fe) y Figueroa (Neuquén) celebran inversiones en infraestructura y energia en sintonía con la Casa Rosada, Ziliotto (La Pampa) planta la demanda de un nuevo pacto fiscal. Macri (CABA) explota la grieta con Kicillof desde su perfil de 'ley y orden'. Efemérides y gestión local dominan en las provincias periféricas.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no exhibe una trinchera única, sino una dispersión calculada. El dato más incisivo proviene de Sergio Ziliotto (La Pampa), quien publica una nota reclamando un nuevo pacto fiscal federal y denunciando una pérdida de USD 12.000 millones para las provincias en 2025. Es un misil directo a la caja nacional, pero no encuentra eco inmediato en otros mandatarios.\n\nActo 2 — Los Alineamientos: Por el contrario, Maximiliano Pullaro (Santa Fe) y Rolando Figueroa (Neuquén) despliegan una agenda de obra pública y energía en coordinación con el Ministerio de Economía. Jorge Macri (CABA) se posiciona como el sheriff urbano, explotando la grieta con Axel Kicillof al exhibir recuperación de propiedades y desregulación. Alfredo Cornejo (Mendoza) y Claudio Poggi (San Luis) apuestan a la gestión sanitaria y educativa, evitando roces con Nación.\n\nActo 3 — La Micro-política: En el extremo periférico, Gildo Insfrán (Formosa) y Ricardo Quintela (La Rioja) se refugian en efemérides y actos locales. Insfrán evoca el Acta de Reparación Histórica de Néstor Kirchner, un ancla simbólica para un peronismo que no encuentra cabida en el relato nacional. Claudio Vidal (Santa Cruz) intenta salvar a YCRT con una ley de financiamiento, mientras Raúl Jalil (Catamarca) apuesta a la conectividad vial en la Puna, sin mencionar a Nación.\n\nActo 4 — Saldo Presidencial: La Casa Rosada puede leer la jornada con cauteloso optimismo: los gobernadores más relevantes no confluyen en una demanda unificada. La presión fiscal de Ziliotto queda aislada; el resto negocia obras o compite por inversiones. Sin embargo, la ausencia de los pesos pesados del kirchnerismo (Kicillof, Llaryora, Jaldo) en la escena nacional sugiere un repliegue estratégico. El tablero muestra una Nación que administra la escasez mientras las provincias se acomodan como pueden.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y obra pública",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Inversión privada y RIGI",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@LeandroZdero",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Federalismo fiscal",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Salud y educación",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@LeandroZdero"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Estos trapitos creyeron que podían hacer cualquier cosa como en el desgobierno de Kicillof. Están equivocados.\n\nAcá nosotros no vamos a permitir que los delincuentes extorsionen a la gente.\n\nLey y orden.",
+        "por_que_es_clave": "Macri utiliza un incidente local para marcar diferencia con la gestión bonaerense y reforzar su perfil de mano dura, buscando posicionarse como alternativa en la provincia más grande.",
+        "pregunta_openarg": "¿La estrategia de 'ley y orden' de Macri es una plataforma para una candidatura nacional o solo una disputa por la Ciudad?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Desregulación",
+                "Inversiones",
+                "Obra pública"
+            ],
+            "postura_politica": "Se presenta como el gestor eficiente que enfrenta a Kicillof y alineado con Nación en RIGI. Su discurso de 'ley y orden' busca capitalizar la inseguridad y la okupación como bandera.",
+            "frase_fuerte": "Estos trapitos creyeron que podían hacer cualquier cosa como en el desgobierno de Kicillof."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Producción minera",
+                "Comercio internacional"
+            ],
+            "postura_politica": "Gobernador peronista que evita confrontar con Nación y se enfoca en gestión productiva. Promueve el desarrollo minero y la conectividad como ejes, sin mencionar recortes federales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Exportaciones",
+                "Vivienda",
+                "Obra pública",
+                "Educación"
+            ],
+            "postura_politica": "Radical alineado con el gobierno nacional, celebra la baja de retenciones y promueve inversiones. Su perfil es el de un gestor que muestra resultados locales, con mensajes de 'Chaco puede'.",
+            "frase_fuerte": "La felicidad de toda la comunidad educativa al inaugurar la nueva escuela."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Educación",
+                "Peronismo histórico"
+            ],
+            "postura_politica": "Refugio en la agenda simbólica y local. La evocación del Acta de Reparación Histórica y el peronismo es un ancla identitaria en un contexto nacional adverso para su espacio.",
+            "frase_fuerte": "A 23 años de la firma del Acta de Reparación Histórica, recordamos una decisión política del expresidente Néstor Kirchner."
+        }
+    ]
+}
