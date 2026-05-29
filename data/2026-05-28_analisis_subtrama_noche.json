@@ -1,0 +1,380 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de fuerte tensión fiscal y política. Kicillof lanza el MDF Salud como plataforma opositora nacional, mientras gobernadores dialoguistas (Torres, Jalil, Frigerio) celebran inversiones RIGI y gestionan deudas con Nación. Saenz reclama obras paralizadas y Zdero festeja baja de retenciones. El silencio de varios periféricos sugiere repliegue táctico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada estuvo dominada por la presentación del MDF Salud por parte de Axel Kicillof (Buenos Aires), un movimiento que trasciende lo sanitario para erigirse como plataforma de resistencia al ajuste nacional. El gobernador bonaerense no solo marca territorio frente al desfinanciamiento, sino que construye una narrativa de 'otro camino posible', apelando al peronismo federal y a sectores progresistas. Es un acto de posicionamiento presidencial encubierto, que busca capitalizar el descontento social y la parálisis de la oposición tradicional.\n\nActo 2 — Los Alineamientos: En la vereda opuesta, los gobernadores de Chubut (Ignacio Torres), Catamarca (Raúl Jalil) y Entre Ríos (Rogelio Frigerio) se muestran como los 'socios estratégicos' de la Casa Rosada. Torres celebra junto a Luis Caputo una inversión de USD 680 millones en Cerro Dragón vía RIGI, un gesto de alineamiento total con el modelo económico oficial. Jalil, por su parte, exhibe su perfil de gestión minera y apertura internacional, mientras Frigerio gestiona la compensación de la caja jubilatoria y la tarifa de Salta Grande, combinando pragmatismo fiscal con un discurso de 'cambio' y eficiencia. Son los gobernadores que entienden que la supervivencia política pasa por no confrontar y, en cambio, extraer recursos del Estado nacional.\n\nActo 3 — La Micro-política: En un escalón intermedio, Gustavo Sáenz (Salta) y Leandro Zdero (Chaco) representan la ambigüedad calculada. Sáenz reclama a Nación por obras paralizadas y la falta de gas, pero lo hace en el marco de una reunión con Caputo, sin romper el vínculo. Zdero celebra la baja de retenciones, un gesto de apoyo al campo que también es un guiño a la base productiva de su provincia. Ambos evitan el choque frontal, pero marcan sus necesidades. En la periferia, gobernadores como Gildo Insfrán (Formosa) y Ricardo Quintela (La Rioja) se refugian en la agenda local y las efemérides, un silencio que sugiere que no tienen capital político para intervenir en la disputa nacional o que esperan el momento adecuado.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el saldo es mixto. Por un lado, logra exhibir gobernadores alineados que validan el RIGI y la política de ajuste. Por otro, la ofensiva de Kicillof demuestra que el kirchnerismo duro sigue vivo y con capacidad de articulación territorial. La ausencia de un pronunciamiento fuerte de los gobernadores del peronismo federal (como Jalil o el propio Kicillof) en contra de la gestión nacional revela una fractura interna. El verdadero termómetro será la reacción de los gobernadores ante la reforma de la Ley de Glaciares o la coparticipación, temas que aún no explotaron pero que laten en el subsuelo de la política argentina.",
+    "temas_calientes": [
+        {
+            "tema": "Lanzamiento del MDF Salud como plataforma opositora",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Inversiones RIGI y gestión de deudas con Nación",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@RaulJalil_ok",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Reclamo por obras nacionales paralizadas y falta de gas",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Baja de retenciones y apoyo al campo",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Agenda local y repliegue táctico de gobernadores periféricos",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@QuintelaRicardo",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Lanzamos el MDF Salud porque elegimos luchar por un país donde la salud no sea un negocio ni un privilegio, sino un derecho para todos y todas. Al pueblo argentino se lo respeta, se lo cuida y se lo defiende. https://t.co/B8WGCgBJWE",
+        "por_que_es_clave": "Kicillof no lanza un programa de salud; lanza una plataforma política nacional. El MDF Salud es el caballo de Troya del kirchnerismo para disputar la agenda social y erosionar al gobierno de Milei desde un tema sensible: el desfinanciamiento sanitario. Es un movimiento que busca unificar a la oposición y posicionar a Kicillof como el líder de la resistencia.",
+        "pregunta_openarg": "¿El MDF Salud es una genuina política pública o una operación política de Kicillof para capitalizar el descontento y proyectarse como candidato presidencial?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "MDF Salud",
+                "Expo FITBA",
+                "Pampa Azul",
+                "IED",
+                "obra pública",
+                "zona fría",
+                "25 de Mayo"
+            ],
+            "postura_politica": "Kicillof se consolida como el líder de la oposición dura. El MDF Salud es su jugada maestra: unifica reclamos sectoriales bajo un paraguas político. Cada tweet de gestión es un dardo a Nación: 'yo gestiono, ellos ajustan'. La omisión de cualquier mención a la gestión nacional en sus posteos de obra pública es un silencio que grita 'abandono'. Su discurso del 25 de Mayo ('Patria sí, colonia no') es una declaración de guerra ideológica.",
+            "frase_fuerte": "Al pueblo argentino se lo respeta, se lo cuida y se lo defiende."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "desregulación",
+                "RIGI",
+                "okupas",
+                "deudores alimentarios",
+                "25 de Mayo"
+            ],
+            "postura_politica": "Macri es el soldado perfecto del oficialismo nacional. Su agenda es un calco de la de Milei: desregulación, seguridad jurídica, lucha contra la okupación y alineamiento total. El tuit sobre 'Patricia no se calla más' es un guiño a Bullrich y a la línea dura. Su participación en el Tedeum junto al Gobierno Nacional refuerza su rol de socio leal. No hay fisuras.",
+            "frase_fuerte": "Patricia no se calla más. 800 dueños que recuperaron sus propiedades no se callan más."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "MAIZAR",
+                "SIAL China",
+                "embajador EEUU",
+                "Mesa Federal Minera",
+                "RIGI",
+                "litio"
+            ],
+            "postura_politica": "Jalil es el paradigma del gobernador pragmático. Su agenda es 100% productiva y minera, con una mirada internacional. No confronta con Nación; al contrario, celebra las inversiones del RIGI y se reúne con el embajador de EEUU. Su postura es de 'desarrollo con reglas claras', un guiño al oficialismo. La omisión de cualquier crítica a la política nacional es un apoyo tácito.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "obra pública",
+                "viviendas",
+                "programa Ñande",
+                "exportaciones",
+                "baja de retenciones"
+            ],
+            "postura_politica": "Zdero combina gestión local con un claro alineamiento con el campo. La celebración de la baja de retenciones es un gesto político hacia el sector agropecuario y hacia el gobierno nacional. Su perfil es de un radical que busca mostrarse como gestor eficiente, sin meterse en peleas nacionales. El 'Chaco puede' es un intento de construir una marca propia.",
+            "frase_fuerte": "Celebramos la BAJA DE RETENCIONES. Este es el camino para recuperar la competitividad."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "RIGI Cerro Dragón",
+                "Ruta 40",
+                "seguridad",
+                "conectividad",
+                "deuda con Nación"
+            ],
+            "postura_politica": "Torres es el alumno estrella del oficialismo. La foto con Caputo anunciando la inversión de USD 680 millones es un gesto de lealtad absoluta. Su discurso de 'orden fiscal' y 'eliminación de impuestos' es un calco del relato nacional. La cancelación de la deuda con Nación mediante obras es una muestra de que se puede negociar sin confrontar. Es el modelo de gobernador que la Casa Rosada quiere mostrar.",
+            "frase_fuerte": "CON EL RIGI, CHUBUT SUMA USD 680 MILLONES PARA POTENCIAR CERRO DRAGÓN Y SOSTENER EL EMPLEO"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "salud",
+                "PAMI",
+                "zona fría",
+                "obra pública",
+                "educación",
+                "seguridad"
+            ],
+            "postura_politica": "Llaryora se posiciona como el gobernador que 'hace' frente a la crisis. Su intervención en Marcos Juárez por el conflicto del PAMI es un golpe de efecto: muestra a la Provincia resolviendo lo que Nación abandona. El reclamo por la zona fría es una bandera federal. Su perfil es de un peronista moderado que busca diferenciarse del kirchnerismo duro, pero sin romper con el oficialismo nacional. La agenda de obras y educación es su escudo.",
+            "frase_fuerte": "Cuando la salud de la gente está en riesgo, el Estado tiene que estar presente y dar respuestas concretas."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "exposición ganadera",
+                "ArteCo",
+                "startups",
+                "expropiación",
+                "inversión"
+            ],
+            "postura_politica": "Valdés mantiene un perfil bajo, de gestión local y promoción económica. Su agenda es de 'desarrollo productivo' sin confrontación. La aprobación de la ley de expropiación para el parque industrial es una señal de que busca atraer inversiones. No hay posicionamiento nacional explícito, lo que sugiere un cálculo de no meterse en problemas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "hermanamiento con Santa Fe",
+                "baja de retenciones",
+                "seguridad",
+                "RINI",
+                "caja jubilatoria",
+                "Salto Grande"
+            ],
+            "postura_politica": "Frigerio es el gobernador dialoguista por excelencia. Gestiona con Nación (ANSES, Salto Grande) y al mismo tiempo marca perfil propio con el RINI y la baja de impuestos. Su visita a Montevideo por la refinería muestra capacidad de gestión internacional. No confronta, pero tampoco se subordina: busca resultados concretos para su provincia. Es el modelo de 'oposición responsable'.",
+            "frase_fuerte": "La baja de retenciones SIEMPRE es una medida para celebrar. Ojalá pronto se puedan eliminar por completo."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Día del Ceremonial",
+                "Día de la Maestra Jardinera",
+                "Acta de Reparación Histórica",
+                "25 de Mayo",
+                "educación"
+            ],
+            "postura_politica": "Insfrán se refugia en las efemérides y la gestión local. La mención al Acta de Reparación Histórica de Kirchner es un guiño al peronismo, pero sin atacar al gobierno actual. Su postura es de 'resistencia silenciosa': no da batalla en el plano nacional, pero mantiene vivo el relato del 'Modelo Formoseño'. Es un repliegue táctico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "zafra",
+                "Consejo de Seguridad Interior",
+                "UCR",
+                "embajador Suecia",
+                "Banco Mundial",
+                "Mesa del Litio"
+            ],
+            "postura_politica": "Sadir mantiene un perfil de gestión técnica y alineamiento con la UCR. Su participación en la reunión del partido con otros gobernadores radicales sugiere coordinación política. La agenda minera y de relaciones internacionales es su fuerte. No hay confrontación con Nación, más bien una búsqueda de cooperación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "consorcios camineros",
+                "salarios",
+                "parque productivo",
+                "glaciares",
+                "universidad",
+                "federalismo"
+            ],
+            "postura_politica": "Ziliotto es el peronismo que defiende el federalismo y la justicia social. Su reclamo por los glaciares y la demanda a la Corte por los ATN son actos de confrontación con Nación. La defensa de la universidad pública y el aumento salarial son banderas de izquierda peronista. Es un gobernador que no se calla y usa los recursos judiciales para pelear.",
+            "frase_fuerte": "Fieles a la histórica lucha pampeana por nuestros ríos, seguimos de pie defendiendo lo que nos pertenece."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "aniversario",
+                "plaza",
+                "viviendas",
+                "acueducto",
+                "iluminación",
+                "UOM",
+                "25 de Mayo"
+            ],
+            "postura_politica": "Quintela combina gestión local con un perfil de confrontación selectiva. El apoyo a Abel Furlán y la UOM es un guiño al sindicalismo combativo. Su agenda de obras (acueductos, plazas) busca mostrar gestión en un contexto de ajuste. No hay ataque directo a Nación, pero el respaldo a la UOM es una señal de alineamiento con el peronismo duro.",
+            "frase_fuerte": "Todo mi apoyo y solidaridad con el compañero Abel Furlán ante este atropello."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "centro oncológico",
+                "residencias médicas",
+                "transporte",
+                "25 de Mayo",
+                "AME",
+                "Mauricio Macri",
+                "Ruta 7",
+                "educación",
+                "energía solar",
+                "RIGI minería"
+            ],
+            "postura_politica": "Cornejo es el gobernador moderno y eficiente que el oficialismo quiere mostrar. Su agenda es de gestión, innovación y alineamiento con el PRO. La foto con Macri es un gesto político. La inauguración del parque solar y el RIGI minero son señales de apoyo al modelo. No hay crítica a Nación, solo gestión.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "puente",
+                "deportes",
+                "educación",
+                "cambio climático",
+                "sueldos",
+                "Paraguay",
+                "25 de Mayo"
+            ],
+            "postura_politica": "Passalacqua mantiene un perfil de gestión local y regional. La visita del gobernador de Itapúa refuerza los lazos con Paraguay. Su discurso del 25 de Mayo fue un llamado a la unidad y un reclamo federal, pero sin agresividad. Es un gobernador que busca mantener el equilibrio.",
+            "frase_fuerte": "En situaciones complejas tenemos que estar juntos, hombro con hombro."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "seguridad",
+                "sanatorio",
+                "policía",
+                "formación",
+                "EPEN",
+                "tierras",
+                "empleo privado",
+                "Senillosa",
+                "Circunvalación Añelo",
+                "25 de Mayo"
+            ],
+            "postura_politica": "Figueroa es el gestor eficiente de la provincia petrolera. Su agenda es de obras, seguridad y empleo. La mención a 'Neuquén 2030' y la circunvalación de Añelo muestran planificación. No confronta con Nación; al contrario, se muestra como un socio que aporta a la seguridad energética del país. Su perfil es técnico y desideologizado.",
+            "frase_fuerte": "La autodeterminación energética y la seguridad energética del país hoy nacen en Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "escuela laboral",
+                "turismo",
+                "garrafas",
+                "urbanismo",
+                "hospital",
+                "salarios"
+            ],
+            "postura_politica": "Weretilneck mantiene un perfil de gestión social y planificación urbana. El operativo de garrafas es una respuesta a una necesidad concreta. La visita del urbanista Carlos Moreno muestra visión de futuro. No hay posicionamiento nacional, solo gestión provincial. Es un repliegue estratégico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "reclamo a Caputo",
+                "Ruta 9/34",
+                "seguridad",
+                "conectividad aérea",
+                "Ruta 51",
+                "gas",
+                "deporte",
+                "justicia"
+            ],
+            "postura_politica": "Sáenz es el gobernador que reclama pero no rompe. Su reunión con Caputo y el financiamiento provincial de rutas nacionales muestran pragmatismo. El reclamo por el gas es una bandera regional. Su perfil es de un peronista que negocia con el oficialismo, pero sin subordinarse. Es un actor en ambigüedad calculada.",
+            "frase_fuerte": "Los salteños no podemos seguir esperando."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "parque solar",
+                "Desafío Ruta 40",
+                "Expo Minera",
+                "Mesa Federal Minera",
+                "RIGI",
+                "Ley de Glaciares"
+            ],
+            "postura_politica": "Orrego es el gobernador minero por excelencia. Su agenda es 100% minería y energía. La defensa de la modificación de la Ley de Glaciares y el RIGI muestran un alineamiento total con el oficialismo. La foto con Karina Milei es un gesto de lealtad. Es un socio estratégico de la Casa Rosada.",
+            "frase_fuerte": "Celebro la aprobación de la modificación de la Ley de Glaciares en Diputados."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Motos Morini",
+                "club",
+                "Mundial",
+                "obra pública",
+                "jardines de infantes",
+                "policía",
+                "viviendas",
+                "25 de Mayo"
+            ],
+            "postura_politica": "Poggi mantiene un perfil de gestión local y promoción del deporte. La inauguración de la comisaría y las viviendas muestran obra pública. No hay posicionamiento nacional. Es un gobernador que se mantiene al margen de la disputa federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "YCRT",
+                "polideportivo",
+                "obras",
+                "viviendas",
+                "Mercado Concentrador",
+                "seguridad",
+                "gas"
+            ],
+            "postura_politica": "Vidal es el gobernador que defiende la empresa estatal YCRT y busca inversiones. Su agenda es de gestión y obras. La mención a la Ley de Financiamiento Estratégico es un intento de conseguir recursos. No confronta con Nación, pero su defensa de YCRT es una bandera provincial.",
+            "frase_fuerte": "DEFENDER E INVERTIR EN YCRT ES DEFENDER EL FUTURO DE LA CUENCA CARBONÍFERA"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Fabricar Futuro",
+                "donación de órganos",
+                "Entre Ríos",
+                "cárcel de Piñero",
+                "jardín",
+                "25 de Mayo",
+                "obra pública",
+                "medicamentos",
+                "escrituras",
+                "universidad"
+            ],
+            "postura_politica": "Pullaro es el gobernador radical que se muestra como gestor eficiente y dialoguista. Su visita a Frigerio y la reunión con gobernadores de JxC muestran coordinación. La inauguración de la cárcel de Piñero es un hito en seguridad. Su discurso del 25 de Mayo fue un llamado a la unidad. Es un actor que busca construir poder regional sin romper con Nación.",
+            "frase_fuerte": "Santa Fe es la capital de la producción y nuestro gobierno siempre va a estar del lado de quienes invierten, producen y generan empleo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "comisaría",
+                "China",
+                "25 de Mayo",
+                "seguridad",
+                "Smart City",
+                "agua",
+                "educación",
+                "universidad"
+            ],
+            "postura_politica": "Suárez mantiene un perfil de gestión y apertura internacional. La visita del embajador chino es un gesto de búsqueda de inversiones. Su agenda de obras y educación muestra gestión. No hay confrontación con Nación. Es un gobernador que se mantiene en un segundo plano.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "reforma constitucional",
+                "PROMEFU",
+                "elecciones constituyentes",
+                "MiPyMEs",
+                "China"
+            ],
+            "postura_politica": "Melella está enfocado en su reforma constitucional, un tema de política interna provincial. El lanzamiento de PROMEFU es una respuesta al desfinanciamiento nacional en salud. Su perfil es de un peronista que busca modernizar la provincia, pero sin confrontar abiertamente con Nación.",
+            "frase_fuerte": "No vamos a permitir que nadie se quede sin su medicamento."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "reunión peronista",
+                "Cine Tucumano",
+                "agenda con intendenta",
+                "escuela",
+                "25 de Mayo",
+                "seguridad NOA",
+                "ruta",
+                "zafra",
+                "embajadores"
+            ],
+            "postura_politica": "Jaldo es el jefe político del peronismo tucumano. Su reunión con intendentes y dirigentes peronistas muestra construcción de poder territorial. La agenda de seguridad con el NOA y la reunión con embajadores muestran gestión. Su perfil es de un peronista que busca mantener la unidad del partido y gestionar con Nación sin subordinarse.",
+            "frase_fuerte": null
+        }
+    ]
+}
