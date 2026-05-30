@@ -1,0 +1,264 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal hoy se caracterizó por una marcada tensión entre la gestión provincial y el gobierno nacional, con el gobernador Axel Kicillof (Buenos Aires) y Sergio Ziliotto (La Pampa) lanzando duras críticas al modelo económico y fiscal de la administración central. Kicillof (Buenos Aires) advirtió sobre el 'Riesgo Milei' y Ziliotto (La Pampa) urgió por un nuevo pacto fiscal federal. Jorge Macri (CABA) profundizó la polarización interna al contrastar su gestión de 'ley y orden' con el 'desgobierno de Kicillof'. En contraste, otros gobernadores como Ricardo Quintela (La Rioja), Leandro Zdero (Chaco), Alfredo Cornejo (Mendoza), Hugo Passalacqua (Misiones), Rolando Figueroa (Neuquén), Alberto Weretilneck (Río Negro) y Gustavo Sáenz (Salta) se enfocaron en la gestión local, el desarrollo productivo, la inversión en infraestructura y la seguridad, algunos de ellos destacando la cooperación regional y el potencial exportador de sus provincias en un contexto de adversidad económica nacional.",
+    "analisis_profundo": "La jornada reflejó una dinámica federal compleja, donde la gestión provincial se desenvuelve entre la confrontación explícita con el gobierno nacional y la autonomía estratégica para impulsar agendas locales. El gobernador Axel Kicillof (Buenos Aires) adoptó una postura de frontal oposición, definiendo el 'Riesgo Milei' como una amenaza a la economía y defendiendo un camino alternativo basado en derechos y producción. Esta narrativa se complementa con la defensa de la justicia social a través de la entrega de escrituras, un pilar de su gestión en un contexto de dificultad para las familias. Sergio Ziliotto (La Pampa) elevó el tono en la discusión fiscal, demandando un nuevo pacto federal que corrija la histórica pérdida de recursos provinciales y responsabilizando al gobierno nacional por la paralización de obras cruciales, como la modernización del sistema cloacal. Esta postura subraya la tensión por el ahogo financiero y la centralización de poder.\n\nEn la vereda de enfrente, Jorge Macri (CABA) se posicionó como un férreo defensor del 'orden' y la 'ley', utilizando sus redes para destacar operativos de recuperación de propiedades y reformas educativas. Su retórica incluyó una confrontación directa con Kicillof (Buenos Aires), a quien atribuyó un 'desgobierno' que permitía 'trapitos' extorsionadores, marcando una clara línea de polarización política a nivel subnacional.\n\nMás allá de la confrontación, gran parte de la agenda de los gobernadores se centró en la gestión puertas adentro y la búsqueda de desarrollo regional. Rolando Figueroa (Neuquén) afirmó que 'Vaca Muerta es solo una roca' y que el mérito de su desarrollo es del esfuerzo neuquino, destacando un crecimiento del empleo en construcción y una visión de integración energética con Chile. Alberto Weretilneck (Río Negro) complementó esta visión norpatagónica, celebrando el liderazgo compartido en empleo de construcción y la planificación a largo plazo para exportar energía. Ambos líderes patagónicos resaltan la importancia de la autonomía y la capacidad productiva de sus provincias.\n\nRicardo Quintela (La Rioja) hizo hincapié en el 'federalismo' a través de obras de infraestructura local, educación tecnológica y fomento de la economía artesanal. Hugo Passalacqua (Misiones) celebró inversiones privadas como la apertura de McDonald's, creando empleo en un 'contexto económico nacional adverso', demostrando una capacidad de atracción de capital y generación de oportunidades al margen de la coyuntura nacional. Leandro Zdero (Chaco) también destacó la exportación de cannabis medicinal y la inversión en seguridad y obras. En Catamarca, Raúl Jalil (Catamarca) se enfocó en infraestructura vial para la Puna, mientras que Gustavo Sáenz (Salta) celebró el inicio de la zafra, priorizando la producción local. Claudio Poggi (San Luis) mostró una gestión activa en salud pública, educación y obras viales, reflejando un enfoque en la calidad de vida y el desarrollo productivo.\n\nLa jornada dibuja un escenario donde las provincias, aunque interpeladas por la agenda nacional, refuerzan sus capacidades de gestión propia, exploran alianzas regionales y, en algunos casos, alzan la voz con críticas directas, reafirmando su autonomía y buscando soluciones a nivel local ante el complejo panorama económico-político.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la Gestión Nacional y Federalismo Fiscal",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@carlossadirjuy",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Educación y Tecnología como Motor de Desarrollo",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "El riesgo que enfrenta hoy la Argentina es el 'Riesgo Milei', donde el verdadero peligro es que el Presidente siga profundizando este desastre económico y ejecute su plan de destrucción más rápido y más profundo. No es cierto que no haya alternativa. Hay otro camino para nuestro país y se construye con más derechos, más producción y más empleo. Muchas gracias a los trabajadores, trabajadoras y sindicatos que participaron del primer Congreso Bonaerense del Trabajo en Mar del Plata.",
+        "por_que_es_clave": "Este tweet es clave por su contundente crítica al modelo económico del gobierno nacional, personificándolo en el 'Riesgo Milei'. Polariza la agenda al posicionar una alternativa basada en derechos y producción, y moviliza a sectores sindicales, marcando una postura de oposición frontal.",
+        "pregunta_openarg": "¿Qué impacto tendrá la confrontación económica entre la Provincia de Buenos Aires y la Nación en la gobernabilidad y en la aprobación de reformas estructurales?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Crítica al Gobierno Nacional",
+                "justicia social",
+                "vivienda",
+                "trabajo",
+                "producción"
+            ],
+            "postura_politica": "Mantiene una fuerte oposición al gobierno nacional, denunciando un 'desastre económico' y proponiendo un modelo alternativo basado en derechos y producción. Enfatiza la gestión local como un acto de 'justicia social' frente a las dificultades que enfrentan las familias.",
+            "frase_fuerte": "El riesgo que enfrenta hoy la Argentina es el 'Riesgo Milei', donde el verdadero peligro es que el Presidente siga profundizando este desastre económico y ejecute su plan de destrucción más rápido y más profundo."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "'ley y orden'",
+                "recuperación de propiedades",
+                "educación",
+                "obra pública",
+                "contraste político"
+            ],
+            "postura_politica": "Se posiciona como un férreo defensor del 'orden' y la 'ley', destacando operativos de recuperación de propiedades y reformas educativas. Utiliza su gestión para diferenciarse y criticar directamente el 'desgobierno' en la provincia de Buenos Aires.",
+            "frase_fuerte": "Estos trapitos creyeron que podían hacer cualquier cosa como en el desgobierno de Kicillof. Están equivocados. Acá nosotros no vamos a permitir que los delincuentes extorsionen a la gente. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "conectividad",
+                "desarrollo regional"
+            ],
+            "postura_politica": "Enfocado en la gestión de obras viales estratégicas para integrar zonas remotas y potenciar el turismo y la producción local. Resalta la importancia de mejorar la accesibilidad en la Puna catamarqueña.",
+            "frase_fuerte": "Avanzamos junto a Vialidad Provincial en el camino que unirá Chuquisaca con Antofagasta de la Sierra. Una obra estratégica que conectará algunos de los paisajes más extraordinarios de nuestra Puna y mejorará la accesibilidad en una región única de Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Seguridad",
+                "tecnología",
+                "exportación",
+                "economía",
+                "obras públicas"
+            ],
+            "postura_politica": "Impulsa la modernización de las fuerzas de seguridad con tecnología y destaca logros económicos como la exportación de cannabis medicinal, que posiciona a Chaco en mercados internacionales. Se enfoca en obras que mejoran la calidad de vida en localidades del interior.",
+            "frase_fuerte": "La empresa chaqueña Cannafis, especializada en el desarrollo y producción de cannabis medicinal de calidad farmacéutica, hoy comienza a exportar a Nueva Zelanda, con nuevos mercados internacionales proyectados como Suiza y Alemania."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Institucional",
+                "desarrollo económico y productivo"
+            ],
+            "postura_politica": "Enfocado en el diálogo institucional con sectores profesionales, destacando su rol en el desarrollo económico de la provincia. Su mensaje es protocolar y centrado en la colaboración interna.",
+            "frase_fuerte": "Durante el encuentro dialogamos sobre la actualidad de los profesionales y de los desafíos vinculados al desarrollo económico y productivo de la provincia."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Producción",
+                "turismo",
+                "desarrollo regional"
+            ],
+            "postura_politica": "Resalta el potencial productivo de Jujuy con el inicio de la zafra, fundamental para el empleo y la economía. Promueve el turismo de experiencias únicas en la Puna, combinando ciencia y atractivo natural.",
+            "frase_fuerte": "Muy contento de acompañar el inicio de una nueva zafra en el Ingenio La Esperanza. Jujuy es la segunda provincia con más ingenios del país y esta actividad sigue siendo fundamental para el trabajo, la producción y el desarrollo de toda la región."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Federalismo fiscal",
+                "obra pública",
+                "vivienda",
+                "crítica al Gobierno Nacional"
+            ],
+            "postura_politica": "Demanda un 'nuevo pacto fiscal federal' que redefina la distribución de recursos, criticando la 'pérdida de federalismo' y el 'ahogo financiero nacional'. Actúa con recursos propios en obras paralizadas por Nación, reforzando la autonomía provincial.",
+            "frase_fuerte": "Es necesario un nuevo pacto fiscal federal. Que, como establece la reforma constitucional de 1994, la distribución de los recursos sea según las responsabilidades, funciones y competencias de cada jurisdicción, nacional y provincial."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Federalismo",
+                "vivienda",
+                "desarrollo económico local",
+                "educación",
+                "infraestructura",
+                "tecnología"
+            ],
+            "postura_politica": "Enfatiza la acción provincial para garantizar derechos y el 'verdadero federalismo' mediante la entrega de viviendas, la apertura de mercados artesanales y la creación de centros de conocimiento en el interior, achicando brechas sociales y geográficas.",
+            "frase_fuerte": "Para nosotros, el federalismo se demuestra con hechos: garantizando que el acceso al conocimiento no sea un privilegio de pocos, sino un derecho de todas y todos en el interior."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Ciencia y tecnología",
+                "minería sustentable",
+                "desarrollo académico",
+                "infraestructura"
+            ],
+            "postura_politica": "Promueve la vinculación entre el sector académico y el gobierno para el desarrollo de soluciones innovadoras y la formación en áreas estratégicas como la minería sustentable, enfocándose en el crecimiento provincial a través del conocimiento y la innovación.",
+            "frase_fuerte": "El conocimiento, la innovación y el trabajo conjunto con los sectores académicos son fundamentales para el desarrollo de Mendoza."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "empleo",
+                "inversión privada",
+                "servicios públicos",
+                "deporte",
+                "contexto nacional adverso"
+            ],
+            "postura_politica": "Destaca la capacidad de Misiones para atraer inversiones y generar empleo en un contexto económico nacional difícil. Enfocado en la provisión de servicios esenciales como el agua potable y la promoción de programas deportivos para la integración comunitaria.",
+            "frase_fuerte": "En un contexto económico nacional adverso, Misiones muestra que sigue siendo tierra de oportunidades. ¡McDonald's acaba de inaugurar su segundo local en Posadas!"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "empleo",
+                "desarrollo energético",
+                "integración regional",
+                "soberanía",
+                "Ejército"
+            ],
+            "postura_politica": "Reivindica el rol de Neuquén en el desarrollo de Vaca Muerta como resultado del esfuerzo local, no solo de recursos naturales. Impulsa la integración energética regional y celebra el crecimiento del empleo en construcción. Expresa compromiso con las fuerzas armadas y la soberanía.",
+            "frase_fuerte": "Vaca Muerta es solo una roca. Esto es gracias a Neuquén y al esfuerzo de los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "exportaciones",
+                "energía",
+                "empleo en construcción",
+                "salud",
+                "infraestructura",
+                "seguridad",
+                "producción rural"
+            ],
+            "postura_politica": "Presenta a Río Negro como una provincia con gran potencial exportador, especialmente en energía, y destaca el crecimiento del empleo en construcción en colaboración con Neuquén. Se enfoca en la planificación a largo plazo, la mejora de servicios de salud y seguridad, y el apoyo a la producción rural.",
+            "frase_fuerte": "Río Negro tiene identidad, tiene potencial y tiene rumbo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Producción",
+                "empleo",
+                "economías regionales"
+            ],
+            "postura_politica": "Apoya y celebra las actividades productivas tradicionales como la zafra azucarera, reconociéndolas como motores de empleo y crecimiento provincial. Fomenta la inversión local para el desarrollo de la economía regional.",
+            "frase_fuerte": "Hoy acompañé el inicio de una nueva zafra en el Ingenio San Isidro, símbolo de trabajo, producción y crecimiento para Salta."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Salud pública",
+                "educación",
+                "infraestructura vial",
+                "programas deportivos",
+                "emprendimiento",
+                "gas natural"
+            ],
+            "postura_politica": "Muestra una gestión activa con importantes inversiones en equipamiento médico, nuevas leyes educativas (sala de 3 años obligatoria) y obras viales para la producción. Promueve hábitos saludables y el deporte infanto-juvenil, además de apoyar emprendimientos locales.",
+            "frase_fuerte": "SALUD PÚBLICA - Firmé esta mañana tres Decretos de Llamado de Licitación de EQUIPAMIENTO E INSTRUMENTAL MÉDICO con destino a las MATERNIDADES de SAN LUIS Y DE VILLA MERCEDES , HOSPITAL PEDIÁTRICO de SAN LUIS y demás Centros Sanitarios del INTERIOR de la Pcia. La inversión a realizar supera los 2800 millones de pesos. Seguimos invirtiendo en nuestra Salud Pública !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Salud pública",
+                "optimización de recursos",
+                "empresas estatales (YCRT)",
+                "desarrollo de la Cuenca Carbonífera"
+            ],
+            "postura_politica": "Enfocado en la 'optimización de recursos' para fortalecer la salud pública, asegurando la provisión de medicamentos. Destaca la defensa e inversión en YCRT como eje central para el futuro productivo y laboral de la Cuenca Carbonífera, buscando posicionarla en la agenda nacional.",
+            "frase_fuerte": "DEFENDER E INVERTIR EN YCRT ES DEFENDER EL FUTURO DE LA CUENCA CARBONÍFERA"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Seguridad",
+                "gasoductos",
+                "desarrollo productivo",
+                "inversión",
+                "empleo",
+                "contraste con la economía nacional",
+                "obra pública"
+            ],
+            "postura_politica": "Prioriza la seguridad con el fortalecimiento de la operatividad policial y la coordinación de fuerzas. Impulsa inversiones en infraestructura clave como gasoductos para reducir costos industriales y generar empleo, remarcando que 'cuando se administra con transparencia, la obra pública no es corrupción'.",
+            "frase_fuerte": "En tiempos donde la economía nacional se achica, en Santa Fe elegimos invertir para sostener la producción, porque cuando se administra con transparencia, la obra pública no es corrupción: es progreso puro para que nuestra provincia invencible siga siendo el motor de la Argentina."
+        }
+    ]
+}
