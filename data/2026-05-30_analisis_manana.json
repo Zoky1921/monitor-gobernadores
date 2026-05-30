@@ -1,0 +1,133 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La jornada estuvo marcada por una intensa agenda provincial centrada en el desarrollo local, inversiones estratégicas y fortalecimiento de servicios públicos. Rolando Figueroa (Neuquén) se destacó al avanzar con concesiones para YPF en Vaca Muerta, proyectando a Argentina como exportador de energía. Alberto Weretilneck (Río Negro) anunció la adhesión al RIMI nacional para impulsar la inversión. Sergio Ziliotto (La Pampa) priorizó viviendas e infraestructura, marcando distancias con la Nación por obras paralizadas. Claudio Poggi (San Luis) y Ricardo Quintela (La Rioja) se enfocaron en educación, salud y capacitación. Maximiliano Pullaro (Santa Fe) celebró la donación de órganos y Osvaldo Jaldo (Tucumán) promocionó el turismo internacional. El clima general refleja una gestión activa de los gobernadores, con focos específicos en sus realidades regionales.",
+    "analisis_profundo": "La agenda federal de hoy se caracterizó por un marcado activismo de los gobernadores en la gestión y promoción de sus respectivas provincias, evidenciando un doble foco: por un lado, la concreción de obras e inversiones que impactan directamente en la calidad de vida de los ciudadanos, y por otro, la proyección estratégica de recursos y capacidades provinciales a nivel nacional e internacional.\n\nRolando Figueroa (Neuquén) lideró la jornada con anuncios de gran envergadura en el sector energético, otorgando nuevas concesiones a YPF para el proyecto GNL en Vaca Muerta. Esta iniciativa no solo busca potenciar la producción y el empleo en Neuquén, sino que también posiciona a Argentina como un futuro exportador de energía, un tema de alta relevancia en el contexto macroeconómico. En línea con la visión de desarrollo, también destacó la construcción de infraestructura comunitaria en el interior.\n\nEn una señal de convergencia con las políticas nacionales de fomento a la inversión, Alberto Weretilneck (Río Negro) anunció la adhesión al Régimen de Incentivo para Medianas Inversiones (RIMI), buscando atraer capitales y generar empleo en diversos sectores productivos. Esta decisión refleja la búsqueda de sinergias entre la administración provincial y las herramientas nacionales para dinamizar la economía local.\n\nPor su parte, Sergio Ziliotto (La Pampa) mantuvo una postura más crítica hacia el Gobierno nacional al destacar la entrega de viviendas e inversión en saneamiento con fondos propios, en contraste con la paralización de obras nacionales. Esta situación resalta la tensión latente en la relación Nación-Provincias y la necesidad de que las jurisdicciones subnacionales asuman roles supletorios para garantizar servicios básicos.\n\nClaudio Poggi (San Luis) desplegó una intensa actividad en infraestructura y servicios esenciales, desde inversiones en equipamiento médico para hospitales y maternidades hasta la firma de decretos para fortalecer la educación inicial con la obligatoriedad de la Sala de Tres años. Su gestión se orienta a la mejora directa de la calidad de vida en el interior de la provincia, incluyendo el avance de viviendas y obras de gas natural.\n\nRicardo Quintela (La Rioja) también se centró en el desarrollo humano y productivo de su provincia, promoviendo capacitaciones y empleo para jóvenes en Vinchina, con un enfoque en la explotación responsable de recursos como la minería. Su accionar busca fomentar el arraigo y el crecimiento de las comunidades rurales.\n\nMaximiliano Pullaro (Santa Fe) puso el acento en la salud pública y la concientización social, reconociendo el compromiso de los equipos en el Día Nacional del Trasplante de Órganos y destacando a Santa Fe como un referente en donación. Finalmente, Osvaldo Jaldo (Tucumán) proyectó a Tafí del Valle al escenario turístico mundial, buscando potenciar la riqueza cultural y natural de la provincia para atraer visitantes y generar desarrollo sostenible.\n\nEn conjunto, la jornada mostró a los gobernadores activamente involucrados en la gestión local, la búsqueda de inversiones y la defensa de los servicios públicos, con un clima mayormente de gestión, aunque con algunas notas de fricción en la relación con el Ejecutivo nacional por la financiación de obras o la provisión de servicios.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo Energetico y Exportacion",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Fomento a la Inversion Privada y Empleo",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestion de Obras Publicas e Infraestructura Social",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educacion y Capacitacion para el Desarrollo Local",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Salud Publica y Politicas de Bienestar",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "PROYECTO GNL: SEGUIMOS DANDO PASOS CLAVES PARA CONVERTIR A LA ARGENTINA EN UN PAÍS EXPORTADOR DE ENERGÍA Otorgamos a YPF las concesiones de Aguada Villanueva Norte, Meseta Buena Esperanza I y II, y Las Tacanas I y II, cinco nuevas áreas que impulsarán inversiones, más producción y más empleo. Cuando trabajamos en equipo el sector público y privado, generamos las condiciones para que los recursos de Neuquén se transformen en oportunidades para nuestra gente y en desarrollo para todo el país.",
+        "por_que_es_clave": "Este anuncio del gobernador (Neuquén) sobre nuevas concesiones para YPF en Vaca Muerta, destinadas al proyecto GNL, representa un hito estratégico para la provincia y el país. Subraya la ambición de convertir a Argentina en un exportador de energía, un eje central en la discusión sobre el desarrollo económico nacional y la atracción de inversiones a gran escala. La mención del trabajo conjunto público-privado y el impacto en empleo y producción lo posicionan como un mensaje clave.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Vivienda Social",
+                "Infraestructura Local",
+                "Relacion Nacion-Provincias"
+            ],
+            "postura_politica": "El gobernador (La Pampa) demuestra un enfoque proactivo en la gestión local, priorizando la entrega de viviendas y obras de saneamiento con recursos provinciales. Su postura crítica hacia el gobierno nacional, al señalar la paralización de obras comprometidas, evidencia una tension en la distribucion de responsabilidades y recursos.",
+            "frase_fuerte": "Una intervencion que se vuelve necesaria ante la paralizacion de otra obra comprometida por el Gobierno nacional que hubiera permitido resolver definitivamente esta situacion."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Capacitacion Laboral",
+                "Desarrollo Local",
+                "Mineria"
+            ],
+            "postura_politica": "El gobernador (La Rioja) se enfoca en el desarrollo de capacidades locales y la creacion de oportunidades de empleo para los jovenes a traves de programas de capacitacion. Destaca el valor de los recursos regionales, como la mineria, como motor de crecimiento y arraigo en las comunidades del interior, reafirmando su compromiso con un federalismo basado en hechos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquen)",
+            "temas_mencionados": [
+                "Desarrollo Energetico",
+                "Inversion",
+                "Empleo Privado",
+                "Infraestructura Comunitaria"
+            ],
+            "postura_politica": "El gobernador (Neuquen) proyecta una vision ambiciosa para la provincia hacia 2030, centrada en atraer inversiones y dinamizar la economia. Su enfasis en el proyecto GNL y las nuevas concesiones de YPF resalta el rol de Neuquen como polo exportador de energia. Complementa esta vision con el desarrollo de infraestructura comunitaria en el interior, buscando un crecimiento equilibrado y la generacion de empleo.",
+            "frase_fuerte": "PROYECTO GNL: SEGUIMOS DANDO PASOS CLAVES PARA CONVERTIR A LA ARGENTINA EN UN PAÍS EXPORTADOR DE ENERGÍA"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Rio Negro)",
+            "temas_mencionados": [
+                "Inversion Privada",
+                "Empleo",
+                "Adhesion a Regimen Nacional"
+            ],
+            "postura_politica": "El gobernador (Rio Negro) adopta una politica de apertura a la inversion privada al adherir al RIMI nacional, buscando impulsar el empleo y la produccion. Su discurso resalta la importancia de generar condiciones para el crecimiento economico, posicionando a la provincia como un actor clave en la atraccion de capitales y el desarrollo regional.",
+            "frase_fuerte": "Queremos que cada empresa que decida apostar por Rio Negro tenga mas herramientas para crecer, ampliar su capacidad productiva, incorporar tecnologia y generar nuevos puestos de trabajo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educacion",
+                "Salud Publica",
+                "Vivienda",
+                "Infraestructura Hidrica",
+                "Programas Sociales"
+            ],
+            "postura_politica": "El gobernador (San Luis) muestra un fuerte compromiso con la inversion en servicios publicos esenciales y el desarrollo local. Destaca mejoras en educacion (obligatoriedad sala de tres años, concursos directivos), salud (inversion en equipamiento medico), vivienda y saneamiento. Sus acciones se centran en el bienestar de la comunidad y la modernizacion de la gestion estatal, con un marcado enfasis en el interior provincial.",
+            "frase_fuerte": "SALUD PÚBLICA - Firmé esta mañana tres Decretos de Llamado de Licitación de EQUIPAMIENTO E INSTRUMENTAL MÉDICO con destino a las MATERNIDADES de SAN LUIS Y DE VILLA MERCEDES , HOSPITAL PEDIÁTRICO de SAN LUIS y demás Centros Sanitarios del INTERIOR de la Pcia. La inversión a realizar supera los 2800 millones de pesos. Seguimos invirtiendo en nuestra Salud Pública !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Infraestructura Basica",
+                "Calidad de Vida"
+            ],
+            "postura_politica": "El gobernador (Santa Cruz) se concentra en la mejora de la infraestructura basica, particularmente en la expansion del acceso al gas natural. Sus mensajes reflejan un enfoque en la concrecion de obras que impactan directamente en la calidad de vida de los habitantes, bajo el lema 'Santa Cruz Puede'.",
+            "frase_fuerte": "EN PICO TRUNCADO, EL GAS ESTÁ CADA VEZ MÁS CERCA PARA LAS FAMILIAS DEL BARRIO INVERNADERO"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Salud Publica",
+                "Donacion de Organos"
+            ],
+            "postura_politica": "El gobernador (Santa Fe) enfatiza el rol de la provincia en el fomento de la donacion de organos y el reconocimiento al personal de salud y seguridad involucrado en operativos de trasplante. Su mensaje subraya la importancia de las politicas que salvan vidas y posiciona a Santa Fe como un referente en esta area a nivel nacional.",
+            "frase_fuerte": "Detras de cada operativo de trasplante que salva una vida, hay un equipo inmenso que trabaja a contrarreloj con un compromiso que emociona de verdad."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucuman)",
+            "temas_mencionados": [
+                "Turismo",
+                "Desarrollo Regional",
+                "Cultura"
+            ],
+            "postura_politica": "El gobernador (Tucuman) proyecta a su provincia en el escenario internacional a traves del turismo, destacando la postulacion de Tafi del Valle. Su enfoque subraya la riqueza cultural y natural como motores de desarrollo sostenible y la importancia de la visibilidad global para las economias regionales.",
+            "frase_fuerte": "TAFI DEL VALLE COMPETIRA POR SER LA MEJOR VILLA TURÍSTICA DEL MUNDO"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por el reclamo fiscal del gobernador Ziliotto (La Pampa) al Gobierno nacional por la paralización de obras, mientras que los gobernadores de provincias energéticas como Neuquén y Río Negro avanzan en acuerdos de inversión. El resto de los mandatarios se refugió en la gestión local sin confrontar.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El silencio de la mayoría contrastó con la ofensiva de Sergio Ziliotto (La Pampa), quien denunció la paralización de obras nacionales y reclamó un nuevo pacto fiscal federal. El dato de la pérdida de USD 12.000 millones para las provincias en 2025 resuena como una declaración de guerra fiscal, aunque sin eco inmediato del resto del arco. \n\nActo 2 — Los Alineamientos: Los gobernadores de Neuquén (Rolo Figueroa) y Río Negro (Alberto Weretilneck) consolidan un bloque energético. Figueroa celebró nuevas concesiones a YPF y la adhesión al RIGI para GNL, mientras que Weretilneck anunció la adhesión al RIMI para medianas inversiones. Ambos se posicionan como los socios estratégicos de la Casa Rosada en la transición productiva, sin mencionar los reclamos de Ziliotto. \n\nActo 3 — La Micro-política: Los gobernadores periféricos optaron por la agenda de cabotaje. Claudio Poggi (San Luis) inauguró gas natural y viviendas; Claudio Vidal (Santa Cruz) defendió YCRT; Ricardo Quintela (La Rioja) entregó viviendas y mercados artesanales; Maximiliano Pullaro (Santa Fe) se limitó a reconocer a los equipos de trasplante; Osvaldo Jaldo (Tucumán) promocionó el turismo de Tafí del Valle. Todos evitan el conflicto nacional, probablemente por cálculo de supervivencia fiscal. \n\nActo 4 — Saldo Presidencial: El relato de ajuste nacional encuentra en Ziliotto un detractor solitario, pero el silencio del resto sugiere que la disciplina fiscal impuesta por Nación no genera rebeldía abierta, sino repliegue. La apuesta de Milei por el RIGI y el RIMI obtiene respaldo en el sur energético, pero la ausencia de un frente federal unificado deja al Gobierno nacional con la iniciativa.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamo fiscal por paralización de obras nacionales",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Inversiones energéticas y RIGI/RIMI",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "MÁS OBRAS, MÁS DIGNIDAD PARA NUESTRA GENTE\n\nJunto a la intendenta Agustina García entregamos 20 viviendas construidas a través del @ipavlapampa, pertenecientes al programa provincial Mi Casa 3 en Intendente Alvear, sumando nuevas oportunidades para familias que esperaban acceder a su hogar.\n\nAdemás, avanzamos junto a la cooperativa local (COSERÍA) en una inversión superior a los $107 millones con recursos propios para modernizar el sistema de bombeo cloacal, dando solución a una demanda que requiere obras concretas y sostenidas en el tiempo. Una intervención que se vuelve necesaria ante la paralización de otra obra comprometida por el Gobierno nacional que hubiera permitido resolver definitivamente esta situación.\n\nReafirmamos un principio que nos define: no importa el tamaño de la localidad ni la distancia que la separa del Centro Cívico. Donde hay una necesidad, nace un derecho, y trabajamos para generar una respuesta .\n\n¡Felicitaciones a las familias adjudicatarias!\n\n+info 👉 https://t.co/YLP22KfJTV",
+        "por_que_es_ clave": "Ziliotto utiliza la entrega de viviendas para denunciar la paralización de una obra nacional, ratificando su rol de oposición fiscal y marcando la ausencia del Estado nacional en las provincias.",
+        "pregunta_openarg": "¿Cuánto cuesta en términos de obras el ajuste fiscal de Nación a las provincias, y quién paga el costo político?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "obra pública",
+                "vivienda",
+                "cloa cas",
+                "reclamo fiscal a Nación"
+            ],
+            "postura_politica": "Crítica velada al desfinanciamiento nacional; se presenta como gestor que suple la ausencia de Nación con recursos provinciales.",
+            "frase_fuerte": "Una intervención que se vuelve necesaria ante la paralización de otra obra comprometida por el Gobierno nacional"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "mercado artesanal",
+                "vivienda",
+                "núcleo del conocimiento",
+                "iluminación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal; refuerza su perfil de gestión sin confrontar con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "GNL",
+                "YPF",
+                "concesiones",
+                "empleo privado",
+                "encuentro Neuquén-Biobío"
+            ],
+            "postura_politica": "Alineamiento con la política energética nacional; reivindica el rol de Neuquén como motor productivo y defiende la inversión privada.",
+            "frase_fuerte": "Vaca Muerta es solo una roca. Esto es gracias a Neuquén y al esfuerzo de los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "RIMI",
+                "inversiones",
+                "plenario federal",
+                "empleo construcción"
+            ],
+            "postura_politica": "Cooperación con Nación en materia de incentivos fiscales; destaca la coordinación con Neuquén y el potencial exportador.",
+            "frase_fuerte": "Río Negro no es solamente energía, turismo o grandes proyectos. Río Negro también es campo, es ganadería..."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "gas natural",
+                "viviendas",
+                "educación",
+                "salud"
+            ],
+            "postura_politica": "Gestión local pura; evita cualquier pronunciamiento sobre la coyuntura nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "YCRT",
+                "medicamentos",
+                "polideportivo",
+                "viviendas"
+            ],
+            "postura_politica": "Defensa de los recursos provinciales (YCRT) y gestión de servicios; sin referencias a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "donación de órganos",
+                "reconocimiento a equipos de salud"
+            ],
+            "postura_politica": "Agenda protocolar sin impacto federal; se limita a celebrar una fecha conmemorativa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "turismo",
+                "Tafí del Valle",
+                "Best Tourism Villages"
+            ],
+            "postura_politica": "Promoción turística local; sin mención a la relación con Nación.",
+            "frase_fuerte": null
+        }
+    ]
+}
