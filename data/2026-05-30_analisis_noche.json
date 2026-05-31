@@ -1,0 +1,202 @@
+{
+    "clima_general": "CAUTELOSO",
+    "resumen_ejecutivo": "Los gobernadores se concentraron hoy en la gestión provincial, destacando infraestructura, seguridad y desarrollo local. Axel Kicillof (Buenos Aires) y Sergio Ziliotto (La Pampa) confrontaron a Nación por el ajuste fiscal y obras paralizadas. Jorge Macri (CABA) criticó a Kicillof en seguridad. En Patagonia, Claudio Vidal (Santa Cruz), Ignacio Torres (Chubut), Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) impulsaron gas, salud e inversiones; Weretilneck adhirió al RIMI. Ricardo Quintela (La Rioja), Claudio Poggi (San Luis), Leandro Zdero (Chaco) y Maximiliano Pullaro (Santa Fe) enfatizaron vivienda, seguridad y salud. La jornada reflejó una marcada autonomía provincial y focos de tensión con el gobierno central.",
+    "analisis_profundo": "La jornada reflejó una marcada estrategia de los gobernadores para consolidar agendas provinciales, muchas veces en abierta contraposición o adaptación a las políticas del gobierno nacional. Axel Kicillof (Buenos Aires) utilizó sus redes para amplificar críticas a la administración central, denunciando el desmantelamiento del complejo de Chapadmalal por 'ajuste fiscal' y la inacción nacional en infraestructura frente a la inversión provincial en Chivilcoy. Esta postura se alinea con la defensa de un Estado presente y la soberanía en la causa Malvinas. En la misma línea de tensión federal, Sergio Ziliotto (La Pampa) expuso la paralización de obras nacionales en su provincia, utilizando fondos propios para avanzar en servicios esenciales como cloacas y viviendas, un claro mensaje de autonomía y resguardo de la gestión local.\n\nContrastando con estas críticas, Jorge Macri (CABA) continuó con su agenda de 'ley y orden', atacando la gestión anterior de Kicillof en la Provincia de Buenos Aires en un tema sensible como la seguridad. En la Patagonia, la actividad fue intensa. Ignacio Torres (Chubut) anunció una esperada obra de gas natural, mientras Claudio Vidal (Santa Cruz) se mostró proactivo en la finalización de obras de gas, criticando el abandono de YCRT por parte de Nación. Rolando Figueroa (Neuquén) puso el foco en el proyecto de GNL en Vaca Muerta y una visión de desarrollo a largo plazo con un 'Estado ágil', mientras Alberto Weretilneck (Río Negro) se desmarcó con la adhesión al RIMI para atraer inversiones, aunque manteniendo una fuerte impronta en seguridad y obras viales.\n\nEn el norte, Ricardo Quintela (La Rioja) destacó la entrega de viviendas y programas de capacitación, enfatizando la 'justicia social' y el 'federalismo' en estas iniciativas. Leandro Zdero (Chaco) se centró en la mejora de la seguridad y obras viales. Maximiliano Pullaro (Santa Fe) celebró avances en seguridad en Rosario, enfatizando la recuperación de espacios públicos, y destacó la labor en donación de órganos. Osvaldo Jaldo (Tucumán) celebró un hito turístico internacional para Tafí del Valle, resaltando el potencial cultural y económico. Claudio Poggi (San Luis) mantuvo una agenda activa en viviendas, educación y obras hídricas. La mayoría de los mandatarios busca mostrar gestión y capacidad de respuesta propia frente a un contexto nacional percibido como complejo o limitante, aunque algunos adoptan herramientas nacionales como el RIMI para sus agendas de inversión. La diversificación de la agenda provincial hacia la producción, seguridad y desarrollo social es un eje central.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al Gobierno Nacional y Defensa de la Gestión Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Desarrollo Productivo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Promoción de Inversiones y Actividad Económica",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales y Calidad de Vida",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @magariovero)",
+        "texto": "El ajuste fiscal no se hace con las vacaciones de los niños y los jubilados. Chapadmalal no es un hotel más. Es parte de nuestra historia y una de las experiencias más importantes de turismo social de la Argentina y la región. Las intenciones del gobierno nacional para desmantelar y concesionar el complejo deben preocupar y movilizar a toda nuestra comunidad.",
+        "por_que_es_clave": "Este tweet condena la política de ajuste fiscal del gobierno nacional al impactar directamente en el turismo social y un patrimonio histórico como Chapadmalal, movilizando a la comunidad en defensa de derechos sociales y criticando un modelo económico que desmantela bienes públicos.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Ajuste fiscal",
+                "Turismo social",
+                "Defensa del Estado",
+                "Infraestructura provincial",
+                "Soberanía"
+            ],
+            "postura_politica": "Fuerte oposición al modelo económico nacional, defensa del rol del Estado provincial en la inversión pública y protección de derechos sociales. Reafirma la soberanía territorial.",
+            "frase_fuerte": "El ajuste fiscal no se hace con las vacaciones de los niños y los jubilados."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y orden",
+                "Crítica a la gestión anterior"
+            ],
+            "postura_politica": "Línea dura en seguridad, enfatizando la recuperación del orden y la aplicación de la ley. Crítica directa a la gestión anterior por supuesta inacción en el pasado.",
+            "frase_fuerte": "Estos trapitos creyeron que podían hacer cualquier cosa como en el desgobierno de Kicillof. Están equivocados."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Enfocado en la mejora de la seguridad a través de la inversión en infraestructura policial y el desarrollo de obras viales para la conectividad provincial.",
+            "frase_fuerte": "Paso a paso, seguimos fortaleciendo la seguridad en toda la provincia."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Infraestructura de servicios (gas natural)",
+                "Gestión local"
+            ],
+            "postura_politica": "Destaca la capacidad de gestión provincial y municipal para resolver necesidades básicas a través del trabajo conjunto con los vecinos.",
+            "frase_fuerte": "Hoy esa realidad empieza a cambiar, gracias al trabajo conjunto entre la Provincia, el Municipio y los vecinos de Rawson."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Donación de órganos"
+            ],
+            "postura_politica": "Promueve la importancia de la donación de órganos como política de salud pública y valora la generación de nuevas oportunidades de vida.",
+            "frase_fuerte": "En Córdoba, donar órganos es generar nuevas oportunidades de vida."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura de servicios",
+                "Autonomía provincial",
+                "Crítica a Nación"
+            ],
+            "postura_politica": "Defensa de la autonomía provincial y el uso de recursos propios para avanzar en obras paralizadas por el gobierno nacional, priorizando las necesidades de los ciudadanos.",
+            "frase_fuerte": "Una intervención que se vuelve necesaria ante la paralización de otra obra comprometida por el Gobierno nacional que hubiera permitido resolver definitivamente esta situación."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Capacitación laboral",
+                "Desarrollo local",
+                "Justicia social"
+            ],
+            "postura_politica": "Enfocado en políticas de inclusión y desarrollo a través de programas de vivienda y formación, enfatizando la justicia social y el federalismo como pilares de su gestión.",
+            "frase_fuerte": "Garantizar el techo propio es un acto de justicia social, federalismo y dignidad."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Inversiones",
+                "Desarrollo económico",
+                "GNL",
+                "Vaca Muerta",
+                "Infraestructura deportiva",
+                "Visión a largo plazo"
+            ],
+            "postura_politica": "Impulsa una visión de provincia exportadora de energía, con un Estado eficiente que atrae inversiones y fomenta el crecimiento económico y social a través de infraestructura y planificación.",
+            "frase_fuerte": "En el 2030 Neuquén va a ser otra provincia. Tenemos que generar las condiciones para que lleguen las inversiones, para que la economía crezca y para que el Estado sea más ágil."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Inversiones (RIMI)",
+                "Seguridad (narcotráfico)",
+                "Infraestructura vial",
+                "Salud (tecnología hospital)"
+            ],
+            "postura_politica": "Proactiva en la atracción de inversiones a través de la adhesión a regímenes nacionales, firme en la lucha contra el narcotráfico y con foco en obras que mejoran la vida cotidiana y la salud pública.",
+            "frase_fuerte": "En Río Negro no vamos a retroceder ni un paso frente al narcotráfico."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Educación",
+                "Programas juveniles (TUBI)",
+                "Seguridad hídrica"
+            ],
+            "postura_politica": "Gestión orientada a la mejora de la calidad de vida de los ciudadanos a través de programas de vivienda, fortalecimiento educativo, acciones de salud preventiva y obras hídricas.",
+            "frase_fuerte": "VILLA MERCEDES - Esta mañana de sábado, 114 FAMILIAS MERCEDINAS fueron preadjudicadas en sus VIVIENDAS y visitaron por primera vez los avances en la construcción de su futura casa."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Infraestructura de servicios (gas)",
+                "Defensa de empresas públicas (YCRT)"
+            ],
+            "postura_politica": "Centrado en la finalización de obras esenciales como el gas natural y en la defensa y reactivación de YCRT como motor de desarrollo y empleo para la provincia.",
+            "frase_fuerte": "DEFENDER E INVERTIR EN YCRT ES DEFENDER EL FUTURO DE LA CUENCA CARBONÍFERA"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Donación de órganos",
+                "Recuperación de espacios públicos"
+            ],
+            "postura_politica": "Enfocado en la restitución del orden y la seguridad en la provincia, destacando logros y el compromiso de seguir trabajando en la materia. También promueve la salud pública.",
+            "frase_fuerte": "Sabemos perfectamente que todavía falta un montón, pero hoy los rosarinos y todos los santafesinos pueden volver a disfrutar de sus espacios públicos en paz."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Turismo",
+                "Promoción internacional"
+            ],
+            "postura_politica": "Resalta el potencial turístico y cultural de la provincia a través de logros internacionales, buscando posicionar a Tucumán en el mapa global del turismo.",
+            "frase_fuerte": "TAFI DEL VALLE COMPETIRA POR SER LA MEJOR VILLA TURÍSTICA DEL MUNDO"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada exhibe una grieta fiscal: mientras gobernadores aliados (Chubut, Neuquén, Río Negro) celebran inversiones vía RIGI, Kicillof y Ziliotto marcan distancia con críticas al ajuste y la coparticipación. La agenda de seguridad y obra pública local predomina, pero el trasfondo es la disputa por recursos y autonomía provincial.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal domina la jornada. Sergio Ziliotto (La Pampa) lanza un misil directo a la Casa Rosada al reclamar un nuevo pacto fiscal federal y denunciar una pérdida de 12.000 millones de dólares para las provincias en 2025. Su diagnóstico es compartido en sordina por varios mandatarios, pero pocos lo explicitan. Axel Kicillof (Buenos Aires) refuerza la trinchera opositora al calificar el riesgo país como 'Riesgo Milei' y denunciar el desmantelamiento de Chapadmalal, un símbolo del turismo social. Ambos gobernadores peronistas construyen un relato de resistencia frente al ajuste nacional, aunque con estilos distintos: Ziliotto desde el dato técnico, Kicillof desde la épica de derechos.\n\nActo 2 — Los Alineamientos: En la vereda opuesta, los gobernadores de provincias productivas y energéticas se muestran como socios estratégicos del modelo nacional. Ignacio Torres (Chubut) y Rolando Figueroa (Neuquén) destacan inversiones millonarias enmarcadas en el RIGI: Cerro Dragón (USD 680 millones) y nuevas concesiones de YPF para GNL. Alberto Weretilneck (Río Negro) adhiere al RIMI y celebra el crecimiento del empleo en la construcción junto a Neuquén. Maximiliano Pullaro (Santa Fe) apuesta a la obra pública y la seguridad, sin confrontar con Nación. Estos gobernadores, de distintos signos políticos, comparten una pragmática: aprovechar las herramientas del gobierno nacional para sostener la actividad económica y el empleo local.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas o con menor peso fiscal se refugian en la agenda de cabotaje. Claudio Poggi (San Luis) inaugura gas natural y viviendas; Claudio Vidal (Santa Cruz) avanza en obras para YCRT y viviendas; Osvaldo Jaldo (Tucumán) despliega una intensa agenda de reuniones políticas y obras viales, consolidando su liderazgo peronista local. Martín Llaryora (Córdoba) combina gestión territorial con críticas puntuales al PAMI y defensa de la Zona Fría, pero sin romper el vínculo con Nación. Estos gestos de supervivencia revelan que, en provincias sin recursos estratégicos, la prioridad es mostrar gestión y evitar el desgaste político.\n\nActo 4 — Saldo Presidencial: El balance para la Casa Rosada es mixto. Por un lado, consolida una base de gobernadores aliados en las provincias energéticas y productivas, que validan el RIGI y las reformas pro-mercado. Por otro, enfrenta un núcleo duro de resistencia peronista (Buenos Aires, La Pampa) que capitaliza el descontento fiscal y social. La ausencia de un conflicto abierto sugiere que la estrategia de 'divide y reinarás' funciona a corto plazo, pero la persistencia del reclamo por coparticipación y la crítica al ajuste social (Chapadmalal, PAMI) siembran tensiones que pueden escalar.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto fiscal y coparticipación: reclamo de nuevo pacto federal",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Inversiones y RIGI: provincias energéticas como socias del modelo nacional",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y narcotráfico: operativos y coordinación regional",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@maxipullaro",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Obra pública provincial como respuesta al repliegue nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Posicionamiento político: peronismo vs. alianzas pro-gobierno",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@OsvaldoJaldo",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "Es necesario un nuevo pacto fiscal federal. \n\nQue, como establece la reforma constitucional de 1994, la distribución de los recursos sea según las responsabilidades, funciones y competencias de cada jurisdicción, nacional y provincial.\n\nDesde la vigencia de la actual Ley de Coparticipación en 1988, las provincias hemos sumado infinidad de responsabilidades y perdimos recursos.\n\nHoy las provincias tenemos la responsabilidad total o casi total en salud, educación, seguridad, protección social y también en obra pública.\n\nMientras tanto y producto de la pérdida de federalismo, la disminución de recursos del conjunto de las provincias alcanzó en el ejercicio fiscal 2025 la suma de U$D 12.000 millones. \n\nPor eso hablamos de una reforma de la que todos seremos responsables, pero de la que ninguno pueda hacerse el distraído con lo que pasó desde 1988 hasta ahora.\n\nLa nota en https://t.co/gUS4w78Xmg 👉 https://t.co/RVMIDEaFlj",
+        "por_que_es_clave": "Ziliotto pone sobre la mesa el debate más incómodo para la Casa Rosada: la coparticipación. Con datos concretos y un tono institucional, desafía al gobierno nacional a discutir el federalismo fiscal, un tema que el oficialismo prefiere evitar. Es un llamado a la unidad provincial que trasciende partidos.",
+        "pregunta_openarg": "¿Está dispuesto el gobierno nacional a sentarse a discutir una nueva ley de coparticipación que redistribuya recursos según responsabilidades reales, o prefiere mantener el statu quo que beneficia al AMBA?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Malvinas",
+                "Chapadmalal",
+                "obra pública",
+                "Riesgo Milei",
+                "salud",
+                "escrituras"
+            ],
+            "postura_politica": "Oposición frontal al gobierno nacional. Cada tuit es una marca de autonomía y denuncia del ajuste. El retuit sobre Chapadmalal es un guiño al turismo social y una crítica a la privatización. El 'Riesgo Milei' sintetiza su relato de campaña.",
+            "frase_fuerte": "El riesgo que enfrenta hoy la Argentina es el 'Riesgo Milei', donde el verdadero peligro es que el Presidente siga profundizando este desastre económico y ejecute su plan de destrucción más rápido y más profundo."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "seguridad",
+                "obra pública",
+                "exportaciones",
+                "viviendas"
+            ],
+            "postura_politica": "Alineamiento pragmático con Nación. Celebra exportaciones de cannabis medicinal etiquetando a Milei y Caputo. Muestra gestión local sin confrontar, pero con un tono optimista ('Chaco puede').",
+            "frase_fuerte": "La empresa chaqueña Cannafis... hoy comienza a exportar a Nueva Zelanda... @JMilei @fedesturze @LuisCaputoAR"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "gas natural",
+                "RIGI",
+                "inversión petrolera",
+                "seguridad",
+                "ruta 40"
+            ],
+            "postura_politica": "Socios del modelo nacional. Destaca inversiones vía RIGI y se muestra como gestor eficiente. El tono es de 'orden y progreso', con mano dura en cárceles y narcotráfico.",
+            "frase_fuerte": "CON EL RIGI, CHUBUT SUMA USD 680 MILLONES PARA POTENCIAR CERRO DRAGÓN Y SOSTENER EL EMPLEO"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "salud",
+                "PAMI",
+                "Zona Fría",
+                "educación",
+                "seguridad"
+            ],
+            "postura_politica": "Defensor del interior productivo. Critica al PAMI por desfinanciamiento pero actúa con fondos provinciales. Reclama por Zona Fría y retenciones. Se posiciona como gestor que suple las falencias nacionales.",
+            "frase_fuerte": "La intervención de la Provincia no puede ni debe ser la solución definitiva. El @PAMI_org_ar tiene que prestar los servicios que le corresponden."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "viviendas",
+                "consorcios camineros",
+                "pacto fiscal",
+                "salarios",
+                "glaciares"
+            ],
+            "postura_politica": "Abanderado del federalismo fiscal. Su reclamo de nuevo pacto fiscal es el más estructurado del día. También defiende el ambiente (glaciares) y la universidad pública. Peronismo crítico pero con gestión propia.",
+            "frase_fuerte": "Es necesario un nuevo pacto fiscal federal... la disminución de recursos del conjunto de las provincias alcanzó en el ejercicio fiscal 2025 la suma de U$D 12.000 millones."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "viviendas",
+                "cultura",
+                "educación",
+                "agua",
+                "deporte"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en gestión territorial (Plan Angelelli, acueductos, núcleos del conocimiento). Muestra solidaridad con la UOM, pero sin confrontar directamente con Nación.",
+            "frase_fuerte": "Todo mi apoyo y solidaridad con el compañero Abel Furlán ante este atropello."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "cultura",
+                "salud",
+                "transporte",
+                "educación",
+                "minería"
+            ],
+            "postura_politica": "Gestión técnica y modernizadora. Sin confrontación con Nación. Promueve la enmienda constitucional y la inversión en salud. Se posiciona como un gobernador ordenado y previsible.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "GNL",
+                "RIGI",
+                "empleo",
+                "seguridad",
+                "energía"
+            ],
+            "postura_politica": "Máximo exponente del modelo energético exportador. Trabaja codo a codo con Nación (Caputo) para impulsar Vaca Muerta. Su discurso es de crecimiento y eficiencia estatal.",
+            "frase_fuerte": "Vaca Muerta es solo una roca. Esto es gracias a Neuquén y al esfuerzo de los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "turismo",
+                "obra pública",
+                "narcotráfico",
+                "RIMI",
+                "educación"
+            ],
+            "postura_politica": "Complemento de Neuquén en la Norpatagonia. Adhiere al RIMI y celebra el crecimiento conjunto. Fuerte en seguridad y gestión social (garrafas). Discurso de 'rumbo' y planificación.",
+            "frase_fuerte": "RÍO NEGRO ADHIERE AL RIMI PARA IMPULSAR LAS INVERSIONES Y EL EMPLEO"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "viviendas",
+                "gas natural",
+                "educación",
+                "seguridad",
+                "salud"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Pura gestión de obras y servicios. Sin menciones a Nación. Refleja un repliegue en la administración cotidiana.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "YCRT",
+                "salud",
+                "viviendas",
+                "mercado concentrador",
+                "policía"
+            ],
+            "postura_politica": "Defensor de la empresa estatal YCRT y la Cuenca Carbonífera. Gestiona con recursos provinciales y busca financiamiento estratégico. Sin confrontación directa con Nación, pero con reclamos implícitos.",
+            "frase_fuerte": "DEFENDER E INVERTIR EN YCRT ES DEFENDER EL FUTURO DE LA CUENCA CARBONÍFERA"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "seguridad",
+                "donación de órganos",
+                "gasoductos",
+                "obra pública",
+                "educación"
+            ],
+            "postura_politica": "Gestor eficiente y dialoguista. Sin enfrentamientos con Nación. Prioriza seguridad y obra pública. Se muestra como un gobernador que resuelve problemas concretos.",
+            "frase_fuerte": "Cuando en el Estado no se roba, la plata alcanza para hacer un montón de cosas."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "turismo",
+                "política",
+                "cultura",
+                "seguridad",
+                "obra pública"
+            ],
+            "postura_politica": "Constructor de unidad peronista. Reúne a intendentes y referentes del PJ. Coordina con otros gobernadores del NOA en seguridad. Su agenda es de consolidación política interna más que de confrontación nacional.",
+            "frase_fuerte": "Hoy reunimos a intendentes, concejales y referentes peronistas de toda la provincia para seguir fortaleciendo el Frente Tucumán Primero."
+        }
+    ]
+}
