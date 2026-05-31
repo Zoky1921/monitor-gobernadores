@@ -1,0 +1,70 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de bajo voltaje político. Gobernadores de provincias centrales y periféricas se refugian en gestiones locales, efemérides y obras menores. Sin menciones a la macroeconomía ni roces con Nación. Un apagón comunicacional coordinado que sugiere repliegue táctico ante la falta de novedades fiscales.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La fecha no registra tensión fiscal ni embates directos contra la Casa Rosada. Los pocos tweets que logran sortear el filtro temporal son de peso bajo: plazas renovadas, viviendas entregadas, selección de un pueblo turístico y reuniones deportivas. Es un silencio ensordecedor si se considera que el país arrastra una inflación del 2.5% mensual y una caída del consumo del 8% interanual. La omisión de la macroeconomía en las cuentas provinciales es el mensaje.\n\nActo 2 — Los Alineamientos: Maximiliano Pullaro (Santa Fe) intenta capitalizar la agenda deportiva con los Juegos Suramericanos, un guiño a la inversión en infraestructura que contrasta con el ajuste nacional. Ricardo Quintela (La Rioja) apuesta al turismo como vector de desarrollo, exhibiendo un logro internacional que implica gestión propia. Ambos evitan mencionar a Nación, pero el cálculo es opuesto: Pullaro refuerza su perfil de gestor eficiente para despegarse del desorden nacional; Quintela, peronista, prefiere no confrontar en una jornada sin crisis.\n\nActo 3 — La Micro-política: Leandro Zdero (Chaco) y Claudio Poggi (San Luis) se limitan a inaugurar una plaza y saludar a las familias, respectivamente. Son actos de supervivencia política: mostrar obra pública cuando la Nación la paraliza. Alberto Weretilneck (Río Negro) comparte tecnología hospitalaria, una señal de autonomía en salud. Estos gestos, aunque menores, confirman que los gobernadores periféricos se refugian en la gestión local para ocultar la ausencia de recursos federales.\n\nActo 4 — Saldo Presidencial: Para Javier Milei, el día no suma ni resta. La ausencia de críticas directas le permite oxígeno, pero el silencio de los gobernadores también es una advertencia: no hay respaldo explícito a su programa. La Casa Rosada debería inquietarse por la falta de interlocutores dispuestos a celebrar sus políticas en público.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión provincial de bajo perfil",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@maxipullaro",
+                "@claudiojpoggi",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo (La Rioja)",
+        "texto": "Un orgullo inmenso para toda La Rioja. Sanagasta fue seleccionada entre más de 50 postulaciones de todo el país para representar a la Argentina en los Best Tourism Villages 2026 de la ONU Turismo.  ​Es el reconocimiento a nuestra historia, a la cultura, y sobre todo, al enorme trabajo de su comunidad.  ​Por segundo año consecutivo, la provincia se posiciona en la escena internacional, demostrando el valor y nuestro potencial.  ​Los invito a compartir este video y a celebrar este logro que es de todos los riojanos y riojanas. ❤️",
+        "por_que_es_clave": "Quintela utiliza un premio internacional para marcar gestión propia en un contexto de ajuste nacional. Es un mensaje de autonomía: La Rioja se posiciona sin ayuda de Nación.",
+        "pregunta_openarg": "¿Puede el turismo convertirse en un motor de desarrollo federal cuando la Nación reduce transferencias a las provincias?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Inauguración de plaza",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. El gobernador muestra obra pública menor para contrarrestar la parálisis nacional, pero evita cualquier referencia al conflicto fiscal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Turismo internacional",
+                "Vivienda",
+                "Deporte"
+            ],
+            "postura_politica": "Posicionamiento simbólico: utiliza un reconocimiento de la ONU para destacar la capacidad de gestión provincial, sin mencionar a Nación. Es un guiño a autonomía y desarrollo local.",
+            "frase_fuerte": "Sanagasta fue seleccionada entre más de 50 postulaciones de todo el país para representar a la Argentina en los Best Tourism Villages 2026 de la ONU Turismo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Saludo dominical"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Sin contenido político ni económico. El silencio sugiere que no hay urgencias o que prefiere no exponerse.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Obras locales",
+                "Juegos Suramericanos",
+                "Deporte"
+            ],
+            "postura_politica": "Pullaro refuerza su perfil de gestor eficiente y motor productivo. La mención a los Juegos Suramericanos es una apuesta a inversión en infraestructura que contrasta con el ajuste nacional, sin confrontar directamente.",
+            "frase_fuerte": "El desarrollo de las pequeñas localidades y las instituciones son fundamentales para que Santa Fe siga siendo el motor productivo del país."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Tecnología hospitalaria"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Muestra inversión en salud pública como señal de autonomía, pero sin criticar a Nación.",
+            "frase_fuerte": null
+        }
+    ]
+}

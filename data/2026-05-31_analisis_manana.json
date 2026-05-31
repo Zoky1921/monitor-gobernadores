@@ -1,0 +1,114 @@
+{
+    "clima_general": "CALMO",
+    "resumen_ejecutivo": "La agenda federal del día se caracteriza por un marcado énfasis en la gestión local y la inversión provincial directa en infraestructura y programas sociales. Gobernadores como @LeandroZdero (Chaco), @QuintelaRicardo (La Rioja), @claudiojpoggi (San Luis), @ClaudioVidalSer (Santa Cruz), @maxipullaro (Santa Fe) y @WeretilneckOK (Río Negro) destacan la entrega de viviendas, la mejora de servicios básicos como gas y agua, y el fomento de actividades comunitarias y turísticas. Este enfoque subraya una capacidad de resolución a nivel subnacional, con un claro mensaje de autonomía y eficiencia en la implementación de políticas públicas que buscan impactar directamente en la calidad de vida de los ciudadanos, en un contexto de ausencia de menciones a la relación con el gobierno nacional.",
+    "analisis_profundo": "La jornada política federal del 31 de mayo de 2026 se distingue por un enfoque casi exclusivo en la gestión provincial y la ejecución de obras de impacto directo en las comunidades. Los tweets de los gobernadores revelan una estrategia comunicacional orientada a consolidar la imagen de gobiernos provinciales eficientes y resolutivos, capaces de avanzar en agendas propias. @QuintelaRicardo (La Rioja) proyecta una provincia con ambición internacional al celebrar el reconocimiento turístico de Sanagasta y, simultáneamente, refuerza el compromiso social con la entrega de viviendas como 'un derecho, no un privilegio', una postura alineada con la justicia social. De forma similar, @claudiojpoggi (San Luis) y @ClaudioVidalSer (Santa Cruz) detallan avances en planes habitacionales e infraestructuras de gas y agua, señalando un Estado provincial activo en la cobertura de necesidades básicas. La inversión en infraestructura de calidad y el fortalecimiento de la conectividad y los espacios públicos son hilos conductores. @LeandroZdero (Chaco) y @maxipullaro (Santa Fe) resaltan la mejora de plazas y la construcción de infraestructura deportiva, conectando estos esfuerzos con el desarrollo local y la calidad de vida. @WeretilneckOK (Río Negro) pone el foco en la modernización de la salud con tecnología en hospitales, demostrando una gestión orientada a servicios esenciales. La narrativa común es de autonomía y capacidad de gestión. Los mensajes no aluden a tensiones con la Nación, sino que se concentran en la concreción de proyectos y la cercanía con los vecinos. Esto podría interpretarse como una estrategia de diferenciación o de reafirmación del rol protagónico de las provincias en la provisión de bienestar a sus ciudadanos, especialmente en áreas donde la acción nacional podría percibirse como ausente o insuficiente. El clima político, en este sentido, es de calma aparente, pero con una fuerte autoafirmación de la capacidad de las provincias para 'hacer' y 'avanzar'.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo de infraestructura local y servicios esenciales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Políticas sociales y calidad de vida",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Fomento al turismo y proyección internacional de provincias",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestión provincial autónoma y eficiencia",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Un orgullo inmenso para toda La Rioja. Sanagasta fue seleccionada entre más de 50 postulaciones de todo el país para representar a la Argentina en los Best Tourism Villages 2026 de la ONU Turismo.​Es el reconocimiento a nuestra historia, a la cultura, y sobre todo, al enorme trabajo de su comunidad.​Por segundo año consecutivo, la provincia se posiciona en la escena internacional, demostrando el valor y nuestro potencial.​Los invito a compartir este video y a celebrar este logro que es de todos los riojanos y riojanas. ❤️",
+        "por_que_es_clave": "Destaca un logro provincial con proyección internacional en turismo, fortaleciendo la imagen de La Rioja como un destino cultural y natural relevante. Subraya la capacidad de gestión local para obtener reconocimientos a nivel global, generando orgullo y demostrando el potencial de la provincia.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Espacios públicos"
+            ],
+            "postura_politica": "Su gestión se enfoca en la mejora de la infraestructura urbana y los espacios públicos, buscando impactar directamente en la calidad de vida de los chaqueños. Destaca el trabajo concreto y la cercanía con la comunidad como eje de gobierno.",
+            "frase_fuerte": "¡La Plaza 12 de Octubre, totalmente renovada, vuelve a encontrarnos!"
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Turismo",
+                "Vivienda",
+                "Deporte",
+                "Justicia social"
+            ],
+            "postura_politica": "Centrado en la promoción turística internacional, como el reconocimiento de Sanagasta, y en garantizar el acceso a la vivienda como un derecho. Proyecta una provincia con potencial y un fuerte compromiso social, buscando el desarrollo y la inclusión a través de políticas activas.",
+            "frase_fuerte": "Que cada familia tenga su propio hogar, no es un privilegio sino un derecho, por eso seguimos impulsando políticas que acompañen a las familias riojanas a cumplir el sueño de tener su vivienda."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Salud pública",
+                "Tecnología",
+                "Infraestructura hospitalaria"
+            ],
+            "postura_politica": "Destaca la inversión en tecnología para la salud pública y la modernización de la atención hospitalaria, enfatizando el 'rumbo' de la provincia hacia la eficiencia y la mejora de servicios esenciales. Busca fortalecer el sistema de salud provincial con soluciones concretas.",
+            "frase_fuerte": "MÁS TECNOLOGÍA PARA MEJORAR LA ATENCIÓN EN EL HOSPITAL DE CINCO SALTOS"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura hídrica",
+                "Servicios básicos"
+            ],
+            "postura_politica": "Se enfoca en la ejecución de obras de vivienda y la gestión hídrica, destacando el cumplimiento de los compromisos y la mejora en la calidad de vida. Sus mensajes buscan transmitir un gobierno activo y preocupado por las necesidades fundamentales de sus ciudadanos.",
+            "frase_fuerte": "Visité los avances en la construcción de VIVIENDAS en las Localidades de La Punilla, Villa del Carmen, Papagayos y Villa Larca."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Infraestructura de gas",
+                "Desarrollo local",
+                "Calidad de vida"
+            ],
+            "postura_politica": "Comprometido con la finalización de obras de infraestructura de servicios básicos, como la red de gas, para mejorar la calidad de vida en las localidades. Su comunicación se enmarca en la capacidad provincial de gestión bajo el lema 'Santa Cruz Puede'.",
+            "frase_fuerte": "EN PICO TRUNCADO, EL GAS ESTÁ CADA VEZ MÁS CERCA PARA LAS FAMILIAS DEL BARRIO INVERNADERO"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Infraestructura",
+                "Deporte"
+            ],
+            "postura_politica": "Subraya la cercanía con los vecinos y la inversión en infraestructura local y deportiva para impactar en la calidad de vida. Reafirma el rol productivo de Santa Fe y la importancia de las pequeñas localidades en el desarrollo provincial.",
+            "frase_fuerte": "El desarrollo de las pequeñas localidades y las instituciones son fundamentales para que Santa Fe siga siendo el motor productivo del país 💪🏽 ¡Vamos Santa Fe!"
+        }
+    ]
+}
