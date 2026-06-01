@@ -1,0 +1,122 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Los gobernadores focalizan en gestión local y proyectos energéticos, evitando confrontación directa con Nación. Cornejo (Mendoza) promociona inversiones mineras en Londres; Weretilneck (Río Negro) y Figueroa (Neuquén) avanzan en exportación energética. Pullaro (Santa Fe) y Zdero (Chaco) destacan obra pública y educación. Sin señales de disputa fiscal abierta.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada se caracteriza por una ausencia calculada de roces con la Casa Rosada. Los gobernadores evitan pronunciarse sobre la macroeconomía y optan por un repliegue hacia agendas de gestión que les permitan construir poder desde lo concreto. La tensión fiscal subyace, pero no se explicita; en su lugar, cada mandatario refuerza su autonomía mediante obras e inversiones que no dependen del financiamiento nacional.\n\nActo 2 — Los Alineamientos: Emergen dos bloques tácitos. Por un lado, los gobernadores de provincias con recursos energéticos (Cornejo, Figueroa, Weretilneck) se posicionan como interlocutores globales, presentando proyectos que trascienden la órbita nacional. Por otro, los de provincias periféricas (Zdero, Passalacqua) se refugian en el clientelismo local y la infraestructura básica. Pullaro (Santa Fe) equilibra con una apuesta educativa que busca diferenciarse del ajuste.\n\nActo 3 — La Micro-política: Passalacqua en Misiones inaugura una sucursal de McDonald’s como símbolo de atracción de inversiones, mientras Zdero entrega viviendas y promete obras en Chaco. Estos gestos de cabotaje disimulan la carencia de recursos federales y buscan anclar lealtades territoriales. Weretilneck, por su parte, utiliza el buque Skandi Hera para proyectar una imagen de transformación energética que supera la agenda doméstica.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es neutra en términos de oposición directa, pero revela que las provincias ya no esperan soluciones desde Nación. La gestión territorial se convierte en el único recurso de poder real. La pregunta que flota es: ¿cuánto puede durar este equilibrio si el ajuste fiscal nacional sigue apretando las cuentas provinciales?",
+    "temas_calientes": [
+        {
+            "tema": "Energía e inversiones: provincias buscan posicionarse como polos exportadores sin intermediación nacional",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Obra pública local: refugio en pavimentos, viviendas y servicios básicos para marcar presencia estatal",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Educación como diferenciador: Pullaro y Cornejo ponen el foco en reformas educativas y formación técnica",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Seguridad y control territorial: Weretilneck refuerza lucha contra el narcotráfico con operativos policiales",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Relaciones internacionales: Cornejo gestiona en Londres; Passalacqua recibe a gobernador paraguayo",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK",
+        "texto": "Lo que hoy se ve frente a las costas de Sierra Grande no es solamente un operativo marítimo. Es una parte de la obra que va a convertir a Río Negro en la puerta de salida al mundo de la energía argentina. El proyecto #VMOS reúne a las principales compañías energéticas: @YPFoficial, @PAEArgentina, Vista, @PampaEnergia, Chevron, Shell, Pluspetrol y Tecpetrol, en una inversión que supera los USD 3.000 millones...",
+        "por_que_es_clave": "Weretilneck reivindica el rol de su provincia como plataforma energética global, desplazando simbólicamente a Nación como articuladora del desarrollo. Es una declaración de autonomía de facto, apoyada en capital privado y alineamiento con la política energética nacional, pero con Río Negro como protagonista indisputado.",
+        "pregunta_openarg": "¿El proyecto VMOS convierte a Río Negro en un actor más poderoso que el propio Estado nacional en la definición de la política energética?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Infraestructura rural",
+                "Vivienda",
+                "Obra pública"
+            ],
+            "postura_politica": "Zdero se enfoca en gestión local de bajo perfil: entrega de títulos, viviendas y programas de conectividad rural. Evita cualquier referencia a la macroeconomía o a la Nación. La omisión es calculada: no confronta, pero tampoco agradece. Su postura es de 'resolver en silencio' para no depender del relato nacional.",
+            "frase_fuerte": "Después de décadas de incertidumbre, familias productoras de Juan José Castelli y Miraflores cuentan con sus títulos de tierras fiscales."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Minería",
+                "Inversión extranjera",
+                "Energía"
+            ],
+            "postura_politica": "Cornejo se proyecta como embajador de Mendoza en el mundo. Su reunión en el London Stock Exchange busca atraer capital sin pasar por la gestión nacional. La postura es de autonomía proactiva: muestra que Mendoza puede generar inversiones por sí sola, reforzando la idea de que las provincias mineras son las locomotoras del desarrollo.",
+            "frase_fuerte": "Expusimos el potencial de proyectos estratégicos como PSJ Cobre Mendocino y el avance de más de 70 iniciativas de exploración."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Inversión privada",
+                "Agua potable",
+                "Educación"
+            ],
+            "postura_politica": "Passalacqua celebra la llegada de McDonald's y obras de agua como muestras de gestión exitosa. Su discurso combina promoción económica con asistencia social. La ausencia de mención a Nación sugiere un repliegue localista: Misiones se maneja con sus propios recursos y alianzas, sin esperar solvencia federal.",
+            "frase_fuerte": "En un contexto económico nacional adverso, Misiones muestra que sigue siendo tierra de oportunidades."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "GNL",
+                "Vaca Muerta",
+                "Inversión"
+            ],
+            "postura_politica": "Figueroa consolida a Neuquén como eje de la agenda energética. La concesión de áreas a YPF y el encuentro con Caputo para el proyecto GNL muestran una alianza pragmática con Nación, pero con Neuquén marcando el ritmo. Su frase 'Vaca Muerta es solo una roca. Esto es gracias a Neuquén' es una declaración de propiedad política sobre el recurso.",
+            "frase_fuerte": "Vaca Muerta es solo una roca. Esto es gracias a Neuquén y al esfuerzo de los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "VMOS",
+                "Energía",
+                "Seguridad",
+                "Infraestructura"
+            ],
+            "postura_politica": "Weretilneck despliega una agenda múltiple: desde el gran proyecto energético VMOS hasta operativos antidrogas. Su mensaje es de control territorial y liderazgo en la transición energética. Al posicionar a Río Negro como 'puerta de salida al mundo', compite directamente con Neuquén y busca centralidad regional.",
+            "frase_fuerte": "Lo que hoy se ve frente a las costas de Sierra Grande es una señal concreta de la transformación que está viviendo nuestra provincia."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Educación",
+                "Obra pública",
+                "Seguridad"
+            ],
+            "postura_politica": "Pullaro apuesta a la educación como bandera de gestión, destacando mejoras en lectura y nuevas escuelas. Su postura es de eficientismo: muestra que con administración honesta se pueden lograr resultados sin depender de Nación. No confronta, pero se diferencia al hablar de 'inversión histórica' en infraestructura educativa.",
+            "frase_fuerte": "Cuando en el Estado no se roba, la plata alcanza para hacer un montón de cosas."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Producción",
+                "Financiamiento",
+                "Cooperación internacional"
+            ],
+            "postura_politica": "Suárez firma convenios con el CFI para créditos a Pymes y refuerza la seguridad en La Banda. Su discurso es de gestión técnica, sin aspavientos. La presencia del embajador chino en días previos indica una apuesta a la diplomacia económica, pero en el tweet de hoy no hay mención a Nación. Es un perfil bajo, de construcción silenciosa.",
+            "frase_fuerte": "Seguimos gestionando recursos concretos para impulsar la producción y generar empleo genuino."
+        }
+    ]
+}
