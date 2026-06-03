@@ -1,0 +1,196 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por la ofensiva de Jorge Macri contra Axel Kicillof, mientras varios gobernadores del interior exhibieron obras financiadas con recursos propios, evidenciando la tensión fiscal con Nación. El Norte Grande insistió con reclamos de infraestructura y la agenda de género sirvió de refugio institucional.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La guerra declarada de Jorge Macri contra Axel Kicillof marca el pulso del día. El jefe de Gobierno porteño no solo desempolva la grieta con el conurbano, sino que la agudiza al presentar a CABA como un bastión de orden frente a la 'barbarie' bonaerense. En paralelo, gobernadores del Norte Grande, encabezados por Quintela, aprovecharon la reunión del bloque para reclamar obras viales y energéticas que Nación posterga, un mensaje directo a la Casa Rosada que elude mencionar a Milei pero que le apunta al bolsillo fiscal.\n\nActo 2 — Los Alineamientos: Macri se consolida como la punta de lanza del PRO, sin miedo a confrontar con un Kicillof que, significativamente, no emitió tuits en la jornada. Del otro lado, el peronismo federal se agrupa en el Norte Grande: Quintela y Jalil (Catamarca) mantienen vivo el reclamo de federalismo, mientras que gobernadores radicales como Zdero y Valdés se refugian en la gestión local, evitando el roce. Pullaro y Weretilneck, por su parte, usan la agenda social (Ni Una Menos) como escudo institucional.\n\nActo 3 — La Micro-política: Con Nación ausente en la inversión, Llaryora, Sadir y Ziliotto ponen sobre la mesa obras financiadas con caja provincial: la Ruta 19 en Córdoba, viviendas en Jujuy, y la defensa de Vaca Muerta desde La Pampa. Es el gesto de autonomía más claro: 'nosotros gestionamos lo que Nación abandona'. En la misma línea, Passalacqua elimina retenciones a billeteras virtuales y Poggi recorre escuelas, clavando la bandera de una gestión que no necesita de la Casa Rosada.\n\nActo 4 — El Saldo Presidencial: Milei no aparece en los tuits, pero su sombra es alargada. Los gobernadores evitan nombrarlo, pero el reclamo de recursos es unánime: Ziliotto cuantifica la pérdida en 12.000 millones de dólares, Saenz (sin tweet reciente) ya había pedido gas, y Quintela pide formalmente gasoductos. La administración nacional enfrenta una pinza: el opositor Kicillof en silencio y los aliados del interior reclamando con hechos. El capital político de la Rosada se erosiona en la indiferencia de los gobernadores que, hoy, gobiernan solos.",
+    "temas_calientes": [
+        {
+            "tema": "Ofensiva de Jorge Macri contra Axel Kicillof y la gestión de seguridad en CABA",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Reunión del Norte Grande y reclamo de infraestructura federal",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Obras provinciales financiadas con recursos propios como respuesta al retiro de Nación",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@carlossadirjuy",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Agenda social y de género como refugio institucional",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@maxipullaro",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Inversiones en energía y Vaca Muerta como eje de desarrollo autónomo",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @danilerer)",
+        "texto": "Aplauso, medalla y beso para @jorgemacri, quien mientras resalta el hecho histórico de haber bajado todos los delitos en CABA, marca la inutilidad de @Kicillof: 'si del otro lado de la General Paz reina el caos y el desorden, nosotros vamos a hacer un muro contra la barbarie y el desgobierno de Kicillof'.",
+        "por_que_es_clave": "Macri no solo se diferencia de Kicillof, sino que lo declara inútil explícitamente, en un acto donde la seguridad es el caballito de batalla electoral. Es un ataque directo que fuerza a Kicillof a responder o quedar en silencio.",
+        "pregunta_openarg": "¿Puede la seguridad en CABA sostenerse sin una coordinación con la provincia de Buenos Aires, o el muro de Macri es solo una metáfora electoral?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ataque a Kicillof",
+                "Propiedad privada",
+                "Obra pública"
+            ],
+            "postura_politica": "Macri utiliza la seguridad y la recuperación de propiedades para marcar una gestión exitosa y contrastar con el desgobierno de Kicillof. Su lenguaje bélico ('muro', 'barbarie') busca consolidar su perfil de orden y ley, mientras se presenta como alternativa al oficialismo provincial.",
+            "frase_fuerte": "Nosotros vamos a hacer un muro contra la barbarie y el desgobierno de Kicillof."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Transparencia",
+                "Obra rural",
+                "Energía eléctrica"
+            ],
+            "postura_politica": "Zdero se mantiene en una gestión de bajo perfil, mostrando obras en El Impenetrable y participando en el Consejo Federal de Transparencia. Evita cualquier roce con Nación, aunque su presencia en el Norte Grande sugiere alineamiento táctico. Es un gesto de gestión local sin impacto federal directo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Turismo",
+                "Temporada de invierno",
+                "Inversiones"
+            ],
+            "postura_politica": "Torres se enfoca en la promoción turística con Scioli, mostrando una gestión que busca diversificar la economía. No entra en conflicto con Nación; es una agenda de cabotaje que busca atraer visitantes, sin menciones a la macroeconomía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Autopista R19",
+                "Bomberos",
+                "Reclamo a Nación"
+            ],
+            "postura_politica": "Llaryora aprovecha la finalización de la autopista R19 para marcar que Córdoba se hace cargo de lo que Nación abandonó. Su postura es de autonomía fiscal y reclamo tácito al gobierno central, pero sin confrontación directa. Es un mensaje a la Rosada: 'no nos pueden cortar las obras'.",
+            "frase_fuerte": "Es una obra que debería haberse financiado con fondos de la Nación, sin embargo, con recursos provinciales vamos a transformar la 'ruta de la muerte' en la ruta del progreso."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Inversiones",
+                "Agencia de Desarrollo",
+                "Aniversario"
+            ],
+            "postura_politica": "Valdés promueve la creación de una agencia de inversiones y celebra aniversarios locales. Su postura es pro-mercado, buscando atraer capitales sin involucrarse en disputas nacionales. Es gestión pura, sin señales de conflicto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Obra paralizada por Nación"
+            ],
+            "postura_politica": "Sadir entrega viviendas que estaban paralizadas por Nación, marcando que Jujuy finalizó con fondos provinciales. Es un gesto de eficiencia provincial frente a la parálisis nacional, aunque sin el tono confrontativo de Llaryora.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "Pymes",
+                "Pacto fiscal",
+                "Federalismo"
+            ],
+            "postura_politica": "Ziliotto combina la defensa de los intereses pampeanos en Vaca Muerta con un reclamo explícito de un nuevo pacto fiscal. Su tweet cuantifica la pérdida de recursos en 12.000 millones de dólares, un dardo directo a Nación. Es el peronismo que pide cuentas.",
+            "frase_fuerte": "Hoy las provincias tenemos la responsabilidad total o casi total en salud, educación, seguridad... la disminución de recursos del conjunto de las provincias alcanzó en el ejercicio fiscal 2025 la suma de U$D 12.000 millones."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Ni Una Menos",
+                "Norte Grande",
+                "Obras",
+                "Viviendas"
+            ],
+            "postura_politica": "Quintela se posiciona en la agenda de género y en la unión del Norte Grande, mientras muestra obras en Vinchina. Su participación en la reunión del Norte Grande es clave para marcar presencia regional. No hay confrontación directa con Nación, pero la omisión de agradecimientos sugiere distancia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Bomberos",
+                "Intendentes",
+                "Billeteras virtuales"
+            ],
+            "postura_politica": "Passalacqua se mueve en la gestión local: reconoce bomberos, se reúne con intendentes y elimina retenciones a billeteras virtuales. Es una agenda de alivio fiscal para la gente, sin referencias nacionales. Un refugio en la microgestión para evitar la macroeconomía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Ni Una Menos",
+                "Transferencias a municipios",
+                "Terminal Bariloche",
+                "Vacunas"
+            ],
+            "postura_politica": "Weretilneck combina la agenda social con la eficiencia en la gestión: muestra transferencias a municipios, obras en Bariloche y abastecimiento de vacunas. Sin enfrentamientos, construye una imagen de provincia que funciona sin depender de Nación. Es un modelo de autonomía pragmática.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Bomberos",
+                "Viviendas",
+                "Salud"
+            ],
+            "postura_politica": "Poggi se enfoca en una agenda educativa y de seguridad civil, con entregas de bicicletas y antenas. Es una gestión de baja intensidad política, sin referencias a Nación. Su postura es apolítica, casi de gestión municipal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Obra de agua",
+                "Petróleo",
+                "YCRT"
+            ],
+            "postura_politica": "Vidal destaca obras de infraestructura hídrica y la reactivación petrolera con YCRT. Muestra gestión en sectores clave, sin mencionar a Nación. Es un mensaje de que Santa Cruz se maneja con recursos propios, especialmente en la cuenca carbonífera.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Ni Una Menos",
+                "Educación",
+                "Seguridad",
+                "Obras"
+            ],
+            "postura_politica": "Pullaro prioriza la agenda educativa y de género, mostrando resultados en lectura y obras. Sin enfrentamientos, construye una imagen de gestión ordenada. Su presencia en el IAEF con otros gobernadores sugiere alineamiento técnico, no político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "IAEF",
+                "Inversiones",
+                "Minería"
+            ],
+            "postura_politica": "Jalil participa en el congreso del IAEF junto a Weretilneck, mostrando perfil técnico y de atracción de inversiones. No hay reclamo directo, pero la presencia en foros financieros indica búsqueda de autonomía económica. Su postura es de gestión pro-mercado.",
+            "frase_fuerte": null
+        }
+    ]
+}

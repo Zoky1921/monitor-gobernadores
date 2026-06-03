@@ -1,0 +1,204 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una combinación de reafirmación autonómica provincial y una notable polarización política. Gobernadores como Jorge Macri (Ciudad Autónoma de Buenos Aires) intensificaron la confrontación con la administración de Kicillof (Buenos Aires), utilizando una retórica de 'muro contra la barbarie'. En paralelo, varios mandatarios del Norte Grande, incluyendo Ricardo Quintela (La Rioja) y Raúl Jalil (Catamarca), se reunieron para impulsar una agenda regional común con demandas energéticas y de infraestructura a la Nación. Otros líderes como Martín Llaryora (Córdoba) y Gustavo Sáenz (Salta) destacaron la inversión provincial en obras tradicionalmente nacionales, subrayando la autogestión frente a la inacción federal. Un tema transversal fue el Día del 'Ni Una Menos', con pronunciamientos unánimes de respaldo estatal contra la violencia de género, como los de Maximiliano Pullaro (Santa Fe) y Alberto Weretilneck (Río Negro).",
+    "analisis_profundo": "La dinámica federal hoy revela una clara estrategia de las provincias para enfatizar su capacidad de gestión y autonomía, a menudo en contraste con el gobierno central. Jorge Macri (Ciudad Autónoma de Buenos Aires) lideró la crítica más directa, articulando su política de seguridad como una barrera frente al 'desgobierno' de la Provincia de Buenos Aires, escalando la tensión interjurisdiccional. Esta narrativa se alinea con un clima de autoafirmación donde Martín Llaryora (Córdoba) financia obras viales nacionales y Gustavo Sáenz (Salta) asume la continuidad de rutas federales, ambos utilizando un lenguaje que subraya la responsabilidad provincial ante la inacción nacional. \n\nEl bloque del Norte Grande, con figuras como Ricardo Quintela (La Rioja) y Raúl Jalil (Catamarca), articuló un frente común para exigir infraestructura energética y logística, destacando la necesidad de gas natural y la importancia de la colaboración público-privada en foros económicos. Esta acción conjunta sugiere una presión coordinada para que la Nación reasuma compromisos o flexibilice el apoyo. \n\nEn el ámbito de la inversión y el desarrollo productivo, Ignacio Torres (Chubut) y Gustavo Valdés (Corrientes) se enfocaron en la promoción internacional del turismo y la creación de agencias para atraer capitales, buscando fortalecer sus economías más allá de las fluctuaciones nacionales. La infraestructura local también fue un punto clave, con Leandro Zdero (Chaco) y Claudio Vidal (Santa Cruz) anunciando obras viales y de servicios básicos con fondos provinciales. \n\nFinalmente, la conmemoración del 'Ni Una Menos' generó un consenso en la agenda social. Ricardo Quintela (La Rioja), Maximiliano Pullaro (Santa Fe) y Alberto Weretilneck (Río Negro) reafirmaron el compromiso estatal ineludible en la prevención y asistencia a víctimas de violencia de género, destacando la importancia de un Estado presente en derechos fundamentales.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamos Federales y Autonomía Provincial frente a la Nación",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@GustavoSaenzOK",
+                "@RaulJalil_ok",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad Pública y Confrontación Interjurisdiccional",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Impulso a la Inversión y Desarrollo Económico Regional",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@NachoTorresCH",
+                "@gustavovaldesok",
+                "@ZiliottoSergio",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Obras Públicas e Infraestructura Estratégica con Financiamiento Provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@ClaudioVidalSer",
+                "@GustavoSaenzOK",
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Agenda Social: Compromiso con la Lucha 'Ni Una Menos'",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@maxipullaro",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @danilerer)",
+        "texto": "Aplauso, medalla y beso para @jorgemacri, quien mientras resalta el hecho histórico de haber bajado todos los delitos en CABA, marca la inutilidad de @Kicillofok: 'si del otro lado de la General Paz reina el caos y el desorden, nosotros vamos a hacer un muro contra la barbarie y el desgobierno de Kicillof'.",
+        "por_que_es_clave": "Este tweet de Jorge Macri (Ciudad Autónoma de Buenos Aires) no solo posiciona firmemente su gestión en seguridad, sino que también lanza una dura crítica a Axel Kicillof (Provincia de Buenos Aires), marcando un fuerte contraste y polarización entre las dos jurisdicciones más grandes del país. Su retórica del 'muro contra la barbarie' escala la tensión política federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Federalismo",
+                "Empleo"
+            ],
+            "postura_politica": "Enfocado en el desarrollo productivo provincial, destacando la contribución pampeana a la infraestructura nacional y la importancia de pymes y trabajo local. Reafirma la visión de un Estado provincial eficiente en la generación de oportunidades.",
+            "frase_fuerte": "Pymes y trabajo pampeanos en la Vaca Muerta de los argentinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Inversión",
+                "Desarrollo Económico",
+                "Infraestructura",
+                "Salud Pública",
+                "Gestión Fiscal",
+                "Género"
+            ],
+            "postura_politica": "Proactiva en la promoción de inversiones y el desarrollo económico regional. Enfatiza la autogestión provincial de obras y servicios esenciales como la salud, y la buena gestión fiscal. Fuerte compromiso con la agenda de género en el 'Ni Una Menos'.",
+            "frase_fuerte": "RÍO NEGRO PRESENTÓ SU POTENCIAL ANTE INVERSORES Y EMPRESARIOS DEL PAÍS"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Infraestructura",
+                "Desarrollo Regional",
+                "Género"
+            ],
+            "postura_politica": "Articulador de los intereses del Norte Grande, solicitando infraestructura estratégica a la Nación. Firme defensor de la agenda social, especialmente en la lucha contra la violencia de género, subrayando la responsabilidad estatal.",
+            "frase_fuerte": "Junto a los gobernadores del Norte Grande seguimos construyendo una agenda común para impulsar el desarrollo de la región."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Obras Públicas",
+                "Producción Local",
+                "Cumplimiento de Gestión"
+            ],
+            "postura_politica": "Centrado en el cumplimiento de promesas y la ejecución de obras básicas para mejorar la calidad de vida y potenciar la producción local. Resalta el valor de la acción concreta en el desarrollo provincial.",
+            "frase_fuerte": "EN PERITO MORENO TAMBIÉN ESTAMOS CUMPLIENDO CON LA PALABRA"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Desarrollo Económico",
+                "Federalismo",
+                "Sector Empresarial"
+            ],
+            "postura_politica": "Participa activamente en foros económicos nacionales, buscando posicionar la visión de los gobernadores en la interacción con el sector privado y financiero. Refuerza la agenda del Norte Grande.",
+            "frase_fuerte": "Participamos del 43° Congreso Anual del @IAEF_oficial, uno de los principales espacios de encuentro entre el sector público, el empresariado y el sistema financiero argentino."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Transparencia"
+            ],
+            "postura_politica": "Enfocado en la concreción de obras de infraestructura vial clave para la conectividad y el desarrollo regional, como la Ruta Provincial N°9 en El Impenetrable. Participa en espacios federales de transparencia y gobernanza.",
+            "frase_fuerte": "Ruta Provincial N°9: Comenzó la obra más esperada en El Impenetrable chaqueño, conectando Miraflores y Las Hacheras."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Gestión Municipal",
+                "Educación",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "Promueve el trabajo conjunto con los municipios para el crecimiento local y la mejora de servicios. Resalta la importancia de la educación y el aprendizaje en la construcción del futuro de la juventud.",
+            "frase_fuerte": "Junto al amigo intendente Fabián Rodríguez, repasamos proyectos y desafíos para seguir acompañando el crecimiento del municipio y mejorar la calidad de vida de los vecinos."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Género",
+                "Seguridad Social"
+            ],
+            "postura_politica": "Reafirma el compromiso de su gobierno con la lucha contra la violencia de género, vinculando la agenda de 'Ni Una Menos' con la construcción de una sociedad sin miedo y con igualdad.",
+            "frase_fuerte": "A 11 años del primer Ni Una Menos, seguimos ratificando nuestro compromiso de seguir construyendo una sociedad cada vez más justa, igualitaria y libre de violencia."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Financiamiento Provincial",
+                "Empleo"
+            ],
+            "postura_politica": "Actitud de autogestión frente a la falta de financiamiento nacional, destacando la capacidad provincial para continuar obras clave y generar empleo, como la finalización de la Autopista Nacional Ruta 19. Subraya que 'Córdoba se hace cargo'.",
+            "frase_fuerte": "Es una obra que debería haberse financiado con fondos de la Nación, sin embargo, con recursos provinciales vamos a transformar la 'ruta de la muerte' en la ruta del #progreso y del #desarrollo. Córdoba se hace cargo y no abandona a su gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Salud Pública",
+                "Programas Sociales"
+            ],
+            "postura_politica": "Centrado en políticas de desarrollo local a través de la educación y programas de hábitos saludables para jóvenes. Promueve la cercanía con las instituciones educativas y la comunidad.",
+            "frase_fuerte": "El camino es la EDUCACIÓN."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Propiedad Privada",
+                "Confrontación Política"
+            ],
+            "postura_politica": "Líder en una postura de 'mano dura' en seguridad y defensa de la propiedad privada, con una retórica muy crítica hacia la gestión de Axel Kicillof (Provincia de Buenos Aires), buscando un contraste político claro sobre el 'desgobierno'.",
+            "frase_fuerte": "'si del otro lado de la General Paz reina el caos y el desorden, nosotros vamos a hacer un muro contra la barbarie y el desgobierno de Kicillof'."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Turismo",
+                "Inversión",
+                "Promoción Provincial"
+            ],
+            "postura_politica": "Fuerte apuesta por el turismo como motor económico, promoviendo inversiones y destacando la oferta provincial a nivel nacional e internacional. Busca posicionar a Chubut como un destino protagónico mundial.",
+            "frase_fuerte": "CHUBUT VUELVE A SER PROTAGONISTA DEL TURISMO MUNDIAL"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Inversión Privada",
+                "Desarrollo Económico",
+                "Marco Jurídico"
+            ],
+            "postura_politica": "Promueve la atracción de capitales internacionales a través de la creación de una entidad de desarrollo y la garantía de 'previsibilidad y orden'. Enfocado en la seguridad jurídica para la inversión privada.",
+            "frase_fuerte": "Esta entidad buscará que más capitales internacionales elijan #Corrientes como destino seguro de inversión privada."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Vivienda Social",
+                "Desarrollo Social"
+            ],
+            "postura_politica": "Enfocado en la solución de problemas de vivienda social, retomando proyectos paralizados y entregando casas a familias, mostrando un compromiso con la gestión de necesidades básicas que incluso corresponden a la Nación.",
+            "frase_fuerte": "Después de muchos años, pudimos finalizar estas casas que estaban siendo construidas por Nación y que quedaron paralizadas por un largo tiempo."
+        }
+    ]
+}
