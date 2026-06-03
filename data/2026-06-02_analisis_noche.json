@@ -1,0 +1,295 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una fuerte articulación regional y una agenda cargada de reclamos al Gobierno Nacional. Los gobernadores del Norte Grande se reunieron para impulsar demandas estratégicas en infraestructura, energía y gas, evidenciando una postura unificada y tensionada. Gobernadores como Sergio Ziliotto (La Pampa) y Gustavo Sáenz (Salta) intensificaron el debate sobre federalismo y financiamiento, el primero exigiendo un nuevo pacto fiscal y el segundo asumiendo obras nacionales con fondos propios. A nivel provincial, la gestión se centró en obras públicas, servicios esenciales y seguridad, con destacados operativos antidrogas en Entre Ríos y un continuo apoyo a los bomberos voluntarios. La atracción de inversiones extranjeras por Mendoza y Neuquén también marcó la agenda, reflejando una búsqueda activa de desarrollo autónomo ante el contexto nacional.",
+    "analisis_profundo": "La dinámica federal actual se refleja en una jornada donde la acción provincial se erige como pilar fundamental frente a un escenario nacional complejo. Un eje central fue la reunión del bloque Norte Grande, que agrupa a los gobernadores Raúl Jalil (Catamarca), Leandro Zdero (Chaco), Gildo Insfrán (Formosa), Carlos Sadir (Jujuy), Ricardo Quintela (La Rioja), Hugo Passalacqua (Misiones), Elías Suárez (Santiago del Estero) y Osvaldo Jaldo (Tucumán). La presencia del ministro del Interior, Diego Santilli, en este encuentro, si bien denota un canal de diálogo, subraya la necesidad de las provincias de unificar reclamos históricos: desde nuevos puentes y la extensión de la Hidrovía hasta la ansiada llegada del gas natural, así como compensaciones tarifarias y el mantenimiento de rutas nacionales. Esta postura conjunta, liderada por Raúl Jalil (Catamarca) como presidente pro témpore, evidencia una clara estrategia de fuerza regional ante el Gobierno central.\n\nEn este marco, Sergio Ziliotto (La Pampa) elevó el tono al solicitar explícitamente un nuevo pacto fiscal federal, argumentando una desproporción en la distribución de recursos y responsabilidades desde 1988, una demanda que conecta directamente con la agenda de la mayoría de los mandatarios. Gustavo Sáenz (Salta) ejemplificó esta tensión al anunciar la financiación provincial de obras en una ruta nacional, la 9/34, conocida como la 'Ruta de la Muerte', debido a demoras en los compromisos nacionales, señalando una proactividad provincial que suple deficiencias federales.\n\nEn el ámbito de la gestión, Axel Kicillof (Buenos Aires) se centró en políticas de igualdad y género, y la inversión en equipamiento escolar, mientras que Jorge Macri (Ciudad Autónoma de Buenos Aires) mantuvo su línea de 'Ley y orden' con declaraciones firmes contra ocupaciones y la delincuencia, además de destacar obras de infraestructura. Rogelio Frigerio (Entre Ríos) reforzó esta línea con un exitoso operativo antidrogas.\n\nLas provincias también mostraron un marcado interés en el desarrollo de infraestructura local y productiva. Ignacio Torres (Chubut) celebró la extensión del acceso al gas en localidades del interior, una necesidad histórica. Claudio Vidal (Santa Cruz) se enfocó en el suministro de agua para productores y la infraestructura de saneamiento. Marcelo Orrego (San Juan) resaltó la reactivación del Canal del Norte para la producción agrícola. Maximiliano Pullaro (Santa Fe) mencionó la inversión en desarrollo rural y un nuevo centro de entrenamiento para bomberos. Martín Llaryora (Córdoba), Claudio Poggi (San Luis), y Gustavo Valdés (Corrientes) priorizaron el apoyo a los bomberos voluntarios, demostrando un foco en la seguridad y servicios de emergencia a nivel local.\n\nFinalmente, la búsqueda de inversión externa fue otra constante, con Alfredo Cornejo (Mendoza) promoviendo activamente proyectos energéticos, mineros y de infraestructura en Londres, y Rolando Figueroa (Neuquén) haciendo lo propio en España, destacando el potencial de Vaca Muerta y la exportación de GNL. Esta doble estrategia de reclamo federal y autonomía con proyección internacional, junto a la fuerte agenda local, configura un clima político tenso pero marcadamente dinámico y centrado en la capacidad de gestión provincial.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamo Federal y Redistribución de Recursos",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@insfran_gildo",
+                "@carlossadirjuy",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura Estratégica",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@frigeriorogelio",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Promoción de Inversiones y Desarrollo Productivo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Apoyo a Servicios de Emergencia y Protección Civil",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "Es necesario un nuevo pacto fiscal federal. Que, como establece la reforma constitucional de 1994, la distribución de los recursos sea según las responsabilidades, funciones y competencias de cada jurisdicción, nacional y provincial. Desde la vigencia de la actual Ley de Coparticipación en 1988, las provincias hemos sumado infinidad de responsabilidades y perdimos recursos. Hoy las provincias tenemos la responsabilidad total o casi total en salud, educación, seguridad, protección social y también en obra pública. Mientras tanto y producto de la pérdida de federalismo, la disminución de recursos del conjunto de las provincias alcanzó en el ejercicio fiscal 2025 la suma de U$D 12.000 millones. Por eso hablamos de una reforma de la que todos seremos responsables, pero de la que ninguno pueda hacerse el distraído con lo que pasó desde 1988 hasta ahora.",
+        "por_que_es_clave": "Este tweet de Ziliotto (La Pampa) encapsula la demanda central de federalismo y justicia fiscal que atraviesa a gran parte de las provincias. Su llamado a un nuevo pacto fiscal, sustentado en datos de pérdida de recursos y asunción de responsabilidades provinciales, expone una de las principales tensiones estructurales entre Nación y las jurisdicciones subnacionales.",
+        "pregunta_openarg": "¿Cómo podría el Gobierno Nacional responder a la demanda de un nuevo pacto fiscal federal sin desestabilizar el equilibrio macroeconómico ni generar nuevas disputas entre provincias?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Políticas de género y equidad",
+                "Gestión educativa",
+                "Apoyo a bomberos voluntarios"
+            ],
+            "postura_politica": "Muestra un enfoque en la gestión social, la inversión pública en educación y el reconocimiento de los servicios esenciales a nivel provincial. Su retórica subraya el valor de la comunidad y la intervención estatal.",
+            "frase_fuerte": "Un encuentro para intercambiar ideas y experiencias que ayudan a seguir fortaleciendo las políticas de género en la provincia 💜"
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad y orden público",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Refuerza una línea dura en seguridad y defensa de la propiedad privada, utilizando una retórica de 'ley y orden' y mostrando acción concreta en infraestructura. Su mensaje polariza con 'defensores de okupas'.",
+            "frase_fuerte": "Aprietes, extorsiones y amenazas. Siempre, con total impunidad. Esto es lo que defienden los defensores de okupas. Se les terminó. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Desarrollo regional (Norte Grande)",
+                "Economía"
+            ],
+            "postura_politica": "Articula una postura regional unificada para la defensa de intereses comunes del Norte Grande ante el Gobierno Nacional, buscando impulsar el desarrollo del país desde la región.",
+            "frase_fuerte": "El Norte Grande tiene desafíos comunes, pero también un enorme potencial para impulsar el desarrollo del país."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo regional (Norte Grande)",
+                "Infraestructura energética rural"
+            ],
+            "postura_politica": "Se alinea con la agenda del Norte Grande para lograr objetivos de infraestructura regional y nacional, mientras destaca logros locales en electrificación rural como un 'anhelo histórico'.",
+            "frase_fuerte": "Avanzamos en una agenda común orientada a fortalecer la integración regional, impulsar inversiones y defender los intereses del Norte argentino."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Acceso a servicios básicos (gas natural)"
+            ],
+            "postura_politica": "Enfatiza la resolución de deudas históricas con las comunidades del interior, priorizando el acceso a servicios esenciales a través de la gestión provincial.",
+            "frase_fuerte": "DESPUÉS DE DIEZ AÑOS, EL GAS VUELVE A LLEGAR A LOS PUEBLOS DEL INTERIOR"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Protección civil",
+                "Bomberos voluntarios"
+            ],
+            "postura_politica": "Centrado en el fortalecimiento de los servicios de emergencia y la seguridad civil, destacando la inversión en equipamiento y el apoyo a los cuarteles de bomberos.",
+            "frase_fuerte": "Ser #BomberoVoluntario es estar siempre dispuesto a acudir cuando alguien necesita ayuda. Es compromiso, valentía y una profunda vocación de servicio."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Bomberos voluntarios"
+            ],
+            "postura_politica": "Reafirma el reconocimiento y la valoración de la labor de los bomberos voluntarios en la comunidad.",
+            "frase_fuerte": "En el Día del Bombero Voluntario, un abrazo a los hombres y las mujeres que transforman en servicio esa profunda vocación de ayudar a la comunidad en sus momentos más difíciles."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el narcotráfico"
+            ],
+            "postura_politica": "Muestra una postura firme y resultados concretos en la lucha contra el crimen organizado y el narcotráfico, destacando la presencia policial y la decisión política provincial.",
+            "frase_fuerte": "Una persecución que terminó como tiene que terminar: con el delincuente detenido y la droga fuera de circulación."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Desarrollo regional (Norte Grande)"
+            ],
+            "postura_politica": "Participa activamente en la consolidación de una agenda regional para el Norte Grande, buscando beneficios conjuntos para las provincias.",
+            "frase_fuerte": "En la sede del @CFI_Argentina, en la ciudad de Buenos Aires, participamos de la reunión de gobernadores del Norte Grande, donde acordamos avanzar en los puntos aquí descriptos."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Desarrollo regional (Norte Grande)",
+                "Infraestructura",
+                "Energía"
+            ],
+            "postura_politica": "Se alinea con la estrategia del Norte Grande para impulsar obras y abordar temas energéticos cruciales para el desarrollo provincial y regional.",
+            "frase_fuerte": "Conversamos sobre temas clave para el desarrollo de nuestras provincias como obras, energía, logística y el acceso al gas natural."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Federalismo fiscal",
+                "Desarrollo productivo",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Aboga por una reconfiguración del pacto fiscal federal y destaca la capacidad provincial para contribuir al desarrollo nacional (Vaca Muerta) mediante la gestión eficiente y el apoyo a pymes.",
+            "frase_fuerte": "Es necesario un nuevo pacto fiscal federal."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Desarrollo regional (Norte Grande)",
+                "Financiamiento productivo",
+                "Uso eficiente del agua",
+                "Colaboración municipal",
+                "Bomberos voluntarios"
+            ],
+            "postura_politica": "Impulsa una agenda de desarrollo integral para La Rioja a través de alianzas regionales y financiamiento, y resalta la importancia de la unidad y el trabajo conjunto a nivel local y federal.",
+            "frase_fuerte": "La unión, el diálogo y el federalismo son el camino para garantizar más oportunidades y un futuro mejor para el Norte Grande."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Inversión extranjera",
+                "Energía",
+                "Minería",
+                "Infraestructura"
+            ],
+            "postura_politica": "Muestra un fuerte énfasis en la atracción de inversiones internacionales, presentando a Mendoza como una provincia con reglas claras y potencial en sectores estratégicos.",
+            "frase_fuerte": "Mendoza está abierta a las inversiones. En Londres presentamos proyectos energéticos, mineros y de infraestructura ante fondos de inversión y empresas internacionales."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Desarrollo regional (Norte Grande)",
+                "Infraestructura",
+                "Cultura"
+            ],
+            "postura_politica": "Defiende los reclamos históricos de Misiones en el marco del Norte Grande y resalta la riqueza cultural de la provincia, posicionándose como anfitrión del próximo encuentro.",
+            "frase_fuerte": "Llevamos con firmeza los reclamos históricos y estratégicos de Misiones: la urgencia de nuevos puentes con los países hermanos, la extensión de la Hidrovía hasta nuestra provincia y la ansiada llegada del gas natural."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inversión extranjera",
+                "Vaca Muerta",
+                "GNL",
+                "Desarrollo económico",
+                "Infraestructura"
+            ],
+            "postura_politica": "Promociona activamente el potencial de Neuquén en mercados europeos, enfocándose en Vaca Muerta y GNL, y subraya la eficiencia estatal y las reglas claras como motor de crecimiento.",
+            "frase_fuerte": "SOMOS UNA PROVINCIA QUE PROMUEVE LA INVERSIÓN"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Inversión productiva",
+                "Desarrollo energético (VMOS, GNL)",
+                "Infraestructura vial",
+                "Salud",
+                "Bomberos voluntarios"
+            ],
+            "postura_politica": "Presenta a Río Negro como una provincia con 'realidades' en inversión y desarrollo energético, destacando la concreción de obras y la fortaleza del sistema de salud y servicios de emergencia con fondos propios.",
+            "frase_fuerte": "Río Negro ya no habla de potencialidades, habla de realidades."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Obras nacionales con financiación provincial"
+            ],
+            "postura_politica": "Demuestra pragmatismo y decisión al asumir la financiación de una ruta nacional clave con fondos provinciales, evidenciando una crítica a la lentitud nacional y priorizando la seguridad y el desarrollo local.",
+            "frase_fuerte": "Aunque es una ruta nacional, decidimos hacernos cargo porque los salteños no podemos seguir esperando."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Infraestructura hídrica",
+                "Producción agrícola",
+                "Fideicomisos mineros"
+            ],
+            "postura_politica": "Destaca la inversión provincial en infraestructura hídrica para el beneficio de la producción agrícola, utilizando mecanismos de financiación innovadores vinculados al sector minero.",
+            "frase_fuerte": "Una obra ejecutada por el Departamento de Hidráulica y financiada a través de fideicomisos mineros permitirá beneficiar a 10.000 hectáreas, impulsando directamente el trabajo de productores y familias del Valle de Jáchal."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Bomberos voluntarios",
+                "Seguridad",
+                "Tecnología en emergencias"
+            ],
+            "postura_politica": "Prioriza el equipamiento y la capacitación de los servicios de emergencia, fortaleciendo la coordinación interinstitucional para la protección civil en la provincia.",
+            "frase_fuerte": "Entregamos ANTENAS SATELITALES a los 34 CUERPOS DE BOMBEROS VOLUNTARIOS de la Pcia. Moderna tecnologia en materia de comunicaciones."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Infraestructura (agua, cloacas)",
+                "Apoyo a productores"
+            ],
+            "postura_politica": "Se enfoca en la concreción de obras y el cumplimiento de promesas históricas en infraestructura y servicios básicos para mejorar la calidad de vida y potenciar la producción en distintas localidades.",
+            "frase_fuerte": "JUNTO A DANIEL GARDONIO ESTAMOS HACIENDO REALIDAD OBRAS QUE FUERON POSTERGADAS DURANTE AÑOS"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Desarrollo rural",
+                "Capacitación en seguridad",
+                "Bomberos voluntarios"
+            ],
+            "postura_politica": "Resalta la importancia del desarrollo de las localidades rurales y el apoyo a los servicios de emergencia, invirtiendo en infraestructura para la capacitación.",
+            "frase_fuerte": "En #Gálvez en el día de los Bomberos Voluntarios reconociendo todo su trabajo, esfuerzo y dedicación que hacen por todos los santafesinos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo regional (Norte Grande)",
+                "Infraestructura",
+                "Rutas nacionales"
+            ],
+            "postura_politica": "Promueve la integración y el desarrollo del Norte Grande, haciendo hincapié en la necesidad de asegurar el mantenimiento de rutas nacionales vitales para la provincia y la región.",
+            "frase_fuerte": "Más integración y obras estratégicas para el desarrollo del @nortegrande_ar 🇦🇷"
+        }
+    ]
+}
