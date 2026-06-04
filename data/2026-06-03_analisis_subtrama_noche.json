@@ -1,0 +1,287 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada exhibe una polarización estratégica: Kicillof y Macri consolidan sus roles como antagonistas del modelo nacional, mientras el Norte Grande negocia infraestructura con Nación. La provincia de Buenos Aires y CABA marcan el ritmo de la disputa federal.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La grieta bonaerense se profundiza. Kicillof, desde Corrientes, construye una red de solidaridad provincial contra el ajuste nacional, mientras Macri refuerza su perfil de orden y seguridad en CABA, señalando a Kicillof como responsable del caos en la provincia. El partido se juega en la General Paz: un muro simbólico que separa dos modelos de gestión. \n\nActo 2 — Los Alineamientos: El Norte Grande se reúne con el ministro Santilli para reclamar obras energéticas y viales. Jalil, Zdero, Quintela, Passalacqua y Sadir muestran una unidad táctica para presionar a Nación por recursos. En contraste, Figueroa y Weretilneck se posicionan en el plano internacional: el primero en España atravesando inversiones para Vaca Muerta, el segundo en Buenos Aires gestionando rutas y el proyecto VMOS. Son los socios que apuestan al desarrollo energético como palanca federal. \n\nActo 3 — La Micro-política: Llaryora vuelve a marcar distancia al financiar con fondos provinciales la autopista Ruta 19, una ruta nacional que Nación abandonó. Saenz hace lo propio con la Ruta 9/34, la \"ruta de la muerte\". Ambos envían un mensaje claro: la gestión local suple el vacío nacional. Mientras, Poggi muestra resultados en comprensión lectora y seguridad rural, un refugio en la agenda educativa para esquivar el debate macro. \n\nActo 4 — Saldo Presidencial: La Casa Rosada logra mantener una tregua operativa con el Norte Grande, pero pierde capital político en la provincia clave: Buenos Aires. Kicillof capitaliza el descontento productivo y Macri refuerza su liderazgo opositor desde la Ciudad. El oficialismo nacional no logra instalar agenda positiva; queda rehén de la disputa entre sus dos rivales más visibles.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación directa entre Kicillof y Macri por seguridad y gestión provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Reunión del Norte Grande con el ministro Santilli para infraestructura y energía",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@carlossadirjuy",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Obras provinciales financiadas con fondos propios por abandono de Nación",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Promoción de inversiones en energía y minería en el exterior",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Gestión local en educación y seguridad como refugio ante la agenda nacional",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @Fran_Casaretto_)",
+        "texto": "HERMOSO PALO DE JORGE MACRI A KICILLOF: \"Nosotros vamos a hacer un muro contra la barbarie y el desgobierno de Kicillof. Los enemigos de nuestro estilo de vida no son bienvenidos.\"",
+        "por_que_es_clave": "Macri utiliza el acto de egreso policial para escenificar la frontera política entre CABA y la provincia de Buenos Aires, consolidando su estrategia de orden y seguridad como antítesis de la gestión Kicillof.",
+        "pregunta_openarg": "¿El 'muro contra la barbarie' de Macri es una declaración de guerra política o una estrategia electoral para 2027?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "presentación de libro",
+                "cooperación con Corrientes",
+                "crítica al modelo económico nacional"
+            ],
+            "postura_politica": "Construye un relato de alternativa al ajuste nacional, tejiendo alianzas con gobernadores periféricos (Valdes) y presentándose como intelectual orgánico del peronismo.",
+            "frase_fuerte": "No es cierto que no haya alternativa. Hay otro camino para nuestro país y se construye con más derechos, más producción y más empleo."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "recuperación de propiedades",
+                "ataque a Kicillof",
+                "educación"
+            ],
+            "postura_politica": "Refuerza su perfil de mano dura y gestión eficiente, utilizando el contraste con la provincia de Buenos Aires como eje de su campaña permanente.",
+            "frase_fuerte": "Nosotros vamos a hacer un muro contra la barbarie y el desgobierno de Kicillof."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "diálogo con Nación",
+                "minería"
+            ],
+            "postura_politica": "Jugada de integración regional: preside el bloque y negocia con Santilli, mostrando capacidad de gestión y perfil dialoguista.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "obra pública provincial"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Participa del Norte Grande pero sin posicionamiento propio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "gas para pueblos",
+                "turismo",
+                "RIGI petrolero"
+            ],
+            "postura_politica": "Cumplidor del ajuste y la inversión privada: muestra gestión en servicios esenciales y se alinea con las grandes empresas energéticas.",
+            "frase_fuerte": "No estamos hablando solamente del acceso a servicios esenciales: estamos hablando de dignidad y de una reparación histórica."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obra pública provincial",
+                "crítica a Nación",
+                "bomberos"
+            ],
+            "postura_politica": "Marca la cancha: financia obra nacional con fondos provinciales y reclama federalismo fiscal. Se posiciona como gestor eficiente frente a la parálisis nacional.",
+            "frase_fuerte": "Es una obra que debería haberse financiado con fondos de la Nación, sin embargo, con recursos provinciales vamos a transformar la 'ruta de la muerte' en la ruta del progreso."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "agencia de inversiones",
+                "aniversario local"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Apuesta a la captación de inversiones con perfil bajo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "narcotráfico",
+                "seguridad"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Último tweet válido del 2 de junio, no hay novedades el 3.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Norte Grande"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Participa del Norte Grande pero sin declaraciones propias el 3 de junio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "embajador británico",
+                "viviendas",
+                "Ironman"
+            ],
+            "postura_politica": "Gestión variada: combina diplomacia, obra pública y promoción turística. Perfil bajo en lo federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "obra pública"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Tweet sobre Vaca Muerta del 2 de junio, no hay novedades el 3.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "ataque al gobierno nacional",
+                "RIGI",
+                "Norte Grande",
+                "género"
+            ],
+            "postura_politica": "Opositor duro: acusa a Nación de saqueo y retaceo de fondos. Se alinea con el discurso kirchnerista más confrontativo.",
+            "frase_fuerte": "Los tipos que hundieron y vendieron al país cada vez que tuvieron oportunidad siguen queriendo mentir y manipular la realidad."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "inversiones",
+                "Londres",
+                "minería"
+            ],
+            "postura_politica": "Agenda internacional: promociona Mendoza como destino de inversiones. Sin tweets el 3 de junio, último relevante es del 2.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "obras viales",
+                "reunión con intendente"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión cotidiana sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "inversiones en España",
+                "GNL",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Embajador energético: busca financiamiento europeo para Vaca Muerta y se alinea con el plan de exportación de GNL.",
+            "frase_fuerte": "Neuquén no quiere ser la cantera del mundo, quiere generar confianza y atraer inversiones para crecer en equipo."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "gestión con Nación",
+                "obra pública",
+                "Ni Una Menos"
+            ],
+            "postura_politica": "Perfil técnico: gestiona rutas, salud y energía con Nación. Se muestra como gestor eficiente, sin conflictos abiertos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "ruta nacional",
+                "viviendas",
+                "gestión con Nación"
+            ],
+            "postura_politica": "Reclama a Nación por obras paralizadas y financia con fondos provinciales. Posicionamiento de gobernador que hace frente a la adversidad.",
+            "frase_fuerte": "Los salteños no podemos seguir esperando."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "minería",
+                "inversiones",
+                "energía solar"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Tweet del 2 de junio sobre riego, no hay novedades el 3.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "comprensión lectora",
+                "seguridad rural"
+            ],
+            "postura_politica": "Refugio en la gestión educativa: muestra resultados y promulga leyes. Evita el debate nacional.",
+            "frase_fuerte": "El camino es la EDUCACIÓN; si, si, claro que hay futuro en San Luis !!!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "seguridad regional",
+                "pozos de agua",
+                "petróleo"
+            ],
+            "postura_politica": "Gestión local con enfoque en producción hidrocarburífera y obras. Perfil bajo en lo nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "AgroActiva",
+                "créditos productivos",
+                "educación",
+                "seguridad"
+            ],
+            "postura_politica": "Se muestra como motor productivo del país, con anuncios de financiamiento y mejoras educativas. Evita la confrontación directa con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Participa del Norte Grande pero sin declaraciones propias el 3 de junio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "reforma constitucional"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Último tweet del 23 de mayo, no hay novedades el 3 de junio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "gestión con Nación",
+                "obra pública"
+            ],
+            "postura_politica": "Articulador regional: recibe a Santilli y coordina con otros gobernadores. Perfil dialoguista y de gestión.",
+            "frase_fuerte": null
+        }
+    ]
+}
