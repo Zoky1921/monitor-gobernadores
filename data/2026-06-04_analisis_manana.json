@@ -1,0 +1,136 @@
+{
+    "clima_general": "FRAGMENTADO",
+    "resumen_ejecutivo": "Los gobernadores transitaron una jornada con agendas diversas y posturas que van desde la crítica abierta a la política nacional hasta la promoción de la autonomía y la inversión provincial. Axel Kicillof (Buenos Aires) cuestionó el modelo económico del gobierno central, mientras que Rogelio Frigerio (Entre Ríos) destacó la transparencia en la administración pública. Rolando Figueroa (Neuquén) se enfocó en la confianza crediticia y la atracción de inversiones internacionales, y Maximiliano Pullaro (Santa Fe) impulsó el sector productivo con créditos y alivios fiscales. La cooperación regional se manifestó en Cuyo con el establecimiento de un ente cultural interprovincial entre San Luis, Mendoza y Santiago del Estero.",
+    "analisis_profundo": "La agenda de los gobernadores se bifurcó entre la autogestión provincial, la búsqueda de inversión externa y una marcada crítica al modelo económico nacional. Axel Kicillof (Buenos Aires) se posicionó como un fuerte opositor al gobierno central, atacando la política económica de Milei y promoviendo el cooperativismo agropecuario como alternativa para el desarrollo federal. Su insistencia en la 'discusión de ideas' y la construcción de modelos propios que valoren la producción y el trabajo refleja una resistencia ideológica al centralismo, destacando el riesgo de 'concentración productiva y desarraigo'.\n\nEn contraste, Rolando Figueroa (Neuquén) mostró una estrategia de apertura a los mercados internacionales, presentando su provincia ante inversores en Londres y destacando la mejora de su calificación crediticia como resultado de un 'Modelo Neuquino' enfocado en el orden fiscal y la inversión en infraestructura. Esta postura resalta la autonomía provincial en la atracción de capitales y el desarrollo económico propio, desvinculándose de la dependencia nacional.\n\nLa colaboración interprovincial fue un tema clave en el oeste, con Claudio Poggi (San Luis), Alfredo Cornejo (Mendoza) y Elías Suárez (Santiago del Estero) impulsando el nuevo Ente Regional Cuyo Cultura. Este tipo de acuerdos demuestra la capacidad de las provincias para generar agendas propias y coordinadas, sin la intervención directa del gobierno nacional, enfocándose en el potencial cultural y económico de la región. Rogelio Frigerio (Entre Ríos) se sumó a una línea de modernización del Estado con la reglamentación del ingreso por concurso, un mensaje de transparencia y eficiencia.\n\nMientras tanto, Maximiliano Pullaro (Santa Fe) reafirmó el rol de su provincia como 'motor productivo' al anunciar un robusto paquete de créditos y alivios fiscales para el sector agroindustrial en la AgroActiva. Esto subraya una política activa de fomento local para mitigar los impactos de la coyuntura económica general. Arabela Carreras (Río Negro) se concentró en la gestión de infraestructura con Nación para el Tren del Valle y rutas, buscando transferencias de competencias para una gestión más eficiente, a la vez que promovía la temporada turística con el apoyo de un ministro nacional. Esta dinámica mixta revela un federalismo en constante tensión y negociación, donde algunas provincias buscan la colaboración mientras otras marcan distancia y construyen agendas alternativas o confrontativas.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la política económica nacional y defensa del desarrollo federal",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Transparencia y modernización del Estado provincial",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Atracción de inversiones y fortalecimiento financiero provincial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Coordinación y desarrollo interprovincial (cultural y productivo)",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Impulso al sector productivo local y financiamiento",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @JavoRodriguezL)",
+        "texto": "Junto con @Kicillofok, nos reunimos con las autoridades de @ACAcoop, @AFASCL y @Fecofe_ltda Analizamos cómo la política económica de Milei acelera la concentración productiva y el desarraigo y coincidimos en el potencial del cooperativismo agropecuario para el desarrollo federal.",
+        "por_que_es_clave": "Este tweet de Axel Kicillof (Buenos Aires) es clave por su crítica explícita y directa a la política económica del gobierno de Javier Milei, señalando sus efectos negativos en la 'concentración productiva y el desarraigo'. Al mismo tiempo, propone una alternativa basada en el cooperativismo y el desarrollo federal, posicionándose como un líder opositor con una visión económica diferenciada.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Crítica a la política económica nacional",
+                "Cooperativismo agropecuario",
+                "Desarrollo federal"
+            ],
+            "postura_politica": "Su postura es de abierta oposición al modelo económico del gobierno nacional. Destaca el potencial del cooperativismo y la producción local como un camino alternativo frente a la 'concentración productiva y el desarraigo' que, según él, genera la política actual.",
+            "frase_fuerte": "Analizamos cómo la política económica de Milei acelera la concentración productiva y el desarraigo y coincidimos en el potencial del cooperativismo agropecuario para el desarrollo federal."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Transparencia en el Estado",
+                "Ingreso por concurso",
+                "Mérito"
+            ],
+            "postura_politica": "Se posiciona como un impulsor de la transparencia y la meritocracia en la administración pública. Su reglamentación de los concursos públicos busca erradicar el 'acomodo y amiguismo', proyectando una imagen de eficiencia y equidad en la gestión provincial.",
+            "frase_fuerte": "Esta decisión busca dejar atrás una lógica de privilegios para construir una cultura del mérito, la transparencia y la igualdad de oportunidades."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Ciberseguridad",
+                "Tecnología",
+                "Protección de infraestructura",
+                "Integración regional cultural"
+            ],
+            "postura_politica": "Impulsa una agenda de modernización y prevención tecnológica, con un proyecto de Ley de Ciberseguridad. Demuestra un enfoque proactivo en la protección de activos críticos y ciudadanos. Además, participa en la conformación del Ente Regional Cuyo Cultura, mostrando vocación de integración regional.",
+            "frase_fuerte": "Necesitamos más herramientas para proteger a los ciudadanos, las empresas y las infraestructuras críticas de la provincia."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Calificación crediticia",
+                "Inversión extranjera",
+                "Reducción de deuda",
+                "Infraestructura"
+            ],
+            "postura_politica": "Proyecta una imagen de gestión fiscal sólida y atractiva para inversores externos. Su 'Modelo Neuquino' enfatiza la eficiencia económica, la reducción de deuda y la inversión en infraestructura, buscando autonomía financiera y desarrollo a largo plazo.",
+            "frase_fuerte": "Este es el Modelo Neuquino: ordenar para redistribuir y transformar esos recursos en más oportunidades para las familias neuquinas."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Gestión con Nación",
+                "Transferencia de competencias",
+                "Tren del Valle",
+                "Rutas nacionales",
+                "Turismo",
+                "Infraestructura energética"
+            ],
+            "postura_politica": "Mantiene una postura pragmática de diálogo y gestión con el gobierno nacional, buscando la transferencia de competencias para una mayor eficiencia provincial. Paralelamente, impulsa el desarrollo turístico y la infraestructura vial vinculada a Vaca Muerta, defendiendo activamente los intereses y el crecimiento de su provincia.",
+            "frase_fuerte": "Defender los intereses de Río Negro es gestionar, dialogar y estar presentes en cada ámbito donde se toman decisiones."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Integración regional cultural",
+                "Industrias culturales",
+                "Relaciones interprovinciales",
+                "Defensa de Malvinas"
+            ],
+            "postura_politica": "Es un promotor activo de la integración regional, especialmente en el ámbito cultural y económico, a través de la creación de un ente interprovincial junto a Mendoza y San Juan. Su participación en eventos federales de cultura y la entrega del libro 'Malvinas, el Legado' refuerzan una visión de desarrollo conjunto y la reafirmación de la soberanía.",
+            "frase_fuerte": "La integración regional nos potencia como Provincia."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Industrias culturales y creativas",
+                "Desarrollo regional",
+                "Empleo"
+            ],
+            "postura_politica": "Participa activamente en el fortalecimiento de las industrias culturales a nivel federal, en el marco del Encuentro Federal de Industrias Culturales y Creativas. Su enfoque subraya el potencial de la cultura para generar desarrollo económico y empleo, conectando la identidad provincial con oportunidades de crecimiento y una mirada federal.",
+            "frase_fuerte": "Creemos en una cultura que fortalece nuestra identidad, pero que también genera desarrollo, empleo y nuevas oportunidades para nuestras comunidades."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Apoyo al sector productivo",
+                "Líneas de crédito",
+                "Alivios fiscales",
+                "Agroindustria"
+            ],
+            "postura_politica": "Se consolida como un defensor del interior productivo, implementando políticas de apoyo económico directo para PyMEs y productores en AgroActiva. Su estrategia se basa en una alianza público-privada para impulsar la inversión y la competitividad, buscando mantener a Santa Fe como un motor clave del país.",
+            "frase_fuerte": "El modelo que defendemos es una alianza entre lo público y lo privado, y desde el @GobSantaFe trabajamos todos los días para que siga creciendo."
+        }
+    ]
+}
