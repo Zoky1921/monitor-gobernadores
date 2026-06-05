@@ -1,0 +1,274 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por el choque directo entre Jorge Macri (CABA) y Axel Kicillof (Buenos Aires), con acusaciones cruzadas de barbarie y desgobierno. En paralelo, los gobernadores petroleros (Figueroa, Weretilneck) capitalizan inversiones del RIGI, mientras Pullaro (Santa Fe) exhibe solvencia fiscal. La mayoría se refugia en gestión local o efemérides, evitando posicionarse sobre el conflicto central.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La pulseada entre el gobierno porteño y el bonaerense acapara la atención. Jorge Macri (CABA) redobla su apuesta de seguridad con el anuncio de un muro de control contra la 'barbarie y el desgobierno de Kicillof', en un acto de egresados policiales. Kicillof, por su parte, desde la semana pasada, profundiza su perfil opositor con críticas al 'Riesgo Milei' y una gira federal que incluyó un libro en Corrientes y acuerdos con Valdés. La disputa trasciende lo local y se instala como el eje simbólico del día: orden versus populismo.\n\nActo 2 — Los Alineamientos: Los gobernadores de provincias con recursos estratégicos marcan perfil propio. Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) se muestran en Londres y con el RIGI energético, respectivamente, consolidándose como socios del modelo de inversión nacional. Maximiliano Pullaro (Santa Fe) suma una mejora crediticia histórica y líneas de crédito en Agroactiva, posicionando a su provincia como isla de eficiencia. En el otro extremo, el peronismo se muestra fragmentado: Jaldo (Tucumán) negocia con Nación, mientras Kicillof mantiene la línea dura.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas optan por una agenda de bajo riesgo. Claudio Vidal (Santa Cruz) enfrenta internamente un conflicto policial, sin escalarlo al plano nacional. Claudio Poggi (San Luis) y Alfredo Cornejo (Mendoza) se enfocan en resultados educativos y culturales. Leandro Zdero (Chaco) y Nacho Torres (Chubut) inauguran obras locales sin mencionar a la Casa Rosada. Es un repliegue táctico que evita tomar partido en la grieta Macri-Kicillof.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no emite señales directas, pero gana en dos frentes: la pelea entre dos distritos centrales desvía el foco de la macroeconomía, mientras los gobernadores alineados con el RIGI y el orden fiscal legitiman el rumbo. Sin embargo, el silencio de la mayoría revela que el respaldo no es entusiasta. El tablero muestra a un oficialismo que negocia con los que gestionan y a una oposición que, por ahora, solo pelea entre sí.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto directo Kicillof-Macri por seguridad y gestión",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Captación de inversiones internacionales y RIGI en Patagonia",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Mejora de calificaciones crediticias provinciales",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Reformas administrativas y transparencia en gestión pública",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Gestión de seguridad y conflictos sociales provinciales",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "No vamos a pedir perdón por cuidar a los porteños.\n\nUn muro de control contra la barbarie y el desgobierno de Kicillof.\n\nLey y orden. https://t.co/DLdWvWGYr1",
+        "por_que_es_clave": "Macri transforma la seguridad en un arma política directa contra Kicillof, marcando el territorio de cara a 2027 y obligando al gobernador bonaerense a responder en el ring de la gestión urbana.",
+        "pregunta_openarg": "Macri tiene razón en que Kicillof no controla el conurbano o es una cortina de humo para ocultar los problemas de CABA?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "vivienda",
+                "cooperativismo",
+                "crítica a modelo económico nacional",
+                "relaciones provinciales"
+            ],
+            "postura_politica": "Refuerza su perfil opositor y de intelectual peronista. Critica el 'Riesgo Milei' y construye alianzas provinciales (Corrientes) para marcar autonomía frente a Nación.",
+            "frase_fuerte": "El riesgo que enfrenta hoy la Argentina es el 'Riesgo Milei', donde el verdadero peligro es que el Presidente siga profundizando este desastre económico"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "orden urbano",
+                "confrontación con Kicillof"
+            ],
+            "postura_politica": "Se presenta como garante del orden frente al caos bonaerense. Utiliza la seguridad como plataforma de posicionamiento nacional y ataque directo al kirchnerismo.",
+            "frase_fuerte": "Un muro de control contra la barbarie y el desgobierno de Kicillof."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "relaciones internacionales",
+                "reconocimiento diplomático"
+            ],
+            "postura_politica": "Agenda protocolar sin impacto federal. Se limita a compartir un logro diplomático menor.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "salud",
+                "transparencia",
+                "gestión de recursos"
+            ],
+            "postura_politica": "Destaca eficiencia en el uso de fondos públicos al financiar obras con subastas. Mensaje de buena gestión, sin confrontar con Nación.",
+            "frase_fuerte": "¡LOS RECURSOS DE LA GENTE, VUELVEN A LA GENTE!"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "vivienda",
+                "reconstrucción post incendio",
+                "homenaje"
+            ],
+            "postura_politica": "Gestiona emergencias locales y cumple promesas. Evita pronunciarse sobre la macroeconomía o la relación con Nación.",
+            "frase_fuerte": "Porque cuando nos comprometimos a que cada vecino de El Hoyo tuviera su casa antes del invierno, no estábamos haciendo un anuncio más."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "infraestructura vial",
+                "obras públicas"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Muestra gestión de obras provinciales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "duelo",
+                "homenaje"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Sin posicionamiento político relevante.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "inversión en infraestructura",
+                "reforma administrativa",
+                "transparencia"
+            ],
+            "postura_politica": "Se posiciona como reformista, promoviendo el concurso público y la eficiencia. Un gesto de buena gestión que implícitamente critica a gestiones anteriores.",
+            "frase_fuerte": "Se terminó el gasto para el acomodo y el amiguismo."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en el período analizado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "educación",
+                "deporte"
+            ],
+            "postura_politica": "Agenda local y promocional (becas, ironman). Sin posicionamiento federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "vivienda",
+                "infraestructura local"
+            ],
+            "postura_politica": "Gestión local directa. Entrega de viviendas, sin menciones a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "aniversario",
+                "saludo institucional"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "inversión privada",
+                "educación",
+                "cultura",
+                "ciberseguridad"
+            ],
+            "postura_politica": "Muestra una gestión diversificada: atrae inversiones (Mercado Libre), mejora indicadores educativos y firma acuerdos regionales. Se posiciona como gestor moderno, sin confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "educación ambiental",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local con foco en el cuidado ambiental y reuniones con intendentes. Sin tensión federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "inversiones internacionales",
+                "mejora crediticia",
+                "proyecto GNL"
+            ],
+            "postura_politica": "Se consolida como un gobernador pro-mercado, atrayendo capitales y mejorando la calificación crediticia. Alineado con el RIGI y la estrategia energética del gobierno nacional.",
+            "frase_fuerte": "Neuquén genera confianza en los mercados internacionales."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "inversión energética",
+                "salud",
+                "infraestructura",
+                "turismo"
+            ],
+            "postura_politica": "Muy activo: anuncia inversión multimillonaria en GNL, financiamiento para salud y obras viales. Se muestra como gestor eficaz que aprovecha el RIGI y la relación con Nación.",
+            "frase_fuerte": "USD 1.300 MILLONES PARA EL PROYECTO DE GNL EN RÍO NEGRO"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "infraestructura vial"
+            ],
+            "postura_politica": "Anuncia avances en autopista provincial. Gestión local sin conflicto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "financiamiento",
+                "obras"
+            ],
+            "postura_politica": "Destaca la aprobación legislativa para financiar obras. Gestión local, sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "cultura regional",
+                "educación",
+                "seguridad rural"
+            ],
+            "postura_politica": "Firma el Ente Regional Cuyo Cultura y presenta avances en comprensión lectora y patrulla rural. Muestra cooperación regional y reformas educativas, sin atacar ni defender a Nación.",
+            "frase_fuerte": "El camino es la EDUCACIÓN ; si , si , claro que hay futuro en San Luis !!!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "conflicto policial",
+                "seguridad regional"
+            ],
+            "postura_politica": "Enfrenta una medida de fuerza policial y busca contenerla con diálogo. Al mismo tiempo, participa en encuentro patagónico de seguridad. Su postura es de gestión de crisis interna.",
+            "frase_fuerte": "Entiendo el reclamo. Lo considero justo. Sé de las dificultades que atraviesan muchas familias en este momento"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "agroindustria",
+                "créditos",
+                "mejora crediticia",
+                "educación"
+            ],
+            "postura_politica": "Se muestra como el gobernador eficiente: baja impuestos, mejora calificación crediticia, impulsa créditos y educación. Modelo de gestión que compite con la narrativa nacional.",
+            "frase_fuerte": "Santa Fe alcanzó la mejor calificación crediticia de su historia y consolida su fortaleza financiera"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "cultura",
+                "industrias creativas"
+            ],
+            "postura_politica": "Participa en encuentro federal de industrias culturales. Agenda de cooperación regional, sin impacto federal directo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en el período analizado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "relaciones institucionales",
+                "gestión"
+            ],
+            "postura_politica": "Se reúne con el ministro del Interior Santilli, mostrando diálogo y búsqueda de acuerdos con Nación. Posicionamiento de perfil bajo pero negociador.",
+            "frase_fuerte": "Coincidimos en la necesidad de seguir avanzando en una agenda compartida basada en el respeto institucional"
+        }
+    ]
+}

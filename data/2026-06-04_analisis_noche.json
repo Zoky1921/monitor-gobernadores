@@ -1,0 +1,242 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por un notorio énfasis en la gestión provincial y la búsqueda de autonomía económica, aunque con claras tensiones políticas interprovinciales y con el gobierno nacional. Jorge Macri (Ciudad Autónoma de Buenos Aires) elevó el tono confrontativo hacia Axel Kicillof (Buenos Aires) por seguridad, quien a su vez criticó las políticas económicas nacionales. Varios gobernadores, como Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro), destacaron la atracción de inversiones y la mejora de calificaciones crediticias. Otros mandatarios se enfocaron en la concreción de obras de infraestructura local y social con fondos propios o gestionados. La cultura y la educación fueron pilares de integración regional en Cuyo, mientras Claudio Vidal (Santa Cruz) enfrentó una delicada huelga policial, sumando una capa de conflictividad interna.",
+    "analisis_profundo": "La agenda de los gobernadores exhibió una dicotomía entre la confrontación política y la gestión pragmática. Por un lado, Jorge Macri (Ciudad Autónoma de Buenos Aires) intensificó su retórica, construyendo una narrativa de 'muro de control contra la barbarie y el desgobierno de Kicillof', lo que subraya una marcada polarización entre CABA y la provincia de Buenos Aires en temas de seguridad y modelos de gestión. Axel Kicillof (Buenos Aires) respondió a este panorama con un discurso centrado en la crítica a la política económica de Milei, abogando por el cooperativismo agropecuario y la necesidad de modelos de desarrollo que prioricen la producción, el trabajo y la industria, posicionándose como una alternativa al modelo nacional. Este intercambio directo y polarizado contribuyó a un clima político general tenso.\n\nEn un frente más orientado al desarrollo económico, Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) proyectaron sus provincias a nivel internacional. Figueroa destacó la mejora en la calificación crediticia de Neuquén y las reuniones con inversores en Londres, buscando posicionar a Vaca Muerta como motor de un crecimiento global. Weretilneck celebró la aprobación del proyecto de GNL en el marco del RIGI, una inversión multimillonaria que consolida a Río Negro como un punto estratégico para la exportación energética argentina. Maximiliano Pullaro (Santa Fe) también resaltó la mejor calificación crediticia histórica de su provincia y el lanzamiento de un robusto paquete de créditos y alivios fiscales para el sector agroindustrial, enfatizando la alianza público-privada como eje de su gestión. Estas iniciativas evidencian una búsqueda activa de financiamiento y desarrollo por fuera o en complemento de la asistencia federal.\n\nLa inversión en infraestructura local siguió siendo una prioridad clave para muchos. Leandro Zdero (Chaco) anunció obras hospitalarias financiadas con recursos de subastas públicas, mientras Martín Llaryora (Córdoba) impulsó la construcción de puentes estratégicos. Gustavo Sáenz (Salta) y Marcelo Orrego (San Juan) también destacaron la ejecución de obras viales con fondos provinciales, adaptándose a un contexto de menor inversión nacional. Sergio Ziliotto (La Pampa) continuó priorizando la vivienda social y la infraestructura comunitaria.\n\nLa educación y la cultura también tuvieron su espacio. Alfredo Cornejo (Mendoza), Claudio Poggi (San Luis) y Elías Suárez (Santiago del Estero) impulsaron la creación del Ente Regional Cuyo Cultura y la promoción de industrias creativas. Poggi (San Luis) además reportó avances significativos en comprensión lectora. Finalmente, la seguridad emergió como un tema de conflicto interno en Santa Cruz, donde Claudio Vidal (Santa Cruz) hizo un llamado a la responsabilidad ante una medida de fuerza policial, mientras Rogelio Frigerio (Entre Ríos) avanzaba en la transparencia del ingreso estatal por concurso.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación Política y Modelos Económicos Nacionales",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok",
+                "@OsvaldoJaldo",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Atracción de Inversiones y Fomento Productivo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@alfredocornejo",
+                "@maxipullaro",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Gestión y Financiamiento de Obras de Infraestructura",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@LeandroZdero",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Educación, Cultura y Federalismo Regional",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Seguridad Provincial y Modernización Estatal",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@frigeriorogelio",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "No vamos a pedir perdón por cuidar a los porteños. Un muro de control contra la barbarie y el desgobierno de Kicillof. Ley y orden.",
+        "por_que_es_clave": "Este tweet de Jorge Macri (Ciudad Autónoma de Buenos Aires) es clave por su tono abiertamente confrontativo y su clara demarcación política con la provincia de Buenos Aires, utilizando un lenguaje de 'ley y orden' y acusaciones directas de 'barbarie y desgobierno'. Refleja la polarización interjurisdiccional y define una línea dura en la disputa por la seguridad y la gestión.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al modelo económico nacional",
+                "Desarrollo productivo y cooperativismo",
+                "Gestión de vivienda"
+            ],
+            "postura_politica": "Mantiene una postura crítica hacia el modelo económico del gobierno nacional, argumentando su impacto negativo en la concentración productiva. Propone alternativas basadas en el cooperativismo y la discusión de ideas para un desarrollo con producción, trabajo e industria. Destaca también la gestión de vivienda local.",
+            "frase_fuerte": "Frente a quienes sostienen que no hay alternativas y pretenden imponer una sola forma de pensar la economía, este libro reivindica la discusión de ideas y la necesidad de construir modelos de desarrollo que tengan como horizonte la producción, el trabajo y la industria."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad y orden",
+                "Confrontación interprovincial"
+            ],
+            "postura_politica": "Se posiciona como defensor de la 'ley y el orden' en la Ciudad Autónoma de Buenos Aires, con un discurso abiertamente confrontativo hacia la provincia de Buenos Aires. Busca diferenciar su gestión mediante una postura firme en seguridad y una clara polarización política.",
+            "frase_fuerte": "No vamos a pedir perdón por cuidar a los porteños. Un muro de control contra la barbarie y el desgobierno de Kicillof. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Gestión de salud",
+                "Transparencia en recursos públicos"
+            ],
+            "postura_politica": "Demuestra una gestión activa en el ámbito de la salud, financiando obras hospitalarias mediante la subasta de bienes en desuso. Enfatiza la transparencia y el retorno de los recursos a la ciudadanía como un pilar de su administración.",
+            "frase_fuerte": "¡LOS RECURSOS DE LA GENTE, VUELVEN A LA GENTE! Avanzamos en más y nuevas obras para el Hospital Perrando CON LO RECAUDADO DE LAS SUBASTAS PÚBLICAS!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Compromiso de gestión"
+            ],
+            "postura_politica": "Resalta el cumplimiento de promesas de vivienda a familias afectadas por incendios, enfatizando el valor de la palabra y la responsabilidad de su gobierno en la reconstrucción. Proyecta una imagen de cercanía y eficiencia ante las necesidades de los chubutenses.",
+            "frase_fuerte": "Porque cuando nos comprometimos a que cada vecino de El Hoyo tuviera su casa antes del invierno, no estábamos haciendo un anuncio más. Estábamos asumiendo una responsabilidad y dando nuestra palabra. Y la cumplimos."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura provincial",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Impulsa obras de infraestructura estratégica en el interior provincial para mejorar la conectividad y el crecimiento regional. Se presenta como un gestor enfocado en el 'progreso para Córdoba', buscando integrar cada región y generar oportunidades locales.",
+            "frase_fuerte": "Así es como seguimos construyendo #progreso para Córdoba: con más infraestructura, integrando cada región y generando oportunidades de norte a sur y de este a oeste de nuestra provincia."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Inversión en infraestructura",
+                "Transparencia y mérito en el Estado"
+            ],
+            "postura_politica": "Anuncia inversiones significativas en rutas y vialidad, gestionando financiamiento internacional para revertir el deterioro. Complementa esto con una reforma para el ingreso a la administración pública por concurso, priorizando el mérito sobre el 'acomodo y amiguismo'.",
+            "frase_fuerte": "Reglamentamos el ingreso por concurso abierto, público y transparente. Y mientras estuvimos trabajando en esta reforma, nadie ingresó a la planta permanente porque así lo dispuse desde el primer día."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Salud pública",
+                "Promoción turística"
+            ],
+            "postura_politica": "Destaca la inversión en salud pública con becas para estudiantes de medicina, reforzando el compromiso con este servicio esencial. Asimismo, promueve la provincia como destino turístico y sede de eventos internacionales, buscando generar desarrollo.",
+            "frase_fuerte": "6 becas para estudiantes de Medicina que representan una apuesta a nuestra salud pública."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Infraestructura social y deportiva"
+            ],
+            "postura_politica": "Prioriza el acceso a la vivienda y la mejora de la infraestructura social y deportiva en el ámbito local. Su gestión se enfoca en asegurar que cada pampeano tenga las mismas oportunidades, enfatizando la importancia de cada localidad en el desarrollo provincial.",
+            "frase_fuerte": "Cada localidad importa en nuestra provincia. Por eso seguimos trabajando para que cada pampeano tenga las mismas oportunidades, viva donde viva."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Atracción de inversiones",
+                "Desarrollo tecnológico",
+                "Educación",
+                "Integración cultural regional"
+            ],
+            "postura_politica": "Posiciona a Mendoza como un polo de desarrollo e inversión, atrayendo a grandes empresas y promoviendo la ciberseguridad. Impulsa mejoras en educación y la creación de un ente cultural regional para potenciar el sector creativo, buscando que Mendoza esté 'preparada para los desafíos del presente y del futuro'.",
+            "frase_fuerte": "Mendoza quiere estar preparada para los desafíos del presente y del futuro. Por eso impulsamos esta ley y promovemos espacios como la White Hat Conference, que reunió en nuestra provincia a especialistas de todo el mundo para debatir cómo enfrentar el ciberdelito."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Educación ambiental",
+                "Protección del patrimonio natural"
+            ],
+            "postura_politica": "Enfatiza el compromiso de las nuevas generaciones con la protección de los recursos naturales y la biodiversidad de Misiones. Impulsa la educación ambiental como un pilar para el cuidado del patrimonio, buscando inculcar el amor por la naturaleza en la juventud.",
+            "frase_fuerte": "Emociona ver a nuestros chicos y chicas comprometerse con el cuidado y protección de lo que más nos identifica, nuestros recursos naturales, biodiversidad y nuestra identidad cultural misionera."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Atraer inversiones internacionales",
+                "Desarrollo energético",
+                "Orden fiscal"
+            ],
+            "postura_politica": "Posiciona a Neuquén como una provincia atractiva para la inversión global, especialmente en el sector energético, mediante una gestión fiscal ordenada y la reducción de la deuda. Proyecta un 'Modelo Neuquino' enfocado en 'crecer con el mundo' y transformar los recursos en oportunidades.",
+            "frase_fuerte": "Este es el Modelo Neuquino: ordenar para redistribuir y transformar esos recursos en más oportunidades para las familias neuquinas."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo energético (GNL)",
+                "Infraestructura de salud",
+                "Gestión de obras"
+            ],
+            "postura_politica": "Destaca la aprobación de un gran proyecto de GNL que posiciona a Río Negro en el mapa global energético. Asegura financiamiento BID para modernizar el sistema de salud y mantiene un ritmo activo de gestión de obras, consolidando un 'rumbo' de desarrollo basado en inversiones y decisiones concretas.",
+            "frase_fuerte": "La obra conectará Vaca Muerta con la costa rionegrina para abastecer las unidades flotantes de licuefacción que exportarán gas argentino al mundo desde el Golfo San Matías."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Gestión provincial de obras"
+            ],
+            "postura_politica": "Muestra una gestión proactiva al financiar obras viales clave con recursos provinciales, asumiendo la responsabilidad de proyectos nacionales para el desarrollo y la seguridad. Enfatiza su compromiso con 'Hechos, no palabras' para transformar la realidad de Salta.",
+            "frase_fuerte": "Con recursos provinciales, seguimos invirtiendo en la infraestructura que Salta necesita para crecer y desarrollarse."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Obra pública y financiamiento",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Celebra la aprobación legislativa de financiamiento para obras, presentándolo como un 'paso clave' para el futuro de San Juan. Su gestión se enfoca en la responsabilidad y planificación para generar desarrollo, empleo e infraestructura para los sanjuaninos.",
+            "frase_fuerte": "San Juan dio un paso clave para construir su futuro. Gracias a los legisladores que acompañaron la autorización para avanzar con financiamiento destinado a obras, infraestructura, trabajo y desarrollo."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Seguridad rural",
+                "Integración regional cultural"
+            ],
+            "postura_politica": "Prioriza la educación, evidenciando 'sustanciales avances' en comprensión lectora que ha transformado en política de Estado. Refuerza la seguridad rural con inversión en equipamiento y capacitación. También impulsa la cooperación cultural regional con las provincias de Cuyo.",
+            "frase_fuerte": "En primero, segundo y tercer grado de la primaria, en abril del 2024, solo el 35 % de los chicos 'comprendían lo que leían' ; dos años después, en Abril del 2026 el porcentaje ascendió al 85 % de los chicos. ESPECTACULAR !!!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Crisis salarial policial",
+                "Diálogo social",
+                "Responsabilidad provincial"
+            ],
+            "postura_politica": "Aborda directamente la crisis por una huelga policial, llamando al diálogo y a la 'responsabilidad' de todos los sectores. Reconoce las dificultades económicas y la justicia del reclamo, pero critica los 'obstáculos' a la gestión, mostrando liderazgo en momentos de tensión interna.",
+            "frase_fuerte": "También es necesario que la sociedad observe con atención que mientras buscamos herramientas para fortalecer las finanzas provinciales y mejorar la capacidad de respuesta del Estado, hay sectores que siguen poniendo obstáculos sin entender que cuando a la provincia le va mal, nos va mal a todos."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Desarrollo agroindustrial",
+                "Créditos y alivio fiscal",
+                "Modelo público-privado"
+            ],
+            "postura_politica": "Posiciona a Santa Fe como el 'corazón productivo del país', destacando el apoyo al sector agroindustrial con líneas de crédito y reducción de impuestos. Enfatiza un 'modelo de Provincia distinto' basado en la potenciación de la alianza entre el sector público y el privado.",
+            "frase_fuerte": "Este es un modelo de Provincia distinto. Acá el sector privado y el público se potencian! No se pierdan Agroactiva 2026! 💪💪💪"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Industrias culturales",
+                "Desarrollo creativo regional"
+            ],
+            "postura_politica": "Participa activamente en la promoción de las industrias culturales y creativas, destacando su potencial como motor de desarrollo, empleo y fortalecimiento de la identidad provincial. Apuesta por una cultura que 'genera desarrollo, empleo y nuevas oportunidades'.",
+            "frase_fuerte": "Creemos en una cultura que fortalece nuestra identidad, pero que también genera desarrollo, empleo y nuevas oportunidades para nuestras comunidades."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Diálogo con Nación",
+                "Infraestructura energética",
+                "Federalismo"
+            ],
+            "postura_politica": "Se reúne con ministros nacionales para fortalecer los vínculos institucionales y avanzar en una agenda federal que incluye obras energéticas y compensaciones tarifarias. Destaca la necesidad de una relación 'madura y permanente' entre Nación y provincias para dar respuestas concretas y reducir desigualdades.",
+            "frase_fuerte": "En un contexto que exige responsabilidad y articulación entre los distintos niveles del Estado, ratificamos la importancia de sostener una relación madura y permanente entre la Nación y las provincias, con una visión federal y orientada a brindar respuestas concretas a la comunidad."
+        }
+    ]
+}
