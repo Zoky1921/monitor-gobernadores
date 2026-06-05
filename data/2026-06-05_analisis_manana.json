@@ -1,0 +1,159 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal revela un clima tenso, donde la defensa de la autonomía provincial y las demandas económicas al Gobierno Nacional marcan la agenda. Jorge Macri (Ciudad Autónoma de Buenos Aires) intensificó su retórica de 'ley y orden', confrontando directamente con la provincia de Buenos Aires. Por otro lado, Raúl Jalil (Catamarca) y Alberto Weretilneck (Río Negro) celebraron la aprobación de importantes inversiones mineras y energéticas en el marco del RIGI. Maximiliano Pullaro (Santa Fe) demandó la eliminación permanente de las retenciones. La gestión de obras de infraestructura, salud pública y desarrollo local completó la actividad de los gobernadores, enfocados en respuestas a las necesidades de sus distritos.",
+    "analisis_profundo": "El escenario federal se presenta con una notoria heterogeneidad en las prioridades y las relaciones interjurisdiccionales, reflejando un pulso de tensión y autonomía provincial. Un eje central es la defensa de la gestión local y la marcación de diferencias con otros niveles de gobierno. Jorge Macri (Ciudad Autónoma de Buenos Aires) reitera su postura de 'ley y orden' y refuerza la división con la provincia de Buenos Aires, mencionando un 'muro de control' contra el 'desgobierno de Kicillof'. Esta retórica busca solidificar su gestión en seguridad y demarcar claramente su modelo.\n\nParalelamente, la economía productiva y las inversiones estratégicas dominan la agenda de varias provincias. Raúl Jalil (Catamarca) y Alberto Weretilneck (Río Negro) destacan la reciente aprobación de proyectos en el marco del Régimen de Incentivo a Grandes Inversiones (RIGI), especialmente en minería (litio) y energía (gasoducto San Matías). Estos anuncios subrayan el peso de las políticas nacionales para el desarrollo de recursos estratégicos, aunque las provincias se posicionan como actores clave en su implementación. Maximiliano Pullaro (Santa Fe) profundiza el debate económico al exigir la eliminación permanente de las retenciones al sector productivo, una demanda histórica del interior que revela la fricción entre la recaudación federal y la rentabilidad regional.\n\nEn el plano de la gestión, Hugo Passalacqua (Misiones) y Rolando Figueroa (Neuquén) priorizan obras de infraestructura esenciales como drenajes y plantas de tratamiento cloacal, destacando la financiación propia o con apoyo de organismos internacionales. Alfredo Cornejo (Mendoza) se enfoca en la salud pública con programas de prevención. Leandro Zdero (Chaco) y Gustavo Sáenz (Salta) también resaltan la inversión en equipamiento educativo e infraestructura vial, respectivamente. Estas acciones buscan fortalecer la calidad de vida local y la capacidad de respuesta de los estados provinciales, a menudo supliendo o complementando roles ante el repliegue de financiamiento nacional en ciertas áreas. La polarización política y las divergencias económicas persisten, aunque se observan puntos de convergencia en la búsqueda de inversiones y desarrollo productivo, demostrando un constante equilibrio entre el diálogo y la defensa de los intereses específicos provinciales.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo Minero y Energético / RIGI",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Servicios Esenciales (Vial, Hídrica, Saneamiento)",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y 'Ley y Orden'",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Federalismo Económico y Políticas Fiscales",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Salud Pública y Programas de Prevención",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Si le sacan el pie de encima a los que producen, el interior demuestra todo lo que puede dar. Volvemos a pedirle al Gobierno Nacional que la baja de retenciones se convierta en una medida permanente, porque sabemos que eso va a impactar de manera muy positiva en toda la región productiva de la Argentina. Santa Fe es sinónimo de producción y nuestro modelo es defender la alianza entre lo público y lo privado, y a los que empujan el carro todos los días 💪🏽",
+        "por_que_es_clave": "Este post articula claramente la demanda de las provincias productivas hacia el Gobierno Nacional por políticas fiscales que impulsen el desarrollo regional. La mención de las retenciones y la defensa de un modelo de alianza público-privada en el interior marca una postura federalista fuerte y una tensión económica clave.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Control Interjurisdiccional",
+                "Ley y Orden"
+            ],
+            "postura_politica": "Adopta una línea dura en seguridad, enfatizando la autonomía de la Ciudad y marcando una confrontación explícita con la gestión de la Provincia de Buenos Aires.",
+            "frase_fuerte": "no pienso pedir perdón por cuidar a los porteños."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "RIGI",
+                "Inversión Energética",
+                "Minería de Litio",
+                "Relaciones Internacionales"
+            ],
+            "postura_politica": "Promueve activamente la inversión en recursos estratégicos bajo el marco del RIGI, enfatizando el desarrollo productivo y la integración en proyectos binacionales. Destaca la importancia de las relaciones exteriores.",
+            "frase_fuerte": "El Comité RIGI aprobó hoy dos nuevos proyectos.🇦🇷🇦🇷🇦🇷 El gasoducto San Matías por una inversión total de USD1.300 millones [...] y la segunda etapa del proyecto de litio Sal de Oro en Salta y Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "Jóvenes",
+                "Equipamiento Local"
+            ],
+            "postura_politica": "Se enfoca en la inversión en educación y juventud, priorizando el equipamiento y la mejora de espacios para el desarrollo local y el fortalecimiento de las instituciones educativas.",
+            "frase_fuerte": "Jóvenes, estudiantes y docentes de Quitilipi fortalecen sus espacios con más y nuevo equipamiento que los acompañará día a día."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Cultura",
+                "Reconocimiento Público",
+                "Historia Local"
+            ],
+            "postura_politica": "Muestra un fuerte compromiso con el reconocimiento de figuras culturales y locales, resaltando su legado y su contribución a la identidad provincial. Prioriza la cercanía con la gente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Prevención",
+                "Programas Comunitarios"
+            ],
+            "postura_politica": "Demuestra un compromiso con la expansión de servicios de salud preventiva, destacando el rol de la comunidad y los clubes en la promoción de hábitos saludables para la población.",
+            "frase_fuerte": "Hoy entregamos 1.000 tensiómetros a clubes y centros de salud de toda la provincia a través del programa Jugá sin Presión."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Obras Públicas",
+                "Infraestructura Local",
+                "Presupuesto Participativo"
+            ],
+            "postura_politica": "Impulsa obras de infraestructura urbana en colaboración con la comunidad, destacando la importancia de la participación ciudadana en la identificación y resolución de problemáticas locales.",
+            "frase_fuerte": "Lo más valioso es que estas obras fueron definidas por la propia comunidad a través del Presupuesto Participativo, demostrando que cuando escuchamos y trabajamos juntos, las soluciones llegan donde más se necesitan."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Gestión Hídrica",
+                "Saneamiento",
+                "Infraestructura",
+                "Medio Ambiente"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura clave para el saneamiento y la gestión del agua, con una visión de planificación a largo plazo y protección de los recursos naturales para las futuras generaciones.",
+            "frase_fuerte": "Cuidar el ambiente es también cuidar uno de nuestros recursos más valiosos: el agua."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Turismo",
+                "Inversión Energética (RIGI)",
+                "Infraestructura Hídrica",
+                "Salud Pública",
+                "Seguridad"
+            ],
+            "postura_politica": "Activo en la promoción turística de Bariloche, impulsa grandes obras de infraestructura hídrica y energética (RIGI), y trabaja en la mejora de servicios públicos como salud y seguridad, buscando el desarrollo integral de la provincia.",
+            "frase_fuerte": "USD 1.300 MILLONES PARA EL PROYECTO DE GNL EN RÍO NEGRO El Comité RIGI aprobó el Gasoducto Dedicado San Matías, una inversión de USD 1.300 millones que forma parte del proyecto de GNL de Southern Energy (SESA)."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Inversión Provincial",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Enfatiza la inversión en obras de infraestructura vial con recursos provinciales, asumiendo la responsabilidad ante proyectos nacionales demorados para impulsar el crecimiento y desarrollo de la provincia.",
+            "frase_fuerte": "La Autopista del Valle de Lerma mejorará la seguridad vial y acompañará el crecimiento de Salta durante los próximos 50 años. Con recursos provinciales, seguimos invirtiendo en la infraestructura que Salta necesita para crecer y desarrollarse."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Economía Productiva",
+                "Retenciones",
+                "Federalismo Económico",
+                "Soberanía"
+            ],
+            "postura_politica": "Firme crítico de las retenciones nacionales, defensor del sector productivo y la autonomía económica del interior, vinculando la soberanía con el desarrollo productivo y la alianza público-privada.",
+            "frase_fuerte": "Volvemos a pedirle al Gobierno Nacional que la baja de retenciones se convierta en una medida permanente, porque sabemos que eso va a impactar de manera muy positiva en toda la región productiva de la Argentina."
+        }
+    ]
+}
