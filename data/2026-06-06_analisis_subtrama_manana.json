@@ -1,0 +1,104 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por gestiones de inversión en energía (Figueroa y Weretilneck) y homenajes al Indio Solari. El resto de los gobernadores optó por el silencio o la agenda local, sin confrontación directa con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: No hay un conflicto fiscal abierto hoy. La atención se concentra en el avance de proyectos energéticos en Neuquén y Río Negro, con el RIGI como telón de fondo. El gobierno nacional capitaliza estos anuncios como señales de inversión.\n\nActo 2 — Los Alineamientos: Figueroa y Weretilneck se posicionan como aliados del modelo de atracción de capitales. Saenz, Poggi y Jaldo centran su discurso en lo local o en efemérides, sin alinearse con la Casa Rosada pero tampoco confrontando. Passalacqua denuncia la pérdida de rentabilidad del productor yerbatero, un guiño al interior productivo que sufre el ajuste.\n\nActo 3 — La Micro-política: Figueroa muestra obras en la Ruta 6 y avances en GNL, reforzando su perfil de gestión. Weretilneck impulsa obras de agua y electricidad en localidades menores. Poggi comparte una entrevista y entrega de viviendas. Saenz y Jaldo se suman al duelo cultural por Solari, evitando temas fiscales.\n\nActo 4 — Saldo Presidencial: El oficialismo capitaliza los anuncios de inversión en Vaca Muerta y GNL, mientras que la mayoría de los gobernadores evitan el conflicto. No hay señales de rebelión fiscal ni contraofensiva peronista. El saldo es neutro para la Casa Rosada, que logra oxígeno con las buenas nuevas energéticas.",
+    "temas_calientes": [
+        {
+            "tema": "Inversiones en GNL y energía (RIGI, Vaca Muerta)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Homenaje a Carlos 'Indio' Solari",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Agenda local y obras de infraestructura",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Denuncia de pérdida en producción yerbatera",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "ACUERDO CLAVE PARA POTENCIAR EL PROYECTO GNL\n\nFirmamos junto a @HoracioMarin_ok, en representación de la provincia y la empresa @YPFoficial, un acuerdo estratégico destinado a mejorar la competitividad del proyecto de gas natural licuado (GNL), en una apuesta de largo plazo para posicionar a la Argentina como exportador global de energía a partir del aporte fundamental de Vaca Muerta.\n\nLos equipos técnicos vienen trabajando desde hace ocho meses y vamos a enviar el acuerdo a la Legislatura para su aprobación. Es un cambio histórico para Neuquén, porque garantiza inversiones y consolida una nueva etapa de desarrollo.",
+        "por_que_es_clave": "Figueroa firma con YPF un acuerdo que blinda el proyecto GNL, alineándose con la estrategia nacional de exportación energética y posicionando a Neuquén como epicentro. Es un guiño a la Casa Rosada y a los mercados, en contraste con gobernadores que evaden el debate.",
+        "pregunta_openarg": "¿El acuerdo GNL de Figueroa con YPF consolida un nuevo bloque de poder energético en Vaca Muerta o es una concesión que hipoteca recursos a largo plazo?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "pérdida de productor yerbatero",
+                "agenda local"
+            ],
+            "postura_politica": "Denuncia la pérdida de rentabilidad del pequeño productor, marcando distancia con el modelo económico nacional. Pero lo hace a través de un retweet, sin confrontación directa. Es un recordatorio de que Misiones sufre el ajuste.",
+            "frase_fuerte": "Un pequeño productor yerbatero que cosecha 30.000 kilos está perdiendo hoy cerca de $15 millones por cosecha."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "GNL",
+                "Yacimiento Vaca Muerta",
+                "obras viales",
+                "turismo",
+                "agua y saneamiento"
+            ],
+            "postura_politica": "Se muestra como gestor eficiente y aliado de las grandes inversiones. Su acuerdo con YPF es una señal de confianza institucional. Refuerza su perfil de gobernador modernizador, lejos de la confrontación con Nación.",
+            "frase_fuerte": "Es un cambio histórico para Neuquén, porque garantiza inversiones y consolida una nueva etapa de desarrollo."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "RIGI",
+                "Gasoducto San Matías",
+                "obras eléctricas",
+                "agua",
+                "salud"
+            ],
+            "postura_politica": "Acompaña la aprobación del RIGI para el gasoducto y destaca la inversión de USD 1.300 millones. Se posiciona como un gobernador que gestiona con Nación, aprovechando el marco de incentivos. Refuerza su capital político en energía.",
+            "frase_fuerte": "Cada avance confirma que nuestra provincia se consolida como un destino confiable para las inversiones, con reglas claras."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "fallecimiento del Indio Solari"
+            ],
+            "postura_politica": "Se suma al homenaje cultural, evitando cualquier posicionamiento político o económico. Es una jugada segura para no generar ruido. Omite mencionar la situación fiscal o conflictos con Nación.",
+            "frase_fuerte": "Paradigma de una transversalidad social y generacional única en la historia..."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "entrevista",
+                "viviendas",
+                "educación",
+                "seguridad"
+            ],
+            "postura_politica": "Agenda local pura: entrega de viviendas, avances en lectura, patrullaje rural. Sin mención a Nación. Es gobernador de una provincia periférica con bajo impacto federal. Su postura es de gestión aislada.",
+            "frase_fuerte": "El camino es la EDUCACIÓN; si, si, claro que hay futuro en San Luis!!!"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "fallecimiento del Indio Solari"
+            ],
+            "postura_politica": "Similar a Saenz: homenaje cultural, evitando roce político. No hay agenda de gestión en el tweet. Es un gobernador peronista que elige el silencio en temas conflictivos.",
+            "frase_fuerte": "Su obra artística marcó a generaciones y dejó una huella imborrable en la cultura nacional."
+        }
+    ]
+}
