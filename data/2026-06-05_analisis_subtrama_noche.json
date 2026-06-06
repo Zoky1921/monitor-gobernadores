@@ -1,0 +1,215 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada evidencia una grieta entre gobernadores que celebran inversiones del RIGI (Jalil, Figueroa, Weretilneck) y los que redoblan su discurso anti-Milei (Kicillof, Quintela). La mayoría opta por la gestión local, evitando posicionamientos nacionales. Macri intensifica su confrontación con Kicillof en seguridad.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal y política se manifiesta en dos polos opuestos. Por un lado, los gobernadores de provincias con recursos estratégicos (Neuquén, Río Negro, Catamarca) muestran alineamiento con la Casa Rosada al celebrar la aprobación de megaproyectos en el RIGI, como el gasoducto San Matías y la ampliación de proyectos de litio. Estos anuncios, realizados por el ministro Caputo, son retuiteados y respaldados explícitamente, lo que sugiere una estrategia de cooptación por parte del Gobierno nacional.\n\nActo 2 — Los Alineamientos: En la vereda opuesta, Axel Kicillof y Ricardo Quintela se consolidan como los líderes de la resistencia provincial. Kicillof utiliza la muerte del Indio Solari para reivindicar banderas de izquierda y, en días previos, se reunió con cooperativas agropecuarias para denunciar la concentración productiva. Quintela, por su parte, lanza un duro comunicado contra el RIGI, acusándolo de 'saqueo' y de retener fondos a La Rioja. Jorge Macri se posiciona como el principal antagonista de Kicillof, usando la seguridad como ariete político y calificando su gestión como 'barbarie'.\n\nActo 3 — La Micro-política: La mayoría de los gobernadores (Zdero, Torres, Llaryora, Passalacqua, Poggi) optan por una agenda de gestión provincial: inauguraciones de obras, entrega de viviendas, mejora de servicios. Este 'refugio en el cabotaje' interpreta un cálculo de supervivencia: evitar quedar atrapados en la polarización nacional mientras resuelven problemas concretos. Sin embargo, incluso en estos casos, hay gestos políticos: Saenz asume obras nacionales paralizadas, reclamando inacción federal; Jaldo se reúne con Santilli y otros gobernadores del Norte Grande para gestionar recursos.\n\nActo 4 — Saldo Presidencial: Para Milei, la jornada es agridulce. Logra mostrar avances concretos del RIGI con el respaldo de gobernadores clave, pero la oposición de Kicillof y Quintela, sumada a la indiferencia de la mayoría, revela que aún no consigue una adhesión masiva a su modelo. La 'guerra' con el peronismo duro continúa, mientras los gobernadores no alineados observan desde la trinchera de la gestión local.",
+    "temas_calientes": [
+        {
+            "tema": "RIGI y grandes inversiones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Confrontación con Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Seguridad y control territorial",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Gestión local y obras",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Posicionamiento internacional y atracción de inversiones",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "No vamos a pedir perdón por cuidar a los porteños. Un muro de control contra la barbarie y el desgobierno de Kicillof. Ley y orden.",
+        "por_que_es_clave": "Macri no solo marca perfil propio sino que transforma la seguridad en un arma de confrontación directa con el gobernador bonaerense, buscando capitalizar el descontento con la inseguridad y posicionarse como el antítesis del kirchnerismo.",
+        "pregunta_openarg": "¿Es la seguridad un tema de gestión o una herramienta de polarización política entre la Ciudad y la Provincia?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Cultura",
+                "Homenaje a Indio Solari"
+            ],
+            "postura_politica": "Utiliza la figura del Indio para reivindicar el ideario de izquierda y la resistencia al modelo neoliberal, sin mencionar a Nación pero dejando un mensaje implícito de confrontación.",
+            "frase_fuerte": "Fue mucho más que un artista, fue un héroe argentino. Nos dio voz, ideas y poesía a muchas generaciones."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Control territorial",
+                "Confrontación con Kicillof"
+            ],
+            "postura_politica": "Refuerza su perfil de mano dura y lo usa para atacar directamente a Kicillof, buscando diferenciarse y erosionar la gestión bonaerense.",
+            "frase_fuerte": "No vamos a pedir perdón por cuidar a los porteños. Un muro de control contra la barbarie y el desgobierno de Kicillof."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "RIGI",
+                "Litio",
+                "Inversiones",
+                "Relación con Nación"
+            ],
+            "postura_politica": "Alineamiento explícito con el gobierno nacional al celebrar la aprobación de proyectos en el RIGI, mostrando una postura pro-inversión y de cooperación fiscal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Obras",
+                "Educación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en obras educativas y de infraestructura, evitando posicionamientos nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Obras",
+                "Viviendas"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Presenta el Plan Galina de obras, mostrando gestión pero sin confrontar ni alinearse con Nación.",
+            "frase_fuerte": "PLAN GALINA: MÁS DE 200 OBRAS PARA IMPULSAR EL DESARROLLO DE TODA LA PROVINCIA"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Salud",
+                "Obras",
+                "Gestión"
+            ],
+            "postura_politica": "Agenda local con énfasis en gestión sanitaria y de infraestructura. No hay mención a Nación, lo que sugiere un repliegue estratégico.",
+            "frase_fuerte": "En #Córdoba la salud es un derecho, no un privilegio."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Obras viales",
+                "Reclamo a Nación"
+            ],
+            "postura_politica": "Asume obras nacionales paralizadas con fondos provinciales, reclamando inacción federal. Un gesto de autonomía y presión política.",
+            "frase_fuerte": "Aunque es una ruta nacional, decidimos hacernos cargo porque los salteños no podemos seguir esperando."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "RIGI",
+                "Conflicto con Nación",
+                "Salud"
+            ],
+            "postura_politica": "Confrontación directa con Nación. Acusa al gobierno de saqueo y retención de fondos, y se posiciona como defensor de los recursos provinciales.",
+            "frase_fuerte": "No vamos a ser cómplices del saqueo de recursos de los argentinos; por eso no adherimos al RIGI."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Inversiones",
+                "Innovación",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Alineamiento con el modelo de apertura económica. Presenta herramientas de financiamiento para pymes y atrae inversiones, sin confrontar con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Norte Grande",
+                "Obras"
+            ],
+            "postura_politica": "Agenda local y regional. Participa en reunión del Norte Grande y promueve obras, manteniendo perfil bajo en lo nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Inversiones",
+                "Energía",
+                "RIGI",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Alineamiento total con el gobierno nacional. Promociona Neuquén como destino de inversiones y celebra la aprobación de proyectos en el RIGI.",
+            "frase_fuerte": "No queremos ser la cantera del mundo, queremos crecer en conjunto."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "RIGI",
+                "Energía",
+                "Inversiones",
+                "Gestión local"
+            ],
+            "postura_politica": "Alineamiento con Nación. Celebra la aprobación del Gasoducto San Matías y destaca las inversiones en infraestructura, mostrando una provincia que se integra al modelo de desarrollo.",
+            "frase_fuerte": "Cada avance confirma que nuestra provincia se consolida como un destino confiable para las inversiones."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Energía limpia",
+                "Educación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en obras de vivienda, energía solar y educación, evitando la confrontación nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Producción",
+                "Agroindustria",
+                "Créditos"
+            ],
+            "postura_politica": "Alineamiento crítico: pide al gobierno nacional que haga permanentes las bajas de retenciones, mostrando apoyo a la producción pero también demanda hacia Nación.",
+            "frase_fuerte": "Si le sacan el pie de encima a los que producen, el interior demuestra todo lo que puede dar."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Cultura",
+                "Industrias creativas"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Participa en un encuentro federal de industrias culturales, sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Cultura",
+                "Homenaje a Indio Solari"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Se suma al homenaje al Indio Solari, sin contenido político sustancial.",
+            "frase_fuerte": null
+        }
+    ]
+}
