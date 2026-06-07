@@ -1,0 +1,153 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de Día del Periodista con escasa visibilidad de conflictos macro, pero con algunos gobernadores aprovechando la fecha para marcar territorio o criticar al poder central. Quintela (La Rioja) se destaca con una arenga contra el modelo nacional, mientras Figueroa (Neuquén) y Weretilneck (Río Negro) usan el domingo para mostrar gestión e interna partidaria. El resto se refugia en saludos genéricos o microgestión local.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La efeméride del periodista, de bajo riesgo político, se convierte en un escudo para mensajes cuidadosamente calibrados. Mientras la mayoría opta por el saludo anodino, Ricardo Quintela (La Rioja) desliza una crítica directa al 'poder central' y al 'modelo deshumanizado', convirtiendo un gesto protocolar en un misil contra la Casa Rosada. El silencio de los grandes pesos (Buenos Aires, CABA, Córdoba, Santa Fe) es ensordecedor: prefieren no exponerse en un día sin agenda fiscal ni conflicto institucional.\n\nActo 2 — Los Alineamientos: En la vereda opositora, Quintela se erige como voz del peronismo duro, acompañado –aunque sin coordinar– por Axel Kicillof (Buenos Aires), quien más temprano había utilizado la despedida del Indio Solari para demostrar capacidad de gestión en eventos masivos. Del lado oficialista o dialoguista, Rolando Figueroa (Neuquén) exhibe superávit, inversiones y obras, consolidando su perfil de gestor eficiente. Alberto Weretilneck (Río Negro) aprovecha para mostrar la renovación interna de su partido provincial, un gesto de autonomía frente a los sellos nacionales.\n\nActo 3 — La Micro-política: Leandro Zdero (Chaco), Claudio Poggi (San Luis) y Hugo Passalacqua (Misiones) se limitan a tuitear sobre gestión local o saludos institucionales, sin mencionar a Nación. Es el repliegue táctico de gobernadores de provincias periféricas que evitan quemar capital político en una jornada sin tensión fiscal. El Día del Periodista se convierte en excusa para no hablar de coparticipación, tarifas o recortes.\n\nActo 4 — Saldo Presidencial: La Casa Rosada respira aliviada: ningún mandatario de peso subió la apuesta. Pero la omisión del conflicto no es un triunfo, sino una tregua armada. Quintela deja claro que el descontento existe, y Kicillof recuerda que el peronismo bonaerense sigue latente. El Gobierno nacional no cosecha heridas, pero tampoco avances. La jornada confirma que la relación Nación-provincias sigue en punto muerto, con cada uno atrincherado en su agenda.",
+    "temas_calientes": [
+        {
+            "tema": "Saludos por el Día del Periodista con carga política implícita o explícita",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@Kicillofok",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@claudiojpoggi",
+                "@insfran_gildo"
+            ]
+        },
+        {
+            "tema": "Gestión local y obras como refugio ante la falta de agenda nacional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Crítica al modelo económico nacional desde un gobernador peronista",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Exhibición de gestión e inversiones como posicionamiento político",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Interna partidaria provincial (JSRN) como señal de autonomía",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "¡Feliz día a las y los periodistas! Su tarea diaria es fundamental para fortalecer la ciudadanía, pero sobre todo, para dar voz a quienes el poder central pretende invisibilizar. Hoy, la labor periodística cobra un valor enorme frente a la insensibilidad de quienes gobiernan para un círculo minúsculo. Informar con responsabilidad implica mostrar la realidad de nuestros centros de salud, de nuestras PyMEs que resisten y de un interior profundo que sufre las consecuencias de un modelo deshumanizado.",
+        "por_que_es_clave": "Quintela transforma un saludo protocolario en un dardo directo a la Casa Rosada, acusando al Gobierno nacional de insensibilidad y de gobernar solo para una elite. Es la única voz que hoy rompe la tregua dominical y marca la cancha para la semana que viene.",
+        "pregunta_openarg": "¿Está Ricardo Quintela preparando un nuevo frente de confrontación con Nación o es solo un desahogo retórico sin consecuencias?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Despedida Indio Solari",
+                "Operativo seguridad"
+            ],
+            "postura_politica": "Saludo genérico al periodista combinado con gestión local (velatorio del Indio). La omisión de cualquier referencia a Nación es calculada: no quiere dar batalla en domingo, pero muestra capacidad de organización masiva.",
+            "frase_fuerte": "Feliz día a los periodistas que cumplen con la enorme tarea de informar con responsabilidad al pueblo y mantienen su compromiso con la verdad."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Recuperación de espacios públicos",
+                "Gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Publica obras de plaza, evitando cualquier gesto político que lo posicione.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Día del Periodista"
+            ],
+            "postura_politica": "Saludo institucional genérico. Nulo contenido político. Reafirma su estilo de bajo perfil.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Crítica a Nación"
+            ],
+            "postura_politica": "Aprovecha la fecha para cargar contra el gobierno nacional. Se posiciona como voz del interior postergado y denuncia un modelo deshumanizado.",
+            "frase_fuerte": "Informar con responsabilidad implica mostrar la realidad de nuestros centros de salud, de nuestras PyMEs que resisten y de un interior profundo que sufre las consecuencias de un modelo deshumanizado."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Día del Periodista"
+            ],
+            "postura_politica": "Saludo escueto y neutral. No aprovecha la fecha para posicionarse. Sigue la línea de gestión sin conflicto.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Día del Periodista"
+            ],
+            "postura_politica": "Saludo genérico. Sin agenda política. Se refugia en la efeméride.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Inversiones",
+                "Infraestructura",
+                "Día del Periodista"
+            ],
+            "postura_politica": "Combina saludo al periodista con una fuerte exhibición de logros económicos. Busca mostrarse como gestor eficiente y polo de inversión, en contraposición a la crisis nacional.",
+            "frase_fuerte": "NEUQUÉN SE CONSOLIDA COMO EL PRINCIPAL POLO DE INVERSIÓN DEL PAÍS"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Interna partidaria",
+                "Gestión"
+            ],
+            "postura_politica": "Aprovecha el domingo para renovar su partido provincial y marcar distancia de los sellos nacionales. El saludo al periodista es extenso y reflexivo, pero la noticia fuerte es la interna de JSRN.",
+            "frase_fuerte": "Los proyectos que dejan huella no se sostienen en una persona. Se construyen formando dirigentes, abriendo caminos y preparando a las nuevas generaciones."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Saludo familiar"
+            ],
+            "postura_politica": "Doble tuit: uno muy llano (feliz domingo) y otro de saludo al periodista. Sin ningún contenido político. Es la agenda de un gobernador sin conflictos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Día del Periodista"
+            ],
+            "postura_politica": "Saludo personalizado y afectuoso a los periodistas, destacando su labor en la calle. Evita cualquier mención a Nación o la provincia. Gestión de bajo perfil.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Día del Periodista"
+            ],
+            "postura_politica": "Saludo genérico temprano. Sin agenda adicional. Se alinea con la mayoría de los gobernadores periféricos.",
+            "frase_fuerte": null
+        }
+    ]
+}

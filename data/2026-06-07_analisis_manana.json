@@ -1,0 +1,142 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracteriza por una crítica velada pero contundente al gobierno nacional por parte del gobernador Ricardo Quintela (La Rioja), quien aprovecha el Día del Periodista para señalar la 'insensibilidad' del 'poder central' y la precarización del 'interior profundo'. En contraste, Axel Kicillof (Buenos Aires) exhibe una sólida capacidad de gestión provincial al detallar los operativos de seguridad y salud para un evento masivo, mientras que Rolando Figueroa (Neuquén) reafirma el empleo local como eje central de su administración. La agenda se completa con el foco en obras de infraestructura local y la dinámica de renovación partidaria en Río Negro. Se percibe una persistente tensión en la relación entre algunas provincias y la Nación, aunque coexistiendo con una fuerte agenda de gestión local.",
+    "analisis_profundo": "La dinámica federal de hoy, 7 de junio de 2026, presenta un panorama complejo, con un punto de tensión significativo en la relación Nación-provincias. El gobernador Ricardo Quintela (La Rioja) utiliza la conmemoración del Día del Periodista para lanzar una crítica incisiva al 'poder central', acusándolo de 'insensibilidad' y de intentar 'invisibilizar' la realidad de las provincias y las PyMEs, destacando el sufrimiento del 'interior profundo' ante un 'modelo deshumanizado'. Este mensaje, aunque enmarcado en un saludo, adquiere un peso político considerable al politizar una efeméride tradicional, reforzando la postura confrontativa de La Rioja frente a las políticas nacionales.\n\nEn contraste, Axel Kicillof (Buenos Aires) concentra su actividad en la gestión operativa de un evento de gran envergadura: la despedida del Indio Solari. Sus publicaciones detallan con precisión los despliegues de seguridad y salud provincial, movilizando a más de 8.000 personas en la organización. Esto subraya la capacidad del gobierno bonaerense para asumir la responsabilidad y coordinar recursos ante una masiva congregación popular, proyectando una imagen de Estado presente y eficiente en la administración de contingencias.\n\nOtros gobernadores como Gildo Insfrán (Formosa), Alfredo Cornejo (Mendoza), Hugo Passalacqua (Misiones), Claudio Poggi (San Luis), Maximiliano Pullaro (Santa Fe) y Gerardo Zamora (Santiago del Estero) se limitan a enviar mensajes protocolares por el Día del Periodista, sin agregar un contenido político explícito, lo que matiza el clima general de confrontación. Sin embargo, Alberto Weretilneck (Río Negro) comparte información sobre la renovación de la cúpula de su partido provincial, Juntos Somos Río Negro, con un llamado a fortalecer el trabajo territorial y proyectar la fuerza al futuro, indicando movimientos de poder internos y una visión de autonomía partidaria.\n\nFinalmente, Leandro Zdero (Chaco) muestra avances en obras locales (Plaza 9 de Julio), mientras que Rolando Figueroa (Neuquén) emite un conciso pero directo mensaje sobre la prioridad del 'trabajo primero para los neuquinos', unificando el mensaje en torno al empleo local. En suma, la jornada refleja la habitual dicotomía entre la gestión provincial y las tensiones interjurisdiccionales, con una crítica política singular que eleva el nivel de conflictividad.",
+    "temas_calientes": [
+        {
+            "tema": "Reafirmación del Federalismo y Crítica al Centralismo",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Gestión de Mega Eventos y Operativos de Seguridad",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Foco en el Empleo y Obras Locales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Renovación Partidaria y Visión de Futuro Provincial",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "El trabajo primero para los neuquinos.",
+        "por_que_es_clave": "Este tweet es clave porque, a diferencia de la mayoría de los posteos del día, es una declaración de política pública concreta y no un saludo protocolario o una efeméride. Refleja una prioridad clara de su gestión y un enfoque en el desarrollo local y el empleo, sin caer en generalidades.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Gestión de eventos masivos",
+                "Seguridad",
+                "Salud pública"
+            ],
+            "postura_politica": "Su postura se centra en mostrar una fuerte capacidad de gestión provincial y un Estado presente en la organización de eventos complejos, como la despedida del Indio Solari, coordinando operativos de seguridad y salud con una gran movilización de recursos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Espacios recreativos",
+                "Gestión local"
+            ],
+            "postura_politica": "Su actividad se orienta a la difusión de la gestión local y el avance de obras públicas, como la renovación de la Plaza 9 de Julio, enfocándose en la mejora de la calidad de vida y el desarrollo de espacios públicos para la comunidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Rol del periodismo",
+                "Democracia"
+            ],
+            "postura_politica": "Su mensaje es de reconocimiento institucional a la labor periodística en el Día del Periodista, destacando su compromiso, responsabilidad y contribución al fortalecimiento de la democracia a través del acceso a la información.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Crítica al gobierno nacional",
+                "Federalismo",
+                "Rol del periodismo",
+                "Situación económica provincial"
+            ],
+            "postura_politica": "Aprovecha la efeméride del Día del Periodista para lanzar una crítica directa y enfática al 'poder central' (gobierno nacional), acusándolo de 'insensibilidad' y de un 'modelo deshumanizado' que afecta a las provincias y las PyMEs, posicionando el periodismo como voz del 'interior profundo'.",
+            "frase_fuerte": "Hoy, la labor periodística cobra un valor enorme frente a la insensibilidad de quienes gobiernan para un círculo minúsculo."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Rol del periodismo"
+            ],
+            "postura_politica": "Su publicación es un saludo protocolario en el Día del Periodista, reconociendo el aporte de los comunicadores a una ciudadanía mejor informada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Rol del periodismo"
+            ],
+            "postura_politica": "Su mensaje es un afectuoso saludo protocolario a los periodistas misioneros, agradeciendo su compromiso y la labor de informar a la comunidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Empleo local",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Su postura se enfoca en una declaración de prioridad gubernamental: poner 'El trabajo primero para los neuquinos', señalando un compromiso con el desarrollo y la generación de empleo en la provincia.",
+            "frase_fuerte": "El trabajo primero para los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Política partidaria",
+                "Sucesión",
+                "Identidad provincial"
+            ],
+            "postura_politica": "Se refiere a la renovación en la conducción de su partido provincial, Juntos Somos Río Negro, enfatizando la continuidad del proyecto político y la importancia de la identidad rionegrina en el periodismo y la comunicación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Social",
+                "Rol del periodismo"
+            ],
+            "postura_politica": "Sus mensajes son de carácter social, deseando un 'lindo domingo familiar', y protocolario, saludando a los periodistas. Refleja un estilo de cercanía y reconocimiento institucional sin entrar en debates políticos directos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Rol del periodismo",
+                "Democracia"
+            ],
+            "postura_politica": "Envía un saludo a los periodistas en su día, valorando su labor como 'herramienta clave para nuestra democracia' y destacando el periodismo libre y honesto.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Rol del periodismo"
+            ],
+            "postura_politica": "Su mensaje es un saludo protocolario por el Día del Periodista, elogiando a quienes ejercen la profesión con pasión, compromiso y pensando en el bienestar de la gente.",
+            "frase_fuerte": null
+        }
+    ]
+}
