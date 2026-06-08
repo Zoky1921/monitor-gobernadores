@@ -1,0 +1,211 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo dominada por la conmemoración del Día del Periodista, con la mayoría de los gobernadores (Corrientes, Santa Fe, Buenos Aires, Misiones, Mendoza, San Luis, Río Negro, La Rioja, Formosa, La Pampa, Entre Ríos, Córdoba, Santiago del Estero) destacando la importancia de la profesión y la información veraz. Sin embargo, este marco fue aprovechado por Ricardo Quintela (La Rioja) y Sergio Ziliotto (La Pampa) para expresar críticas veladas o directas al 'poder central' o a la manipulación informativa. En paralelo, se observó actividad en gestión local (Leandro Zdero de Chaco, Alberto Weretilneck de Río Negro) y la reafirmación del potencial económico provincial (Rolando Figueroa de Neuquén), mostrando una agenda diversa con matices de confrontación.",
+    "analisis_profundo": "La agenda federal de hoy se centró en la conmemoración del Día del Periodista, una fecha que sirvió como telón de fondo para diversas expresiones políticas provinciales. La mayoría de los mandatarios, como Gustavo Valdés (Corrientes), Maximiliano Pullaro (Santa Fe), Axel Kicillof (Buenos Aires), Hugo Passalacqua (Misiones), Alfredo Cornejo (Mendoza), Claudio Poggi (San Luis), Alberto Weretilneck (Río Negro), Gildo Insfrán (Formosa), Rogelio Frigerio (Entre Ríos), Martín Llaryora (Córdoba) y Elías Suárez (Santiago del Estero), emitieron mensajes institucionales. Estos destacaron el profesionalismo, la responsabilidad y el valor democrático de la labor periodística, en un tono que buscaba resaltar la importancia de la prensa en la construcción de una ciudadanía informada.\n\nNo obstante, la aparente unanimidad formal no estuvo exenta de tensiones. Ricardo Quintela (La Rioja) optó por un mensaje más combativo, utilizando la efeméride para arremeter contra un 'poder central' al que acusó de 'insensibilidad' e intentar 'invisibilizar' la realidad de las provincias. Su discurso hizo hincapié en la capacidad del periodismo para 'dar voz' a las problemáticas locales, como la situación de los centros de salud o las PyMEs. En una línea similar, aunque con un tono más analítico, Sergio Ziliotto (La Pampa) alertó sobre los 'nuevos desafíos' del periodismo, mencionando la 'proliferación de noticias falsas' y la 'manipulación de contenidos mediante inteligencia artificial', lo que puede interpretarse como una reflexión crítica sobre el panorama mediático y político actual.\n\nEn cuanto a la gestión, Rolando Figueroa (Neuquén) reafirmó la posición de su provincia como 'principal polo de inversión del país', destacando el crecimiento económico y la prioridad del 'trabajo para los neuquinos'. Leandro Zdero (Chaco) informó sobre la recuperación de espacios públicos, mientras que Alberto Weretilneck (Río Negro) continuó con su programa 'Cerca en Allen', enfocándose en la proximidad con los vecinos y la atención a las demandas locales. Gustavo Sáenz (Salta) combinó la promoción deportiva con un homenaje a Martín Miguel de Güemes, reafirmando la identidad y el calendario de eventos provincial. Este contraste entre la gestión local y las declaraciones con tintes de crítica federal sugiere una dinámica de reafirmación provincial frente al contexto nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Día del Periodista y la Libertad de Prensa",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE",
+                "@maxipullaro",
+                "@Kicillofok",
+                "@passalacquaok",
+                "@alfredocornejo",
+                "@claudiojpoggi",
+                "@WeretilneckOK",
+                "@QuintelaRicardo",
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@frigeriorogelio",
+                "@MartinLlaryora",
+                "@gustavovaldesok"
+            ]
+        },
+        {
+            "tema": "Críticas al Centralismo y Defensa Federal",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Provincial y Empleo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Gestión Local y Obras Públicas",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Cultura, Identidad y Eventos Provinciales",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@Kicillofok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "¡Feliz día a las y los periodistas! Su tarea diaria es fundamental para fortalecer la ciudadanía, pero sobre todo, para dar voz a quienes el poder central pretende invisibilizar. Hoy, la labor periodística cobra un valor enorme frente a la insensibilidad de quienes gobiernan para un círculo minúsculo. Informar con responsabilidad implica mostrar la realidad de nuestros centros de salud, de nuestras PyMEs que resisten y de un interior profundo que sufre las consecuencias de un modelo deshumanizado. Valoro especialmente el esfuerzo de cada periodista que, a pesar de las dificultades y los intentos de disciplinamiento, ejercen este oficio con profesionalismo, ética y respeto por la verdad. Gracias por registrar la historia de nuestra provincia con compromiso social.",
+        "por_que_es_clave": "El gobernador de La Rioja aprovecha el Día del Periodista para lanzar una crítica frontal al gobierno nacional, acusándolo de 'insensibilidad' e intentar 'invisibilizar' la realidad de las provincias. Subraya la importancia del periodismo para visibilizar las dificultades locales como la situación de la salud, las PyMEs y el interior profundo, consolidando una postura de defensa de los intereses provinciales frente a las políticas centrales.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Libertad de Prensa"
+            ],
+            "postura_politica": "Suárez (Santiago del Estero) enfatiza el rol del periodismo con 'pasión y compromiso' para informar pensando en la gente y su bienestar, alineándose con el mensaje institucional de la fecha.",
+            "frase_fuerte": "Feliz día para todos los que abrazan el periodismo con pasión y compromiso; para aquellos que honran a diario esta noble profesión, con valentía, seriedad y la sensibilidad necesaria para informar pensando en la gente y su bienestar."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Libertad de Prensa"
+            ],
+            "postura_politica": "Maximiliano Pullaro (Santa Fe) celebra el Día del Periodista, destacando el rol del 'periodismo libre' como 'herramienta clave para nuestra democracia' y enfatizando el 'respeto de siempre'.",
+            "frase_fuerte": "A los que hacen del periodismo libre una herramienta clave para nuestra democracia: ¡Feliz Día del Periodista! Gracias por el respeto de siempre."
+        },
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Cultura",
+                "Gestión Local"
+            ],
+            "postura_politica": "Axel Kicillof (Buenos Aires) saluda a los periodistas destacando la tarea de informar con responsabilidad y compromiso con la verdad. También se hizo eco del operativo para la 'despedida del Indio Solari' en Avellaneda, reflejando una agenda cultural y de gestión local.",
+            "frase_fuerte": "Feliz día a los periodistas que cumplen con la enorme tarea de informar con responsabilidad al pueblo y mantienen su compromiso con la verdad."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo Económico",
+                "Empleo",
+                "Inversión Provincial"
+            ],
+            "postura_politica": "Rolando Figueroa (Neuquén) reitera su compromiso con el empleo local a través de #EmpleaNeuquén y destaca el liderazgo de Neuquén como 'principal polo de inversión del país' y su crecimiento económico sostenido, reflejando una agenda provincialista y de desarrollo económico.",
+            "frase_fuerte": "El trabajo primero para los neuquinos."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Comunicación"
+            ],
+            "postura_politica": "Hugo Passalacqua (Misiones) envía un saludo afectuoso a los periodistas, agradeciendo su compromiso y la tarea de mantener informada a la comunidad, en un tono institucional.",
+            "frase_fuerte": "Un afectuoso saludo a todos los periodistas misioneros en su día. Gracias por el compromiso de todos los días y por la enorme tarea de mantener informada a nuestra comunidad."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obras Públicas",
+                "Espacios Verdes"
+            ],
+            "postura_politica": "Leandro Zdero (Chaco) informa sobre la recuperación de espacios recreativos en Resistencia, destacando la Plaza 9 de Julio, enfocándose en la gestión de obras para la mejora de la calidad de vida local.",
+            "frase_fuerte": "Recuperamos más espacios recreativos para disfrutar en el corazón de Resistencia. 🌳 Así está quedando la Plaza 9 de Julio con las obras de intervención integral. 💪🏼"
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Información"
+            ],
+            "postura_politica": "Alfredo Cornejo (Mendoza) reconoce a los periodistas que 'asumen la responsabilidad de comunicar', contribuyendo a una ciudadanía mejor informada, con un mensaje de carácter institucional.",
+            "frase_fuerte": "Mi reconocimiento a quienes todos los días asumen la responsabilidad de comunicar, contribuyendo a una ciudadanía mejor informada."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Comunicación"
+            ],
+            "postura_politica": "Claudio Poggi (San Luis) saluda a los periodistas de su provincia, valorando su 'pasión y honestidad intelectual' y su rol en mantener informada a la comunidad y acercar la labor pública a la ciudadanía.",
+            "frase_fuerte": "En este día del PERIODISTA, quiero saludar a todos los sanluiseños que, con pasión y honestidad intelectual ejercen esta profesión."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Gestión Local",
+                "Convivencia Partidaria"
+            ],
+            "postura_politica": "Alberto Weretilneck (Río Negro) destaca la misión del periodismo de 'contar Río Negro', promoviendo la identidad provincial. Además, un retuit sobre el recambio generacional en la conducción de su partido (Juntos Somos Río Negro) revela una agenda de consolidación política interna.",
+            "frase_fuerte": "DEL PAPEL AL ALGORITMO, LA MISMA MISIÓN"
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Crítica al Gobierno Nacional",
+                "Realidad Provincial"
+            ],
+            "postura_politica": "Ricardo Quintela (La Rioja) aprovecha el Día del Periodista para criticar la 'insensibilidad' del 'poder central' y su intento de 'invisibilizar' las problemáticas del interior, reafirmando el papel del periodismo para mostrar la realidad de la provincia.",
+            "frase_fuerte": "Su tarea diaria es fundamental para fortalecer la ciudadanía, pero sobre todo, para dar voz a quienes el poder central pretende invisibilizar. Hoy, la labor periodística cobra un valor enorme frente a la insensibilidad de quienes gobiernan para un círculo minúsculo."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Democracia"
+            ],
+            "postura_politica": "Gildo Insfrán (Formosa) saluda a los periodistas, subrayando su 'compromiso, responsabilidad y vocación de servicio' y su contribución a la democracia y el acceso a la información, con un enfoque institucional.",
+            "frase_fuerte": "En el Día del Periodista, saludamos a quienes ejercen esta profesión con compromiso, responsabilidad y vocación de servicio."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Desafíos de la Prensa",
+                "Democracia"
+            ],
+            "postura_politica": "Sergio Ziliotto (La Pampa) aborda los 'nuevos desafíos' del periodismo, como la proliferación de noticias falsas y la manipulación por IA, posicionándose como defensor de una prensa rigurosa para una 'sociedad mejor informada, más libre y con mayor capacidad para construir una convivencia democrática'.",
+            "frase_fuerte": "Hoy esa tarea enfrenta nuevos desafíos. La proliferación de noticias falsas, la manipulación de contenidos mediante inteligencia artificial y la lógica de algoritmos que muchas veces privilegian el impacto por sobre la verdad ponen a prueba uno de los principios esenciales del periodismo que es la búsqueda rigurosa de los hechos."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Profesionalismo"
+            ],
+            "postura_politica": "Rogelio Frigerio (Entre Ríos) destaca el 'profesionalismo, responsabilidad y convicción' de los periodistas, considerándolos indispensables para la democracia y la confianza pública, en un mensaje institucional.",
+            "frase_fuerte": "Feliz Día del Periodista a quienes ejercen con profesionalismo, responsabilidad y convicción. En tiempos donde la confianza se pone a prueba todos los días, el buen periodismo sigue siendo indispensable para la vida en democracia."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Deporte",
+                "Cultura",
+                "Homenajes"
+            ],
+            "postura_politica": "Gustavo Sáenz (Salta) resalta la realización de eventos deportivos como el 'Desafío de las Nubes' y rinde homenaje al General Martín Miguel de Güemes, promoviendo a Salta como sede de grandes eventos y fortaleciendo la identidad histórica local.",
+            "frase_fuerte": "Como cada 7 de junio, junto a nuestros gauchos y fortines, rendimos homenaje al General Martín Miguel de Güemes y renovamos el compromiso de mantener vivo su legado."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Información"
+            ],
+            "postura_politica": "Martín Llaryora (Córdoba) se une a la celebración del Día del Periodista, reconociendo el valor de la profesión para informar a la ciudadanía y fortalecer la democracia, a través de un retuit institucional.",
+            "frase_fuerte": "Conmemoramos una jornada destinada a reconocer el valor de esta profesión y a homenajear a quienes, todos los días, investigan, informan y comunican."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Día del Periodista",
+                "Vocación"
+            ],
+            "postura_politica": "Gustavo Valdés (Corrientes) saluda y reconoce a los periodistas que 'honran la profesión' con vocación, compromiso y responsabilidad, enfocándose en la información fidedigna.",
+            "frase_fuerte": "En el Día del Periodista, saludo y reconozco a todos aquellos que honran la profesión y trabajan con vocación, compromiso y responsabilidad para brindar información fidedigna a la sociedad."
+        }
+    ]
+}
