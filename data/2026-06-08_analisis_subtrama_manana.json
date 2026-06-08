@@ -1,0 +1,115 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de gestión provincial con énfasis en obras locales y reclamos implícitos de autonomía fiscal. Vidal (Santa Cruz) y Llaryora (Córdoba) marcan distancia de Nación al destacar esfuerzos propios. Weretilneck refuerza su proyecto provincial. Sin confrontación directa, pero con señales de tensión por recursos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada estuvo dominada por una tensión fiscal soterrada. Claudio Vidal (Santa Cruz) lanzó un diagnóstico descarnado: su provincia necesita resolver problemas estructurales y el financiamiento no llega. Sin nombrar a Nación, apuntó a quienes ponen obstáculos, en una clara crítica al manejo de recursos federales. Martín Llaryora (Córdoba), por su parte, exhibió obras viales financiadas con fondos provinciales, subrayando que Córdoba se hace cargo donde Nación abandona. Ambos gobernadores, desde distintos signos políticos, coinciden en un mismo gesto: reclamar autonomía y denunciar el ahogo fiscal.\n\nActo 2 — Los Alineamientos: Alberto Weretilneck (Río Negro) aprovechó el fin de semana para consolidar su fuerza provincial JSRN, con un mensaje de unidad y recambio generacional. Se desmarca de la polarización nacional y apuesta a un proyecto propio. Rolando Figueroa (Neuquén) se posicionó como el gran polo de inversión del país, destacando el liderazgo de Vaca Muerta y la confianza de los mercados. Es un alineamiento tácito con el modelo de desarrollo energético que impulsa la Casa Rosada, pero sin mencionarla. Osvaldo Jaldo (Tucumán) y Elías Suárez (Santiago del Estero) se mantuvieron en la gestión administrativa, sin roces ni gestos de confrontación.\n\nActo 3 — La Micro-política: Hugo Passalacqua (Misiones) tuvo una reunión protocolar con un intendente, sin peso federal. Claudio Vidal, en cambio, usó su extenso hilo para justificar la necesidad de una ley de financiamiento estratégico, en un intento de construir consenso interno y presionar a la oposición provincial. Llaryora, con su habitual estilo de obra pública, refuerza la imagen de un Córdoba que no se detiene pese al contexto adverso. Son gestos de supervivencia política: mostrar gestión para compensar la falta de recursos nacionales.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no fue mencionada directamente por ningún gobernador. Ese silencio es elocuente. En un día sin grandes conflictos, los mandatarios optaron por refugiarse en la agenda local, evitando posicionarse sobre temas nacionales. Para el Gobierno nacional, esto es una tregua, pero también una advertencia: las provincias están listas para reclamar cuando la asfixia fiscal se agudice. El capital político de la Rosada se mantiene estable, pero erosionado por la falta de menciones positivas.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura provincial con fondos propios como respuesta al repliegue nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@ClaudioVidalSer",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Reclamo de financiamiento y recursos para obras estructurales",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Posicionamiento económico provincial como polo de inversión",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Gestión de pagos y salarios como señal de orden fiscal",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Consolidación de fuerzas políticas provinciales como estrategia de poder",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "SANTA CRUZ NECESITA RESOLVER LOS PROBLEMAS ESTRUCTURALES \n\nMientras otras provincias avanzan con financiamiento para realizar obras, generar empleo y mejorar servicios, en Santa Cruz seguimos dando una discusión que debería entenderse con el solo objetivo de pensar en nuestra gente.\n\nNecesitamos entender que este financiamiento no es para gasto político, ni para sostener privilegios. Es para obras de agua, de energía, de salud. Obras indispensables de infraestructura y desarrollo en toda la provincia, con las que vamos a generar trabajo genuino. \n\nMi objetivo es utilizar las herramientas con las que disponemos en este momento de coyuntura difícil que atraviesa el país, para mejorar la calidad de vida de nuestros vecinos y para empezar a resolver problemas estructurales.\n\nRespeto todas las posiciones, pero también creo que cada dirigente debe explicar qué provincia quiere construir y qué respuesta le da a quienes esperan trabajo, mejores servicios y más oportunidades.\n\nNosotros vamos a seguir trabajando, dialogando y haciendo todo lo que esté a nuestro alcance para que Santa Cruz pueda salir adelante.\n\nSanta Cruz Puede…",
+        "por_que_es_clave": "Vidal expone la asfixia fiscal de su provincia y critica a quienes bloquean el financiamiento, en un mensaje que interpela tanto a la oposición local como al Gobierno nacional. Es un llamado a la acción que busca generar presión política para destrabar recursos.",
+        "pregunta_openarg": "¿Puede Santa Cruz acceder a financiamiento sin comprometer su autonomía fiscal, o la falta de apoyo nacional la obligará a un ajuste que afecte servicios esenciales?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obra pública provincial",
+                "Infraestructura vial",
+                "Autonomía fiscal"
+            ],
+            "postura_politica": "Llaryora muestra que Córdoba avanza con recursos propios pese al contexto nacional adverso. Es un mensaje de eficiencia y autogestión que implícitamente critica la falta de apoyo de Nación. Se posiciona como un gobernador que no espera soluciones externas.",
+            "frase_fuerte": "Es una obra que debería haberse financiado con fondos de la Nación, sin embargo, con recursos provinciales vamos a transformar la 'ruta de la muerte' en la ruta del progreso y del desarrollo. Córdoba se hace cargo y no abandona a su gente."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Reunión con intendente"
+            ],
+            "postura_politica": "Agenda de bajo perfil, sin impacto federal. Passalacqua se limita a la gestión cotidiana, evitando cualquier posicionamiento que pueda generar ruido. Es un refugio en la micro-política.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Inversiones",
+                "Vaca Muerta",
+                "Posicionamiento económico"
+            ],
+            "postura_politica": "Figueroa consolida la imagen de Neuquén como motor del país, destacando el liderazgo en hidrocarburos y la confianza de los mercados. Sin mencionar a Nación, se alinea con el modelo de desarrollo energético y refuerza su perfil de gestión exitosa.",
+            "frase_fuerte": "Neuquén se distingue por registrar el mayor Producto Bruto Geográfico per cápita de la Argentina, superando en un 50% a la segunda provincia del ranking."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Salud",
+                "Política provincial",
+                "JSRN"
+            ],
+            "postura_politica": "Weretilneck combina gestión local con un fuerte mensaje político: la renovación de JSRN y la continuidad del proyecto provincial. Se desmarca de la polarización nacional y apuesta a la identidad rionegrina. Es un gesto de autonomía y construcción de poder propio.",
+            "frase_fuerte": "Los quiero un montón, viva JSRN. Vamos por la historia."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Financiamiento",
+                "Infraestructura",
+                "Crítica a obstáculos políticos"
+            ],
+            "postura_politica": "Vidal lanza un diagnóstico crudo sobre la falta de recursos y la necesidad de financiamiento para obras estructurales. Critica a quienes ponen trabas, apuntando tanto a la oposición local como al Gobierno nacional. Busca generar presión para destrabar fondos y justificar su gestión.",
+            "frase_fuerte": "Mientras otras provincias avanzan con financiamiento para realizar obras, en Santa Cruz seguimos dando una discusión que debería entenderse con el solo objetivo de pensar en nuestra gente."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Pagos a empleados públicos",
+                "Gestión administrativa"
+            ],
+            "postura_politica": "Suarez anuncia el cronograma de pagos y bonos, mostrando orden fiscal y capacidad de gestión. Es un mensaje de estabilidad en medio de la crisis, sin confrontación con Nación. Se posiciona como un administrador responsable.",
+            "frase_fuerte": "Luego de mantener conversaciones con integrantes de la Mesa de Diálogo y Trabajo, he tomado la decisión de anunciar el cronograma de pagos."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Reunión de gabinete",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Jaldo realiza una reunión de gabinete de rutina, sin novedades políticas relevantes. Es un gesto de continuidad administrativa, evitando cualquier declaración que pueda generar controversia. Se mantiene en un per bajo.",
+            "frase_fuerte": null
+        }
+    ]
+}
