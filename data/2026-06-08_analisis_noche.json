@@ -1,0 +1,177 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Los gobernadores de Argentina se enfocaron en gestión local y desarrollo económico, con anuncios de obras y proyectos estratégicos en sus provincias.",
+    "analisis_profundo": "La jornada del 08/06/2026 estuvo marcada por anuncios de desarrollo económico y gestión local por parte de varios gobernadores. Se destacaron obras de infraestructura, educación y salud. Algunos gobernadores como @Kicillofok y @ZiliottoSergio se enfocaron en el desarrollo económico y la innovación, mientras que otros como @NachoTorresCH y @maxipullaro resaltaron sus esfuerzos en seguridad y salud pública.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo económico y gestión local",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Obras de infraestructura",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Educación y salud",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH",
+        "texto": "MÁS HERRAMIENTAS PARA COMBATIR EL CRIMEN ORGANIZADO",
+        "por_que_es_clave": "Destaca la reunión con la ministra de Seguridad de la Nación para fortalecer la lucha contra el narcotráfico y las organizaciones criminales.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Innovación"
+            ],
+            "postura_politica": "Se enfoca en el desarrollo económico y la innovación en la provincia de Buenos Aires.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad"
+            ],
+            "postura_politica": "Hace hincapié en la importancia de la ley y el orden.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura"
+            ],
+            "postura_politica": "Destaca el avance de obras en la provincia del Chaco.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Salud"
+            ],
+            "postura_politica": "Se enfoca en la lucha contra el crimen organizado y el fortalecimiento de la salud pública.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Educación"
+            ],
+            "postura_politica": "Destaca obras de infraestructura y educación en la provincia de Córdoba.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Alivio fiscal"
+            ],
+            "postura_politica": "Anuncia medidas para sostener la actividad económica y el empleo en La Pampa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Periodismo"
+            ],
+            "postura_politica": "Reconoce la labor de los periodistas en su día.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Vitivinicultura"
+            ],
+            "postura_politica": "Destaca la importancia de las pymes y la vitivinicultura en Mendoza.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Educación",
+                "Cultura"
+            ],
+            "postura_politica": "Se enfoca en la preservación del legado jesuítico-guaraní y la educación en Misiones.",
+            "frase_forte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Periodismo"
+            ],
+            "postura_politica": "Valor a los periodistas y su rol en la sociedad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Educación",
+                "Minería"
+            ],
+            "postura_politica": "Anuncia obras de infraestructura, educación y destaca la primera exportación de oro y plata en Río Negro.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura"
+            ],
+            "postura_politica": "Se enfoca en la educación y la infraestructura en Salta.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Infraestructura"
+            ],
+            "postura_politica": "Destaca la importancia de obras de infraestructura en Santa Cruz.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Salud"
+            ],
+            "postura_politica": "Inaugura un hospital en la provincia de Santa Fe.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Economía"
+            ],
+            "postura_politica": "Anuncia cronograma de pagos a trabajadores de la Administración Pública Provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Periodismo"
+            ],
+            "postura_politica": "Reconoce la labor de los periodistas en Tucumán.",
+            "frase_fuerte": null
+        }
+    ]
+}

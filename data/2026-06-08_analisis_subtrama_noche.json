@@ -1,0 +1,218 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por el refuerzo de la agenda de seguridad provincial y la disputa por la narrativa de gestión. Mientras Jorge Macri y Nacho Torres endurecen su perfil de 'mano dura' contra el delito, gobernadores como Weretilneck y Pullaro exhiben obras e inversiones como contrapeso. El silencio de los mandatarios peronistas sobre la macroeconomía sugiere un repliegue táctico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La seguridad se consolida como el eje de la disputa política del día. Jorge Macri (CABA) redobla su apuesta con el eslogan 'Ley y orden', buscando capitalizar el descontento ciudadano y marcar diferencias con el gobierno bonaerense. Nacho Torres (Chubut) se reúne con la ministra de Seguridad nacional para coordinar la lucha contra el crimen organizado, en un movimiento que busca visibilidad federal y recursos. Claudio Vidal (Santa Cruz) también se suma a la agenda de seguridad regional, evidenciando una coordinación patagónica que desafía la centralización.\n\nActo 2 — Los Alineamientos: Se perfilan dos bloques. Por un lado, los gobernadores 'duros' en seguridad (Macri, Torres, Vidal) que buscan posicionarse como garantes del orden frente a un Estado nacional ausente. Por otro, los 'gestores' (Weretilneck, Pullaro, Llaryora) que exhiben obras e inversiones como prueba de eficacia provincial. Weretilneck marca un hito con la primera exportación minera de Río Negro, un mensaje directo a los inversores y al gobierno nacional sobre las potencialidades del interior. Pullaro, por su parte, inaugura un hospital y anuncia créditos, reforzando su perfil de gestión.\n\nActo 3 — La Micro-política: Las provincias periféricas se refugian en la agenda local. Leandro Zdero (Chaco) muestra obras viales, Hugo Passalacqua (Misiones) un congreso jesuítico, y Claudio Poggi (San Luis) mejoras educativas. Son gestos de supervivencia política: muestran gestión para compensar la falta de recursos nacionales. El silencio de los gobernadores del Norte Grande (Jalil, Insfrán, Quintela) sobre la macroeconomía es elocuente: evitan posicionarse para no desgastarse.\n\nActo 4 — Saldo Presidencial: La Casa Rosada observa una jornada ambivalente. Por un lado, la agenda de seguridad le da rédito, pero la proliferación de anuncios de obras provinciales sin coordinación nacional debilita su relato de ajuste. El protagonismo de gobernadores opositores como Macri y Pullaro erosiona el capital político del oficialismo. La ausencia de un discurso unificado entre los mandatarios peronistas sugiere que el gobierno nacional no logra articular una base de apoyo sólida.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@ClaudioVidalSer",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Obras públicas e infraestructura provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Alivio fiscal y financiamiento productivo",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@alfredocornejo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Relaciones institucionales y federalismo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@QuintelaRicardo",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Efemérides y posicionamiento simbólico",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK",
+        "texto": "RÍO NEGRO HACE HISTORIA: SU PRIMERA EXPORTACIÓN DE ORO Y PLATA\n\nLos rionegrinos tomamos una decisión: decirle sí al trabajo, sí a la inversión y sí a una minería desarrollada con controles, reglas claras y beneficios para nuestra gente.\n\nHoy esa decisión se transforma en un hecho histórico. La empresa Patagonia Gold concretó el primer despacho de oro y plata producido en Calcatreu, Jacobacci, marcando la primera exportación minera metalífera en la historia de Río Negro.\n\nDetrás de este logro hay años de trabajo, una inversión sostenida y el compromiso de cientos de trabajadores, muchos de ellos de Jacobacci y de toda la Región Sur. Hoy Calcatreu ya genera más de 200 puestos de trabajo y movimiento económico para empresas y proveedores rionegrinos.\n\nEste proyecto prevé exportaciones por aproximadamente U$S 1.800 millones a lo largo de su vida útil y aportará cerca de U$S 100 millones en ingresos directos para la Provincia, además del impacto que genera en empleo, infraestructura y desarrollo local.\n\nHace algunos años esto era una oportunidad que estaba bajo tierra, una roca. Hoy es producción, exportación y trabajo para los rionegrinos.\n\nLo que sale al mundo desde Calcatreu no es solamente oro y plata. Es el resultado de una provincia que decidió transformar sus recursos en desarrollo y abrir nuevas oportunidades para las generaciones que vienen.\n\nSabemos que falta, pero también sabemos que estamos en el rumbo correcto.",
+        "por_que_es_clave": "Weretilneck utiliza un hito económico para enviar un mensaje de autonomía y eficacia provincial, contrastando con la parálisis nacional. La exportación minera es un símbolo de desarrollo que busca atraer inversiones y posicionar a Río Negro como un modelo de gestión.",
+        "pregunta_openarg": "¿Puede la minería ser el motor de desarrollo federal que necesita Argentina, o es solo una promesa que beneficia a unos pocos?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Innovación",
+                "CFI",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Kicillof busca mostrarse como articulador federal con el CFI, pero su omisión de la crisis de seguridad y económica bonaerense revela un intento de despegarse de los problemas locales. El mensaje es: 'Yo gestiono recursos para la producción, mientras Nación abandona'.",
+            "frase_fuerte": "un instrumento indispensable para fortalecer el desarrollo de proyectos de base tecnológica en la provincia"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y orden"
+            ],
+            "postura_politica": "Macri redobla su perfil de mano dura, apuntando directamente a Kicillof y al 'desgobierno' bonaerense. Es una jugada para capitalizar el miedo y posicionarse como el líder de la oposición en seguridad.",
+            "frase_fuerte": "Se terminó el vale todo. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obras viales",
+                "Conectividad"
+            ],
+            "postura_politica": "Zdero se refugia en la gestión local, mostrando obras de rutas y plazas. Es un gesto de supervivencia política: mostrar que su gobierno ejecuta, mientras la Nación no envía fondos.",
+            "frase_fuerte": "Donde antes había abandono, hoy hay máquinas trabajando."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Narcotráfico",
+                "Ley Antimafias"
+            ],
+            "postura_politica": "Torres se reúne con la ministra de Seguridad nacional para coordinar la lucha contra el crimen organizado. Busca visibilidad y recursos, pero también se posiciona como un gobernador proactivo en un tema sensible.",
+            "frase_fuerte": "Nuestro compromiso es claro: llevar tranquilidad a los chubutenses y que los delincuentes estén donde tienen que estar: en la cárcel."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obras viales",
+                "Infraestructura",
+                "Desarrollo"
+            ],
+            "postura_politica": "Llaryora continúa su estrategia de mostrar obras financiadas con recursos provinciales, subrayando la autonomía de Córdoba frente a la Nación. Es un mensaje de eficiencia y capacidad de gestión.",
+            "frase_fuerte": "Aun en tiempos difíciles, en #Córdoba seguimos invirtiendo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Alivio fiscal",
+                "Exenciones impositivas",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Ziliotto anuncia exenciones impositivas para monotributistas y sectores estratégicos, buscando aliviar la presión fiscal y estimular la economía local. Es un gesto de autonomía y de contraposición al ajuste nacional.",
+            "frase_fuerte": "Frente a un contexto nacional complejo, redoblamos esfuerzos para sostener la actividad económica."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Periodistas",
+                "Reconocimiento"
+            ],
+            "postura_politica": "Quintela agasaja a periodistas en su día, un gesto protocolario que busca mantener vínculos con la prensa local. Sin embargo, su silencio sobre la crisis fiscal y energética de La Rioja es revelador.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Financiamiento pymes",
+                "Vitivinicultura",
+                "Exportaciones"
+            ],
+            "postura_politica": "Cornejo presenta líneas de crédito para pymes y promociona la vitivinicultura mendocina en un evento internacional. Es un mensaje de gestión proactiva y de apertura al mundo, contrastando con el aislamiento nacional.",
+            "frase_fuerte": "Las pymes son el principal motor de nuestra economía, generan empleo, invierten y sostienen gran parte de la actividad productiva de Mendoza."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Cultura",
+                "Obras",
+                "Gestión local"
+            ],
+            "postura_politica": "Passalacqua participa en un congreso jesuítico y muestra obras de infraestructura. Es una agenda de bajo perfil político, centrada en la identidad cultural y la gestión municipal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Periodistas",
+                "Reconocimiento"
+            ],
+            "postura_politica": "Figueroa saluda a los periodistas en su día, un gesto protocolario sin mayor carga política. Su silencio sobre Vaca Muerta y la economía provincial es notorio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Minería",
+                "Exportaciones",
+                "Obras",
+                "Agua potable"
+            ],
+            "postura_politica": "Weretilneck aprovecha la primera exportación minera para posicionar a Río Negro como un polo de desarrollo. Es un mensaje de autonomía y eficacia, buscando atraer inversiones y marcar diferencias con la Nación.",
+            "frase_fuerte": "Lo que sale al mundo desde Calcatreu no es solamente oro y plata. Es el resultado de una provincia que decidió transformar sus recursos en desarrollo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Obras judiciales",
+                "Educación",
+                "Infraestructura"
+            ],
+            "postura_politica": "Sáenz muestra avances en obras judiciales y educativas, financiadas con fondos provinciales. Es un gesto de gestión y de reclamo implícito a la Nación por la falta de recursos.",
+            "frase_fuerte": "Cuando asumimos un compromiso con nuestra gente, trabajamos para cumplirlo. Hechos, no palabras."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Obras hídricas",
+                "Seguridad regional",
+                "Financiamiento"
+            ],
+            "postura_politica": "Vidal anuncia obras de acueducto y participa en una reunión de seguridad patagónica. Busca mostrar gestión en medio de la crisis fiscal provincial, pero su llamado a la unidad contrasta con las tensiones internas.",
+            "frase_fuerte": "Durante años vimos obras inconclusas, proyectos que quedaban en promesas y servicios que no lograban dar respuesta a las necesidades de la comunidad."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Salud",
+                "Obras",
+                "Créditos productivos"
+            ],
+            "postura_politica": "Pullaro inaugura un hospital y anuncia créditos, reforzando su perfil de gestión. Es un mensaje de eficiencia y de contraposición al gobierno nacional, mostrando que Santa Fe avanza pese al contexto.",
+            "frase_fuerte": "Hacemos obras de norte a sur y de este a oeste, sin importar el color político del otro."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Política local",
+                "Pagos a empleados públicos"
+            ],
+            "postura_politica": "Suárez anuncia el cronograma de pagos de aguinaldos y bonos, un gesto de responsabilidad fiscal en una provincia con finanzas ajustadas. También presenta un candidato a intendente, mostrando actividad política interna.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Periodistas",
+                "Gestión de gabinete",
+                "Relaciones institucionales"
+            ],
+            "postura_politica": "Jaldo agasaja a periodistas y realiza una reunión de gabinete. Es una agenda de bajo perfil, buscando mostrar orden interno y diálogo con la prensa, sin posicionamientos fuertes.",
+            "frase_fuerte": null
+        }
+    ]
+}
