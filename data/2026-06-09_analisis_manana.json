@@ -1,0 +1,167 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada se caracterizó por una fuerte agenda de gestión provincial y un contraste político marcado. Jorge Macri (Ciudad Autónoma de Buenos Aires) celebró el orden urbano y el fin de los manteros, consolidando su narrativa de 'ley y orden' con una clara diferenciación respecto a la Provincia de Buenos Aires. Axel Kicillof (Buenos Aires) se enfocó en la reafiliación peronista bajo la bandera de la 'resistencia', un mensaje ideológico que coincide con la defensa de la soberanía planteada por Sergio Ziliotto (La Pampa). Otros gobernadores como Ignacio Torres (Chubut), Martín Llaryora (Córdoba), Rogelio Frigerio (Entre Ríos), Ricardo Quintela (La Rioja), Rolando Figueroa (Neuquén), Claudio Poggi (San Luis) y Osvaldo Jaldo (Tucumán) destacaron obras de infraestructura, programas de empleo, fomento productivo y políticas de inclusión, mostrando un activo rol provincial frente a dinámicas nacionales complejas.",
+    "analisis_profundo": "La agenda política federal de hoy exhibe una notable dualidad entre la gestión provincial proactiva y una persistente tensión interjurisdiccional. Jorge Macri (Ciudad Autónoma de Buenos Aires) monopoliza su actividad en X con una serie de retweets celebrando el éxito de sus políticas de 'ley y orden', particularmente la erradicación de manteros. Esta narrativa no solo subraya su estilo de gobierno, sino que también, a través de la elección de los retweets, proyecta una comparación directa y negativa con la administración de Axel Kicillof (Buenos Aires), reforzando una brecha ideológica y de gestión entre ambas jurisdicciones. La persistencia de esta contraposición, incluso a través de contenido de terceros, sugiere una estrategia de posicionamiento clara que busca consolidar a CABA como un modelo de 'orden' en contraste con la 'barbarie' (término usado en tweets previos retuiteados) atribuida a la Provincia de Buenos Aires.\n\nPor su parte, Axel Kicillof (Buenos Aires) enfoca su mensaje en una convocatoria interna a la militancia peronista bajo la consigna de 'resistencia'. Al evocar los fusilamientos de José León Suarez y el asesinato de Juan José Valle, Kicillof apela a un sentimiento histórico de lucha y pertenencia, sugiriendo que la 'resistencia' es la esencia del peronismo, una postura que podría interpretarse como una respuesta indirecta al contexto político nacional y a las críticas recibidas. Sergio Ziliotto (La Pampa) se alinea con este tono, ligando la 'resistencia' histórica peronista con la 'defensa de la soberanía' actual desde La Pampa, lo que implica una mirada crítica a las políticas nacionales.\n\nMientras tanto, un grupo significativo de gobernadores se concentra en comunicar logros de gestión y desarrollo local. Ignacio Torres (Chubut) resalta la finalización de obras de infraestructura vial clave para el turismo, mostrando eficiencia y capacidad de inversión provincial. Martín Llaryora (Córdoba) anuncia programas de empleo y entrega de tecnología para la inclusión de personas con discapacidad, enfatizando la visión social de su administración. Rogelio Frigerio (Entre Ríos) detalla un ambicioso plan de recuperación y nueva inversión en rutas provinciales, destacando la reconstrucción de Vialidad Provincial tras años de abandono y la gestión de financiamiento internacional. Ricardo Quintela (La Rioja) promueve programas de empleo joven y herramientas para el comercio local, buscando dinamizar la economía del conocimiento y apoyar a PyMEs. Rolando Figueroa (Neuquén) presenta cifras robustas de crecimiento exportador, impulsado por combustibles y energía, consolidando a su provincia como un polo de inversión. Claudio Poggi (San Luis) anuncia mejoras en salud, educación y reuniones con intendentes para fortalecer la gestión local. Finalmente, Osvaldo Jaldo (Tucumán) relanza programas de salud preventiva y destaca el apoyo a deportistas paralímpicos, evidenciando una gestión orientada al bienestar social.\n\nEsta jornada subraya la estrategia de los mandatarios de centrarse en la fortaleza de la gestión provincial como contrapeso a las dinámicas nacionales, utilizando sus plataformas para mostrar resultados concretos y defender sus identidades políticas y regionales.",
+    "temas_calientes": [
+        {
+            "tema": "Orden urbano y contraste de gestiones",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Narrativa de resistencia y defensa de la soberanía",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura y desarrollo productivo",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@frigeriorogelio",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Políticas sociales e inclusión",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento partidario y alianzas locales",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "En momentos donde otros ajustan, nosotros incluimos. Por eso me comprometí a seguir luchando para que se cumpla con la ley de los fondos destinados a las instituciones de discapacidad. Creo que en estos tiempos hay un nivel de crueldad sobre el cual no hay que quedarse más callado; hay que expresarlo. Ninguna familia ni persona en estado de discapacidad debe sentirse vulnerada. ¡En Córdoba la discapacidad, sí importa! #HacerParaCrecer",
+        "por_que_es_clave": "El gobernador (Córdoba) contrasta directamente su política de inclusión social y defensa de fondos para discapacidad con la 'crueldad' de otros 'ajustes', enviando un mensaje crítico a las políticas nacionales de recortes y reafirmando el compromiso provincial con los sectores más vulnerables.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Política partidaria",
+                "Resistencia peronista"
+            ],
+            "postura_politica": "Reafirma el valor histórico de la resistencia peronista, vinculándolo a la campaña de afiliación actual. Su discurso evoca un fuerte sentido de pertenencia y compromiso colectivo frente a lo que denomina 'individualismos', un mensaje ideológico en el contexto político nacional.",
+            "frase_fuerte": "nada hay más peronista que la resistencia, y nada más revolucionario que formar parte de un movimiento de masas en un tiempo de individualismos."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad urbana",
+                "Orden público",
+                "Gestión de espacio público",
+                "Diferenciación política"
+            ],
+            "postura_politica": "Promueve su gestión en el orden público y la seguridad, destacando la erradicación de manteros con la consigna 'ley y orden'. Sus retweets evidencian una estrategia de confrontación con la gestión de la Provincia de Buenos Aires, buscando posicionar a CABA como un modelo de gobernanza exitoso y contrastante.",
+            "frase_fuerte": "'Se terminó el vale todo. Ley y orden.'"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Turismo",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Anuncia la finalización de una ruta clave para la temporada de ballenas, destacando el cumplimiento de obras con fondos provinciales. Enfatiza la mejora de conectividad, seguridad y el fortalecimiento del turismo como motor de desarrollo y empleo para Chubut.",
+            "frase_fuerte": "Hoy llegamos a la temporada de ballenas con una obra terminada, más seguridad para quienes transitan la zona y mejores condiciones para seguir fortaleciendo el turismo, el empleo y el desarrollo de nuestra provincia."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Empleo",
+                "Inclusión social",
+                "Discapacidad",
+                "Crítica a ajuste nacional"
+            ],
+            "postura_politica": "Presenta programas de empleo y la entrega de tecnología para personas con discapacidad, enmarcando estas acciones en una defensa de la inclusión frente a 'ajustes' y 'crueldad' que atribuye a políticas nacionales. Reafirma el compromiso de Córdoba con la ley de fondos para discapacidad.",
+            "frase_fuerte": "En momentos donde otros ajustan, nosotros incluimos."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Política partidaria",
+                "Fortalecimiento de alianzas"
+            ],
+            "postura_politica": "Informa sobre la renovación de autoridades del Comité Capital del Partido Popular Correntino, una instancia de fortalecimiento interno de su alianza 'Vamos Corrientes'. Su mensaje es de apoyo y felicitación a los nuevos dirigentes.",
+            "frase_fuerte": "Felicitaciones y éxitos a los flamantes dirigentes que asumen esta responsabilidad para seguir fortaleciendo el trabajo político en la ciudad y nuestra alianza @vamosctesok."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Inversión",
+                "Gestión pública",
+                "Financiamiento internacional"
+            ],
+            "postura_politica": "Detalla un ambicioso plan de recuperación y modernización de la red vial provincial, destacando la eficiencia en la gestión de Vialidad Provincial y la obtención de financiamiento internacional. Promete intervenir el 100% de la red vial, conectando la infraestructura con la producción y el empleo.",
+            "frase_fuerte": "Nuestro compromiso es intervenir y mejorar el 100% de la red vial provincial."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Memoria histórica",
+                "Resistencia peronista",
+                "Soberanía provincial"
+            ],
+            "postura_politica": "Conmemora los 70 años de la resistencia peronista, ligando la defensa histórica de la democracia con la actual defensa de la soberanía de La Pampa. Su mensaje es una reivindicación del peronismo y una crítica implícita a las políticas nacionales.",
+            "frase_fuerte": "Y ASÍ COMO EN 1956 DEFENDIMOS LA DEMOCRACIA, HOY DESDE LA PAMPA DEFENDEMOS NUESTRA SOBERANÍA."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Empleo joven",
+                "Industria del conocimiento",
+                "Comercio local",
+                "Apoyo a PyMEs"
+            ],
+            "postura_politica": "Promueve programas como #Tecnoempleo para generar oportunidades laborales en la industria del conocimiento y #LaRiojaComercia para fortalecer el comercio local. Su gestión se enfoca en la innovación y el trabajo como motores del desarrollo provincial.",
+            "frase_fuerte": "Seguimos apostando al talento, la innovación y el trabajo como motores del desarrollo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Exportaciones",
+                "Energía",
+                "Inversión",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Presenta a Neuquén como la principal provincia exportadora de la Patagonia y un polo de inversión nacional, destacando el crecimiento impulsado por combustibles y energía. Enfatiza la consolidación de un modelo de desarrollo que genera más oportunidades para la provincia.",
+            "frase_fuerte": "Hoy es uno de los motores exportadores de la Argentina y seguimos trabajando para consolidar un modelo de desarrollo que genere más oportunidades para nuestra gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Salud pública",
+                "Educación",
+                "Capacitación",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Anuncia la puesta en valor de un centro de salud, una jornada de capacitación en educación y la firma de acuerdos con municipios para obras locales. Su gestión se centra en fortalecer servicios esenciales y la colaboración con gobiernos locales.",
+            "frase_fuerte": "Comenzaremos una puesta en valor en el corto plazo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Deporte inclusivo",
+                "Prevención sanitaria"
+            ],
+            "postura_politica": "Relanza un programa de salud preventiva ('Palpitar 2026') con enfoque en controles cardiovasculares y apoya a un joven atleta paralímpico. Destaca el rol del Estado en el cuidado de la salud y la promoción del deporte como herramienta de inclusión y superación.",
+            "frase_fuerte": "El partido más importante lo jugamos todos los días: es el de cuidar nuestra salud y la de nuestras familias."
+        }
+    ]
+}
