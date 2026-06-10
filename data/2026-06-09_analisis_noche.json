@@ -1,0 +1,247 @@
+{
+    "clima_general": "POLARIZADO",
+    "resumen_ejecutivo": "La jornada federal de hoy se caracterizó por una intensa actividad de gestión provincial y un marcado tono de confrontación interjurisdiccional. Jorge Macri (Ciudad de Buenos Aires) elevó la tensión con ataques directos al 'desgobierno de Kicillof' (Buenos Aires) en temas de seguridad. Paralelamente, gobernadores como Axel Kicillof (Buenos Aires), Rolando Figueroa (Neuquén), y Alberto Weretilneck (Río Negro) destacaron el dinamismo exportador y la primera exportación minera, respectivamente. Martín Llaryora (Córdoba) lanzó un programa masivo de empleo, mientras Leandro Zdero (Chaco) y Elías Suárez (Santiago del Estero) inauguraron obras clave. La agenda estuvo dominada por el desarrollo productivo, la infraestructura y la inversión social, con un fuerte acento en la autonomía y la capacidad de respuesta provincial.",
+    "analisis_profundo": "La agenda de los gobernadores hoy exhibe una dinámica federal polarizada, donde la gestión local y el desarrollo productivo se entrecruzan con claras tensiones políticas interprovinciales. El enfrentamiento más directo provino de Jorge Macri (Ciudad de Buenos Aires), quien, bajo el lema de 'Ley y orden', responsabilizó al 'desgobierno de Kicillof' (Buenos Aires) por problemas de seguridad que trascienden la General Paz. Esta fricción subraya una escalada en la polarización entre la capital y la provincia más grande del país, que podría tener implicancias en futuras negociaciones o alineamientos. \n\nEn contraste, la mayoría de los mandatarios se enfocaron en la consolidación de la autonomía y el impulso económico provincial. Kicillof (Buenos Aires) presentó datos que contradicen un supuesto 'atraso' de su provincia en exportaciones, buscando posicionar a Buenos Aires como motor productivo. Rogelio Frigerio (Entre Ríos) detalló un ambicioso 'Plan de Rutas' con financiamiento local e internacional, enfatizando la recuperación de la infraestructura. Rolando Figueroa (Neuquén) no solo destacó el rol exportador de su provincia y el lanzamiento de la temporada de invierno, sino que también se reunió con el Ministro del Interior, Diego Santilli, mostrando una postura de diálogo con el gobierno nacional pese a las diferencias. \n\nMartín Llaryora (Córdoba) se distinguió por su enfoque en la generación de empleo con el programa 'Empleo +26' y la inclusión para personas con discapacidad, lanzando una crítica velada a los 'ajustes' nacionales al afirmar que en Córdoba 'incluimos'. Sergio Ziliotto (La Pampa) reivindicó el modelo pampeano de 'Soberanía Política, Orden Fiscal, Producción, Trabajo y Protección Social' al posicionar a su provincia con baja vulnerabilidad social y conmemoró la 'resistencia peronista', vinculándola a la defensa de la soberanía actual. Ricardo Quintela (La Rioja) celebró un hallazgo paleontológico, lo que refleja una apuesta a la ciencia, junto a iniciativas de empleo y comercio local. \n\nEn el sur, Ignacio Torres (Chubut) reforzó la infraestructura turística con una ruta clave para el avistaje de ballenas, mientras que Alberto Weretilneck (Río Negro) marcó un hito con la primera exportación minera metalífera, demostrando una fuerte apuesta por el sector productivo y una solución social para los empleados policiales. Leandro Zdero (Chaco) y Elías Suárez (Santiago del Estero) concentraron sus anuncios en obras de infraestructura sanitaria y educativa, respectivamente, con fuerte énfasis en la inclusión y las oportunidades para sus poblaciones. Osvaldo Jaldo (Tucumán) enfocó su gestión en programas de salud preventiva y apoyo al deporte. En suma, la jornada reflejó un predominio de la gestión provincial ante un escenario nacional complejo, con los gobernadores buscando fortalecer sus economías y servicios, a menudo reivindicando la autonomía y capacidad de gestión propia, mientras las tensiones políticas entre distritos clave persisten y se manifiestan en el discurso público.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación Interprovincial y Seguridad",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Desarrollo Productivo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@NachoTorresCH",
+                "@frigeriorogelio",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Empleo y Programas Sociales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@ZiliottoSergio",
+                "@LeandroZdero",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Autonomía y Soberanía Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@WeretilneckOK",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Salud y Educación como Prioridades de Estado",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Trapitos del Conurbano jodiendo en la Ciudad. Vayan a extorsionar al desgobierno de Kicillof, que allá seguro se lo permiten. Acá se terminó el vale todo. Ley y orden.",
+        "por_que_es_clave": "Este tweet de Jorge Macri (Ciudad de Buenos Aires) genera una confrontación directa y pública con el gobernador Kicillof (Buenos Aires), elevando el tono en el debate sobre la seguridad y el orden público con claras implicancias políticas interprovinciales.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Economía provincial",
+                "Comercio exterior",
+                "Cooperación internacional",
+                "Obras públicas locales",
+                "Política partidaria"
+            ],
+            "postura_politica": "Defiende activamente la gestión económica de su provincia, buscando proyectar una imagen de crecimiento y autonomía frente a críticas nacionales. Mantiene una agenda de gestión local e internacional, y refuerza la identidad peronista.",
+            "frase_fuerte": "Mucho se habla de un supuesto atraso de PBA respecto del resto del país, pero los datos muestran otra cosa: la Provincia participa del boom exportador."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Orden público",
+                "Conflictividad interprovincial"
+            ],
+            "postura_politica": "Adopta una línea dura en seguridad y orden público, confrontando explícitamente a la provincia de Buenos Aires y su gobernador. Refuerza el discurso de 'Ley y orden' como eje central de su gestión.",
+            "frase_fuerte": "Trapitos del Conurbano jodiendo en la Ciudad. Vayan a extorsionar al desgobierno de Kicillof, que allá seguro se lo permiten. Acá se terminó el vale todo. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Se enfoca en el desarrollo de infraestructura como pilar para el crecimiento y la igualdad, a través del diálogo interprovincial y sectorial.",
+            "frase_fuerte": "Desarrollar infraestructura es generar igualdad, comunicarnos mejor y eliminar injusticias históricas."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Salud pública",
+                "Educación",
+                "Inversión social"
+            ],
+            "postura_politica": "Destaca la inversión en servicios esenciales como salud y educación, buscando mejorar la calidad de vida y las oportunidades en la provincia. Enfatiza la finalización de obras postergadas.",
+            "frase_fuerte": "Continuamos fortaleciendo el sistema sanitario con más tecnología, mejores prestaciones y una atención de calidad para todos los chaqueños."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Turismo",
+                "Infraestructura",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Impulsa el desarrollo turístico a través de inversiones en infraestructura, buscando posicionar a Chubut como destino clave y generar empleo local. Se enfoca en cumplir los compromisos de gestión.",
+            "frase_fuerte": "Hoy llegamos a la Temporada de Ballenas con la obra finalizada, más seguridad vial y la primera ciclovía de una ruta provincial, para que cada vez más vecinos y turistas puedan disfrutar de uno de los mejores lugares del mundo para el avistaje de la Ballena Franca Austral."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Empleo",
+                "Inclusión social",
+                "Discapacidad",
+                "Tecnología"
+            ],
+            "postura_politica": "Prioriza la generación de empleo y la inclusión social a través de programas específicos y el uso de tecnología. Crítica implícita a políticas nacionales de ajuste, reafirmando un modelo provincial con sensibilidad social.",
+            "frase_fuerte": "En momentos donde otros ajustan, nosotros incluimos."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Política partidaria"
+            ],
+            "postura_politica": "Centrado en la consolidación de su espacio político y alianzas a nivel local, mostrando actividad interna del partido.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Gestión pública",
+                "Financiamiento"
+            ],
+            "postura_politica": "Se muestra como un gestor enfocado en la recuperación y modernización de la infraestructura vial, destacando la transparencia y la obtención de financiamiento externo, así como el diálogo con Nación.",
+            "frase_fuerte": "Nuestro compromiso es intervenir y mejorar el 100% de la red vial provincial."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Desarrollo social",
+                "Modelo provincial",
+                "Soberanía",
+                "Conmemoración histórica"
+            ],
+            "postura_politica": "Reivindica el modelo de provincia pampeano como garante de bienestar social y autonomía. Conecta la conmemoración de la Resistencia Peronista con la defensa actual de la soberanía.",
+            "frase_fuerte": "Nuevamente somos una referencia nacional. No es casualidad. Es consecuencia de un modelo de provincia con Soberanía Política, Orden Fiscal, Producción, Trabajo y Protección Social."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Ciencia",
+                "Patrimonio cultural",
+                "Salud pública",
+                "Empleo local",
+                "Pymes"
+            ],
+            "postura_politica": "Prioriza la inversión en ciencia y el desarrollo local a través de programas de empleo y apoyo a pymes. Muestra preocupación por los consumos problemáticos en la comunidad.",
+            "frase_fuerte": "En La Rioja apostamos y defendemos la ciencia, la investigación y la protección de nuestro patrimonio."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Tecnología en salud",
+                "Seguridad neonatal"
+            ],
+            "postura_politica": "Enfocado en la modernización de la salud pública mediante la incorporación de tecnología para mejorar la seguridad y la identidad neonatal, buscando estándares de calidad para todos los mendocinos.",
+            "frase_fuerte": "Mendoza vuelve a dar un paso adelante en la modernización de la salud pública, con tecnología aplicada al cuidado de las personas y los mismos estándares de seguridad para todas las familias que se atienden en nuestro sistema sanitario."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Turismo",
+                "Educación",
+                "Deporte",
+                "Obras públicas"
+            ],
+            "postura_politica": "Impulsa el turismo y el deporte, valora programas educativos para que los jóvenes conozcan la provincia. Destaca obras de mejora local y la importancia de la participación comunitaria.",
+            "frase_fuerte": "Felicito a todos los que forman parte de esta iniciativa, una oportunidad muy valiosa para que nuestros chicos y chicas conozcan, aprendan y se enamoren aún más de esta tierra maravillosa que tenemos los misioneros."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Turismo",
+                "Exportaciones",
+                "Energía",
+                "Infraestructura",
+                "Diálogo con Nación"
+            ],
+            "postura_politica": "Proyecta a Neuquén como motor exportador y destino turístico clave, destacando el dinamismo económico y la importancia de la infraestructura. Mantiene una línea de diálogo con el gobierno nacional para el avance de obras.",
+            "frase_fuerte": "Neuquén consolidó en 2025 un fuerte crecimiento de sus exportaciones y se afianzó como la principal provincia exportadora de la Patagonia, concentrando el 50% del total regional."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Minería",
+                "Exportaciones",
+                "Justicia social (policial)",
+                "Salud",
+                "Asistencia social",
+                "Educación"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con el desarrollo minero como fuente de ingresos y empleo, la reparación histórica a fuerzas de seguridad, y la asistencia social y educativa, posicionando a Río Negro como una provincia en marcha.",
+            "frase_fuerte": "RÍO NEGRO HACE HISTORIA: SU PRIMERA EXPORTACIÓN DE ORO Y PLATA."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Salud",
+                "Educación",
+                "Infraestructura"
+            ],
+            "postura_politica": "Centrado en la recuperación del orden y la seguridad con uso de tecnología, la mejora de la infraestructura de salud y la inversión en educación, con una política de 'puertas abiertas' para obras sin importar el color político.",
+            "frase_fuerte": "Acá, el que las hace, las paga."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Educación",
+                "Vivienda",
+                "Inclusión social"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura educativa y la construcción de viviendas sociales como herramientas clave para la inclusión y el desarrollo de las familias.",
+            "frase_fuerte": "Más educación, más oportunidades y más inclusión para las familias de Río Hondo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Salud",
+                "Deporte",
+                "Inclusión social",
+                "Educación",
+                "Gobierno abierto"
+            ],
+            "postura_politica": "Se enfoca en programas de salud preventiva con figuras públicas, apoyo a deportistas paralímpicos y la apertura de la Casa de Gobierno a estudiantes y turistas. Promueve un gobierno cercano y accesible.",
+            "frase_fuerte": "El partido más importante lo jugamos todos los días: es el de cuidar nuestra salud y la de nuestras familias."
+        }
+    ]
+}
