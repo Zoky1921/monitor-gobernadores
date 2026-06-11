@@ -1,0 +1,279 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una profunda polarización. Gobernadores opositores, como Axel Kicillof (Buenos Aires) y Nacho Torres (Chubut), intensificaron la confrontación con el Gobierno nacional por deudas de ANSES, con Kicillof avanzando por vía cautelar y denunciando el método del superávit. En contraste, Jorge Macri (CABA) celebró la máxima calificación crediticia de su distrito, vinculándola directamente a la 'macroeconomía ordenada' nacional y adoptando un discurso de 'ley y orden' con confrontación al 'kirchnerismo'. Varios mandatarios, incluyendo Gildo Insfrán (Formosa), Sergio Ziliotto (La Pampa) y Alberto Weretilneck (Río Negro), reafirmaron la soberanía sobre Malvinas. La agenda de desarrollo productivo y obras provinciales, especialmente en minería, energía e infraestructura, mantuvo un fuerte dinamismo en Mendoza, Neuquén, Río Negro y San Juan, buscando potenciar economías regionales y generar empleo en un contexto de tensiones nacionales.",
+    "analisis_profundo": "La dinámica federal hoy se presenta en un estado de elevada tensión, dominada por dos narrativas contrapuestas. Por un lado, la confrontación explícita de gobernadores peronistas como Axel Kicillof (Buenos Aires), quien escaló su reclamo por la deuda de ANSES con la Provincia de Buenos Aires a la vía cautelar, acusando al Gobierno nacional de construir superávit 'negando el pago a jubilados, universidades y provincias'. Esta postura es reforzada por Nacho Torres (Chubut), quien, si bien destina fondos recuperados de la deuda de ANSES a la caja previsional, subraya la relevancia de estos fondos ante la inacción nacional. Estas acciones señalan un endurecimiento en la estrategia de las provincias opositoras frente al ajuste fiscal central.\n\nEn la vereda opuesta, Jorge Macri (CABA) capitalizó el anuncio de la máxima calificación crediticia de Moody's Local para la Ciudad Autónoma de Buenos Aires, utilizando su plataforma para elogiar al Gobierno nacional por una 'macroeconomía ordenada que devuelve previsibilidad'. Este discurso no solo busca diferenciarse, sino también marcar un punto de alineamiento y éxito bajo el marco económico actual. Su retórica se endurece aún más en materia de seguridad, con una confrontación directa al 'kirchnerismo' por las políticas de 'ley y orden' en la Ciudad.\n\nUn punto de consenso, aunque disímil en su motivación, fue la conmemoración del Día de la Afirmación de los Derechos Argentinos sobre las Malvinas. Varios gobernadores, entre ellos Gildo Insfrán (Formosa), Sergio Ziliotto (La Pampa), Alberto Weretilneck (Río Negro) y Claudio Poggi (San Luis), utilizaron sus redes para reafirmar la soberanía argentina, demostrando que la 'Cuestión Malvinas' sigue siendo un aglutinador nacional y una bandera política en el ámbito provincial.\n\nFinalmente, la gestión provincial continuó con un fuerte enfoque en el desarrollo productivo, la inversión y la infraestructura. Gobernadores como Alfredo Cornejo (Mendoza) impulsaron la provincia como 'hub financiero andino' y destino de inversión minera, mientras Rolando Figueroa (Neuquén) apostó a la integración energética binacional con Chile, buscando posicionar a Vaca Muerta como garante de seguridad energética regional. En Río Negro y San Juan, Alberto Weretilneck y Marcelo Orrego, respectivamente, celebraron hitos en exportaciones mineras y obras de infraestructura, conectando el avance productivo con la generación de empleo local. La diversidad de estas iniciativas muestra a las provincias buscando autonomía y desarrollo en un escenario nacional complejo y fragmentado.",
+    "temas_calientes": [
+        {
+            "tema": "Tensiones Federales por Fondos y Narrativas Económicas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Afirmación de Soberanía sobre Malvinas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Fomento Productivo, Inversiones y Empleo",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@frigeriorogelio",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Gestión Provincial y Desarrollo Social (Infraestructura y Servicios Básicos)",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@gustavomelella",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Justicia y la Seguridad",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "El Gobierno nacional desconoció su compromiso de acercar una propuesta de pago en la audiencia de hoy en la Corte Suprema por los más de $2,3 billones que nos adeuda ANSES. Por ese motivo, dimos por terminada la etapa de conciliación y decidimos avanzar por la vía cautelar. Así es como construyen el superávit, negando el pago a los jubilados, a las universidades y a las provincias. En el caso de la Provincia de Buenos Aires, la deuda asciende a más de $22 billones, entre lo que han dejado de transferir y la pérdida de recaudación. No son números pequeños, equivale a la mitad de nuestro presupuesto anual. Vamos a seguir reclamando esos fondos porque no son de un Gobernador, le corresponden al pueblo bonaerense.",
+        "por_que_es_clave": "Este tweet expone una confrontación directa y escalada entre la Provincia de Buenos Aires y el Gobierno nacional por una deuda multimillonaria de ANSES. La decisión de avanzar por vía cautelar y la crítica abierta a la gestión del superávit nacional lo convierten en un mensaje de alto voltaje político con implicaciones fiscales y sociales significativas para una provincia clave, evidenciando profundas tensiones federales en un tema central de financiamiento.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Reclamo federal de fondos",
+                "Política ideológica",
+                "Soberanía (Malvinas)",
+                "Gestión social"
+            ],
+            "postura_politica": "Firmemente opositor al Gobierno nacional, criticando su modelo económico y la retención de fondos. Defiende el rol del Estado en la protección social y la soberanía. Adopta una postura de liderazgo en la defensa de los recursos y derechos provinciales.",
+            "frase_fuerte": "Así es como construyen el superávit, negando el pago a los jubilados, a las universidades y a las provincias."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Finanzas públicas",
+                "Seguridad",
+                "Apoyo al Gobierno nacional"
+            ],
+            "postura_politica": "Se alinea con la narrativa de 'orden' y 'disciplina fiscal' del Gobierno nacional, atribuyendo los logros económicos de CABA a un contexto nacional favorable. Adopta un tono confrontacional hacia el 'kirchnerismo' en temas de seguridad.",
+            "frase_fuerte": "Si al kirchnerismo le molesta que lleguen la ley y el orden a las villas, vamos por buen camino."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo"
+            ],
+            "postura_politica": "Enfocado en la promoción del desarrollo provincial a través de la infraestructura, buscando espacios de diálogo sectorial con actores nacionales clave como la Cámara Argentina de la Construcción.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Producción",
+                "Empleo",
+                "Infraestructura educativa y sanitaria"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura básica (escuelas, hospitales) y el fomento de la producción y el empleo local como motores de desarrollo, destacando logros concretos de su gestión en el Chaco.",
+            "frase_fuerte": "Cada nueva industria que se pone en marcha significa más producción, más valor agregado y más empleo para los chaqueños."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Reclamo federal de fondos",
+                "Finanzas previsionales"
+            ],
+            "postura_politica": "Muestra una gestión proactiva en la recuperación y destino específico de fondos adeudados por la Nación a la caja previsional, marcando una agenda clara en defensa de los jubilados chubutenses y el manejo responsable de los recursos.",
+            "frase_fuerte": "hasta el último peso que ingrese por la histórica deuda de ANSES con Chubut va a ir a nuestros jubilados."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Gestión económica provincial"
+            ],
+            "postura_politica": "Busca fortalecer las herramientas financieras provinciales para impulsar el desarrollo, como la renovación del directorio de Bancor con perfiles técnicos que aporten a una institución más dinámica y competitiva en Córdoba.",
+            "frase_fuerte": "Contar con un banco provincial fuerte, moderno y competitivo es una decisión estratégica para el presente y el futuro de los cordobeses."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Inversión",
+                "Empleo",
+                "Desarrollo"
+            ],
+            "postura_politica": "Impulsa un modelo de 'Estado inteligente, ágil y moderno' que facilita la inversión privada y la generación de empleo en Entre Ríos, celebrando las iniciativas municipales que se alinean con su visión provincial.",
+            "frase_fuerte": "Creemos en un Estado inteligente, ágil y moderno. Un Estado que facilite, que impulse y que esté del lado de quienes todos los días apuestan por Entre Ríos."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Soberanía (Malvinas)"
+            ],
+            "postura_politica": "Reafirma con contundencia el reclamo de soberanía sobre las Islas Malvinas, presentándolo como una causa que une a todos los argentinos y ligada profundamente a la identidad nacional y formoseña.",
+            "frase_fuerte": "¡Las Malvinas fueron, son y serán argentinas!"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Soberanía (Malvinas)",
+                "Gestión social y económica"
+            ],
+            "postura_politica": "Mantiene una fuerte defensa de la soberanía sobre Malvinas. Resalta los logros de su gestión en la reducción de la vulnerabilidad social y el orden fiscal, atribuyéndolos a un 'modelo de provincia' pampeano específico basado en soberanía y protección social.",
+            "frase_fuerte": "Malvinas ocupa un lugar permanente en el corazón de nuestro pueblo porque expresa algo más profundo que una reivindicación territorial: representa la decisión de una Nación de no renunciar nunca a lo que le pertenece y de sostener sus reclamos con firmeza, unidad y vocación de paz."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Empleo",
+                "Economía provincial",
+                "Ciencia y patrimonio"
+            ],
+            "postura_politica": "Se enfoca en la defensa del trabajo y la producción local en un contexto económico complejo, promoviendo herramientas provinciales. Destaca la inversión en ciencia y la protección del patrimonio como pilares del desarrollo de La Rioja.",
+            "frase_fuerte": "Defender el trabajo es defender la dignidad de las riojanas y los riojanos."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Inversión",
+                "Finanzas",
+                "Desarrollo minero",
+                "Política habitacional"
+            ],
+            "postura_politica": "Promueve a Mendoza como un destino atractivo para inversiones, destacando la baja presión fiscal, la estabilidad institucional y el desarrollo de sectores estratégicos como la minería. Muestra gestión activa en soluciones habitacionales.",
+            "frase_fuerte": "El crecimiento lo generan quienes invierten, producen y crean empleo. Nuestro desafío es seguir construyendo las condiciones para que más empresas elijan crecer en Mendoza."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Finanzas provinciales (aguinaldo)",
+                "Cultura",
+                "Educación y Turismo"
+            ],
+            "postura_politica": "Se enfoca en la gestión financiera interna (pago de salarios) y en la promoción cultural y turística de Misiones, buscando anticipar y facilitar la organización familiar y la actividad económica en la provincia.",
+            "frase_fuerte": "Informo que el viernes 19 de junio estará acreditado el Sueldo Anual Complementario (aguinaldo) de los jubilados, pensionados, retirados provinciales y de los empleados públicos activos del Estado provincial."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Integración binacional",
+                "Energía",
+                "Infraestructura",
+                "Turismo"
+            ],
+            "postura_politica": "Lidera la promoción de Neuquén como proveedor de seguridad energética para Chile a partir de Vaca Muerta, con un fuerte enfoque en la integración regional a través de infraestructura y corredores bioceánicos, destacando el potencial de la provincia.",
+            "frase_fuerte": "Neuquén puede brindar seguridad energética a Chile y, para lograrlo, queremos construir una agenda permanente de trabajo y colaboración."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Minería",
+                "Producción",
+                "Seguridad",
+                "Gestión social",
+                "Malvinas"
+            ],
+            "postura_politica": "Celebra logros históricos en exportación minera y resalta el potencial productivo de Río Negro. Muestra una gestión activa en seguridad y en la provisión de servicios y programas sociales. Reafirma la soberanía sobre Malvinas como parte de la identidad rionegrina.",
+            "frase_fuerte": "Histórico: Río Negro concretó su primera exportación de oro y plata."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Minería",
+                "Empleo local"
+            ],
+            "postura_politica": "Enfatiza la conexión entre el desarrollo minero, la inversión en infraestructura y la generación de empleo para los sanjuaninos, destacando la prioridad de la gestión local y el impacto positivo de una minería responsable.",
+            "frase_fuerte": "Cuando la minería avanza bien, deja empleo, conectividad y oportunidades reales."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura",
+                "Industria",
+                "Empleo",
+                "Educación",
+                "Malvinas",
+                "Servicios"
+            ],
+            "postura_politica": "Enfocado en la concreción de obras de vivienda e infraestructura, el impulso a la industria local y la generación de empleo, así como el fomento de la educación y el acceso a servicios. Destaca la colaboración interinstitucional para el progreso de San Luis.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse !!"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Apoyo a la producción",
+                "Finanzas",
+                "Vivienda",
+                "Educación"
+            ],
+            "postura_politica": "Prioriza el apoyo al sector productivo a través de herramientas financieras y el fortalecimiento de la educación técnica. Muestra una gestión activa en la seguridad jurídica de la vivienda y la mejora de la infraestructura educativa en Santa Fe.",
+            "frase_fuerte": "Cuando ordenás el Estado y administrás con eficiencia, los recursos vuelven a donde tienen que estar: apoyando a la producción."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Empleo",
+                "Tecnología",
+                "Política local"
+            ],
+            "postura_politica": "Impulsa iniciativas de empleo local a través de herramientas tecnológicas, buscando modernizar la oferta de servicios y conectar a los trabajadores. Muestra una participación activa en la política interna de Santiago del Estero.",
+            "frase_fuerte": "Lanzamos ServicioSGO, para fortalecer el trabajo de cada santiagueño."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Energía",
+                "Infraestructura"
+            ],
+            "postura_politica": "Se centra en garantizar el suministro energético a largo plazo mediante inversiones estratégicas en infraestructura, clave para el crecimiento y desarrollo sostenible de Tierra del Fuego.",
+            "frase_fuerte": "Recorrimos los avances de la nueva usina termoeléctrica de Ushuaia, una obra estratégica que garantizará la energía que nuestra ciudad necesita para seguir creciendo durante los próximos 35 años."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Gobernabilidad",
+                "Justicia",
+                "Educación"
+            ],
+            "postura_politica": "Se enfoca en fortalecer las instituciones y la relación entre los poderes del Estado para asegurar la gobernabilidad y brindar una justicia eficiente en Tucumán. Atiende las demandas de la comunidad educativa, promoviendo el diálogo.",
+            "frase_fuerte": "En Tucumán seguimos fortaleciendo las instituciones y consolidando una Justicia cada vez más cercana, eficiente y al servicio de la gente."
+        }
+    ]
+}
