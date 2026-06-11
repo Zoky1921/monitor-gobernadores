@@ -1,0 +1,189 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jorge Macri capitaliza la máxima calificación crediticia de CABA como trofeo de gestión PRO, contrastando con el silencio fiscal de otras provincias. Gildo Insfrán rompe la apatía al denunciar la paralización de obras nacionales. El resto se refugia en agenda local, evitando roces con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada estuvo dominada por la celebración de la calificación AAA de CABA, un golpe simbólico de Jorge Macri que reivindica el equilibrio fiscal como marca PRO. Mientras, Gildo Insfrán (Formosa) expuso la herida abierta de la obra pública nacional paralizada, recordando que el ajuste no es neutro. Entre ambos polos, la mayoría de los gobernadores optó por un silencio táctico, exhibiendo gestión de cabotaje para no quedar expuestos.\n\nActo 2 — Los Alineamientos: Macri se consolida como el principal activo opositor con gobernabilidad propia, mientras Insfrán se erige en voz del peronismo federal que aún resiste. Kicillof, tras su ofensiva de la semana contra la deuda de ANSES, hoy se repliega en un tuit de escrituras, sugiriendo que la batalla fiscal se libra en los tribunales, no en Twitter. Llaryora y Ziliotto muestran eficiencia provincial sin mencionar a Nación, una forma de autonomía calculada.\n\nActo 3 — La Micro-política: Zdero, Pullaro y Weretilneck apuestan a obras locales y seguridad, evitando cualquier roce con la Casa Rosada. Figueroa juega la carta binacional con Chile, un gesto de proyección que no incomoda al oficialismo. Vidal y Suárez se mantienen en un perfil bajo, casi administrativo. La ausencia de gobernadores del Norte Grande en la agenda de hoy (salvo Insfrán) sugiere una pausa en la coordinación regional.\n\nActo 4 — Saldo Presidencial: Para Milei, el día es agridulce. La calificación de CABA valida su receta de ajuste, pero la queja de Insfrán recuerda que el costo político del recorte se siente en el interior. La mayoría de los gobernadores no le dio batalla, pero tampoco le regaló adhesiones. El tablero muestra una oposición fragmentada y una gestión nacional que aún no logra traccionar apoyos explícitos.",
+    "temas_calientes": [
+        {
+            "tema": "Celebración de la máxima calificación crediticia de CABA como símbolo de gestión PRO",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Crítica a la paralización de obras públicas nacionales",
+            "gobernadores_involucrados": [
+                "@insfran_gildo"
+            ]
+        },
+        {
+            "tema": "Gestión de infraestructura educativa y social provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Innovación en salud pública provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Integración binacional y regional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @gzinny)",
+        "texto": "El orden sostenido en las cuentas públicas es una decisión de @jorgemacri que hoy muestra resultados concretos: la Ciudad alcanzó su máxima calificación crediticia de Moody's Local, AAA. Es ese mismo orden el que hace posible ejecutar un récord histórico de obras, con una inversión superior a USD 1.200 millones. Esta mejora en la calificación nos permitirá acceder a financiamiento a menor costo, para seguir impulsando las obras estratégicas que la Ciudad necesita para desarrollarse.",
+        "por_que_es_clave": "Macri convierte un dato técnico en un arma política: exhibe que el orden fiscal PRO es superior al desorden nacional, y de paso marca la cancha frente a Kicillof, cuyo reclamo por deuda de ANSES contrasta con la autonomía financiera porteña.",
+        "pregunta_openarg": "¿La calificación AAA de CABA es un mérito de la gestión local o un reflejo de la desigualdad estructural entre la Ciudad y las provincias?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "escrituras",
+                "vivienda",
+                "gestión provincial"
+            ],
+            "postura_politica": "Repliegue táctico tras la ofensiva de la semana. Muestra gestión local para no quedar pegado al conflicto con Nación, pero sin abandonar la narrativa de derechos.",
+            "frase_fuerte": "Con #MiEscrituraMiCasa, el programa que lleva adelante el Ministerio de @justiciayddhhBA, en la Provincia damos un paso más para asegurar derechos de los bonaerenses."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "calificación crediticia",
+                "equilibrio fiscal",
+                "gestión PRO"
+            ],
+            "postura_politica": "Ofensiva simbólica: usa la nota AAA para legitimar su modelo y contrastar con el desorden nacional. Cada retweet es una capa de propaganda.",
+            "frase_fuerte": "Moody's Local nos calificó con la máxima calificación crediticia que se le puede otorgar a un emisor argentino: somos el único gobierno subnacional con nota AAA."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "educación",
+                "infraestructura escolar",
+                "producción"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en obras de escuelas y producción, evitando cualquier mención a Nación.",
+            "frase_fuerte": "La comunidad educativa de la EES N°27 de Avia Terai ya disfruta de espacios renovados y nuevo equipamiento."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "salud pública",
+                "innovación",
+                "implante"
+            ],
+            "postura_politica": "Muestra capacidad tecnológica provincial. Sin roces con Nación, pero reivindica la inversión propia en salud.",
+            "frase_fuerte": "Este es un nuevo hito de la #SaludPública de Córdoba. Seguimos apostando por un sistema sanitario de calidad."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "obra pública nacional",
+                "paralización",
+                "ingenieros"
+            ],
+            "postura_politica": "Crítica directa al gobierno nacional por frenar obras. Se posiciona como defensor del desarrollo federal frente al ajuste.",
+            "frase_fuerte": "Nos plantearon su preocupación por la decisión del gobierno nacional de paralizar completamente las obras públicas."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "salud digital",
+                "tecnología",
+                "ranking"
+            ],
+            "postura_politica": "Exhibe un logro provincial sin mencionar a Nación. Es una forma de decir 'gestionamos bien solos'.",
+            "frase_fuerte": "La Pampa, la provincia con mayor desarrollo tecnológico aplicado a la salud pública."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "educación",
+                "infraestructura",
+                "climatización"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a inaugurar obras educativas.",
+            "frase_fuerte": "Invertir en infraestructura es garantizar que más riojanas y riojanos puedan construir su futuro."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "vitivinicultura",
+                "exportaciones",
+                "Vinexpo"
+            ],
+            "postura_politica": "Promoción económica provincial. Sin conflictos, muestra a Mendoza como socio confiable para inversiones.",
+            "frase_fuerte": "Mendoza fue la primera provincia del mundo en ser sede de este evento por segunda vez."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "producción",
+                "tecnología",
+                "diversificación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Entrega insumos a productores.",
+            "frase_fuerte": "En San Vicente realizamos la primera entrega de insumos del programa de Incorporación de Tecnologías Frutihortícolas."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "integración binacional",
+                "Chile",
+                "energía"
+            ],
+            "postura_politica": "Proyección internacional. Busca posicionar a Neuquén como hub energético, sin confrontar con Nación.",
+            "frase_fuerte": "Queremos que la cordillera sirva para unir y no para separar."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "seguridad",
+                "infraestructura",
+                "electrificación",
+                "pymes"
+            ],
+            "postura_politica": "Gestión múltiple sin roces. Muestra resultados en seguridad y obras, evitando temas nacionales.",
+            "frase_fuerte": "La producción rionegrina necesita energía, y la energía ya está en camino."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "financiamiento",
+                "infraestructura",
+                "responsabilidad"
+            ],
+            "postura_politica": "Tono institucional. Busca consenso para una ley de financiamiento, sin atacar a Nación pero reconociendo dificultades.",
+            "frase_fuerte": "Tenemos la posibilidad de dar un paso importante hacia el futuro que todos queremos para Santa Cruz."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "escrituras",
+                "vivienda",
+                "protección"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Entrega escrituras gratuitas, mostrando gestión social.",
+            "frase_fuerte": "Brindamos esta herramienta gratuita para que todos puedan proteger el bien más preciado que tenemos en la sociedad, nuestra vivienda."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "solidaridad",
+                "fundación",
+                "evento"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Participa en un evento solidario, sin contenido político.",
+            "frase_fuerte": null
+        }
+    ]
+}

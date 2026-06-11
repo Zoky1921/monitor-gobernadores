@@ -1,0 +1,213 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "El escenario político federal se presenta tenso, marcado por la preocupación de gobernadores ante el impacto de las políticas nacionales. Gildo Insfrán (Formosa) criticó abiertamente la paralización de obras públicas por parte del gobierno nacional, reflejando una clara fricción. En contraste, Jorge Macri (Ciudad de Buenos Aires) celebró la máxima calificación crediticia de su jurisdicción, proyectando confianza en la gestión fiscal. Otros mandatarios como Axel Kicillof (Buenos Aires), Leandro Zdero (Chaco), Ricardo Quintela (La Rioja) y Martín Llaryora (Córdoba) se enfocaron en programas sociales, vivienda, educación y salud, destacando la gestión provincial. Se observan también esfuerzos de integración binacional y desarrollo productivo en Neuquén (Neuquén), Mendoza (Mendoza) y Misiones (Misiones).",
+    "analisis_profundo": "La jornada revela una polarización en las agendas provinciales, con un clima predominantemente tenso entre algunas jurisdicciones y el gobierno central. La preocupación central expresada por Gildo Insfrán (Formosa) sobre la paralización de obras públicas a nivel nacional subraya las crecientes tensiones fiscales y de inversión entre Nación y provincias. Esta crítica se contrapone con la narrativa de éxito fiscal y administrativo promovida por Jorge Macri (Ciudad de Buenos Aires), quien destacó la máxima calificación crediticia obtenida por la Ciudad, atribuyéndola a un 'orden fiscal, previsibilidad y cumplimiento', lo que a su vez se alinea con la visión de un gobierno nacional que 'logra una macroeconomía ordenada'. Paralelamente, varios gobernadores concentraron sus comunicaciones en logros de gestión provincial. Axel Kicillof (Buenos Aires) promocionó programas de vivienda y protección a la niñez, enfatizando el rol del Estado presente. Leandro Zdero (Chaco) y Ricardo Quintela (La Rioja) resaltaron inversiones en infraestructura educativa y desarrollo local, mientras que Martín Llaryora (Córdoba) puso en valor innovaciones en salud pública. Claudio Poggi (San Luis) exhibió un amplio abanico de avances en vivienda, educación y servicios locales, incluyendo la afirmación de soberanía sobre Malvinas. Sergio Ziliotto (La Pampa) destacó el liderazgo en tecnología aplicada a la salud pública, consolidando la eficiencia estatal. En el ámbito económico, Alfredo Cornejo (Mendoza) celebró el éxito de un evento internacional de vitivinicultura a granel, potenciando las exportaciones. Hugo Passalacqua (Misiones) promovió la diversificación productiva con tecnología agrícola. La necesidad de financiamiento para obras esenciales y el impacto en la calidad de vida fue el eje del mensaje de Claudio Vidal (Santa Cruz), lo que podría interpretarse como una demanda implícita de mayores recursos o facilidades financieras. Finalmente, la integración regional cobra relevancia con Omar Figueroa (Neuquén) quien impulsó activamente la cooperación binacional con la región del Biobío (Chile) en materia energética y de infraestructura. Marcelo Orrego (San Juan) celebró la inauguración de puentes clave para el desarrollo minero, ligando la actividad a la generación de empleo y oportunidades. La constante de estas comunicaciones es la búsqueda de autonomía y el impulso al desarrollo provincial, a menudo en un contexto de recursos limitados o disputas con el gobierno federal.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Obra Pública: Impacto de las políticas nacionales",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@ClaudioVidalSer",
+                "@WeretilneckOK",
+                "@DrMarceloOrrego",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Gestión Fiscal y Financiamiento Provincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo e Inversión Regional",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Salud Pública y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Integración Regional y Binacional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@DrMarceloOrrego"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@insfran_gildo",
+        "texto": "REUNIÓN CON EL COLEGIO DE INGENIEROS Esta mañana recibimos en Casa de Gobierno a la nueva conducción del Colegio Público de Ingenieros de Formosa, en el marco del mes de la ingeniería y en vísperas de la 2° Edición de la Expo Ingeniería, a realizarse este fin de semana en el Galpón G del Paseo Costanero. Durante el encuentro dialogamos sobre la actualidad y los desafíos de los sectores productivos en nuestra provincia, la importancia de la infraestructura para el desarrollo y nos plantearon su preocupación por la decisión del gobierno nacional de paralizar completamente las obras públicas. ¡Saludo a todos los ingenieros e ingenieras de Formosa! #TodosUnidos #Formosa",
+        "por_que_es_clave": "El gobernador de Formosa (Formosa) expresa una clara preocupación por la paralización de obras públicas nacionales, lo que marca una tensión directa con el gobierno federal y el impacto de sus políticas en el desarrollo provincial.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Vivienda y Acceso a la Propiedad",
+                "Protección de Niñez y Adolescencia"
+            ],
+            "postura_politica": "Se enfoca en la gestión social y el rol del Estado provincial como garante de derechos, especialmente en vivienda y niñez, reafirmando su compromiso con programas de impacto directo en la comunidad.",
+            "frase_fuerte": "Con #MiEscrituraMiCasa, el programa que lleva adelante el Ministerio de @justiciayddhhBA, en la Provincia damos un paso más para asegurar derechos de los bonaerenses."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Gestión Fiscal y Calificación Crediticia",
+                "Inversión en Obras Públicas"
+            ],
+            "postura_politica": "Resalta la 'máxima calificación crediticia' como resultado de una gestión fiscal responsable, proyectando esta fortaleza para atraer inversiones y financiar obras estratégicas, destacando el 'orden' y 'previsibilidad'.",
+            "frase_fuerte": "Moody’s Local nos calificó con la máxima calificación crediticia que se le puede otorgar a un emisor argentino: somos el único gobierno subnacional con nota."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura Educativa",
+                "Desarrollo Productivo y Economía Regional"
+            ],
+            "postura_politica": "Destaca la inversión en infraestructura educativa y el impulso a la producción chaqueña como pilares para mejorar la calidad de vida y generar desarrollo.",
+            "frase_fuerte": "La comunidad educativa de la EES N°27 de Avia Terai ya disfruta de espacios renovados y nuevo equipamiento para seguir mejorando las condiciones de aprendizaje."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Salud Pública e Innovación Médica"
+            ],
+            "postura_politica": "Enfatiza la inversión y el avance en salud pública con prácticas de alta complejidad, mostrando a la provincia como referente en un contexto de cuidado social.",
+            "frase_fuerte": "#Córdoba consolida su sistema público de #salud con prácticas de alta complejidad: integrantes del equipo médico del Hospital Córdoba realizaron un implante de marcapasos sin cable, fue el primero que se hizo en un centro público de nuestra provincia."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Obra Pública y Relación Federal"
+            ],
+            "postura_politica": "Expresa una clara preocupación por el impacto de las decisiones del gobierno nacional en la provincia, particularmente la paralización de obras públicas, posicionándose en defensa del desarrollo local.",
+            "frase_fuerte": "...nos plantearon su preocupación por la decisión del gobierno nacional de paralizar completamente las obras públicas."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Tecnología y Salud Pública",
+                "Modernización del Estado"
+            ],
+            "postura_politica": "Subraya el liderazgo de La Pampa (La Pampa) en madurez digital aplicada a la salud, como resultado de una política de inversión sostenida en tecnología y conectividad para mejorar el acceso a servicios.",
+            "frase_fuerte": "La Pampa, la provincia con mayor desarrollo tecnológico aplicado a la salud pública."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Educación Pública",
+                "Cercanía con la Ciudadanía"
+            ],
+            "postura_politica": "Muestra un fuerte compromiso con la educación pública, a través de la inversión en infraestructura y la promoción de la cercanía con la juventud y la comunidad.",
+            "frase_fuerte": "Seguimos fortaleciendo la educación pública con obras que incluyen, abrazan y generan oportunidades."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Vitivinicultura y Exportaciones",
+                "Política Habitacional"
+            ],
+            "postura_politica": "Destaca el rol de Mendoza (Mendoza) en la vitivinicultura global y el impulso a las exportaciones, además de reafirmar el compromiso con la política habitacional para las familias.",
+            "frase_fuerte": "Concluimos una nueva edición de Vinexpo Explorer Mendoza, dedicada por primera vez al vino a granel, y volvimos a marcar un hito para nuestra vitivinicultura."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Desarrollo Productivo Agrícola",
+                "Patrimonio Cultural"
+            ],
+            "postura_politica": "Promueve la diversificación productiva en zonas tabacaleras con nuevas tecnologías y resalta la importancia de preservar y difundir el patrimonio cultural de la provincia.",
+            "frase_fuerte": "En San Vicente realizamos la primera entrega de insumos del programa de Incorporación de Tecnologías Frutihortícolas para la Diversificación Productiva de Zonas Tabacaleras, beneficiando en esta etapa a 55 productores de 19 municipios de la provincia."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Integración Binacional",
+                "Desarrollo Energético",
+                "Infraestructura de Pasos Fronterizos"
+            ],
+            "postura_politica": "Impulsa fuertemente la integración binacional con la región del Biobío (Chile), enfocándose en la seguridad energética a través de Vaca Muerta y la mejora de pasos fronterizos.",
+            "frase_fuerte": "Queremos que la cordillera sirva para unir y no para separar. Ese es el camino que le toca construir a esta generación."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad Pública",
+                "Apoyo a PyMEs",
+                "Infraestructura Energética",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Se concentra en la resolución de delitos y el apoyo al sector productivo a través de financiamiento y obras de infraestructura energética, demostrando una gestión activa en seguridad y economía regional.",
+            "frase_fuerte": "LA PRODUCCIÓN RIONEGRINA NECESITA ENERGÍA, Y LA ENERGÍA YA ESTÁ EN CAMINO"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Minería y Desarrollo Regional",
+                "Obras de Infraestructura"
+            ],
+            "postura_politica": "Subraya la concreción de obras de infraestructura clave para la minería, destacando la generación de empleo local y las oportunidades reales que la actividad trae a la provincia.",
+            "frase_fuerte": "Cuando la minería avanza bien, deja empleo, conectividad y oportunidades reales."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda y Gestión Habitacional",
+                "Educación y Transporte Saludable",
+                "Servicios Municipales",
+                "Afirmación de Soberanía"
+            ],
+            "postura_politica": "Muestra un fuerte enfoque en la política habitacional y la mejora de servicios locales, incluyendo iniciativas de educación y transporte, y un emotivo recuerdo de Malvinas.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Financiamiento Provincial",
+                "Obras de Infraestructura"
+            ],
+            "postura_politica": "Argumenta que el acceso a financiamiento es crucial para impulsar obras, servicios y empleo, llamando a la responsabilidad para mejorar la calidad de vida de los santacruceños.",
+            "frase_fuerte": "EL FINANCIAMIENTO ES UNA HERRAMIENTA PARA MEJORAR LA CALIDAD DE VIDA DE LOS SANTACRUCEÑOS"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Vivienda y Seguridad Jurídica"
+            ],
+            "postura_politica": "Enfocado en la seguridad jurídica de las viviendas, entregando escrituras para proteger los hogares de las familias y destacando la gratuidad y agilidad del trámite.",
+            "frase_fuerte": "Brindamos esta herramienta gratuita para que todos puedan proteger el bien más preciado que tenemos en la sociedad, nuestra vivienda, especialmente en momentos de crisis económica."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Acción Social y Solidaridad",
+                "Actividad Política Local"
+            ],
+            "postura_politica": "Participa en actividades sociales, destacando el rol de la fundación, y apoya el lanzamiento de candidaturas locales, mostrando compromiso con el bienestar social y la vida política.",
+            "frase_fuerte": "#Hoy participé del cocktail solidario organizado por la Fundación @haciendo_camino una institución que trabaja todos los días para acompañar a niñas, niños y familias en situación de vulnerabilidad."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Gestión y Articulación Institucional",
+                "Trabajo Territorial"
+            ],
+            "postura_politica": "Fomenta la unidad y el trabajo conjunto entre los poderes del Estado y los dirigentes locales para dar respuestas a las necesidades de la comunidad, poniendo énfasis en la cercanía y el compromiso territorial.",
+            "frase_fuerte": "Quienes tenemos responsabilidades públicas debemos estar donde la gente nos necesita."
+        }
+    ]
+}
