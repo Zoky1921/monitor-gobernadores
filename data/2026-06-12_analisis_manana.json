@@ -1,0 +1,160 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de los gobernadores se centró en la gestión local y el desarrollo productivo, marcada por una fuerte polarización política. Jorge Macri (Ciudad Autónoma de Buenos Aires) criticó abiertamente las posturas progresistas sobre la inversión privada en espacios públicos y confrontó directamente a Axel Kicillof (Buenos Aires). Alberto Weretilneck (Río Negro) mostró una gestión activa con inversiones en infraestructura y programas sociales. Rolando Figueroa (Neuquén) impulsó la integración energética binacional, mientras que Leandro Zdero (Chaco) y Elías Suárez (Santiago del Estero) destacaron el fomento industrial y las economías regionales. Otros mandatarios se enfocaron en la seguridad y el apoyo a servicios esenciales, delineando un panorama de intensificación de las iniciativas provinciales y claras diferencias ideológicas.",
+    "analisis_profundo": "La jornada exhibe una marcada polarización y un fuerte énfasis en la gestión provincial, con tensiones explícitas entre facciones políticas. Jorge Macri (Ciudad Autónoma de Buenos Aires) lideró la confrontación al denunciar la 'falsa progresía' que, a su juicio, obstaculiza la inversión privada en espacios públicos, y dirigió críticas directas a Axel Kicillof (Buenos Aires) en el contexto de la ocupación de tierras, calificándolo como un contraste entre 'dos modelos de país'. Su retórica desafiante busca reafirmar un modelo de 'ley y orden' y eficiencia en la administración del espacio público. \n\nEn el plano de la infraestructura y desarrollo productivo, Alberto Weretilneck (Río Negro) muestra una intensa actividad, anunciando inversiones multimillonarias para rutas, el acceso al aeropuerto de Bariloche y la consolidación de viviendas a través del programa RIMI para impulsar el empleo y la producción. También destaca su programa de salud visual 'Enfocar RN' y la continuidad del boleto estudiantil gratuito en Bariloche (Río Negro), demostrando una gestión social activa. Rolando Figueroa (Neuquén) profundiza la integración binacional con Chile en materia energética, buscando posicionar a Vaca Muerta y la región como clave para el desarrollo del corredor bioceánico. \n\nLeandro Zdero (Chaco) y Elías Suárez (Santiago del Estero) enfocan sus comunicados en el fomento industrial y las economías regionales. Zdero (Chaco) celebró la inauguración de una planta industrial, mientras que Suárez (Santiago del Estero) promovió un foro de economías regionales y una plataforma para visibilizar oficios. Martín Llaryora (Córdoba), por su parte, se centró en el reconocimiento al Servicio Penitenciario de la Provincia de Córdoba (Córdoba) y la seguridad. Hugo Passalacqua (Misiones) destacó un convenio de cooperación con UNICEF en salud y educación, en línea con una gestión de derechos. Finalmente, Claudio Poggi (San Luis) recibió a la Ministra de Seguridad de la Nación, Alejandra Monteoliva, buscando coordinar acciones conjuntas. \n\nLa tónica general subraya la autonomía y capacidad de gestión de las provincias, con algunas lanzando duras críticas al gobierno nacional o a administraciones provinciales opositoras, consolidando un clima de campaña permanente en medio de la gestión local y la búsqueda de soluciones a problemas estructurales.",
+    "temas_calientes": [
+        {
+            "tema": "Polarización Política y Modelos de País: La crítica explícita de Jorge Macri (Ciudad Autónoma de Buenos Aires) a la 'falsa progresía' y a Axel Kicillof (Buenos Aires) por el tema de las tomas y la 'privatización del espacio público', marcando diferencias ideológicas.",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Desarrollo Local: Anuncios de obras viales, mejoras en acceso a servicios y programas de vivienda para fomentar el crecimiento provincial.",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Fomento Productivo y Económico Regional: Promoción de la industria, las PyMEs y las economías regionales para generar empleo y valor agregado.",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Cooperación Internacional y Regional: Acuerdos binacionales para energía e integración, y alianzas con organismos internacionales para el desarrollo social y económico.",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Seguridad y Justicia Provincial: Acciones para el orden público, la prevención del delito y el fortalecimiento de las fuerzas de seguridad, incluyendo la coordinación con Nación.",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "El falso progre argentino es fascinante. Ve un café en un parque de Nueva York y dice 'qué lindo'. Ve el mismo café en Buenos Aires y grita 'privatización del espacio público'. No nos corren más.",
+        "por_que_es_clave": "Destaca la polarización política en torno a la gestión del espacio público y la inversión privada, con una crítica directa y desafiante a una perspectiva ideológica opuesta, posicionando su modelo de gobierno (Ciudad Autónoma de Buenos Aires) frente a las críticas.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Gestión del espacio público",
+                "Inversión privada",
+                "Seguridad y orden",
+                "Confrontación política"
+            ],
+            "postura_politica": "Defiende el modelo de inversión privada en espacios públicos y la política de 'ley y orden' en la Ciudad Autónoma de Buenos Aires, criticando las posturas opositoras y marcando una clara diferencia con la administración de Axel Kicillof (Buenos Aires) respecto a las tomas de tierras. Su retórica es directa y combativa.",
+            "frase_fuerte": "No nos corren más."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Generación de empleo",
+                "Inversión productiva"
+            ],
+            "postura_politica": "Enfoque en el crecimiento económico a través del apoyo a la industria y la inversión privada en Chaco, presentándolo como el camino para el desarrollo y la creación de empleo genuino en la provincia.",
+            "frase_fuerte": "Cada nueva industria que se pone en marcha fortalece la producción, genera empleo genuino para más chaqueños y agrega valor a la provincia. ¡Este es el camino!"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Seguridad",
+                "Servicio Penitenciario"
+            ],
+            "postura_politica": "Destaca el compromiso de su gobierno (Córdoba) con el personal del Servicio Penitenciario de la Provincia de Córdoba, enfatizando el apoyo y la valoración de su vocación de servicio para garantizar la seguridad de los cordobeses.",
+            "frase_fuerte": "Nos van a ver siempre defendiéndolos, como ustedes defienden a los cordobeses."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Salud",
+                "Educación",
+                "Nutrición",
+                "Protección de derechos",
+                "Cooperación internacional"
+            ],
+            "postura_politica": "Prioriza la protección de derechos de la niñez y adolescencia a través de la cooperación internacional con UNICEF, enfocándose en áreas esenciales para el bienestar social en Misiones.",
+            "frase_fuerte": "Junto a @UNICEFargentina firmamos un nuevo convenio de cooperación que nos permitirá seguir trabajando juntos en salud, educación, nutrición, desarrollo infantil temprano y protección de derechos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Integración binacional",
+                "Desarrollo energético",
+                "Vaca Muerta",
+                "Infraestructura"
+            ],
+            "postura_politica": "Promueve activamente la integración con la región del Biobío (Chile) y el desarrollo del corredor bioceánico, posicionando a Neuquén (Neuquén) como un actor clave en la seguridad energética y el desarrollo regional.",
+            "frase_fuerte": "Queremos que la cordillera sirva para unir y no para separar. Ese es el camino que le toca construir a esta generación."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Educación",
+                "Servicios públicos",
+                "Vivienda",
+                "Inversión privada",
+                "Seguridad"
+            ],
+            "postura_politica": "Presenta una gestión multifacética centrada en obras estratégicas (rutas, acceso a aeropuerto), apoyo a la educación (boleto estudiantil) y la salud (Enfocar RN), fomento de la inversión (RIMI) y acciones policiales, demostrando un compromiso con el desarrollo y la calidad de vida en Río Negro.",
+            "frase_fuerte": "RIMI: RÍO NEGRO APUESTA AL EMPLEO, LA PRODUCCIÓN Y EL FUTURO"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Eventos deportivos",
+                "Turismo",
+                "Economía local"
+            ],
+            "postura_politica": "Posiciona a Salta (Salta) como sede de grandes eventos deportivos para impulsar el turismo y la economía local, buscando generar movimiento económico a través de actividades de relevancia nacional.",
+            "frase_fuerte": "Una vez más, Salta será sede del torneo más federal del país, recibiendo a miles de hinchas y consolidándose como escenario de grandes eventos deportivos."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Seguridad",
+                "Coordinación Nación-Provincia"
+            ],
+            "postura_politica": "Muestra apertura al diálogo y la colaboración con el gobierno nacional en temas de seguridad, buscando fortalecer las acciones conjuntas para la protección de los ciudadanos en San Luis.",
+            "frase_fuerte": "Coordinando acciones conjuntas a favor de la seguridad de los Sanluiseños."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad jurídica",
+                "Crisis económica"
+            ],
+            "postura_politica": "Enfatiza la protección de las familias a través de la entrega de escrituras, destacando la importancia de la seguridad jurídica en un contexto de crisis económica y mostrando una gestión que prioriza el bienestar habitacional en Santa Fe.",
+            "frase_fuerte": "Brindamos esta herramienta gratuita para que todos puedan proteger el bien más preciado que tenemos en la sociedad, nuestra vivienda, especialmente en momentos de crisis económica."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Economías regionales",
+                "Desarrollo productivo",
+                "Trabajo",
+                "Asistencia social"
+            ],
+            "postura_politica": "Promueve el desarrollo productivo federal a través del apoyo a las economías regionales y la generación de oportunidades laborales en Santiago del Estero, combinando el fomento económico con la asistencia a los sectores vulnerables.",
+            "frase_fuerte": "Las economías regionales son mucho más que indicadores productivos: representan trabajo, arraigo, oportunidades y desarrollo para miles de familias argentinas."
+        }
+    ]
+}

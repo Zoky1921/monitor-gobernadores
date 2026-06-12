@@ -1,0 +1,132 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jorge Macri (CABA) intensifica su perfil de confrontación con el gobernador bonaerense, mientras el resto de los mandatarios con actividad en la jornada se enfocan en gestión local, inversiones y coordinación con Nación. No hay un conflicto fiscal abierto, pero la sombra de la disputa por recursos y modelos de gestión se mantiene.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registra un choque frontal entre provincias y Nación, pero la figura de Jorge Macri (CABA) emerge como el único actor que decide plantar bandera de confrontación directa. Sus tuits apuntan a deslegitimar la gestión de Axel Kicillof en la provincia de Buenos Aires, utilizando la seguridad y el orden urbano como ariete simbólico. La ausencia de respuesta del bonaerense en la timeline sugiere un repliegue táctico o la decisión de no alimentar una polémica que lo expone en su flanco más débil: la inseguridad y la ocupación de tierras. \n\nActo 2 — Los Alineamientos: El resto de los gobernadores con actividad en la ventana temporal optan por una agenda de bajo perfil federal. Alberto Weretilneck (Río Negro) y Martín Llaryora (Córdoba) refuerzan su perfil de gestión pro-inversión, con anuncios de regímenes de incentivos y fondos de capital emprendedor, alineándose con la narrativa de orden fiscal que pregona la Casa Rosada. Claudio Poggi (San Luis) recibe a la ministra de Seguridad nacional, gesto de coordinación interjurisdiccional que evita roces. Gustavo Sáenz (Salta) se limita a un anuncio deportivo, sin posicionamiento político. \n\nActo 3 — La Micro-política: Leandro Zdero (Chaco), Hugo Passalacqua (Misiones) y Elías Suárez (Santiago del Estero) se refugian en la agenda de cabotaje: obras escolares, programas sociales, ferias productivas. Es un gesto de supervivencia política en provincias periféricas que evitan pronunciarse sobre la macroeconomía o los recortes nacionales. La omisión de la crisis fiscal es, en sí misma, un mensaje de autoconservación. \n\nActo 4 — Saldo Presidencial: El Gobierno nacional no recibe críticas directas de los gobernadores activos, pero tampoco adhesiones explícitas. La ausencia de reclamos por coparticipación o deuda es un respiro para la Casa Rosada, aunque la sombra de la disputa CABA-PBA mantiene viva la tensión. El silencio de Kicillof, el principal antagonista fiscal, es la verdadera incógnita de la jornada.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación CABA vs. PBA por seguridad y modelo de gestión",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Inversiones provinciales y regímenes de incentivos (RIMI, capital emprendedor)",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Coordinación federal en seguridad",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Gestión social y educativa local",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@LeandroZdero",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Economías regionales y producción",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "El falso progre argentino es fascinante. Ve un café en un parque de Nueva York y dice 'qué lindo'. Ve el mismo café en Buenos Aires y grita 'privatización del espacio público'. No nos corren más.",
+        "por_que_es_clave": "Macri utiliza una comparación cultural para deslegitimar la crítica progresista a su gestión y, de paso, marcar distancia con el modelo de gobierno de Kicillof, al que asocia con un discurso vacío. Es un dardo directo a la narrativa de defensa de lo público que es bandera del kirchnerismo.",
+        "pregunta_openarg": "¿La instalación de cafés con inversión privada en parques públicos es una mejora de servicios o una concesión encubierta del espacio común?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "espacio público",
+                "calificación crediticia",
+                "confrontación con PBA"
+            ],
+            "postura_politica": "Refuerza su perfil de gestión ordenada y contrasta con el 'desgobierno' de Kicillof. Busca capitalizar la máxima calificación crediticia como prueba de eficiencia, mientras ataca al progresismo por hipócrita. Su mensaje es para la opinión pública nacional y para la Casa Rosada: él es el modelo a seguir.",
+            "frase_fuerte": "El falso progre argentino es fascinante."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "industria local",
+                "seguridad",
+                "educación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en inauguraciones de fábricas y operativos policiales, mostrando gestión en un contexto de recursos escasos. Evita cualquier mención a Nación, lo que sugiere un repliegue estratégico para no exponerse.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "innovación",
+                "salud pública",
+                "cooperación internacional",
+                "empleo"
+            ],
+            "postura_politica": "Posiciona a Córdoba como polo de innovación y gestión eficiente. El anuncio del Fondo de Capital Emprendedor y la reunión con la vicepresidenta de Uruguay refuerzan su perfil modernizador y de apertura al mundo. No confronta con Nación, pero marca autonomía en políticas de desarrollo.",
+            "frase_fuerte": "Córdoba se convierte en una de las primeras provincias del país en contar con un fondo específico para potenciar con recursos proyectos innovadores."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "cooperación internacional",
+                "reestructuración del Estado",
+                "producción frutihortícola"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Firma convenio con UNICEF y anuncia reorganización ministerial. No hay señales de disputa con Nación; es un gobernador que se mantiene en su perfil bajo, cuidando la administración local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "inversiones",
+                "vivienda",
+                "educación",
+                "infraestructura"
+            ],
+            "postura_politica": "Alineado con la narrativa de incentivos a la inversión privada. La aprobación del RIMI es un guiño al sector productivo y una señal de que Río Negro busca su propio camino de desarrollo, sin depender de Nación. El boleto estudiantil gratuito en Bariloche es un gesto de sensibilidad social.",
+            "frase_fuerte": "RIMI: Río Negro apuesta al empleo, la producción y el futuro."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "deportes",
+                "turismo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Anuncia un partido de fútbol en Salta, sin contenido político. Es un tweet de peso bajo que no aporta a la dinámica de poder.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "seguridad",
+                "vivienda",
+                "infraestructura"
+            ],
+            "postura_politica": "Coordinación con Nación en seguridad, pero sin subordinación. La visita de la ministra Monteoliva es presentada como un trabajo conjunto. El resto de los tuits son de gestión local (viviendas, rutas), mostrando un gobierno activo en el territorio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "economías regionales",
+                "indígenas",
+                "educación"
+            ],
+            "postura_politica": "Se posiciona como anfitrión de un foro de economías regionales, buscando protagonismo federal. La reunión con el INAI muestra sensibilidad social. Evita conflictos y apuesta a la articulación institucional.",
+            "frase_fuerte": "Santiago del Estero, epicentro del debate sobre el futuro productivo del país."
+        }
+    ]
+}
