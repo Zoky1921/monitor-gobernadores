@@ -1,0 +1,192 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "Los gobernadores concentran su agenda en la gestión provincial, priorizando la inversión en infraestructura, desarrollo económico local y servicios esenciales. Destaca la expansión de programas de vivienda y urbanismo en provincias como San Luis (Poggi) y Buenos Aires (Kicillof), junto con iniciativas para fortalecer la producción y el empleo privado, como el RINI en Entre Ríos (Frigerio) y el fomento de la industria tecnológica en Mendoza (Cornejo). Se observa una preocupación por la autonomía provincial frente al contexto nacional, evidenciada en reclamos por financiamiento y la búsqueda de herramientas propias para el crecimiento. Algunos mandatarios resaltan la colaboración interprovincial en seguridad (San Luis y Mendoza), mientras otros enfatizan el posicionamiento de sus regiones en el ámbito energético y productivo.",
+    "analisis_profundo": "La agenda de los gobernadores durante las últimas horas del 12 de junio y la mañana del 13 de junio de 2026 se caracteriza por un marcado enfoque en la gestión subnacional, con una diversidad de iniciativas que buscan fortalecer la autonomía y el desarrollo provincial. Un eje central es la infraestructura, con varios mandatarios anunciando o reportando avances en obras clave. Axel Kicillof (Buenos Aires) destaca la ampliación de centros universitarios y la entrega de viviendas, mientras Leandro Zdero (Chaco) impulsa servicios médicos itinerantes a través del 'Tren 25 de Mayo' y Nacho Torres (Chubut) celebra la operación al 100% de un hospital de alta complejidad. Claudio Poggi (San Luis) muestra un fuerte compromiso con la vivienda social, con visitas a obras y entrega de escrituras, y Osvaldo Jaldo (Tucumán) se enfoca en infraestructura judicial y deportiva. Esta tendencia general subraya la importancia de la inversión pública provincial en un contexto de potencial retracción de la inversión nacional.\n\nOtro tema recurrente es el impulso a la actividad económica y la generación de empleo. Rogelio Frigerio (Entre Ríos) celebra el impacto del Régimen de Incentivo para Nuevas Inversiones (RINI), destacando $400.000 millones comprometidos y 2.500 nuevos puestos de trabajo proyectados. Rolando Figueroa (Neuquén) resalta que su provincia es la que más trabajo formal privado genera en el país. Alfredo Cornejo (Mendoza) enfatiza la participación de IMPSA en proyectos hidroeléctricos internacionales, posicionando a Mendoza como un hub tecnológico. Esta búsqueda de dinamismo económico se ve complementada por la atención a la seguridad y la modernización del Estado. Jorge Macri (Ciudad de Buenos Aires) celebra la mejor nota crediticia para la Ciudad, vinculándola a cuentas ordenadas y gestión eficiente, mientras Claudio Poggi (San Luis) coopera con la Ministra de Seguridad de la Nación para fortalecer la investigación criminal y la coordinación interprovincial en control unificado con Mendoza (Cornejo).\n\nFinalmente, la relación con el gobierno nacional y la defensa de los intereses provinciales sigue siendo un telón de fondo. Claudio Vidal (Santa Cruz) insta a los diputados a acompañar leyes de financiamiento para obras esenciales, señalando que 'Santa Cruz no puede esperar' y que necesita 'las mismas herramientas que tuvieron otros gobiernos'. Alberto Weretilneck (Río Negro) también enfoca en la preparación de ciudades para ser un hub de exportación de GNL y petróleo, destacando la importancia de la planificación y colaboración. Gildo Insfrán (Formosa) se mantiene en una línea de gestión local y espiritualidad, sin referencias directas a tensiones. En conjunto, los gobernadores buscan consolidar agendas proactivas a nivel provincial, buscando soluciones a problemas estructurales y aprovechando oportunidades de desarrollo endógeno, a menudo en un delicado equilibrio con la esfera federal.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Obra Pública",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico y Generación de Empleo",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Seguridad y Coordinación Interprovincial/Nacional",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@alfredocornejo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Autonomía y Financiamiento Provincial",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educación y Calidad de Vida",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@alfredocornejo",
+        "texto": "IMPSA vuelve a ser protagonista de grandes obras de infraestructura en el mundo. Tras un enorme esfuerzo para su recuperación y recomposición, la histórica empresa mendocina firmó hoy un acuerdo con el gobierno de Venezuela para participar en la culminación de la Central Hidroeléctrica Tocoma y en obras estratégicas del sistema eléctrico venezolano. Con más de 115 años de trayectoria, presencia en más de 40 países y más de 180 proyectos hidroeléctricos desarrollados, IMPSA tiene la experiencia y la capacidad para ejecutar obras complejas con tecnología mendocina y una sólida red de proveedores locales. Es una buena noticia para Mendoza, para la industria argentina y para todos los que creemos que el conocimiento, la innovación y el trabajo son la base del desarrollo.",
+        "por_que_es_clave": "Este anuncio posiciona a Mendoza (Cornejo) como exportador de tecnología e ingeniería de alta complejidad a nivel internacional, destacando la recuperación de una empresa emblemática y su capacidad para generar valor agregado y empleo calificado, en un contexto de proyección global. Demuestra la resiliencia y el potencial productivo de la provincia.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Educación",
+                "Vivienda",
+                "Turismo",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador enfatiza la continuidad de la inversión pública en educación y vivienda, así como el fomento del turismo y la infraestructura local, como pilares de desarrollo provincial frente a las dificultades económicas. Subraya la importancia del Estado presente en la mejora de la calidad de vida de los bonaerenses.",
+            "frase_fuerte": "Cuando en 2024 inauguramos junto al gobernador @Kicillofok el Centro Universitario de Coronel Pringles nos comprometimos a seguir apoyando su crecimiento. Hoy tenemos la alegría de haber hecho realidad ese objetivo y de estar dictando, a través de #PUENTES, carreras que les dan a los vecinos la oportunidad de crecer a nivel personal y que promueven el desarrollo de la comunidad local."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Finanzas públicas",
+                "Gestión",
+                "Obra pública"
+            ],
+            "postura_politica": "El gobernador celebra la máxima calificación crediticia de la Ciudad, atribuyéndola a la 'gestión PRO' y al orden de las cuentas públicas. Destaca que esto permite un financiamiento más barato y mayor inversión en obra y servicios públicos, reafirmando una administración responsable.",
+            "frase_fuerte": "Que la Ciudad consiga plata más barata significa menos pesos en intereses y más margen para invertir en obra pública y en los servicios que usás todos los días. Cuentas ordenadas hoy son más obras mañana."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Salud",
+                "Conectividad",
+                "Servicios públicos"
+            ],
+            "postura_politica": "El gobernador muestra un fuerte compromiso con la mejora de los servicios públicos, en particular la atención médica en áreas rurales a través del tren sanitario. Apuesta por la conectividad y la extensión de servicios esenciales a todo el territorio chaqueño.",
+            "frase_fuerte": "¡Avanza el Tren 25 de Mayo, acercando atención médica y servicios en todo el Chaco!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Integración provincial",
+                "Servicios públicos",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador impulsa la integración de las localidades del interior a través de la inversión en obras de gas, conectividad, rutas y servicios bancarios. Su foco es reducir las brechas de oportunidades y servicios entre las distintas regiones de Chubut.",
+            "frase_fuerte": "Que una familia viva en Cushamen, en Lago Blanco o en cualquier rincón de la provincia no puede significar menos oportunidades, menos servicios o menos infraestructura."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Inversión privada",
+                "Empleo",
+                "Desarrollo económico",
+                "Incentivos fiscales"
+            ],
+            "postura_politica": "El gobernador resalta los resultados concretos del Régimen de Incentivo para Nuevas Inversiones (RINI), enfocándose en la exención de impuestos provinciales para empresas que generan empleo. Promueve un Estado que facilita la inversión y la producción.",
+            "frase_fuerte": "Las empresas que se suman están exentas de pagar impuestos provinciales por 15 años. Queremos una Entre Ríos que premie al que trabaja y genera empleo, y estamos dando pasos concretos para lograrlo."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Religión",
+                "Comunidad"
+            ],
+            "postura_politica": "El gobernador comparte un mensaje religioso con un llamado a la unidad y la paz. Su tweet se centra en aspectos espirituales y comunitarios, sin referencias a la gestión pública directa.",
+            "frase_fuerte": "Elevamos nuestras oraciones a San Antonio de Padua para que nos acompañe con su guía y su bendición, fortaleciendo nuestra fe y renovando el compromiso de seguir construyendo juntos un camino de encuentro, paz y crecimiento para todos."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Industria",
+                "Infraestructura",
+                "Innovación",
+                "Empleo",
+                "Comercio Internacional"
+            ],
+            "postura_politica": "El gobernador celebra la proyección internacional de la empresa IMPSA, destacando su rol en grandes obras de infraestructura a nivel mundial. Posiciona a Mendoza como un actor clave en la industria argentina, basado en el conocimiento, la innovación y la capacidad exportadora.",
+            "frase_fuerte": "IMPSA vuelve a ser protagonista de grandes obras de infraestructura en el mundo. Tras un enorme esfuerzo para su recuperación y recomposición, la histórica empresa mendocina firmó hoy un acuerdo con el gobierno de Venezuela para participar en la culminación de la Central Hidroeléctrica Tocoma y en obras estratégicas del sistema eléctrico venezolano."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Empleo",
+                "Economía",
+                "Conservación",
+                "Tecnología"
+            ],
+            "postura_politica": "El gobernador enfatiza el crecimiento del empleo formal privado en Neuquén, destacando el liderazgo provincial. Además, promueve la modernización de la gestión ambiental con tecnología satelial y drones para la protección de la biodiversidad, mostrando un enfoque en la eficiencia y el cuidado de los recursos naturales.",
+            "frase_fuerte": "Seguimos siendo la provincia que más trabajo formal privado genera en el país. En marzo de 2026 volvimos a crecer, con un incremento del 0,9%."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Incentivos a la inversión",
+                "Empleo",
+                "Educación",
+                "Salud",
+                "Servicios públicos",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador impulsa el 'Régimen de Incentivo para Medianas Inversiones' (RIMI) para fomentar el empleo y la producción. Muestra un fuerte compromiso con el apoyo al boleto estudiantil gratuito y la mejora de la infraestructura de servicios esenciales, demostrando una gestión activa en desarrollo económico y bienestar social.",
+            "frase_fuerte": "La Legislatura aprobó por unanimidad la adhesión al Régimen de Incentivo para Medianas Inversiones (RIMI), una nueva herramienta para acompañar a quienes invierten, producen y generan trabajo en la provincia."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad jurídica",
+                "Empleo",
+                "Seguridad",
+                "Colaboración Interprovincial"
+            ],
+            "postura_politica": "El gobernador demuestra un compromiso directo y emotivo con la entrega de viviendas y escrituras, reafirmando la vivienda como un derecho fundamental. Además, destaca la colaboración interprovincial en seguridad con Mendoza y la capacitación en investigación criminal, mostrando una gestión activa en bienestar social y seguridad.",
+            "frase_fuerte": "EL VOLCÁN - Visité el avance de obra de en la construcción del nuevo Barrio 30 VIVIENDAS. Serán 30 FAMILIAS que el 5 de Diciembre, Dios mediante, recibirán las llaves de sus casas. Muy emotivo el encuentro de esta fresca mañana de sábado con los futuros propietarios. Navidad del 2026 en la Vivienda propia y digna !! La VIVIENDA volvió a San Luis y volvió para quedarse 👏"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Financiamiento",
+                "Obra pública",
+                "Empleo",
+                "Autonomía provincial"
+            ],
+            "postura_politica": "El gobernador insta a los diputados a aprobar leyes de financiamiento para obras esenciales, argumentando la necesidad de herramientas para el desarrollo de Santa Cruz. Hace un llamado a la responsabilidad política para superar los 'problemas estructurales' y generar empleo, subrayando la urgencia de la provincia.",
+            "frase_fuerte": "NECESITAMOS LAS MISMAS HERRAMIENTAS QUE TUVIERON OTROS GOBIERNOS PARA QUE SANTA CRUZ SE PONGA DE PIE"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Justicia",
+                "Deporte",
+                "Comunidad",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador se enfoca en la descentralización de la justicia con la inauguración de una Oficina de Atención Primaria Jurídica y la puesta en valor de clubes deportivos. Demuestra un compromiso con el acceso a servicios públicos esenciales y la promoción del deporte y la inclusión social en su provincia.",
+            "frase_fuerte": "Inauguramos las obras de remodelación y puesta en valor del Club Social y Deportivo Alderetes, una institución histórica que vuelve a estar al servicio de la comunidad con instalaciones renovadas y mejores condiciones para el desarrollo de actividades deportivas y sociales."
+        }
+    ]
+}

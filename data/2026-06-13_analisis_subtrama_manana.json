@@ -1,0 +1,176 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada exhibe un contraste entre la celebración de la máxima calificación crediticia de CABA (Jorge Macri) y el repliegue de la mayoría de los gobernadores en gestión local. Destacan la cooperación interprovincial en seguridad (Poggi-Cornejo) y la apuesta energética de Río Negro (Weretilneck). El silencio de varios mandatarios y el reclamo de financiamiento de Santa Cruz (Vidal) revelan la asfixia fiscal y la espera de señales de Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no presenta un choque frontal con Nación, pero sí una tensión latente entre modelos de gestión. Mientras Jorge Macri (CABA) exhibe su calificación AAA como trofeo de un orden fiscal que contrasta con el resto, la mayoría de los gobernadores se refugian en la agenda local, evitando pronunciarse sobre la macroeconomía. El silencio es elocuente: no hay respaldo explícito al ajuste nacional, pero tampoco desafío abierto.\n\nActo 2 — Los Alineamientos: Se consolidan dos polos de cooperación interprovincial. Por un lado, la alianza Cuyo-San Luis: Claudio Poggi y Alfredo Cornejo inauguran un centro de control unificado en Desaguadero, mostrando que la seguridad es un eje de gestión compartido y una vitrina de eficiencia. Por otro, la Patagonia energética: Alberto Weretilneck (Río Negro) firma acuerdos con YPF y ONU-Hábitat para preparar ciudades ante el boom del GNL, posicionándose como el gobernador que piensa en el largo plazo. En contraste, Claudio Vidal (Santa Cruz) queda como el paria que mendiga financiamiento, evidenciando la fragmentación de las provincias periféricas.\n\nActo 3 — La Micro-política: Los gobernadores de provincias centrales como Axel Kicillof (Buenos Aires) y Leandro Zdero (Chaco) se limitan a inaugurar obras menores (centros universitarios, hospitales, viviendas). Es un refugio en la gestión de cabotaje para evitar posicionarse sobre la deuda de ANSES o la coparticipación. Kicillof, en particular, evita mencionar a Nación en sus tres tweets del día, pese a que su reclamo por los $22 billones sigue latente. Es un silencio calculado: no quiere darle al Presidente la satisfacción de una respuesta airada.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es ambivalente. Por un lado, la ausencia de críticas directas desde las provincias grandes es un respiro. Por otro, la falta de apoyo explícito y el enfoque en agendas locales indican que los gobernadores no están dispuestos a remar a favor del ajuste. La cooperación interprovincial en seguridad y energía sugiere que el federalismo se está reconfigurando por fuera de Nación, lo que a largo plazo puede erosionar el poder central.",
+    "temas_calientes": [
+        {
+            "tema": "Calificación crediticia de CABA como modelo de gestión PRO",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Cooperación interprovincial en seguridad (San Luis-Mendoza)",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Desarrollo energético en Patagonia (Río Negro, Neuquén)",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Reclamo de financiamiento de provincias periféricas",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Gestión local como refugio político (Buenos Aires, Chaco, etc.)",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@frigeriorogelio",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK",
+        "texto": "LA ENERGÍA QUE VIENE TAMBIÉN EXIGE PREPARAR A NUESTRAS CIUDADES Y A NUESTRA GENTE\n\nHoy en Buenos Aires firmamos acuerdos junto al presidente de @YPFoficial, @HoracioMarin_ok; @FundacionYPF; @onuhabitat; los municipios de Sierra Grande y San Antonio Oeste; y organismos provinciales para acompañar uno de los procesos de desarrollo más importantes que tiene Río Negro por delante.\n\nNuestra provincia será sede del principal hub de exportación de GNL y petróleo de América Latina. Y eso nos obliga a trabajar desde ahora para que nuestras ciudades crezcan de manera ordenada, sostenible y con planificación.",
+        "por_que_es_clave": "Weretilneck se posiciona como el gobernador que piensa en el futuro, articulando con YPF y organismos internacionales para preparar a Río Negro ante el boom energético. Es una jugada de autonomía y proyección que contrasta con la inmediatez de otros mandatarios.",
+        "pregunta_openarg": "¿Está el Gobierno Nacional dispuesto a ceder protagonismo a las provincias en la planificación de la infraestructura energética, o el hub de GNL será una decisión centralizada?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "educación",
+                "turismo",
+                "vivienda"
+            ],
+            "postura_politica": "Se refugia en la gestión local (centro universitario, hotel, viviendas) para evitar confrontar con Nación. Omite mencionar la deuda de ANSES o la asfixia fiscal, sugiriendo un repliegue táctico.",
+            "frase_fuerte": "Nos dicen que el Estado no sirve para nada y que hay que destruirlo, pero para garantizar los derechos de nuestro pueblo tiene que haber más inversión pública."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "calificación crediticia",
+                "gestión fiscal"
+            ],
+            "postura_politica": "Celebra la máxima calificación AAA como resultado de la gestión PRO, enviando un mensaje de eficiencia comparativa frente a otras provincias. Es un posicionamiento de marca partidaria.",
+            "frase_fuerte": "Cuentas ordenadas hoy son más obras mañana."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "salud",
+                "tren sanitario",
+                "equipamiento hospitalario"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en obras de salud y tren, mostrando gestión pero sin roces con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "integración provincial",
+                "gas",
+                "conectividad",
+                "banco provincial"
+            ],
+            "postura_politica": "Promueve obras de infraestructura en localidades pequeñas, destacando la integración. No menciona a Nación, pero el subtexto es que la provincia se hace cargo donde el Estado nacional abandonó.",
+            "frase_fuerte": "Que una familia viva en Cushamen, en Lago Blanco o en cualquier rincón de la provincia no puede significar menos oportunidades."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "inversiones",
+                "RINI",
+                "empleo"
+            ],
+            "postura_politica": "Muestra resultados del Régimen de Incentivos (RINI) como política de atracción de inversiones. Es un mensaje de gestión pro-mercado, sin confrontación con Nación.",
+            "frase_fuerte": "Queremos una Entre Ríos que premie al que trabaja y genera empleo."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "religión",
+                "oración"
+            ],
+            "postura_politica": "Agenda protocolar aislada. Sin contenido político relevante.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "industria",
+                "IMPSA",
+                "Venezuela",
+                "hidroeléctrica"
+            ],
+            "postura_politica": "Destaca el acuerdo de IMPSA con Venezuela para obras hidroeléctricas, mostrando a Mendoza como polo industrial y de exportación de servicios. Es un guiño al desarrollo productivo y a la inserción internacional.",
+            "frase_fuerte": "IMPSA vuelve a ser protagonista de grandes obras de infraestructura en el mundo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "empleo privado",
+                "guardafaunas",
+                "pesca deportiva"
+            ],
+            "postura_politica": "Agenda local con foco en datos positivos de empleo y gestión ambiental. Sin posicionamiento federal.",
+            "frase_fuerte": "Seguimos siendo la provincia que más trabajo formal privado genera en el país."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "energía",
+                "GNL",
+                "YPF",
+                "ONU-Hábitat",
+                "boleto estudiantil",
+                "RIMI"
+            ],
+            "postura_politica": "Se posiciona como el gobernador del futuro energético, articulando con YPF y organismos internacionales. Es un mensaje de autonomía y planificación estratégica.",
+            "frase_fuerte": "Nuestra provincia será sede del principal hub de exportación de GNL y petróleo de América Latina."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "vivienda",
+                "escrituras",
+                "seguridad",
+                "cooperación interprovincial"
+            ],
+            "postura_politica": "Combina gestión local (viviendas) con un hito en seguridad: el centro de control unificado con Mendoza y Nación. Muestra capacidad de articulación y eficiencia.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "financiamiento",
+                "obras",
+                "empleo"
+            ],
+            "postura_politica": "Reclama herramientas de financiamiento para obras, en un tono de urgencia. Es un pedido explícito a la Legislatura y a Nación, mostrando la fragilidad fiscal de la provincia.",
+            "frase_fuerte": "No se trata de política ni de diferencias partidarias. Se trata de obras, trabajo y oportunidades para nuestra gente."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "obras públicas",
+                "deporte",
+                "justicia",
+                "descentralización"
+            ],
+            "postura_politica": "Agenda local con inauguraciones de obras (club social, oficina jurídica). Sin roces con Nación, mostrando gestión territorial.",
+            "frase_fuerte": null
+        }
+    ]
+}
