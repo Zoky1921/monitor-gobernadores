@@ -1,0 +1,170 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La jornada federal del 12 de junio de 2026 exhibe un panorama mixto. Mientras varios gobernadores, como Axel Kicillof (Buenos Aires) y Leandro Zdero (Chaco), priorizan la gestión local con anuncios de obras de infraestructura, vivienda y fomento industrial, otros enfatizan la seguridad y la justicia, con Claudio Poggi (San Luis) y Osvaldo Jaldo (Tucumán) destacando la cooperación y descentralización. Un punto de fricción emerge de la crítica de Jorge Macri (CABA) a Axel Kicillof (Buenos Aires) por políticas de tierras, y la demanda de Claudio Vidal (Santa Cruz) al Gobierno Nacional por 'herramientas' de financiamiento, señalando la necesidad de apoyo federal. Arabela Carreras (Río Negro) se enfoca en el desarrollo energético y urbano estratégico, mientras Hugo Passalacqua (Misiones) fortalece la cooperación con organismos internacionales en políticas sociales.",
+    "analisis_profundo": "El día se caracterizó por una agenda provincial diversificada, donde la mayoría de los gobernadores enfocaron sus comunicaciones en la gestión interna y el desarrollo local, aunque con matices y algunas tensiones federales evidentes. La inversión en infraestructura y desarrollo económico regional fue un eje central. Axel Kicillof (Buenos Aires) resaltó la inauguración de un hotel y la entrega de viviendas, vinculando estos proyectos al impulso de la producción, el turismo y el empleo local. En la misma línea, Leandro Zdero (Chaco) celebró la inauguración de una planta industrial y el avance de un tren sanitario, apostando al crecimiento industrial y a la mejora de servicios esenciales. Arabela Carreras (Río Negro) mostró una visión estratégica a futuro, firmando acuerdos con YPF y ONU-Hábitat para un hub de GNL y petróleo, y promoviendo el RIMI para atraer inversiones, lo que subraya un modelo de desarrollo integral. Rolando Figueroa (Neuquén) también se sumó a este enfoque, destacando la modernización de la gestión ambiental y la fiscalización para proteger los recursos naturales con tecnología, ligando la recaudación al equipamiento. Claudio Poggi (San Luis) enfatizó la entrega de escrituras y la inauguración de comercios que generan empleo. En el ámbito de la seguridad y justicia, se observan esfuerzos de coordinación y descentralización. Claudio Poggi (San Luis) participó en una capacitación interprovincial en investigación criminal con la Ministra de Seguridad Nacional, demostrando colaboración federal en un tema sensible. Por su parte, Osvaldo Jaldo (Tucumán) inauguró una Oficina de Atención Primaria Jurídica, un paso hacia la descentralización judicial y el acceso a servicios esenciales. Sin embargo, el clima no estuvo exento de tensiones. Jorge Macri (CABA), a través de un retuit, lanzó una crítica directa a Axel Kicillof (Buenos Aires) al contrastar sus modelos de gestión frente a la ocupación de tierras, calificándolo como 'literalmente dos modelos de país'. Esta declaración subraya una divergencia ideológica profunda y recurrente entre la CABA y la provincia de Buenos Aires. Por otro lado, Claudio Vidal (Santa Cruz) expresó una demanda clara de 'herramientas' de financiamiento al Gobierno Nacional para que su provincia pueda 'ponerse de pie', lo que revela una preocupación por la escasez de recursos federales y la búsqueda de autonomía financiera. Finalmente, las políticas sociales y la protección de derechos también ocuparon un lugar en la agenda. Hugo Passalacqua (Misiones) firmó un convenio de cooperación con UNICEF para fortalecer áreas como salud, educación y protección infantil. Arabela Carreras (Río Negro) también destacó el programa ENFOCAR RN, brindando acceso a anteojos a la población, reflejando un compromiso con la mejora de la calidad de vida. Gustavo Sáenz (Salta) se centró en la promoción de eventos deportivos como motor de turismo y economía local, una estrategia para dinamizar la provincia. En síntesis, la jornada mostró una diversidad de prioridades, con un fuerte acento en la gestión provincial y el desarrollo endógeno, pero con persistentes señales de descontento o fricción en las relaciones interjurisdiccionales y con el gobierno central en cuestiones de recursos y modelos de gobernanza.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión y Obra Pública Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Regional y Productivo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y Justicia",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Relación Nación-Provincias y Recursos",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales y Derechos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "NECESITAMOS LAS MISMAS HERRAMIENTAS QUE TUVIERON OTROS GOBIERNOS PARA QUE SANTA CRUZ SE PONGA DE PIE No se trata de política ni de diferencias partidarias. Se trata de obras, trabajo y oportunidades para nuestra gente. Los diputados tienen la posibilidad de acompañar una ley que permita que nuestra provincia pueda seguir avanzando. Santa Cruz no puede esperar...",
+        "por_que_es_clave": "El gobernador de Santa Cruz explicita una demanda directa de financiamiento al Gobierno Nacional, sugiriendo una falta de apoyo que obstaculiza el desarrollo provincial. Esta declaración pone en relieve la tensión en las relaciones federales y la búsqueda de recursos para la obra pública y la generación de empleo.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Desarrollo económico local",
+                "Inversión privada",
+                "Vivienda social"
+            ],
+            "postura_politica": "Resalta la gestión provincial en impulso económico y social, mostrando un Estado presente que genera soluciones locales. El tweet sobre viviendas, en 'un contexto tan difícil para las familias', resalta la asistencia social.",
+            "frase_fuerte": "Son más bonaerenses que hoy dejan de alquilar o de compartir techo con otros familiares para disfrutar de la casa propia."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Propiedad",
+                "Seguridad",
+                "Modelos de país"
+            ],
+            "postura_politica": "Crítica directa a la gestión de Axel Kicillof (Buenos Aires) en temas de ocupación de tierras, marcando una clara diferencia ideológica y de modelo de gestión entre CABA y Provincia de Buenos Aires. Se posiciona por la 'ley y el orden'.",
+            "frase_fuerte": "Donde @Kicillofok avala las tomas. Literalmente dos modelos de país."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud",
+                "Servicios públicos",
+                "Desarrollo industrial",
+                "Empleo"
+            ],
+            "postura_politica": "Enfoque en la mejora de infraestructura y servicios esenciales, y el fomento de la inversión privada y generación de empleo, destacando el impacto positivo en la calidad de vida provincial.",
+            "frase_fuerte": "Cada nueva industria que se pone en marcha fortalece la producción, genera empleo genuino para más chaqueños y agrega valor a la provincia."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Cooperación internacional",
+                "Políticas sociales",
+                "Salud",
+                "Educación",
+                "Derechos"
+            ],
+            "postura_politica": "Destaca la importancia de alianzas estratégicas con organismos internacionales para fortalecer programas sociales y de protección de derechos en la provincia, especialmente en salud, educación y desarrollo infantil.",
+            "frase_fuerte": "Junto a @UNICEFargentina firmamos un nuevo convenio de cooperación que nos permitirá seguir trabajando juntos en salud, educación, nutrición, desarrollo infantil temprano y protección de derechos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Medio ambiente",
+                "Fiscalización",
+                "Tecnología",
+                "Recursos naturales"
+            ],
+            "postura_politica": "Promueve la modernización de la gestión ambiental y la fiscalización, mostrando eficiencia en el uso de recursos para la protección de la biodiversidad, vinculando la recaudación con el equipamiento tecnológico.",
+            "frase_fuerte": "Estamos fortaleciendo el control territorial para cuidar nuestra biodiversidad de manera eficiente en toda la provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Energía",
+                "Desarrollo urbano",
+                "Inversión",
+                "Empleo",
+                "Formación",
+                "Salud"
+            ],
+            "postura_politica": "Demuestra una visión estratégica en el desarrollo energético (hub de GNL/petróleo) y urbano con foco en planificación y sostenibilidad. Impulsa herramientas para la inversión privada (RIMI) y la mejora de servicios de salud, junto a la formación y capacitación de la población para las nuevas oportunidades.",
+            "frase_fuerte": "Nuestra provincia será sede del principal hub de exportación de GNL y petróleo de América Latina. Y eso nos obliga a trabajar desde ahora para que nuestras ciudades crezcan de manera ordenada, sostenible y con planificación."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Deporte",
+                "Turismo",
+                "Economía local"
+            ],
+            "postura_politica": "Utiliza eventos deportivos de gran magnitud para posicionar la provincia como destino turístico y motor de la economía local, generando movimiento y visibilidad.",
+            "frase_fuerte": "Una vez más, Salta será sede del torneo más federal del país, recibiendo a miles de hinchas y consolidándose como escenario de grandes eventos deportivos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Empleo",
+                "Seguridad",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Resalta la acción gubernamental en la resolución de problemas habitacionales y el fomento del empleo local mediante la apertura de negocios, además de la colaboración interjurisdiccional en seguridad con autoridades nacionales.",
+            "frase_fuerte": "Más familias de la Ciudad de San Luis accedieron hoy a la ESCRITURA de su Vivienda. Seguridad jurídica y tranquilidad familiar !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Financiamiento provincial",
+                "Obra pública",
+                "Empleo",
+                "Relación con el gobierno nacional"
+            ],
+            "postura_politica": "Explicita la necesidad de herramientas de financiamiento para obra pública y empleo, instando a los diputados a apoyar una ley que permita el avance provincial, sugiriendo una dificultad en la relación con el gobierno nacional o en el acceso a recursos.",
+            "frase_fuerte": "NECESITAMOS LAS MISMAS HERRAMIENTAS QUE TUVIERON OTROS GOBIERNOS PARA QUE SANTA CRUZ SE PONGA DE PIE"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Justicia",
+                "Descentralización",
+                "Servicios esenciales"
+            ],
+            "postura_politica": "Enfatiza la importancia de acercar los servicios de justicia a la comunidad a través de la descentralización y el trabajo articulado entre poderes del Estado, mejorando la accesibilidad y eficiencia.",
+            "frase_fuerte": "La descentralización de la Justicia es una política fundamental para acercar el Estado a la gente."
+        }
+    ]
+}

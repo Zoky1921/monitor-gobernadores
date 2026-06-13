@@ -1,0 +1,229 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por la escalada de Kicillof en el reclamo de deuda a Nación, mientras Torres capitalizó fondos de ANSES para jubilados. En paralelo, varios gobernadores reforzaron la agenda de seguridad y obra pública, evitando confrontar directamente con la Casa Rosada.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: Kicillof redobló la apuesta fiscal al denunciar una deuda de $22 billones y romper la conciliación en la Corte, transformando el reclamo en una plataforma de campaña. Su narrativa de 'asfixia nacional' busca unificar al peronismo bonaerense y erosionar la imagen de ajuste del Gobierno. Torres, en cambio, utilizó los $48.000 millones recuperados de ANSES para blindar su caja previsional, un gesto de autonomía que no implica ruptura sino pragmatismo fiscal.\n\nActo 2 — Los Alineamientos: Macri, Cornejo y Poggi consolidaron el eje de seguridad con la inauguración del Centro de Control Unificado en Desaguadero, un mensaje de coordinación interprovincial que contrasta con la ausencia de Nación en la gestión directa. Pullaro recibió al embajador de EE.UU. para validar su lucha contra el crimen organizado, mientras Jalil y Figueroa se mostraron en la convención de la construcción, reclamando inversión en infraestructura sin mencionar a Nación.\n\nActo 3 — La Micro-política: Gobernadores como Zdero, Passalacqua y Llaryora se refugiaron en la gestión local (escuelas, viviendas, salud), evitando cualquier roce con el Gobierno nacional. Es un 'apagón político' calculado: no dan batalla pero tampoco legitiman el relato de ajuste. Vidal, en Santa Cruz, intentó destrabar una ley de financiamiento mientras enfrentaba un conflicto policial, mostrando fragilidad institucional.\n\nActo 4 — Saldo Presidencial: La Casa Rosada logró que varios gobernadores (Jalil, Figueroa, Saenz) mantuvieran un perfil técnico y dialoguista, pero la ofensiva de Kicillof y la autonomía de Torres en el manejo de fondos evidencian que la disciplina fiscal nacional no se traduce en lealtad política. El tablero muestra una oposición fragmentada pero activa, y un oficialismo que negocia con los gobernadores periféricos mientras contiene a los pesos pesados.",
+    "temas_calientes": [
+        {
+            "tema": "Deuda y coparticipación: reclamo de fondos a Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Seguridad y coordinación interprovincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@alfredocornejo",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Infraestructura y obra pública con fondos provinciales",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Relación institucional con Nación (reuniones con ministros)",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@OsvaldoJaldo",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Gestión local y agenda de cabotaje (educación, vivienda, salud)",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@EliasSuarezSDE",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "El Gobierno nacional desconoció su compromiso de acercar una propuesta de pago en la audiencia de hoy en la Corte Suprema por los más de $2,3 billones que nos adeuda ANSES. Por ese motivo, dimos por terminada la etapa de conciliación y decidimos avanzar por la vía cautelar. Así es como construyen el superávit, negando el pago a los jubilados, a las universidades y a las provincias. En el caso de la Provincia de Buenos Aires, la deuda asciende a más de $22 billones, entre lo que han dejado de transferir y la pérdida de recaudación. No son números pequeños, equivale a la mitad de nuestro presupuesto anual. Vamos a seguir reclamando esos fondos porque no son de un Gobernador, le corresponden al pueblo bonaerense.",
+        "por_que_es_clave": "Kicillof rompe la conciliación judicial y eleva el conflicto fiscal a un plano político, buscando instalar la idea de que el superávit nacional se construye a costa de las provincias. Es un movimiento de cara a su base peronista y a la opinión pública, que además presiona al Gobierno en vísperas de una negociación presupuestaria.",
+        "pregunta_openarg": "¿Puede la Provincia de Buenos Aires sostener su reclamo judicial sin afectar la gobernabilidad fiscal del país, o es una estrategia electoral que profundiza la grieta?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Deuda con Nación",
+                "Gestión provincial (vivienda, salud, seguridad)",
+                "Malvinas",
+                "Cristina Kirchner"
+            ],
+            "postura_politica": "Marca perfil de resistencia y confrontación directa con el Gobierno nacional. Cada anuncio de gestión es un 'a pesar de la asfixia'. La omisión de la macroeconomía en sus tuits de obra pública es un mensaje: 'yo gestiono, ellos ajustan'.",
+            "frase_fuerte": "Nos dicen que el Estado no sirve para nada y que hay que destruirlo, pero para garantizar los derechos de nuestro pueblo tiene que haber más inversión pública."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad (desalojos)",
+                "Calificación crediticia AAA",
+                "Contraste con Kicillof"
+            ],
+            "postura_politica": "Se posiciona como el gestor eficiente y ordenado, en contraposición al 'modelo Kicillof'. La calificación AAA es su principal activo político. El tuit sobre el cartel trucho de discapacitados refuerza su discurso de 'ley y orden'.",
+            "frase_fuerte": "Literalmente dos modelos de país."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Infraestructura (Camarco)",
+                "Norte Grande",
+                "Minería"
+            ],
+            "postura_politica": "Perfil técnico y de gestión, sin confrontación con Nación. Su participación en la convención de la construcción y en el Norte Grande muestra una agenda de desarrollo regional que no roza lo político partidario.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud",
+                "Educación",
+                "Industria local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a inauguraciones y anuncios de gestión, evitando cualquier mención a Nación. Es un refugio en la gestión de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Deuda de ANSES",
+                "Hospital",
+                "Plan Galina",
+                "Seguridad"
+            ],
+            "postura_politica": "Capitaliza el recupero de fondos de ANSES para destinarlos a jubilados, mostrando eficacia en la gestión de recursos. La reunión con la ministra de Seguridad nacional indica cooperación, pero el foco está en la autonomía fiscal.",
+            "frase_fuerte": "Hoy convertimos ese compromiso en un decreto que garantiza que la totalidad de los $48.000 millones recuperados sean destinados exclusivamente a la Caja Previsional de la provincia."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Seguridad penitenciaria",
+                "Innovación",
+                "Salud",
+                "Empleo"
+            ],
+            "postura_politica": "Gobierna con agenda propia, destacando la inversión en tecnología y empleo. La mención a la discapacidad y la crítica velada a la 'crueldad' del ajuste nacional es un guiño opositor, pero sin romper el diálogo.",
+            "frase_fuerte": "En momentos donde otros ajustan, nosotros incluimos."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Reunión con Santilli",
+                "Plan de rutas",
+                "Narcotráfico",
+                "RINI"
+            ],
+            "postura_politica": "Mantiene un perfil de gestión y diálogo con Nación. La reunión con Santilli y el avance en la compensación de la Caja jubilatoria muestran una relación institucional fluida. El operativo antidroga refuerza su imagen de mano dura.",
+            "frase_fuerte": "En Entre Ríos, los únicos que tienen que tener miedo son los delincuentes y los narcos."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Títulos de propiedad",
+                "UNICEF",
+                "Aguinaldo",
+                "Educación"
+            ],
+            "postura_politica": "Agenda de gestión pura, sin referencias a la política nacional. La firma con UNICEF y el pago del aguinaldo son gestos de eficiencia administrativa. Evita cualquier roce.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Rutas",
+                "Integración binacional",
+                "Exportaciones"
+            ],
+            "postura_politica": "Apuesta a la integración con Chile y al desarrollo energético. La reunión con el canciller y el gobernador del Biobío muestra una agenda de proyección internacional. No hay crítica a Nación, sino construcción de autonomía regional.",
+            "frase_fuerte": "Queremos que la cordillera sirva para unir y no para separar."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "GNL",
+                "Educación técnica",
+                "Boleto estudiantil",
+                "RIMI"
+            ],
+            "postura_politica": "Gestiona con una mirada de largo plazo: formación de recursos humanos para la industria energética. La aprobación del RIMI es una herramienta de desarrollo productivo. Mantiene un perfil técnico y de diálogo con Nación.",
+            "frase_fuerte": "Queremos que el trabajo y las oportunidades que generen estas inversiones encuentren a los rionegrinos preparados."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Paso de Sico",
+                "Deportes",
+                "Educación",
+                "Rutas nacionales"
+            ],
+            "postura_politica": "Combina gestión local con reclamos puntuales a Nación (rutas nacionales, gas). La reapertura del paso de Sico es un logro de gestión provincial. No confronta abiertamente, pero marca presencia.",
+            "frase_fuerte": "Hechos, no palabras."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Seguridad (Centro de Control Unificado)",
+                "Vivienda",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Se alinea con Cornejo y la ministra Monteoliva en seguridad, mostrando coordinación interprovincial. La agenda de vivienda y obras es de gestión local. No hay mención a Nación más que la ministra.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Ley de financiamiento",
+                "Reforma institucional",
+                "Conflicto policial",
+                "Petróleo"
+            ],
+            "postura_politica": "En una situación de fragilidad: necesita la ley de financiamiento para obras, pero enfrenta un conflicto policial. La restitución del Procurador es un gesto de institucionalidad. Su discurso es de unidad y responsabilidad.",
+            "frase_fuerte": "Después de más de 30 años, se hizo justicia en Santa Cruz."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Seguridad (reunión con embajador EE.UU.)",
+                "Escrituras",
+                "Fogafe",
+                "Agroactiva"
+            ],
+            "postura_politica": "Consolida su perfil de gestión en seguridad y producción. La reunión con el embajador estadounidense valida su lucha contra el crimen. El lanzamiento del Fogafe es una herramienta para pymes. No hay confrontación con Nación, sino cooperación.",
+            "frase_fuerte": "Cuando ordenás el Estado y administrás con eficiencia, los recursos vuelven a donde tienen que estar."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Foro de Economías Regionales",
+                "ServicioSGO",
+                "Educación",
+                "Norte Grande"
+            ],
+            "postura_politica": "Agenda de desarrollo regional y digitalización. La participación en el Foro y en el Norte Grande muestra una visión federal. No hay roces con Nación; se enfoca en la gestión local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Infraestructura judicial",
+                "Reunión con Santilli",
+                "Norte Grande",
+                "Salud"
+            ],
+            "postura_politica": "Mantiene un perfil institucional y de diálogo con Nación. La reunión con Santilli y la participación en el Norte Grande indican una relación constructiva. La agenda de salud y educación es de gestión.",
+            "frase_fuerte": null
+        }
+    ]
+}
