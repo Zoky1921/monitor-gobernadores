@@ -1,0 +1,196 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por el reclamo fiscal de Kicillof a la Nación por deuda de ANSES, mientras gobernadores de distinto signo despliegan gestión local y efemérides. La disputa por recursos y la autonomía provincial dominan la agenda.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal entre Nación y provincias se cristaliza en el tweet de Kicillof (Buenos Aires), quien denuncia la deuda de $2,3 billones de ANSES y la 'asfixia económica' del Gobierno nacional. Este posicionamiento, en plena jornada de gestión local, busca capitalizar el descontento provincial y marcar territorio frente al ajuste. El silencio de otros gobernadores sobre este tema sugiere un cálculo de supervivencia: no todos pueden darse el lujo de confrontar abiertamente.\n\nActo 2 — Los Alineamientos: Por un lado, los gobernadores del Norte Grande (Jalil, Insfrán, Suárez) se reúnen en bloque para reclamar infraestructura y gas, mostrando una alianza regional frente a la Nación. Por otro, figuras como Cornejo (Mendoza) y Poggi (San Luis) apuestan a la gestión y la seguridad jurídica, evitando el choque directo. El PRO en CABA (Macri) refuerza su narrativa de orden fiscal, mientras que el peronismo de Kicillof y Quintela (La Rioja) se erige como oposición al modelo nacional.\n\nActo 3 — La Micro-política: En provincias periféricas, los gobernadores se refugian en la agenda local: Chaco (Zdero) inaugura escuelas, Formosa (Insfrán) celebra efemérides, y Santa Cruz (Vidal) recuerda a mineros. Estos gestos, aunque protocolares, refuerzan la idea de un Estado presente frente al repliegue nacional. La omisión de la macroeconomía en estos tuits es una estrategia de supervivencia: no sumarse al conflicto para no perder recursos.\n\nActo 4 — Saldo Presidencial: La Casa Rosada enfrenta un escenario de desgaste. Kicillof, al denunciar la deuda, pone en jaque el relato de superávit fiscal. Mientras tanto, gobernadores aliados (como Jalil) negocian en bloque, y los opositores (Macri) celebran el orden. El balance es de una Nación que pierde capital político en las provincias, con un Congreso que deberá mediar en la coparticipación.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto fiscal Nación-provincias por deuda de ANSES y coparticipación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Infraestructura y obras públicas como marca de autonomía provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el crimen organizado",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@GustavoSaenzOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Minería y recursos estratégicos (litio, cobre, GNL)",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@DrMarceloOrrego",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Efemérides y agenda local como refugio político",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@carlossadirjuy",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (Buenos Aires)",
+        "texto": "El Gobierno nacional desconoció su compromiso de acercar una propuesta de pago en la audiencia de hoy en la Corte Suprema por los más de $2,3 billones que nos adeuda ANSES. Por ese motivo, dimos por terminada la etapa de conciliación y decidimos avanzar por la vía cautelar. Así es como construyen el superávit, negando el pago a los jubilados, a las universidades y a las provincias.",
+        "por_que_es_clave": "Kicillof eleva el conflicto fiscal a la Corte, desnudando la estrategia de ajuste nacional y posicionándose como el principal opositor al Gobierno. La deuda de ANSES es el caballo de Troya para la disputa por la coparticipación.",
+        "pregunta_openarg": "¿Es viable el superávit fiscal si el Gobierno nacional sigue acumulando deudas con las provincias y la ANSES?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Educación",
+                "Deuda de ANSES",
+                "Conflicto fiscal"
+            ],
+            "postura_politica": "Marca autonomía y reclama fondos. Denuncia asfixia económica y se posiciona como defensor del derecho frente al ajuste nacional.",
+            "frase_fuerte": "Así es como construyen el superávit, negando el pago a los jubilados, a las universidades y a las provincias."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Gestión PRO",
+                "Calificación crediticia"
+            ],
+            "postura_politica": "Refuerza el relato de orden y eficiencia. Se diferencia del modelo Kicillof y celebra el equilibrio fiscal como bandera.",
+            "frase_fuerte": "Literalmente dos modelos de país."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Norte Grande",
+                "Minería"
+            ],
+            "postura_politica": "Apuesta a la integración regional y al diálogo con Nación. Evita el conflicto directo y busca recursos para su provincia.",
+            "frase_fuerte": "La infraestructura es mucho más que pegar ladrillos."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "Viviendas",
+                "Obras"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Refugio en la gestión de cabotaje para mostrar presencia estatal.",
+            "frase_fuerte": "Donde antes había abandono, hoy hay máquinas trabajando."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Salud",
+                "Viviendas",
+                "Gas"
+            ],
+            "postura_politica": "Reclama por deuda de ANSES y muestra gestión. Se posiciona como reparador de promesas incumplidas.",
+            "frase_fuerte": "Después de muchos años, Chubut tiene por fin el hospital que se merecen."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Empleo",
+                "Innovación",
+                "Obras"
+            ],
+            "postura_politica": "Marca gestión propia y se distancia de Nación. Invierte en infraestructura como señal de autonomía.",
+            "frase_fuerte": "En Córdoba creemos que gobernar es generar trabajo."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Gestión local"
+            ],
+            "postura_politica": "Agenda protocolar sin posicionamiento federal. Refugio en la gestión de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Rutas",
+                "Inversión",
+                "Seguridad"
+            ],
+            "postura_politica": "Marca gestión y reclama por deuda de ANSES. Se alinea con el Norte Grande en la negociación.",
+            "frase_fuerte": "Primero recuperamos. Después empezamos a reconstruir."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Educación",
+                "Obras"
+            ],
+            "postura_politica": "Refugio en la agenda local y la memoria. Evita el conflicto nacional.",
+            "frase_fuerte": "Las Malvinas fueron, son y serán argentinas."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Minería",
+                "Turismo",
+                "Deportes"
+            ],
+            "postura_politica": "Apuesta a la minería y al turismo. Se alinea con el Norte Grande y evita confrontación.",
+            "frase_fuerte": "La minería en Jujuy abre la posibilidad de un desarrollo con oportunidades para todos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Salud",
+                "Vulnerabilidad",
+                "Fiscal"
+            ],
+            "postura_politica": "Marca gestión y reclama por coparticipación. Se posiciona como ejemplo de orden fiscal.",
+            "frase_fuerte": "Es necesario un nuevo pacto fiscal federal."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Minería",
+                "Educación",
+                "Conflicto"
+            ],
+            "postura_politica": "Denuncia saqueo y se alinea con Kicillof. Rechaza el RIGI y defiende la autonomía.",
+            "frase_fuerte": "No vamos a ser cómplices del saqueo de recursos de los argentinos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Minería",
+                "IMPSA",
+                "Seguridad"
+            ],
+            "postura_politica": "Celebra inversión y marca gestión. Se alinea con el orden fiscal y evita conflicto.",
+            "frase_fuerte": "IMPSA vuelve a ser protagonista de grandes obras de infraestructura en el mundo."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Educación",
+                "Turismo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Refugio en la gestión de cabotaje.",
+            "frase_fuerte": null
+        }
+    ]
+}
