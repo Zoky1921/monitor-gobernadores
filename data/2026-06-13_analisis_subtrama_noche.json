@@ -1,0 +1,250 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por la escalada de Kicillof contra Nación por la deuda de ANSES, marcando un quiebre en la conciliación. Mientras tanto, Macri exhibió la solvencia fiscal de CABA como antítesis del relato provincial, y varios gobernadores periféricos se refugiaron en agenda local, evidenciando un repliegue estratégico ante la asfixia fiscal.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: Kicillof dinamitó la instancia de conciliación con la Casa Rosada al denunciar que el Gobierno nacional no acercó propuesta en la audiencia por los $2,3 billones adeudados por ANSES. El gobernador bonaerense no solo rompió la tregua judicial, sino que amplificó el reclamo a $22 billones totales, incluyendo pérdida de recaudación. La frase \"así construyen el superávit\" es un misil contra el núcleo del relato oficial: el equilibrio fiscal logrado a costa de las provincias. Es una declaración de guerra en el frente fiscal y un intento de rearticular el peronismo federal alrededor de la victimización por el ajuste.\n\nActo 2 — Los Alineamientos: Del lado de Kicillof aparecen Jaldo (Tucumán) y Passalacqua (Misiones) en agenda local sin confrontar directamente, pero sin apoyar a Nación. En la vereda opuesta, Macri (CABA) y Pullaro (Santa Fe) constituyen el polo ordenancista: Macri con la calificación AAA y Pullaro con la baja de retenciones y créditos al campo. Cornejo (Mendoza) y Weretilneck (Río Negro) operan en ambigüedad calculada: ambos reciben inversiones privadas y se distancian de la pelea central, mostrando que su modelo es la integración al mundo, no la confrontación. Figueroa (Neuquén) refuerza su perfil técnico con obras y escrituras, evitando la grieta.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Zdero, Insfrán, Sadir, Torres, Poggi, Vidal) se sumergieron en gestiones de cabotaje: viviendas, rutas, gas, educación. No hay una sola mención a la Nación, salvo Zdero que mencionó el Norte Grande pero sin tensión. Es un apagón político coordinado: saben que el conflicto central los expone, y eligen no exponerse. El silencio es su forma de supervivencia. Jalil (Catamarca) está ausente del timeline de hoy, lo que sugiere repliegue tras la reunión del Norte Grande.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día deja un saldo agridulce. Por un lado, la foto de Macri con la calificación crediticia y Pullaro con inversiones muestran que el modelo de orden fiscal genera réditos en provincias aliadas. Por otro, Kicillof logró instalar la narrativa de que el ajuste es confiscatorio y que el superávit se financia con deuda a las provincias. El silencio de los gobernadores periféricos no es un triunfo; es un síntoma de que prefieren no mojarse. La pulseada fiscal sigue abierta y la Corte Suprema será el próximo escenario.",
+    "temas_calientes": [
+        {
+            "tema": "Deuda de ANSES y quiebre de conciliación con Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Calificación crediticia AAA de CABA como modelo de gestión",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Inversiones en infraestructura energética y GNL (Río Negro y Neuquén)",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad y coordinación regional (Santa Fe, Mendoza, San Luis)",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@alfredocornejo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Agenda local de viviendas y obras en provincias periféricas",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "El Gobierno nacional desconoció su compromiso de acercar una propuesta de pago en la audiencia de hoy en la Corte Suprema por los más de $2,3 billones que nos adeuda ANSES. Por ese motivo, dimos por terminada la etapa de conciliación y decidimos avanzar por la vía cautelar. Así es como construyen el superávit, negando el pago a los jubilados, a las universidades y a las provincias.",
+        "por_que_es_clave": "Kicillof pasa de la queja a la acción judicial y pone en el centro de la agenda la asfixia fiscal como arma política. Rompe la conciliación y obliga a la Corte a definir, mientras busca unificar al peronismo en torno a la deuda.",
+        "pregunta_openarg": "¿Construir superávit a costa de las provincias es sostenible o la Corte fallará en contra del ajuste?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Deuda ANSES",
+                "Viviendas",
+                "Educación",
+                "Seguridad",
+                "Malvinas",
+                "Persecución a Cristina"
+            ],
+            "postura_politica": "Confrontación directa con Nación por la deuda, mientras muestra gestión en territorio para contrastar el 'abandono' nacional. El tuit de la audiencia es el centro de la jornada.",
+            "frase_fuerte": "Así es como construyen el superávit, negando el pago a los jubilados, a las universidades y a las provincias."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Calificación crediticia AAA",
+                "Explotación infantil",
+                "Seguridad",
+                "Espacio público"
+            ],
+            "postura_politica": "Exhibe los frutos del orden fiscal y la gestión PRO, contrastando con el conflicto bonaerense. La calificación AAA es un golpe de efecto contra el relato de asfixia.",
+            "frase_fuerte": "Cuentas ordenadas hoy son más obras mañana."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Salud",
+                "Industria",
+                "Educación",
+                "Rutas"
+            ],
+            "postura_politica": "Agenda local de gestión sin confrontación. Menciona articulación con Norte Grande pero sin tensión. Bajo perfil.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Salud",
+                "Rutas",
+                "Gas",
+                "Turismo",
+                "Lucha contra narcotráfico"
+            ],
+            "postura_politica": "Gestión intensa en territorio, con énfasis en obras paralizadas que reactiva con fondos provinciales. Sin mención a Nación, salvo reunión con Ministra de Seguridad. Postura de autonomía pragmática.",
+            "frase_fuerte": "Después de muchos años de desidia y abandono, estamos construyendo una provincia más integrada."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "RINI",
+                "Reunión con Santilli",
+                "Rutas",
+                "Seguridad",
+                "Transparencia fiscal"
+            ],
+            "postura_politica": "Posicionamiento como gestor eficiente y dialoguista con Nación. La reunión con Santilli muestra búsqueda de acuerdos, no de conflicto. Defensa del RINI como herramienta de desarrollo.",
+            "frase_fuerte": "Creemos en un Estado inteligente, ágil y moderno. Un Estado que facilite, que impulse y que esté del lado de quienes invierten."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "San Antonio de Padua",
+                "Ingenieros",
+                "Malvinas",
+                "Periodistas",
+                "Norte Grande"
+            ],
+            "postura_politica": "Agenda protocolar y de gestión local. Sin confrontación. La mención a Malvinas es simbólica. El silencio sobre la Nación sugiere repliegue.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Fiestas patronales",
+                "Mediación",
+                "Becas",
+                "IRONMAN",
+                "Norte Grande"
+            ],
+            "postura_politica": "Agenda diversa con foco en turismo y justicia. Sin mención a Nación. Postura de bajo perfil, sin alinearse en el conflicto central.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "IMPSA",
+                "Seguridad con San Luis",
+                "Viviendas",
+                "Vitivinicultura",
+                "Ciberseguridad"
+            ],
+            "postura_politica": "Modelo de gestión orientado a la inversión privada y la integración regional. Sin mención de conflicto con Nación, pero mostrando resultados propios. La calificación de Mendoza es implícita.",
+            "frase_fuerte": "Mendoza no solo cuenta con los recursos, también posee un entramado de talento, servicios e instituciones especializadas."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Títulos",
+                "UNICEF",
+                "Aguinaldo",
+                "Turismo"
+            ],
+            "postura_politica": "Agenda local intensa, con anuncios de pagos y obras. Sin mención a Nación. El silencio sugiere apuesta a la gestión propia para no quedar atrapado en la grieta.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Aeropuerto",
+                "Educación",
+                "Viviendas",
+                "Escrituras",
+                "Empleo",
+                "Rutas",
+                "Integración binacional"
+            ],
+            "postura_politica": "Énfasis en obras y en el modelo Neuquén como polo de desarrollo. Sin mención a Nación, pero la reunión con Biobío muestra proyección internacional. Postura de autonomía exitosa.",
+            "frase_fuerte": "Queremos que la cordillera sirva para unir y no para separar."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Hospital",
+                "Agua en represas",
+                "GNL",
+                "Empleo",
+                "RIMI",
+                "Boleto estudiantil"
+            ],
+            "postura_politica": "Celebra el cobro por uso de agua en represas y el avance del GNL. Postura de aprovechamiento de recursos propios, con diálogo con Nación pero sin subordinación. La imagen del puerto es un símbolo de poder.",
+            "frase_fuerte": "Por primera vez, Río Negro cobrará por el uso del agua en las represas."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Deportes",
+                "Seguridad",
+                "Rutas",
+                "Turismo"
+            ],
+            "postura_politica": "Agenda de obras y seguridad, con coordinación con Mendoza y Nación en seguridad. Sin conflictos. Reflejo de gestión ordenada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Financiamiento",
+                "YCRT",
+                "Petróleo",
+                "Agua",
+                "Polideportivo"
+            ],
+            "postura_politica": "Insiste en la necesidad de financiamiento para obras estructurales. Sin mención directa a Nación, pero la referencia a 'herramientas que tuvieron otros gobiernos' es un reclamo implícito. Postura de necesidad de recursos.",
+            "frase_fuerte": "No se trata de política ni de diferencias partidarias. Se trata de obras, trabajo y oportunidades para nuestra gente."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Turismo Carretera",
+                "Seguridad",
+                "Escrituras",
+                "Fondo de Garantías",
+                "Educación",
+                "Créditos"
+            ],
+            "postura_politica": "Modelo de gestión con inversión en seguridad, producción y obras. Sin mencionar a Nación directamente, pero el anuncio de créditos y baja de impuestos es un contraste con el ajuste nacional. Pullaro se posiciona como polo de eficiencia.",
+            "frase_fuerte": "En momentos de crisis nacional, acá no especulamos: invertimos lo que ahorramos en la gente que trabaja."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Economías regionales",
+                "INAI",
+                "ServicioSGO",
+                "Educación",
+                "Viviendas",
+                "Seguridad"
+            ],
+            "postura_politica": "Agenda de desarrollo local con eventos internacionales (Foro de Economías Regionales). Sin conflicto con Nación. Postura de gestión y diálogo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obras",
+                "Justicia",
+                "Salud",
+                "Educación",
+                "Deportes",
+                "Reuniones políticas"
+            ],
+            "postura_politica": "Intensa actividad de gestión y política partidaria (Frente Tucumán Primero). Sin mención a Nación, pero la reunión con intendentes muestra armado local. Silencio calculado sobre el conflicto central.",
+            "frase_fuerte": null
+        }
+    ]
+}
