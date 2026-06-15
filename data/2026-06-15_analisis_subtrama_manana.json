@@ -1,0 +1,118 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada sin conflicto fiscal abierto. Los gobernadores peronistas coordinaron homenajes a Taty Almeida como reafirmación identitaria. Pullaro marcó perfil federalista. El resto se refugió en gestión local. La Casa Rosada evitó roces directos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registró disputas fiscales ni institucionales con la Nación. El hecho político más relevante fue la cascada de homenajes a Taty Almeida, referente de Madres de Plaza de Mayo Línea Fundadora, fallecida a los 95 años. Kicillofok, Llaryora, Ziliotto, Quintela y Melella dedicaron tuits que trascienden el pésame protocolario: son un posicionamiento simbólico en la grieta memoria vs. negacionismo, y una forma de marcar territorio frente a un gobierno nacional que minimiza los crímenes de la dictadura. La omisión de otros gobernadores peronistas como Jalil o Insfrán sugiere que no hubo una directiva centralizada, sino afinidad ideológica genuina o cálculo de costos locales.\n\nActo 2 — Los Alineamientos: Pullaro (Santa Fe) fue el único gobernador no peronista con un tuit de peso político, al reivindicar a Estanislao López y el federalismo. Es un guiño al interior productivo y una crítica velada al centralismo porteño. Jorge Macri (CABA) optó por la autopromoción de gestión con el lema '2023. 2026. Hechos.', evitando cualquier mención a Nación. Los gobernadores del Norte Grande (Jalil, Insfrán, Sadir, Suárez) no tuiteron en la ventana de análisis, lo que puede interpretarse como repliegue estratégico o agenda de bajo perfil.\n\nActo 3 — La Micro-política: Zdero (Chaco), Torres (Chubut) y Figueroa (Neuquén) se enfocaron en obras locales (viviendas, gas, aeropuerto). Torres destacó la finalización de un hospital y la llegada de gas a localidades postergadas, un mensaje de eficiencia provincial frente a la parálisis nacional. Figueroa celebró datos de empleo privado, mostrando que Neuquén crece incluso en contexto recesivo. Son gestos de supervivencia política: mostrar gestión para compensar la falta de recursos nacionales.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada fue benigna en términos de confrontación directa. Sin embargo, la coordinación implícita en los homenajes a Almeida revela que el peronismo mantiene capacidad de movilización simbólica y puede articular un relato alternativo al oficialista. Pullaro, por su parte, se posiciona como voz del interior productivo, un espacio que el gobierno nacional necesita cultivar si quiere sostener su base legislativa. El silencio de los gobernadores del Norte Grande es una advertencia: no están alineados, pero tampoco en guerra. Esperan señales de la Nación sobre obras y recursos.",
+    "temas_calientes": [
+        {
+            "tema": "Homenajes a Taty Almeida como posicionamiento político en derechos humanos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@gustavomelella"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "[RE-TWEET de @gerpmartinez] El diputado nacional Juan Marino viajó a Bolivia invitado para la Asamblea Plurinacional. Está retenido en el Aeropuerto de La Paz cuando ya había ingresado al país y hecho trámites migratorios en Santa Cruz. Exigimos a las autoridades bolivianas que nuestro compañero pueda realizar las tareas para las que fue invitado. Y exhortamos a las autoridades consulares de nuestro país a garantizar su libertad e integridad física.",
+        "por_que_es_clave": "Kicillofok utiliza un caso de retención de un diputado afín para marcar perfil internacional y presionar al gobierno nacional en política exterior. Es un movimiento que combina defensa de derechos humanos con crítica implícita a la gestión de Milei en relaciones exteriores.",
+        "pregunta_openarg": "¿Hasta qué punto la defensa de un diputado K en Bolivia es una operación política para desgastar al gobierno nacional o una genuina preocupación por la libertad de expresión?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Homenaje a Taty Almeida",
+                "Retención de diputado en Bolivia"
+            ],
+            "postura_politica": "Doble juego: por un lado, se posiciona en la lucha por Memoria, Verdad y Justicia; por otro, utiliza un incidente diplomático para marcar perfil propio y criticar al gobierno nacional en política exterior. Busca mostrarse como defensor de derechos humanos y de la militancia peronista.",
+            "frase_fuerte": "Exigimos a las autoridades bolivianas que nuestro compañero pueda realizar las tareas para las que fue invitado."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Gestión y resultados"
+            ],
+            "postura_politica": "Autopromoción de su gestión con el lema '2023. 2026. Hechos.', comparando su administración con la anterior. Evita mencionar a Nación, pero implícitamente se presenta como modelo de orden frente al caos nacional. Es un mensaje para su electorado y para potenciales aliados nacionales.",
+            "frase_fuerte": "2023. 2026. Hechos."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Viviendas"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Entrega de viviendas en San Bernardo como muestra de gestión provincial. No hay mención a Nación ni posicionamiento político. Refugio en la gestión de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Gas para familias",
+                "Hospital",
+                "Obras"
+            ],
+            "postura_politica": "Gestión provincial con tono de reparación histórica. Destaca obras finalizadas con fondos provinciales, contrastando con la parálisis nacional. Mensaje implícito de eficiencia y autonomía frente al desfinanciamiento central.",
+            "frase_fuerte": "Después de muchos años de desidia y abandono, estamos construyendo una provincia más integrada."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Homenaje a Taty Almeida"
+            ],
+            "postura_politica": "Posicionamiento en derechos humanos, alineado con el peronismo. Homenaje a Taty Almeida como reafirmación de la lucha por Memoria, Verdad y Justicia. No hay crítica directa a Nación, pero sí un gesto de identidad política.",
+            "frase_fuerte": "Su compromiso inclaudicable con los Derechos Humanos dejó una huella imborrable en la historia de Argentina."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Fallecimiento familiar"
+            ],
+            "postura_politica": "Agenda personal sin contenido político. Despedida a un familiar. No hay posicionamiento ni gestión. Postura: apolítica en la jornada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Homenaje a Taty Almeida"
+            ],
+            "postura_politica": "Posicionamiento en derechos humanos, alineado con el peronismo. Homenaje a Taty Almeida como reafirmación de la lucha. No hay crítica directa a Nación, pero sí un gesto de identidad política.",
+            "frase_fuerte": "Su legado es una enseñanza que no se borra: la única lucha que se pierde es la que se abandona."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Homenaje a Taty Almeida"
+            ],
+            "postura_politica": "Posicionamiento en derechos humanos, alineado con el peronismo. Homenaje a Taty Almeida como reafirmación de la lucha. No hay crítica directa a Nación, pero sí un gesto de identidad política.",
+            "frase_fuerte": "Su ejemplo seguirá iluminando el camino de quienes mantienen viva la memoria y trabajan por los derechos humanos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Aeropuerto Chapelco",
+                "Empleo privado"
+            ],
+            "postura_politica": "Gestión local con datos positivos. Destaca la finalización de obras y el crecimiento del empleo privado en la provincia. Mensaje de eficiencia y desarrollo, contrastando con la media nacional. No menciona a Nación, pero implícitamente muestra que Neuquén es un oasis.",
+            "frase_fuerte": "Seguimos siendo la provincia que más trabajo formal privado genera en el país."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Estanislao López"
+            ],
+            "postura_politica": "Reivindicación del federalismo y el interior productivo. Homenaje a Estanislao López como símbolo de la autonomía provincial. Mensaje político dirigido a la Nación: Santa Fe quiere ser protagonista y no subordinada. Posicionamiento como líder del interior.",
+            "frase_fuerte": "Si queremos construir una Argentina verdaderamente federal y justa, tenemos que mirar y potenciar a nuestro interior productivo."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Homenaje a Taty Almeida"
+            ],
+            "postura_politica": "Posicionamiento en derechos humanos, alineado con el peronismo. Homenaje a Taty Almeida como reafirmación de la lucha. No hay crítica directa a Nación, pero sí un gesto de identidad política.",
+            "frase_fuerte": "Su lucha incansable por la memoria, la verdad y la justicia transformó el dolor en un legado colectivo."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La agenda federal hoy se dividió entre gestiones provinciales concretas y un reclamo internacional. Axel Kicillof (Buenos Aires) se pronunció en un tema de derechos humanos y diplomacia, exigiendo la libertad de un diputado nacional retenido en Bolivia. En paralelo, Maximiliano Pullaro (Santa Fe) reafirmó la importancia del federalismo y la capacidad productiva del interior. Otros mandatarios, como Jorge Macri (Ciudad Autónoma de Buenos Aires), Leandro Zdero (Chaco) y Ignacio Torres (Chubut), se centraron en la entrega de obras y la mejora de servicios básicos, demostrando un enfoque en la gestión local y la concreción de promesas. La jornada también incluyó diversos mensajes de condolencias.",
+    "analisis_profundo": "La jornada del 15 de junio de 2026, si bien no presenta un clima de alta confrontación entre la Nación y las provincias, revela una clara definición de prioridades y posicionamientos desde los gobiernos subnacionales. El gobernador Axel Kicillof (Buenos Aires) irrumpió con un mensaje de fuerte peso político y diplomático, exigiendo la intervención del Estado nacional ante la retención de un diputado en Bolivia. Este pronunciamiento subraya el rol activo de algunas provincias en temas que trascienden sus fronteras. Por otro lado, Maximiliano Pullaro (Santa Fe) aprovechó una efeméride histórica para reivindicar el federalismo y el 'interior productivo', una postura que implícitamente plantea una crítica a la centralidad del gobierno nacional y resuena con reclamos históricos por una distribución de recursos más equitativa. Estos mensajes contrastan con la tónica de gestión puramente local observada en otros distritos. Jorge Macri (Ciudad Autónoma de Buenos Aires) se enfocó en la auto-promoción de la gestión con un mensaje conciso de 'hechos'. Leandro Zdero (Chaco) y Ignacio Torres (Chubut) centraron sus comunicaciones en la entrega de viviendas y la provisión de gas, respectivamente, destacando la concreción de obras como eje central de sus administraciones. Estos gobernadores buscan reforzar la imagen de un estado presente y eficaz en el ámbito territorial, marcando una agenda de soluciones concretas. La jornada, en síntesis, muestra un federalismo activo en su reclamo de autonomía y en la defensa de intereses provinciales, junto a una fuerte impronta de gestión territorial que busca legitimar su accionar frente a las bases.",
+    "temas_calientes": [
+        {
+            "tema": "Protección de Derechos y Gestión Diplomática",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Reivindicación Federalista y Potencial Productivo del Interior",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Obras de Infraestructura y Bienestar Social",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @gerpmartinez)",
+        "texto": "El diputado nacional Juan Marino viajó a Bolivia invitado para la Asamblea Plurinacional. Está retenido en el Aeropuerto de La Paz cuando ya había ingresado al país y hecho trámites migratorios en Santa Cruz. Exigimos a las autoridades bolivianas que nuestro compañero pueda realizar las tareas para las que fue invitado. Y exhortamos a las autoridades consulares de nuestro país a garantizar su libertad e integridad física.",
+        "por_que_es_clave": "El gobernador de Buenos Aires emite un enérgico reclamo de protección a un diputado nacional retenido en Bolivia. Este pronunciamiento eleva un caso de derechos humanos a la esfera federal e internacional, evidenciando la proactividad de la provincia en temas sensibles y la demanda de garantías consulares y diplomáticas para ciudadanos argentinos en el exterior, lo que interpela directamente al gobierno nacional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Derechos Humanos",
+                "Política Exterior"
+            ],
+            "postura_politica": "Adopta una postura crítica y demandante ante la situación de un diputado nacional retenido en Bolivia, exigiendo la intervención estatal y diplomática. Se posiciona como defensor de los derechos de los ciudadanos argentinos, incluso en el ámbito internacional, amplificando un reclamo que interpela directamente al gobierno nacional.",
+            "frase_fuerte": "Exigimos a las autoridades bolivianas que nuestro compañero pueda realizar las tareas para las que fue invitado. Y exhortamos a las autoridades consulares de nuestro país a garantizar su libertad e integridad física."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Gestión Pública",
+                "Balance de Gobierno"
+            ],
+            "postura_politica": "Se enfoca en la comunicación de logros de gestión, utilizando un mensaje escueto pero directo que busca asociar su administración con resultados concretos y eficiencia. Su publicación, aunque concisa, busca reforzar la narrativa de un gobierno que 'hace', marcando una continuidad o superación respecto a periodos anteriores.",
+            "frase_fuerte": "2023. 2026. Hechos."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obras Públicas",
+                "Bienestar Social"
+            ],
+            "postura_politica": "Se concentra en la visibilización de la gestión local, destacando la entrega de viviendas como un cumplimiento de promesas y una mejora en la calidad de vida de las familias. Su mensaje subraya un enfoque en la resolución de necesidades básicas con recursos provinciales, reforzando la imagen de un estado presente y eficaz en el ámbito territorial.",
+            "frase_fuerte": "En San Bernardo, más familias chaqueñas cumplen el sueño de la casa propia. 🏡 Recuperamos viviendas que estuvieron abandonadas durante años y las finalizamos con recursos provinciales, para devolver esperanza a quienes esperaron mucho tiempo por este momento."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Servicios Públicos",
+                "Infraestructura",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Destaca la expansión de servicios básicos esenciales, como el acceso al gas en comunidades históricamente postergadas. Su comunicación enfatiza la reparación de 'injusticias' a través de obras de infraestructura, posicionándose como un gestor que reduce brechas de desigualdad territorial y mejora la calidad de vida en el interior de la provincia.",
+            "frase_fuerte": "Durante demasiado tiempo, en Chubut hubo familias que convivieron con una realidad injusta: tener la red de gas cerca, pero no poder acceder al servicio por falta de factibilidad."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Federalismo",
+                "Producción Regional",
+                "Identidad Provincial"
+            ],
+            "postura_politica": "Utiliza una figura histórica para reivindicar el modelo federal y la capacidad productiva de Santa Fe. Su mensaje es un llamado a potenciar el interior y un posicionamiento claro sobre la importancia de las provincias en la construcción del futuro del país, sugiriendo la necesidad de mayor autonomía y reconocimiento para las regiones productivas.",
+            "frase_fuerte": "A Santa Fe no la para nadie porque somos invencibles gracias a nuestra inmensa capacidad de trabajo. Tenemos el potencial para ser el ejemplo y liderar la construcción de la Argentina que viene, apoyándonos siempre en lo nuestro: nuestra gente, nuestra idiosincrasia y la fuerza inagotable de nuestra producción."
+        }
+    ]
+}
