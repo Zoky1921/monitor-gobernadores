@@ -1,0 +1,184 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una combinación de gestión provincial y un fuerte sentimiento de duelo nacional. Varios gobernadores, incluyendo el de Buenos Aires (Kicillofok), Córdoba (Llaryora), La Pampa (Ziliotto), La Rioja (Quintela) y Tierra del Fuego (Melella), expresaron su pesar por el fallecimiento de Taty Almeida, una figura clave de los Derechos Humanos. En el ámbito de gestión, Río Negro (Weretilneck) destacó la culminación de su 'Anillo Digital de Seguridad' y obras de agua, mientras Chaco (Zdero) y Chubut (Torres) avanzaron en viviendas e infraestructura. Santa Fe (Pullaro) y Neuquén (Figueroa) reforzaron su identidad productiva y federal, y Santa Cruz (Vidal) demandó financiamiento para el desarrollo.",
+    "analisis_profundo": "La agenda federal de hoy, 15 de junio de 2026, refleja una dinámica donde la gestión provincial y la reafirmación de identidades regionales coexisten con un sentimiento de unidad nacional ante un suceso trascendente. El fallecimiento de Taty Almeida, referente ineludible de la lucha por los Derechos Humanos, fue un punto de convergencia, con el gobernador de Buenos Aires (Kicillofok), Córdoba (Llaryora), La Pampa (Ziliotto), La Rioja (Quintela) y Tierra del Fuego (Melella) expresando sus condolencias y valorando su legado, lo que denota una pausa en la habitual confrontación política para reconocer figuras de consenso.\n\nParalelamente, la actividad de los gobernadores se centró en la exhibición de logros de gestión y el planteo de demandas sectoriales. El gobernador de Río Negro (Weretilneck) destacó un avance significativo en seguridad con la implementación del 'Anillo Digital Provincial', un sistema de monitoreo inteligente que posiciona a su provincia a la vanguardia tecnológica en la Patagonia. También informó sobre una importante obra de abastecimiento de agua en el Golfo San Matías. En esta línea, el gobernador de Chaco (Zdero) informó sobre la entrega de viviendas recuperadas con fondos provinciales, y el de Chubut (Torres) celebró la llegada de gas a familias, subrayando la capacidad de resolución local.\n\nLa afirmación de la identidad y el rol de las provincias en el modelo federal fue otro eje. El gobernador de Santa Fe (Pullaro) rindió homenaje al Brigadier Estanislao López, vinculando su figura a la defensa del federalismo y la 'inmensa capacidad de trabajo' productiva de Santa Fe. De manera similar, el gobernador de Neuquén (Figueroa) celebró la incorporación de una nueva estrofa a su himno provincial, que busca consolidar la 'neuquinidad' y destacó avances en infraestructura turística y cifras de empleo. Por su parte, el gobernador de Santa Cruz (Vidal) planteó la necesidad 'financiamiento para una provincia distinta', una demanda recurrente de las provincias a la administración central.\n\nEn materia de orden público, el gobernador de Córdoba (Llaryora) revalidó su compromiso con la recuperación de los espacios públicos mediante 'reglas claras', mientras que el de Buenos Aires (Kicillofok) elevó una exigencia internacional por la retención de un diputado nacional en Bolivia, un tema que trasciende la órbita provincial pero en el que toma un rol activo. La política local también tuvo su espacio, con el gobernador de Santiago del Estero (Suárez) apoyando candidaturas a nivel municipal. El panorama general muestra gobernadores focalizados en consolidar la gestión, la seguridad y la identidad regional, con demandas y posicionamientos claros frente a los desafíos económicos y políticos.",
+    "temas_calientes": [
+        {
+            "tema": "Homenajes y Derechos Humanos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Gestión Provincial y Obra Pública",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y Modernización Estatal",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Identidad Federal y Productiva",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Política Electoral Local",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK",
+        "texto": "RÍO NEGRO YA CONTROLA EN TIEMPO REAL TODOS SUS ACCESOS. Hoy recorrimos en Sierra Grande, en el límite con Chubut, la instalación de una nueva cámara inteligente LPR, parte del Anillo Digital Provincial que estamos construyendo para fortalecer la prevención del delito y mejorar la capacidad de respuesta de nuestras fuerzas de seguridad. Con su puesta en funcionamiento hoy quedo completo el proyecto impulsado por nuestro Gobierno: un sistema que permite monitorear los accesos a Río Negro en tiempo real, detectar vehículos con pedidos de secuestro o requerimientos judiciales y activar alertas automáticas para intervenir de manera inmediata. Ya contamos con 60 cámaras inteligentes operativas, conectadas las 24 horas a los centros de monitoreo y capaces de procesar miles de patentes por día. Una herramienta clave con IA para prevenir, investigar y actuar más rápido frente al delito. Somos la única provincia patagónica de la Argentina, desde La Pampa hasta Tierra del Fuego, que cuenta con un anillo digital de estas características cubriendo la totalidad de sus accesos terrestres. Sabemos que falta. Pero estamos incorporando tecnología, inteligencia y más capacidad operativa para cuidar a los rionegrinos en cada punto de la provincia. Porque la seguridad también se construye anticipándose. Ese es el rumbo.",
+        "por_que_es_clave": "El gobernador de Río Negro (Weretilneck) anuncia la finalización e implementación de un 'Anillo Digital Provincial' con tecnología avanzada de cámaras LPR, destacando que su provincia es la única en la Patagonia con esta cobertura. Esto subraya un avance significativo en seguridad, autonomía provincial y un liderazgo tecnológico regional, con un claro mensaje de capacidad de gestión propia.",
+        "pregunta_openarg": "¿Cómo influirá la implementación del 'Anillo Digital Provincial' en Río Negro (Weretilneck) en la agenda de seguridad de otras provincias patagónicas y en la coordinación con fuerzas federales?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Derechos Humanos",
+                "Relaciones Internacionales"
+            ],
+            "postura_politica": "El gobernador de Buenos Aires (Kicillofok) se posiciona en defensa de un diputado nacional retenido en Bolivia, exigiendo la intervención consular argentina y la liberación del legislador, lo que marca una postura activa en derechos humanos y política internacional. También expresa su pesar por el fallecimiento de Taty Almeida, reforzando su compromiso con la Memoria, Verdad y Justicia.",
+            "frase_fuerte": "Exigimos a las autoridades bolivianas que nuestro compañero pueda realizar las tareas para las que fue invitado. Y exhortamos a las autoridades consulares de nuestro país a garantizar su libertad e integridad física."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Gestión Pública",
+                "Balance de Gobierno"
+            ],
+            "postura_politica": "Con un mensaje conciso, el gobernador de Ciudad de Buenos Aires (Macri) destaca su gestión a través de 'hechos' en comparación con años anteriores, proyectando una imagen de eficiencia y progreso en su administración.",
+            "frase_fuerte": "2023. 2026. Hechos."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Vivienda Social",
+                "Gestión Provincial"
+            ],
+            "postura_politica": "El gobernador de Chaco (Zdero) enfatiza la recuperación y finalización de viviendas con recursos provinciales, cumpliendo el 'sueño de la casa propia' para familias chaqueñas y mostrando un enfoque en la gestión de obras públicas pendientes.",
+            "frase_fuerte": "En San Bernardo, más familias chaqueñas cumplen el sueño de la casa propia. 🏡"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura Social",
+                "Gestión Provincial"
+            ],
+            "postura_politica": "El gobernador de Chubut (Torres) celebra el avance en obras de gas para cincuenta familias, resaltando la recuperación de plantas compresoras y la realización de obras en toda la provincia para mejorar la calidad de vida.",
+            "frase_fuerte": "GAS PARA CINCUENTA FAMILIAS DE CORCOVADO"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Orden Público",
+                "Seguridad Ciudadana",
+                "Derechos Humanos"
+            ],
+            "postura_politica": "A través de un retuit, el gobernador de Córdoba (Llaryora) reafirma su política de 'orden público' y el respeto a la ley en el espacio público, presentándolo como una política de Estado para la seguridad ciudadana. También expresa condolencias por Taty Almeida.",
+            "frase_fuerte": "Ordenar no es perseguir. Ordenar es gobernar."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Homenajes"
+            ],
+            "postura_politica": "El gobernador de Corrientes (Valdés) expresa sus condolencias por el fallecimiento de don Enrique Garro, destacando su ejemplo de trabajo y servicio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Derechos Humanos",
+                "Memoria"
+            ],
+            "postura_politica": "El gobernador de La Pampa (Ziliotto) despide a Taty Almeida, reconociéndola como una 'luchadora por las causas populares' y 'referente histórica' de Madres de Plaza de Mayo Línea Fundadora, reafirmando el valor de su legado.",
+            "frase_fuerte": "Nos dejó Taty Almeida. Es un día muy triste para la Argentina."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Derechos Humanos",
+                "Memoria"
+            ],
+            "postura_politica": "El gobernador de La Rioja (Quintela) se une al duelo por Taty Almeida, valorando su 'compromiso permanente con los derechos humanos' y su rol como 'ejemplo de valentía, perseverancia y amor'.",
+            "frase_fuerte": "La querida Taty Almeida transformó el dolor en lucha y en un compromiso permanente con los derechos humanos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Identidad Provincial",
+                "Desarrollo Económico",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador de Neuquén (Figueroa) celebra la incorporación de una nueva estrofa al Himno Provincial, enfatizando la identidad neuquina. También destaca la finalización de obras en el Aeropuerto Chapelco para la temporada de invierno, y un récord en generación de empleo formal privado.",
+            "frase_fuerte": "UNA NUEVA PIEL La segunda parte del #NeuquénTrabunMapu habla de lo que somos los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad",
+                "Tecnología",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador de Río Negro (Weretilneck) anuncia la culminación del 'Anillo Digital Provincial', destacando la avanzada tecnología y el control en tiempo real de accesos, lo que posiciona a Río Negro como líder patagónico en seguridad. Además, resalta una inversión significativa en el sistema de agua potable del Golfo San Matías.",
+            "frase_fuerte": "RÍO NEGRO YA CONTROLA EN TIEMPO REAL TODOS SUS ACCESOS."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Financiamiento Provincial",
+                "Desarrollo Económico"
+            ],
+            "postura_politica": "El gobernador de Santa Cruz (Vidal) expresa la necesidad de financiamiento y herramientas responsables para transformar la provincia y generar oportunidades, en un llamado implícito a un apoyo que permita el desarrollo productivo.",
+            "frase_fuerte": "NECESITAMOS FINANCIAMIENTO PARA UNA PROVINCIA DISTINTA, QUE PRODUZCA Y GENERE OPORTUNIDADES"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Federalismo",
+                "Identidad Provincial",
+                "Producción"
+            ],
+            "postura_politica": "El gobernador de Santa Fe (Pullaro) rinde homenaje al Brigadier Estanislao López, usándolo como símbolo del federalismo y la fuerza productiva de la provincia, enfatizando que el camino es potenciar el interior y que Santa Fe es 'invencible'.",
+            "frase_fuerte": "A Santa Fe no la para nadie porque somos invencibles gracias a nuestra inmensa capacidad de trabajo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Política Local",
+                "Elecciones"
+            ],
+            "postura_politica": "El gobernador de Santiago del Estero (Suárez) participa en el lanzamiento de la candidatura a intendente de La Banda, mostrando apoyo a figuras de su espacio político en el ámbito municipal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Derechos Humanos",
+                "Memoria"
+            ],
+            "postura_politica": "El gobernador de Tierra del Fuego (Melella) despide con pesar a Taty Almeida, a quien considera una 'mujer imprescindible para la democracia argentina' y cuya lucha marcó un 'legado colectivo' para las nuevas generaciones.",
+            "frase_fuerte": "Con profundo pesar despedimos a Taty Almeida, una mujer imprescindible para la democracia argentina."
+        }
+    ]
+}

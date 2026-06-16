@@ -1,0 +1,174 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por los homenajes a Taty Almeida, pero el pico político lo marcó Kicillof al denunciar la retención de un diputado en Bolivia, presionando a Nación por acción diplomática. El resto de los gobernadores se refugió en gestión local o condolencias, sin confrontación fiscal directa.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El día arrancó con una maniobra inesperada de Axel Kicillof. Al retuitear el caso del diputado Juan Marino retenido en La Paz, no solo puso en agenda un conflicto diplomático, sino que tendió una trampa política al Gobierno nacional: al exigir que las autoridades consulares garanticen su libertad, coloca a la Casa Rosada ante la disyuntiva de actuar o quedar como complaciente con un régimen cuestionado. Es presión de daño político envuelta en defensa de derechos.\n\nActo 2 — Los Alineamientos: Frente a la muerte de Taty Almeida, se alinearon dirigentes de todo el espectro: Kicillof, Llaryora, Ziliotto, Quintela y Melella. El gesto es previsible pero necesario para marcar territorio ideológico y disputar la narrativa de DDHH que el oficialismo nacional busca erosionar. Sin embargo, ninguno aprovechó para vincular su legado con la crítica al ajuste nacional, salvo Kicillof que lo hizo de manera oblicua en otros tuits. El resto optó por el homenaje protocolario, sin riesgos.\n\nActo 3 — La Micro-política: En las provincias periféricas, el repliegue fue total. Zdero (Chaco) mostró viviendas recuperadas; Torres (Chubut) inauguró gas para 50 familias; y Figueroa (Neuquén) desplegó una batería de obras locales. Es el refugio en la agenda de cabotaje: cuando el escenario nacional está minado, se muestra gestión. El silencio sobre la macroeconomía es elocuente: no quieren ser blanco de ataques ni quedar pegados a un gobierno impopular.\n\nActo 4 — Saldo Presidencial: El Gobierno nacional no encontró eco ni contradicciones frontales, pero tampoco adhesiones. La única exigencia clara vino de Kicillof, y fue contra Bolivia, no contra Nación. Sin embargo, la omisión de elogios o críticas a la gestión de Milei por parte de los gobernadores es un síntoma de que la grieta se ha vuelto subterránea. La Casa Rosada no suma capital político hoy, pero tampoco lo pierde: el silencio de los gobernadores es un armisticio tácito, no una alianza.",
+    "temas_calientes": [
+        {
+            "tema": "Homenaje transversal a Taty Almeida",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Incidente diplomático con Bolivia por diputado retenido",
+            "gobernadores_involucrados": [
+                "@Kicillofok (RT de @gerpmartinez)"
+            ]
+        },
+        {
+            "tema": "Gestión provincial de vivienda e infraestructura",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público en Córdoba",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora (RT de @QuinterosJP)"
+            ]
+        },
+        {
+            "tema": "Reclamo de financiamiento en Santa Cruz",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @gerpmartinez)",
+        "texto": "El diputado nacional Juan Marino viajó a Bolivia invitado para la Asamblea Plurinacional. Está retenido en el Aeropuerto de La Paz cuando ya había ingresado al país y hecho trámites migratorios en Santa Cruz. Exigimos a las autoridades bolivianas que nuestro compañero pueda realizar las tareas para las que fue invitado. Y exhortamos a las autoridades consulares de nuestro país a garantizar su libertad e integridad física.",
+        "por_que_es_clave": "Kicillof usa un caso de retención para posicionarse como defensor de derechos y, de paso, exigirle al Gobierno nacional que actúe, exponiéndolo si no lo hace. Es una jugada de doble filo: genera ruido diplomático y obliga a la Casa Rosada a definirse.",
+        "pregunta_openarg": "¿El Gobierno nacional responderá con firmeza diplomática o dejará que Kicillof capitalice el malestar?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Incidente diplomático Bolivia",
+                "Homenaje Taty Almeida"
+            ],
+            "postura_politica": "Muestra perfil de denuncia internacional y reivindicación de DDHH. El retuiteo sobre Marino es una pinza contra Nación: les exige acción. El homenaje a Taty refuerza su anclaje en el progresismo.",
+            "frase_fuerte": "Exigimos a las autoridades bolivianas que nuestro compañero pueda realizar las tareas para las que fue invitado."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Autopromoción de gestión"
+            ],
+            "postura_politica": "Posteo críptico '2023. 2026. Hechos.' buscando contrastar su gestión sin dar detalles. Es marca PRO: eficiencia sin palabras.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Viviendas recuperadas"
+            ],
+            "postura_politica": "Refugio en gestión local. Muestra obra provincial como respuesta al contexto. Sin mención a Nación.",
+            "frase_fuerte": "Recuperamos viviendas que estuvieron abandonadas durante años y las finalizamos con recursos provinciales."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Gas para familias",
+                "Obra de infraestructura"
+            ],
+            "postura_politica": "Marca presencia estatal en zona postergada. Menciona 'plantas compresoras que recuperamos en Rosario' como logro propio. Omite a Nación, pero sugiere que el Estado provincial suple ausencias.",
+            "frase_fuerte": "Durante demasiado tiempo, en Chubut hubo familias que convivieron con una realidad injusta: tener la red de gas cerca, pero no poder acceder al servicio."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Orden público",
+                "Homenaje Taty Almeida"
+            ],
+            "postura_politica": "Se posiciona como garante del orden en Córdoba, contrastando con el desorden previo. El homenaje a Taty es gesto institucional necesario.",
+            "frase_fuerte": "Ordenar no es perseguir. Ordenar es gobernar."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Duelo personal"
+            ],
+            "postura_politica": "Sin postura política. Tuit personal por fallecimiento de familiar. Agenda local aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Homenaje Taty Almeida"
+            ],
+            "postura_politica": "Homenaje con carga ideológica: 'militante por la vida', 'luchadora por causas populares'. Marca territorio peronista de DDHH.",
+            "frase_fuerte": "La única lucha que se pierde es la que se abandona."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Homenaje Taty Almeida"
+            ],
+            "postura_politica": "Homenaje similar a Ziliotto, pero con más énfasis en la lucha contra la dictadura. Sin ataque a Nación.",
+            "frase_fuerte": "Su ejemplo seguirá iluminando el camino de quienes mantienen viva la memoria."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Provincialización",
+                "Aeropuerto",
+                "Empleo",
+                "Viviendas"
+            ],
+            "postura_politica": "Múltiples tuits de gestión para mostrar obra y resultados. Destaca identidad neuquina. Sin mención a Nación.",
+            "frase_fuerte": "Defender Neuquén también es apostar a la educación."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Seguridad/Anillo digital",
+                "Obra hídrica"
+            ],
+            "postura_politica": "Muestra inversiones en seguridad e infraestructura como logros propios. No hay referencia a Nación.",
+            "frase_fuerte": "Sabemos que falta. Pero estamos incorporando tecnología, inteligencia y más capacidad operativa."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Financiamiento",
+                "Obras"
+            ],
+            "postura_politica": "Tono de urgencia pidiendo financiamiento. Posicionamiento de necesidad más que de confrontación.",
+            "frase_fuerte": "Necesitamos financiamiento para una provincia distinta, que produzca y genere oportunidades."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Federalismo/Estanislao López",
+                "Gestión local"
+            ],
+            "postura_politica": "Reivindica el federalismo y la producción como pilares. Sin ataque directo, pero implícitamente marca diferencias con el centralismo.",
+            "frase_fuerte": "A Santa Fe no la para nadie porque somos invencibles gracias a nuestra inmensa capacidad de trabajo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Elecciones municipales",
+                "Campaña"
+            ],
+            "postura_politica": "Enfoque en política local: presentación de candidatos. Sin relevancia federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Homenaje Taty Almeida"
+            ],
+            "postura_politica": "Homenaje institucional, sin carga política explícita.",
+            "frase_fuerte": null
+        }
+    ]
+}
