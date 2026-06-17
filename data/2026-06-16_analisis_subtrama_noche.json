@@ -1,0 +1,154 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por el debut mundialista de Argentina, pero la tensión fiscal entre provincias y Nación persiste. Kicillof y Macri intercambian dardos sobre gestión provincial, mientras Saenz y Orrego marcan posiciones opuestas sobre recursos. La agenda federal se impone sobre el ruido futbolero.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La disputa fiscal domina la jornada. Kicillof utiliza la entrega de netbooks para denunciar los recortes de Milei: 'Mientras el gobierno del presidente Milei ejecuta recortes...', marcando una confrontación directa. Macri replica con estadísticas de inseguridad en PBA, contrastando con la seguridad de CABA. Saenz anuncia que Salta financia con fondos provinciales la educación que Nación quitó, mientras Orrego celebra la aprobación del RIGI para el proyecto Vicuña, alineándose con la Casa Rosada.\n\nActo 2 — Los Alineamientos: Macri y Llaryora comparten discurso de orden y gestión eficiente. Orrego y el tácito apoyo de Cornejo forman el bloque pro-Nación en minería. Kicillof, Saenz, Quintela (por su disputa limítrofe) son opositores. Weretilneck negocia la transferencia de rutas nacionales, en una posición ambigua de reclamo y cooperación.\n\nActo 3 — La Micro-política: Zdero, Torres, Passalacqua, Poggi, Vidal, Jaldo, Valdés y otros se refugian en gestión de cabotaje — obras, salud, efemérides — evitando posicionarse sobre la macro. Es un 'apagón político' de provincias periféricas que prefieren mostrar obra pública antes que enfrentar el debate fiscal.\n\nActo 4 — Saldo Presidencial: Para Milei, el Mundial da un respiro mediático, pero las quejas de Kicillof y Saenz mantienen la tensión. La aprobación del RIGI en San Juan es un triunfo, pero la disputa con Buenos Aires y Salta persiste. El gobierno nacional no logra imponer su agenda fiscal sin contestación federal.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación Kicillof-Macri sobre seguridad y gestión",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Financiamiento educativo provincial ante recortes nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "RIGI y minería como eje de desarrollo provincial",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Transferencia de rutas nacionales a provincias",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Disputa limítrofe La Rioja-San Juan por recursos minerales",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Carli_Bianco)",
+        "texto": "Compartimos la alegría de los estudiantes de Pigüé que recibieron computadoras de #ConectarIgualdadBonaerense. Desde ahora cuentan con una herramienta importante para impulsar sus trayectorias académicas.\n\nEn un encuentro que realizamos junto al intendente Matías Nebot, recibieron sus netbooks 32 alumnos de cinco establecimientos del municipio: la Escuela Especial N°501, la Escuela de Educación Secundaria Agraria N°1, la Escuela de Educación Secundaria N°3, la Escuela de Educación Secundaria N°4 y la Escuela de Educación Secundaria N°6.\n\n#ConectarIgualdadBonaerense es el programa con el que desde el Gobierno de la Provincia buscamos promover la igualdad de oportunidades en el ámbito educativo, a través de la entrega de computadoras a estudiantes del último año del nivel secundario de escuelas rurales e islas y escuelas de educación especial.\n \nMientras el gobierno del presidente Milei ejecuta recortes que impactan contra los sectores más vulnerables, en la Provincia estamos convencidos de que gobernar es ampliar derechos y generar oportunidades para el pueblo. Es una instrucción del gobernador @Kicillofok: estar del lado de quienes más necesitan la presencia del Estado y responder a sus necesidades con inversión y obras.",
+        "por_que_es_clave": "Kicillof utiliza un acto de entrega de netbooks para contrastar su gestión con los recortes de Milei, posicionándose como defensor del Estado frente al ajuste nacional.",
+        "pregunta_openarg": "¿Hasta qué punto la inversión provincial en educación puede compensar la caída de transferencias nacionales sin generar desequilibrio fiscal?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "educación pública",
+                "recortes nacionales",
+                "crítica a Milei"
+            ],
+            "postura_politica": "Oposición directa a Nación, reivindica autonomía provincial y denuncia asfixia fiscal.",
+            "frase_fuerte": "Mientras el gobierno del presidente Milei ejecuta recortes que impactan contra los sectores más vulnerables..."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "gestión PRO",
+                "contraste con PBA"
+            ],
+            "postura_politica": "Alineamiento implícito con el gobierno nacional, ataca la gestión kirchnerista bonaerense.",
+            "frase_fuerte": "Donde gobierna el PRO la gente vive mejor. Donde gobierna el kirchnerismo la gente vive en el abandono."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "mortalidad infantil",
+                "pavimentación"
+            ],
+            "postura_politica": "Gestión local sin conflicto federal, muestra indicadores positivos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "mundial",
+                "selección argentina"
+            ],
+            "postura_politica": "Agenda local simbólica sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "alumbrado público inteligente",
+                "orden público",
+                "mundial"
+            ],
+            "postura_politica": "Énfasis en gestión local con discurso de orden que lo alinea con el PRO en seguridad.",
+            "frase_fuerte": "Ordenar no es perseguir. Ordenar es gobernar."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "mundial",
+                "selección argentina"
+            ],
+            "postura_politica": "Efeméride deportiva sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "desarrollo productivo",
+                "bomberos",
+                "infraestructura escolar"
+            ],
+            "postura_politica": "Destaca modelo provincial diversificado, evita confrontación con Nación.",
+            "frase_fuerte": "Neuquén es mucho más que Vaca Muerta."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "transferencia de rutas nacionales",
+                "GNL",
+                "madurez digital"
+            ],
+            "postura_politica": "Reclamo de mayor autonomía y negociación con Nación por recursos.",
+            "frase_fuerte": "No vamos a mirar para otro lado frente al estado en que se encuentran estas rutas."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "becas educación",
+                "crítica a quita de fondos",
+                "Güemes"
+            ],
+            "postura_politica": "Crítica directa a Nación por recortes, acción provincial sustitutiva.",
+            "frase_fuerte": "Ante la quita de fondos nacionales, tomamos la decisión de hacernos cargo con recursos provinciales."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "RIGI",
+                "minería Vicuña",
+                "reunión con Santilli"
+            ],
+            "postura_politica": "Alineamiento con Nación en política minera, celebra inversiones.",
+            "frase_fuerte": "Celebro la aprobación del RIGI para Vicuña, el mayor proyecto minero de la historia de nuestro país."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "PYMES",
+                "parque industrial",
+                "escuela"
+            ],
+            "postura_politica": "Gestión local pro-sector privado, sin confrontación federal.",
+            "frase_fuerte": null
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores priorizaron la gestión provincial, enfocándose en la autonomía y la inversión con recursos propios, a menudo contrastando con la política de recortes del Gobierno nacional. Se destacó la inversión en educación, infraestructura, salud y seguridad, con un fuerte acento en el desarrollo productivo y minero. La jornada también estuvo matizada por el fervor nacional ante el inicio del Mundial de fútbol, generando un punto de unidad en una agenda que, a nivel federal, mantuvo tensiones por financiamiento y jurisdicción. La confrontación política directa entre el Gobierno de la Ciudad de Buenos Aires y la Provincia de Buenos Aires marcó un tono de polarización.",
+    "analisis_profundo": "La jornada del 16 de junio de 2026 estuvo dominada por una clara estrategia de los gobernadores para destacar la fortaleza y autonomía de sus gestiones provinciales frente a las dinámicas del Gobierno nacional. Axel Kicillof (Buenos Aires) fue explícito en su narrativa de 'ampliar derechos' con programas como 'Conectar Igualdad Bonaerense', contraponiéndolos a los 'recortes' de la administración central. Esta postura fue replicada por otros mandatarios que enfatizaron inversiones con fondos propios en áreas clave.\n\nEl desarrollo económico y la infraestructura constituyeron pilares. Marcelo Orrego (San Juan) celebró la aprobación del RIGI para el proyecto minero Vicuña, proyectándolo como un motor de empleo local y desarrollo. Ricardo Quintela (La Rioja) se reunió con el intendente de Felipe Varela para avanzar en obras y proyectos mineros, además de abordar temas limítrofes con San Juan, una tensión subyacente que reaparece periódicamente. Alberto Weretilneck (Río Negro) resaltó avances en el proyecto de GNL SESA, minibuses adaptados para escuelas y la gestión de transferencia de rutas nacionales, subrayando la capacidad de la provincia para generar recursos y obras. Maximiliano Pullaro (Santa Fe) inauguró nuevos tribunales y destacó que 'cuando un gobierno no roba la plata para las obras llega', en un claro mensaje de eficiencia local.\n\nLa seguridad y la educación también tuvieron un lugar preponderante. Jorge Macri (Ciudad de Buenos Aires), a través de un retuit, lanzó una fuerte crítica a la gestión de seguridad en la Provincia de Buenos Aires, elogiando el modelo de 'Ley y orden' de CABA. Alfredo Cornejo (Mendoza) destacó la incorporación de nuevos policías, reafirmando el compromiso con la seguridad. Gustavo Sáenz (Salta) anunció becas para estudiantes de medicina e inversión en escuelas técnicas con fondos provinciales, ante la 'quita de fondos nacionales', delineando una clara estrategia de sustitución de financiamiento federal por recursos propios. En un contrapunto más ligero, varios gobernadores, como Martín Llaryora (Córdoba), Gustavo Valdés (Corrientes) e Ignacio Torres (Chubut), aprovecharon el inicio del Mundial para enviar mensajes de apoyo a la Selección Argentina, unificando la agenda con un tema de interés nacional que trasciende las diferencias partidarias.",
+    "temas_calientes": [
+        {
+            "tema": "Reafirmación de la autonomía y financiamiento provincial frente a recortes nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@GustavoSaenzOK",
+                "@ClaudioVidalSer",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura y servicios públicos con fondos provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo minero y energético (RIGI, GNL, proyectos provinciales)",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@DrMarceloOrrego",
+                "@WeretilneckOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@alfredocornejo",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Apoyo a la Selección Argentina / Mundial 2026",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Compartimos la alegría de los estudiantes de Pigüé que recibieron computadoras de #ConectarIgualdadBonaerense. Desde ahora cuentan con una herramienta importante para impulsar sus trayectorias académicas. En un encuentro que realizamos junto al intendente Matías Nebot, recibieron sus netbooks 32 alumnos de cinco establecimientos del municipio: la Escuela Especial N°501, la Escuela de Educación Secundaria Agraria N°1, la Escuela de Educación Secundaria N°3, la Escuela de Educación Secundaria N°4 y la Escuela de Educación Secundaria N°6. #ConectarIgualdadBonaerense es el programa con el que desde el Gobierno de la Provincia buscamos promover la igualdad de oportunidades en el ámbito educativo, a través de la entrega de computadoras a estudiantes del último año del nivel secundario de escuelas rurales e islas y escuelas de educación especial. Mientras el gobierno del presidente Milei ejecuta recortes que impactan contra los sectores más vulnerables, en la Provincia estamos convencidos de que gobernar es ampliar derechos y generar oportunidades para el pueblo. Es una instrucción del gobernador @Kicillofok: estar del lado de quienes más necesitan la presencia del Estado y responder a sus necesidades con inversión y obras.",
+        "por_que_es_clave": "Este tweet encapsula la tensión política y económica del día, contraponiendo directamente la política de recortes del Gobierno nacional con la gestión provincial de Axel Kicillof (Buenos Aires) en la ampliación de derechos y oportunidades, reforzando la narrativa de un Estado provincial protector y una clara diferencia ideológica.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Educación",
+                "Conectar Igualdad",
+                "Contraste Nación-Provincia"
+            ],
+            "postura_politica": "Crítico de las políticas de ajuste del Gobierno nacional, posiciona al Estado provincial como garante de derechos y oportunidades a través de programas de inversión en educación y tecnología.",
+            "frase_fuerte": "Mientras el gobierno del presidente Milei ejecuta recortes que impactan contra los sectores más vulnerables, en la Provincia estamos convencidos de que gobernar es ampliar derechos y generar oportunidades para el pueblo."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Orden público",
+                "Comparación CABA-PBA"
+            ],
+            "postura_politica": "Defiende un modelo de 'Ley y orden' con acciones contundentes en seguridad, mientras critica duramente la gestión de la Provincia de Buenos Aires, exacerbando la polarización entre jurisdicciones.",
+            "frase_fuerte": "Ningún trapito va a venir a esta Ciudad a amenazar a los porteños. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Mortalidad infantil",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Centrado en mostrar resultados de gestión local en servicios esenciales e infraestructura, destacando mejoras en indicadores sociales y cumplimiento de demandas históricas.",
+            "frase_fuerte": "INICIÓ LA OBRA DE PAVIMENTO DE LA AV. LAS PIEDRAS, EN BARRANQUERAS. Una de las arterias más importantes de la ciudad comienza su transformación, dando respuesta a una demanda histórica de miles de chaqueños. 💪🏼"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Deporte",
+                "Mundial de fútbol"
+            ],
+            "postura_politica": "Adhiere al sentimiento nacional de apoyo a la Selección Argentina, en un tono que busca la unidad y trasciende la agenda política local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Deporte",
+                "Mundial de fútbol",
+                "Infraestructura urbana",
+                "Tecnología"
+            ],
+            "postura_politica": "Demuestra una gestión moderna en servicios públicos con la implementación de alumbrado inteligente y se suma al entusiasmo nacional por el fútbol como un factor de unidad.",
+            "frase_fuerte": "Desde este centro se supervisarán de manera progresiva 165 mil luminarias LED, distribuidas en distintos barrios. Con esta tecnología podemos automatizar el encendido y apagado, monitorear en tiempo real el estado de la red y detectar fallas o anomalías con rapidez y precisión."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Deporte",
+                "Mundial de fútbol"
+            ],
+            "postura_politica": "Expresa apoyo a la Selección Argentina y el fervor nacional por el Mundial, adoptando una postura de unidad y celebración.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Minería",
+                "Límites interprovinciales"
+            ],
+            "postura_politica": "Enfocado en la gestión local de obras y el desarrollo minero, reafirmando la defensa de los intereses provinciales, incluyendo posibles tensiones limítrofes con San Juan.",
+            "frase_fuerte": "También conversamos sobre la situación limítrofe con la provincia de San Juan, defendiendo siempre los intereses de las riojanas y los riojanos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Fuerzas policiales"
+            ],
+            "postura_politica": "Comprometido con el fortalecimiento y la modernización de las fuerzas de seguridad, con énfasis en la profesionalización y el equipamiento para combatir el delito.",
+            "frase_fuerte": "Esta incorporación forma parte de una estrategia integral que venimos sosteniendo para fortalecer la seguridad pública con más formación, más tecnología, mejor equipamiento y más recursos para acompañar el trabajo de quienes tienen la responsabilidad de cuidar a los mendocinos."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Economía regional",
+                "Comercio",
+                "Turismo"
+            ],
+            "postura_politica": "Impulsa activamente la economía local a través de eventos comerciales y turísticos, buscando dinamizar la actividad productiva de la provincia.",
+            "frase_fuerte": "Lanzamos una nueva edición del Black Friday de Aristóbulo del Valle, una herramienta que impulsa las ventas, fortalece a nuestros comercios y dinamiza la economía de toda la región. 🛍"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Diversificación productiva",
+                "Vaca Muerta",
+                "Seguridad"
+            ],
+            "postura_politica": "Promueve la diversificación de la economía neuquina más allá de Vaca Muerta, buscando generar oportunidades en todas las regiones y destacando inversiones en seguridad y servicios.",
+            "frase_fuerte": "NEUQUÉN ES MUCHO MÁS QUE VACA MUERTA. Estamos diversificando nuestra economía, agregando valor a nuestros recursos y construyendo un futuro con más empleo y crecimiento para los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Inclusión",
+                "Educación especial",
+                "Infraestructura",
+                "Desarrollo energético (GNL)"
+            ],
+            "postura_politica": "Enfatiza la inversión provincial en políticas de inclusión y obras de infraestructura, con una clara orientación hacia la autonomía y la gestión de recursos estratégicos como el GNL.",
+            "frase_fuerte": "CUANDO HABLAMOS DE INCLUSIÓN, HABLAMOS DE ESTO Hoy entregamos 20 nuevos minibuses adaptados para las Escuelas Especiales de Río Negro."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Educación",
+                "Identidad cultural",
+                "Bicentenario de Güemes"
+            ],
+            "postura_politica": "Comprometido con la inversión en educación y la valoración de figuras históricas como Güemes para fortalecer la identidad y el orgullo salteño, asumiendo fondos ante recortes nacionales.",
+            "frase_fuerte": "La educación no es un gasto. Es la mejor inversión que podemos hacer para construir el futuro de Salta."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Minería",
+                "RIGI",
+                "Relación con Nación",
+                "Reforma electoral"
+            ],
+            "postura_politica": "Favorable a las grandes inversiones mineras bajo el RIGI y en diálogo activo con el Gobierno nacional para la reactivación de obras y la implementación de reformas, buscando potenciar el desarrollo provincial.",
+            "frase_fuerte": "Celebro la aprobación del RIGI para Vicuña, el mayor proyecto minero de la historia de nuestro país. Más del 81% de los trabajadores directos son sanjuaninos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Apoyo al sector privado",
+                "Infraestructura industrial",
+                "Educación"
+            ],
+            "postura_politica": "Promueve la inversión privada y el desarrollo industrial a través de programas de apoyo y mejora de infraestructura, reafirmando el alineamiento de su gobierno con el fomento del trabajo.",
+            "frase_fuerte": "Todo el Gobierno Provincial alineado a promover la inversión y el trabajo. Bien !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Abastecimiento de medicamentos"
+            ],
+            "postura_politica": "Enfocado en garantizar servicios esenciales como el acceso a medicamentos, destacando la eficiencia en la optimización de recursos provinciales para fortalecer el sistema de salud.",
+            "frase_fuerte": "Estamos garantizando que los medicamentos lleguen a cada localidad de Santa Cruz."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Deporte",
+                "Mundial de fútbol",
+                "Infraestructura judicial",
+                "Transparencia"
+            ],
+            "postura_politica": "Destaca la gestión de obras con recursos propios y la transparencia en la administración, posicionándose como un líder que cumple, además de unirse al apoyo nacional por la selección.",
+            "frase_fuerte": "Cuando un gobierno no roba la plata para las obras llega.Tal vez en el peor momento de la economía a nivel nacional, cuando todas las provincias cortaron la obra pública, nosotros aceleramos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Campaña electoral local"
+            ],
+            "postura_politica": "Activo en la política local, utilizando sus redes para apoyar a candidatos municipales en el contexto de la campaña electoral, mostrando un fuerte arraigo territorial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Formación policial"
+            ],
+            "postura_politica": "Enfocado en el fortalecimiento institucional de las fuerzas de seguridad, reconociendo la importancia de la formación y el compromiso para velar por la seguridad de los tucumanos.",
+            "frase_fuerte": "el Instituto de Enseñanza Superior de Policía 'Gral. José F. de San Martín' continúa siendo una de las instituciones más importantes para la formación de quienes asumirán la responsabilidad de velar por la seguridad de los tucumanos."
+        }
+    ]
+}
