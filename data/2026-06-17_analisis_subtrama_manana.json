@@ -1,0 +1,231 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada del 17 de junio combina la conmemoración de Güemes con el debut mundialista, pero bajo la superficie emerge una disputa simbólica: los gobernadores kirchneristas y periféricos usan la efeméride para reclamar federalismo y soberanía, mientras los del PRO y aliados priorizan la gestión local y la seguridad. La ausencia de referencias a Nación en la mayoría de los tuits sugiere un repliegue estratégico o una advertencia silenciosa.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La conmemoración de Martín Miguel de Güemes se convierte en un campo de batalla simbólico. Axel Kicillof (Buenos Aires), Gildo Insfrán (Formosa) y Sergio Ziliotto (La Pampa) retoman la figura del caudillo para reivindicar un federalismo combativo y una soberanía popular que contrasta con el ajuste nacional. En paralelo, Jorge Macri (CABA) irrumpe con un discurso de 'ley y orden' al recuperar una propiedad usurpada, reforzando la dicotomía entre el 'orden' porteño y el 'caos' bonaerense. La fecha, lejos de ser neutra, expone las líneas de fractura del mapa político argentino. \n\n Acto 2 — Los Alineamientos: Del lado del oficialismo nacional, los gobernadores de JxC y aliados (Macri, Pullaro, Cornejo) evitan la épica federal y se centran en la gestión eficiente o la seguridad. Maximiliano Pullaro (Santa Fe) y Alfredo Cornejo (Mendoza) acompañan la efeméride con protocolo, pero su verdadera agenda es la obra pública y la captura de recursos. Marcelo Orrego (San Juan) celebra la aprobación del RIGI para el proyecto Vicuña, alineándose con la estrategia minera de Nación. En las sombras, el Norte Grande se reúne con el ministro Santilli, pero los tuits de Jalil o Suárez no reflejan esa tensión hoy, lo que sugiere una negociación en curso. \n\n Acto 3 — La Micro-política: Los gobernadores periféricos (Insfrán, Zdero, Passalacqua) aprovechan la fecha para reforzar su identidad local: Insfrán con un mensaje antiimperialista, Zdero con obras educativas y Passalacqua con la inauguración de un cine. Ignacio Torres (Chubut) y Claudio Poggi (San Luis) exhiben gestión en seguridad y escrituración digital, sin tocar la macroeconomía. El silencio de los gobernadores de provincias centrales como Córdoba (Llaryora, que solo tuitió sobre el Mundial) o Santa Fe (que también priorizó el fútbol) revela un cálculo: no darle munición a la Casa Rosada en un día de agenda blanda. \n\n Acto 4 — Saldo Presidencial: Para la Nación, la jornada es ambivalente. Por un lado, los homenajes a Güemes no implican una crítica directa a Milei, pero la insistencia en el federalismo y la soberanía es una advertencia velada. Por otro, el entusiasmo mundialista unifica discursos y descomprime la tensión. Sin embargo, el silencio de los gobernadores peronistas sobre el partido de Argentina y su enfoque en la efeméride sugiere que no quieren compartir cartel con el logro deportivo del gobierno. El saldo es de calma tensa, con la sombra de la coparticipación y el ajuste como telón de fondo.",
+    "temas_calientes": [
+        {
+            "tema": "Conmemoración de Güemes y reivindicación federal",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@GustavoSaenzOK",
+                "@alfredocornejo",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Apoyo a la Selección Argentina en el Mundial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@WeretilneckOK",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Inversiones y desarrollo (RIGI, GNL)",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión local de obras y servicios",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@claudiojpoggi",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "9 años usurpada. Exactamente al lado de la Sede del Gobierno de la Ciudad. La recuperamos. Ley y orden. https://t.co/JXdd6sY9ty",
+        "por_que_es_clave": "Macri capitaliza un logro de gestión en seguridad justo en el día en que Kicillof conmemora a Güemes con un discurso federal. La comparación implícita entre el 'orden' porteño y el 'abandono' bonaerense es un dardo directo a la gestión Kicillof, reforzando la campaña de que el PRO gobierna mejor que el peronismo en el Área Metropolitana.",
+        "pregunta_openarg": "¿La recuperación de propiedades usurpadas en CABA es un hecho aislado o parte de una estrategia coordinada para exponer la inacción de la provincia de Buenos Aires en seguridad?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "homenaje a Güemes",
+                "federalismo",
+                "Mundial"
+            ],
+            "postura_politica": "Usa la efeméride para reivindicar la justicia social y el federalismo, sin mencionar a Nación. El 'dale campeón' es un guiño popular, pero su omisión de cualquier crítica directa sugiere que evita confrontar en un día de unidad nacional. El mensaje es: 'Yo defiendo la Patria real, no la de los recortes'.",
+            "frase_fuerte": "defendiendo los valores por los que lucharon: una Argentina verdaderamente libre y soberana, con más federalismo y justicia social"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "recuperación de propiedad",
+                "ley y orden",
+                "Mundial"
+            ],
+            "postura_politica": "Marca territorio con un hecho concreto de seguridad, contrastando con la narrativa de abandono que atribuye a la gestión bonaerense. El RT de Messi es para conectar con la euforia popular, pero su prioridad es mostrar eficacia en la gestión cotidiana.",
+            "frase_fuerte": "9 años usurpada. Exactamente al lado de la Sede del Gobierno de la Ciudad. La recuperamos. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "baja mortalidad infantil",
+                "obra pública",
+                "educación"
+            ],
+            "postura_politica": "Enfoque en gestión local con datos concretos. Evita cualquier referencia a Nación, lo que en el contexto de ajuste nacional es un mensaje de autosuficiencia: 'Acá gobernamos y los resultados se ven, a pesar del contexto'.",
+            "frase_fuerte": "Baja histórica en la mortalidad infantil y materna, con El Impenetrable entre las regiones que registraron los mayores descensos."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "fallecimiento",
+                "gas para familias",
+                "Mundial"
+            ],
+            "postura_politica": "Combina el homenaje a un dirigente ypefiano con la gestión de gas, reforzando su perfil de gobernador cercano a la comunidad petrolera. El apoyo a la Selección es neutro. En conjunto, busca proyectar una imagen de gestión sin conflictos con Nación.",
+            "frase_fuerte": "Durante demasiado tiempo, en Chubut hubo familias que convivieron con una realidad injusta: tener la red de gas cerca, pero no poder acceder al servicio por falta de factibilidad."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "homenaje a Güemes",
+                "Mundial"
+            ],
+            "postura_politica": "Tuits de bajo perfil: un RT del homenaje provincial y dos mensajes de aliento a la Selección. Evita cualquier posicionamiento federal o crítica. Da la impresión de que Córdoba se mantiene al margen de la disputa simbólica, priorizando la agenda deportiva y la gestión local no explicitada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "homenaje a Güemes",
+                "identidad provincial"
+            ],
+            "postura_politica": "Utiliza la figura de Güemes para reafirmar la soberanía nacional y un discurso antiimperialista ('nunca colonia de ninguna potencia extranjera'). Es un clásico del peronismo ortodoxo, que busca cohesionar a su base y diferenciarse del gobierno nacional en un día de alta carga simbólica.",
+            "frase_fuerte": "reafirmamos los valores de unidad y compromiso para defender los intereses de la Argentina, que será siempre Patria y nunca colonia de ninguna potencia extranjera."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "homenaje a Güemes",
+                "federalismo"
+            ],
+            "postura_politica": "Cita a Belgrano y Güemes para defender el federalismo y la unidad nacional. La frase 'la Patria también nació en las provincias' es una reivindicación del interior frente al centralismo. Es un posicionamiento ideológico claro, sin confrontación directa con Nación pero marcando territorio.",
+            "frase_fuerte": "La Patria también nació en las provincias"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "homenaje a Güemes",
+                "federalismo"
+            ],
+            "postura_politica": "Similar a Insfrán: vincula a Güemes con el federalismo y el protagonismo de las provincias. No hay mención a Nación, pero el tono es de reivindicación del interior contra el centralismo porteño. Es un mensaje para su base peronista.",
+            "frase_fuerte": "Su legado también invita a valorar el federalismo y el protagonismo de las provincias en la construcción de una Nación libre, soberana y federal."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "homenaje a Güemes"
+            ],
+            "postura_politica": "Tuit protocolar sin añadidos políticos. No aprovecha la efeméride para posicionarse, lo que sugiere que Mendoza prioriza la gestión y no quiere desviar la atención hacia debates federales. Es un gesto de neutralidad calculada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "inauguración",
+                "homenaje a Güemes",
+                "Mundial"
+            ],
+            "postura_politica": "Combina gestión local (cine teatro) con un RT que equipara a Güemes con Andresito, héroe regional. Refuerza la identidad misionera y mantiene un per bajo en la pugna federal. La inauguración es su prioridad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "programa Neuquén Productivo"
+            ],
+            "postura_politica": "Un solo RT promocionando su plan de desarrollo provincial. Sin menciones a Güemes ni al Mundial. Es una declaración de que Neuquén sigue su propio rumbo, centrado en la diversificación económica y la gestión, ajeno a las disputas simbólicas del día.",
+            "frase_fuerte": "Porque Neuquén es mucho más que Vaca Muerta."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "GNL",
+                "infraestructura",
+                "Mundial",
+                "homenaje a Güemes"
+            ],
+            "postura_politica": "Tuits muy activos: destaca el avance del proyecto GNL y obra pública, además de un homenaje a Güemes con enfoque federal. El mensaje es de gestión y desarrollo, con una leve reivindicación del interior, pero sin confrontación. Su perfil es técnico y modernizador.",
+            "frase_fuerte": "El futuro energético ya está frente a nuestras costas"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "homenaje a Güemes",
+                "becas",
+                "educación"
+            ],
+            "postura_politica": "Combina el homenaje con anuncios de becas (asumiendo costos que Nación no cubre). Es un mensaje: 'Nosotros gestionamos mientras Nación abandona'. La referencia a los Infernales en Casa Rosada es un guiño de orgullo provincial.",
+            "frase_fuerte": "Ante la quita de fondos nacionales, tomamos la decisión de hacernos cargo con recursos provinciales."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "RIGI Vicuña",
+                "reunión con Santilli"
+            ],
+            "postura_politica": "Enfocado en celebrar la aprobación del RIGI para el proyecto minero Vicuña, alineado con Nación. También se reúne con Santilli, mostrando buena relación con el gobierno nacional. No menciona Güemes. Su postura es pro-inversión y pro-diálogo con la Casa Rosada.",
+            "frase_fuerte": "Celebro la aprobación del RIGI para Vicuña, el mayor proyecto minero de la historia de nuestro país."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "testimonio digital",
+                "escuelas",
+                "seguridad"
+            ],
+            "postura_politica": "Tuits de pura gestión: despapelización de escrituras, refacciones escolares, entrega de certificados. Sin mención a efemérides ni a Nación. Muestra una provincia que funciona por sí misma, con foco en la modernización del Estado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "homenaje a Güemes",
+                "Mundial"
+            ],
+            "postura_politica": "Un RT del homenaje oficial y un mensaje de aliento a la Selección. Muy contenido. Evita cualquier comentario político, lo que sugiere que Santa Fe no quiere sobresalir en un día simbólico y prefiere mantener la agenda de gestión para otros días.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "homenaje a Güemes",
+                "FAO"
+            ],
+            "postura_politica": "Tuit protocolar sobre Güemes y un RT de reunión con FAO. Sin mayor carga política. Se mantiene en la agenda institucional, sin entrar en la disputa federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Mundial",
+                "formación policial"
+            ],
+            "postura_politica": "Se centra en el triunfo de Argentina y en la formación de policías. No utiliza la efeméride. Da prioridad a la seguridad y al deporte, dos temas que unen y no generan conflicto. Es un per fil de gobernador pragmático.",
+            "frase_fuerte": null
+        }
+    ]
+}
