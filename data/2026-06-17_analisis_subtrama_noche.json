@@ -1,0 +1,297 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por una sutil pero firme disputa de relatos: Kicillof desplegó una agenda de gestión provincial que contrasta con el recorte nacional, mientras Macri exhibió resultados en seguridad y orden urbano para marcar diferencias con el kirchnerismo. Frigerio, por su parte, mantuvo una reunión con el ministro Santilli para avanzar en temas clave como infraestructura y compensación por la Caja de Jubilaciones, reflejando la tensión latente entre las provincias y la Casa Rosada.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no presentó un enfrentamiento directo entre Nación y provincias, pero sí una acumulación de señales que delinean un tablero de tensión controlada. Kicillof, con una cascada de posts sobre educación, vivienda y producción, construyó un relato de Estado presente que opera como réplica silenciosa al ajuste nacional. Macri, desde CABA, amplificó su narrativa de 'Ley y orden' con la recuperación de una propiedad usurpada, apuntando indirectamente a la gestión bonaerense. Entre Ríos, con Frigerio negociando en Buenos Aires, y Río Negro, con Weretilneck mostrando avances energéticos, evidencian que la relación con Nación es de gestión pragmática, no de ruptura. \n\n Acto 2 — Los Alineamientos: Se perfilan dos bloques: los que 'marcan perfil' propio (Kicillof, Macri, Pullaro con su obra pública en Santa Fe) y los que negocian con la administración central (Frigerio, Jalil desde el Norte Grande, aunque sus tweets son de días anteriores). Los gobernadores periféricos como Insfrán (Formosa) y Zdero (Chaco) se mantienen en una agenda de gestión local sin confrontación directa con Nación, lo que sugiere un repliegue táctico. \n\n Acto 3 — La Micro-política: Las provincias más pequeñas o periféricas, como Formosa (Insfrán), Jujuy (Sadir, sin tweets recientes) y La Rioja (Quintela), se refugian en la gestión de cabotaje. Insfrán destacó la llegada de mineral de hierro, una jugada de posicionamiento industrial que no interpela a Nación. Ziliotto (La Pampa) combinó homenajes a Güemes con anuncios de alivio fiscal, buscando equilibrio entre identidad peronista y gestión responsable. \n\n Acto 4 — Saldo Presidencial: Para Milei, la jornada no trae malas noticias inmediatas, pero sí un recordatorio de que las provincias gobernadas por el peronismo y el radicalismo siguen construyendo poder territorial. La ausencia de un conflicto abierto es una tregua que no debe confundirse con paz; los gobernadores están acumulando recursos simbólicos y fiscales para futuras disputas.",
+    "temas_calientes": [
+        {
+            "tema": "Contraste entre gestión provincial y ajuste nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y combate al delito como capital político",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@frigeriorogelio",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Infraestructura y obra pública provincial",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@alfredocornejo",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Nexo con Nación: gestión fiscal y recursos",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo energético y recursos estratégicos",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@Rolo_Figueroa",
+                "@insfran_gildo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "General Belgrano tiene su primer Centro Universitario de Puentes, una política que sigue creciendo en toda la provincia para que cada vez sean más los bonaerenses que puedan estudiar una carrera en el lugar donde nacieron. Y el derecho a la educación también se garantiza cuando los chicos tienen herramientas para formarse, como las compus de Conectar Igualdad Bonaerense que recibieron estudiantes de tres escuelas del municipio.",
+        "por_que_es_clave": "Kicillof utiliza la educación como bandera para contrastar con el desfinanciamiento nacional, proyectando un Estado provincial que garantiza derechos donde Nación se retira. Es un dardo directo a la política de ajuste de Milei, disimulado tras un anuncio de gestión.",
+        "pregunta_openarg": "Si la Provincia de Buenos Aires puede financiar programas como Conectar Igualdad Bonaerense, ¿por qué Nación recorta programas similares a nivel federal?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "educación",
+                "vivienda",
+                "producción",
+                "homenaje a Güemes",
+                "fútbol"
+            ],
+            "postura_politica": "Refuerza su perfil de gestor frente al ajuste nacional. Cada anuncio es una reivindicación del Estado provincial como garante de derechos. La omisión de la macroeconomía es estratégica: no confronta abiertamente, pero construye un relato de alternancia.",
+            "frase_fuerte": "Las 347 escrituras que entregamos hoy en Chascomús no son un regalo, son un derecho de las familias bonaerenses a tener la seguridad y la tranquilidad sobre sus hogares y lo estamos haciendo valer."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "orden público",
+                "homenaje a Borges",
+                "Messi"
+            ],
+            "postura_politica": "Exhibe resultados concretos en seguridad para marcar diferencias con el kirchnerismo. La recuperación de la propiedad usurpada es un golpe de efecto directo contra Kicillof. El perfil es netamente de gestión PRO, con una dosis de orgullo porteño.",
+            "frase_fuerte": "9 años usurpada. Exactamente al lado de la Sede del Gobierno de la Ciudad. La recuperamos. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "educación",
+                "salud",
+                "infraestructura",
+                "producción"
+            ],
+            "postura_politica": "Agenda de gestión local sin impacto federal. Se muestra activo en obras y anuncios, pero evita posicionarse sobre la macroeconomía. Es un refugio en lo territorial para no desgastarse en disputas nacionales.",
+            "frase_fuerte": "Baja histórica en la mortalidad infantil y materna, con El Impenetrable entre las regiones que registraron los mayores descensos."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "infraestructura",
+                "turismo",
+                "vivienda",
+                "gas",
+                "salud"
+            ],
+            "postura_politica": "Despliega una intensa agenda de obras financiadas con recursos provinciales, lo que le permite reclamar autonomía y eficiencia frente al vacío nacional. El Plan Galina es su principal carta de presentación.",
+            "frase_fuerte": "El Plan Galina: una reparación histórica para todas esas localidades de Chubut que fueron olvidadas durante años."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "seguridad",
+                "narcotráfico",
+                "cultura",
+                "innovación",
+                "educación",
+                "empleo"
+            ],
+            "postura_politica": "Se posiciona como un gestor moderno y combativo, especialmente en la lucha contra el narcotráfico. La mención a la UPC y la formación universitaria en seguridad es un guiño a la profesionalización de la policía. Su perfil es de centro reformista, alejado del kirchnerismo pero sin confrontar con Nación.",
+            "frase_fuerte": "CÓRDOBA COMBATE AL NARCOTRÁFICO. Esta es una batalla diaria, que estamos dando en cada lugar de la provincia."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "inversiones",
+                "infraestructura",
+                "seguridad",
+                "relación con Nación",
+                "producción"
+            ],
+            "postura_politica": "Combina gestión local (RINI) con negociación directa con el Gobierno Nacional. La reunión con Santilli es clave para destrabar fondos y obras. Su postura es pragmática: reclama lo que corresponde pero sin romper.",
+            "frase_fuerte": "Muy buena reunión con @diegosantilli. Repasamos los avances de una agenda de trabajo que para Entre Ríos es prioritaria."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "producción industrial",
+                "homenaje a Güemes",
+                "educación",
+                "infraestructura"
+            ],
+            "postura_politica": "Agenda local con énfasis en desarrollo productivo e identidad peronista. La recepción de mineral de hierro es un hito industrial que muestra capacidad de gestión, pero sin referencia al conflicto nacional. Se mantiene en un perfil bajo y de continuidad.",
+            "frase_fuerte": "Hoy es un hito histórico en la producción industrial formoseña, que aprovecha las oportunidades de la infraestructura construida a lo largo del tiempo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "federalismo",
+                "homenaje a Güemes",
+                "salud digital",
+                "reducción de impuestos",
+                "coparticipación"
+            ],
+            "postura_politica": "Defiende un modelo de provincia con gestión eficiente y reclamo federal por coparticipación. El homenaje a Güemes lo alinea con la tradición peronista, pero su crítica fiscal es directa a Nación.",
+            "frase_fuerte": "Es necesario un nuevo pacto fiscal federal. Que, como establece la reforma constitucional de 1994, la distribución de los recursos sea según las responsabilidades, funciones y competencias de cada jurisdicción."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "salud pública",
+                "homenaje a Güemes",
+                "minería",
+                "educación",
+                "periodismo"
+            ],
+            "postura_politica": "Mantiene un perfil de gestión peronista clásico, con fuerte presencia del Estado. La reunión con la CGT y el énfasis en la defensa de la soberanía sobre los recursos mineros lo muestran en tensión con el gobierno nacional, pero sin escalar.",
+            "frase_fuerte": "Hoy recordamos a Martín Miguel de Güemes, un héroe fundamental de nuestra independencia que, con coraje y compromiso, unido a su pueblo, defendió el norte argentino."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "educación digital",
+                "vivienda",
+                "seguridad",
+                "vitivinicultura",
+                "innovación",
+                "minería"
+            ],
+            "postura_politica": "Se muestra como un gestor moderno y eficiente, con foco en tecnología y apertura al mundo. La mejora crediticia y la atracción de inversiones mineras refuerzan su perfil de provincia confiable para el capital. Sin conflicto directo con Nación.",
+            "frase_fuerte": "Mendoza fue sede de la Convención Regional de la Asociación de Concesionarios de Automotores de la República Argentina... Hoy nuestra provincia tiene la patente más baja de la Argentina."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "cultura",
+                "educación",
+                "desarrollo local",
+                "homenaje a Güemes"
+            ],
+            "postura_politica": "Agenda de gestión provincial con énfasis en cultura y comunidad. El convenio con UNICEF y la inauguración de un cine teatro muestran un gobierno activo en lo social, sin desviarse hacia la polémica nacional.",
+            "frase_fuerte": "Instruí al Ministerio de Hacienda para que avance en la reestructuración y reorganización de los ministerios... para consolidar un Estado cada vez más cercano, austero y eficiente."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "policía",
+                "inversiones",
+                "infraestructura",
+                "educación",
+                "vivienda",
+                "empleo"
+            ],
+            "postura_politica": "Impulsa el lema 'Neuquén es mucho más que Vaca Muerta' para diversificar la economía provincial. La creación del programa Neuquén Productivo busca posicionar a la provincia como polo de desarrollo integral. No hay crítica directa a Nación, pero sí una reivindicación de autonomía.",
+            "frase_fuerte": "NEUQUÉN ES MUCHO MÁS QUE VACA MUERTA. Presentamos Neuquén Productivo, un paquete integral de herramientas para impulsar inversiones."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "energía",
+                "infraestructura",
+                "educación",
+                "seguridad",
+                "producción",
+                "federalismo"
+            ],
+            "postura_politica": "Despliega una ofensiva de obras y proyectos energéticos (GNL, VMOS) que posicionan a la provincia como un actor clave en el futuro del país. La transferencia de rutas nacionales muestra un reclamo de mayor autonomía y recursos. Su tono es constructivo pero firme.",
+            "frase_fuerte": "Sabemos que falta. Pero estamos logrando algo fundamental: que las grandes inversiones generen trabajo local, desarrollo y oportunidades para los rionegrinos."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "homenaje a Güemes",
+                "educación",
+                "infraestructura",
+                "seguridad",
+                "minería",
+                "deporte"
+            ],
+            "postura_politica": "Se envuelve en la figura de Güemes para reivindicar el federalismo y la defensa del norte. Su agenda de obras (autopista, ruta 9/34) muestra que asume responsabilidades que Nación abandona. Es un perfil de reclamo pero sin ruptura.",
+            "frase_fuerte": "Güemes es Salta. Güemes es Argentina. Su legado sigue vivo y su nombre continúa siendo sinónimo de coraje, entrega y amor por la Patria."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "minería",
+                "RIGI",
+                "infraestructura",
+                "energía",
+                "relación con Nación"
+            ],
+            "postura_politica": "Celebra la aprobación del RIGI para el proyecto Vicuña, lo que lo alinea con el gobierno nacional en materia de inversiones mineras. La reunión con Santilli muestra una relación institucional madura. Su perfil es pro-inversión y de desarrollo.",
+            "frase_fuerte": "Celebro la aprobación del RIGI para Vicuña, el mayor proyecto minero de la historia de nuestro país. Más del 81% de los trabajadores directos son sanjuaninos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "vivienda",
+                "educación",
+                "industria",
+                "deporte",
+                "cooperativismo"
+            ],
+            "postura_politica": "Despliega una agenda de gestión muy activa con foco en viviendas, escrituras y apoyo a pymes. Es un perfil netamente ejecutivo, sin menciones a la política nacional. Se refugia en la gestión local.",
+            "frase_fuerte": "El Programa ESCRITURA TU CASA llegó a Juana Koslay. Más familias obtienen la seguridad jurídica que aporta la Escritura de su hogar."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "financiamiento",
+                "salud",
+                "minería",
+                "hidrocarburos",
+                "justicia",
+                "seguridad"
+            ],
+            "postura_politica": "En una situación fiscal compleja, reclama herramientas de financiamiento para obras. La restitución del Procurador Sosa es un gesto institucional. Su postura es de defensa de la provincia, con críticas veladas a la oposición legislativa.",
+            "frase_fuerte": "DESPUÉS DE MÁS DE 30 AÑOS, CON LA RESTITUCIÓN DEL DR. SOSA, EN SANTA CRUZ CERRAMOS UNA DE LAS HERIDAS INSTITUCIONALES MÁS PROFUNDAS DE NUESTRA HISTORIA."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "obra pública",
+                "seguridad",
+                "producción",
+                "educación",
+                "deporte"
+            ],
+            "postura_politica": "Inaugura obras emblemáticas como el Monumento a la Bandera, marcando un hito de gestión. La seguridad sigue siendo su caballito de batalla, con resultados en Rosario. Su perfil es de centro reformista, con buena relación con Nación pero sin subordinación.",
+            "frase_fuerte": "Los santafesinos no nos merecíamos ver al Monumento a la Bandera tapado con obradores y andamios durante los últimos 10 años. Nos hicimos cargo y lo terminamos de una vez por todas."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "ambiente",
+                "homenaje a Güemes",
+                "producción",
+                "desarrollo social",
+                "tecnología"
+            ],
+            "postura_politica": "Combina gestión ambiental con desarrollo productivo y anuncios de pagos a empleados públicos. La reunión con FAO y el Foro de Economías Regionales muestran un gobierno activo en lo regional, pero sin confrontar con Nación.",
+            "frase_fuerte": "Santiago del Estero, epicentro del debate sobre el futuro productivo del país. Participé de la apertura del 1° Foro de Economías Regionales de la República Argentina."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "reunión política",
+                "seguridad",
+                "justicia",
+                "salud",
+                "deporte",
+                "educación"
+            ],
+            "postura_politica": "Despliega una intensa actividad política y de gestión, con reuniones partidarias y actos de gobierno. Su perfil es peronista tradicional, con fuerte presencia territorial. La reunión con Santilli indica diálogo con Nación, pero su base es local.",
+            "frase_fuerte": "Hoy ratificamos nuestra convicción de seguir trabajando unidos para mejorar la vida de cada tucumano y tucumana, construyendo una provincia con más oportunidades."
+        }
+    ]
+}
