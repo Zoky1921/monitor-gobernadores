@@ -1,0 +1,185 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La agenda de los gobernadores hoy se centró en la gestión local y el desarrollo productivo. Se destacan inversiones en infraestructura urbana, servicios básicos como gas y riego, y programas de fomento a la producción y el empleo. Varios mandatarios impulsaron iniciativas en vivienda y seguridad jurídica, mientras otros enfocaron esfuerzos en fortalecer la educación y la cultura. La lucha contra el narcotráfico y el apoyo a las economías regionales también marcaron la jornada. Predomina un tono de auto-gestión y concreción provincial, sin confrontaciones explícitas con el gobierno nacional o entre provincias.",
+    "analisis_profundo": "La jornada federal del 18 de junio de 2026 exhibió un marcado énfasis en la gestión pragmática y el impulso al desarrollo provincial. Los gobernadores (Córdoba) y (Santa Fe) lideraron con anuncios de alto impacto en seguridad y urbanismo. Martín Llaryora (Córdoba) destacó la presentación de una iniciativa robusta para combatir el narcotráfico, consolidando un enfoque proactivo en seguridad pública que busca la participación comunitaria. Por su parte, Maximiliano Pullaro (Santa Fe) anunció un proyecto 'histórico' de intervención integral para el barrio Remanso Valerio (Granadero Baigorria), abordando infraestructura, vivienda y seguridad en una zona largamente postergada, demostrando una clara voluntad de saldar deudas sociales históricas con recursos propios. \n\nLa infraestructura se mantuvo como un pilar fundamental. Alfredo Cornejo (Mendoza) informó sobre la renovación integral de la calle Yrigoyen, implicando una mejora sustancial en servicios y circulación. Arabela Carreras (Río Negro) mostró avances en obras de riego esenciales para la producción, además de la construcción de parques de la salud y obras de cordón cuneta en diversas localidades. Claudio Vidal (Santa Cruz) celebró la llegada del gas a un barrio de Caleta Olivia, enfatizando la ejecución de servicios básicos. Ricardo Quintela (La Rioja) vinculó la educación con el empleo a través de un convenio con la UNLaR, fomentando la experiencia laboral estudiantil. \n\nEn el ámbito social, Rolando Figueroa (Neuquén) priorizó la entrega de escrituras en la Comarca Petrolera, mientras Claudio Poggi (San Luis) extendió su programa 'Escritura Tu Casa' y promovió el cooperativismo escolar. Hugo Passalacqua (Misiones) centró su mensaje en el lanzamiento de una feria cooperativa, buscando dinamizar la economía local. Axel Kicillof (Buenos Aires) se dedicó a la organización partidaria, impulsando la afiliación al Partido Justicialista como mecanismo de defensa provincial. La agenda general refleja una concentración en la respuesta a demandas concretas de los ciudadanos, con un enfoque autónomo en la resolución de problemas y la capitalización de los recursos provinciales para el progreso regional.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Servicios Básicos",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Fomento al Empleo",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Seguridad Pública y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Vivienda y Regularización Dominial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento Educativo y Social",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "CÓRDOBA COMBATE AL NARCOTRÁFICO \n\nEsta es una batalla diaria, que estamos dando en cada lugar de la provincia. Por eso necesitamos que los vecinos sepan que pueden denunciar de manera segura, gratuita, confidencial y totalmente anónima. \n\nHoy, presentamos “Estamos Juntos”, una iniciativa para fortalecer la prevención comunitaria y la denuncia del narcomenudeo. Una estrategia pensada para abordar de manera integral la problemática. \n\nUno de los pilares fundamentales del programa es la línea 0800-888-8080, un canal oficial, gratuito y totalmente anónimo para denunciar estos delitos. \n\nAsimismo, continúan habilitados los buzones anónimos en el interior provincial y las unidades judiciales o fiscalías para recepcionar denuncias presenciales. \n\nEsta iniciativa busca consolidar redes vecinales, capacitar a referentes territoriales y acercar herramientas concretas a municipios, instituciones, clubes, iglesias, escuelas y centros vecinales para impedir que el narcomenudeo avance en nuestras comunidades. \n\n#HacerParaCrecer",
+        "por_que_es_clave": "El gobernador (Córdoba) presenta una estrategia provincial integral contra el narcotráfico, destacando una línea de denuncia anónima y la articulación comunitaria. Es clave por su impacto en la seguridad pública, la proactividad del Estado provincial ante una problemática compleja y su llamado a la participación ciudadana.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Partido Justicialista",
+                "Afiliación",
+                "Defensa provincial"
+            ],
+            "postura_politica": "El gobernador (Buenos Aires) se enfoca en el fortalecimiento orgánico del Partido Justicialista. Su mensaje subraya la importancia de la organización partidaria como una herramienta clave para la defensa de la provincia y el país, marcando una postura de construcción política interna frente a desafíos externos.",
+            "frase_fuerte": "Organizarnos es la forma más poderosa de defender la Provincia y el país 🇦🇷 ✌️"
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Exportaciones",
+                "PROGANO",
+                "Empleo local"
+            ],
+            "postura_politica": "El gobernador (Chaco) impulsa el desarrollo productivo con un enfoque en la exportación de productos regionales. Su programa PROGANO busca generar ingresos genuinos y posicionar la producción chaqueña en mercados internacionales, enfatizando la diversificación económica y el trabajo local.",
+            "frase_fuerte": "Con PROGANO, seguimos impulsando el desarrollo productivo, fortaleciendo el trabajo local y posicionando la producción chaqueña en mercados internacionales."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Seguridad",
+                "Narcotráfico",
+                "Prevención comunitaria",
+                "Cultura",
+                "Industria audiovisual",
+                "Empleo"
+            ],
+            "postura_politica": "El gobernador (Córdoba) adopta una postura enérgica contra el narcotráfico, promoviendo la denuncia anónima y la prevención comunitaria. Simultáneamente, muestra un fuerte apoyo a la 'Economía Naranja', incentivando la industria audiovisual local con beneficios impositivos y creación de empleo, defendiendo a quienes producen y crean en la provincia.",
+            "frase_fuerte": "Esta es una batalla diaria, que estamos dando en cada lugar de la provincia."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Educación",
+                "Empleo juvenil",
+                "Experiencia laboral",
+                "Proyectos habitacionales"
+            ],
+            "postura_politica": "El gobernador (La Rioja) promueve la integración de la educación y la experiencia laboral. A través de un convenio con la UNLaR, busca que los estudiantes obtengan prácticas en proyectos habitacionales, asegurando que las oportunidades lleguen desde la formación y la práctica.",
+            "frase_fuerte": "La experiencia laboral ya no empieza después de graduarte. Empieza mientras te preparás para el futuro."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Obras públicas",
+                "Servicios públicos",
+                "Integración metropolitana"
+            ],
+            "postura_politica": "El gobernador (Mendoza) anuncia una obra integral de renovación urbana en la calle Yrigoyen, involucrando mejoras en redes de agua, cloaca, calzadas y veredas, además de un túnel. Esto refleja un compromiso con la modernización de la infraestructura y la coordinación inter-municipal para mejorar la calidad de vida en el Gran Mendoza.",
+            "frase_fuerte": "Una obra estratégica que refleja el trabajo coordinado entre la Provincia, Ciudad y Godoy Cruz para seguir integrando el Gran Mendoza y mejorar la calidad de vida de quienes lo habitan."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Economía local",
+                "Cooperativismo",
+                "Eventos comerciales"
+            ],
+            "postura_politica": "El gobernador (Misiones) se enfoca en la promoción de la economía local a través del lanzamiento de la 'Fericoop 2026'. Su objetivo es dinamizar el comercio y apoyar las iniciativas cooperativas en la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad jurídica",
+                "Regularización dominial",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "El gobernador (Neuquén) prioriza la regularización dominial, entregando escrituras a familias en Cutral Co y Plaza Huincul. Esta política busca brindar seguridad jurídica y acceso a créditos para mejoras habitacionales, impulsando el desarrollo estratégico de la Comarca Petrolera.",
+            "frase_fuerte": "La Comarca Petrolera tendrá un rol estratégico. Por eso es tan importante ordenar el Estado para redistribuir recursos y hacer realidad las obras que la región necesita para seguir creciendo."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura de salud",
+                "Obras públicas",
+                "Sistema de riego",
+                "Deporte",
+                "Cultura"
+            ],
+            "postura_politica": "El gobernador (Río Negro) muestra un fuerte compromiso con la infraestructura social y productiva. Impulsa la construcción de un parque de la salud y obras de cordón cuneta, además de mejoras estratégicas en el sistema de riego. También enfatiza el apoyo a deportistas y referentes culturales, apostando al futuro de la provincia.",
+            "frase_fuerte": "Por eso seguimos haciendo obras, para cuidar un recurso fundamental como el agua y acompañar a quienes generan trabajo y producen en Río Negro."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad jurídica",
+                "Inversión industrial",
+                "Educación",
+                "Malvinas",
+                "Mérito docente"
+            ],
+            "postura_politica": "El gobernador (San Luis) intensifica la entrega de escrituras y promueve la inversión industrial en Juana Koslay, buscando generar empleo. Destaca la promoción del mérito en la educación mediante concursos para cargos directivos y refuerza la 'malvinización' en las escuelas, priorizando la memoria y la soberanía.",
+            "frase_fuerte": "Seguimos malvinizando !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Servicios públicos",
+                "Gas",
+                "Infraestructura básica",
+                "Obras públicas",
+                "Empleo"
+            ],
+            "postura_politica": "El gobernador (Santa Cruz) se concentra en la provisión de servicios básicos, anunciando la finalización de obras de gas en Caleta Olivia. Subraya la necesidad de herramientas de financiamiento para acelerar inversiones en infraestructura, servicios y empleo, reafirmando el lema 'Santa Cruz Puede'.",
+            "frase_fuerte": "Santa Cruz necesita que sigamos haciendo más obras, generando más empleo y llevando soluciones a cada localidad."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Urbanismo",
+                "Infraestructura",
+                "Vivienda",
+                "Espacios públicos",
+                "Seguridad"
+            ],
+            "postura_politica": "El gobernador (Santa Fe) anuncia un proyecto integral para el barrio Remanso Valerio (Granadero Baigorria), que incluye infraestructura, viviendas y mejora de espacios públicos y seguridad. Su postura es de saldar deudas históricas con las comunidades a través de obras concretas y la mejora de la calidad de vida.",
+            "frase_fuerte": "El barrio Remanso Valerio en Granadero Baigorria estuvo olvidado durante muchísimos años y ayer empezamos a saldar esa deuda histórica inaugurando la recuperación de la Plaza Cristo de las Redes..."
+        }
+    ]
+}
