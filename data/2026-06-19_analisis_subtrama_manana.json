@@ -1,0 +1,185 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por tres focos principales: la negociación fiscal encabezada por Rogelio Frigerio (Entre Ríos) con Luis Caputo, el avance del megaproyecto VMOS en Río Negro que posiciona a la provincia en el mapa energético, y el conflicto limítrofe entre San Juan y La Rioja, con un duro mensaje de Marcelo Orrego. El resto de los gobernadores se refugió en la gestión local de baja intensidad.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La pulseada fiscal tiene en Rogelio Frigerio a su vocero más explícito. Su tuit sobre estar en condiciones de escribir el próximo capítulo del pacto fiscal, recibiendo a Caputo, es una señal de que la Casa Rosada necesita gobernadores aliados para legitimar una reforma que ningún peronista suscribiría. Pero Frigerio no habla solo: habla en nombre de un grupo de mandatarios dialoguistas que buscan canjear apoyo político por compensaciones financieras. El silencio del resto del arco provincial es elocuente.\n\nActo 2 — Los Alineamientos: El eje energético-patagónico se consolida. Weretilneck (Río Negro) y Figueroa (Neuquén) sincronizan mensajes sobre Vaca Muerta y VMOS, mostrando que la región tiene una agenda propia al margen de la Casa Rosada. Orrego (San Juan) rompe la tregua con Quintela (La Rioja) y planta bandera en la disputa territorial, apelando a la ley y a la Constitución. Es un movimiento táctico: se posiciona como defensor de los recursos sanjuaninos frente a lo que describe como un avance riojano, en un año electoral clave para la minería.\n\nActo 3 — La Micro-política: Los gobernadores de Córdoba, Santa Fe, Chaco, Jujuy, Misiones, San Luis y Tucumán optaron por el repliegue en la agenda de cabotaje. Llaryora muestra obras de infraestructura y policía; Pullaro entrega viviendas; Zdero promociona exportaciones chaqueñas; Sadir presenta la temporada de invierno; Passalacqua celebra rutas aéreas; Poggi recorre localidades; Jaldo hace promesas a la bandera. Es la estrategia del apagón político: no hablar de Nación es una forma de no quedar pegado a la gestión nacional ni al desgaste opositor.\n\nActo 4 — Saldo Presidencial: El Gobierno nacional obtiene un respiro con Frigerio, pero la acumulación de frentes abiertos —fiscal, energético, territorial— impide una lectura triunfal. La Casa Rosada necesita más gobernadores alineados y menos gestos de autonomía. La agenda del día muestra que el federalismo en Argentina sigue siendo una suma de voluntades particulares, no un proyecto colectivo.",
+    "temas_calientes": [
+        {
+            "tema": "Pacto fiscal y negociación con Nación",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Megaproyecto VMOS y exportación energética",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Conflicto limítrofe San Juan-La Rioja",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público en CABA",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Financiamiento para obra pública provincial",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@DrMarceloOrrego",
+        "texto": "El gobernador Quintela envió a la Legislatura de La Rioja un proyecto de ley para reclamar territorio que es de San Juan. Quiero ser claro con cada sanjuanino: nuestra jurisdicción no está en discusión. Los límites rigen hace 57 años y el propio Congreso confirmó su vigencia en 2014. Ninguna provincia puede cambiar un límite con su propia ley; la Constitución es clara y la propia ley riojana lo admite cuando dice que debe ir al Congreso y a la Justicia. No vamos a permitir que se ponga en duda lo nuestro: el territorio, los recursos, el futuro y símbolos como Ischigualasto. Convoco a todas las fuerzas políticas de la provincia a defender unidos lo que nos pertenece. Con el mayor respeto por La Rioja, pero con la ley en la mano, con firmeza y sin especulaciones.",
+        "por_que_es_clave": "Orrego convierte un proyecto de ley riojano en una cuestión de defensa territorial y recursos mineros, apelando a la unidad provincial y marcando un frente firme contra Quintela. Es un golpe de efecto político que escala la disputa a nivel nacional.",
+        "pregunta_openarg": "¿Puede una provincia modificar sus límites mediante una ley local, o el conflicto debe resolverse en el Congreso y la Corte Suprema?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Contravenciones",
+                "Trapitos"
+            ],
+            "postura_politica": "Se muestra en modo campaña permanente: endurece penas contra cuidacoches y lo celebra con frases como 'Si sos trapito, te meto preso'. Apela a la clase media porteña con discurso de ley y orden. Evita cualquier mención a Nación o al gobierno de Milei.",
+            "frase_fuerte": "Si sos trapito, te meto preso. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Producción",
+                "Exportaciones",
+                "PROGANO"
+            ],
+            "postura_politica": "Promociona a un productor local que exporta al mundo, en línea con su discurso de desarrollo privado. Sin conflicto federal, refuerza su perfil gestor.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Seguridad policial",
+                "Obra pública"
+            ],
+            "postura_politica": "Dos tuits sobre gestión local: juramento de cadetes y alumbrado de una circunvalación. Sin roce con Nación, muestra una provincia que funciona por sí misma.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Pacto fiscal",
+                "Relación con Nación",
+                "Luis Caputo"
+            ],
+            "postura_politica": "Se erige como interlocutor válido de la Casa Rosada para el nuevo pacto fiscal. Recibe a Caputo y sugiere que hay condiciones para acordar. Es el gobernador más alineado con el gobierno nacional en la jornada.",
+            "frase_fuerte": "Estamos en condiciones de escribir el próximo capítulo del pacto fiscal."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Turismo",
+                "Temporada de invierno"
+            ],
+            "postura_politica": "Presenta la temporada turística invernal. Gestión pura, sin contenido político federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Libertad de expresión",
+                "Desinformación",
+                "Acciones legales"
+            ],
+            "postura_politica": "Anuncia acciones legales contra una estructura digital que considera que difunde mentiras. Se presenta como defensor de la verdad institucional, posiblemente apuntando a medios opositores.",
+            "frase_fuerte": "La libertad de expresión forma parte de la vida democrática. La mentira organizada y la desinformación deliberada, no."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Aniversario local",
+                "Conectividad aérea",
+                "JetSMART"
+            ],
+            "postura_politica": "Celebra un nuevo aniversario de Bonpland y anuncia una nueva ruta aérea. Agradece a la empresa privada. Sin conflicto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Desarrollo de proveedores",
+                "Vaca Muerta",
+                "Herramientas financieras"
+            ],
+            "postura_politica": "Junto a Weretilneck, promueve el financiamiento para pymes vinculadas a Vaca Muerta. Muestra coordinación regional y perfil productivo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "VMOS",
+                "Exportación petrolera",
+                "Botones antipánico",
+                "Aniversario local"
+            ],
+            "postura_politica": "Destaca el avance del proyecto VMOS para exportar petróleo, posicionando a Río Negro como nodo energético. También muestra gestión en seguridad y obras. Es el gobernador con mayor peso federal del día.",
+            "frase_fuerte": "VMOS ya empieza a mover Río Negro."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Conflicto territorial",
+                "Quintela",
+                "Minería"
+            ],
+            "postura_politica": "Responde al proyecto de Quintela con un mensaje de firmeza y unidad provincial. Defiende los límites históricos y los recursos mineros. Escala el conflicto interprovincial.",
+            "frase_fuerte": "No vamos a permitir que se ponga en duda lo nuestro: el territorio, los recursos, el futuro y símbolos como Ischigualasto."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Gira institucional",
+                "Energía",
+                "Obra pública"
+            ],
+            "postura_politica": "Recorre localidades y presenta un plan maestro de energía. Gestión local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Financiamiento",
+                "Obras",
+                "Infraestructura"
+            ],
+            "postura_politica": "Reclama herramientas financieras para obras, en un tono de necesidad y crítica a la oposición que bloquea. Busca apoyo para una ley de financiamiento.",
+            "frase_fuerte": "Santa Cruz necesita mirar hacia adelante y para eso necesitamos financiamiento."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Gestión local",
+                "Obra pública"
+            ],
+            "postura_politica": "Entrega viviendas en el sur provincial. Refuerza su perfil de gestión sin menciones a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Promesa a la Bandera",
+                "Educación"
+            ],
+            "postura_politica": "Encabeza un acto escolar de promesa a la bandera. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        }
+    ]
+}
