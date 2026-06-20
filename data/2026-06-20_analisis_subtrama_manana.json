@@ -1,0 +1,250 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "La jornada del Día de la Bandera expone la fractura entre el PRO porteño y el kirchnerismo bonaerense. Jorge Macri redobla la ofensiva contra Kicillof con la desregulación de la VTV y ataques a la propiedad privada, mientras Kicillof responde con un banderazo por Cristina y gestión provincial que denuncia el abandono nacional. El resto de los gobernadores se refugia en la agenda local o en efemérides, con excepción de Ziliotto y Figueroa, que marcan postura fiscal y energética.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La disputa entre la Ciudad y la Provincia de Buenos Aires domina la escena. Jorge Macri utiliza el Día de la Bandera para profundizar su perfil de 'orden y libertad' frente al 'curro' de la VTV y la 'defensa de okupas', apuntando directamente a Kicillof. Este, a su vez, convoca a un banderazo por la libertad de Cristina Fernández y despliega una agenda de gestión que contrasta con el ajuste nacional, reivindicando la educación pública y la obra pública paralizada. La grieta se manifiesta en su máxima expresión: un duelo de modelos de gestión y de lealtades políticas.\n\nActo 2 — Los Alineamientos: Del lado de Macri se alinean los referentes del PRO y sectores liberales que replican su mensaje de 'libertad' y 'competencia'. Del lado de Kicillof, el peronismo bonaerense y los sectores que aún militan la causa cristinista. En el medio, gobernadores como Llaryora (Córdoba) y Pullaro (Santa Fe) intentan un perfil de gestión y diálogo, evitando el choque directo. Ziliotto (La Pampa) se posiciona como el abanderado del federalismo fiscal, reclamando un nuevo pacto. Figueroa (Neuquén) y Weretilneck (Río Negro) se enfocan en la explotación de Vaca Muerta y el proyecto VMOS, mostrando una agenda de desarrollo que trasciende la grieta.\n\nActo 3 — La Micro-política: Los gobernadores periféricos se repliegan en la gestión local. Insfrán (Formosa) celebra la llegada de mineral de hierro para su proyecto siderúrgico, un hito industrial. Quintela (La Rioja) defiende la ciencia y el litio, pero también se enreda en un conflicto limítrofe con San Juan. Poggi (San Luis) y Vidal (Santa Cruz) muestran obras y anuncios de financiamiento, pero sin impacto federal. La mayoría opta por el silencio o la efeméride, evitando posicionarse en la disputa central.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada deja un saldo agridulce. Por un lado, la pelea Macri-Kicillof desgasta al principal referente opositor y al gobernador más poderoso, lo que podría beneficiar al oficialismo. Por otro, la ausencia de una agenda federal unificada y la persistencia de reclamos fiscales (Ziliotto, Jaldo) muestran que la tensión con las provincias no se disipa. El gobierno nacional, ausente en los discursos, observa cómo la grieta se profundiza sin intervenir.",
+    "temas_calientes": [
+        {
+            "tema": "Ofensiva de Jorge Macri contra Kicillof por VTV y okupas",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Banderazo por la libertad de Cristina Fernández",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Reclamo federal de coparticipación y nuevo pacto fiscal",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Desarrollo de Vaca Muerta y proyecto GNL/VMOS",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión provincial y obras como respuesta al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Para sorpresa de nadie, el juez Gallardo y el Pitu Tomatierras se pusieron de acuerdo para defender a los okupas y atacar la propiedad privada.\n\nSi especulan que con este fallo absurdo van a frenar la política de recuperación de propiedades, les aviso que no entendieron nada y están mirando otra película.\n\nLey y orden.",
+        "por_que_es_clave": "Macri no solo ataca a un juez y a un funcionario judicial, sino que vincula la decisión con la defensa de okupas, un tema sensible para la clase media. Además, refuerza su perfil de 'ley y orden' en contraposición al 'desorden' que atribuye a Kicillof. Es un mensaje directo a su base electoral y una provocación al kirchnerismo.",
+        "pregunta_openarg": "¿La política de recuperación de propiedades de Macri es una solución habitacional o una herramienta de persecución política contra sectores vulnerables?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "Cristina Fernández",
+                "gestión provincial",
+                "educación",
+                "vivienda",
+                "industria"
+            ],
+            "postura_politica": "Kicillof utiliza la efeméride para reivindicar el federalismo y la educación pública, pero su jugada fuerte es el retweet del banderazo por Cristina, que lo alinea con el kirchnerismo duro. Al mismo tiempo, muestra gestión (escuelas, viviendas, frigorífico) para contrastar con el ajuste de Milei. Su mensaje es: 'Yo gestiono mientras Nación abandona'.",
+            "frase_fuerte": "Una obra que fue abandonada por un Gobierno nacional que no duda en quitarles recursos a los pibes para ponerlos al servicio del endeudamiento y la especulación financiera."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "VTV",
+                "okupas",
+                "propiedad privada",
+                "gestión PRO",
+                "ataque a Kicillof"
+            ],
+            "postura_politica": "Macri se posiciona como el adalid de la libertad y el orden, desregulando la VTV y atacando a la justicia que defiende okupas. Su retuiteo masivo de cuentas afines busca instalar la idea de que en CABA hay libertad mientras en PBA hay curro. Es una campaña electoral anticipada.",
+            "frase_fuerte": "Chau al monopolio de la VTV. Terminamos con este curro y desregulamos el sistema."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "producción",
+                "vivienda",
+                "salud",
+                "educación"
+            ],
+            "postura_politica": "Zdero mantiene un perfil bajo, centrado en la gestión provincial. No hay confrontación con Nación. Su agenda es de obras y anuncios productivos, buscando mostrar resultados sin meterse en la grieta.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "seguridad",
+                "narcotráfico",
+                "educación",
+                "infraestructura",
+                "cultura"
+            ],
+            "postura_politica": "Llaryora se muestra como un gobernador dialoguista y gestor. En sus discursos del Día de la Bandera, pide unidad y terminar con la grieta. Su agenda de obras y seguridad busca posicionarlo como un líder moderado y eficiente, alejado de las peleas nacionales.",
+            "frase_fuerte": "Valoro profundamente el diálogo democrático y el respeto que distinguen a nuestra provincia. Podemos pertenecer a distintos espacios políticos, pero hemos sabido construir más puentes que grietas."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "selección argentina",
+                "gestión legislativa"
+            ],
+            "postura_politica": "Valdés se limita a lo protocolar y a un saludo por el Día de la Bandera. No hay posicionamiento político relevante. Su perfil es bajo y de gestión local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "aniversario de General Belgrano",
+                "mineral de hierro",
+                "industria"
+            ],
+            "postura_politica": "Insfrán combina la efeméride con un anuncio de peso: la llegada de mineral de hierro para su planta siderúrgica. Es un hito industrial que refuerza su modelo de desarrollo autónomo. No menciona a Nación, pero el mensaje implícito es que Formosa avanza pese al contexto.",
+            "frase_fuerte": "Hoy es un hito histórico en la producción industrial formoseña, que aprovecha las oportunidades de la infraestructura construida a lo largo del tiempo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "federalismo",
+                "coparticipación",
+                "gestión provincial"
+            ],
+            "postura_politica": "Ziliotto es el único que plantea un reclamo federal explícito. En su mensaje del Día de la Bandera, vincula la defensa de la bandera con la necesidad de un nuevo pacto fiscal. Es una postura de confrontación indirecta con Nación, reclamando recursos.",
+            "frase_fuerte": "Belgrano entendió que la Patria también se construía con educación, trabajo y desarrollo propio. Su ejemplo nos convoca a defender lo que nos une, fortalecer nuestra soberanía y retomar la construcción de una Argentina más justa, federal e integrada."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "educación",
+                "salud",
+                "minería",
+                "ciencia"
+            ],
+            "postura_politica": "Quintela se muestra como un gestor presente, con anuncios en educación y salud. También destaca el descubrimiento paleontológico y el avance minero. Su perfil es de defensa de lo público y de la ciencia, sin confrontación directa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "vivienda",
+                "seguridad",
+                "eventos internacionales"
+            ],
+            "postura_politica": "Cornejo mantiene un perfil institucional y de gestión. Anuncia viviendas y obras, y destaca la cumbre de seguridad aérea. No hay confrontación con Nación. Su mensaje es de continuidad y eficiencia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "aniversario de Bonpland",
+                "nueva ruta aérea",
+                "cooperativismo"
+            ],
+            "postura_politica": "Passalacqua se enfoca en lo local: celebración de aniversario, lanzamiento de ferias y anuncio de nueva ruta aérea. No hay posicionamiento nacional. Es gestión pura.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "Vaca Muerta",
+                "GNL",
+                "economía provincial",
+                "vivienda"
+            ],
+            "postura_politica": "Figueroa aprovecha el Día de la Bandera para mostrar indicadores económicos positivos y reafirmar el desarrollo de Vaca Muerta. Su mensaje es de optimismo y gestión, destacando que Neuquén lidera ventas y empleo. No hay crítica a Nación, sino autopromoción.",
+            "frase_fuerte": "Los números son contundentes: durante el primer cuatrimestre del año y con un crecimiento interanual del 2,4%, Neuquén lideró las ventas en todo el país."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "VMOS",
+                "seguridad",
+                "educación",
+                "infraestructura",
+                "solidaridad con docente"
+            ],
+            "postura_politica": "Weretilneck se enfoca en el proyecto VMOS como motor de desarrollo, mostrando avances concretos. También aborda seguridad y educación. Su postura es de gestión y de defensa de los intereses provinciales, sin confrontar abiertamente con Nación.",
+            "frase_fuerte": "Lo que está pasando en el Golfo San Matías es una transformación que ya empezó y que va a generar trabajo, movimiento económico y nuevas oportunidades para Sierra Grande, la Zona Atlántica y toda la provincia."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "gira institucional",
+                "vivienda",
+                "educación",
+                "seguridad",
+                "energía"
+            ],
+            "postura_politica": "Poggi muestra una intensa agenda de obras y anuncios locales. No hay mención a Nación ni a temas federales. Su perfil es de gestión territorial, sin ruido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "financiamiento",
+                "gas",
+                "salud",
+                "petróleo"
+            ],
+            "postura_politica": "Vidal insiste en la necesidad de financiamiento para obras, criticando a la oposición que bloquea herramientas. Su mensaje es de urgencia y reclamo, pero sin atacar directamente a Nación. Busca generar consenso para su proyecto de ley.",
+            "frase_fuerte": "Santa Cruz necesita mirar hacia adelante y para eso necesitamos financiamiento."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "vivienda",
+                "educación",
+                "seguridad",
+                "Malvinas"
+            ],
+            "postura_politica": "Pullaro combina la efeméride con un fuerte contenido de gestión: inaugura escuelas, viviendas y obras. También homenajea a veteranos de Malvinas y reivindica el federalismo de Estanislao López. Su perfil es de un gobernador que cumple y que apela a la historia provincial.",
+            "frase_fuerte": "Somos orgullosamente hijos de la tierra donde nacieron los colores que nos representan a todos los argentinos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "educación ambiental",
+                "foro de economías regionales",
+                "pago a empleados"
+            ],
+            "postura_politica": "Suarez mantiene un per bajo, con anuncios de gestión y participación en eventos. Anuncia el cronograma de pagos, lo que muestra preocupación por la administración. No hay confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "promesa de lealtad",
+                "justicia",
+                "seguridad",
+                "reunión política"
+            ],
+            "postura_politica": "Jaldo se muestra como un gobernador institucional, encabezando actos escolares y de justicia. También mantiene reuniones con el peronismo local. Su postura es de unidad partidaria y gestión, sin enfrentamiento con Nación.",
+            "frase_fuerte": null
+        }
+    ]
+}
