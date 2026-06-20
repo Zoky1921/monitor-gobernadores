@@ -1,0 +1,215 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de tensión federal donde Kicillof y Pullaro acusan a Nación de abandonar obras; Macri confronta a Kicillof por la VTV; Orrego defiende límites de San Juan contra La Rioja; Frigerio negocia un pacto fiscal con Caputo; y Figueroa y Weretilneck apuestan al GNL como palanca de desarrollo.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal y política entre Nación y las provincias se materializa en dos frentes: el reclamo por obras paralizadas (Kicillof, Pullaro) y la disputa por recursos coparticipables (Frigerio recibe a Caputo para pacto fiscal). Al mismo tiempo, el conflicto territorial entre San Juan y La Rioja expone la fragilidad del federalismo.\n\nActo 2 — Los Alineamientos: Mientras Kicillof (Buenos Aires) se consolida como líder opositor con acusaciones directas, Jorge Macri (CABA) se posiciona como gestor eficiente y enfrenta al peronismo provincial. Figueroa y Weretilneck forman un bloque patagónico en torno a Vaca Muerta y el GNL, negociando con Nación desde la fortaleza energética. Frigerio (Entre Ríos) busca un pacto fiscal que alivie su caja.\n\nActo 3 — La Micro-política: Gobernadores como Passalacqua (Misiones), Zdero (Chaco) y Sadir (Jujuy) se refugian en la agenda local: rutas, viviendas, turismo. Es una estrategia de supervivencia ante la falta de señales nacionales, evitando posicionamientos que los expongan. Sin embargo, la omisión de la macroeconomía es un mensaje en sí mismo.\n\nActo 4 — Saldo Presidencial: La Casa Rosada enfrenta una jornada de fuego cruzado. La oposición peronista (Kicillof) y dialoguista (Pullaro) le reclaman, mientras que los gobernadores aliados (Macri, Frigerio) negocian condiciones. El conflicto San Juan-La Rioja desgasta la institucionalidad. Milei pierde capital político si no logra contener estas disputas.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto fiscal y desregulación: VTV y obras paralizadas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Obra pública vs recorte nacional: viviendas y centros de salud",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@maxipullaro",
+                "@Rolo_Figueroa",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Energía y recursos estratégicos: Vaca Muerta, GNL y minería",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Conflicto territorial entre San Juan y La Rioja",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Pacto fiscal y alivio impositivo provincial",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @petreccapablo)",
+        "texto": "☎️ Teléfono, @Kicillofok . En marzo presentamos el proyecto para modernizar la VTV. ¿Y la Provincia, para cuándo?",
+        "por_que_es_clave": "Es una provocación directa de Macri a Kicillof que expone la confrontación entre los modelos de gestión de CABA y la provincia de Buenos Aires, y que busca capitalizar la desregulación de la VTV como bandera de eficiencia.",
+        "pregunta_openarg": "¿La desregulación de la VTV en CABA es una medida de alivio o una cortina de humo ante la falta de avances en la Provincia de Buenos Aires?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "obra pública",
+                "vivienda",
+                "ataque a Nación"
+            ],
+            "postura_politica": "Opositor directo al gobierno de Milei, denuncia desfinanciamiento y abandono de obras. Usa la inauguración de un CDI para marcar el contraste con la política nacional.",
+            "frase_fuerte": "Una obra que fue abandonada por un Gobierno nacional que no duda en quitarles recursos a los pibes para ponerlos al servicio del endeudamiento y la especulación financiera."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "desregulación VTV",
+                "seguridad",
+                "comparación con Kicillof"
+            ],
+            "postura_politica": "Gestor eficiente que confronta a Kicillof. La desregulación de la VTV es presentada como un logro de gestión, y apunta a la provincia como un espacio de mayor burocracia.",
+            "frase_fuerte": "Chau al monopolio de la VTV. Terminamos con este curro y desregulamos el sistema."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "crédito ganadero",
+                "exportación"
+            ],
+            "postura_politica": "Agenda local productiva sin posicionamiento federal. Se enfoca en herramientas de financiamiento para productores.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Malvinas",
+                "gestión de obras"
+            ],
+            "postura_politica": "Reivindicación patriótica sin confrontación directa. Remarca la presencia del rompehielos Irízar para reforzar la causa Malvinas.",
+            "frase_fuerte": "Las Malvinas son argentinas, hoy y siempre."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "infraestructura",
+                "narcotráfico",
+                "educación"
+            ],
+            "postura_politica": "Gestión provincial intensa, evita confrontación nacional pero pide unidad y reclama inversiones. Muestra a Córdoba como motor federal autónomo.",
+            "frase_fuerte": "CÓRDOBA NO ESPERA EL FUTURO, LO CONSTRUYE."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "alivio impositivo",
+                "pacto fiscal con Caputo"
+            ],
+            "postura_politica": "Alineado con Nación, busca beneficios fiscales y se muestra como interlocutor responsable. La reunión con Caputo refuerza su perfil negociador.",
+            "frase_fuerte": "ESTAMOS EN CONDICIONES DE ESCRIBIR EL PRÓXIMO CAPÍTULO DEL PACTO FISCAL."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "minería",
+                "turismo"
+            ],
+            "postura_politica": "Promoción provincial. Participa en foro minero internacional y lanza campañas turísticas. Sin confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "vivienda",
+                "gestión provincial"
+            ],
+            "postura_politica": "Agenda local de entrega de viviendas con recursos provinciales. Reclama un nuevo pacto fiscal pero sin atacar a Nación directamente.",
+            "frase_fuerte": "La vivienda no es solo un techo. Es dignidad, seguridad, futuro."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "promesa bandera",
+                "libertad de expresión"
+            ],
+            "postura_politica": "Defiende su gestión y ataca a medios falsos denunciando una estructura de mentiras. Se posiciona como defensor de la verdad institucional.",
+            "frase_fuerte": "La mentira organizada y la desinformación deliberada, no."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "relaciones internacionales",
+                "turismo",
+                "cooperativismo"
+            ],
+            "postura_politica": "Gestión local cosmopolita. Anuncia nueva ruta aérea y eventos culturales. Evita cualquier roce nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "GNL",
+                "vivienda"
+            ],
+            "postura_politica": "Aprovecha recursos energéticos para posicionar a Neuquén como eje del desarrollo argentino. Defiende la inversión privada y la exportación de GNL como desafío generacional.",
+            "frase_fuerte": "El desarrollo de Vaca Muerta y la exportación de GNL no son desafíos políticos ni sectoriales: son desafíos generacionales."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "VMOS",
+                "GNL",
+                "seguridad",
+                "educación"
+            ],
+            "postura_politica": "Centralidad de la energía. Destaca el avance del proyecto VMOS y la llegada de tubos para el ducto marino. Se presenta como articulador de inversiones que generan empleo local.",
+            "frase_fuerte": "Cada etapa que avanza confirma que el Golfo San Matías se está consolidando como uno de los puntos estratégicos del desarrollo energético argentino."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "conflicto territorial con La Rioja",
+                "minería"
+            ],
+            "postura_politica": "Duro contra Quintela. Defiende la ley de límites vigente y convoca a la unidad provincial. Se muestra firme en la defensa del territorio sanjuanino.",
+            "frase_fuerte": "No vamos a permitir que se ponga en duda lo nuestro: el territorio, los recursos, el futuro y símbolos como Ischigualasto."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "energía",
+                "escrituración",
+                "mérito"
+            ],
+            "postura_politica": "Gestión técnica y reformista. Impulsa Plan Maestro de Energía y concursos para cargos directivos. Sin confrontación con Nación.",
+            "frase_fuerte": "El Plan Estratégico de Energía ya está en plena ejecución, sumará competitividad."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "financiamiento",
+                "salud",
+                "crítica a diputados"
+            ],
+            "postura_politica": "Necesita herramientas financieras para obras y critica a la oposición por obstaculizar. Se muestra alineado con la necesidad de inversión.",
+            "frase_fuerte": "No se puede reclamar ayuda y negar los instrumentos para obtenerla."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "vivienda",
+                "crítica a Nación"
+            ],
+            "postura_politica": "Gestión eficiente. Acusa a Nación de frenar obras y destaca que la provincia las termina con recursos propios.",
+            "frase_fuerte": "Tomamos la decisión de hacernos cargo y terminar lo que se frenó desde Nación."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "promesa bandera",
+                "institucional"
+            ],
+            "postura_politica": "Gestión protocolar y de cercanía. Sin posicionamiento federal relevante.",
+            "frase_fuerte": null
+        }
+    ]
+}
