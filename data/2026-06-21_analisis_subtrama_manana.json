@@ -1,0 +1,139 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por saludos por el Día del Padre, pero los gobernadores de Neuquén y Río Negro marcaron la agenda con anuncios de inversiones en Vaca Muerta y GNL, mientras Pullaro capitalizó el Día de la Bandera para mostrar recuperación de Rosario.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal entre Nación y provincias se manifiesta en la estrategia de los gobernadores patagónicos de mostrar autonomía financiera mediante la monetización de Vaca Muerta. Figueroa y Weretilneck exhiben inversiones que no dependen de la coparticipación, marcando distancia del ajuste nacional.\n\nActo 2 — Los Alineamientos: Pullaro se posiciona como el gestor de la recuperación de Rosario, usando el Día de la Bandera para reivindicar su gestión y contrastar con el abandono nacional. Los gobernadores peronistas y radicales se limitan a saludos protocolares, evitando confrontar.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Chaco, Chubut, Corrientes, etc.) se refugian en la agenda de cabotaje: saludos por el Día del Padre, sin mencionar la macroeconomía. Es un repliegue estratégico para no desgastarse.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable: ningún gobernador confrontó abiertamente. Las inversiones patagónicas son una señal de que el RIGI y la desregulación están dando frutos, aunque el silencio de los gobernadores peronistas es una advertencia de que la paciencia fiscal tiene límites.",
+    "temas_calientes": [
+        {
+            "tema": "Inversiones en Vaca Muerta y GNL desde Neuquén y Río Negro",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Día de la Bandera como plataforma de gestión en Rosario",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "CON INVERSIONES EN NEUQUÉN, EL PROYECTO DE GNL CRECE EN DISTINTAS DIRECCIONES\n\nEl proyecto de exportación de GNL que acelerará el desarrollo de la Provincia avanza en distintas direcciones. Ahora, una UTE integrada por SACDE y por Tecnimont resultó adjudicataria de una licitación para desarrollar la primera planta de tratamiento y separación.\nLa licitación, que realizaron YPF y la energética ENI, es para construir instalaciones en la salida, desde Neuquén, hacia las terminales de licuefacción previstas en el Golfo San Matías. \nEl emprendimiento generará trabajo y recursos en la provincia y será otro eslabón en la estrategia de reinversión eficiente de los recursos de #VacaMuerta.",
+        "por_que_es_clave": "Figueroa muestra que Neuquén avanza en la industrialización del gas sin esperar a Nación, reforzando su poder de negociación fiscal y posicionándose como socio estratégico de las grandes petroleras.",
+        "pregunta_openarg": "¿Pueden las provincias con recursos energéticos sostener su desarrollo sin depender de la coparticipación federal?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Día del Padre"
+            ],
+            "postura_politica": "Saludo institucional sin carga política. Se refugia en la agenda de cabotaje para evitar posicionarse sobre la macroeconomía.",
+            "frase_fuerte": "El mejor legado que puede dejar un padre es su ejemplo: los valores que transmite, las enseñanzas que comparte y el amor con el que acompaña cada paso del camino."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Deporte",
+                "Orgullo provincial"
+            ],
+            "postura_politica": "Celebración de un logro deportivo local, refuerza identidad provincial sin confrontar con Nación.",
+            "frase_fuerte": "ORGULLO CHUBUTENSE... @GyECR volvió a escribir una página grande en la historia del deporte argentino."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Día del Padre"
+            ],
+            "postura_politica": "Saludo afectivo, sin contenido político. Agenda local aislada.",
+            "frase_fuerte": "¡A LOS PAPÁS CORDOBESES, FELIZ DÍA! 🫂❤️"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Día del Padre"
+            ],
+            "postura_politica": "Saludo escueto, sin posicionamiento federal.",
+            "frase_fuerte": "¡Feliz Día del Padre para todos! 🙌🏼"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Día del Padre"
+            ],
+            "postura_politica": "Saludo institucional, mantiene perfil bajo.",
+            "frase_fuerte": "DÍA DEL PADRE... ¡Feliz Día del Padre!"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Día del Padre"
+            ],
+            "postura_politica": "Saludo extenso con tono personal, evita temas de conflicto.",
+            "frase_fuerte": "Hoy quiero reconocer a todos los padres que, con amor, esfuerzo y compromiso, trabajan cada día para construir un mejor futuro para sus familias."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Inversiones en GNL",
+                "Vaca Muerta",
+                "Desarrollo energético"
+            ],
+            "postura_politica": "Posicionamiento pro-inversión, destaca el rol de Neuquén en el proyecto de GNL y la generación de empleo. Marca autonomía frente a Nación.",
+            "frase_fuerte": "CON INVERSIONES EN NEUQUÉN, EL PROYECTO DE GNL CRECE EN DISTINTAS DIRECCIONES... El emprendimiento generará trabajo y recursos en la provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Inversión en educación",
+                "Recursos de VMOS"
+            ],
+            "postura_politica": "Muestra gestión con recursos energéticos, refuerza su estrategia de reinversión y capacidad de obra pública sin Nación.",
+            "frase_fuerte": "20 NUEVOS MINIBUSES PARA LAS ESCUELAS ESPECIALES DE RÍO NEGRO... Los adquirimos con recursos provenientes del bono VMOS."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Gestión cultural",
+                "Obra pública"
+            ],
+            "postura_politica": "Muestra obra concreta, sin mención a Nación. Agenda local sin impacto federal.",
+            "frase_fuerte": "Junto al intendente Emiliano Durand recorrimos el Paseo de la Ex Palúdica... una obra de Marta Minujín que pasará a integrar el patrimonio cultural de Salta."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Día del Padre"
+            ],
+            "postura_politica": "Saludo simple, sin contenido político.",
+            "frase_fuerte": "Feliz día para todos los PADRES Sanluiseños !! Que pasen un hermoso domingo."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Día del Padre"
+            ],
+            "postura_politica": "Saludo con reflexión sobre el esfuerzo, evita temas conflictivos.",
+            "frase_fuerte": "POR EL FUTURO QUE CONSTRUIMOS TODOS LOS DÍAS... ¡Feliz Día del Padre!"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "Celebración en Rosario",
+                "Obra escolar"
+            ],
+            "postura_politica": "Reivindicación de Rosario como cuna de la bandera, muestra gestión y recuperación de la ciudad. Se posiciona como gestor eficiente.",
+            "frase_fuerte": "Rosario cambió y hoy camina con más esperanza que miedo... ratificamos que el cambio no se detiene."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Día del Padre"
+            ],
+            "postura_politica": "Saludo afectivo, sin contenido político.",
+            "frase_fuerte": "FELIZ DÍA DEL PADRE... A nuestros maestros personales que con amor, nos dejaron enseñanzas para toda la vida."
+        }
+    ]
+}
