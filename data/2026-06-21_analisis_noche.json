@@ -1,0 +1,176 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La agenda de los gobernadores se dividió entre celebraciones protocolares por el Día del Padre y la Bandera, y la comunicación de logros de gestión local. Se observa un tono mayormente optimista en cuanto a obras y desarrollo económico en sus provincias, como la reactivación turística en La Rioja y las inversiones en GNL en Neuquén. No obstante, Jorge Macri (Ciudad Autónoma de Buenos Aires) generó tensión al criticar el sistema judicial y la gestión de la Provincia de Buenos Aires, mientras que Claudio Vidal (Santa Cruz) reiteró la necesidad de financiamiento, una demanda recurrente. En Río Negro, se destacó un pronunciamiento fuerte en solidaridad con una docente agredida, mostrando la preocupación por la seguridad en el ámbito educativo.",
+    "analisis_profundo": "La jornada federal, marcada por la conmemoración del Día de la Bandera y el Día del Padre, reveló una dualidad en la agenda de los mandatarios provinciales. Predominó el tono celebratorio y de cercanía con sus comunidades, con múltiples saludos y referencias patrióticas que, en algunos casos, se vincularon a mensajes de gestión. Por ejemplo, Rolando Figueroa (Neuquén) aprovechó para reafirmar su compromiso con la inversión en educación y el proyecto GNL como pilares del futuro neuquino y nacional. Maximiliano Pullaro (Santa Fe), por su parte, capitalizó las celebraciones en Rosario para destacar la 'vuelta de página' de la ciudad, enfocándose en la recuperación del espacio público y la seguridad tras eventos masivos sin incidentes, proyectando una imagen de gestión exitosa en un contexto complejo. Claudio Poggi (San Luis) mantuvo una intensa agenda de anuncios de obras de vivienda, infraestructura educativa y seguridad, delineando una gestión muy activa en el territorio. En el ámbito económico, Ricardo Quintela (La Rioja) relanzó el programa Previaje riojano, buscando revitalizar el turismo local, mientras Ignacio Torres (Chubut) enfocó su comunicación en la eficiencia de la fuerza policial y la inversión en seguridad, respondiendo a las demandas ciudadanas y celebrando logros deportivos. Sin embargo, la jornada no estuvo exenta de fricciones. Jorge Macri (Ciudad Autónoma de Buenos Aires) adoptó un tono confrontativo al arremeter contra la justicia por fallos que, según él, defienden 'okupas' y atacó la gestión de la Provincia de Buenos Aires, utilizando las redes para marcar diferencias y polarizar. En Río Negro, el gobernador Alberto Weretilneck (Río Negro) se solidarizó enérgicamente con una docente agredida, subrayando la preocupación por la violencia en las escuelas y la firmeza del Estado ante tales incidentes. Gustavo Sáenz (Salta) se centró en la recuperación de espacios públicos como el Paseo de la Ex Palúdica, vinculándolo a la trascendencia de los proyectos enfocados en la gente. En este escenario, la mayoría de los gobernadores optaron por comunicar una gestión activa y positiva, buscando consolidar el apoyo local en medio de un clima político nacional complejo, aunque persistieron focos de tensión y confrontación entre jurisdicciones.",
+    "temas_calientes": [
+        {
+            "tema": "Contraste y crítica de gestión interjurisdiccional",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Fomento del desarrollo económico y turismo regional",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Inversión en seguridad y recuperación del espacio público",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@maxipullaro",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Obras de infraestructura y desarrollo social local",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Educación y formación como pilar del futuro",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Rosario está dando una vuelta de página que parecía imposible hace apenas dos años atrás. El Monumento a la Bandera testigo de tres eventos que convocaron entre 300 mil y 350 mil personas en menos de un año, con cero incidentes. Los rosarinos volvieron a apropiarse del espacio público con más esperanza que miedo.",
+        "por_que_es_clave": "Este tweet es clave porque el gobernador Pullaro (Santa Fe) capitaliza las celebraciones del Día de la Bandera en Rosario para proyectar una imagen de éxito en la gestión de la seguridad y el espacio público, transformando una narrativa previa de conflictividad. Es un mensaje político fuerte que vincula directamente su administración con la recuperación de la esperanza y la convivencia ciudadana en una de las ciudades más desafiantes del país.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Crítica judicial",
+                "Propiedad privada",
+                "Contraste de gestión"
+            ],
+            "postura_politica": "Adopta una postura abiertamente confrontativa contra el sistema judicial por fallos que considera absurdos y en defensa de 'okupas'. Además, utiliza comparaciones indirectas para destacar la política de 'ley y orden' de su distrito frente a la gestión de la Provincia de Buenos Aires.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Sociedad y cultura"
+            ],
+            "postura_politica": "Mantiene un perfil cercano a la sociedad chaqueña al lamentar el fallecimiento de una figura cultural, evidenciando conexión con las tradiciones y el sentir popular de la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Inversión policial",
+                "Logros deportivos"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con la seguridad, informando sobre operativos exitosos y la inversión en la fuerza policial. Busca generar confianza y optimismo en la capacidad de su gobierno para proteger a los chubutenses. También celebra logros deportivos locales.",
+            "frase_fuerte": "CUIDAMOS A LOS QUE NOS CUIDAN"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Eventos culturales",
+                "Unidad provincial"
+            ],
+            "postura_politica": "Se enfoca en la promoción de eventos culturales y la exaltación de la identidad cordobesa, buscando fomentar la unidad y el diálogo entre los ciudadanos en el marco de celebraciones patrióticas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Turismo",
+                "Economía local"
+            ],
+            "postura_politica": "Impulsa activamente el turismo como motor económico, relanzando programas de incentivo para atraer visitantes y fortalecer la actividad en la provincia. Demuestra un enfoque en la reactivación económica local.",
+            "frase_fuerte": "Vuelve el Previaje riojano para seguir fortaleciendo la economía local y acompañar al sector turístico."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Turismo rural",
+                "Tradiciones",
+                "Emprendimientos locales"
+            ],
+            "postura_politica": "Muestra un interés en el desarrollo del turismo rural y la valoración de las tradiciones gauchas y la naturaleza misionera, apoyando emprendimientos locales para potenciar la economía provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo energético",
+                "Inversión en educación",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Reafirma el compromiso de Neuquén con el crecimiento nacional a través del proyecto GNL y el desarrollo de Vaca Muerta. Destaca la importancia de la inversión en educación como un legado patriótico, vinculando el progreso provincial con el futuro del país.",
+            "frase_fuerte": "En Neuquén asumimos la responsabilidad de generar las condiciones para seguir aportando al crecimiento de nuestro país."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad educativa",
+                "Inclusión educativa",
+                "Apoyo a la juventud"
+            ],
+            "postura_politica": "Manifiesta un firme respaldo a la comunidad educativa ante un incidente de agresión, defendiendo la seguridad en las escuelas. Además, destaca inversiones en minibuses para escuelas especiales y programas de formación para jóvenes, subrayando la inclusión y las oportunidades educativas.",
+            "frase_fuerte": "TODA NUESTRA SOLIDARIDAD CON LA DOCENTE AGREDIDA EN CIPOLLETTI"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Urbanismo",
+                "Patrimonio cultural",
+                "Gestión pública"
+            ],
+            "postura_politica": "Se enfoca en la recuperación de espacios públicos y la promoción del patrimonio cultural, buscando mostrar una gestión que impulsa proyectos duraderos en beneficio de la comunidad salteña.",
+            "frase_fuerte": "Los proyectos que nacen pensando en la gente trascienden las gestiones y perduran en el tiempo."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Educación",
+                "Seguridad",
+                "Desarrollo local",
+                "Juventud"
+            ],
+            "postura_politica": "Presenta una gestión muy activa en múltiples frentes, con énfasis en la construcción de viviendas, el fomento educativo (bibliotecas, programas de lectura) y el apoyo a la juventud con programas de hábitos saludables. Demuestra cercanía con los municipios y un compromiso integral con el desarrollo provincial.",
+            "frase_fuerte": "El acceso a la Vivienda volvió a San Luis y volvió para quedarse !!"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Recuperación del espacio público",
+                "Eventos masivos"
+            ],
+            "postura_politica": "Proyecta una imagen de liderazgo en la transformación de Rosario, destacando la exitosa recuperación del espacio público y la capacidad de la ciudad para organizar grandes eventos sin incidentes. Subraya un cambio de clima social de 'miedo' a 'esperanza' bajo su gestión.",
+            "frase_fuerte": "Rosario está dando una vuelta de página que parecía imposible hace apenas dos años atrás."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Conmemoraciones patrias"
+            ],
+            "postura_politica": "Se dedica a las conmemoraciones patrias, enfatizando la soberanía y la unidad. Su mensaje es protocolar, enfocado en el valor simbólico de la bandera y el patriotismo santiagueño.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Saludos protocolares"
+            ],
+            "postura_politica": "Su única actividad relevante es un saludo por el Día del Padre, manteniendo un perfil protocolar en la jornada analizada.",
+            "frase_fuerte": null
+        }
+    ]
+}

@@ -1,0 +1,269 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada combina gestos de unidad en el Día de la Bandera con tensiones focalizadas: Rogelio Frigerio (Entre Ríos) y Claudio Vidal (Santa Cruz) reclaman financiamiento, mientras Leandro Zdero (Chaco) cruza a un sacerdote. La alianza Figueroa-Weretilneck por Vaca Muerta contrasta con el silencio de los gobernadores peronistas. Pullaro capitaliza la recuperación de Rosario.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La ausencia de una confrontación directa con Nación marca la jornada, pero emerge una tensión fiscal latente. Claudio Vidal (Santa Cruz) utiliza el Día del Padre para reiterar su reclamo de herramientas financieras contra una Legislatura que las bloquea, mientras Rogelio Frigerio (Entre Ríos) exhibe su pacto con el ministro Caputo como modelo de gestión. Ambos reflejan la disputa por recursos en un contexto de ajuste.\n\nActo 2 — Los Alineamientos: La dupla Figueroa (Neuquén) y Weretilneck (Río Negro) consolida una alianza estratégica en torno al GNL y Vaca Muerta, con mensajes coordinados sobre inversiones y proveedores locales. En la vereda opuesta, los gobernadores peronistas (Insfrán, Quintela, Jalil, Zdero) evitan referencias nacionales y se refugian en la agenda local. Llaryora (Córdoba) ensaya un discurso de unidad que omite críticas al oficialismo.\n\nActo 3 — La Micro-política: Leandro Zdero (Chaco) protagoniza el gesto más disruptivo al cruzar a un sacerdote en redes, desviando la atención hacia una polémica local. Maximiliano Pullaro (Santa Fe) capitaliza la recuperación del Monumento a la Bandera con un relato de éxito en seguridad. En las provincias periféricas, los saludos por el Día del Padre y la Bandera funcionan como refugio protocolario.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no recibe críticas directas, pero tampoco adhesiones explícitas. La alianza Figueroa-Weretilneck le otorga un piso de gobernabilidad energética, mientras Vidal y Frigerio marcan el costo político del ajuste. El peronismo, mudo sobre la macro, preserva su capital político local. El saldo es mixto: baja conflictividad pero nula construcción de consensos.",
+    "temas_calientes": [
+        {
+            "tema": "Impulso al GNL y alianza Neuquén-Río Negro por Vaca Muerta",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Reclamo de financiamiento provincial en Santa Cruz",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Confrontación política local en Chaco contra un sacerdote",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Recuperación de la seguridad y espacio público en Rosario",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Agenda de gestión local con perfil bajo en provincias periféricas",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@carlossadirjuy",
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "Belgrano entendió que el futuro de la patria se construye invirtiendo en educación y generando oportunidades. Más de 200 años después, ese sigue siendo nuestro compromiso con los neuquinos. https://t.co/oTUnL88I0M",
+        "por_que_es_clave": "Figueroa usa el Día de la Bandera para asociar su gestión con el legado de Belgrano, vinculando educación con desarrollo energético, y refuerza la alianza con Weretilneck en Vaca Muerta.",
+        "pregunta_openarg": "¿La alianza Neuquén-Río Negro por el GNL muestra un nuevo federalismo energético o una concentración de poder regional que profundiza las asimetrías?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera",
+                "confrontacion con sacerdote",
+                "credito productivo",
+                "exportacion caprina",
+                "viviendas",
+                "salud",
+                "pavimento",
+                "tren sanitario",
+                "industria local"
+            ],
+            "postura_politica": "Zdero combina gestión territorial con una ofensiva contra un sacerdote al que acusa de 'chanta', buscando capitalizar el descontento con figuras opositoras locales. Su perfil es confrontativo pero sin llegar a la macro.",
+            "frase_fuerte": "Justo hablas @juanKa_molina, vos que cobrabas sueldos y tenías docentes truchos. Pónganse colorado al menos. El portar una sotana no te salva, en Chaco te conocemos como un verdadero CHANTA!"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "promesa de lealtad de cadetes",
+                "operativo policial",
+                "basquet campeon",
+                "Malvinas",
+                "primera infancia",
+                "boulevard Brown",
+                "gas para Corcovado",
+                "hospital Trelew",
+                "deuda ANSES",
+                "ruta El Doradillo",
+                "seguridad"
+            ],
+            "postura_politica": "Torres prioriza una agenda de gestión densa: obras, seguridad y deporte. Destaca la recuperación de la deuda de ANSES para jubilados, mostrando eficacia administrativa. Evita confrontación con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera",
+                "jura de cadetes",
+                "salud mental",
+                "agua potable",
+                "circunvalacion Rio Cuarto",
+                "gas natural",
+                "cultura",
+                "narcotrafico"
+            ],
+            "postura_politica": "Llaryora se presenta como gestor y conciliador, destacando la unidad frente a la grieta. Su discurso es de 'hacer para crecer' sin criticar al gobierno nacional, posicionándose como alternativa moderada.",
+            "frase_fuerte": "Valoro profundamente el diálogo democrático y el respeto que distinguen a nuestra provincia. Podemos pertenecer a distintos espacios políticos, pero hemos sabido construir más puentes que grietas."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Dia del Padre"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Solo un saludo genérico por el Día del Padre.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera",
+                "aniversario General Belgrano",
+                "mineral de hierro",
+                "Puerto Nuevo",
+                "reunion con ingenieros",
+                "Malvinas",
+                "periodistas"
+            ],
+            "postura_politica": "Insfrán mantiene su perfil histórico: agenda local, efemérides, y un guiño al modelo kirchnerista con la recepción de mineral de hierro para la industria. Sin menciones a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera",
+                "Inti Raymi",
+                "foro minero en Chile",
+                "temporada de invierno",
+                "mediacion",
+                "becas medicina",
+                "Ironman",
+                "embajador Reino Unido",
+                "viviendas",
+                "Norte Grande"
+            ],
+            "postura_politica": "Sadir promueve una agenda de desarrollo turístico y minero con apertura internacional. La participación en Chile y las reuniones con embajadores muestran un perfil pro-inversión, sin roces nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera",
+                "Previaje riojano",
+                "limite con San Juan",
+                "mineria",
+                "educacion",
+                "salud",
+                "CGT",
+                "periodistas"
+            ],
+            "postura_politica": "Quintela combina el saludo del Día del Padre con la defensa de los límites provinciales frente a San Juan, mostrando una postura de confrontación territorial más que nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera",
+                "parque tematico",
+                "nueva ruta aerea",
+                "Fericoop",
+                "cine teatro",
+                "aniversario Bonpland",
+                "embajada Israel"
+            ],
+            "postura_politica": "Passalacqua mantiene un perfil bajo con agenda local de promoción turística y cultural. Las menciones a la nueva ruta aérea y a la cooperación internacional no tienen implicancias federales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera",
+                "GNL",
+                "Vaca Muerta",
+                "ventas en supermercados",
+                "escriburas",
+                "lotes con servicios",
+                "empresas locales",
+                "infraestructura electrica"
+            ],
+            "postura_politica": "Figueroa usa el Día de la Bandera para vincular su gestión con Belgrano y la educación, pero su foco real es el desarrollo energético. La alianza con Weretilneck y las menciones a GNL marcan su posicionamiento como motor económico regional.",
+            "frase_fuerte": "Belgrano entendió que el futuro de la patria se construye invirtiendo en educación y generando oportunidades."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera",
+                "minibuses escolares",
+                "Vaca Muerta",
+                "VMOS",
+                "seguridad",
+                "boton antipanico",
+                "Catriel",
+                "residencia universitaria",
+                "riego"
+            ],
+            "postura_politica": "Weretilneck refuerza la alianza con Figueroa, destacando la llegada de caños para VMOS y la oportunidad energética. Su discurso es de gestión concreta y desarrollo, sin crítica a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "recorrido Paseo de la Ex Paludica",
+                "promesa a la Bandera"
+            ],
+            "postura_politica": "Saenz solo tiene un tweet de ayer en la ventana (20/06 20:44 ARG) sobre un paseo cultural, y otro del Día de la Bandera. Agenda local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Dia del Padre"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Solo un saludo genérico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera",
+                "polideportivo",
+                "gas",
+                "financiamiento",
+                "medicamentos",
+                "mineria",
+                "seguridad",
+                "reclamo a legisladores"
+            ],
+            "postura_politica": "Vidal mantiene una ofensiva por financiamiento, criticando a legisladores que rechazan herramientas y defendiendo su gestión. Es uno de los pocos que expone la tensión fiscal provincial.",
+            "frase_fuerte": "No se puede reclamar ayuda y negar los instrumentos para obtenerla, más cuando estos mismos actores, pidieron, acompañaron o votaron afirmativamente estas mismas herramientas cuando el gobierno era otro."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera",
+                "Monumento a la Bandera",
+                "Rosario",
+                "viviendas",
+                "escuela Hughes",
+                "Granadero Baigorria",
+                "tribunales Casilda",
+                "Malvinas",
+                "Estanislao Lopez",
+                "Turismo Carretera"
+            ],
+            "postura_politica": "Pullaro capitaliza la recuperación del Monumento y la seguridad en Rosario con un mensaje de éxito. Su perfil es de gestión exitosa y obras, sin confrontación nacional.",
+            "frase_fuerte": "Rosario está dando una vuelta de página que parecía imposible hace apenas dos años atrás."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Dia del Padre",
+                "Dia de la Bandera"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Solo saludos genéricos.",
+            "frase_fuerte": null
+        }
+    ]
+}
