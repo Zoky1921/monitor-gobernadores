@@ -1,0 +1,231 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada de doble juego: mientras Kicillof intensifica su narrativa de confrontación fiscal con Nación por avales y obras, gobernadores del interior como Figueroa (Neuquén) y Weretilneck (Río Negro) exhiben avances en Vaca Muerta y GNL, marcando autonomía energética. Llaryora (Córdoba) y Pullaro (Santa Fe) consolidan gestión provincial sin mencionar a Nación, en un silencio que es posicionamiento. El clima es de negociación tácita: unos piden, otros muestran resultados y evitan la grieta.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal domina la escena. Kicillof (Buenos Aires) redobla su embestida contra la Casa Rosada, denunciando la negativa de avales por 1.973 millones de dólares mientras Nación los otorga a otras provincias. Su mensaje sobre el Plan de Gestión del Riesgo Climático no es solo una advertencia meteorológica: es una acusación de abandono y arbitrariedad. El gobernador bonaerense busca posicionarse como el único dique de contención frente al ajuste, apelando a la épica de la defensa del territorio. Sin embargo, el gesto tiene un destinatario claro: la interna peronista y la necesidad de capitalizar el descontento social sin quedar pegado a la gestión nacional.\n\nActo 2 — Los Alineamientos: En la vereda opuesta, los gobernadores de la Norpatagonia se muestran como el modelo de gestión eficiente. Figueroa (Neuquén) anuncia la mejora en la calificación crediticia y el avance en obras de GNL, mientras Weretilneck (Río Negro) articula a las pymes locales en la cadena de Vaca Muerta. Ambos evitan cualquier confrontación directa con Nación, pero su mensaje es claro: el desarrollo energético se gestiona desde las provincias, sin necesidad de intermediarios. Llaryora (Córdoba) y Pullaro (Santa Fe) también se refugian en la agenda local: el primero con obras de infraestructura y salud, el segundo con la revitalización del Monumento a la Bandera y el turismo. Es una apuesta a la gestión visible para despegarse del ruido nacional.\n\nActo 3 — La Micro-política: Las provincias periféricas se debaten entre la supervivencia y el gesto simbólico. Quintela (La Rioja) se enfoca en el programa 'Revolucioná tu Emprendimiento', un intento de dinamizar la economía local sin recursos nacionales. Insfrán (Formosa) celebra la llegada de mineral de hierro como un hito productivo, aunque el contexto de parálisis de obra pública nacional lo obliga a un discurso de autonomía forzada. Poggi (San Luis) y Vidal (Santa Cruz) apuestan a la gestión de viviendas y gas, respectivamente, en un intento de mostrar eficiencia frente a las demandas sociales. Son gestos de supervivencia: gobernar es administrar la escasez.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el saldo es agridulce. Si bien los gobernadores del interior no escalan la confrontación, el silencio de la mayoría es una forma de resistencia pasiva. Kicillof, en cambio, se perfila como el líder de la oposición, utilizando cada denuncia para erosionar la legitimidad del ajuste. La ausencia de menciones a Nación por parte de Llaryora y Pullaro es quizás el dato más elocuente: prefieren construir su propia narrativa de gestión a tener que defender o atacar al gobierno nacional. La pulseada fiscal, aunque soterrada, sigue latente.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto fiscal Buenos Aires-Nación por avales y obras climáticas",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Desarrollo energético en Vaca Muerta y GNL",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión provincial sin referencia a Nación (obra pública, vivienda, salud)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@ZiliottoSergio",
+                "@LeandroZdero",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Reclamos por financiamiento y autonomía fiscal en provincias periféricas",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Homenajes patrios y agenda de efemérides como marcación de territorio",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@alfredocornejo",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @gkatopodis)",
+        "texto": "Presentamos el Plan de Gestión del Riesgo Climático frente a los informes de los organismos especializados que advierten sobre la llegada de El Niño y la posibilidad de eventos climáticos extremos en los próximos meses. Frente a esta situación, volvemos a plantear la necesidad de conformar una mesa de trabajo con el Gobierno nacional para coordinar una respuesta eficiente. Las emergencias climáticas requieren planificación y cooperación. Lo que preocupa es que el Gobierno nacional no solo se queda con recursos que les corresponden a las y los bonaerenses, aun teniendo los programas y las herramientas para acompañar estas políticas, sino que además sigue negando los avales necesarios para acceder a créditos internacionales que la Provincia ya tiene disponibles para financiar muchas de estas obras. Mientras otorgó avales por 1.973 millones de dólares a 10 provincias, a la Provincia de Buenos Aires no le dio ninguno. Es decir, Milei no solo deja de invertir: también impide de forma arbitraria que la Provincia pueda ejecutar recursos destinados a proteger a nuestra gente.",
+        "por_que_es_clave": "Kicillof utiliza un tema técnico (gestión climática) para escalar el conflicto político-fiscal con Nación. La denuncia de discriminación en la asignación de avales es un misil directo a la Casa Rosada, buscando instalar la idea de un castigo deliberado a la provincia más poblada. Es una jugada de doble filo: se posiciona como defensor del federalismo, pero también expone su dependencia de los créditos internacionales.",
+        "pregunta_openarg": "¿Es viable que la Provincia de Buenos Aires acceda a financiamiento internacional sin aval nacional, o se trata de una amenaza vacía para presionar al gobierno de Milei?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Gestión climática",
+                "Conflicto fiscal con Nación",
+                "Avales internacionales",
+                "Obra pública",
+                "Promesa de lealtad a la bandera"
+            ],
+            "postura_politica": "Confrontación directa con Nación. Usa la gestión provincial como plataforma para denunciar el ajuste y la discriminación, buscando capitalizar el malestar social. Su mención a Cristina Kirchner y el acto del 20 de junio refuerzan su alineamiento con el kirchnerismo duro.",
+            "frase_fuerte": "Milei no solo deja de invertir: también impide de forma arbitraria que la Provincia pueda ejecutar recursos destinados a proteger a nuestra gente."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Exportaciones agrícolas (PROGANO)",
+                "Viviendas",
+                "Obra pública",
+                "Mortalidad infantil"
+            ],
+            "postura_politica": "Enfoque en gestión local con resultados concretos (baja de mortalidad infantil, obras pavimentadas). Evita mencionar a Nación, lo que sugiere una estrategia de autonomía y despegue del conflicto nacional. Su respuesta agresiva a un sacerdote crítico revela un perfil confrontativo con opositores locales.",
+            "frase_fuerte": "Mientras seguís justificando tus vergonzosas acciones, nosotros seguimos trabajando para cambiar las cosas."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Viviendas",
+                "Gas natural",
+                "Hospital",
+                "Malvinas"
+            ],
+            "postura_politica": "Gobierno de gestión y cercanía. Destaca inversiones provinciales en salud, gas y seguridad, sin mencionar a Nación. El tweet sobre Malvinas y el rompehielos Irízar busca reforzar el sentimiento patriótico y la identidad provincial. Silencio calculado sobre la macroeconomía.",
+            "frase_fuerte": "Después de muchos años, Trelew, Chubut y toda la Patagonia tienen por fin el hospital que se merecen."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Salud de alta complejidad",
+                "Bandera",
+                "Infraestructura",
+                "Educación"
+            ],
+            "postura_politica": "Clara apuesta a la gestión provincial como marca de gobierno. El lema 'HacerParaCrecer' y sus menciones a la unidad y al diálogo (evitando la grieta) lo posicionan como un gobernador despegado del ruido nacional, centrado en resultados. La ausencia total de referencia a Nación es un gesto de autonomía.",
+            "frase_fuerte": "En Córdoba podemos pensar distinto, ser de diferentes partidos políticos, y trabajar juntos para mejorar la calidad de vida de los vecinos."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Día de la Bandera",
+                "Aniversarios locales",
+                "Reunión Norte Grande",
+                "Mineral de hierro"
+            ],
+            "postura_politica": "Agenda protocolar y de gestión local. El tweet sobre la llegada de mineral de hierro para la siderurgia es el único con contenido económico relevante, pero no confronta con Nación. La reunión del Norte Grande es una muestra de coordinación regional, pero sin aristas conflictivas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Alivio fiscal",
+                "Viviendas",
+                "Salud digital",
+                "Desarrollo productivo",
+                "Malvinas"
+            ],
+            "postura_politica": "Gobierno de perfil técnico y orden fiscal. Destaca logros en salud digital y menor vulnerabilidad social como resultado de su modelo de gestión. Exenciones impositivas y apoyo a pymes sin mencionar a Nación. El mensaje sobre Malvinas y el 9 de junio muestran su costado peronista histórico.",
+            "frase_fuerte": "Mientras tanto en La Pampa, el Estado se ocupa de lo imprescindible: sostener el bienestar de su pueblo."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Emprendedurismo",
+                "Turismo (Previaje riojano)",
+                "Bandera",
+                "Educación",
+                "Minería"
+            ],
+            "postura_politica": "Gobierno activo en programas de estímulo económico local (Revolucioná tu Emprendimiento, Chachos). El Previaje riojano es una copia del programa nacional, mostrando capacidad de iniciativa propia. Sin confrontación directa, pero con un pedido implícito de mayor federalismo. También defiende la minería como motor de desarrollo.",
+            "frase_fuerte": "En La Rioja apostamos y defendemos la ciencia, la investigación y la protección de nuestro patrimonio."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Seguridad vial",
+                "Tecnología educativa",
+                "Vitivinicultura",
+                "Homenajes"
+            ],
+            "postura_politica": "Gobierno de gestión eficiente y perfil institucional. Destaca la baja de impuestos y la patente más baja del país. Evita la confrontación con Nación, pero se posiciona como un socio confiable para inversiones. La Cumbre de Seguridad Aérea y Vinexpo muestran su apuesta a la conectividad y al comercio internacional.",
+            "frase_fuerte": "En Mendoza no vamos a naturalizar campañas basadas en la mentira, la manipulación y destinadas a dañar personas."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Cultura",
+                "Aniversarios",
+                "Bandera",
+                "Turismo",
+                "Cooperativismo"
+            ],
+            "postura_politica": "Agenda de gestión local y promoción turística. La nueva ruta aérea con JetSMART es un logro concreto. Evita cualquier roce político. Su estilo es elogioso y de cercanía, sin contenido fiscal o de disputa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Calificación crediticia",
+                "GNL",
+                "Vaca Muerta",
+                "Obras públicas",
+                "Salud"
+            ],
+            "postura_politica": "Gobierno pro-mercado y eficiente. El anuncio de la mejora en la calificación de Fitch y los avances en GNL son mensajes de confianza a inversores. Se muestra como el gestor del desarrollo energético, sin dependencia de Nación. Su tono es optimista y técnico.",
+            "frase_fuerte": "La monetización del subsuelo viene a ser como una cosecha que hay que colocar, porque si no se pierde."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "PyMEs",
+                "Empleo público",
+                "Seguridad",
+                "Infraestructura energética"
+            ],
+            "postura_politica": "Gobierno articulador entre el sector privado y la provincia. El programa FOGARÍO y el avance del ducto VMOS muestran su apuesta a que las empresas locales sean protagonistas. Su discurso es de oportunidad y desarrollo, sin conflicto con Nación. La regularización de empleados públicos es un gesto de orden y transparencia.",
+            "frase_fuerte": "Sabemos que falta. Pero estamos construyendo las condiciones para que cada vez más proveedores rionegrinos sean parte de una de las oportunidades de desarrollo más importantes de la Argentina."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Educación",
+                "Seguridad",
+                "Energía",
+                "Bandera"
+            ],
+            "postura_politica": "Gobierno de gestión local con agenda de obras y programas sociales. Sin confrontación con Nación. Los recorridos por localidades y las inauguraciones son su sello. No hay mensaje político federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Financiamiento provincial",
+                "Obras de gas",
+                "Salud",
+                "Seguridad regional",
+                "Reclamo de recursos"
+            ],
+            "postura_politica": "Gobierno en modo reclamo. Pide herramientas financieras para obras y critica a los intendentes que no acompañan. La restitución del Procurador Sosa es un gesto de institucionalidad. Su tono es de urgencia y autodefensa, buscando legitimidad en la gestión mientras enfrenta restricciones fiscales.",
+            "frase_fuerte": "No se puede reclamar ayuda y negar los instrumentos para obtenerla."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Monumento a la Bandera",
+                "Turismo",
+                "Deportes",
+                "Obra pública",
+                "Malvinas"
+            ],
+            "postura_politica": "Gobierno de alto perfil en eventos masivos y recuperación de espacios públicos. La inauguración del Monumento a la Bandera es un hito simbólico. Apuesta al turismo y al deporte como motores económicos. Sin menciones a Nación, pero con un discurso de orgullo provincial que compite con el relato nacional.",
+            "frase_fuerte": "Cuando un gobierno no roba la plata para las obras llega."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Infraestructura energética (usina Ushuaia)",
+                "Reforma constitucional",
+                "Salud",
+                "Industria"
+            ],
+            "postura_politica": "Gobierno reformista. La reforma constitucional y el nuevo impulso fueguino son su bandera. Busca modernizar el Estado y reducir privilegios. Sin confrontación directa, pero con un discurso de transformación que lo diferencia del statu quo provincial.",
+            "frase_fuerte": "Hay momentos en los que una provincia decide si se resigna… o si se anima a construir su futuro."
+        }
+    ]
+}
