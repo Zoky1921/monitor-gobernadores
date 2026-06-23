@@ -1,0 +1,126 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "La jornada posterior al fin de semana largo encontró a los gobernadores en un compás de espera, sin embates directos contra la Casa Rosada. Predominaron los anuncios de gestión local y las señales de solvencia fiscal: Weretilneck adhirió al RIMI nacional, Figueroa celebró la mejora del rating provincial y Jalil ponderó exportaciones récord. En el peronismo, Quintela se enredó en una denuncia interna de bots, mientras Kicillof se limitó a una obra menor. El silencio de los pesos pesados (Pullaro, Llaryora) sugiere repliegue táctico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada careció de un choque frontal entre Nación y provincias. El gobierno nacional logró que varios mandatarios, incluso de origen peronista, mostraran su mejor perfil gestor sin apelar a la confrontación. Weretilneck, un histórico dialoguista, selló su adhesión al RIMI, un guiño directo a la política de incentivos de Milei. Figueroa, por su parte, exhibió el upgrade de la calificación crediticia de Neuquén como prueba de una administración virtuosa. Este clima de 'paz armada' contrasta con semanas anteriores de mayor tensión fiscal. ¿Es una tregua o un síntoma de que la estrategia de 'licuadora' nacional está dando resultados? Por ahora, las provincias evitan morder la mano que aún no las ahoga.\n\nActo 2 — Los Alineamientos: El bloque de gobernadores que suele operar como bisagra entre el oficialismo y la oposición se movió en modo cooperativo. Weretilneck (Río Negro) y Figueroa (Neuquén), ambos con gestión de recursos energéticos, apuestan a mostrar equilibro fiscal y atracción de inversiones. Jalil (Catamarca) y Zdero (Chaco) se sumaron a la narrativa de exportaciones exitosas. Nadie salió a reclamar coparticipación ni a denunciar ajustes. En la vereda de enfrente, los gobernadores del peronismo duro: Quintela se distrajo con una interna de bots y Kicillof se refugió en una obra local. La Casa Rosada puede leer esto como una victoria táctica: sin grandes rivales en escena, el centro del ring queda despejado.\n\nActo 3 — La Micro-política: La omisión de los grandes distritos (Buenos Aires, Santa Fe, Córdoba) en la conversación del día es un dato en sí mismo. Kicillof evitó cualquier referencia a la macroeconomía; su tuit sobre un colector cloacal en Bahía Blanca es un 'ruido blanco' que no altera la relación con Nación. En San Luis, Poggi se enredó con una jueza local. En Santa Cruz, Vidal Ser optó por un acto cultural. Son gestos de supervivencia: provincias periféricas que no quieren exponerse en un momento de indefinición nacional. La excepción es Quintela, que prefirió pelear adentro del peronismo antes que afuera. Esto descomprime la presión sobre la Rosada.\n\nActo 4 — Saldo Presidencial: El balance para el oficialismo es favorable. La ausencia de ataques coordinados y la proliferación de anuncios de gestión propia le dan aire a la Casa Rosada para seguir con su plan de ajuste sin sobresaltos. Sin embargo, el silencio de los gobernadores centrales no debe leerse como adhesión: puede ser un repliegue para cargar energía. La pregunta que queda flotando es cuánto durará esta calma. Si la licuadora fiscal sigue apretando, el coro de silencio podría transformarse en un grito unificado.",
+    "temas_calientes": [
+        {
+            "tema": "Adhesión provincial al RIMI como señal de cooperación con Nación",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Optimismo fiscal provincial autogestionado (rating, exportaciones, programas productivos)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@RaulJalil_ok",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Guerra interna en el peronismo por denuncia de bots",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK",
+        "texto": "RÍO NEGRO ADHIERE AL RIMI\n\nPromulgué la ley que adhiere a Río Negro al Régimen de Incentivo para Medianas Inversiones (RIMI), una herramienta que nos permite ofrecer mejores condiciones para quienes decidan apostar por nuestra provincia.\n\nQueremos que Río Negro sea el mejor lugar para invertir, generar empleo y desarrollar nuevas oportunidades. Porque cuando llegan inversiones, crecen las empresas, se mueve la economía y se generan más oportunidades para los rionegrinos.\n\nSabemos que falta. Pero estamos dando pasos concretos para que Río Negro sea cada vez más competitivo, atraiga más inversiones y genere más trabajo para nuestra gente.\n\nEste es el rumbo.",
+        "por_que_es_clave": "Marca la adhesión de una provincia peronista a un régimen impulsado por el gobierno de Milei, lo que sugiere un alineamiento pragmático o una necesidad fiscal que la Casa Rosada capitaliza políticamente.",
+        "pregunta_openarg": "¿La adhesión al RIMI es un gesto de alineamiento con la política de incentivos del gobierno nacional o una necesidad fiscal objetiva de la provincia?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obra cloacal en Bahía Blanca",
+                "Gestión local"
+            ],
+            "postura_politica": "Se refugia en una obra de infraestructura menor, evitando cualquier confrontación con Nación. Silencio calculado en un contexto donde podría haber atacado el ajuste.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Exportaciones récord",
+                "Crecimiento interanual 144.5%",
+                "Fortalecimiento productivo"
+            ],
+            "postura_politica": "Muestra resultados económicos positivos sin mencionar a Nación. Refuerza su imagen de gestor eficiente en un distrito minero, buscando atraer inversiones.",
+            "frase_fuerte": "Las exportaciones de Catamarca alcanzaron los US$71,8 millones en mayo, con un crecimiento interanual del 144,5%, muy por encima del promedio nacional y regional."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Exportación ganadera",
+                "PROGANO",
+                "Mercados internacionales"
+            ],
+            "postura_politica": "Resalta una iniciativa provincial de desarrollo productivo, sin roces con la Rosada. Busca posicionar a Chaco como polo exportador.",
+            "frase_fuerte": "Del campo chaqueño al mundo. 🌎 Alberto Córdoba es uno de los productores que, gracias al PROGANO, hoy exporta su producción a mercados internacionales."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Operativo policial",
+                "Seguridad",
+                "Reconocimiento a fuerzas"
+            ],
+            "postura_politica": "Se enfoca en un tema de agenda local no conflictivo. No hay mensaje hacia Nación. Refuerza su perfil de gestión en seguridad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Calificación crediticia Fitch",
+                "Obras en salud",
+                "Chalecos antibalas",
+                "Desarrollo de Vaca Muerta"
+            ],
+            "postura_politica": "Promueve una imagen de solvencia fiscal y buen manejo de los recursos energéticos. Sin ataques a Nación, capitaliza el boom de Vaca Muerta.",
+            "frase_fuerte": "Con mucha alegría, recibimos la noticia de que la agencia de calificación crediticia Fitch Ratings elevó, en tres niveles, la calificación internacional de largo plazo de nuestra Provincia del Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Adhesión al RIMI",
+                "Financiamiento de rutas",
+                "Abastecimiento hospitalario",
+                "Empleo local en Calcatreu"
+            ],
+            "postura_politica": "Alineamiento pragmático con la Casa Rosada al adherir a un régimen de incentivos nacional. Muestra cooperación y gestión, sin fisuras.",
+            "frase_fuerte": "Promulgué la ley que adhiere a Río Negro al Régimen de Incentivo para Medianas Inversiones (RIMI), una herramienta que nos permite ofrecer mejores condiciones para quienes decidan apostar por nuestra provincia."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Denuncia a jueza",
+                "Honorarios judiciales",
+                "Gestión judicial"
+            ],
+            "postura_politica": "Se enfrasca en un conflicto con el poder judicial local, sin repercusión federal. Desvía la atención de posibles tensiones con Nación.",
+            "frase_fuerte": "Instruí a la Fiscal de Estado... a que realice la denuncia formal... solicitando la remoción del cargo de la Jueza Titular... por desconocimiento inexcusable y grave del derecho."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Encuentro cultural",
+                "Ballet folclórico",
+                "Gestión cultural"
+            ],
+            "postura_politica": "Promueve una agenda cultural liviana, evitando temas sensibles como el financiamiento provincial. Busca mostrar cercanía con la comunidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Denuncia de bots",
+                "Operación política",
+                "Peronismo Debate"
+            ],
+            "postura_politica": "Se sumerge en la guerra interna del peronismo al difundir una denuncia de bots contra Tolosa Paz. Desvía el foco de la relación con Nación y muestra fragilidad interna.",
+            "frase_fuerte": "DIME CUÁNTO GASTÁS PARA ATACARME Y DIRÉ CUÁNTO MIEDO ME TENÉS."
+        }
+    ]
+}
