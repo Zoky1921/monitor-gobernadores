@@ -1,0 +1,318 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "Jornada marcada por la ofensiva de Kicillof contra el Gobierno nacional y el posicionamiento de gobernadores del Norte Grande que negocian financiamiento. Jorge Macri inaugura un frente de orden público contra sindicatos. Mientras tanto, la agenda de gestión provincial sin mención a Nación se consolida como un apagón político coordinado de varias provincias periféricas y centrales.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada pivotea entre dos polos. Por un lado, el gobernador Kicillof (Buenos Aires) redobla la apuesta contra la Casa Rosada: retuitea datos de CEPAL que muestran una caída del 73,1% de la IED en 2025, acusa a Milei de espantar inversiones y, a través de Katopodis, denuncia la negativa de avales para créditos internacionales. Es un mensaje de guerra fiscal y política. Por el otro, los gobernadores del Norte Grande (Jalil, Jaldo, Saénz) se reúnen con Caputo y Santilli para gestionar financiamiento, obras y recursos. La tensión entre confrontación y negociación define el día. \n\n Acto 2 — Los Alineamientos: En el bando opositor duro, Kicillof capitaliza el descontento bonaerense y se presenta como el gestor que compensa el repliegue nacional. Jorge Macri (CABA), en cambio, se alinea con el relato de orden de Milei al firmar un decreto que prohíbe paros en servicios esenciales, una movida que busca diferenciarse del caos sindical y posicionarse como gestor eficaz. Figueroa (Neuquén) y Weretilneck (Río Negro) exhiben resultados concretos de la monetización de Vaca Muerta: mejora de calificación crediticia y avance en GNL. Su silencio sobre Nación sugiere autonomía y confianza en su propio modelo. \n\n Acto 3 — La Micro-política: Claudio Poggi (San Luis) denuncia a una jueza por honorarios excesivos, mezclando gestión judicial con lucha contra la corrupción. Claudio Vidal (Santa Cruz) busca financiamiento para obras y enfrenta resistencias internas. En provincias periféricas (Chaco, Formosa, La Rioja, Misiones, Jujuy), la agenda se limita a efemérides y gestión local de bajo peso: apatía federal y refugio en lo protocolar. El análisis revela un escalonamiento de estrategias: confrontación, negociación, autonomía, silencio. \n\n Acto 4 — Saldo Presidencial: Para la Casa Rosada, el saldo es mixto: logra mantener negociaciones con un bloque de gobernadores dialoguistas del Norte Grande, pero pierde el control del conflicto bonaerense, que escala en intensidad. La ofensiva de Kicillof no es solo discursiva, sino que apunta a construir una gestión alternativa y a disputar recursos federales. El decreto de Macri le da oxígeno al relato de orden, pero podría generar fricciones gremiales. Mientras tanto, la indiferencia de varios gobernadores sobre la macroeconomía revela un desgaste del relato nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Reunión Caputo-Santilli con gobernadores del Norte Grande",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@OsvaldoJaldo",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Caída de la IED y responsabilidad de Milei",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Decreto antiparo en CABA y defensa del orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Avances en GNL y Vaca Muerta (Neuquén y Río Negro)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Denuncia contra jueza en San Luis",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @gkatopodis)",
+        "texto": "Presentamos el Plan de Gestión del Riesgo Climático frente a los informes de los organismos especializados que advierten sobre la llegada de El Niño y la posibilidad de eventos climáticos extremos en los próximos meses.\n\nFrente a esta situación, volvemos a plantear la necesidad de conformar una mesa de trabajo con el Gobierno nacional para coordinar una respuesta eficiente. Las emergencias climáticas requieren planificación y cooperación.\n\nLo que preocupa es que el Gobierno nacional no solo se queda con recursos que les corresponden a las y los bonaerenses, aun teniendo los programas y las herramientas para acompañar estas políticas, sino que además sigue negando los avales necesarios para acceder a créditos internacionales que la Provincia ya tiene disponibles para financiar muchas de estas obras. Mientras otorgó avales por 1.973 millones de dólares a 10 provincias, a la Provincia de Buenos Aires no le dio ninguno.\n\nEs decir, Milei no solo deja de invertir: también impide de forma arbitraria que la Provincia pueda ejecutar recursos destinados a proteger a nuestra gente.\n\nMientras tanto, nosotros tenemos la responsabilidad de coordinar acciones y poner todo el esfuerzo para dar la mejor respuesta del Estado provincial.\n\nLo hacemos con tres líneas de trabajo: monitoreo hidrometeorológico, medidas de prevención y un plan de obras para enfrentar el cambio climático, como la ampliación del Canal Maldonado en Bahía Blanca, las defensas costeras, las obras en Areco, las cuencas del Reconquista y La Matanza, el río Luján y el Plan Maestro del Río Salado, entre otras.",
+        "por_que_es_clave": "Es la jugada más agresiva del día: Kicillof usa un plan climático para denunciar a Milei por discriminación fiscal. La cifra de 1.973 millones de dólares en avales a otras provincias y cero a Buenos Aires es un torpedo directo al relato federal del presidente.",
+        "pregunta_openarg": "¿Milei está usando los avales para disciplinar a los gobernadores o es una decisión técnica? ¿Por qué Buenos Aires, la provincia más poblada, queda fuera del reparto?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Caída de IED",
+                "Plan climático",
+                "Coparticipación",
+                "Obras públicas",
+                "Reunión con UE",
+                "Gestión local"
+            ],
+            "postura_politica": "Kicillof consolida su relato de gobernador que gestiona a pesar de Milei. Cada tweet es un dardo: la caída de inversiones es culpa de Milei; el plan climático es una excusa para denunciar la negativa de avales; las obras locales son mostradas como logros propios. La reunión con la UE busca construir una agenda internacional paralela. Es la estrategia de mostrar capacidad de gestión mientras se victimiza fiscalmente.",
+            "frase_fuerte": "Milei no solo deja de invertir: también impide de forma arbitraria que la Provincia pueda ejecutar recursos destinados a proteger a nuestra gente."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Decreto antiparo",
+                "Orden público",
+                "Servicios esenciales"
+            ],
+            "postura_politica": "Macri se posiciona como el gestor del orden, alineado con el relato de 'ley y orden' de Milei pero con perfil propio. El decreto que prohíbe paros en subtes, colectivos y recolección de residuos es una jugada de alta tensión con los sindicatos, pero le permite capitalizar el hartazgo social. Cada RT refuerza la narrativa de que los porteños no pueden ser rehenes de los gremios.",
+            "frase_fuerte": "Apelada. Ni un paso atrás en la defensa de la propiedad privada. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Reunión con Caputo",
+                "Exportaciones",
+                "Norte Grande",
+                "Gestión local"
+            ],
+            "postura_politica": "Jalil se muestra dialoguista y negociador. La reunión con Caputo y Santilli junto a Jaldo y Saénz es una señal de que el Norte Grande busca financiamiento federal. Los tweets sobre exportaciones (crecimiento 144,5%) refuerzan su gestión eficiente. No hay crítica a Nación, solo gestión de recursos. Es el perfil del gobernador que negocia sin confrontar.",
+            "frase_fuerte": "Las exportaciones de Catamarca alcanzaron los US$71,8 millones en mayo, con un crecimiento interanual del 144,5%."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Promoción productiva",
+                "Efemérides"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Zdero se enfoca en programas productivos (PROGANO), obras y efemérides. El cruce con JuanKa Molina es la excepción: una respuesta agresiva a una crítica, pero sin mención a Nación. El resto es gestión de cabotaje pura.",
+            "frase_fuerte": "Justo hablas @juanKa_molina, vos que cobrabas sueldos y tenías docentes truchos. Pónganse colorado al menos."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Infraestructura",
+                "Seguridad",
+                "Deportes"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Torres se enfoca en obras de infraestructura deportiva, seguridad (detenciones, drones), y gestión hospitalaria. No hay mención a Nación, lo que en el contexto de reclamos por coparticipación es un silencio estratégico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Infraestructura",
+                "Educación",
+                "Efemérides"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Llaryora muestra una gestión intensa en obras viales, educación y salud, pero sin mención al Gobierno nacional. El tweet sobre la posible visita del Papa es el único con un atisbo de posicionamiento simbólico. La frase 'Argentina necesita menos grieta y más acuerdos' es una declaración de moderación.",
+            "frase_fuerte": "Argentina necesita menos grieta y más acuerdos, menos enfrentamientos y más trabajo conjunto."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Gestión local",
+                "Legislación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Valdés se limita a efemérides (Día del Padre, Día de la Bandera) y gestión legislativa provincial. Sin menciones a Nación. Refugio en la agenda protocolar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Pacto fiscal",
+                "Alivio impositivo",
+                "Gestión local",
+                "Infraestructura",
+                "Seguridad"
+            ],
+            "postura_politica": "Frigerio se posiciona como el gobernador que busca equilibrio fiscal y diálogo con Nación. El anuncio de alivio impositivo para pequeños comercios y el tweet sobre el pacto fiscal muestran una agenda de responsabilidad fiscal. La reunión con Caputo y Santilli es clave. Se diferencia del relato de ajuste nacional al mostrar que su provincia ya eliminó tasas y redujo cargos políticos.",
+            "frase_fuerte": "En Entre Ríos pasamos del déficit al equilibrio, eliminamos más de 100 tasas provinciales, redujimos a la mitad los cargos políticos y seguimos bajando impuestos sin trasladar el costo a quienes producen y generan trabajo."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Gestión local",
+                "Norte Grande",
+                "Hidrovía"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Insfrán se enfoca en efemérides y gestión local. La mención a la llegada de mineral de hierro por la hidrovía es un dato de gestión, pero sin crítica a Nación. La frase 'Patria y nunca colonia' es un ladrillo ideológico pero sin efecto federal concreto.",
+            "frase_fuerte": "Honramos su legado y reafirmamos los valores de unidad y compromiso para defender los intereses de la Argentina, que será siempre Patria y nunca colonia de ninguna potencia extranjera."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Minería",
+                "Turismo",
+                "Efemérides"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Sadir se enfoca en la promoción turística, la minería y eventos locales. La participación en el foro del Banco Mundial sobre minería es un gesto de proyección internacional. Sin menciones a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Gestión local",
+                "Efemérides",
+                "Crítica a Nación"
+            ],
+            "postura_politica": "Ziliotto es el contrapunto de Kicillof en tono: crítico pero sin la virulencia. Los tweets 'A pesar de todo, en La Pampa...' y 'Mientras tanto en La Pampa...' son dagas al modelo nacional: muestran gestión propia mientras denuncian el ahogo económico. La defensa del federalismo y el reclamo de un nuevo pacto fiscal son posicionamientos de larga data.",
+            "frase_fuerte": "A pesar del ahogo económico nacional y del silencio cómplice local, seguiremos cerca de los problemas de la gente, lejos de relato de los dirigentes."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Gestión local",
+                "Minería",
+                "Conflicto limítrofe"
+            ],
+            "postura_politica": "Quintela mezcla agenda local (PreViaje riojano, emprendedurismo) con un conflicto limítrofe con San Juan que se intensifica. El tweet del 16 de junio sobre reunión con intendente de Felipe Varela y la defensa de los límites es la punta del iceberg. La minería es un eje central. No hay mención directa a Nación, pero el conflicto con San Juan lo posiciona en una disputa territorial.",
+            "frase_fuerte": "También conversamos sobre la situación limítrofe con la provincia de San Juan, defendiendo siempre los intereses de las riojanas y los riojanos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Seguridad",
+                "Vivienda",
+                "Infraestructura",
+                "Minería"
+            ],
+            "postura_politica": "Agenda local con perfil técnico. Cornejo muestra gestión en seguridad (operativo policial), vivienda e infraestructura. La Cumbre de Seguridad Aérea y la recuperación de IMPSA son gestos de proyección. No hay mención a Nación, pero el tweet sobre la denuncia de una estructura digital para desinformar es una jugada defensiva.",
+            "frase_fuerte": "La mentira organizada y la desinformación deliberada, no."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Gestión local",
+                "Cooperativismo",
+                "Cultura"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Passalacqua se enfoca en efemérides, cooperativismo y gestión cultural. La nueva ruta aérea Posadas-Buenos Aires es un dato de conectividad. Sin menciones a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "GNL",
+                "Calificación crediticia",
+                "Seguridad",
+                "Salud",
+                "Infraestructura"
+            ],
+            "postura_politica": "Figueroa capitaliza el éxito de Vaca Muerta. La mejora de calificación crediticia y los avances en GNL son mostrados como logros de su gestión. El discurso del sábado 20 sobre 'mil obras en marcha en octubre' y la monetización del subsuelo refuerza su autonomía. No hay crítica a Nación, solo gestión de la riqueza provincial.",
+            "frase_fuerte": "La monetización del subsuelo viene a ser como una cosecha que hay que colocar, porque si no se pierde. Y hay que reinvertirla bien: en educación, salud, seguridad, infraestructura y viviendas, como lo estamos haciendo."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "Infraestructura",
+                "Salud",
+                "Empleo",
+                "Gestión local"
+            ],
+            "postura_politica": "Weretilneck se posiciona como el gestor que articula la riqueza energética con desarrollo local. El anuncio de regularización de 4.200 trabajadores públicos y los avances en rutas y gas muestran gestión. La frase 'Sabemos que falta. Pero este es el rumbo' es un mantra de confianza. No hay conflicto con Nación, solo la búsqueda de financiamiento internacional.",
+            "frase_fuerte": "Sabemos que falta. Pero estamos construyendo las condiciones para que cada vez más proveedores rionegrinos sean parte de una de las oportunidades de desarrollo más importantes de la Argentina. Este es el rumbo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Gestión local",
+                "Infraestructura",
+                "Reunión con Caputo"
+            ],
+            "postura_politica": "Saénz combina la agenda de efemérides (Güemes, Día de la Bandera) con gestión de infraestructura (autopista del Valle de Lerma, paso de Sico) y reclamos a Nación (planteó a Caputo el cumplimiento de compromisos). Es el gobernador que reivindica el legado de Güemes mientras negocia con Nación.",
+            "frase_fuerte": "Al ministro de Economía de la Nación, @LuisCaputoAR, le planteé nuevamente el cumplimiento de los compromisos asumidos con los salteños y la demora en los pagos a las empresas para que continúen obras estratégicas para el desarrollo de Salta."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Minería",
+                "Conflicto limítrofe",
+                "Infraestructura",
+                "Gestión local"
+            ],
+            "postura_politica": "Orrego se enfoca en la minería como motor de desarrollo (aprobación RIGI para Vicuña, Expo San Juan Minera). El conflicto limítrofe con La Rioja es el tema más caliente: defiende la jurisdicción sanjuanina con la ley en la mano. No hay crítica a Nación, sino defensa de los recursos provinciales.",
+            "frase_fuerte": "No vamos a permitir que se ponga en duda lo nuestro: el territorio, los recursos, el futuro y símbolos como Ischigualasto."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Denuncia judicial",
+                "Gestión local",
+                "Efemérides",
+                "Seguridad"
+            ],
+            "postura_politica": "Poggi marca agenda propia con la denuncia contra la jueza por honorarios desmedidos. Es una jugada de lucha contra la corrupción judicial que lo posiciona como gestor transparente. El resto son gestiones de gira local. No hay mención a Nación.",
+            "frase_fuerte": "Cuando un funcionario público, en este caso una jueza, atenta contra el bienestar de todos los sanluiseños, asaltando los fondos públicos con acciones que ponen en riesgo el patrimonio de todos los contribuyentes y la normal prestación de los servicios del Estado, debe ser denunciado y enjuiciado dentro del estado de derecho."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Financiamiento",
+                "Obra pública",
+                "Gestión local",
+                "Conflicto interno"
+            ],
+            "postura_politica": "Vidal busca financiamiento para obras (convenio con Martínez) y denuncia la falta de apoyo de sectores locales. El reclamo de herramientas financieras y la crítica a intendentes opositores muestran un gobernador en disputa constante. No hay mención a Nación más que la búsqueda de recursos.",
+            "frase_fuerte": "No se puede reclamar ayuda y negar los instrumentos para obtenerla, más cuando estos mismos actores, pidieron, acompañaron o votaron afirmativamente estas mismas herramientas cuando el gobierno era otro."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Eventos deportivos",
+                "Gestión local",
+                "Infraestructura",
+                "Seguridad"
+            ],
+            "postura_politica": "Pullaro capitaliza el éxito de Rosario como sede de eventos masivos (Día de la Bandera, TC). El tweet 'Rosario está dando una vuelta de página que parecía imposible' es un mensaje de recuperación de la seguridad. La inauguración de viviendas y escuelas muestra gestión. No hay mención a Nación, solo autonomía local.",
+            "frase_fuerte": "Rosario cambió y hoy camina con más esperanza que miedo. Dijimos que íbamos a ir al frente y lo hicimos: estamos viviendo la etapa de las grandes obras, el turismo, el deporte y la cultura."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Gestión local",
+                "Norte Grande",
+                "Educación",
+                "Tecnología"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Suárez se enfoca en efemérides, gestión educativa y lanzamiento de una herramienta digital (ServicioSGO). La participación en el Foro de Economías Regionales es un gesto de posicionamiento, pero sin conflicto con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Energía",
+                "Reforma constitucional",
+                "Salud"
+            ],
+            "postura_politica": "Melella mezcla gestión local (usina termoeléctrica, centros infantiles) con la reforma constitucional que impulsa. El tweet 'Hay momentos en los que una provincia decide si se resigna… o si se anima a construir su futuro' es un llamado a la transformación. No hay mención a Nación.",
+            "frase_fuerte": "Hay momentos en los que una provincia decide si se resigna… o si se anima a construir su futuro."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Reunión con Caputo",
+                "Norte Grande",
+                "Gestión local",
+                "Justicia",
+                "Educación"
+            ],
+            "postura_politica": "Jaldo es el gobernador dialoguista por excelencia: la reunión con Caputo y Santilli es el centro de su agenda. La gestión local (escuelas, justicia, salud) es mostrada como resultado del diálogo institucional. La frase 'más allá de las diferencias, creemos en el diálogo' es su sello.",
+            "frase_fuerte": "Más allá de las diferencias, creemos en el diálogo, en el consenso y en la gestión permanente como herramientas para dar respuestas concretas a nuestra gente."
+        }
+    ]
+}
