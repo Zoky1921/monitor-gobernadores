@@ -1,0 +1,377 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada de doble agenda: mientras el Norte Grande negocia con Caputo y Santilli financiamiento y obras, Kicillof y Ziliotto redoblan críticas al ajuste nacional. La disputa fiscal y la gestión de obras propias marcan la pauta, con CABA y Córdoba enfocados en seguridad y orden público.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal domina la jornada. La reunión de Jalil, Sáenz y Jaldo con Caputo y Santilli revela la estrategia del Norte Grande: negociar recursos a cambio de gobernabilidad, mientras Kicillof denuncia el ahogo financiero de Buenos Aires y Ziliotto reivindica la obra pública propia como resistencia al ajuste. El silencio de otros gobernadores sobre la macroeconomía es un repliegue táctico.\n\nActo 2 — Los Alineamientos: Se consolidan dos bloques: los que negocian con Nación (Norte Grande, con Jalil, Sáenz, Jaldo a la cabeza) y los que confrontan abiertamente (Kicillof, Ziliotto). En el medio, gobernadores como Frigerio y Llaryora mantienen un perfil técnico, buscando alivio fiscal y obras sin romper el diálogo. Jorge Macri se posiciona como el brazo ejecutor del orden, en sintonía con el discurso de seguridad nacional.\n\nActo 3 — La Micro-política: La mayoría de los gobernadores se refugia en la gestión local: obras de pavimento, viviendas, salud y educación. Es un apagón político coordinado para evitar posicionarse sobre el ajuste nacional. Sin embargo, cada obra es un mensaje: 'yo gestiono lo que Nación abandona'. En provincias periféricas como Formosa o Chaco, la agenda es puramente protocolar, sin impacto federal.\n\nActo 4 — Saldo Presidencial: La Casa Rosada logra mantener abiertos los canales de diálogo con el Norte Grande, pero la conflictividad fiscal con Buenos Aires y La Pampa no cede. El riesgo de una escalada en el reclamo de coparticipación sigue latente. La estrategia de 'orden y ley' de CABA y Córdoba refuerza el relato de gestión, pero no resuelve el problema de fondo: la asfixia financiera de las provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Negociación fiscal del Norte Grande con Nación",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Críticas al ajuste nacional y defensa de obra pública propia",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público: medidas contra paros y narcotráfico",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Minería y recursos estratégicos: litio, cobre y GNL",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@DrMarceloOrrego",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Obra pública provincial como respuesta al repliegue nacional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@frigeriorogelio",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Las 242 escrituras que entregamos en Coronel Rosales representan un paso muy importante para las familias, que desde hoy cuentan con un documento que les garantiza la tranquilidad de dejarles un legado a las próximas generaciones.\nAunque nos digan que la única libertad que importa es la del mercado, vamos a seguir defendiendo la inclusión y la justicia social.",
+        "por_que_es_clave": "Kicillof utiliza un acto de gestión para lanzar una crítica directa al modelo económico de Milei, marcando territorio ideológico y posicionándose como defensor de la justicia social frente al 'mercado'. Es un dardo directo a la Casa Rosada en un tema sensible como la vivienda.",
+        "pregunta_openarg": "¿Puede la provincia de Buenos Aires sostener su política de inclusión social sin los recursos que reclama a Nación, o es solo un gesto simbólico?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "escrituras",
+                "seguridad",
+                "vivienda",
+                "crítica al mercado",
+                "inversión extranjera",
+                "reunión con UE"
+            ],
+            "postura_politica": "Marca autonomía y confrontación directa con Nación. Cada obra es una acusación implícita: 'yo gestiono mientras Nación abandona'. La crítica al mercado y la defensa de la justicia social son un posicionamiento ideológico claro.",
+            "frase_fuerte": "Aunque nos digan que la única libertad que importa es la del mercado, vamos a seguir defendiendo la inclusión y la justicia social."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "prohibición de construir en Villa 31",
+                "apelación",
+                "decreto contra paros",
+                "seguridad"
+            ],
+            "postura_politica": "Se posiciona como el garante del orden y la propiedad privada, en sintonía con el discurso de seguridad nacional. La medida contra paros sindicales es un guiño al electorado de derecha y una muestra de gestión ejecutiva.",
+            "frase_fuerte": "Por si a alguno no le quedó claro, está totalmente prohibido construir en la Villa 31. No vamos a permitir que esto siga creciendo. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "reunión con Caputo y Santilli",
+                "exportaciones",
+                "Norte Grande",
+                "minería"
+            ],
+            "postura_politica": "Negociador pragmático. Busca financiamiento y obras para el Norte Grande, evitando confrontación. Las exportaciones récord son su carta de presentación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "pavimentación",
+                "acueducto",
+                "plan director de desagües",
+                "producción"
+            ],
+            "postura_politica": "Agenda local de obras sin impacto federal. Se limita a mostrar gestión, evitando posicionarse sobre Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "plan Galina",
+                "deporte",
+                "seguridad",
+                "vivienda",
+                "gas"
+            ],
+            "postura_politica": "Gestión local con énfasis en obras y seguridad. Sin menciones a Nación, lo que sugiere un repliegue estratégico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "plaza",
+                "salud",
+                "ley antibúnker",
+                "infraestructura vial",
+                "Día de la Bandera"
+            ],
+            "postura_politica": "Perfil técnico y de gestión. La ley antibúnker es un gesto de mano dura contra el narcotráfico, en línea con la agenda de seguridad. Evita confrontar con Nación.",
+            "frase_fuerte": "CÓRDOBA, TERRITORIO HOSTIL PARA EL NARCOTRÁFICO. IMPULSAMOS LA LEY ANTIBÚNKER"
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "alivio impositivo",
+                "reunión con Caputo",
+                "RINI",
+                "rutas",
+                "seguridad"
+            ],
+            "postura_politica": "Gobernador dialoguista que busca beneficios fiscales y obras. La reunión con Caputo y el pacto fiscal son su prioridad. Se muestra como gestor eficiente.",
+            "frase_fuerte": "Estamos en condiciones de escribir el próximo capítulo del Pacto Fiscal"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "aniversarios",
+                "Día de la Bandera",
+                "mineral de hierro",
+                "Norte Grande"
+            ],
+            "postura_politica": "Agenda protocolar y de gestión local. La llegada de mineral de hierro es un hito industrial, pero sin confrontación política.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Inti Raymi",
+                "Día de la Bandera",
+                "minería",
+                "turismo",
+                "mediación"
+            ],
+            "postura_politica": "Gobernador de perfil bajo, enfocado en turismo y minería. La participación en foros internacionales muestra su apuesta por la inversión externa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "obra pública",
+                "viviendas",
+                "crítica a Nación",
+                "alivio fiscal",
+                "Malvinas"
+            ],
+            "postura_politica": "Crítico del ajuste nacional. Cada obra es una reivindicación de la autonomía provincial y una denuncia del ahogo financiero. Se posiciona como defensor del federalismo.",
+            "frase_fuerte": "A pesar de todo, en La Pampa, provincia de la República Argentina, seguimos haciendo obra pública."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "laboratorio informático",
+                "Cristo del Portezuelo",
+                "seguridad",
+                "promesa a la bandera",
+                "emprendedurismo"
+            ],
+            "postura_politica": "Gestión local con énfasis en educación y patrimonio. Sin menciones a Nación, lo que sugiere un repliegue táctico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "terminal de ómnibus",
+                "seguridad",
+                "viviendas",
+                "cumbre de seguridad aérea",
+                "Día de la Bandera"
+            ],
+            "postura_politica": "Perfil técnico y de gestión. La transformación de la terminal es un ejemplo de recuperación urbana. Evita confrontación con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "deporte",
+                "reunión con intendentes",
+                "convenio con fundaciones",
+                "Día de la Bandera",
+                "nueva ruta aérea"
+            ],
+            "postura_politica": "Agenda local y de gestión. La nueva ruta aérea es un logro concreto. Sin posicionamiento federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "puente Anaya",
+                "EPAS",
+                "turismo gastronómico",
+                "chalecos policiales",
+                "calificación crediticia",
+                "GNL"
+            ],
+            "postura_politica": "Gobernador que destaca la recuperación financiera y las inversiones en Vaca Muerta. La mejora en la calificación crediticia es un logro que presenta como resultado de su gestión.",
+            "frase_fuerte": "LO ESTAMOS LOGRANDO ENTRE TODOS"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "salud",
+                "himno provincial",
+                "parques industriales",
+                "gas",
+                "fake news",
+                "rutas",
+                "RIMI",
+                "sueldos",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Gobernador que defiende su gestión ante operaciones mediáticas. La adhesión al RIMI y el financiamiento para rutas muestran su pragmatismo. La defensa ante fake news es un gesto de fortaleza.",
+            "frase_fuerte": "FAKE NEWS Y OPERACIONES: NO VAN A FRENAR A RÍO NEGRO"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Paseo de la Ex Palúdica",
+                "promesa a la bandera",
+                "Güemes",
+                "becas",
+                "Paso de Sico",
+                "Copa Argentina",
+                "ruta nacional"
+            ],
+            "postura_politica": "Gobernador con fuerte perfil simbólico (Güemes) y de gestión. La reapertura del Paso de Sico es un logro estratégico. Se muestra como defensor de los intereses salteños ante Nación.",
+            "frase_fuerte": "Hechos, no palabras."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "conflicto limítrofe con La Rioja",
+                "reunión con Santilli",
+                "RIGI para Vicuña",
+                "puentes mineros",
+                "parque solar",
+                "Expo San Juan Minera"
+            ],
+            "postura_politica": "Gobernador que defiende la jurisdicción sanjuanina y promueve la minería como política de Estado. La disputa con La Rioja es un tema central. Se alinea con Nación en materia minera.",
+            "frase_fuerte": "No vamos a permitir que se ponga en duda lo nuestro: el territorio, los recursos, el futuro y símbolos como Ischigualasto."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "donación de terreno",
+                "huertas escolares",
+                "plaza",
+                "licitaciones de salud",
+                "fábricas",
+                "denuncia contra jueza",
+                "viviendas",
+                "energía"
+            ],
+            "postura_politica": "Agenda local intensa, con énfasis en gestión y obras. La denuncia contra una jueza es un gesto de firmeza institucional. Sin posicionamiento federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "hospital",
+                "convenio con municipio",
+                "ballet",
+                "Mundial",
+                "Día del Padre",
+                "Día de la Bandera",
+                "polideportivo",
+                "financiamiento",
+                "gas",
+                "medicamentos",
+                "memoria mineros",
+                "restitución de procurador",
+                "seguridad patagónica"
+            ],
+            "postura_politica": "Gobernador que busca financiamiento para obras y defiende su gestión. La restitución del procurador es un hito institucional. Se muestra como gestor en un contexto difícil.",
+            "frase_fuerte": "Santa Cruz Puede..."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "ahorro fiscal",
+                "Mundial",
+                "TC en Rafaela",
+                "Rosario",
+                "Día del Padre",
+                "Día de la Bandera",
+                "viviendas",
+                "escuela en Hughes",
+                "Monumento a la Bandera",
+                "Malvinas",
+                "Estanislao López"
+            ],
+            "postura_politica": "Gobernador que combina gestión con fuerte simbolismo. La recuperación del Monumento a la Bandera y la baja de gastos políticos son sus banderas. Se posiciona como gestor eficiente y federalista.",
+            "frase_fuerte": "En Santa Fe tomamos una decisión desde el primer día: achicar los gastos políticos para poner los recursos donde realmente hacen falta."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "obras en Pozo Hondo",
+                "aniversario UCSE",
+                "Día del Padre",
+                "Día de la Bandera",
+                "reserva ecológica",
+                "Güemes",
+                "foro de economías regionales",
+                "herramienta digital ServicioSGO",
+                "escuela",
+                "viviendas",
+                "pago de sueldos",
+                "encuentro con jóvenes",
+                "industrias culturales",
+                "Norte Grande",
+                "comisaría",
+                "embajador de China"
+            ],
+            "postura_politica": "Gobernador con agenda muy activa, combinando obras, educación y gestión. La participación en el Norte Grande y el foro de economías regionales muestran su perfil federal. Sin confrontación directa con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "centro infantil",
+                "Taty Almeida",
+                "usina termoeléctrica",
+                "reforma constitucional",
+                "PROMEFU",
+                "MiPyMEs",
+                "relaciones con China"
+            ],
+            "postura_politica": "Gobernador que impulsa una reforma constitucional y busca inversiones. La reforma es su tema central, buscando modernizar la provincia. Se muestra como gestor transformador.",
+            "frase_fuerte": "Hay momentos en los que una provincia decide si se resigna… o si se anima a construir su futuro."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "reunión con Caputo y Santilli",
+                "promesa a la bandera",
+                "reunión con dirigentes del PJ",
+                "Mundial",
+                "aniversario del Instituto de Policía",
+                "club deportivo",
+                "oficina jurídica",
+                "centro judicial",
+                "jura de magistrados",
+                "escuela de arte",
+                "estudiantes",
+                "programa Palpitar",
+                "silla de ruedas deportiva",
+                "Día del Periodista",
+                "gabinete",
+                "Indio Solari",
+                "Norte Grande"
+            ],
+            "postura_politica": "Gobernador con fuerte actividad institucional y de gestión. La reunión con Caputo y Santilli es clave para obtener recursos. Se muestra como articulador del peronismo tucumano.",
+            "frase_fuerte": null
+        }
+    ]
+}
