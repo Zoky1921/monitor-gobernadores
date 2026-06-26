@@ -1,0 +1,333 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada de tensión fiscal y territorial. El Norte Grande negocia con Nación (Jalil, Jaldo, Sáenz) mientras Catamarca exhibe récord exportador. Kicillof redobla la ofensiva contra el ajuste nacional. Weretilneck y Figueroa celebran el GNL como hito norpatagónico. Orrego defiende jurisdicción sanjuanina ante proyecto riojano. La periferia se refugia en obras locales.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La disputa por los recursos fiscales y la autonomía provincial domina la jornada. Kicillof denuncia la 'destrucción de capacidades productivas' y la pérdida de 300 mil empleos, en una escalada retórica que busca jaquear a la Casa Rosada desde el principal distrito opositor. En paralelo, Weretilneck promulga el canon por uso de agua para energía, una ofensiva legal para captar rentas que hasta ahora fluían sin compensación hacia Nación. \n\nActo 2 — Los Alineamientos: El Norte Grande se alinea en bloque para negociar con Caputo y Santilli. Jalil, Jaldo y Sáenz exponen una diplomacia fiscal pragmática: piden fondos y obras, pero evitan la ruptura. La dupla Figueroa-Weretilneck se consolida como polo energético autónomo, impulsando el GNL como proyecto regional. Orrego se planta contra La Rioja, marcando una grieta interna en el peronismo federal. \n\nActo 3 — La Micro-política: Los gobernadores periféricos se refugian en la agenda local para sobrevivir al ahogo financiero. Zdero inaugura obras de pavimento y desagües y ataca a los 'kukas', mostrando gestión y confrontación ideológica. Llaryora entrega netbooks y promueve la 'Ley Antibúnker', reforzando su perfil de gestión modernizadora. Passalacqua anuncia sueldos y se enfoca en primera infancia y cultura. \n\nActo 4 — Saldo Presidencial: La Casa Rosada enfrenta un tablero fragmentado. La negociación con el Norte Grande mantiene viva la ficción de un diálogo federal, mientras provincias centrales (Buenos Aires, CABA, Córdoba) operan con total autonomía. El proyecto de GNL en la Norpatagonia le da al Gobierno un argumento de inversión, pero la ofensiva de Kicillof y la disputa territorial entre San Juan y La Rioja erosionan el relato de 'orden y gobernabilidad'.",
+    "temas_calientes": [
+        {
+            "tema": "GNL y federalismo energético: Neuquén y Río Negro celebran la aprobación del acuerdo con YPF para exportar gas licuado, marcando un hito para la región",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Tensión territorial: el proyecto riojano de reclamo de límites a San Juan genera respuesta firme de Orrego, que defiende la jurisdicción con base en la ley vigente",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Negociación fiscal Norte Grande: Jalil, Jaldo y Sáenz se reúnen con Caputo y Santilli para gestionar financiamiento y obras prioritarias",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@OsvaldoJaldo",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Ofensiva Kicillof contra el ajuste: el gobernador bonaerense denuncia destrucción de empleo y empresas, y reivindica la inversión extranjera como herramienta de desarrollo",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Gestión de riesgo hídrico: Pullaro, Zdero y Suárez firman un convenio para el Plan Director de los Bajos Submeridionales, mientras Córdoba impulsa su Ley Antibúnker",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@LeandroZdero",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Estamos viviendo una de las etapas de destrucción de capacidades productivas más profunda de la historia. Se perdieron más de 300 mil puestos de trabajos formales, y si sumamos la informalidad, cerca de medio millón; se aniquilaron 26 mil empresas. Es la muerte de las pymes.",
+        "por_que_es_clave": "Kicillof marca la cancha electoral: no solo denuncia el ajuste, sino que cuantifica el daño en números que golpean a la clase media y al sector productivo. Es un posicionamiento presidencial encubierto.",
+        "pregunta_openarg": "¿Es viable la recuperación del empleo privado sin una reversión del ajuste fiscal, o Kicillof apuesta a la hipercrítica para capitalizar el descontento?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "destrucción productiva",
+                "inversiones",
+                "seguridad",
+                "vivienda",
+                "obra pública"
+            ],
+            "postura_politica": "Campaña presidencial permanente. Denuncia el ajuste, reivindica la inversión extranjera (Dreyfus), y muestra gestión provincial como alternativa al 'modelo Milei'. El mensaje es: yo gestiono, ellos destruyen.",
+            "frase_fuerte": "Es la muerte de las pymes."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "estacionamientos truchos",
+                "Villa 31",
+                "paros sindicales",
+                "terremotos en Venezuela"
+            ],
+            "postura_politica": "Perfil PRO duro: orden, propiedad privada, restricción a la protesta sindical. Muestra gestión y autoridad, diferenciándose del caos nacional. El gesto humanitario con Venezuela es la única excepción a su agenda de seguridad.",
+            "frase_fuerte": "Se terminó la avivada de apropiarse de la calle con estacionamientos truchos."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "exportaciones",
+                "Norte Grande",
+                "minería",
+                "reunión con Caputo"
+            ],
+            "postura_politica": "Perfil tecnocrático y pro-inversión. Exhibe récords exportadores (+144,5%) y negocia con Nación sin estridencias. Su silencio sobre la puja distributiva es deliberado: prefiere mostrar resultados a confrontar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "obra pública",
+                "energía rural",
+                "ataque a kukas",
+                "seguridad"
+            ],
+            "postura_politica": "Doble mensaje: por un lado, inaugura obras y muestra gestión con 'Mejor Escuela' y pavimento; por otro, arremete contra el kirchnerismo chaqueño con dureza (\"kukas hipócritas\"). Es un gobernador de confrontación ideológica que busca consolidar su liderazgo local.",
+            "frase_fuerte": "Los kukas hipócritas que sometieron a niños y poblaciones originarias avalaban esto, eran parte de este entramado."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "reconstrucción por incendios",
+                "agua potable",
+                "YPF",
+                "salud",
+                "primera infancia"
+            ],
+            "postura_politica": "Agenda de gestión local intensa, con foco en obras de infraestructura básica y recuperación de servicios. Evita pronunciarse sobre Nación, pero su insistencia en 'la palabra vale' y 'hacer lo que nadie hizo' es una crítica implícita al abandono histórico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "tecnología educativa",
+                "salud pública",
+                "Ley Antibúnker",
+                "transparencia fiscal",
+                "infraestructura vial"
+            ],
+            "postura_politica": "Perfil de gestión modernizadora: apuesta a la economía del conocimiento, la eficiencia del Estado y la seguridad. Su silencio sobre la macroeconomía nacional es un gesto de autonomía: Córdoba se gestiona sola, sin depender de Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "UCR",
+                "Día del Padre",
+                "Bandera",
+                "despedida",
+                "legislación provincial"
+            ],
+            "postura_politica": "Agenda protocolar sin impacto federal. Se limita a efemérides partidarias y saludos institucionales. Es un gobernador de bajo perfil que evita cualquier roce con la Casa Rosada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "alivio impositivo",
+                "RINI",
+                "pacto fiscal",
+                "reunión con Santilli",
+                "CAF"
+            ],
+            "postura_politica": "Perfil reformista y dialoguista. Propicia reuniones con Nación (Santilli, Caputo) y muestra resultados del RINI. Su postura es de cooperación crítica: busca recursos y alivio fiscal, pero sin romper el vínculo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "aniversarios",
+                "víctimas viales",
+                "Día de la Bandera",
+                "mineral de hierro",
+                "Norte Grande"
+            ],
+            "postura_politica": "Agenda de gestión local y ceremonial. Destaca la llegada de mineral de hierro para su planta biosiderúrgica, un hito productivo. Evita posicionamientos sobre Nación, salvo la mención a la paralización de obras por parte del gobierno nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Registro de Iglesias",
+                "Inti Raymi",
+                "Día de la Bandera",
+                "minería",
+                "turismo"
+            ],
+            "postura_politica": "Agenda diversa con foco en turismo, cultura y minería. Su participación en el foro del Banco Mundial en Chile muestra su apuesta por la atracción de inversiones. Bajo perfil político, evita confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "obra pública con recursos propios",
+                "viviendas",
+                "Taty Almeida",
+                "Malvinas",
+                "alivio fiscal"
+            ],
+            "postura_politica": "Perfil peronista de gestión eficiente y reivindicación federal. Critica el 'ahogo económico nacional' y el 'silencio cómplice local'. Se posiciona como defensor del Estado presente y la soberanía provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "construcción",
+                "deportes",
+                "tecnología educativa",
+                "minería",
+                "patrimonio"
+            ],
+            "postura_politica": "Perfil de gestión con foco en obras, deportes y educación. Su reunión con la Cámara de la Construcción y el avance de proyectos mineros muestran pragmatismo. No hay menciones a su conflicto limítrofe con San Juan en los tweets del período.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "energía",
+                "viviendas",
+                "infraestructura eléctrica",
+                "Policía",
+                "Cumbre de Seguridad Aérea"
+            ],
+            "postura_politica": "Perfil de gestión técnica y orden público. Anuncia la nueva estación transformadora y entrega de viviendas. Su reclamo contra 'mentira organizada' muestra que enfrenta una operación mediática. Sin embargo, evita pronunciarse sobre Nación en los tweets recientes.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "cultura",
+                "primera infancia",
+                "sueldos",
+                "gestión municipal",
+                "nueva ruta aérea"
+            ],
+            "postura_politica": "Agenda amable centrada en gestión social y cultural. El anuncio de la nueva ruta aérea Posadas-Buenos Aires con JetSMART es un logro de conectividad. Evita cualquier confrontación con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "GNL",
+                "obra pública",
+                "seguridad",
+                "calificación crediticia",
+                "rendición de cuentas"
+            ],
+            "postura_politica": "Celebra la aprobación del acuerdo con YPF para GNL como un hito histórico. Se posiciona como gestor eficiente y planificador, destacando la mejora en la calificación crediticia de la provincia. Su agenda es de crecimiento energético con autonomía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "GNL",
+                "canon por uso de agua",
+                "salud",
+                "obra pública",
+                "RIMI"
+            ],
+            "postura_politica": "Apuesta fuerte al GNL y a la defensa de los recursos provinciales (canon hídrico). Denuncia operaciones mediáticas en su contra y reivindica la gestión con hechos. Actúa como socio estratégico de Neuquén para el desarrollo norpatagónico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "RIGI para Diablillos",
+                "Día de la Bandera",
+                "Güemes",
+                "educación",
+                "infraestructura"
+            ],
+            "postura_politica": "Combina la reivindicación histórica de Güemes con la gestión de inversiones mineras. El proyecto Diablillos en el RIGI es un guiño a la política minera nacional. Su perfil es de federalismo militante y desarrollo productivo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "conflicto territorial con La Rioja",
+                "RIGI Vicuña",
+                "infraestructura energética",
+                "expo minera"
+            ],
+            "postura_politica": "Firmeza total en defensa de los límites provinciales frente al proyecto de ley riojano. Afirma que 'la jurisdicción de San Juan no está en discusión' y convoca a la unidad de las fuerzas políticas. Paralelamente, impulsa la minería como política de Estado.",
+            "frase_fuerte": "No vamos a permitir que se ponga en duda lo nuestro: el territorio, los recursos, el futuro y símbolos como Ischigualasto."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Malvinas",
+                "educación",
+                "salud pública",
+                "Poder Judicial",
+                "Venezuela"
+            ],
+            "postura_politica": "Perfil de gestión local muy activo: inauguraciones, licitaciones, programas educativos. Su denuncia contra una jueza (honorarios desmedidos) muestra una faceta de lucha contra la 'industria del juicio'. Bajo perfil nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "CGT",
+                "restitución de Procurador",
+                "salud",
+                "obra pública",
+                "financiamiento"
+            ],
+            "postura_politica": "Recibe a Daer (CGT) en un gesto de alianza con el sindicalismo. Reivindica la restitución del procurador Sosa como acto de justicia institucional. Su insistencia en obtener financiamiento para obras muestra la fragilidad fiscal de Santa Cruz. Busca apoyo para un proyecto de ley provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "riesgo hídrico",
+                "austeridad fiscal",
+                "Rosario como polo turístico",
+                "viviendas",
+                "Estanislao López"
+            ],
+            "postura_politica": "Perfil de gestión eficiente y liderazgo regional. Coordina con Chaco y Santiago del Estero para el plan hídrico, mostrando capacidad de articulación. La inauguración del Monumento a la Bandera renovado es un símbolo de recuperación de Rosario. Se diferencia del ajuste nacional con su propia política de austeridad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "riesgo hídrico",
+                "obra pública",
+                "educación",
+                "herramienta digital"
+            ],
+            "postura_politica": "Perfil de gestión territorial intensa, con foco en obras y desarrollo local. La coordinación con Chaco y Santa Fe para los Bajos Submeridionales muestra un rol proactivo en la región. Su agenda es mayoritariamente local, sin confrontación con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "centros infantiles",
+                "Taty Almeida",
+                "usina termoeléctrica",
+                "reforma constitucional"
+            ],
+            "postura_politica": "Perfil de reformista con agenda de transformación institucional (reforma constitucional). Impulsa obras estratégicas (usina) y mantiene vínculo con China. Su silencio sobre la macroeconomía nacional sugiere un cálculo de autonomía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "reunión con Caputo",
+                "Marca Tucumán",
+                "Poder Judicial",
+                "diálogo institucional"
+            ],
+            "postura_politica": "Perfil de gestión institucional y diálogo pragmático con Nación. La reunión con Jalil y Sáenz con Caputo y Santilli muestra su rol en la negociación fiscal. Su agenda incluye fortalecimiento del Poder Judicial y la Marca Tucumán. Se posiciona como un gobernador dialoguista pero defensor de los intereses provinciales.",
+            "frase_fuerte": null
+        }
+    ]
+}
