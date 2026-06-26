@@ -1,0 +1,244 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La agenda federal de hoy estuvo marcada por la intensa gestión provincial, con gobernadores anunciando y ejecutando obras de infraestructura cruciales en salud, educación, vivienda y viales. Se observó una clara defensa de los recursos y la autonomía provincial, especialmente en el contexto de las relaciones con el gobierno nacional, donde se manifestaron críticas por el centralismo porteño y la gestión económica. La seguridad y el orden público también fueron prioridades, mientras que la atracción de inversiones y el desarrollo productivo, incluyendo la minería y el turismo, consolidaron la dinámica de crecimiento regional.",
+    "analisis_profundo": "La jornada del 25 de junio de 2026 reflejó una fuerte impronta de gestión provincial, donde los gobernadores buscaron consolidar una imagen de proactividad y resolución ante los desafíos locales. Se destacan múltiples anuncios de inversión en infraestructura, desde la pavimentación de calles en Chos Malal (Neuquén) y Villa Mercedes (San Luis), hasta la construcción de plantas energéticas en Mendoza y nuevos puentes en Santa Fe. La inversión en educación y salud también fue un eje central, con entregas de netbooks en Córdoba y medicamentos en Santa Cruz, así como la mejora de centros de salud y hospitales en Río Negro y San Luis. \n\nUn tema recurrente fue la tensión federal. Gobernadores como Axel Kicillof (Buenos Aires) lanzaron una dura crítica a la política económica nacional, señalando la 'destrucción de capacidades productivas'. Maxi Pullaro (Santa Fe) y Elías Suárez (Santiago del Estero) coordinaron acciones para el Plan Director de Bajos Submeridionales, aprovechando el marco para demandar mayor atención y recursos del gobierno central para el interior productivo. Ignacio Torres (Chubut) defendió la retención de bienes de YPF para los comodorenses, no para el municipio, en un claro gesto de protección de intereses provinciales. Arabela Carreras (Río Negro) promulgó una ley para cobrar el canon por el uso del agua a empresas eléctricas, lo que representa una postura enérgica sobre la soberanía de los recursos naturales. \n\nEl desarrollo productivo se manifestó en la atracción de inversiones, como la expansión de Accenture en Córdoba y la inversión de Louis Dreyfus Company en Bahía Blanca (Buenos Aires), o la incorporación del proyecto minero Diablillos al RIGI en Salta. La seguridad fue otro punto, con Jorge Macri (CABA) implementando medidas contundentes contra estacionamientos irregulares y Leandro Zdero (Chaco) criticando a la oposición mientras destaca sus propias políticas de seguridad. \n\nEn resumen, la actividad de los gobernadores denotó una estrategia dual: por un lado, una intensa focalización en la gestión y el desarrollo provincial con recursos propios o a través de alianzas regionales, y por otro, una posición firme y, en ocasiones, confrontativa respecto a la distribución de recursos y el rol del gobierno nacional, reafirmando las demandas federales.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Desarrollo Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Federalismo y Recursos Regionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@WeretilneckOK",
+                "@maxipullaro",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@GustavoSaenzOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Urbano",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Educación y Bienestar Social",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Estamos viviendo una de las etapas de destrucción de capacidades productivas más profunda de la historia. Se perdieron más de 300 mil puestos de trabajos formales, y si sumamos la informalidad, cerca de medio millón; se aniquilaron 26 mil empresas. Es la muerte de las pymes.",
+        "por_que_es_clave": "Este pronunciamiento del gobernador Kicillof (Buenos Aires) ofrece una dura evaluación del panorama económico nacional, cuantificando la pérdida de empleos y empresas. Su contundente afirmación sobre la 'muerte de las pymes' resuena como una crítica frontal a las políticas económicas del gobierno central, marcando una clara tensión entre la provincia y la Nación respecto a la dirección económica del país.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Gestión económica",
+                "Desarrollo productivo",
+                "Infraestructura",
+                "Juventud",
+                "Medio ambiente"
+            ],
+            "postura_politica": "Crítico de las políticas económicas nacionales, enfocándose en la defensa de la producción y el empleo local. Muestra proactividad en la gestión de obras y desarrollo, buscando financiamiento alternativo y priorizando programas sociales y educativos.",
+            "frase_fuerte": "Estamos viviendo una de las etapas de destrucción de capacidades productivas más profunda de la historia. Se perdieron más de 300 mil puestos de trabajos formales, y si sumamos la informalidad, cerca de medio millón; se aniquilaron 26 mil empresas. Es la muerte de las pymes."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad urbana",
+                "Orden público",
+                "Política migratoria",
+                "Gestión"
+            ],
+            "postura_politica": "Fuerte énfasis en 'ley y orden' y mano dura contra irregularidades urbanas. Demuestra una gestión orientada a la fiscalización y la aplicación estricta de normativas. También muestra solidaridad en asuntos internacionales.",
+            "frase_fuerte": "Se terminó la avivada de apropiarse de la calle con estacionamientos truchos. Les vamos a suspender la licencia de conducir, van a pagar una multa y todos los costos del operativo."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo rural",
+                "Infraestructura",
+                "Seguridad",
+                "Crítica política"
+            ],
+            "postura_politica": "Ataca fuertemente a la oposición por presunta corrupción pasada, mientras destaca su propia gestión en obras de infraestructura y proyectos de desarrollo. Se presenta como un gestor activo en contraste con la inacción anterior.",
+            "frase_fuerte": "Los kukas hipócritas que sometieron a niños y poblaciones originarias avalaban esto, eran parte de este entramado. Ahora andan con operetas porque les quedan espadas en el sistema. Ya hicieron mucho daño, al menos admitan de desastre que causaron."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo local",
+                "Gestión de recursos provinciales",
+                "Autonomía municipal"
+            ],
+            "postura_politica": "Prioriza la resolución de problemas históricos de infraestructura para sus comunidades, reafirmando el valor de la 'palabra' en su gestión. Se posiciona como defensor de los recursos provinciales (YPF) frente a los intereses municipales o de otros actores.",
+            "frase_fuerte": "Estimado Senador vamos a garantizar por ley que los bienes de YPF queden para los Comodorenses NO para la municipalidad."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Transparencia fiscal",
+                "Desarrollo económico",
+                "Educación",
+                "Infraestructura urbana",
+                "Empleo"
+            ],
+            "postura_politica": "Destaca la transparencia y responsabilidad fiscal de su gobierno, así como la inversión en educación y tecnología a pesar del contexto nacional. Impulsa el desarrollo económico a través de la atracción de inversiones y la articulación público-privada.",
+            "frase_fuerte": "La transparencia fiscal no es un dato más, es la base de una gestión responsable que rinde cuentas a la sociedad cordobesa."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Asuntos religiosos",
+                "Diálogo interconfesional"
+            ],
+            "postura_politica": "Muestra apertura al diálogo con instituciones religiosas y busca formalizar su relación con el estado a través de registros, promoviendo la institucionalidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Turismo deportivo",
+                "Promoción provincial"
+            ],
+            "postura_politica": "Enfoque en la promoción de la provincia como destino turístico y deportivo, reconociendo su potencial para generar movimiento económico y desarrollo regional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Energía",
+                "Infraestructura eléctrica",
+                "Vivienda",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Impulsa el desarrollo energético provincial y la cooperación regional. Mantiene una política activa de vivienda y enfoca su gestión en inversiones estratégicas para el crecimiento de la provincia, buscando eficiencia y competitividad.",
+            "frase_fuerte": "La energía no puede ser un límite para el desarrollo. Necesitamos infraestructura, planificación y reglas claras para que las inversiones lleguen y nuestras provincias puedan aprovechar las oportunidades que se presentan."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Servicios sociales",
+                "Primera infancia",
+                "Asuntos financieros provinciales"
+            ],
+            "postura_politica": "Prioriza el acompañamiento a las familias a través de programas de primera infancia y asegura la continuidad de los pagos de haberes provinciales, mostrando una gestión enfocada en el bienestar social y la estabilidad financiera.",
+            "frase_fuerte": "La primera infancia es una etapa fundamental en la vida de nuestros niños y niñas, por eso, hoy acompañamos una nueva entrega de equipamiento, materiales didácticos, libros, mantas y kits de abrigo para fortalecer los Espacios de Primera Infancia de distintos municipios misioneros."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Seguridad",
+                "Gestión de gobierno"
+            ],
+            "postura_politica": "Enfatiza el trabajo en equipo y la planificación para mejorar la infraestructura y la seguridad en la provincia, especialmente en la capital. Reafirma el compromiso de su gestión con el 'cambio' y la modernización.",
+            "frase_fuerte": "La Provincia y la Ciudad se modernizan de cara a los desafíos que vienen."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Recursos hídricos",
+                "Infraestructura vial",
+                "Salud visual",
+                "Desarrollo energético",
+                "Federalismo"
+            ],
+            "postura_politica": "Firme defensor de los intereses provinciales, buscando recuperar recursos (canon por agua) y promover el desarrollo energético regional (GNL junto a Neuquén). Activo en la gestión de obras de infraestructura y programas sociales.",
+            "frase_fuerte": "Promulgué la ley que nos permite cobrar el canon por el uso del agua a las empresas y organismos que la utilizan para generar energía eléctrica."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Inversiones mineras",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Posiciona a Salta como un destino atractivo y confiable para inversiones mineras, destacando la seguridad jurídica y el impacto positivo en el empleo local.",
+            "frase_fuerte": "Seguimos consolidando a Salta como un destino confiable para las inversiones, con seguridad jurídica, sustentabilidad ambiental y un modelo de desarrollo que prioriza el empleo salteño y los proveedores locales."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Salud",
+                "Infraestructura urbana",
+                "Memoria",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Enfocado en la gestión de programas educativos y la mejora de la infraestructura de salud, además de promover obras municipales y valores cívicos. Muestra una gestión cercana a las comunidades y prioriza el bienestar social.",
+            "frase_fuerte": "El camino es la EDUCACIÓN !!!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Relaciones sindicales",
+                "Justicia institucional",
+                "Salud",
+                "Gestión de gobierno"
+            ],
+            "postura_politica": "Destaca la importancia del diálogo con los sindicatos y celebra un 'acto de justicia institucional'. Enfoca su gestión en la ordenación de recursos para mejorar servicios esenciales como la salud, proyectando una imagen de eficiencia y cumplimiento.",
+            "frase_fuerte": "La restitución de Eduardo Sosa representa, sin ninguna duda, un acto de justicia institucional y el cumplimiento de una deuda que el Estado mantenía desde hace muchos años."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura productiva",
+                "Federalismo",
+                "Gestión fiscal",
+                "Riesgo hídrico"
+            ],
+            "postura_politica": "Prioriza obras de infraestructura productiva, criticando el 'centralismo porteño' y demandando apoyo para el interior. Destaca la austeridad y la reducción de gastos políticos como base para la inversión provincial y el alivio fiscal.",
+            "frase_fuerte": "Estamos haciendo las obras de infraestructura productiva que nadie se atrevió a hacer en muchísimo tiempo, porque estamos convencidos de que invirtiendo ahí es donde generamos más desarrollo, igualdad y trabajo genuino para nuestra gente."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Gestión de riesgo hídrico",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Subraya la necesidad de planificación y cooperación interprovincial para abordar desafíos climáticos en la región de Bajos Submeridionales, mostrando un enfoque preventivo y de articulación regional.",
+            "frase_fuerte": "Esta región nos une y también nos exige. Los ciclos de inundación y sequía que históricamente afectaron a miles de santiagueños, sumados al escenario que hoy plantea la situación climática nos obligan a planificar juntos, con técnica y con decisión."
+        }
+    ]
+}

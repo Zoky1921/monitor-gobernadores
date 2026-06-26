@@ -1,0 +1,242 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por el ataque frontal de Kicillofok a la política económica nacional, mientras Macri refuerza su perfil de orden en CABA. La cooperación interprovincial en GNL y la gestión de obras contrastan con el silencio de varios gobernadores periféricos. El conflicto fiscal y simbólico domina la agenda.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día es la embestida de Axel Kicillofok contra el gobierno de Javier Milei. Con un tuit que describe la situación como 'la etapa de destrucción de capacidades productivas más profunda de la historia', el gobernador bonaerense no solo denuncia la pérdida de empleos y empresas, sino que marca el terreno para la disputa electoral. Su mensaje es claro: el ajuste nacional tiene un costo social que él está dispuesto a capitalizar. En paralelo, Jorge Macri refuerza su perfil de 'ley y orden' con medidas contra paros sindicales y estacionamientos truchos, buscando diferenciarse en la Ciudad y alinearse con el discurso de seguridad del oficialismo nacional.\n\nActo 2 — Los Alineamientos: Se consolida un eje norpatagónico con la celebración conjunta de Weretilneck y Figueroa por el avance del proyecto GNL, que promete industrializar Vaca Muerta en la costa rionegrina. Es una alianza estratégica que trasciende partidos y apuesta a la integración regional. En el otro extremo, los gobernadores del Norte Grande (Jalil, Saenz, Insfrán, etc.) mantienen un perfil bajo, con reuniones técnicas y gestión de obras, evitando confrontar directamente con Nación. Llaryora, desde Córdoba, se posiciona como el gestor eficiente, mostrando transparencia fiscal y atracción de inversiones, sin mencionar a Milei pero marcando distancia con su estilo.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas como Zdero (Chaco) y Poggi (San Luis) se refugian en la agenda local: obras de pavimento, gas, educación y seguridad. Zdero, además, lanza un duro ataque contra el kirchnerismo ('kukas hipócritas'), buscando capitalizar el descontento con la gestión anterior. En Tierra del Fuego, Melella está ausente de la discusión nacional, centrado en su reforma constitucional. La mayoría de los gobernadores evitan posicionarse sobre la macroeconomía, optando por mostrar gestión en sus territorios.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada deja un saldo mixto. Por un lado, la ofensiva de Kicillofok refuerza la narrativa opositora de que el ajuste es insostenible. Por otro, la falta de una reacción coordinada de los gobernadores aliados (como los del PRO o radicales) sugiere que el oficialismo aún no logra consolidar un frente federal sólido. La cooperación en GNL es una buena noticia, pero la ausencia de un respaldo explícito a Milei en temas fiscales revela que las provincias siguen priorizando sus propias agendas.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto con Nación por política económica",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@alfredocornejo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Inversiones y desarrollo energético (GNL)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión provincial y obras públicas",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@passalacquaok",
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Cooperación interprovincial (Norte Grande, Bajos Submeridionales)",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@LeandroZdero",
+                "@EliasSuarezSDE",
+                "@RaulJalil_ok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Estamos viviendo una de las etapas de destrucción de capacidades productivas más profunda de la historia. Se perdieron más de 300 mil puestos de trabajos formales, y si sumamos la informalidad, cerca de medio millón; se aniquilaron 26 mil empresas. Es la muerte de las pymes.",
+        "por_que_es_clave": "Kicillofok utiliza datos concretos para atacar el núcleo del relato económico de Milei, posicionándose como el principal antagonista opositor y marcando la agenda de cara a las elecciones.",
+        "pregunta_openarg": "¿Puede el gobierno nacional sostener su programa económico si el principal distrito del país denuncia una 'muerte de las pymes' y una pérdida de medio millón de empleos?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Destrucción productiva",
+                "Obras públicas",
+                "Seguridad",
+                "Inversiones",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Oposición frontal al gobierno nacional. Cada tuit es una denuncia del ajuste y una reivindicación de su gestión provincial como contrapeso. Busca capitalizar el descontento social y posicionarse como líder de la oposición.",
+            "frase_fuerte": "Es la muerte de las pymes."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Orden público",
+                "Prohibición de paros",
+                "Solidaridad con Venezuela"
+            ],
+            "postura_politica": "Alineado con el discurso de 'ley y orden' del oficialismo nacional, pero con perfil propio. Las medidas contra sindicatos y estacionamientos truchos buscan mostrar gestión y diferenciarse de la imagen de caos.",
+            "frase_fuerte": "Se terminó la avivada de apropiarse de la calle con estacionamientos truchos."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Energía rural",
+                "Seguridad",
+                "Ataque al kirchnerismo"
+            ],
+            "postura_politica": "Fuerte crítica al kirchnerismo, buscando despegarse del pasado y mostrar gestión. Los tuits de obras son para demostrar que su gobierno sí ejecuta, a diferencia del anterior.",
+            "frase_fuerte": "Los kukas hipócritas que sometieron a niños y poblaciones originarias avalaban esto, eran parte de este entramado."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Agua potable",
+                "Deportes",
+                "Seguridad",
+                "Primera infancia"
+            ],
+            "postura_politica": "Agenda local intensa, mostrando gestión en obras y servicios. Evita posicionarse sobre Nación, salvo en la defensa de los bienes de YPF para Comodoro. Busca consolidar su imagen de gobernador ejecutor.",
+            "frase_fuerte": "VOLVER A CASA. Hay historias que no entran en una foto."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Inversiones",
+                "Educación",
+                "Salud",
+                "Transparencia fiscal",
+                "Seguridad"
+            ],
+            "postura_politica": "Se presenta como el gestor eficiente y moderno, con transparencia fiscal y atracción de inversiones. Sin mencionar a Milei, marca distancia con el ajuste nacional al sostener políticas propias. Busca ser un referente del peronismo moderado.",
+            "frase_fuerte": "Los momentos de crisis no pueden convertirse en una excusa para detener las transformaciones que nuestros estudiantes necesitan."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Religión",
+                "Turismo",
+                "Minería",
+                "Cultura"
+            ],
+            "postura_politica": "Agenda variada con foco en turismo y minería, pero sin confrontación con Nación. El tuit sobre el registro de iglesias evangélicas busca captar un electorado específico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Deportes",
+                "Educación",
+                "Patrimonio",
+                "Seguridad"
+            ],
+            "postura_politica": "Gestión local sin referencias nacionales. El tuit sobre el Ultra Trail y la restauración del Cristo del Portezuelo muestran una agenda de bajo perfil político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Energía",
+                "Vivienda",
+                "Seguridad",
+                "Infraestructura",
+                "Lucha contra fake news"
+            ],
+            "postura_politica": "Gobernador radical con perfil técnico. Muestra inversiones en energía y vivienda, y se enfrenta a operaciones de desinformación. Busca posicionarse como un gestor serio y confiable, en sintonía con el oficialismo nacional pero sin subordinación.",
+            "frase_fuerte": "La libertad de expresión forma parte de la vida democrática. La mentira organizada y la desinformación deliberada, no."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Primera infancia",
+                "Pago de sueldos",
+                "Deportes",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Agenda de gestión y anuncios de pagos. Sin confrontación, muestra un gobierno ordenado. La reunión con la embajada de Israel es un gesto de apertura internacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Seguridad",
+                "GNL",
+                "Calificación crediticia",
+                "Turismo gastronómico"
+            ],
+            "postura_politica": "Celebra el avance del GNL como un hito para la provincia, en coordinación con Río Negro. Muestra gestión en obras y seguridad, con un tono optimista. Se alinea con el desarrollo energético nacional.",
+            "frase_fuerte": "Norpatagonia, protagonista del futuro energético argentino."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "GNL",
+                "Obras viales",
+                "Salud",
+                "Canon por uso de agua",
+                "Inversiones"
+            ],
+            "postura_politica": "Fuerte impulso al GNL junto a Neuquén, defendiendo los intereses provinciales. Promulga ley de canon por agua, mostrando firmeza en la defensa de recursos. Se enfrenta a fake news con un mensaje de transparencia.",
+            "frase_fuerte": "Defendemos lo que le corresponde a Río Negro."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Minería",
+                "Inversiones",
+                "Educación",
+                "Infraestructura"
+            ],
+            "postura_politica": "Anuncia la incorporación del proyecto Diablillos al RIGI, mostrando confianza inversora. También anuncia becas y obras, con un discurso de 'hechos, no palabras'. Se posiciona como un gobernador pro-inversión y gestión.",
+            "frase_fuerte": "Seguimos consolidando a Salta como un destino confiable para las inversiones."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Salud",
+                "Obras públicas",
+                "Justicia",
+                "Solidaridad con Venezuela"
+            ],
+            "postura_politica": "Agenda muy activa con múltiples tuits de gestión local. Denuncia a una jueza por honorarios excesivos, mostrando lucha contra la corrupción judicial. Sin referencias a Nación, salvo solidaridad con Venezuela.",
+            "frase_fuerte": "Instruí a la Fiscal de Estado a que realice la denuncia formal solicitando la remoción de la Jueza... por desconocimiento inexcusable y grave del derecho."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Salud",
+                "Obras",
+                "Financiamiento",
+                "Justicia",
+                "Deportes"
+            ],
+            "postura_politica": "Reclama herramientas de financiamiento para obras, en un tono de necesidad pero sin atacar directamente a Nación. La restitución del Procurador Sosa es un gesto de reparación institucional. Busca mostrar gestión en medio de dificultades.",
+            "frase_fuerte": "Necesitamos las mismas herramientas que tuvieron otros gobiernos para que Santa Cruz se ponga de pie."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Seguridad",
+                "Deportes",
+                "Cooperación hídrica",
+                "Vivienda"
+            ],
+            "postura_politica": "Gobernador radical con perfil de gestión. Muestra obras en el norte provincial y cooperación con Chaco y Santiago del Estero en Bajos Submeridionales. Sin confrontación directa con Nación, pero pidiendo que 'miren al interior'. Busca posicionar a Santa Fe como polo de desarrollo.",
+            "frase_fuerte": "Creemos firmemente que gobernar también es anticiparse y cuidar lo nuestro."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Cooperación hídrica",
+                "Obras públicas",
+                "Educación",
+                "Pago de sueldos",
+                "Cultura"
+            ],
+            "postura_politica": "Firma convenio por Bajos Submeridionales, mostrando cooperación regional. Anuncia cronograma de pagos y bonos, buscando tranquilidad social. Sin críticas a Nación, se enfoca en gestión y diálogo.",
+            "frase_fuerte": "Santiago del Estero tiene socios estratégicos y tiene un gobierno comprometido con cuidar el agua."
+        }
+    ]
+}
