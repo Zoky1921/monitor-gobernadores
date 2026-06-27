@@ -1,0 +1,135 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de bajo volumen federal, con la mayoría de los gobernadores refugiados en la gestión local. La excepción es Ricardo Quintela (La Rioja), que reunió a referentes del peronismo para delinear una estrategia opositora, marcando el único gesto de confrontación directa con la Casa Rosada. El resto priorizó obras, seguridad y efemérides, evitando posicionarse sobre la macroeconomía.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registra una disputa fiscal abierta, pero el silencio de los gobernadores de provincias centrales (Buenos Aires, Córdoba, Santa Fe) es en sí mismo un mensaje. La ausencia de reclamos sobre coparticipación o deuda sugiere una tregua táctica o, más probablemente, un repliegue estratégico mientras se cocinan las negociaciones de fondo. El único destello de tensión proviene de La Rioja, donde Quintela articula un núcleo opositor que, aunque sin gobernadores en ejercicio, busca capitalizar el descontento federal.\n\nActo 2 — Los Alineamientos: Quintela (La Rioja) se posiciona como el anfitrión de la resistencia peronista, reuniendo a figuras como Urtubey y Trotta. Este gesto lo coloca en la vereda opuesta a la Casa Rosada, pero sin el respaldo de otros mandatarios provinciales. En contraste, Martín Llaryora (Córdoba) refuerza su perfil de gestión autónoma, destacando que su provincia avanza 'cuando muchos frenan', una crítica velada al ajuste nacional. Jorge Macri (CABA) se mantiene en su carril de 'Ley y orden', sin mencionar a Nación, lo que puede leerse como un apoyo implícito a la política de seguridad del gobierno central.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Chaco, San Luis, Santiago del Estero, Misiones, Río Negro) se refugian en la agenda de cabotaje: obras públicas, entrega de viviendas, programas educativos y reconocimientos. Claudio Poggi (San Luis) despliega una batería de anuncios locales, mientras que Leandro Zdero (Chaco) se limita a la renovación de un parque. Este comportamiento sugiere que, en ausencia de una crisis inmediata, prefieren no exponerse en el tablero nacional. La excepción es Raúl Jalil (Catamarca), cuyo tuit sobre un evento literario es de peso bajo y refuerza su perfil cultural.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable en términos de ruido político: ningún gobernador de peso (Kicillof, Pullaro, Cornejo) emitió señales de conflicto. Sin embargo, la reunión de Quintela es una advertencia de que el peronismo busca reagruparse. El silencio de los grandes distritos puede ser tanto una tregua como una calma chicha. El capital político de Milei se mantiene estable, pero la falta de apoyo explícito de los gobernadores a su gestión es un recordatorio de que la luna de miel fiscal terminó.",
+    "temas_calientes": [
+        {
+            "tema": "Reunión opositora peronista en La Rioja",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Gestión provincial autónoma frente al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público en CABA",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo económico local con equilibrio fiscal",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Efemérides y cultura sin impacto federal",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Siempre es bueno encontrarse con compañeros y compañeras para pensar la Argentina que viene. Hoy recibí a @UrtubeyJM, @trottanico y Juan José Álvarez, donde conversamos sobre la realidad que atraviesa nuestro país, el impacto que las decisiones del Gobierno nacional tienen en las provincias y la necesidad de seguir construyendo, desde el peronismo, propuestas que nos unan, promuevan el debate y vuelvan a poner en el centro las necesidades del pueblo. La formación, el diálogo y la unidad son parte de ese camino que seguimos recorriendo con la convicción de mantener viva la esperanza de una Argentina más justa y federal.",
+        "por_que_es_clave": "Es el único tuit de la jornada que explicita una estrategia opositora al gobierno nacional, reuniendo a figuras del peronismo no K para articular un discurso alternativo. Quintela se posiciona como articulador de una resistencia federal, aunque sin el respaldo de otros gobernadores en ejercicio.",
+        "pregunta_openarg": "¿Puede Ricardo Quintela consolidar un frente opositor federal sin el apoyo de los gobernadores peronistas de provincias centrales como Buenos Aires o Tucumán?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y orden"
+            ],
+            "postura_politica": "Refuerza su perfil de mano dura con un operativo policial. No menciona a Nación, lo que sugiere que su agenda de seguridad es autónoma y no necesita validación externa. El mensaje es para su electorado: gestión eficiente sin depender del gobierno central.",
+            "frase_fuerte": "Un muro contra la delincuencia. Detenido. Pedido de captura por robo. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Cultura",
+                "Diplomacia"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. El retuit sobre un evento literario con la embajada austriaca es un gesto de soft power, pero sin contenido político relevante. Se refugia en lo protocolar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Espacios verdes"
+            ],
+            "postura_politica": "Gestión protocolar aislada. La renovación de un parque es una obra menor que no genera señales políticas. Zdero evita cualquier mención a la macroeconomía o a la relación con Nación, lo que indica un repliegue estratégico.",
+            "frase_fuerte": "El Parque 2 de Febrero, escenario del encuentro de generaciones de resistencianos, se renueva con obras integrales."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Gestión provincial",
+                "Obras",
+                "Autonomía"
+            ],
+            "postura_politica": "Marca distancia del gobierno nacional al destacar que Córdoba sigue invirtiendo 'cuando muchos frenan'. Es un mensaje de eficiencia y autonomía, pero sin confrontación directa. Se posiciona como el gestor que no se deja paralizar por el ajuste.",
+            "frase_fuerte": "En tiempos difíciles, cuando muchos frenan, nosotros elegimos seguir haciendo."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Política nacional",
+                "Peronismo",
+                "Oposición"
+            ],
+            "postura_politica": "El único que sale del libreto local. Reúne a referentes del peronismo para discutir el impacto de las políticas nacionales y construir una alternativa. Es un acto de oposición explícita, aunque sin el respaldo de otros gobernadores. Busca posicionarse como líder de la resistencia federal.",
+            "frase_fuerte": "Conversamos sobre la realidad que atraviesa nuestro país, el impacto que las decisiones del Gobierno nacional tienen en las provincias y la necesidad de seguir construyendo, desde el peronismo, propuestas que nos unan."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Cultura",
+                "Naturaleza"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. La presentación de un libro sobre aves es un evento cultural de bajo peso político. Passalacqua se mantiene al margen de la disputa nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Gestión pública",
+                "Reconocimiento"
+            ],
+            "postura_politica": "Mensaje de agradecimiento a trabajadores estatales, probablemente por el Día del Trabajador Estatal. Es un gesto de gestión interna sin proyección federal. No hay crítica ni apoyo a Nación.",
+            "frase_fuerte": "Cada trámite resuelto, cada escuela que abre sus puertas, cada hospital que atiende, cada ruta que se mantiene, tiene detrás el compromiso de una trabajadora o un trabajador público."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Obras",
+                "Educación",
+                "Deporte",
+                "Vivienda"
+            ],
+            "postura_politica": "Despliegue intenso de gestión local con múltiples anuncios. Es un intento de mostrar actividad y cercanía, pero sin contenido político federal. Se refugia en la agenda de cabotaje para evitar posicionarse.",
+            "frase_fuerte": "Hoy completamos la entrega de VIVIENDAS para los inscriptos pendientes de los Planes Habitacionales Progreso y Sueños (del año 2011) en la Villa de Merlo. Cumpliendo la palabra empeñada!!"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Equilibrio fiscal",
+                "Sector privado"
+            ],
+            "postura_politica": "Discurso de apoyo al comercio y la producción local, con énfasis en el equilibrio fiscal y el orden administrativo. Es un mensaje de gestión responsable que implícitamente contrasta con el desorden nacional, pero sin atacar directamente.",
+            "frase_fuerte": "Renovamos nuestro compromiso de seguir sosteniendo la actividad económica con equilibrio fiscal, orden administrativo y políticas que impulsen la producción, el empleo, el desarrollo y el agregado de valor a nuestra materia prima."
+        }
+    ]
+}

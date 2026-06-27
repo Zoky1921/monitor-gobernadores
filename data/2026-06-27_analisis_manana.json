@@ -1,0 +1,110 @@
+{
+    "clima_general": "CAUTELOSO",
+    "resumen_ejecutivo": "Los gobernadores se enfocan predominantemente en la gestión provincial y el desarrollo local. Jorge Macri (Ciudad Autónoma de Buenos Aires) reitera su política de 'Ley y orden' frente a la delincuencia. Ricardo Quintela (La Rioja) se reúne con referentes peronistas para analizar el impacto de las decisiones del Gobierno nacional en las provincias y construir una alternativa federal. Elías Suárez (Santiago del Estero) destaca el apoyo a la actividad económica con equilibrio fiscal y colaboración público-privada. Martín Llaryora (Córdoba) enfatiza la continuidad de obras e inversiones en infraestructura, educación y salud, contrastando su gestión con un 'contexto difícil' a nivel nacional. Claudio Poggi (San Luis) se centra en la entrega de viviendas y el impulso a la educación local, mientras que Leandro Zdero (Chaco) promueve la renovación de espacios públicos.",
+    "analisis_profundo": "La jornada exhibe una clara diferenciación en las agendas públicas de los gobernadores. Un grupo significativo se aboca a la gestión territorial y la concreción de obras, proyectando una imagen de eficiencia y cercanía ante sus electorados. Martín Llaryora (Córdoba) enfatiza el 'seguir haciendo' en un contexto nacional difícil, destinando recursos a educación, salud e infraestructura en cada localidad, lo que puede interpretarse como una estrategia para blindar su gestión de las vicisitudes macroeconómicas. Leandro Zdero (Chaco) y Claudio Poggi (San Luis) también se enfocan en mejoras de espacios públicos, desarrollo educativo y programas habitacionales, consolidando la presencia estatal en sus jurisdicciones. Elías Suárez (Santiago del Estero) subraya el compromiso con la actividad económica provincial, buscando atraer inversiones y fomentar el empleo bajo un esquema de equilibrio fiscal, destacando la importancia de la colaboración público-privada y la formación de jóvenes. Esta postura busca generar condiciones de estabilidad para el desarrollo en su provincia, en un escenario nacional inestable. Por otro lado, Jorge Macri (Ciudad Autónoma de Buenos Aires) mantiene su fuerte narrativa en seguridad, alineada con la 'Ley y orden', un eje central de su administración. La dimensión política se hace más explícita en el tweet de Ricardo Quintela (La Rioja), quien se reúne con figuras peronistas para analizar el 'impacto que las decisiones del Gobierno nacional tienen en las provincias' y la construcción de una alternativa partidaria. Esta reunión, con la presencia de figuras como Juan Manuel Urtubey, sugiere movimientos en la interna peronista y la búsqueda de un consenso federal. La diversidad de enfoques, con una minoría marcando el impacto de Nación, sugiere un clima de cautela política, donde las provincias buscan reafirmar sus agendas propias y gestionar soluciones locales frente a los desafíos nacionales.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de Obras y Servicios Provinciales: Foco en infraestructura, educación, salud y vivienda con fondos propios.",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden: Énfasis en el combate al delito y la aplicación de la ley.",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Provincial y Fiscalidad: Impulso a la producción, empleo y equilibrio fiscal.",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Coordinación Política Federal y Rol del Peronismo: Debates sobre el impacto nacional y la construcción de una agenda partidaria federal.",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y orden",
+                "Delincuencia"
+            ],
+            "postura_politica": "Firmeza en el combate al delito y la aplicación de la ley. Muestra resultados concretos de operativos policiales en la Ciudad Autónoma de Buenos Aires.",
+            "frase_fuerte": "Un muro contra la delincuencia. Detenido. Pedido de captura por robo. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Espacios recreativos"
+            ],
+            "postura_politica": "Enfocado en la gestión local y la mejora de la calidad de vida de los ciudadanos del Chaco a través de la inversión en infraestructura y espacios públicos.",
+            "frase_fuerte": "El Parque 2 de Febrero, escenario del encuentro de generaciones de resistencianos, se renueva con obras integrales que revitalizan uno de los principales espacios de recreación para miles de familias!"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo provincial",
+                "Obras públicas",
+                "Educación",
+                "Salud",
+                "Infraestructura",
+                "Estado presente"
+            ],
+            "postura_politica": "Proactiva en la gestión provincial y la inversión en servicios esenciales en Córdoba, destacando la continuidad de las obras a pesar del 'contexto difícil' nacional.",
+            "frase_fuerte": "En tiempos difíciles, cuando muchos frenan, nosotros elegimos seguir haciendo. Porque sabemos que el desarrollo no llega por casualidad: se construye con decisiones, con gestión y con un Estado que acompaña."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Estrategia política (peronismo)",
+                "Federalismo",
+                "Impacto del Gobierno Nacional",
+                "Diálogo interpartidario"
+            ],
+            "postura_politica": "Abierto al diálogo y a la construcción de una alternativa peronista federal, con preocupación por las decisiones del gobierno central y su efecto en las provincias de La Rioja.",
+            "frase_fuerte": "Siempre es bueno encontrarse con compañeros y compañeras para pensar la Argentina que viene. Hoy recibí a @UrtubeyJM, @trottanico y Juan José Álvarez, donde conversamos sobre la realidad que atraviesa nuestro país, el impacto que las decisiones del Gobierno nacional tienen en las provincias y la necesidad de seguir construyendo, desde el peronismo, propuestas que nos unan, promuevan el debate y vuelvan a poner en el centro las necesidades del pueblo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Producción",
+                "Empleo",
+                "Equilibrio fiscal",
+                "Colaboración público-privada",
+                "Formación"
+            ],
+            "postura_politica": "Compromiso con el crecimiento económico de Santiago del Estero mediante la estabilidad fiscal, el apoyo al sector productivo y la inversión en capital humano.",
+            "frase_fuerte": "renovamos nuestro compromiso de seguir sosteniendo la actividad económica con equilibrio fiscal, orden administrativo y políticas que impulsen la producción, el empleo, el desarrollo y el agregado de valor a nuestra materia prima."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Vivienda",
+                "Desarrollo local",
+                "Deporte",
+                "Infraestructura"
+            ],
+            "postura_politica": "Enfocado en la gestión de programas sociales y obras de infraestructura en San Luis, priorizando la educación y la resolución de demandas habitacionales, 'cumpliendo la palabra empeñada'.",
+            "frase_fuerte": "Hoy completamos la entrega de VIVIENDAS para los inscriptos pendientes de los Planes Habitacionales Progreso y Sueños (del año 2011) en la Villa de Merlo. Cumpliendo la palabra empeñada !!"
+        }
+    ]
+}
