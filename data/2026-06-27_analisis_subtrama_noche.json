@@ -1,0 +1,201 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por la disputa entre provincias y Nación por la obra pública y los recursos energéticos. Kicillof y Pullaro denuncian el abandono federal mientras Weretilneck y Figueroa celebran avances en GNL. El Norte Grande busca financiamiento, y las provincias periféricas se refugian en la gestión local.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal y de obras públicas domina la jornada. Kicillof (Buenos Aires) lanza un dardo directo al relato de 'obra pública cero' del Gobierno Nacional, mostrando una ruta provincial en obras. Pullaro (Santa Fe) se suma al coro, denunciando que Nación abandonó la infraestructura y que las provincias deben hacerse cargo. Este es el eje del día: la asfixia financiera que obliga a los gobernadores a reclamar autonomía y recursos.\n\nActo 2 — Los Alineamientos: Por un lado, el bloque patagónico-energético: Figueroa (Neuquén) y Weretilneck (Río Negro) celebran la aprobación del acuerdo de GNL con YPF, posicionándose como los nuevos motores del desarrollo federal. Por otro, el Norte Grande se reúne con Caputo y Santilli para gestionar fondos, con Jalil (Catamarca) y Quintela (La Rioja) como voceros de la necesidad de financiamiento. Pullaro y Zdero (Chaco) firman un convenio hídrico, mostrando coordinación regional.\n\nActo 3 — La Micro-política: Las provincias periféricas como Chaco (Zdero), San Luis (Poggi), Santa Cruz (Vidal) y Santiago del Estero (Suarez) se concentran en gestión local: viviendas, salud, educación. No hay señales de conflicto con Nación, sino un repliegue estratégico para mostrar eficiencia. Torres (Chubut) y Passalacqua (Misiones) también se enfocan en obras provinciales, evitando roces.\n\nActo 4 — Saldo Presidencial: La Casa Rosada enfrenta un escenario de gobernadores que ya no esperan soluciones nacionales. Kicillof y Pullaro marcan el territorio opositor, mientras los patagónicos se alinean con el oficialismo en materia energética. El Norte Grande negocia, pero sin subordinación. El saldo es de una federación fragmentada, donde cada bloque busca su propio camino.",
+    "temas_calientes": [
+        {
+            "tema": "Obra pública provincial vs. abandono nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Energía y recursos: GNL como motor federal",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Financiamiento y diálogo fiscal con Nación",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestión local y refugio en agenda de cabotaje",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @BarreraGusOk)",
+        "texto": "A los que dicen 'obra pública cero', dense una vuelta por la Ruta 11. Mientras el Gobierno Nacional paraliza la obra pública, en la Provincia con Axel #Kicillof demostramos que cuando hay decisión política, las obras avanzan y transforman la vida de la gente.",
+        "por_que_es_clave": "Kicillof utiliza la obra pública provincial como ariete contra el relato de ajuste nacional, marcando territorio electoral y posicionándose como alternativa de gestión frente a la parálisis federal.",
+        "pregunta_openarg": "¿Puede la obra pública provincial sostenerse sin coparticipación federal, o es solo un gesto político para 2027?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "obra pública",
+                "ataque a Nación",
+                "gestión provincial",
+                "seguridad",
+                "vivienda"
+            ],
+            "postura_politica": "Kicillof despliega una ofensiva de gestión para contrastar con el ajuste nacional. Cada tuit es una declaración de autonomía: 'Nosotros hacemos lo que Nación no hace'. La mención a la Ruta 11 y la crítica a la paralización de obras es un mensaje directo a la Casa Rosada y a los votantes bonaerenses.",
+            "frase_fuerte": "Mientras el Gobierno Nacional paraliza la obra pública, en la Provincia con Axel #Kicillof demostramos que cuando hay decisión política, las obras avanzan."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "gestión con Nación",
+                "exportaciones",
+                "minería"
+            ],
+            "postura_politica": "Jalil se muestra como gestor pragmático: reúne con Caputo y Santilli para pedir fondos, pero también destaca exportaciones récord. Su postura es de negociación, no de confrontación. Busca recursos sin romper con el oficialismo.",
+            "frase_fuerte": "Las exportaciones de Catamarca alcanzaron los US$71,8 millones en mayo, con un crecimiento interanual del 144,5%."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "obra pública",
+                "salud",
+                "vivienda",
+                "ataque a opositores"
+            ],
+            "postura_politica": "Zdero se enfoca en gestión local (canales, hospitales, viviendas) pero también lanza un duro ataque a 'kukas hipócritas'. Es un gobernador que usa la gestión para marcar perfil propio, pero sin mencionar a Nación. Su silencio sobre el gobierno nacional sugiere que no quiere conflictos.",
+            "frase_fuerte": "Los kukas hipócritas que sometieron a niños y poblaciones originarias avalaban esto, eran parte de este entramado."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "obra pública",
+                "vivienda",
+                "salud",
+                "deporte"
+            ],
+            "postura_politica": "Torres se presenta como el gobernador que 'hace' cuando Nación no. El Plan Galina es su marca. Su postura es de autonomía y eficiencia, sin confrontación directa pero con un claro mensaje: 'Nosotros nos hacemos cargo'.",
+            "frase_fuerte": "Cuando Nación frenó la construcción del nuevo Hospital de Epuyén, la obra quedó paralizada... Pero nosotros decidimos hacernos cargo."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obra pública",
+                "educación",
+                "salud",
+                "transparencia fiscal",
+                "solidaridad internacional"
+            ],
+            "postura_politica": "Llaryora despliega una agenda de gestión intensa, destacando la transparencia fiscal y la inversión en educación. Se posiciona como un gestor eficiente que no depende de Nación. Su ofrecimiento de ayuda a Venezuela es un gesto de liderazgo internacional.",
+            "frase_fuerte": "Mientras en gran parte del país las obras se detuvieron, en nuestra provincia no hay un pueblo donde no se esté ejecutando una obra."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "peronismo",
+                "derechos humanos",
+                "gestión local",
+                "reunión con Urtubey"
+            ],
+            "postura_politica": "Quintela se mueve en el terreno del peronismo opositor. Su reunión con Urtubey y Trotta es una señal de construcción política. También destaca la identificación de restos de desaparecidos, marcando perfil de derechos humanos. No hay mención a Nación, pero su silencio es elocuente.",
+            "frase_fuerte": "Durante años hubo silencio, ocultamiento e impunidad. La identificación de los restos... significa mucho más que un avance judicial."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "cultura",
+                "educación",
+                "economía local",
+                "gestión"
+            ],
+            "postura_politica": "Passalacqua se refugia en la agenda cultural y educativa. Sin conflictos, sin menciones a Nación. Es un gobernador que evita el ruido y se concentra en lo local. Su postura es de baja intensidad política.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "GNL",
+                "Vaca Muerta",
+                "educación",
+                "obra pública",
+                "seguridad"
+            ],
+            "postura_politica": "Figueroa celebra la aprobación del acuerdo de GNL con YPF, un hito para la provincia. Se alinea con Weretilneck en la visión de una Norpatagonia energética. Su postura es de optimismo y gestión, sin roces con Nación.",
+            "frase_fuerte": "Los recursos de Vaca Muerta tienen un destino claro: transformar la calidad de vida de los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "GNL",
+                "Vaca Muerta",
+                "seguridad",
+                "salud",
+                "obra pública"
+            ],
+            "postura_politica": "Weretilneck es el socio estratégico de Figueroa en el proyecto GNL. Su tuit sobre la descarga de caños en San Antonio Este es una foto de poder. También destaca la ley de canon por uso de agua, marcando soberanía sobre recursos.",
+            "frase_fuerte": "Por primera vez nuestros recursos no solo se extraen de esta tierra, sino que también se van a industrializar y exportar desde nuestro propio territorio."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "gestión local",
+                "deporte",
+                "educación",
+                "vivienda"
+            ],
+            "postura_politica": "Poggi se muestra como un gestor de cercanía: entrega de viviendas, bicicletas, obras. Sin conflicto federal. Su postura es de administración eficiente, sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "gestión local",
+                "salud",
+                "infraestructura",
+                "financiamiento"
+            ],
+            "postura_politica": "Vidal reclama herramientas financieras para la provincia, pero sin atacar directamente a Nación. Su postura es de necesidad, no de confrontación. Se enfoca en obras y servicios.",
+            "frase_fuerte": "Santa Cruz necesita que sigamos haciendo más obras, generando más empleo y llevando soluciones a cada localidad."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "obra pública",
+                "seguridad",
+                "narcotráfico",
+                "gestión",
+                "Día de la Bandera"
+            ],
+            "postura_politica": "Pullaro combina gestión con un fuerte discurso de seguridad. Derribó 129 búnkeres y lo muestra como logro. También critica el abandono nacional en obras. Su postura es de autonomía y eficacia, con un perfil de 'ley y orden'.",
+            "frase_fuerte": "En Santa Fe tomamos una decisión desde el primer día: achicar los gastos políticos para poner los recursos donde realmente hacen falta."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "gestión local",
+                "educación",
+                "infraestructura",
+                "Norte Grande"
+            ],
+            "postura_politica": "Suarez se muestra como un gestor que articula con el Norte Grande y con el sector privado. Su postura es de diálogo y construcción, sin conflictos. La agenda es local y regional.",
+            "frase_fuerte": null
+        }
+    ]
+}
