@@ -1,0 +1,73 @@
+{
+    "clima_general": "ALIANZA",
+    "resumen_ejecutivo": "La designación de Diego Santilli como Jefe de Gabinete generó una ola de felicitaciones de gobernadores de distintos signos, evidenciando un alineamiento táctico con la Casa Rosada. Sin embargo, el silencio de Kicillof y el énfasis de Llaryora en la autonomía provincial marcan las fisuras del consenso.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La designación de Diego Santilli como Jefe de Gabinete de Ministros de la Nación se impuso como el eje de la jornada. El nuevo funcionario, con perfil dialoguista y experiencia en el interior, recibió un aluvión de saludos de gobernadores de todo el arco político. Este movimiento no es inocente: la Casa Rosada busca consolidar un puente con las provincias en un contexto de tensión fiscal y ajuste. Sin embargo, el apoyo no es unánime; el silencio de Axel Kicillof, gobernador de la provincia más poblada, resuena como una omisión calculada.\n\nActo 2 — Los Alineamientos: Los gobernadores de Juntos por el Cambio y aliados (Jorge Macri, Leandro Zdero, Ignacio Torres, Rogelio Frigerio, Alberto Weretilneck, Gustavo Sáenz, Marcelo Orrego, Claudio Vidal) se apresuraron a felicitar a Santilli, en una muestra de disciplina y búsqueda de cercanía con el poder central. Frigerio incluso aprovechó para impulsar su agenda de Ficha Limpia, mientras que Vidal reclamó más diálogo federal. En contraste, los gobernadores peronistas de peso (Kicillof, Jalil, Insfran, Quintela) optaron por el mutismo o la agenda local, revelando una estrategia de espera y desconfianza.\n\nActo 3 — La Micro-política: Martín Llaryora (Córdoba) y Rolando Figueroa (Neuquén) utilizaron la jornada para exhibir logros de gestión provincial. Llaryora destacó que Córdoba mantiene la obra pública y las exportaciones a pesar del contexto nacional, un dardo directo al relato de ajuste de Nación. Figueroa, por su parte, subrayó la diversificación económica de Neuquén más allá de Vaca Muerta. Ambos mensajes refuerzan la idea de que las provincias pueden prosperar incluso cuando el gobierno central se repliega.\n\nActo 4 — Saldo Presidencial: Para Javier Milei, la designación de Santilli parece haberle granjeado un respiro inicial, con una mayoría de gobernadores dispuestos a tender puentes. Sin embargo, el apoyo es condicional y pragmático. La ausencia de los barones peronistas y la reafirmación de autonomía por parte de provincias clave como Córdoba y Neuquén sugieren que la luna de miel será breve. El verdadero test llegará cuando se discutan la coparticipación y el presupuesto.",
+    "temas_calientes": [
+        {
+            "tema": "Felicidades a Diego Santilli por su designación como Jefe de Gabinete",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@frigeriorogelio",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Reivindicación de la gestión provincial frente al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Homenaje a Taty Almeida y defensa de los derechos humanos",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Impulso a la transparencia y Ficha Limpia",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Promoción de exportaciones y desarrollo productivo local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "¡Te extrañamos Taty!",
+        "por_que_es_clave": "En una jornada donde la mayoría de los gobernadores se alinearon con el nuevo Jefe de Gabinete, Kicillof elige homenajear a una referente de los derechos humanos, marcando distancia simbólica y reafirmando su identidad peronista.",
+        "pregunta_openarg": "¿El silencio de Kicillof ante la designación de Santilli y su homenaje a Taty Almeida es una señal de ruptura o una estrategia de diferenciación dentro del peronismo?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "juventud",
+                "homenaje a Taty Almeida"
+            ],
+            "postura_politica": "Se posiciona en el plano simbólico de los derechos humanos, evitando referirse al nuevo Jefe de Gabinete. Su silencio sobre Santilli es una omisión calculada que refuerza su perfil opositor.",
+            "frase_fuerte": "¡Te extrañamos Taty!"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "designación de Diego Santilli"
+            ],
+            "postura_politica": "Alineamiento explícito con el gobierno nacional. Ofrece apoyo a Santilli y se presenta como parte de la 'agenda de cambio'.",
+            "frase_fuerte": "Sabé que estamos para ayudar a consolidar la agenda de cambio que necesitan los argentinos."
+        }
+    ]
+}
