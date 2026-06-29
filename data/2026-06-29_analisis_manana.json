@@ -1,0 +1,218 @@
+{
+    "clima_general": "ACTIVO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por la designación de Diego Santilli como Jefe de Gabinete de la Nación, recibida por múltiples gobernadores con llamados al diálogo, la gestión y una mirada federal. Paralelamente, la agenda provincial evidenció un fuerte impulso en la autogestión: desde la inversión en salud y seguridad, como en Buenos Aires y CABA, hasta la diversificación económica en Neuquén y la transparencia fiscal en Córdoba. Se observó también preparación ante fenómenos climáticos en Chaco y destacadas obras y proyectos educativos en Tucumán. En general, un clima activo donde las provincias buscan consolidar su autonomía y potenciar el desarrollo local, al tiempo que reafirman la necesidad de una relación constructiva con el Gobierno Nacional.",
+    "analisis_profundo": "La designación de Diego Santilli como nuevo Jefe de Gabinete de la Nación ha centralizado gran parte de la conversación federal del día, con una cascada de felicitaciones por parte de gobernadores como Jorge Macri (Ciudad Autónoma de Buenos Aires), Raúl Jalil (Catamarca), Leandro Zdero (Chaco), Ignacio Torres (Chubut), Rogelio Frigerio (Entre Ríos), Alberto Weretilneck (Río Negro), Gustavo Sáenz (Salta), Marcelo Orrego (San Juan), Claudio Poggi (San Luis), Claudio Vidal (Santa Cruz) y Gustavo Melella (Tierra del Fuego). El denominador común en estos mensajes es la esperanza de una etapa de mayor diálogo, consenso y respeto por el federalismo, un claro indicador de las tensiones previas y el deseo de una relación más constructiva con el Ejecutivo Nacional. Los mandatarios resaltan la 'vocación de diálogo' y la 'capacidad de gestión' de Santilli, sugiriendo una oportunidad para reencauzar la relación Nación-provincias.\n\nEn paralelo, la agenda provincial refleja una fuerte tendencia hacia la autogestión y el fortalecimiento interno. Axel Kicillof (Buenos Aires) se enfoca en la reforma del sistema de salud provincial con dos proyectos de ley, buscando 'terminar con la fragmentación' y mejorar el acceso. Jorge Macri (Ciudad Autónoma de Buenos Aires) impulsa medidas de seguridad robustas con la creación de un 'Banco de ADN de Delincuentes', bajo el lema 'Ley y orden', una postura que lo posiciona firmemente en la agenda de seguridad.\n\nLa inversión y el desarrollo productivo son también prioridades. Rolando Figueroa (Neuquén) destaca la diversificación económica de su provincia, más allá de Vaca Muerta, con el liderazgo en la exportación de truchas y proyectos de inversión en turismo. Alberto Weretilneck (Río Negro) promueve la conectividad aérea de Viedma para estimular el turismo y la economía, mientras que Leandro Zdero (Chaco) aborda la prevención ante el fenómeno 'El Niño', demostrando proactividad en la gestión ambiental. Carlos Sadir (Jujuy) se alinea con la eficiencia y transparencia estatal al reunirse con el Síndico General de la Nación.\n\nLa transparencia fiscal es un punto fuerte para Martín Llaryora (Córdoba), quien celebra la máxima calificación en el informe de la ASAP, lo que subraya la importancia de la 'previsibilidad' para atraer inversiones. Claudio Poggi (San Luis) enfatiza la inversión social a través del programa nutricional PANE. Finalmente, Osvaldo Jaldo (Tucumán) concentra su gestión en la educación, lanzando un profesorado técnico y apoyando la creación de una universidad en Famaillá, reforzando la idea de la educación como 'política de Estado' y motor de oportunidades.\n\nEn síntesis, la jornada muestra un tablero federal donde, más allá de la política nacional, las provincias avanzan con agendas propias y ambiciosas, mientras buscan redefinir el vínculo con un nuevo actor clave en el gobierno central.",
+    "temas_calientes": [
+        {
+            "tema": "Reconfiguración Federal y Diálogo Institucional",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@frigeriorogelio",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Gestión y Desarrollo Local",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo",
+                "@passalacquaok",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Seguridad y Justicia Provincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Políticas de Salud y Educación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@OsvaldoJaldo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Gestión Ambiental y Diversificación Productiva",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "BANCO DE ADN DE DELINCUENTES. Creamos el Registro de Perfiles Genéticos, un paso inédito para no dejar ni un solo malviviente libre. Vamos a poder cruzar el ADN de las escenas del crimen, identificar a los culpables y conectar investigaciones. Se terminó el vale todo. Ley y orden.",
+        "por_que_es_clave": "Este tweet del gobernador Jorge Macri (Ciudad Autónoma de Buenos Aires) es clave por su anuncio de una política pública disruptiva en materia de seguridad, que busca fortalecer la investigación criminal a través de herramientas genéticas. Su mensaje directo 'Se terminó el vale todo. Ley y orden' marca una postura firme y generará debate sobre la privacidad versus la seguridad, un tema de alta sensibilidad nacional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Legislación"
+            ],
+            "postura_politica": "Centrado en la gestión provincial con un enfoque progresista en la salud pública. Propone proyectos de ley para mejorar la coordinación y el acceso, reafirmando el rol del Estado en garantizar derechos.",
+            "frase_fuerte": "Aún en los momentos mas complejos y difíciles, es nuestra total convicción trabajar para tener un mejor sistema de salud, que sea claro, con reglas, que mejore su acceso y calidad, y pueda garantizar el pleno derecho a la salud."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad Ciudadana",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Exhibe una postura de 'mano dura' en seguridad con la implementación del Banco de ADN, priorizando la ley y el orden. En el ámbito federal, expresa apoyo constructivo a la nueva figura del Jefe de Gabinete, Diego Santilli.",
+            "frase_fuerte": "Creamos el Registro de Perfiles Genéticos, un paso inédito para no dejar ni un solo malviviente libre. Se terminó el vale todo. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Apoya la designación de Diego Santilli (Jefe de Gabinete de la Nación), enfatizando la necesidad de diálogo, gestión y una mirada federal para el desarrollo conjunto.",
+            "frase_fuerte": "Los desafíos que tiene el país requieren diálogo, gestión y una mirada verdaderamente federal."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Gestión Ambiental",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Demuestra proactividad en la gestión de riesgos climáticos con acciones preventivas ante 'El Niño'. Reafirma el compromiso de su provincia con una 'mirada federal' y la defensa de sus intereses, apoyando al nuevo Jefe de Gabinete.",
+            "frase_fuerte": "Desde el Chaco seguiremos defendiendo los intereses de nuestra provincia, acompañando cada decisión que ayude a ordenar el país, generar oportunidades y mejorar la vida de los argentinos."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Destaca el profesionalismo y el compromiso con el diálogo del nuevo Jefe de Gabinete (Diego Santilli), expresando confianza en su capacidad de gestión para los consensos nacionales.",
+            "frase_fuerte": "se de tu profesionalismo y compromiso con el diálogo y los consensos que necesita la Argentina en este momento."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Transparencia Fiscal",
+                "Administración Pública"
+            ],
+            "postura_politica": "Enfatiza la buena administración provincial, logrando reconocimiento por su transparencia y responsabilidad fiscal. Proyecta esto como una base para la confianza y la atracción de inversiones.",
+            "frase_fuerte": "gobernar con las cuentas en orden, brindar información clara y generar #previsibilidad son condiciones fundamentales para fortalecer la confianza, atraer inversiones y seguir impulsando el crecimiento y el desarrollo de Córdoba."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Celebra la designación de Diego Santilli (Jefe de Gabinete de la Nación), ponderando su capacidad de diálogo y construcción de consensos, claves en 'momentos complejos' para el país.",
+            "frase_fuerte": "Conozco tu capacidad de trabajo, tu vocación de diálogo y tu compromiso para construir consensos en momentos complejos."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Modernización del Estado",
+                "Transparencia"
+            ],
+            "postura_politica": "Alineado con una agenda de modernización estatal, busca eficiencia y transparencia en la gestión pública, en consonancia con organismos nacionales.",
+            "frase_fuerte": "Coincidimos en que el camino es un Estado más moderno, eficiente y transparente, que esté a la altura de lo que exige la sociedad."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Desarrollo Federal",
+                "Política Nacional"
+            ],
+            "postura_politica": "Muestra apertura al diálogo y articulación con figuras políticas nacionales para construir un 'proyecto de país federal', enfocado en la producción y el desarrollo regional.",
+            "frase_fuerte": "viene a recorrer nuestra producción y paisajes en su voluntad de construir un proyecto de país federal para los próximos años."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo Económico",
+                "Inversión",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Promueve la diversificación productiva y la seguridad jurídica para inversiones locales. A nivel federal, destaca la importancia del diálogo y el respeto federal para el desarrollo de Argentina, apoyando al nuevo Jefe de Gabinete.",
+            "frase_fuerte": "El diálogo, la búsqueda de consensos y el respeto por el federalismo serán fundamentales para afrontar los desafíos que los argentinos tenemos por delante."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Conectividad",
+                "Seguridad",
+                "Patrimonio Cultural",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Exhibe una gestión activa en múltiples frentes: desde la seguridad ciudadana y el fomento del turismo y la economía local, hasta la valorización del patrimonio científico. Enfatiza el compromiso institucional con el gobierno nacional y el diálogo.",
+            "frase_fuerte": "Desde Río Negro seguiremos trabajando con el mismo compromiso institucional de siempre. Contás con todo nuestro acompañamiento para fortalecer el trabajo conjunto entre la Nación y nuestra provincia, en beneficio de los rionegrinos y de todos los argentinos."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Manifiesta su apoyo a la designación de Diego Santilli (Jefe de Gabinete de la Nación), abogando por el diálogo y el trabajo conjunto para una Argentina 'verdaderamente federal' con igualdad de oportunidades.",
+            "frase_fuerte": "Estoy convencido de que el diálogo y el trabajo conjunto son el camino para construir una Argentina verdaderamente federal, donde todos tengan las mismas oportunidades, independientemente del lugar donde hayan nacido."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Expresa una postura colaborativa con el gobierno nacional, entendiendo el trabajo conjunto como un pilar para el desarrollo de San Juan y las oportunidades de sus habitantes.",
+            "frase_fuerte": "el trabajo conjunto entre la Nación y nuestra provincia será fundamental para seguir generando oportunidades y construir un mejor futuro para los sanjuaninos y para todos los argentinos."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Políticas Sociales",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Prioriza la inversión en programas sociales y nutricionales con impacto directo en la población infantil. Envía un breve saludo al nuevo Jefe de Gabinete de la Nación.",
+            "frase_fuerte": "El PANE es una fuerte inversión alimentaria nutricional en nuestros chicos con un claro impacto en su capacidad de aprender."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Federalismo"
+            ],
+            "postura_politica": "Interpreta la designación de Diego Santilli (Jefe de Gabinete de la Nación) como una señal positiva para mejorar el 'diálogo y consensos' con el Gobierno Nacional, buscando una relación de respeto y acuerdos para el desarrollo provincial.",
+            "frase_fuerte": "La designación de Diego Santilli como Jefe de Gabinete es una buena señal para una etapa en la que la Argentina necesita fortalecer el diálogo."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Percibe la llegada de Diego Santilli (Jefe de Gabinete de la Nación) como una oportunidad para una relación federal más 'madura y sincera' entre el gobierno central y las provincias.",
+            "frase_fuerte": "La designación de @diegosantilli como nuevo Jefe de Gabinete del Gobierno Nacional representa una oportunidad para encaminar y fortalecer una relación madura y sincera con las provincias."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Educación",
+                "Desarrollo Local",
+                "Gestión Municipal"
+            ],
+            "postura_politica": "Enfocado en la educación como 'política de Estado', invierte en formación docente y expande la oferta universitaria en el interior. Promueve el trabajo articulado con los municipios para el desarrollo local.",
+            "frase_fuerte": "La educación transforma vidas y abre oportunidades. Por eso seguimos fortaleciendo la formación docente y apostando al futuro de Tucumán con nuevas herramientas para nuestras escuelas técnicas."
+        }
+    ]
+}

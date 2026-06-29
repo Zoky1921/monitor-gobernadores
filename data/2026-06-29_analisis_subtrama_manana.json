@@ -1,0 +1,224 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La designación de Diego Santilli como Jefe de Gabinete copa la agenda federal. Una docena de gobernadores de distintos signos políticos le expresan apoyo y expectativas de diálogo. Mientras, Jorge Macri refuerza su perfil de seguridad con medidas drásticas en CABA y Martín Llaryora exhibe transparencia fiscal. El Norte Grande y la Norpatagonia buscan consolidar vínculos con la nueva gestión.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La asunción de Diego Santilli reconfigura el tablero de la relación Nación-provincias. Gobernadores de todos los colores se apresuran a felicitarlo, revelando la carencia de interlocución que sufrían y la esperanza de destrabar recursos. Pero el gesto unánime esconde una tensión: mientras algunos (Jalil, Zdero, Figueroa) explicitan su voluntad de diálogo federal, otros (Kicillof) optan por el silencio, señalando que la pulseada fiscal seguirá.\n\nActo 2 — Los Alineamientos: Dos bloques se perfilan: los que apuestan a la gestión conjunta (Santilli como puente) y los que marcan cancha propia. Cornejo y Pullaro no tuitean, pero Llaryora y Frigerio exhiben gestión fiscal y reformas. Weretilneck y Rolo Figueroa muestran músculo energético y diversificación, posicionando a la Norpatagonia como locomotora. Vidal y Melella ven en Santilli una oportunidad para arrimar posiciones.\n\nActo 3 — La Micro-política: Los gobernadores periféricos (Chubut, Chaco, Catamarca, Jujuy) aprovechan la coyuntura para hacerse ver con mensajes de apoyo y gestión local. Claudio Poggi suma un guiño institucional. Pero la ausencia de pullas nacionales sugiere una tregua calculada: nadie quiere quemar puentes antes de que Santilli asuma.\n\nActo 4 — Saldo Presidencial: La Casa Rosada capitaliza la recepción mayoritariamente positiva a su nuevo jefe de Gabinete. Sin embargo, la ausencia de referentes opositores duros (como Pullaro o Kicillof) en la ola de felicitaciones indica que la luna de miel será breve. La gestión Santilli se medirá en obras y recursos, no en gestos.",
+    "temas_calientes": [
+        {
+            "tema": "Apoyo mayoritario a Diego Santilli como nuevo Jefe de Gabinete",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@gustavomelella",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Refuerzo de perfil securitario en CABA (ADN, muro contra delincuencia)",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Transparencia fiscal y responsabilidad financiera",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Desarrollo energético y diversificación productiva en Norpatagonia",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Ansiedad federal por diálogo y recursos desde el interior",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@ClaudioVidalSer",
+                "@gustavomelella"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "BANCO DE ADN DE DELINCUENTES\n\nCreamos el Registro de Perfiles Genéticos, un paso inédito para no dejar ni un solo malviviente libre. Vamos a poder cruzar el ADN de las escenas del crimen, identificar a los culpables y conectar investigaciones.\n\nSe terminó el vale todo. \n\nLey y orden.",
+        "por_que_es_clave": "Macri capitaliza la agenda de seguridad con una medida de alto impacto simbólico, marcando diferencias con la gestión nacional y posicionándose como alternativa de mano dura en el principal distrito electoral del país.",
+        "pregunta_openarg": "¿El Banco de ADN de CABA es una herramienta real contra el delito o una estrategia de marketing político para la reelección?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "salud pública",
+                "proyectos de ley provinciales",
+                "gestión sanitaria"
+            ],
+            "postura_politica": "Omite cualquier mención a la Nación o a Santilli, en un momento en que otros gobernadores se alinean. El silencio revela un cálculo: no darle oxígeno al nuevo jefe de Gabinete y concentrarse en la gestión 100% provincial para diferenciarse del ajuste nacional.",
+            "frase_fuerte": "Aún en los momentos mas complejos y difíciles, es nuestra total convicción trabajar para tener un mejor sistema de salud"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "Registro de Perfiles Genéticos",
+                "apoyo a Santilli"
+            ],
+            "postura_politica": "Juega de local con la seguridad en CABA, lanzando una medida fuerte que busca captar la atención nacional. A la vez, felicita a Santilli, mostrando alineamiento institucional con el gobierno nacional, pero sin subordinación.",
+            "frase_fuerte": "Se terminó el vale todo. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "designación de Santilli",
+                "federalismo",
+                "gestión exportadora"
+            ],
+            "postura_politica": "Encabeza la ola de felicitaciones a Santilli, reclamando diálogo federal y gestión. Es un gesto de buena voluntad hacia la Rosada, pero también una manera de poner sobre la mesa las necesidades de su provincia minera.",
+            "frase_fuerte": "Los desafíos que tiene el país requieren diálogo, gestión y una mirada verdaderamente federal."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "gestión de emergencia climática",
+                "apoyo a Santilli"
+            ],
+            "postura_politica": "Combina gestión local con apoyo a Santilli. Busca mostrarse como un gobernador que anticipa problemas (El Niño) y que a la vez construye puentes con la nueva gestión nacional.",
+            "frase_fuerte": "Ante posibles eventos asociados, nos preparamos y coordinamos acciones preventivas a través del Comité de Emergencia"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "identidad provincial",
+                "apoyo a Santilli",
+                "gestión local (iluminación, obra pública)"
+            ],
+            "postura_politica": "Mensaje de unidad provincial y felicitación a Santilli. Busca posicionar a Chubut como un distrito que apuesta al diálogo, aunque la agenda local sigue siendo prioritaria.",
+            "frase_fuerte": "Celebro la decisión del Presidente y confío plenamente en tu capacidad de gestión"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "responsabilidad fiscal",
+                "transparencia gubernamental",
+                "apoyo a Santilli"
+            ],
+            "postura_politica": "Exhibe la máxima calificación en cumplimiento fiscal, un mensaje directo a la Nación: 'Córdoba es ejemplo de orden'. A la vez, felicita a Santilli, manteniendo un perfil institucional y técnico.",
+            "frase_fuerte": "Córdoba alcanzó la máxima calificación en el informe de la Asociación Argentina de Presupuesto y Administración Financiera Pública"
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Ficha Limpia",
+                "apoyo a Santilli"
+            ],
+            "postura_politica": "Se posiciona como reformista, impulsando Ficha Limpia. El apoyo a Santilli es consistente con su perfil de diálogo y modernización del Estado.",
+            "frase_fuerte": "Ficha Limpia es parte de una transformación más profunda para que la política vuelva a estar al servicio de la gente"
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "modernización del Estado",
+                "reunión con Síndico General",
+                "gestión religiosa"
+            ],
+            "postura_politica": "Reunión con un funcionario nacional de control, mostrando cooperación en transparencia. Es un gesto técnico que también es político: alineamiento con la agenda de la Rosada sin estridencias.",
+            "frase_fuerte": "Coincidimos en que el camino es un Estado más moderno, eficiente y transparente"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "diálogo político",
+                "construcción de proyecto federal"
+            ],
+            "postura_politica": "Recibe a senador Uñac y diputado Trotta, mostrando que busca construir consensos. El mensaje es de apoyo a un federalismo activo, sin confrontación con Nación.",
+            "frase_fuerte": "Viene a recorrer nuestra producción y paisajes en su voluntad de construir un proyecto de país federal para los próximos años."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "seguridad jurídica para inversiones",
+                "producción de truchas",
+                "obras educativas",
+                "apoyo a Santilli"
+            ],
+            "postura_politica": "Muestra diversificación productiva y gestión de obras, mientras felicita a Santilli. Busca posicionar a Neuquén como provincia que crece con reglas claras, independientemente de la Nación.",
+            "frase_fuerte": "Los recursos de Vaca Muerta tienen un destino claro: transformar la calidad de vida de los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "descubrimiento paleontológico",
+                "conectividad aérea",
+                "investigación policial",
+                "apoyo a Santilli"
+            ],
+            "postura_politica": "Apuesta a la agenda positiva: ciencia, vuelos, seguridad eficiente. El apoyo a Santilli es institucional, pero el foco está en mostrar gestión y buenas noticias, sin depender de Nación.",
+            "frase_fuerte": "Este descubrimiento no solo enriquece el patrimonio de todos los rionegrinos. También fortalece nuestros museos, impulsa la investigación científica"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "apoyo a Santilli"
+            ],
+            "postura_politica": "Felicitación breve pero explícita, reclamando diálogo y federalismo. Una señal de buena voluntad, sin mayores compromisos.",
+            "frase_fuerte": "Estoy convencido de que el diálogo y el trabajo conjunto son el camino para construir una Argentina verdaderamente federal"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "apoyo a Santilli"
+            ],
+            "postura_politica": "También felicita a Santilli con un mensaje estándar, mostrando expectativa de trabajo conjunto.",
+            "frase_fuerte": "Deseo el mayor de los éxitos en esta nueva etapa, con la certeza de que el trabajo conjunto entre la Nación y nuestra provincia será fundamental"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "gestión nutricional",
+                "apoyo a Santilli",
+                "boxeo amateur"
+            ],
+            "postura_politica": "Combina gestión social con apoyo a Santilli. El perfil es bajo pero institucional.",
+            "frase_fuerte": "Felicitaciones @diegosantilli y muchos éxitos en esta nueva función como Jefe de Gabinete de Ministros."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "apoyo a Santilli",
+                "diálogo federal"
+            ],
+            "postura_politica": "Va más allá de la felicitación, calificando la designación como 'buena señal' y pidiendo una relación basada en respeto. Es un mensaje a la Rosada de que Santa Cruz necesita ser escuchada.",
+            "frase_fuerte": "Las provincias necesitan una relación basada en el respeto, la escucha y los acuerdos con el Gobierno Nacional."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "apoyo a Santilli",
+                "oportunidad para las provincias"
+            ],
+            "postura_politica": "Ve en Santilli una oportunidad para fortalecer vínculos. Su tono es positivo pero expectante.",
+            "frase_fuerte": "La designación de @diegosantilli como nuevo Jefe de Gabinete del Gobierno Nacional representa una oportunidad para encaminar y fortalecer una relación madura y sincera con las provincias."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "educación técnica",
+                "gestión municipal",
+                "marca provincia",
+                "diálogo político"
+            ],
+            "postura_politica": "Se enfoca en gestión local y fortalecimiento institucional (convenios con intendentes, educación técnica, marca Tucumán). Omite a Santilli y a Nación, sugiriendo que su prioridad es la gestión provincial y la reconstrucción del peronismo local.",
+            "frase_fuerte": "En Tucumán la educación es una política de Estado."
+        }
+    ]
+}
