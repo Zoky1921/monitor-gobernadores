@@ -1,0 +1,134 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "Axel Kicillofok desafía abiertamente al Gobierno Nacional acusando de quita de recursos mientras sostiene obra pública bonaerense. Otros gobernadores (Jaldo, Llaryora, Frigerio, Weretilneck) exhiben gestión local y transparencia fiscal, evitando confrontar a Nación. La agenda se divide entre resistencia directa y refugio en la administración provincial.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: la jornada gira en torno al posicionamiento del gobernador bonaerense, que en un retweet de Gabriel Katopodis cruza la línea de la queja institucional para convertirse en un acto de insubordinación fiscal. Al nombrar explícitamente a Milei y Caputo como responsables del ahogo, Kicillofok no solo defiende la obra pública sino que construye un relato de resistencia frente al ajuste, instalando la idea de una provincia agraviada que no se rinde. El mensaje es quirúrgico: mientras Nación paraliza, la Provincia avanza. Es un eslogan de campaña subliminal.\n\nActo 2 — Los Alineamientos: ningún otro gobernador secundó el enfrentamiento directo. Osvaldo Jaldo (Tucumán) y Martín Llaryora (Córdoba) optaron por la exhibición de obras locales, sin mencionar a la Casa Rosada. Rogelio Frigerio (Entre Ríos) eligió elogiar su propia transparencia fiscal, una señal de orden que evita roces. Alberto Weretilneck (Río Negro) apostó a la gran promesa energética del GNL, proyectando una provincia que mira al futuro sin confrontar. El único que se acerca a la tensión es Leandro Zdero (Chaco), pero solo con gestión de cabotaje. Kicillofok queda solo en su ofensiva.\n\nActo 3 — La Micro-política: las provincias periféricas y medianas se refugian en la agenda local. Claudio Poggi (San Luis) no tuvo publicaciones recientes, pero otros como Ricardo Quintela (La Rioja) celebraron el triunfo deportivo de Paraguay, evitando cualquier posicionamiento federal. La ausencia de menciones a la macroeconomía o a la relación con Nación revela una estrategia de supervivencia: callar para no exponerse. La gestión de cabotaje permite a estos gobernadores mostrar eficiencia sin exponerse al costo político de un respaldo o un ataque.\n\nActo 4 — Saldo Presidencial: el capital político de la Casa Rosada resiste. La falta de una reacción coordinada de los gobernadores provinciales frente al ajuste le quita combustible al relato opositor. Kicillofok queda aislado en su trinchera bonaerense. Mientras tanto, la exhibición de transparencia fiscal de Frigerio y la promesa energética de Weretilneck le ofrecen al Gobierno Nacional dos argumentos a favor: provincias que administran bien y proyectos que requieren estabilidad. El silencio del resto es, en sí mismo, un respaldo tácito.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación directa de Kicillofok contra Nación por obra pública y recursos",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Exhibición de transparencia fiscal como señal de buena gestión",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Crecimiento económico y empleo provincial (Neuquén y Río Negro)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Obra pública provincial como reemplazo de la obra nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@OsvaldoJaldo",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Refugio en gestión local y efemérides sin posicionamiento federal",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @gkatopodis)",
+        "texto": "La obra pública es laburo y te mejora la vida. En la Provincia no la vamos a entregar, por más aprietes y por más recursos que Milei y Caputo nos sigan sacando todos los días a las y los bonaerenses. Por eso, @AU_BA_SA avanza con el 4° carril de la Autopista Buenos Aires–La Plata, la Ruta 2, la bajada de City Bell y cientos de obras que, por decisión de @Kicillofok, vamos a seguir haciendo. @joserarteaga",
+        "por_que_es_clave": "Kicillofok traslada la queja institucional al llano y nombra al Presidente y al Ministro de Economía como adversarios directos, transformando un retweet de obra pública en un manifiesto de resistencia política y fiscal. Marca el tono de campaña para 2027.",
+        "pregunta_openarg": "¿Es sostenible fiscalmente que la provincia de Buenos Aires mantenga obra pública con recursos propios mientras reclama más coparticipación, o es solo un gesto político para erosionar al gobierno nacional?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "obra pública",
+                "confrontación con Nación",
+                "ajuste fiscal"
+            ],
+            "postura_politica": "Resistencia frontal. Usa la obra pública como caballito de batalla para denunciar el ajuste de Milei y Caputo, posicionándose como defensor del Estado y candidato natural de la oposición.",
+            "frase_fuerte": "No la vamos a entregar, por más aprietes y por más recursos que Milei y Caputo nos sigan sacando"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "propiedad privada",
+                "okupas"
+            ],
+            "postura_politica": "Agenda de seguridad como diferenciación. Refuerza la marca 'Ley y orden' con un hito concreto, mostrando gestión en un tema que capitaliza electoralmente.",
+            "frase_fuerte": "Propiedad recuperada 860. No nos frenaron. No nos van a frenar."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "operativo social",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se mantiene en la gestión de cabotaje, evitando cualquier roce con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "espacios públicos",
+                "obra local"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Inaugura una plaza sin mencionar el contexto nacional, mostrando continuidad administrativa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "transparencia fiscal",
+                "rendición de cuentas"
+            ],
+            "postura_politica": "Se posiciona como ejemplo de gestión ordenada. La máxima calificación en transparencia es un guiño al gobierno nacional y un contraste con el conflicto bonaerense.",
+            "frase_fuerte": "La transparencia dejó de ser un discurso para convertirse en una forma de gobernar."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "deporte",
+                "solidaridad internacional"
+            ],
+            "postura_politica": "Refugio en agenda blanda. Celebrar el triunfo de Paraguay evita cualquier posicionamiento sobre la coyuntura nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "crecimiento económico",
+                "empleo privado"
+            ],
+            "postura_politica": "Exhibición de éxito provincial. Muestra números de crecimiento que contrastan con el relato de crisis, posicionando a Neuquén como un oasis de desarrollo.",
+            "frase_fuerte": "El crecimiento tiene sello neuquino."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "obra pública local",
+                "proyecto GNL",
+                "gas natural"
+            ],
+            "postura_politica": "Doble mensaje: obras en el corto y promesa energética en el largo. El proyecto SESA es un ancla de futuro que lo aleja de la disputa inmediata.",
+            "frase_fuerte": "El futuro energético de la Argentina se está construyendo en Río Negro."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "obra pública",
+                "salud",
+                "infraestructura"
+            ],
+            "postura_politica": "Gestión local intensa. Inaugura múltiples obras sin mencionar a Nación, mostrando capacidad de ejecución en contexto adverso.",
+            "frase_fuerte": null
+        }
+    ]
+}
