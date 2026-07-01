@@ -1,0 +1,253 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal estuvo marcada por la asunción del nuevo Jefe de Gabinete, Diego Santilli, generando un coro de felicitaciones de varios gobernadores que, no obstante, enfatizaron la necesidad de diálogo, federalismo y trabajo conjunto con la Nación. En contraste, el gobernador Axel Kicillof (Buenos Aires) emitió un 'repudio absoluto' a los despidos en la CNEA, reavivando la tensión con el gobierno central. El gobernador Jorge Macri (CABA) mantuvo su foco en 'Ley y orden' con la recuperación de propiedades. Un hito de gestión se vio con el gobernador Alberto Weretilneck (Río Negro) al asegurar un importante financiamiento del BID, señalando una vía de colaboración concreta en medio de las disputas.",
+    "analisis_profundo": "La designación del nuevo Jefe de Gabinete, Diego Santilli, ha catalizado una serie de pronunciamientos provinciales. Gobernadores como Raúl Jalil (Catamarca), Rogelio Frigerio (Entre Ríos), Carlos Sadir (Jujuy), Alfredo Cornejo (Mendoza), Marcelo Orrego (San Juan), Claudio Vidal (Santa Cruz) y Osvaldo Jaldo (Tucumán) felicitaron a Santilli, articulando en sus mensajes la expectativa y la demanda de un mayor diálogo, consensos y una 'mirada verdaderamente federal'. Estos llamados, aunque diplomáticos, subrayan las fricciones existentes y la necesidad percibida de reencauzar la relación Nación-provincias.\n\nEn un polo opuesto, Axel Kicillof (Buenos Aires) escaló la confrontación con el Gobierno Nacional al repudiar los despidos en la CNEA, enmarcando su crítica en la defensa de las capacidades estatales y de la gestión provincial de la obra pública frente a los 'aprietes' y recortes federales. Esta postura refleja una resistencia persistente a las políticas de ajuste del gobierno central.\n\nUn contrapunto a la tensión lo ofreció Alberto Weretilneck (Río Negro), quien agradeció públicamente al ministro de Economía, Luis Caputo, por el aval para un financiamiento estratégico del BID. Este logro, que promete impulsar infraestructura productiva, electrificación rural y prevención de incendios, ilustra que, a pesar del clima general de tensión, la gestión y la negociación pueden rendir frutos concretos en la obtención de recursos clave.\n\nOtros gobernadores como Jorge Macri (CABA) consolidaron sus agendas internas. Macri mantuvo su retórica de 'Ley y orden' con la recuperación de propiedades, mientras que Martín Llaryora (Córdoba) destacó programas provinciales de acceso a servicios y mejora de espacios públicos. Leandro Zdero (Chaco) y Ricardo Quintela (La Rioja) enfocaron sus comunicaciones en la gestión provincial de educación, infraestructura y desarrollo productivo, como el Plan Quinquenal Minero en La Rioja, buscando atraer inversiones con seguridad jurídica. Claudio Poggi (San Luis) reportó mejoras educativas y avance en planes de vivienda, y Maximiliano Pullaro (Santa Fe) celebró la entrega de escrituras y la recuperación de espacios públicos. Estas acciones provinciales, aunque centradas en la gestión local, refuerzan la autonomía frente a un escenario federal incierto o desafiante, y la capacidad de cada provincia para avanzar con recursos propios o mediante gestiones específicas.",
+    "temas_calientes": [
+        {
+            "tema": "Renovación en la Jefatura de Gabinete y demanda de diálogo federal",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@frigeriorogelio",
+                "@carlossadirjuy",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Conflicto por despidos en organismos nacionales y defensa del Estado",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Financiamiento y gestión de la obra pública provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y 'Ley y Orden'",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@frigeriorogelio",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo, minería e infraestructura provincial",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK (Río Negro)",
+        "texto": "Quiero agradecer al ministro de Economía de la Nación, @LuisCaputoAR, por otorgar el aval que permitió a Río Negro dar un paso clave para avanzar hacia un financiamiento estratégico del BID por 85 millones de dólares.\n\nEste aval era un requisito indispensable para continuar con el proceso y nos acerca a una inversión histórica para ampliar áreas bajo riego, llevar electricidad a zonas rurales, fortalecer la prevención de incendios y seguir impulsando el desarrollo de nuestra producción.\n\nEste es el resultado de gestionar con seriedad, defendiendo los intereses de Río Negro y trabajando de manera articulada con el Gobierno nacional cuando están en juego oportunidades para nuestra provincia.\n\nAhora resta la evaluación del Directorio del BID, prevista para el 5 de agosto, donde se definirá la aprobación del financiamiento. Vamos a seguir trabajando para que esta inversión estratégica se concrete y permita generar más producción, más empleo y más oportunidades para los rionegrinos.",
+        "por_que_es_clave": "Este tweet es clave porque, en un contexto de tensiones federales y recortes nacionales, destaca una excepción de colaboración exitosa entre una provincia y el Gobierno Nacional para asegurar un financiamiento crucial. Demuestra que, a pesar de las diferencias políticas, hay vías para la gestión y obtención de recursos que impactan directamente en el desarrollo provincial.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Despidos CNEA",
+                "Obra pública",
+                "Recortes nacionales"
+            ],
+            "postura_politica": "Adopta una postura confrontativa con el Gobierno Nacional, repudiando los despidos en organismos estatales y defendiendo la inversión en obra pública provincial frente a la quita de recursos federales. Refuerza la importancia de un Estado presente.",
+            "frase_fuerte": "Mi repudio absoluto a esta absurda decisión."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Propiedad privada",
+                "Ley y orden"
+            ],
+            "postura_politica": "Mantiene una línea de 'mano dura' y defensa intransigente de la propiedad privada, destacando la recuperación de inmuebles ocupados y enviando un mensaje directo a los 'defensores de okupas'. Su agenda es fuertemente securitista y de reafirmación de autoridad.",
+            "frase_fuerte": "No nos frenaron. No nos van a frenar. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Diálogo",
+                "Desarrollo productivo",
+                "Turismo"
+            ],
+            "postura_politica": "Expresa una postura colaborativa hacia el nuevo Jefe de Gabinete nacional, subrayando la importancia de la coordinación y el diálogo para el desarrollo. Destaca la riqueza turística y productiva de su provincia, buscando fortalecer vínculos con otros países.",
+            "frase_fuerte": "La coordinación entre la Nación y las provincias será determinante para afrontar los desafíos que tenemos por delante."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "Alfabetización",
+                "Prevención climática",
+                "Gestión local"
+            ],
+            "postura_politica": "Se enfoca en la gestión provincial con programas de impacto social directo, como la mejora de la alfabetización y la prevención de fenómenos climáticos. Refuerza una imagen de gobierno activo y cercano a las necesidades de su población.",
+            "frase_fuerte": "Cuando se prioriza la alfabetización, los resultados llegan."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Acceso a servicios",
+                "Obra pública",
+                "Diálogo público-privado"
+            ],
+            "postura_politica": "Muestra un fuerte énfasis en la inversión provincial en infraestructura y servicios esenciales como el gas natural, bajo el lema '#HacerParaCrecer'. Destaca la articulación con el sector privado y el sostenimiento de obras en un contexto nacional adverso.",
+            "frase_fuerte": "En #Córdoba creemos que el desarrollo también pasa por garantizar el acceso a los servicios esenciales."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Diálogo",
+                "Seguridad",
+                "Transparencia fiscal"
+            ],
+            "postura_politica": "Adopta una postura de apertura al diálogo con el nuevo Jefe de Gabinete, buscando fortalecer una agenda común para la provincia. Enfatiza la transparencia fiscal y la coordinación entre Nación y provincias en materia de seguridad, combatiendo el crimen organizado.",
+            "frase_fuerte": "Estoy convencido de que vamos a seguir fortaleciendo una agenda común entre Nación y las provincias para avanzar en las reformas que la Argentina necesita y seguir consiguiendo más respuestas para los entrerrianos."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Diálogo",
+                "Gestión conjunta"
+            ],
+            "postura_politica": "Saluda al nuevo Jefe de Gabinete y expresa la voluntad de su provincia de trabajar en conjunto, privilegiando el diálogo y la gestión compartida para el avance provincial y nacional. Su mensaje es de cooperación institucional.",
+            "frase_fuerte": "Que el diálogo y la gestión conjunta con Jujuy sean el camino para avanzar."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Desarrollo minero",
+                "Inversiones",
+                "Planificación",
+                "Seguridad jurídica"
+            ],
+            "postura_politica": "Presenta un ambicioso plan de desarrollo minero a largo plazo, buscando posicionar a La Rioja como un destino atractivo para las inversiones con previsibilidad y responsabilidad. Enfocado en el potencial económico provincial.",
+            "frase_fuerte": "La Rioja tiene una gran oportunidad de crecer a partir del desarrollo minero, pero ese camino debe construirse con planificación, responsabilidad y una visión de largo plazo."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Desarrollo",
+                "Oportunidades"
+            ],
+            "postura_politica": "Transmite un mensaje de apoyo y confianza al nuevo Jefe de Gabinete, destacando sus capacidades para impulsar el desarrollo y las oportunidades a nivel nacional. Su tono es institucional y busca la buena sintonía.",
+            "frase_fuerte": "Tiene las capacidades y herramientas necesarias para seguir trabajando por una Argentina con más desarrollo y oportunidades."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Prefectura Naval Argentina",
+                "Financiamiento productivo",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Enfocado en el respaldo a las instituciones de seguridad provincial y el impulso de herramientas financieras para el sector productivo local. Destaca el compromiso con la economía misionera y la generación de empleo.",
+            "frase_fuerte": "Crecer también necesita herramientas. La nueva línea de financiamiento productivo a largo plazo se suma a una red de iniciativas que impulsan la inversión, la expansión y la generación de empleo en Misiones."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Crecimiento económico",
+                "Empleo",
+                "Desarrollo productivo",
+                "Inversión privada"
+            ],
+            "postura_politica": "Presenta a Neuquén como líder en crecimiento económico y generación de empleo, enfatizando la diversificación productiva más allá de Vaca Muerta. Proyecta una provincia en desarrollo constante, con foco en el trabajo conjunto entre sectores.",
+            "frase_fuerte": "Hemos alcanzado el mayor nivel de crecimiento en la actividad económica del país (PBG), con un incremento del 22,7%."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Financiamiento internacional",
+                "Infraestructura productiva",
+                "Relación Nación-Provincias",
+                "Seguridad"
+            ],
+            "postura_politica": "Destaca un logro clave de gestión al asegurar el aval nacional para un financiamiento BID, que es fundamental para el desarrollo provincial. Muestra capacidad de negociación y colaboración con el Gobierno Nacional para beneficios concretos, pese al clima general. También extiende felicitaciones al nuevo Jefe de Gabinete.",
+            "frase_fuerte": "Quiero agradecer al ministro de Economía de la Nación, @LuisCaputoAR, por otorgar el aval que permitió a Río Negro dar un paso clave para avanzar hacia un financiamiento estratégico del BID por 85 millones de dólares."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Diálogo con municipios",
+                "Intereses provinciales"
+            ],
+            "postura_politica": "Reafirma su compromiso con el federalismo y la defensa de los intereses salteños, destacando la importancia del diálogo con los intendentes para llevar soluciones a la provincia. Su mensaje es de unidad interna y exigencia federal.",
+            "frase_fuerte": "Voy a seguir defendiendo los intereses de nuestra provincia y reclamando un país verdaderamente federal, donde todos tengan las mismas oportunidades, independientemente del lugar donde hayan nacido."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Diálogo",
+                "Objetivos compartidos"
+            ],
+            "postura_politica": "Destaca la creencia en un crecimiento del país basado en el diálogo y la responsabilidad compartida entre Nación y provincias. Felicita al nuevo Jefe de Gabinete, esperando una gestión exitosa que beneficie a San Juan.",
+            "frase_fuerte": "Creemos en un país que crece cuando la Nación y las provincias trabajan con diálogo, responsabilidad y objetivos compartidos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Vivienda",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Celebra logros en política educativa y avances en la construcción de viviendas, enfocándose en la eficacia de la gestión provincial. Resalta el trabajo directo con la comunidad para mejorar la calidad de vida y servicios.",
+            "frase_fuerte": "Ya se ven los primeros resultados de la política educativa que impulsamos desde Diciembre del 2023."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Diálogo",
+                "Federalismo",
+                "Diversificación económica"
+            ],
+            "postura_politica": "Manifiesta que la asunción del nuevo Jefe de Gabinete es una 'buena señal' para el diálogo y el respeto por el federalismo. Subraya la necesidad de que las decisiones nacionales contemplen las realidades provinciales y apoya iniciativas de diversificación económica local.",
+            "frase_fuerte": "EL DIÁLOGO Y EL RESPETO POR EL FEDERALISMO DEBEN MARCAR EL CAMINO QUE NECESITA NUESTRO PAÍS."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Gestión provincial",
+                "Urbanismo"
+            ],
+            "postura_politica": "Enfocado en la concreción de derechos fundamentales a través de la gestión provincial, como la entrega de escrituras de viviendas. Muestra un gobierno que 'pone a Santa Fe en lo más alto' con obras de renovación urbana.",
+            "frase_fuerte": "Garantizar este derecho y que puedan tener la titularidad definitiva de su vivienda es una política pública que llevamos adelante con orgullo desde el gobierno provincial."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Diálogo institucional",
+                "Obra pública",
+                "Salud"
+            ],
+            "postura_politica": "Destaca la importancia del diálogo institucional y el trabajo articulado con el Gobierno Nacional tras la asunción del Jefe de Gabinete. Reafirma el compromiso de gestionar soluciones y defender los intereses de Tucumán, mostrando logros en salud y urbanismo a nivel provincial.",
+            "frase_fuerte": "Desde Tucumán seguiremos impulsando una agenda de cooperación que nos permita gestionar soluciones, defender los intereses de nuestra provincia y generar más oportunidades para los tucumanos."
+        }
+    ]
+}
