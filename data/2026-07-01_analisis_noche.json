@@ -1,0 +1,289 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La jornada federal se concentró en la visibilización de la gestión provincial, con especial énfasis en la obra pública local y el desarrollo económico regional. Varios gobernadores destacaron inversiones propias en infraestructura, vivienda y servicios esenciales, contrastando la actividad con la parálisis nacional. El legado peronista y la afirmación federal fueron temas recurrentes, mientras que la asunción de Diego Santilli como Jefe de Gabinete generó expectativas de diálogo y coordinación con el gobierno central. La modernización del Estado y el fomento de la educación también ocuparon un lugar central en la agenda, reflejando una postura de autonomía y búsqueda de oportunidades para las provincias.",
+    "analisis_profundo": "La agenda de los gobernadores durante el día de hoy, 01/07/2026, y la última hora de ayer, estuvo marcadamente orientada a la gestión provincial y la afirmación de modelos de desarrollo autónomos. La obra pública, con fondos exclusivamente provinciales, emergió como un pilar fundamental, particularmente visible en los comunicados de Martín Llaryora (Córdoba), quien criticó la parálisis nacional en este rubro, y Nacho Torres (Chubut), quien destacó inversiones propias en infraestructura clave. Otros mandatarios como Arabela Carreras (Río Negro) y Claudio Poggi (San Luis) también enfatizaron el avance en obras de gas, cloacas y pavimento. Esta recurrencia subraya una estrategia defensiva y proactiva de las provincias frente a un posible desfinanciamiento federal.\n\nEl desarrollo productivo y la diversificación económica regional también fueron temas prioritarios. Ricardo Quintela (La Rioja) impulsó el financiamiento a PyMEs, mientras que Arabela Carreras (Río Negro) resaltó la Ley 80/20 para priorizar el empleo local en grandes inversiones energéticas. Claudio Vidal (Santa Cruz) celebró la nueva conectividad aérea para el turismo y la producción. Estos mensajes buscan generar confianza interna y atraer inversiones, consolidando las economías locales más allá de las fluctuaciones nacionales.\n\nUn componente político relevante fue la conmemoración del paso a la inmortalidad de Juan Domingo Perón. Gobernadores como Axel Kicillof (Buenos Aires), Gildo Insfrán (Formosa), Sergio Ziliotto (La Pampa) y Ricardo Quintela (La Rioja) utilizaron la fecha para reafirmar principios peronistas como la justicia social, la independencia económica y la soberanía política, a menudo en velada o directa crítica al modelo económico del gobierno nacional, particularmente Ziliotto. Esta postura refuerza bloques políticos provinciales y articula una voz disidente.\n\nLa designación de Diego Santilli como nuevo Jefe de Gabinete de Ministros de la Nación recibió felicitaciones y llamados al diálogo de varios gobernadores, incluyendo Raúl Jalil (Catamarca), Carlos Sadir (Jujuy), Alfredo Cornejo (Mendoza) y Arabela Carreras (Río Negro). Este consenso de bienvenida, aunque protocolar en algunos casos, denota una apertura a la recomposición de canales de comunicación entre la Nación y las provincias, evidenciando la importancia de la coordinación en un contexto de tensiones federales. Sin embargo, no se tradujo en una disolución de las agendas provinciales, que continuaron centradas en la gestión y la defensa de los intereses locales.\n\nFinalmente, la modernización del Estado y la inversión en capital humano también se hicieron presentes. Maxi Pullaro (Santa Fe) anunció una transición hacia un 'Estado digital, transparente y eficiente', buscando agilizar trámites y reducir la burocracia. Elías Suárez (Santiago del Estero) destacó programas de capacitación juvenil. Estas iniciativas reflejan una búsqueda de eficiencia y la adaptación a nuevos paradigmas de gestión, esenciales para el crecimiento provincial en un escenario complejo.",
+    "temas_calientes": [
+        {
+            "tema": "Obra Publica y Proyectos de Infraestructura Local con Fondos Provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Economico Regional y Apoyo a PyMEs/Produccion",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Legado Peronista y Afirmacion Federal frente al Modelo Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Relacion con el Gobierno Nacional y Asuncion de Diego Santilli",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@carlossadirjuy",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Educacion y Desarrollo del Capital Humano/Modernizacion del Estado",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@insfran_gildo",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "En un país donde la obra pública está paralizada, en Córdoba seguimos haciendo. Porque para nosotros la infraestructura no es un gasto: es una inversión que mejora la calidad de vida de las familias y genera más oportunidades para todos.",
+        "por_que_es_clave": "Este tweet es clave porque subraya una de las tensiones centrales entre las provincias y la Nación: la obra pública. El gobernador (Córdoba) no solo denuncia la paralización nacional, sino que también afirma la capacidad y voluntad provincial de sostener la inversión con recursos propios, posicionando la infraestructura como un motor de desarrollo y calidad de vida. Es una declaración directa que resume la postura de varios gobernadores sobre la autonomía y la gestión local.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Legado Peronista",
+                "Desarrollo productivo local",
+                "Empleo",
+                "Formación laboral"
+            ],
+            "postura_politica": "Reafirma la vigencia del peronismo mediante políticas públicas concretas. Destaca la inversión provincial en formación laboral y desarrollo productivo como pilares para generar empleo y honrar el legado histórico.",
+            "frase_fuerte": "No hay mejor manera de homenajear a Perón que honrando su legado con políticas públicas peronistas."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Propiedad privada",
+                "Ley y orden",
+                "Recuperación de espacios"
+            ],
+            "postura_politica": "Mantiene un enfoque firme en la aplicación de la ley para la recuperación de propiedades, enfrentando críticas y consolidando su política de 'ley y orden' en la Ciudad de Buenos Aires.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Legado Peronista",
+                "Diálogo interprovincial",
+                "Relación con Nación",
+                "Nuevo Jefe de Gabinete"
+            ],
+            "postura_politica": "Conmemora a Perón y su visión de trabajo y justicia social. Expresa deseos de éxito al nuevo Jefe de Gabinete, Santilli, enfatizando la necesidad de coordinación Nación-provincias para el desarrollo.",
+            "frase_fuerte": "La coordinación entre la Nación y las provincias será determinante para afrontar los desafíos que tenemos por delante."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Prevención de desastres naturales",
+                "Asistencia humanitaria",
+                "Gestión territorial"
+            ],
+            "postura_politica": "Se enfoca en acciones preventivas ante el fenómeno 'El Niño' y la continuidad de operativos en el Impenetrable chaqueño, demostrando compromiso con la gestión territorial y las necesidades básicas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura energética",
+                "Desarrollo regional",
+                "Servicios esenciales"
+            ],
+            "postura_politica": "Destaca inversiones provinciales en obras clave para la protección costera y la provisión de gas, enfatizando una gestión propia que resuelve problemas históricos frente a inacciones pasadas.",
+            "frase_fuerte": "Hace casi dos décadas un estudio advirtió que era urgente proteger el Cerro Chenque y la costa de Comodoro. Durante años no se hizo nada: hoy esa obra ya está en marcha."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obra pública",
+                "Desarrollo urbano",
+                "Educación",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Subraya el sostenimiento de la obra pública con recursos provinciales, contrastando con la parálisis nacional y reafirmando la educación como un pilar fundamental para el progreso provincial.",
+            "frase_fuerte": "En un país donde la obra pública está paralizada, en #Córdoba seguimos haciendo."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Legado Peronista",
+                "Educación superior",
+                "Desarrollo regional",
+                "Patria grande"
+            ],
+            "postura_politica": "Rinde homenaje a Perón, vinculando su legado a un proyecto de patria justa, libre y soberana. Destaca la expansión de la educación superior como motor de crecimiento y oportunidades provinciales.",
+            "frase_fuerte": "Recordamos a Juan Domingo Perón, conductor de un proyecto político que marcó profundamente la historia argentina y dejó como legado la lucha irrenunciable por una Patria grande, justa, libre y soberana."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Relación con Gobierno Nacional",
+                "Diálogo institucional",
+                "Jefe de Gabinete"
+            ],
+            "postura_politica": "Felicita al nuevo Jefe de Gabinete, Santilli, expresando la voluntad de diálogo y gestión conjunta con Jujuy para el avance y desarrollo de la provincia.",
+            "frase_fuerte": "Felicitaciones y éxitos @diegosantilli en tu nueva función como Jefe de Gabinete. Que el diálogo y la gestión conjunta con Jujuy sean el camino para avanzar."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Legado Peronista",
+                "Modelo económico nacional",
+                "Justicia social",
+                "Autonomía provincial"
+            ],
+            "postura_politica": "Defiende el legado de Perón como contrapunto a un 'modelo nacional' que considera regresivo, reivindicando un Estado que prioriza al ser humano, la inclusión social y la dignidad del pueblo.",
+            "frase_fuerte": "A 52 años de su fallecimiento, su legado cobra enorme vigencia frente a un modelo nacional que vuelve a poner a la Argentina al servicio de unos pocos, mientras miles de familias enfrentan la angustia de no llegar a fin de mes."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Apoyo a PyMEs",
+                "Desarrollo productivo",
+                "Financiamiento",
+                "Legado Peronista",
+                "Justicia social"
+            ],
+            "postura_politica": "Impulsa herramientas de financiamiento para PyMEs y emprendedores, considerándolos motores económicos. Conmemora a Perón, vinculando su visión a la defensa de derechos y un estado federal.",
+            "frase_fuerte": "Hay hombres que trascienden su tiempo porque sembraron un camino para generaciones enteras."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Relación con Gobierno Nacional",
+                "Diálogo institucional",
+                "Jefe de Gabinete"
+            ],
+            "postura_politica": "Desea éxito al nuevo Jefe de Gabinete, Santilli, destacando sus capacidades para el desarrollo nacional y las oportunidades, sugiriendo una expectativa de colaboración interjurisdiccional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Seguridad jurídica de tierras",
+                "Economía provincial",
+                "Simplificación administrativa",
+                "Desarrollo comunitario"
+            ],
+            "postura_politica": "Enfatiza la importancia del programa 'Mi Título' para la seguridad y arraigo familiar. Introduce cambios en controles fiscales para agilizar la economía y el ingreso de mercaderías en la provincia.",
+            "frase_fuerte": "Con el programa Mi Título, 59 familias de Puerto Iguazú accedieron a la seguridad y tranquilidad que brinda ser titulares de sus tierras."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura",
+                "Desarrollo económico",
+                "Innovación",
+                "Crecimiento del PBG"
+            ],
+            "postura_politica": "Destaca el crecimiento económico provincial y la inversión en obras de saneamiento urbano. Promueve la innovación y el talento como motores del futuro, mostrando un Neuquén diversificado más allá de Vaca Muerta.",
+            "frase_fuerte": "PLANIFICACIÓN, TRABAJO EN EQUIPO Y MÁS OBRAS PARA NEUQUÉN."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obra pública",
+                "Empleo local",
+                "Desarrollo energético",
+                "Seguridad",
+                "Financiamiento federal"
+            ],
+            "postura_politica": "Enfatiza el impacto de grandes inversiones en empleo local a través de la 'Ley 80/20' y la gestión de financiamiento federal para infraestructura estratégica. Reafirma la voluntad de diálogo y la defensa de intereses provinciales con Nación.",
+            "frase_fuerte": "La Ley 80/20 nació para eso: priorizar la contratación de mano de obra local y garantizar que el crecimiento también se traduzca en oportunidades para las familias de nuestra provincia."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obra pública",
+                "Educación",
+                "Programas sociales",
+                "Cultura Malvinas"
+            ],
+            "postura_politica": "Destaca avances en infraestructura vial y vivienda, así como mejoras sustanciales en los resultados educativos provinciales. Promueve la 'Malvinización' y la inversión alimentaria como pilares de su gestión.",
+            "frase_fuerte": "Mejoras sustanciales en “comprensión lectora” en primero, segundo y tercer grado del Primario, mejoras importantes en “Lengua y en Matemática” para los sexto grado ; y las mayores mejoras educativas se dieron en los sectores socioeconómicos “más bajos”."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Conectividad aérea",
+                "Turismo",
+                "Producción",
+                "Desarrollo económico",
+                "Diversificación productiva"
+            ],
+            "postura_politica": "Celebra la expansión de la conectividad aérea como un impulso vital para el turismo y la producción local. Enfatiza la diversificación económica como camino para un desarrollo menos dependiente y más fuerte.",
+            "frase_fuerte": "MÁS CONECTIVIDAD PARA IMPULSAR EL TURISMO, LA PRODUCCIÓN Y EL DESARROLLO DE SANTA CRUZ."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Modernización del Estado",
+                "Digitalización",
+                "Acceso a la vivienda",
+                "Eficiencia administrativa"
+            ],
+            "postura_politica": "Lidera una transformación hacia un 'Estado digital, transparente y eficiente', buscando agilizar trámites y eliminar la burocracia. Destaca la entrega de escrituras como una política social clave.",
+            "frase_fuerte": "A partir de hoy, Santa Fe deja atrás el papel y pasamos a un Estado digital, transparente y eficiente."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo de capital humano",
+                "Formación de jóvenes",
+                "Oportunidades laborales",
+                "Tecnología"
+            ],
+            "postura_politica": "Resalta el impacto de programas que capacitan a jóvenes para el empleo y la construcción de su futuro, enfatizando la visión provincial de desarrollo mediante la integración de tecnología.",
+            "frase_fuerte": "Por iniciativa del gobernador @EliasSuarezSDE, el programa Santiago Crece Con Vos impacta en la vida de jóvenes santiagueños como ellos, que entendieron que la mejor forma de predecir lo que viene es capacitándose para construirlo hoy."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Diálogo con gremios",
+                "Desarrollo productivo",
+                "Infraestructura",
+                "Relación con Nación",
+                "Empleo"
+            ],
+            "postura_politica": "Muestra apertura al diálogo con sectores gremiales y productivos. Destaca obras de infraestructura y las gestiones ante el gobierno nacional para sostener proyectos clave, enfatizando el trabajo conjunto para el futuro provincial.",
+            "frase_fuerte": "Cuando el Estado, los trabajadores y el sector productivo trabajan juntos, Tucumán tiene presente y futuro."
+        }
+    ]
+}

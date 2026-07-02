@@ -1,0 +1,255 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por el 52° aniversario de la muerte de Perón, utilizado por gobernadores peronistas para reafirmar identidad y marcar distancia del ajuste nacional, mientras que una docena de mandatarios de distintos signos políticos saludaron la designación de Diego Santilli como Jefe de Gabinete, señalando una ventana de diálogo federal. La obra pública provincial y la gestión local ocuparon el resto de la agenda, sin grandes roces con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El 1 de julio no fue un día de tensión fiscal abierta, sino de posicionamiento simbólico. El aniversario de Perón funcionó como un test de lealtad para el peronismo gobernador. Kicillof, Insfran, Ziliotto y Quintela usaron la efeméride para contrastar el legado justicialista con el modelo de ajuste nacional, mientras que Jalil y otros peronistas moderados optaron por un tono más institucional, combinando el homenaje con el saludo a Santilli. La Casa Rosada, al nombrar a un Jefe de Gabinete con perfil dialoguista, buscó descomprimir la relación con las provincias, y la respuesta fue mayoritariamente positiva: 12 gobernadores (incluyendo a varios no alineados) le desearon éxito, lo que sugiere que el oficialismo logró abrir una tregua táctica.\n\nActo 2 — Los Alineamientos: El bloque de gobernadores que saludó a Santilli es heterogéneo: desde el peronista Raúl Jalil (Catamarca) hasta el radical Leandro Zdero (Chaco), pasando por el neuquino Rolando Figueroa y el rionegrino Alberto Weretilneck. Todos ellos priorizaron el gesto de diálogo por sobre la confrontación. En el otro extremo, Kicillof y Ziliotto evitaron mencionar a Santilli y reforzaron el discurso peronista clásico, marcando que no bajan los brazos frente al ajuste. Jorge Macri (CABA) se mantuvo en su línea de 'Ley y orden', sin referencias a la Nación, lo que indica una autonomía calculada. Los gobernadores de provincias periféricas (Formosa, La Rioja, San Luis) se refugiaron en la agenda local y las efemérides, sin tomar partido en la disputa central.\n\nActo 3 — La Micro-política: En provincias como Chubut, Neuquén y Río Negro, los gobernadores combinaron el saludo a Santilli con anuncios de obras financiadas con recursos propios, reforzando el mensaje de que gestionan a pesar del repliegue nacional. Nacho Torres (Chubut) destacó el Plan Galina como respuesta a la paralización de obras nacionales. Weretilneck celebró el aval de Caputo para un crédito del BID, mostrando que la relación con Nación no es de confrontación sino de gestión pragmática. En San Luis, Claudio Poggi desplegó una intensa agenda de obras menores y programas educativos, sin mencionar la macroeconomía. En Santa Fe, Pullaro avanzó con la digitalización del Estado, un tema técnico que también es político: muestra eficiencia mientras Nación ajusta.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día fue positivo: la mayoría de los gobernadores aceptó la oferta de diálogo implícita en la designación de Santilli. Sin embargo, el peronismo duro (Kicillof, Ziliotto, Insfran) no dio tregua y usó a Perón para recordar que el conflicto de fondo sigue vigente. El oficialismo logró instalar la idea de una nueva etapa de cooperación, pero los gestos de autonomía provincial (obra pública propia, silencio sobre la macro) indican que las provincias no entregarán su capital político fácilmente. La jornada dejó un empate táctico: Nación abrió una puerta, pero las provincias peronistas no la cruzaron.",
+    "temas_calientes": [
+        {
+            "tema": "Homenaje a Perón en el 52° aniversario de su muerte",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Saludos y expectativas por la designación de Diego Santilli como Jefe de Gabinete",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@carlossadirjuy",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Obra pública provincial como respuesta al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Educación y modernización del Estado",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Recorrimos el Centro de Formación Laboral N°401 de San Vicente, uno de los 20 que funcionan en la provincia, donde firmamos un convenio para fortalecer su funcionamiento y acompañar el trabajo que realiza desde hace más de una década.\n\nTambién firmamos un acuerdo para realizar una nueva edición de la Expo Construí Gastronomía y Turismo 2026 con impulso del @CFI_Argentina, una iniciativa que promueve el desarrollo productivo local y la generación de empleo.\n\nNo hay mejor manera de homenajear a Perón que honrando su legado con políticas públicas peronistas.",
+        "por_que_es_clave": "Kicillof utiliza el aniversario de Perón para enmarcar su gestión provincial como la verdadera heredera del peronismo, en contraste con el ajuste nacional. La mención al CFI y la obra pública local es un dardo directo a la Casa Rosada: 'nosotros hacemos lo que Nación abandonó'.",
+        "pregunta_openarg": "¿El peronismo gobernador usa a Perón como escudo para ocultar su propia falta de resultados o realmente está sosteniendo el Estado frente al ajuste?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Homenaje a Perón",
+                "Formación laboral",
+                "Obra pública provincial",
+                "Banco Provincia"
+            ],
+            "postura_politica": "Kicillof se posiciona como el verdadero custodio del legado peronista, contrastando su gestión activa con la parálisis nacional. Omite mencionar a Santilli o a Nación, lo que sugiere que no está dispuesto a negociar su capital político. Cada tweet es una reivindicación de autonomía y resistencia.",
+            "frase_fuerte": "No hay mejor manera de homenajear a Perón que honrando su legado con políticas públicas peronistas."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Recuperación de propiedades",
+                "Ley y orden",
+                "Banco de ADN de delincuentes"
+            ],
+            "postura_politica": "Macri se mantiene en su eje de seguridad y gestión urbana, sin referencias a la Nación ni a la coyuntura federal. Es un repliegue estratégico: no necesita pedir nada ni confrontar, porque su agenda local le basta para marcar perfil propio.",
+            "frase_fuerte": "Propiedad recuperada 860. No nos frenaron. No nos van a frenar. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Homenaje a Perón",
+                "Saludo a Santilli",
+                "Cooperación internacional"
+            ],
+            "postura_politica": "Jalil combina el homenaje a Perón con un saludo entusiasta a Santilli, mostrando que busca mantener un pie en el peronismo histórico y otro en la relación con Nación. Es un equilibrio calculado para no quedar aislado.",
+            "frase_fuerte": "La coordinación entre la Nación y las provincias será determinante para afrontar los desafíos que tenemos por delante."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Operativo Interfluvio",
+                "Alfabetización",
+                "Prevención El Niño",
+                "Saludo a Santilli"
+            ],
+            "postura_politica": "Zdero prioriza la gestión social y la prevención de desastres, mostrando un Estado presente. El saludo a Santilli es protocolario pero refuerza su perfil dialoguista. No hay confrontación con Nación.",
+            "frase_fuerte": "Cuando se prioriza la alfabetización, los resultados llegan."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Plan Galina",
+                "Gas para Valle Chico",
+                "Obra pública provincial",
+                "Saludo a Santilli"
+            ],
+            "postura_politica": "Torres utiliza el Plan Galina como bandera de autonomía: 'hacemos con recursos propios lo que Nación no hizo'. El saludo a Santilli es cordial pero no condiciona su agenda. Se presenta como gestor eficiente frente al abandono nacional.",
+            "frase_fuerte": "Después de más de 10 años, Valle Chico ya tiene gas. Esta obra no empezó con el encendido de un mechero, empezó cuando decidimos hacernos cargo."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obra pública provincial",
+                "Educación internacional",
+                "Saludo a Santilli (implícito)"
+            ],
+            "postura_politica": "Llaryora muestra a Córdoba como isla de gestión en un mar de parálisis. El encuentro con ministros de educación latinoamericanos refuerza su perfil de provincia modelo. No menciona a Nación directamente, pero el contraste es evidente.",
+            "frase_fuerte": "En un país donde la obra pública está paralizada, en Córdoba seguimos haciendo."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Homenaje a Perón",
+                "Aniversario UPLaB",
+                "Gestión local"
+            ],
+            "postura_politica": "Insfran se refugia en el peronismo más tradicional y en la agenda local. No hay saludo a Santilli ni mención a Nación. Es un silencio que sugiere desconfianza o espera de señales más claras.",
+            "frase_fuerte": "Recordamos a Juan Domingo Perón, conductor de un proyecto político que marcó profundamente la historia argentina."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Saludo a Santilli"
+            ],
+            "postura_politica": "Sadir se limita a un saludo escueto a Santilli, sin agenda propia. Es un gesto mínimo de alineamiento con la nueva etapa, pero sin compromiso adicional.",
+            "frase_fuerte": "Felicitaciones y éxitos @diegosantilli en tu nueva función como Jefe de Gabinete."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Homenaje a Perón",
+                "Obra pública provincial",
+                "Salud"
+            ],
+            "postura_politica": "Ziliotto usa a Perón para marcar distancia del modelo nacional: 'frente a un modelo que vuelve a poner a la Argentina al servicio de unos pocos'. Es un discurso de resistencia peronista, sin concesiones al diálogo.",
+            "frase_fuerte": "Perón no nos dejó, vive en nuestra lealtad a su legado, en cada decisión política de nuestro gobierno."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Homenaje a Perón",
+                "PyMEs y financiamiento"
+            ],
+            "postura_politica": "Quintela combina el homenaje a Perón con un anuncio de apoyo a PyMEs, mostrando gestión local. No menciona a Santilli, lo que sugiere que prefiere mantenerse en el peronismo duro.",
+            "frase_fuerte": "Perón vive en cada lucha por una patria más justa, libre y soberana."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Saludo a Santilli"
+            ],
+            "postura_politica": "Cornejo se suma al coro de saludos a Santilli, pero sin mayor desarrollo. Es un gesto de cortesía institucional, sin profundidad política.",
+            "frase_fuerte": "En esta nueva etapa como Jefe de Gabinete de Ministros de la Nación, le deseo éxitos a @diegosantilli."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Titulación de tierras",
+                "Simplificación fiscal"
+            ],
+            "postura_politica": "Passalacqua se enfoca en gestión local con dos anuncios concretos: titulación y nuevo esquema fiscal. No hay referencias a Perón ni a Santilli. Es un repliegue en la agenda de cabotaje, evitando posicionamientos nacionales.",
+            "frase_fuerte": "Con el programa Mi Título, 59 familias de Puerto Iguazú accedieron a la seguridad y tranquilidad que brinda ser titulares de sus tierras."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Innovación",
+                "Crecimiento económico",
+                "Saludo a Santilli"
+            ],
+            "postura_politica": "Figueroa combina el saludo a Santilli con datos de crecimiento provincial y obras, mostrando que Neuquén es un socio confiable para Nación. Su mensaje es de cooperación y resultados.",
+            "frase_fuerte": "Gracias al trabajo de todos los neuquinos, en dos años hemos alcanzado el mayor nivel de crecimiento en la actividad económica del país."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Saludo a Santilli",
+                "Obra pública",
+                "GNL",
+                "Descubrimiento paleontológico",
+                "Seguridad"
+            ],
+            "postura_politica": "Weretilneck es el gobernador más activo del día, combinando múltiples temas. Su saludo a Santilli es cálido y va acompañado de gestiones concretas (aval de Caputo para crédito BID). Se posiciona como un interlocutor válido y pragmático.",
+            "frase_fuerte": "Felicitaciones @diegosantilli por tu asunción como Jefe de Gabinete. Estoy convencido de que el diálogo, el trabajo conjunto y una mirada verdaderamente federal son el camino."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Obra pública local",
+                "Educación",
+                "Malvinas",
+                "Saludo a Santilli"
+            ],
+            "postura_politica": "Poggi despliega una intensa agenda de gestión local (viviendas, educación, libro Malvinas) y se suma al saludo a Santilli. Es un perfil bajo pero activo, sin confrontación.",
+            "frase_fuerte": "Felicitaciones @diegosantilli y muchos éxitos en esta nueva función como Jefe de Gabinete de Ministros."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Conectividad aérea",
+                "Saludo a Santilli"
+            ],
+            "postura_politica": "Vidal celebra el nuevo vuelo a Perito Moreno como un logro de conectividad y saluda a Santilli. Es un gesto de apertura al diálogo, pero sin mayor contenido político.",
+            "frase_fuerte": "YA PARTIÓ EL PRIMER VUELO DE AMERICAN JET A PERITO MORENO. Más conectividad para impulsar el turismo, la producción y el desarrollo de Santa Cruz."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Digitalización del Estado",
+                "Escrituras",
+                "Saludo a Santilli"
+            ],
+            "postura_politica": "Pullaro apuesta a la modernización del Estado como eje de gestión, mostrando eficiencia. El saludo a Santilli es protocolario pero refuerza su perfil de gobernador dialoguista.",
+            "frase_fuerte": "A partir de hoy, Santa Fe deja atrás el papel y pasamos a un Estado digital, transparente y eficiente."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Programa Santiago Crece Con Vos"
+            ],
+            "postura_politica": "Suarez se limita a un retweet sobre un programa de capacitación juvenil. Sin posicionamiento nacional. Es agenda local pura.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Reunión con gremios",
+                "Gestión de residuos",
+                "Saludo a Santilli"
+            ],
+            "postura_politica": "Jaldo muestra capacidad de diálogo social (reunión con 100 gremios) y gestión ambiental. El saludo a Santilli es entusiasta y lo enmarca en una nueva etapa de cooperación federal.",
+            "frase_fuerte": "Cuando el Estado, los trabajadores y el sector productivo trabajan juntos, Tucumán tiene presente y futuro."
+        }
+    ]
+}
