@@ -1,0 +1,174 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La asunción de Diego Santilli como Jefe de Gabinete domina la agenda. Gobernadores de distintos signos políticos (Jalil, Zdero, Weretilneck, Cornejo) le desean éxito, marcando expectativas de diálogo federal. En paralelo, la gestión provincial de obras y servicios aparece como refugio ante el ajuste nacional, con Macri (CABA) enfatizando 'Ley y orden' en propiedad y seguridad.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El nuevo Jefe de Gabinete, Diego Santilli, recibe una ola de salutaciones que trasciende el protocolo. Gobernadores periféricos y centrales, peronistas y radicales, le exigen 'diálogo' y 'mirada federal'. La Casa Rosada busca reordenar la relación con las provincias tras meses de tensión fiscal. El silencio de los gobernadores más confrontativos (Kicillof, Quintela) es tan elocuente como los mensajes de apoyo: no quieren quedar afuera del nuevo esquema de poder.\n\nActo 2 — Los Alineamientos: Jalil (Catamarca) y Zdero (Chaco) saludan a Santilli con énfasis en la 'coordinación Nación-provincias'. Weretilneck (Río Negro) y Cornejo (Mendoza) agregan la agenda de inversiones y obra pública. Llaryora (Córdoba) y Pullaro (Santa Fe) se concentran en gestión local eficiente, marcando autonomía. Poggi (San Luis) y Vidal (Santa Cruz) apuestan a la gestión territorial como carta de presentación. Macri (CABA) se posiciona en la derecha dura con 'ley y orden'. El arco de apoyos a Santilli es amplio pero condicionado a resultados concretos.\n\nActo 3 — La Micro-política: Los gobernadores periféricos muestran su gestión de cabotaje como escudo ante el ajuste. Passalacqua (Misiones) extiende programas de refinanciamiento y titulación de tierras. Poggi entrega viviendas y promueve la educación. Vidal inaugura conectividad aérea en Santa Cruz. Son gestos de supervivencia política que buscan demostrar presencia estatal donde la Nación se retira.\n\nActo 4 — Saldo Presidencial: La Casa Rosada suma una ventana de diálogo, pero los gobernadores ya marcan la cancha: quieren recursos y obras. La ausencia de críticas directas no debe leerse como alineamiento, sino como una tregua calculada. El capital político de Santilli será su capacidad de traducir las salutaciones en acuerdos fiscales concretos.",
+    "temas_calientes": [
+        {
+            "tema": "Saludo a Diego Santilli como nuevo Jefe de Gabinete",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Gestión de obra pública provincial frente a la parálisis nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educación y alfabetización como política de Estado",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Seguridad urbana y 'ley y orden'",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Conectividad y desarrollo productivo regional",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @en_con_texto)",
+        "texto": "EL GOBIERNO PORTEÑO RECUPERÓ LA PROPIEDAD NÚMERO 860\n\nLuego de apelar el \"fallo absurdo\" del juez Gallardo que \"atacaba la propiedad privada\", Jorge Macri celebró un operativo en Palermo y advirtió que \"no nos frenaron\" ni \"nos van a frenar\": \"Para los defensores de okupas\".",
+        "por_que_es_clave": "Macri refuerza su perfil de mano dura en seguridad y propiedad privada, diferenciándose del relato nacional y marcando territorio en la Ciudad Autónoma. Es un guiño al electorado duro y a la vez una advertencia al Gobierno Nacional sobre su autonomía.",
+        "pregunta_openarg": "¿La política de 'ley y orden' de Jorge Macri en CABA es un modelo replicable en otras provincias o una excepción porteña?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "propiedad privada",
+                "okupas",
+                "Policía de la Ciudad"
+            ],
+            "postura_politica": "Refuerza su perfil de derecha dura con la recuperación de propiedades y el fortalecimiento policial. Se posiciona como el garante del orden frente a la 'avivada' y la 'inseguridad', en sintonía con el PRO histórico pero con un giro más ejecutivo.",
+            "frase_fuerte": "\"No nos frenaron. No nos van a frenar. Ley y orden.\""
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "ciencia",
+                "exportaciones",
+                "Perón",
+                "Santilli",
+                "diplomacia"
+            ],
+            "postura_politica": "Combina agenda científica (cráter Belén) con saludo a Santilli y homenaje a Perón. Busca mostrar una provincia moderna y dialoguista, alejada de la confrontación. El saludo a Santilli es un guiño a la Casa Rosada sin romper con el peronismo.",
+            "frase_fuerte": "\"Catamarca llegó a Marte!\""
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "operativo Interfluvio",
+                "alfabetización",
+                "El Niño",
+                "Santilli",
+                "obra pública"
+            ],
+            "postura_politica": "Gobernador radical que apuesta a la gestión social y la prevención de desastres. El saludo a Santilli es institucional, pero su foco en la alfabetización y la asistencia directa muestra prioridad en la gestión local antes que en la pelea política.",
+            "frase_fuerte": "\"Cuando se prioriza la alfabetización, los resultados llegan.\""
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obra pública",
+                "educación",
+                "gas",
+                "transparencia fiscal",
+                "cooperación internacional"
+            ],
+            "postura_politica": "Marca el 'Modelo Córdoba' como alternativa al ajuste nacional: obra pública sostenida, educación como prioridad y gestión fiscal responsable. Se posiciona como un gobernador eficiente que no depende de Nación, pero envía una brigada de rescate a Venezuela mostrando solidaridad.",
+            "frase_fuerte": "\"En un país donde la obra pública está paralizada, en Córdoba seguimos haciendo.\""
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "inversión privada",
+                "minería",
+                "educación",
+                "vivienda",
+                "Santilli"
+            ],
+            "postura_politica": "Gobernador radical que apuesta al desarrollo minero y la atracción de inversiones. El saludo a Santilli es acompañado de gestión concreta: escuelas, viviendas, energía. Se muestra como un socio confiable para Nación, pero defiende la autonomía mendocina.",
+            "frase_fuerte": "\"Mendoza sigue siendo un lugar confiable para invertir.\""
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "refinanciamiento",
+                "titulación de tierras",
+                "educación",
+                "justicia",
+                "cultura"
+            ],
+            "postura_politica": "Gobernador peronista que combina gestión social (refinanciamiento, títulos) con agenda cultural y educativa. Sin menciones a Nación, se refugia en la gestión local y el vínculo con intendentes. Un perfil bajo pero efectivo.",
+            "frase_fuerte": "\"Cada título representa arraigo, futuro y la certeza de contar con un hogar.\""
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "GNL",
+                "obra pública",
+                "salud",
+                "educación",
+                "Santilli",
+                "seguridad"
+            ],
+            "postura_politica": "Gobernador peronista federal que celebra el aval de Caputo para un crédito del BID y promociona el proyecto SESA de GNL. Su saludo a Santilli es pragmático: busca financiamiento para obras. La agenda es de desarrollo productivo con perfil propio.",
+            "frase_fuerte": "\"El futuro energético de la Argentina se está construyendo en Río Negro.\""
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "vivienda",
+                "infraestructura",
+                "Malvinas"
+            ],
+            "postura_politica": "Gobernador peronista que muestra resultados en educación (TUBI, concursos) y obra pública (viviendas, pavimento). Su saludo a Santilli es escueto. Prefiere la gestión territorial y la 'malvinización' como agenda simbólica.",
+            "frase_fuerte": "\"Ya se ven los primeros resultados de la política educativa que impulsamos.\""
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "digitalización del Estado",
+                "escrituras",
+                "obra pública",
+                "lucha contra el narcotráfico",
+                "eventos"
+            ],
+            "postura_politica": "Gobernador radical que impulsa la modernización del Estado (expediente digital) y la lucha contra el microtráfico (búnkeres derribados). Muestra una provincia en transformación, con foco en la eficiencia y la seguridad. Sin confrontación directa con Nación.",
+            "frase_fuerte": "\"Se terminó el ciudadano rehén de la burocracia.\""
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "conectividad aérea",
+                "salud",
+                "vivienda",
+                "gas",
+                "CGT",
+                "instituciones"
+            ],
+            "postura_politica": "Gobernador peronista que busca mostrar gestión y diálogo (reunión con Daer). La inauguración de vuelos a Perito Moreno es un hito de conectividad. Se posiciona como un gestor que enfrenta el abandono nacional, pero busca consensos.",
+            "frase_fuerte": "\"Gobernar con rumbo también es esto: recuperar la conectividad que el abandono nos quitó.\""
+        }
+    ]
+}
