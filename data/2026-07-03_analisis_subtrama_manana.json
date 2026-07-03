@@ -1,0 +1,163 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de repliegue provincial. Gobernadores de distritos centrales ausentes del debate público. Predominan agendas locales de gestión, sin confrontación con Nación. La excepción es Quintela (La Rioja), que ensaya construcción de unidad opositora peronista. El resto se refugia en obras, efemérides y promoción turística.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada del 3 de julio estuvo marcada por la ausencia de disputa federal. Gobernadores de provincias centrales como Buenos Aires, CABA, Córdoba y Santa Fe no emitieron señales políticas. El silencio de Kicillof, Macri, Llaryora y Pullaro en el día post-asunción de Santilli como Jefe de Gabinete sugiere una pausa calculada, quizás a la espera de señales concretas sobre coparticipación o giros discrecionales. La tensión no se expresa, pero se respira en la omisión.\n\nActo 2 — Los Alineamientos: Ricardo Quintela (La Rioja) emerge como el único gobernador que toma posición. Su reunión con referentes feministas del PJ y su énfasis en la unidad partidaria lo posicionan como articulador de una alternativa opositora. En las antípodas, Raúl Jalil (Catamarca) y Carlos Sadir (Jujuy) mantienen una agenda de bajo perfil, con foco en relaciones institucionales y promoción local. Alberto Weretilneck (Río Negro) combina gestión de obras con un guiño al gobierno nacional al agradecer a Caputo por un aval financiero, mostrando pragmatismo.\n\nActo 3 — La Micro-política: La mayoría de los gobernadores activos se refugian en la gestión de cabotaje. Leandro Zdero (Chaco) muestra apoyo a energía renovable en una empresa local. Martín Llaryora (Córdoba) inaugura infraestructura urbana sin mencionar a Nación. Rolando Figueroa (Neuquén) destaca obras de electrificación fronteriza. Claudio Poggi (San Luis) recorre escuelas y viviendas. Esta apatía federal revela una estrategia de supervivencia: mostrar gestión propia mientras se evita el debate sobre el ajuste nacional.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no es mencionada explícitamente en ningún tweet relevante. La ausencia de críticas directas puede interpretarse como un respiro para el gobierno, pero también como una advertencia: los gobernadores no se sienten convocados a defender al Ejecutivo. El silencio es una forma de desgaste. La designación de Santilli, bien recibida por varios, aún no se traduce en apoyo explícito.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y obra pública provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Relaciones internacionales y fronteras",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Unidad política opositora peronista",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Turismo y eventos deportivos locales",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestión educativa y salud",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "En Buenos Aires  compartí un valioso encuentro con Dora Barrancos, Marita Perceval, Victoria Montenegro, Juliana Marino y Virginia Franganillo, mujeres con una militancia muy importante por los derechos de las mujeres, las disidencias y los derechos humanos. \n\nCoincidimos en que la construcción de un Partido Justicialista capaz de representar y dirigir el destino de la Argentina, requiere del compromiso, la experiencia y la participación activa de todos y todas. En ese camino, las voces de las mujeres y las disidencias son fundamentales para fortalecer un proyecto político representativo, federal y conectado con las necesidades de la sociedad.\n\nTenemos el desafío de construir una alternativa con vocación de servicio, que recupere la esperanza de los argentinos y argentinas  y vuelva a poner en el centro la justicia social, la igualdad de oportunidades y el desarrollo de nuestro país.\nGracias a todas las compañeras que participaron de la Rama de mujeres y diversidades del PJ que participaron y que siempre están trabajando para la comunidad.",
+        "por_que_es_clave": "Quintela se posiciona como articulador de la unidad peronista, incorporando diversidad y derechos humanos, en un momento de debilidad opositora. La reunión con figuras nacionales del progresismo y DDHH busca construir un relato de alternativa federal, mientras el gobierno nacional enfrenta críticas por ajuste.",
+        "pregunta_openarg": "¿Puede el peronismo reconstruir una alternativa de poder sin un liderazgo único, basándose en la diversidad de voces y la crítica al ajuste, o la fragmentación lo condena a la irrelevancia?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "turismo",
+                "eventos deportivos",
+                "promoción local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Promueve el Gran Premio Argentino Histórico, destacando turismo y economía. No hay mención a Nación, lo que sugiere un perfil bajo y búsqueda de rédito propio.",
+            "frase_fuerte": "Nuestra provincia será protagonista del XXIII Gran Premio Argentino Histórico."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "energías renovables",
+                "apoyo al sector privado"
+            ],
+            "postura_politica": "Gestión provincial sin conflicto. Destaca inversión privada en energía solar, mostrando apoyo a empresas. No crítica a Nación, perfil técnico.",
+            "frase_fuerte": "Apoyamos al sector privado porque cada inversión impulsa más producción y más trabajo genuino para los chaqueños."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "infraestructura vial",
+                "obra pública"
+            ],
+            "postura_politica": "Gestión provincial activa. Inaugura un altonivel en Río Cuarto, destacando inversión en infraestructura a pesar del contexto. No menciona a Nación, implícitamente marca autonomía.",
+            "frase_fuerte": "En #Córdoba, el futuro no se promete: se construye."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "reconocimiento a empleados",
+                "legislativo"
+            ],
+            "postura_politica": "Agenda protocolar aislada. Ceremonia de reconocimiento a trabajadores legislativos. Sin contenido político federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "relaciones internacionales",
+                "diplomacia"
+            ],
+            "postura_politica": "Agenda de bajo perfil internacional. Recibe al embajador de Ucrania para fortalecer lazos. No hay posicionamiento nacional.",
+            "frase_fuerte": "Dialogamos sobre las realidades de nuestras regiones para seguir fortaleciendo los lazos institucionales y el intercambio técnico."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "unidad partidaria",
+                "derechos humanos",
+                "mujeres"
+            ],
+            "postura_politica": "Construcción de alternativa opositora. Reúne a referentes del PJ y diversidades para fortalecer un proyecto político federal. Crítica implícita al gobierno nacional al hablar de 'recuperar la esperanza'.",
+            "frase_fuerte": "Tenemos el desafío de construir una alternativa con vocación de servicio, que recupere la esperanza de los argentinos y argentinas"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "historia local",
+                "reconocimiento"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Conmemora la Batalla de Apóstoles y entrega distinción. Reivindicación histórica, sin mención a Nación.",
+            "frase_fuerte": "El mejor homenaje que podemos hacerle es no olvidar su ejemplo y seguir construyendo, entre todos, una Misiones con los valores que él defendió."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "infraestructura eléctrica",
+                "integración fronteriza",
+                "gestión"
+            ],
+            "postura_politica": "Gestión provincial con proyección internacional. Destaca obras de electrificación en paso fronterizo Mamuil Malal, fortaleciendo integración con Chile. No conflicto con Nación.",
+            "frase_fuerte": "Hacemos las obras que realmente hacen falta, las que jerarquizan el trabajo que se desarrolla en toda la provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "gas natural",
+                "infraestructura",
+                "gestión municipal"
+            ],
+            "postura_politica": "Gestión provincial activa. Inaugura gas en El Bolsón y anuncia obras de terminal. Agradece a Caputo por aval financiero, mostrando pragmatismo y relación con Nación.",
+            "frase_fuerte": "Sabemos que falta. Pero este es el rumbo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "deporte",
+                "obra pública",
+                "educación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Recorre escuelas, entrega viviendas, programa deportivo. Gestión de cercanía, sin crítica a Nación.",
+            "frase_fuerte": "La construcción de VIVIENDAS volvió a San Luis y volvió para quedarse"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "eventos deportivos",
+                "gestión"
+            ],
+            "postura_politica": "Agenda local. Promociona los Juegos Suramericanos en Rosario. No hay mención a Nación, perfil de gestión.",
+            "frase_fuerte": "Rosario se prepara con todo para los Juegos Suramericanos!"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "desarrollo productivo",
+                "gestión con CFI"
+            ],
+            "postura_politica": "Gestión articulada con organismos federales. Recibe al CFI para analizar proyectos de desarrollo. Perfil técnico, sin conflicto.",
+            "frase_fuerte": "Estas herramientas nos permiten planificar y gestionar proyectos de largo plazo, fortaleciendo áreas estratégicas para el crecimiento económico."
+        }
+    ]
+}
