@@ -1,0 +1,290 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "Los gobernadores del país despliegan una agenda intensa, marcada por la fuerte gestión local y diversas interacciones con el Gobierno Nacional. Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba) critican la parálisis de la obra pública nacional y el impacto económico en las provincias, mientras Ignacio Torres (Chubut) y Leandro Zdero (Chaco) destacan la cooperación con Nación en infraestructura y asistencia social. Se observa un impulso significativo a la innovación y digitalización en CABA con la app BAX de Jorge Macri (Ciudad Autónoma de Buenos Aires), y a la soberanía energética en La Pampa bajo Sergio Ziliotto (La Pampa). Carlos Sadir (Jujuy) y Ricardo Quintela (La Rioja) avanzan en desarrollo productivo y protección de la niñez, respectivamente. Alfredo Cornejo (Mendoza) prioriza salud y educación, en tanto Hugo Passalacqua (Misiones) implementa alivio financiero, Claudio Poggi (San Luis) y Osvaldo Jaldo (Tucumán) inauguran obras clave. Claudio Vidal (Santa Cruz), Maximiliano Pullaro (Santa Fe) y Alberto Weretilneck (Río Negro) resaltan conectividad y obras provinciales, consolidando una agenda federal de acción.",
+    "analisis_profundo": "La jornada del 2 de julio de 2026 y las últimas horas del 1 de julio revelan una dinámica federal compleja, donde la gestión provincial se contrapone y, a veces, se articula con el Ejecutivo Nacional. Un eje central es la inversión en obra pública y servicios esenciales, que varios gobernadores destacan como motor de desarrollo local, a menudo contrastando con la situación nacional. Martín Llaryora (Córdoba) subraya que 'en un país donde la obra pública está paralizada, en #Córdoba seguimos haciendo', una postura replicada por Maximiliano Pullaro (Santa Fe) y Sergio Ziliotto (La Pampa), quienes recalcan el financiamiento con recursos propios y la continuidad de proyectos frente al 'ahogo económico nacional'. En esta línea, Axel Kicillof (Buenos Aires) eleva el tono al criticar la falta de contemplación de la Zona Fría, sugiriendo un desprecio hacia su provincia. \n\nParalelamente, se vislumbra una tendencia hacia la modernización y eficiencia estatal. Jorge Macri (Ciudad Autónoma de Buenos Aires) lidera esta agenda con el lanzamiento de BAX, una aplicación con Inteligencia Artificial para agilizar trámites, consolidando la imagen de una administración tecnológica. En la misma senda de innovación, Rolando Figueroa (Neuquén) destaca el uso del conocimiento en desarrollo productivo y la modernización de la infraestructura energética.\n\nLa relación con el Gobierno Nacional muestra matices de cooperación y tensión. Ignacio Torres (Chubut) mantuvo una reunión clave con el nuevo Jefe de Gabinete, Diego Santilli, para avanzar en la licitación del Acueducto de Comodoro y negociar la concesión de Futaleufú, indicando temas de negociación sensibles. Leandro Zdero (Chaco) también resalta la asistencia social conjunta con Capital Humano de la Nación. No obstante, la crítica a las políticas nacionales por su impacto en las provincias sigue siendo una constante en los discursos de gobernadores de signo político opuesto.\n\nLa agenda económica provincial se enfoca en el alivio fiscal y el apoyo a sectores productivos. Nacho Torres (Chubut) implementa 'Impuestos Cero' para la construcción y alivio financiero a PyMEs, mientras que Hugo Passalacqua (Misiones) extiende programas de refinanciamiento de deudas para empleados públicos y jubilados. Estas medidas buscan dinamizar la economía local y proteger a los ciudadanos ante la incertidumbre nacional.\n\nFinalmente, la educación y salud continúan siendo pilares de la gestión. Alfredo Cornejo (Mendoza) celebra los buenos resultados de Aprender 2025 y las inversiones en hospitales, mientras Elías Suárez (Santiago del Estero) inaugura nuevas obras educativas. Claudio Poggi (San Luis) avanza en la terminación de una Facultad de Medicina y el fomento de cooperativas escolares, y Ricardo Quintela (La Rioja) crea un Consejo Provincial para la protección de la niñez. Estas acciones reflejan un fuerte compromiso con el bienestar y el futuro de las nuevas generaciones, a menudo financiadas con esfuerzo propio de las provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la parálisis de la Obra Pública Nacional y sus efectos provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Modernización y Digitalización de la Gestión Pública",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Relación Nación-Provincias: Cooperación y Negociación en Infraestructura y Recursos",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@LeandroZdero",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Alivio Fiscal Local",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Kicillofok",
+                "@passalacquaok",
+                "@carlossadirjuy",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Salud y Educación con Inversión Provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE",
+                "@QuintelaRicardo",
+                "@ZiliottoSergio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH",
+        "texto": "EL NUEVO ACUEDUCTO DE COMODORO YA TIENE FECHA DE LICITACIÓN Tuvimos una muy buena reunión con @diegosantilli, donde acordamos avanzar en el decreto que habilitará la licitación del nuevo Acueducto de Comodoro Rivadavia la próxima semana: una obra esperada durante años por todos los vecinos del sur de la provincia. Además, conformamos una mesa de negociación para trabajar en conjunto sobre la futura concesión de la Central Hidroeléctrica Futaleufú. Porque los compromisos se cumplen: ese es el camino que elegimos para seguir transformando nuestra provincia.",
+        "por_que_es_clave": "Este tweet es clave porque detalla una interacción directa y exitosa con el nuevo Jefe de Gabinete de la Nación (@diegosantilli) sobre proyectos de infraestructura vitales y negociaciones energéticas estratégicas para la provincia, marcando un rumbo de cooperación y gestión federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Federalismo",
+                "Relación Nación-Provincias",
+                "Zona Fría",
+                "Política interna",
+                "Producción",
+                "PYMES",
+                "Obra pública"
+            ],
+            "postura_politica": "Crítica al gobierno nacional por políticas que afectan la provincia de Buenos Aires, defensa de los intereses bonaerenses y promoción del desarrollo productivo local con recursos propios. Busca construir una alternativa política desde el peronismo.",
+            "frase_fuerte": "No lo decimos nosotros, lo dice la realidad que se niegan a ver. Solo quienes no conocen la provincia de Buenos Aires o quienes la desprecian pueden sostener que no tiene que estar contemplada dentro de la Zona Fría."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Innovación tecnológica",
+                "Digitalización",
+                "Seguridad",
+                "Gestión pública"
+            ],
+            "postura_politica": "Impulsa la modernización del Estado con herramientas tecnológicas como la Inteligencia Artificial para simplificar trámites. Mantiene un fuerte enfoque en la seguridad ciudadana con énfasis en la 'ley y orden'.",
+            "frase_fuerte": "'Con BAX, los porteños pueden conversar con la Ciudad para hacer trámites, resolver consultas y acceder a los principales servicios de forma más simple y rápida. Porque ordenar también es hacer que la vida sea más fácil.'"
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Ciencia",
+                "Identidad provincial",
+                "Promoción"
+            ],
+            "postura_politica": "Destaca logros científicos que posicionan a Catamarca, promoviendo la identidad y potencial de la provincia a nivel nacional e internacional a través de la ciencia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Asistencia social",
+                "Gestión de servicios",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Prioriza la cercanía con los ciudadanos mediante operativos sociales y la provisión de servicios básicos. Mantiene una agenda de cooperación con el Ministerio de Capital Humano de la Nación para asistencia directa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Energía",
+                "Relación Nación-Provincias",
+                "Política fiscal",
+                "Apoyo a PyMES"
+            ],
+            "postura_politica": "Gestiona activamente obras de infraestructura vitales, buscando la cooperación nacional. Implementa políticas fiscales de alivio para dinamizar la economía local y fomentar la inversión y el empleo.",
+            "frase_fuerte": "Los compromisos se cumplen: ese es el camino que elegimos para seguir transformando nuestra provincia."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura urbana",
+                "Salud",
+                "Seguridad",
+                "Contexto económico nacional"
+            ],
+            "postura_politica": "Mantiene un fuerte impulso a la obra pública y servicios esenciales, contrastando con la parálisis nacional. Prioriza el trabajo en equipo con municipios para mejorar la calidad de vida de los cordobeses.",
+            "frase_fuerte": "En un país donde la obra pública está paralizada, en #Córdoba seguimos haciendo."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Gestión interna",
+                "Reconocimiento a empleados públicos"
+            ],
+            "postura_politica": "Enfatiza el valor del servicio público y la trayectoria de los trabajadores estatales, reconociendo su dedicación y compromiso con la comunidad formoseña.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Convenios"
+            ],
+            "postura_politica": "Impulsa el desarrollo económico a través de la firma de convenios que buscan fortalecer los distintos sectores productivos de la provincia de Jujuy.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Energía",
+                "Soberanía energética",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Destaca el avance de La Pampa en generación distribuida y la construcción de una mayor 'soberanía energética', implicando autonomía y resiliencia frente a contextos externos.",
+            "frase_fuerte": "La energía también es desarrollo. Por eso seguimos construyendo una provincia que produce su energía, cuida sus recursos y decide su futuro."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Niñez",
+                "Adolescencia",
+                "Protección de derechos",
+                "Políticas públicas federales"
+            ],
+            "postura_politica": "Prioriza las políticas de protección a la niñez y adolescencia, buscando fortalecer los sistemas de derechos y la participación de los jóvenes con una mirada federal en la implementación.",
+            "frase_fuerte": "No hay política pública más importante que la que protege a quienes representan el futuro de nuestra provincia."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud",
+                "Educación",
+                "Inversión privada",
+                "Turismo",
+                "Economía"
+            ],
+            "postura_politica": "Mantiene un enfoque en la mejora de la salud y educación con inversión en infraestructura y tecnología. Fomenta la inversión privada para impulsar el turismo y la generación de empleo en Mendoza.",
+            "frase_fuerte": "Vamos a seguir invirtiendo en educación para que los chicos de Mendoza tengan más oportunidades."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Finanzas provinciales",
+                "Alivio económico",
+                "Trabajadores públicos",
+                "Jubilados"
+            ],
+            "postura_politica": "Prioriza el alivio económico a los empleados públicos y jubilados mediante la extensión de programas de refinanciamiento de deudas en un contexto de dificultad económica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Ciencia",
+                "Tecnología",
+                "Medio ambiente",
+                "Energía",
+                "Eficiencia",
+                "Obra pública",
+                "Empresas públicas"
+            ],
+            "postura_politica": "Promueve el desarrollo basado en el conocimiento y la eficiencia de las empresas públicas de Neuquén, invirtiendo en infraestructura energética y destacando el manejo responsable de recursos naturales.",
+            "frase_fuerte": "Queremos empresas públicas eficientes, comprometidas con cada neuquino."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obra pública",
+                "Gas",
+                "Agua potable",
+                "Conectividad",
+                "Desarrollo productivo",
+                "Financiamiento"
+            ],
+            "postura_politica": "Concentrado en la resolución de problemas de infraestructura esenciales (gas, agua, terminal) con fuerte inversión provincial y municipal. Articula con Nación para financiamiento de proyectos clave.",
+            "frase_fuerte": "En Río Negro el gas no es un lujo, es parte de una vida digna. Y nuestra responsabilidad es seguir haciendo que llegue a más hogares."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Minería",
+                "Desarrollo local minero",
+                "Legislación",
+                "Empleo",
+                "PyMES"
+            ],
+            "postura_politica": "Impulsa el desarrollo minero con un marco legal que garantiza beneficios locales, como la generación de empleo y oportunidades para PyMEs sanjuaninas, proyectando un futuro con reglas claras.",
+            "frase_fuerte": "Con esta herramienta, vamos a seguir asegurando que la minería genere cada vez más trabajo sanjuanino y más oportunidades para nuestras pymes."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Obra pública",
+                "Saneamiento",
+                "Malvinas",
+                "Cooperativismo escolar"
+            ],
+            "postura_politica": "Impulsa la educación con programas de entrega de tecnología y reconocimientos, además de reactivar obras de infraestructura paralizadas y fomentar cooperativas escolares en San Luis.",
+            "frase_fuerte": "El Gobierno de la Pcia cooperará con la UNVIME en la terminación y puesta en funcionamiento del módulo de aulas de la FACULTAD DE MEDICINA. Obra paralizada desde hace años."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Conectividad aérea",
+                "Turismo",
+                "Producción",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Enfocado en revertir el 'abandono' pasado mediante la recuperación de la conectividad aérea, clave para el turismo y el desarrollo productivo de la provincia de Santa Cruz.",
+            "frase_fuerte": "Gobernar con rumbo también es esto: recuperar la conectividad que el abandono nos quitó y generar las condiciones para que cada rincón de Santa Cruz pueda crecer de forma sostenida."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura",
+                "Educación",
+                "Salud",
+                "Digitalización",
+                "Gestión estatal"
+            ],
+            "postura_politica": "Fuerte énfasis en la ejecución de obras provinciales y la digitalización del Estado para lograr eficiencia y transparencia. Destaca la inversión en educación y salud en el interior de Santa Fe.",
+            "frase_fuerte": "Seguimos haciendo lo que hay que hacer para acompañar a los que empujan el carro todos los días. ¡Vamos Santa Fe!!"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura educativa"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura educativa para mejorar las condiciones de aprendizaje de niños y jóvenes en la provincia de Santiago del Estero.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra pública hídrica",
+                "Agua potable",
+                "Infraestructura",
+                "Relación Nación-Organismos internacionales"
+            ],
+            "postura_politica": "Destaca la concreción de obras hídricas históricas y estratégicas, enfatizando la gestión y articulación con distintos niveles para resolver problemas esenciales de la población de Tucumán.",
+            "frase_fuerte": "Seguimos impulsando infraestructura que transforma la vida de nuestra gente, pensando no solo en las necesidades actuales, sino también en el futuro de las próximas generaciones de tucumanos."
+        }
+    ]
+}

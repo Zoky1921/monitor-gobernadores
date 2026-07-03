@@ -1,0 +1,309 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada combina el reclamo de Kicillof por la inclusión de Buenos Aires en la Zona Fría con elogios generalizados al nuevo Jefe de Gabinete Santilli, mientras múltiples gobernadores exhiben obra pública propia como gesto de autonomía frente al ajuste nacional.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día la marca Axel Kicillof (Buenos Aires) al reclamar la inclusión de la provincia en el régimen de Zona Fría, con un tono que combina denuncia y necesidad fiscal. El gobernador bonaerense no solo disputa recursos, sino que intenta capitalizar el descontento social ante el ajuste, presentándose como defensor de los bonaerenses frente a un gobierno nacional que, según él, \"desprecia\" a la provincia. Este reclamo resuena en un contexto donde la coparticipación y los subsidios energéticos son moneda de cambio.\n\nActo 2 — Los Alineamientos: Por otro lado, la designación de Diego Santilli como Jefe de Gabinete genera un coro de felicitaciones de gobernadores de diversos signos políticos: desde Raúl Jalil (Catamarca) y Leandro Zdero (Chaco) hasta Ignacio Torres (Chubut) y Rogelio Frigerio (Entre Ríos) —aunque Frigerio no tuiteó en la fecha—, pasando por Marcelo Orrego (San Juan) y Claudio Vidal (Santa Cruz). Este alineamiento sugiere que Santilli es percibido como un interlocutor viable para destrabar obras y financiamiento, un gesto de pragmatismo que contrasta con la confrontación de Kicillof. La ausencia de Gustavo Sáenz (Salta) y Osvaldo Jaldo (Tucumán) en la fecha reduce la muestra, pero el patrón es claro: el oficialismo nacional cosecha apoyos en el interior.\n\nActo 3 — La Micro-política: La mayoría de los gobernadores se refugian en la gestión local, exhibiendo obras de infraestructura, salud y educación como prueba de eficiencia en un contexto de restricción nacional. Martín Llaryora (Córdoba) y Alfredo Cornejo (Mendoza) destacan inversiones propias, mientras que Jorge Macri (CABA) enfatiza seguridad y modernización tecnológica. En provincias periféricas, como Formosa (Gildo Insfrán) y San Luis (Claudio Poggi), los tuits se centran en efemérides y actos escolares, sin referencia a la macroeconomía, lo que revela un repliegue estratégico o una apatía federal calculada. El silencio sobre la Nación en estos casos es, en sí mismo, un mensaje de supervivencia.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el balance es mixto. La llegada de Santilli ofrece una ventana de diálogo con provincias que antes estaban en la vereda de enfrente, pero el persistente reclamo de Kicillof (y potencialmente de otros gobernadores peronistas) mantiene viva la disputa fiscal. La capacidad de la Nación para responder a las demandas de Zona Fría y coparticipación definirá si este clima de negociación deriva en una tregua o en una escalada.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamo por Zona Fría de Buenos Aires",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Apoyo a la designación de Diego Santilli como Jefe de Gabinete",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Exhibición de obra pública provincial como autonomía frente al ajuste",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden como bandera de gestión en CABA",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Gestión local y efemérides sin impacto federal",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@claudiojpoggi",
+                "@passalacquaok",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "No lo decimos nosotros, lo dice la realidad que se niegan a ver. Solo quienes no conocen la provincia de Buenos Aires o quienes la desprecian pueden sostener que no tiene que estar contemplada dentro de la Zona Fría.",
+        "por_que_es_clave": "Es un desafío directo a la narrativa del Gobierno Nacional, que excluye a Buenos Aires del régimen de subsidios energéticos. Kicillof busca capitalizar el descontento social y posicionarse como el defensor de los bonaerenses frente a un ajuste que considera discriminatorio.",
+        "pregunta_openarg": "¿El reclamo de Kicillof por la Zona Fría es una necesidad genuina o una estrategia electoral para desgastar al Gobierno Nacional antes de las elecciones?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "construcción de alternativa política",
+                "gestión provincial",
+                "homenaje a Perón"
+            ],
+            "postura_politica": "Kicillof combina la denuncia fiscal (Zona Fría) con la construcción de una alternativa política al gobierno nacional, utilizando el peronismo como herramienta de unidad opositora. Su gestión provincial (obras, pymes) busca mostrar que el Estado bonaerense funciona a pesar del ajuste nacional, enmarcando su acción como una resistencia activa.",
+            "frase_fuerte": "No lo decimos nosotros, lo dice la realidad que se niegan a ver."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Ley y orden",
+                "app BAX con IA",
+                "recuperación de propiedades okupadas"
+            ],
+            "postura_politica": "Macri se posiciona como el gestor eficiente en seguridad y modernización tecnológica, contrastando con la parálisis nacional. La insistencia en 'Ley y orden' y la recuperación de propiedades apuntan a su base electoral y a diferenciarse del peronismo, mientras que la app BAX busca mostrar innovación y mejora de servicios en un contexto de ajuste.",
+            "frase_fuerte": "Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Ciencia (cráter Belén en Marte)",
+                "homenaje a Perón",
+                "felicitaciones a Santilli",
+                "embajador de Italia",
+                "exportaciones"
+            ],
+            "postura_politica": "Jalil combina una agenda de gestión local (exportaciones, turismo, ciencia) con un gesto de apoyo al nuevo Jefe de Gabinete Santilli, lo que sugiere una búsqueda de diálogo con Nación. El homenaje a Perón es un guiño a su base peronista, pero sin confrontación directa. La mención de la ciencia y las exportaciones muestra una provincia que busca posicionarse en el mapa global, aprovechando sus recursos.",
+            "frase_fuerte": "¡Catamarca llegó a Marte!"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Operativo Interfluvio",
+                "educación (alfabetización)",
+                "salud",
+                "Viviendas",
+                "felicitaciones a Santilli"
+            ],
+            "postura_politica": "Zdero se centra en la gestión territorial (operativos en El Impenetrable, obras), destacando la coordinación con Nación en el operativo Interfluvio. La felicitación a Santilli y el énfasis en 'defender los intereses de Chaco' muestran un pragmatismo: busca recursos sin romper con el gobierno nacional. La alfabetización es un tema de gestión local de bajo conflicto.",
+            "frase_fuerte": "Cuando se prioriza la alfabetización, los resultados llegan."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Acueducto de Comodoro",
+                "impuestos cero para construcción",
+                "Plan Galina",
+                "gas en Valle Chico",
+                "bienes de YPF",
+                "felicitaciones a Santilli"
+            ],
+            "postura_politica": "Torres se posiciona como un gestor que avanza con obras propias (Plan Galina) y reclama por recursos (YPF, acueducto), mientras que elogia a Santilli como un interlocutor válido. La exención impositiva para la construcción es un guiño al sector privado y una muestra de autonomía fiscal. La mención de 'sin intermediarios' para los bienes de YPF sugiere conflicto con el municipio de Comodoro, pero no con Nación.",
+            "frase_fuerte": "SIN INTERMEDIARIOS: LOS BIENES DE YPF SON PARA LOS COMODORENSES"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obras en Río Cuarto y Córdoba Capital",
+                "educación (cumbre latinoamericana)",
+                "GasParaCrecer",
+                "transparencia fiscal",
+                "exportaciones",
+                "seguridad"
+            ],
+            "postura_politica": "Llaryora despliega una intensa agenda de gestión local, destacando que Córdoba sigue haciendo obras mientras Nación las paraliza. El tono es de autonomía y eficiencia, buscando posicionar a Córdoba como un modelo de gestión frente al ajuste. La mención de la transparencia fiscal y la educación refuerzan su perfil modernizador, sin confrontación directa con Nación, pero con una clara diferenciación.",
+            "frase_fuerte": "En un país donde la obra pública está paralizada, en #Córdoba seguimos haciendo."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Reconocimiento a empleados legislativos",
+                "homenaje a Perón",
+                "aniversarios de localidades",
+                "Día de la Bandera",
+                "mineral de hierro"
+            ],
+            "postura_politica": "Insfrán se mantiene en la agenda protocolar y de efemérides, con un fuerte componente peronista (homenaje a Perón, aniversarios). La llegada del mineral de hierro es la única noticia con impacto económico, pero sin referencia a Nación. Su postura es de repliegue en la gestión local y de fidelidad al peronismo, evitando conflictos con el gobierno nacional.",
+            "frase_fuerte": "Hoy es un hito histórico en la producción industrial formoseña"
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Convenios productivos",
+                "felicitaciones a Santilli",
+                "Síndico General de la Nación",
+                "registro religioso",
+                "Inti Raymi",
+                "Día de la Bandera"
+            ],
+            "postura_politica": "Sadir combina la gestión local (convenios, turismo, fe religiosa) con gestos de diálogo hacia Nación (felicitaciones a Santilli, reunión con el Síndico). La mención de la creación de un registro de iglesias sugiere una agenda conservadora, mientras que el Inti Raymi muestra atención a las comunidades originarias. Sin conflicto visible.",
+            "frase_fuerte": "Felicitaciones y éxitos @diegosantilli en tu nueva función como Jefe de Gabinete."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Soberanía energética (récord en generación distribuida)",
+                "homenaje a Perón",
+                "Centro Radio Oncológico",
+                "viviendas",
+                "obra pública",
+                "Malvinas",
+                "9 de Junio",
+                "alivio fiscal"
+            ],
+            "postura_politica": "Ziliotto se posiciona como un peronista que defiende la gestión local y la soberanía provincial, con críticas implícitas al modelo nacional ('ahogo económico nacional'). La combinación de homenaje a Perón, obras propias y alivio fiscal muestra un gobernador que busca cuidar a su pueblo mientras enfrenta el ajuste, con un tono de resistencia pero sin romper.",
+            "frase_fuerte": "Perón cambió la historia argentina porque cambió la vida de millones de argentinos."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Consejo de Niñez",
+                "PyMEs",
+                "homenaje a Perón",
+                "Plan Minero",
+                "turismo",
+                "DDHH",
+                "educación",
+                "policía",
+                "Previaje riojano"
+            ],
+            "postura_politica": "Quintela despliega una agenda variada con énfasis en lo social (niñez, DDHH) y lo productivo (minería, turismo). El homenaje a Perón es un clásico peronista, pero sin atacar a Nación. La presentación de un plan minero quinquenal y el Previaje riojano muestran iniciativa local. Sin embargo, la ausencia de mención a Santilli o a la Nación sugiere una postura de peronismo de perfil bajo, quizás esperando el momento.",
+            "frase_fuerte": "Hay hombres que trascienden su tiempo porque sembraron un camino para generaciones enteras."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Hospital Lencinas",
+                "educación (Aprender 2025)",
+                "hotel Howard Johnson",
+                "felicitaciones a Santilli",
+                "escuela nueva",
+                "Uber Eats",
+                "minería binacional",
+                "viviendas",
+                "energía"
+            ],
+            "postura_politica": "Cornejo se muestra como un gestor eficiente y modernizador, destacando inversiones en salud, educación e infraestructura. La mención de la minería binacional y la cumbre de minería sostenible refuerzan su perfil pro-inversión. La felicitación a Santilli es cordial, y la llegada de Uber Eats muestra un clima de negocios favorable. Sin confrontación con Nación, sino más bien cooperación.",
+            "frase_fuerte": "La educación sigue siendo una prioridad en Mendoza."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Refinanciamiento de deudas",
+                "títulos de propiedad",
+                "control fiscal en ruta",
+                "Prefectura",
+                "financiamiento productivo",
+                "Poder Judicial",
+                "libro de aves",
+                "programas AHORA"
+            ],
+            "postura_politica": "Passalacqua se enfoca en la gestión local y el bienestar de los misioneros, con medidas como el refinanciamiento y la prórroga de programas de consumo. La visita del senador Unac y la mención del libro de aves muestran una agenda cultural y de diálogo político. Sin mención a Nación, lo que sugiere una postura de autonomía pragmática, evitando conflictos.",
+            "frase_fuerte": "Informo que, junto al Banco Macro, hemos decidido extender la operatoria especial de refinanciamiento de deudas..."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Centro de Ecología Aplicada",
+                "obra eléctrica en Junín",
+                "vinculación eléctrica fronteriza",
+                "saneamiento en Neuquén capital",
+                "Israel Innovation Awards",
+                "crecimiento económico (PBG)",
+                "becas Gregorio Alvarez",
+                "truchas",
+                "universidad",
+                "regularización de tierras",
+                "felicitaciones a Santilli",
+                "deportes"
+            ],
+            "postura_politica": "Figueroa exhibe una gestión orientada al desarrollo económico y la innovación, destacando el crecimiento del PBG y la producción de truchas. La felicitación a Santilli y la mención de la universidad muestran apertura al diálogo. Su enfoque en la energía y la minería (Vaca Muerta) y la búsqueda de inversiones extranjeras (Israel) lo posicionan como un gobernador pro-negocios, sin conflicto con Nación.",
+            "frase_fuerte": "El crecimiento tiene sello neuquino."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Gas en El Bolsón",
+                "terminal de ómnibus",
+                "Puente Wiederhold",
+                "Duplicar Norte",
+                "acueducto en Cipolletti",
+                "financiamiento BID",
+                "donación multiorgánica",
+                "seguridad",
+                "felicitaciones a Santilli",
+                "partido JSRN"
+            ],
+            "postura_politica": "Weretilneck combina la gestión local (gas, acueducto, puente) con un fuerte apoyo a Santilli y la gestión ante Nación (financiamiento BID). La reunión de su partido JSRN muestra consolidación política. El tono es de cooperación y gestión, sin confrontación, buscando recursos para obras clave.",
+            "frase_fuerte": "Sabemos que falta. Pero este es el rumbo."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Ley de Desarrollo Local Minero",
+                "felicitaciones a Santilli",
+                "minería (RIGI Vicuña)",
+                "energía solar",
+                "rally Ruta 40",
+                "política territorial (conflicto con La Rioja)"
+            ],
+            "postura_politica": "Orrego se enfoca en la minería como motor de desarrollo, con la aprobación de la ley de desarrollo local minero y el proyecto Vicuña. La felicitación a Santilli y la reunión con Caputo muestran buena relación con Nación. El conflicto territorial con La Rioja es un tema de baja intensidad, pero que marca límites. Su postura es de crecimiento y seguridad jurídica.",
+            "frase_fuerte": "Hoy avanzamos en el San Juan del futuro que queremos construir."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Obra de saneamiento en Villa Mercedes",
+                "escuela",
+                "Universidad Nacional de Villa Mercedes (cooperación)",
+                "cooperativas escolares",
+                "educación (mejoras)",
+                "viviendas",
+                "Malvinas",
+                "apicultura",
+                "PANE"
+            ],
+            "postura_politica": "Poggi se centra en la gestión local y educativa, con un fuerte énfasis en la cooperación entre provincia y universidad. La mención del libro 'Malvinas, El Legado' y las TUBI (bicicletas) muestran una agenda de símbolos y gestión de bajo perfil. Sin mención a Nación, lo que sugiere un repliegue en la gestión provincial.",
+            "frase_fuerte": "El Gobierno de la Pcia cooperará con la UNVIME en la terminación y puesta en funcionamiento del módulo de aulas de la FACULTAD DE MEDICINA."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Vuelo comercial a Perito Moreno",
+                "asistencia a jura de Santilli",
+                "apoyo a Santilli",
+                "carne de guanaco",
+                "llamado al diálogo federal"
+            ],
+            "postura_politica": "Vidal celebra la conectividad aérea para Perito Moreno y apoya la designación de Santilli, con un llamado al diálogo federal. La mención de la carne de guanaco muestra diversificación productiva. Su tono es de cooperación y esperanza en una nueva etapa con Nación.",
+            "frase_fuerte": "Se abre una nueva etapa que no debemos desaprovechar."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Obras en Desvío Arijón",
+                "digitalización del Estado",
+                "escrituras",
+                "recuperación de plaza",
+                "cien años de escuela",
+                "derribo de búnkeres",
+                "puente",
+                "gestión de riesgo hídrico",
+                "ahorro en ministerios",
+                "eventos deportivos",
+                "Día de la Bandera"
+            ],
+            "postura_politica": "Pullaro despliega una intensa agenda de gestión, destacando la digitalización, la lucha contra el narcotráfico y la obra pública. La mención del riesgo hídrico junto a otros gobernadores muestra coordinación regional. El tono es de eficiencia y austeridad, sin confrontación directa con Nación, pero con una clara apuesta a la gestión propia.",
+            "frase_fuerte": "Vinimos al gobierno con la misión de generar eficiencia ahorrando tiempo, eliminando trabas burocráticas y bajando el costo de los Ministerios."
+        }
+    ]
+}
