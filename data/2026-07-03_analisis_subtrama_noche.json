@@ -1,0 +1,244 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de repliegue provincial en gestión local y obras, con un trasfondo de tensión fiscal latente. Los gobernadores evitan confrontar directamente a Nación pero marcan territorio con anuncios de infraestructura propia, mientras celebran la llegada de Santilli como Jefe de Gabinete, esperando un canal de diálogo. La ausencia de Kicillof y el silencio de otros pesos pesados sugiere una pausa calculada.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada estuvo dominada por una sutil pero generalizada demostración de autonomía provincial. Gobernadores de distintos signos políticos (Jalil, Llaryora, Cornejo, Figueroa) dedicaron sus posteos a inaugurar obras, anunciar inversiones o destacar logros educativos, omitiendo casi por completo cualquier mención a la Casa Rosada. Esta omisión no es casual: es la forma elegante de decir 'gestionamos a pesar del ajuste nacional'. La excepción fueron los saludos protocolares a Diego Santilli, que funcionan como un guiño de expectativa más que de alineamiento.\n\nActo 2 — Los Alineamientos: Se perfila un bloque de gobernadores 'dialoguistas' que ven en Santilli un interlocutor viable: Jalil, Zdero, Pullaro, Weretilneck, Jaldo y Orrego lo felicitaron explícitamente. En la vereda opuesta, el silencio de Kicillof (Buenos Aires) y la ausencia de críticas directas desde el peronismo duro (Quintela, Insfran) sugieren que esperan el momento para la embestida. Jorge Macri (CABA) se posiciona como el ala más ideológica, con su mantra de 'Ley y orden' y autonomía, marcando distancia tanto de Nación como de los gobernadores peronistas.\n\nActo 3 — La Micro-política: Las provincias periféricas (Formosa, Jujuy, San Luis) se refugiaron en la agenda de cabotaje: efemérides, reconocimientos a empleados, entrega de bicicletas. Gildo Insfran (Formosa) y Claudio Poggi (San Luis) apenas rozaron la macroeconomía, optando por un perfil bajo que sugiere que no quieren exponerse en una pulseada que no pueden ganar. En contraste, los gobernadores mineros (Jalil, Orrego, Cornejo) aprovecharon para promocionar sus proyectos, enviando una señal a los inversores: 'acá hay reglas claras, a pesar del ruido nacional'.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada deja un saldo agridulce. Por un lado, la ausencia de críticas frontales es un respiro. Por otro, la proliferación de anuncios de obra pública provincial es una acusación tácita de abandono. El nombramiento de Santilli parece haber contenido momentáneamente la hemorragia del conflicto, pero no la ha detenido. La verdadera prueba será cuando se discuta el presupuesto o la coparticipación.",
+    "temas_calientes": [
+        {
+            "tema": "Obra pública provincial como respuesta al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Educación y resultados de pruebas Aprender",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Minería y desarrollo productivo (RIGI, inversiones)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@DrMarceloOrrego",
+                "@carlossadirjuy",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Relación Nación-provincias: expectativas con Santilli",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@maxipullaro",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Autonomía y gestión local (CABA, digitalización)",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @GabinoTapiaBA)",
+        "texto": "Hoy dimos otro gran paso hacia la consolidación de la autonomía porteña. Junto a @JuanBMahiques firmamos los convenios para avanzar en el traspaso de nuevas competencias penales. Más autonomía para la Ciudad y un mejor servicio de Justicia para los porteños.",
+        "por_que_es_clave": "Macri utiliza un tema técnico (competencias penales) para reafirmar su agenda de autonomía frente a Nación, en un momento en que otros gobernadores buscan diálogo. Es un recordatorio de que CABA no negocia su estatus diferencial.",
+        "pregunta_openarg": "¿La autonomía de CABA es un modelo para otras provincias o un privilegio que profundiza la desigualdad federal?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "autonomía porteña",
+                "justicia",
+                "seguridad",
+                "tecnología",
+                "recuperación de propiedades"
+            ],
+            "postura_politica": "Macri se posiciona como el gestor eficiente y el defensor de la autonomía. Su mensaje es doble: hacia adentro, muestra resultados (app BAX, recuperación de propiedades); hacia Nación, marca límites. Omite cualquier referencia a la coparticipación o al diálogo con Santilli, sugiriendo que su prioridad es la gestión local, no la negociación federal.",
+            "frase_fuerte": "Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "minería",
+                "YMAD",
+                "exportaciones",
+                "Norte Grande",
+                "relación con Nación"
+            ],
+            "postura_politica": "Jalil combina la agenda productiva (minería, exportaciones) con un perfil de gobernador dialoguista. Su saludo a Santilli y su participación en el Norte Grande muestran que busca ser un puente entre Nación y las provincias del interior. La omisión de críticas al ajuste sugiere que prioriza la gestión de recursos por sobre la confrontación.",
+            "frase_fuerte": "YMAD es clave para el futuro y desarrollo minero de Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "asistencia social",
+                "operativo Interfluvio",
+                "educación",
+                "infraestructura",
+                "relación con Nación"
+            ],
+            "postura_politica": "Zdero se muestra como un gobernador de gestión, enfocado en la asistencia directa (operativos en El Impenetrable) y en obras locales. Su saludo a Santilli es cordial pero sin excesos. La mención al Ministerio de Capital Humano sugiere que aún depende de la Nación para programas sociales, pero busca equilibrar con anuncios propios.",
+            "frase_fuerte": "Cuando se prioriza la alfabetización, los resultados llegan."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obra pública",
+                "infraestructura",
+                "educación",
+                "gas",
+                "responsabilidad fiscal"
+            ],
+            "postura_politica": "Llaryora despliega una intensa agenda de gestión local, con un claro mensaje de autonomía: 'En un país donde la obra pública está paralizada, en Córdoba seguimos haciendo'. Su postura es de competencia silenciosa con Nación, mostrando que Córdoba puede sola. La omisión de cualquier referencia a Santilli o a la política nacional refuerza esta estrategia de 'isla de eficiencia'.",
+            "frase_fuerte": "En Córdoba, el futuro no se promete: se construye."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "reconocimiento a empleados legislativos",
+                "homenaje a Perón"
+            ],
+            "postura_politica": "Insfran se mantiene en un perfil bajo, casi protocolario. Su único tweet del período es un reconocimiento a trabajadores legislativos, sin contenido político federal. Es un gesto de supervivencia: no dar señales que puedan ser interpretadas como alineamiento o conflicto con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "relaciones internacionales",
+                "minería",
+                "Norte Grande"
+            ],
+            "postura_politica": "Sadir se enfoca en la agenda internacional (embajador de Ucrania) y en la firma de convenios productivos. Su saludo a Santilli es escueto. La omisión de temas fiscales o de conflicto con Nación sugiere que Jujuy busca posicionarse como un destino de inversiones, evitando ruido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "viviendas sociales",
+                "rechazo a límites territoriales",
+                "minería",
+                "peronismo"
+            ],
+            "postura_politica": "Quintela combina la gestión social (casas, niñez) con un fuerte posicionamiento político: promulgó una ley que rechaza los límites impuestos por la dictadura, un guiño al peronismo más duro. Su reunión con Urtubey y otros dirigentes peronistas muestra que está tejiendo una alternativa nacional. La omisión de Santilli es deliberada: no quiere darle legitimidad.",
+            "frase_fuerte": "La soberanía territorial de La Rioja exige una defensa irrestricta."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "infraestructura",
+                "salud",
+                "educación",
+                "minería",
+                "turismo"
+            ],
+            "postura_politica": "Cornejo se muestra como un gestor moderno, con anuncios en salud (hospital Lencinas), educación (resultados Aprender) y minería (cumbre internacional). Su saludo a Santilli es cordial pero sin entusiasmo. La omisión de críticas a Nación sugiere que prefiere la gestión por sobre la confrontación, aunque el mensaje de fondo es claro: 'Mendoza avanza sola'.",
+            "frase_fuerte": "Vamos a seguir invirtiendo en infraestructura para que los mendocinos cuenten con un sistema de salud cada vez más moderno."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "cultura",
+                "yerba mate",
+                "viviendas",
+                "economía"
+            ],
+            "postura_politica": "Passalacqua se enfoca en la agenda local: homenaje a Andresito, créditos para yerbateros, entrega de títulos. No hay mención a Nación ni a Santilli. Es un repliegue total en la gestión de cabotaje, quizás porque Misiones no tiene margen para confrontar o porque prefiere no exponerse.",
+            "frase_fuerte": "Cada título representa arraigo, futuro y la certeza de contar con un hogar."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "gas",
+                "infraestructura escolar",
+                "gestión",
+                "energía",
+                "innovación"
+            ],
+            "postura_politica": "Figueroa se muestra como un gobernador de gestión, con anuncios de obras (gas en San Martín de los Andes, infraestructura escolar) y un fuerte énfasis en la transparencia (informes de gestión). Su omisión de Santilli y de la política nacional sugiere que Neuquén, con Vaca Muerta, se siente lo suficientemente fuerte como para no necesitar pedir nada.",
+            "frase_fuerte": "Queda mucho por hacer, pero tenemos un rumbo claro."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "gas",
+                "infraestructura",
+                "turismo",
+                "relación con Nación",
+                "financiamiento"
+            ],
+            "postura_politica": "Weretilneck es uno de los pocos que menciona explícitamente la relación con Nación, agradeciendo a Caputo por un aval del BID. Su saludo a Santilli es cálido. Se posiciona como un gobernador que negocia y obtiene recursos, mostrando que el diálogo da resultados. La omisión de críticas es coherente con su perfil de 'gestor pragmático'.",
+            "frase_fuerte": "Sabemos que falta. Pero este es el rumbo."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "educación",
+                "minería",
+                "Ley de Desarrollo Local Minero",
+                "relación con Nación"
+            ],
+            "postura_politica": "Orrego se enfoca en la minería como eje de desarrollo, celebrando la aprobación de la Ley de Desarrollo Local Minero y el RIGI para Vicuña. Su saludo a Santilli es protocolar. La omisión de críticas a Nación sugiere que San Juan está alineada con la política minera nacional y no quiere conflictos.",
+            "frase_fuerte": "San Juan mejoró un 13,9% en Lengua y un 5,2% en Matemática, por encima de la media nacional."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "infraestructura",
+                "cultura",
+                "viviendas"
+            ],
+            "postura_politica": "Poggi se muestra como un gestor local, con anuncios de obras (caminos, viviendas, cooperativas escolares) y reconocimientos. No hay mención a Nación ni a Santilli. Es un perfil bajo, de gestión pura, que evita cualquier roce político.",
+            "frase_fuerte": "Ya se ven los primeros resultados de la política educativa que impulsamos desde Diciembre del 2023."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "gestión digital",
+                "infraestructura",
+                "seguridad",
+                "deportes",
+                "relación con Nación"
+            ],
+            "postura_politica": "Pullaro se muestra como un gobernador modernizador (digitalización de trámites) y de gestión (obras, derribo de búnkeres). Su saludo a Santilli es cordial. La omisión de críticas directas a Nación sugiere que busca mantener un canal de diálogo abierto, aunque su mensaje de 'eficiencia' es una crítica implícita al Estado nacional.",
+            "frase_fuerte": "Vinimos al gobierno con la misión de generar eficiencia ahorrando tiempo, eliminando trabas burocráticas y bajando el costo de los Ministerios."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "cultura",
+                "salud rural",
+                "educación",
+                "infraestructura",
+                "relaciones internacionales"
+            ],
+            "postura_politica": "Zamora se enfoca en la agenda local: aniversario de la ciudad, homenaje a médicos rurales, inauguración de escuelas. No hay mención a Nación ni a Santilli. Es un repliegue total en la gestión de cabotaje, quizás porque Santiago del Estero no tiene conflictos abiertos con Nación o porque prefiere no exponerse.",
+            "frase_fuerte": "Santiago del Estero tiene socios estratégicos y tiene un gobierno comprometido con cuidar el agua."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "infraestructura hídrica",
+                "salud",
+                "educación",
+                "relación con Nación",
+                "gestión"
+            ],
+            "postura_politica": "Jaldo se muestra como un gestor que negocia con Nación (reunión con Caputo y Santilli) y al mismo tiempo impulsa obras locales (acueducto de Vipos). Su saludo a Santilli es cálido y esperanzado. Se posiciona como un gobernador dialoguista que busca recursos para su provincia sin confrontar.",
+            "frase_fuerte": "Cuando Nación y provincias avanzan juntas, es posible dar respuestas concretas."
+        }
+    ]
+}
