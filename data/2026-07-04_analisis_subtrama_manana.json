@@ -1,0 +1,111 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada combina euforia mundialista con un posicionamiento crítico de Ziliotto (La Pampa) contra el modelo nacional, mientras el resto de los gobernadores se refugian en la gestión local o el fervor deportivo. No hay coordinación federal ni señales de alineamiento con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día la impone Sergio Ziliotto (La Pampa) con un extenso posteo sobre cooperativas que, bajo el ropaje de una efeméride, descarga una crítica directa al gobierno nacional: 'frente a un modelo nacional que vuelve a poner a la Argentina al servicio de unos pocos'. Es la única voz que rompe el silencio fiscal y se planta como resistencia peronista en un contexto de ajuste. El resto de los gobernadores evita cualquier roce con la Casa Rosada.\n\nActo 2 — Los Alineamientos: Los mandatarios de provincias centrales (Macri, Llaryora, Pullaro) optan por la agenda blanda del fútbol, celebrando el triunfo de la Selección. Macri y Llaryora aprovechan para reivindicar lo propio (CABA y Córdoba), pero sin confrontar. Pullaro, desde Santa Fe, combina el fervor deportivo con la exhibición de obras locales, manteniendo un perfil técnico. No hay socios estratégicos visibles para Nación; tampoco parias declarados, salvo Ziliotto.\n\nActo 3 — La Micro-política: Figueroa (Neuquén) y Vidal (Santa Cruz) se concentran en obras de infraestructura provincial, con un discurso de 'dejar atrás el abandono' que, sin mencionar a Nación, implica una crítica a gestiones anteriores. Poggi (San Luis) se limita a un homenaje fúnebre, sin peso político. Estos gestos de supervivencia revelan una apatía federal: los gobernadores periféricos se repliegan en la gestión de cabotaje para no exponerse.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable en términos de ruido: la mayoría de los gobernadores no cuestiona el rumbo. Sin embargo, la omisión de la macroeconomía en los tuits es un silencio elocuente. Ziliotto, aunque solo, marca el terreno de la resistencia peronista. El capital político del oficialismo se mantiene estable, pero la falta de apoyos explícitos en un día de baja tensión sugiere que las alianzas son frágiles.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al modelo nacional desde el cooperativismo",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Apoyo a la Selección Argentina en el Mundial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestión de obras públicas provinciales",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Homenajes y efemérides sin carga política",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "COOPERATIVAS: UNA FORMA MUY PAMPEANA DE SALIR ADELANTE\n\nCada primer sábado de julio el mundo celebra el Día Internacional de las Cooperativas... Nuestro desarrollo también se construye desde esa alianza entre cooperativas, instituciones, municipios y un Estado provincial que acompaña e invierte para garantizar igualdad de oportunidades en todo el territorio.\n\nDesde el Gobierno provincial seguimos fortaleciendo ese camino, porque estar junto a las cooperativas también es defender un modelo de desarrollo con participación, equilibrio territorial y sentido profundamente federal.\n\nEn este día, nuestro reconocimiento a cada cooperativa pampeana y a quienes sostienen, todos los días, una manera solidaria de construir futuro.",
+        "por_que_es_clave": "Ziliotto utiliza una efeméride para contraponer el modelo pampeano (solidario, estatal) al modelo nacional que, según él, beneficia a unos pocos. Es un posicionamiento ideológico claro en medio de la apatía federal del resto.",
+        "pregunta_openarg": "¿Puede el cooperativismo ser una herramienta de resistencia fiscal para las provincias periféricas frente al ajuste nacional, o es solo un refugio simbólico?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Mundial",
+                "Selección Argentina"
+            ],
+            "postura_politica": "Apoyo genérico a la Selección sin contenido político. No hay mención a gestión ni a Nación. Es un gesto de unidad nacional sin costo.",
+            "frase_fuerte": "Qué locura todo!! Vamos Argentina 🇦🇷"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Mundial",
+                "Selección Argentina",
+                "Orgullo cordobés"
+            ],
+            "postura_politica": "Aprovecha el triunfo para reivindicar a un jugador cordobés (Cuti Romero), reforzando la identidad provincial. No hay crítica ni apoyo explícito a Nación.",
+            "frase_fuerte": "Tranquilos Argentinos, siempre hay un CORDOBÉS ….VAMOSSSS @CutiRomero2"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Cooperativas",
+                "Desarrollo local",
+                "Crítica al modelo nacional"
+            ],
+            "postura_politica": "Crítica frontal al gobierno nacional, disfrazada de homenaje al cooperativismo. Defiende un modelo de Estado presente y solidario, en contraposición al ajuste.",
+            "frase_fuerte": "frente a un modelo nacional que vuelve a poner a la Argentina al servicio de unos pocos"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obras de gas",
+                "Infraestructura eléctrica",
+                "Integración con Chile"
+            ],
+            "postura_politica": "Gestión local sin confrontación. Muestra obras propias y modernización, pero evita cualquier referencia a Nación. Es un repliegue en la agenda de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Fallecimiento",
+                "Homenaje"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Polideportivo",
+                "Inversión provincial"
+            ],
+            "postura_politica": "Exhibe inversión propia con crítica implícita a gestiones anteriores ('años de abandono'). No menciona a Nación, pero se posiciona como gestor eficiente.",
+            "frase_fuerte": "Durante demasiado tiempo, muchas obras quedaron relegadas... Ese tiempo quedó atrás."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Obras locales",
+                "Mundial",
+                "Selección Argentina"
+            ],
+            "postura_politica": "Combina gestión territorial con apoyo deportivo. Sin posicionamiento nacional. Refuerza perfil de gestión y cercanía.",
+            "frase_fuerte": "Qué manera de sufrir!! vamosssss Argentinaaa 🇦🇷💪"
+        }
+    ]
+}
