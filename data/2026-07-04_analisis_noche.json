@@ -1,0 +1,170 @@
+{
+    "clima_general": "NEUTRO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una intensa actividad de gestión provincial, con un marcado enfoque en la obra pública y el desarrollo local. Gobernadores como Axel Kicillof (Buenos Aires), Leandro Zdero (Chaco), Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) destacaron inversiones en infraestructura vial, energética y comunitaria. La promoción de las economías regionales y el cooperativismo fue un eje importante para Martín Llaryora (Córdoba) y Sergio Ziliotto (La Pampa). Se registró un episodio de tensión local en Chubut, donde Ignacio Torres (Chubut) criticó duramente a un intendente por problemas de vivienda. La mayoría de los mensajes resaltaron avances en políticas sociales y eficiencia de la gestión, proyectando una imagen de autonomía y acción en el territorio.",
+    "analisis_profundo": "La agenda de los gobernadores hoy se concentró casi exclusivamente en la gestión provincial, mostrando una fuerte orientación hacia la resolución de problemas locales y el impulso de desarrollo endógeno. La **obra pública y la infraestructura** emergieron como el tema dominante, con varios mandatarios anunciando o reportando avances significativos. Axel Kicillof (Buenos Aires) destacó la repavimentación de rutas y la mejora del equipamiento escolar, mientras que Leandro Zdero (Chaco) informó sobre nuevas obras en Puerto Tirol y la reactivación de programas ganaderos. Rolando Figueroa (Neuquén) puso énfasis en la modernización eléctrica en pasos fronterizos y la extensión de redes de gas, buscando fortalecer la conectividad y la calidad de vida. En Río Negro, Alberto Weretilneck (Río Negro) se centró en la inversión para Fuerte San Javier, señalando la pavimentación y mejoras comunitarias. Claudio Vidal (Santa Cruz) anunció una importante inversión en un polideportivo, y Maximiliano Pullaro (Santa Fe) repasó el avance de obras viales y públicas. Estas iniciativas subrayan un compromiso continuo con la inversión pública, a menudo con recursos propios, para dinamizar las economías y mejorar los servicios en sus provincias. \n\nEl **desarrollo productivo y la economía social** constituyeron otro pilar fundamental. Martín Llaryora (Córdoba) celebró el Día Internacional de las Cooperativas, destacando la creación del Ministerio de Cooperativas y Mutuales de su provincia como una herramienta para fortalecer el sector. Sergio Ziliotto (La Pampa) también enfatizó el rol de las cooperativas como motor de desarrollo local y auto-gestión. En Chaco, Zdero promocionó la exposición Agronea como un espacio para el talento y el potencial del norte argentino. \n\nEn cuanto a **políticas sociales y educación**, Kicillof (Buenos Aires) realzó el impacto del Servicio Alimentario Escolar, y Ziliotto (La Pampa) presentó con orgullo los buenos resultados de su provincia en las Pruebas Aprender 2025, vinculándolos a una política pública educativa sostenida. La cooperación interprovincial también tuvo su lugar, con Raúl Jalil (Catamarca) firmando un convenio con la ministra de Mujeres de Buenos Aires para políticas de género, evidenciando articulación en agendas específicas.\n\nFinalmente, la jornada no estuvo exenta de tensiones internas. Ignacio Torres (Chubut) emitió una fuerte crítica pública contra un intendente por la gestión de viviendas post-derrumbe y presuntas estafas, revelando fricciones significativas en la administración de emergencias y la asignación de recursos a nivel local. Este incidente, aunque específico, denota la complejidad de la gobernanza territorial y la demanda de transparencia en la gestión de crisis.",
+    "temas_calientes": [
+        {
+            "tema": "Obra Publica e Infraestructura Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Economias Regionales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Politicas Sociales y Educacion",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Cooperacion y Articulacion Inter-institucional",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@MartinLlaryora",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Conflictividad Local y Gestion Municipal",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH",
+        "texto": "Intendente @otharmach, de la misma manera que se lo transmití personalmente, quiero compartir públicamente lo que hablé con las familias afectadas por el derrumbe del cerro Hermitte, que además fueron estafadas por el municipio. Lo invito a que nos reunamos cuanto antes y le pido que deje de jugar con la angustia y el sufrimiento de tantas familias. En menos de un mes estarán terminadas las primeras viviendas, gracias al esfuerzo de todos los contribuyentes de Chubut. Ahora el municipio tiene la responsabilidad de definir, de una vez por todas, quiénes serán los primeros beneficiarios. Las familias no pueden seguir esperando.",
+        "por_que_es_clave": "Este tweet revela un conflicto de gestión directo entre el gobernador (Chubut) y un intendente, exponiendo públicamente la ineficiencia municipal en la asignación de viviendas tras un desastre. La intervención del gobernador destaca la responsabilidad provincial y presiona por soluciones urgentes, marcando una fuerte postura política en un tema socialmente sensible.",
+        "pregunta_openarg": "¿Qué implicancias tendrá este conflicto en la relación entre el gobierno provincial y los municipios en Chubut, especialmente en un contexto de demandas sociales urgentes?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Educación",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador (Buenos Aires) se enfoca en la gestión local, destacando la continuidad de obras de infraestructura vial y el fortalecimiento de programas educativos. Sus retweets resaltan una política de Estado activa en el territorio.",
+            "frase_fuerte": "La obra pública es exactamente eso: desarrollo y oportunidades que se reparten en el territorio."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Políticas de Género",
+                "Cooperación Interprovincial"
+            ],
+            "postura_politica": "El gobernador (Catamarca) muestra un compromiso con la agenda de género a través de un convenio con la ministra de Buenos Aires, buscando fortalecer políticas públicas con perspectiva de género en su provincia.",
+            "frase_fuerte": "Creemos en un Estado presente y preparado, por eso vamos a profundizar en la capacitación de nuestros trabajadores, articulando programas contra las violencias y promover oportunidades laborales equitativas para todos."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Desarrollo Productivo",
+                "Economía Regional"
+            ],
+            "postura_politica": "El gobernador (Chaco) exhibe un perfil pro-desarrollo, impulsando obras locales y la reactivación de programas ganaderos, además de promocionar eventos que visibilizan el potencial productivo de la región.",
+            "frase_fuerte": "Reactivamos el #PROGANO con una decisión clara: recuperar una herramienta que durante años estuvo relegada y volver a ponerla al servicio de los productores de El Impenetrable. Hoy los resultados ya se ven."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Gestión Municipal",
+                "Conflictividad Local"
+            ],
+            "postura_politica": "El gobernador (Chubut) adopta una postura confrontativa, exigiendo al intendente de Trelew una resolución inmediata para las familias afectadas por un derrumbe y estafas, enfatizando la responsabilidad provincial en la solución.",
+            "frase_fuerte": "Lo invito a que nos reunamos cuanto antes y le pido que deje de jugar con la angustia y el sufrimiento de tantas familias."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Gestión Local",
+                "Cooperación Internacional",
+                "Infraestructura Urbana",
+                "Economía Social"
+            ],
+            "postura_politica": "El gobernador (Córdoba) proyecta una imagen de gestión integral, abarcando desde la agenda con municipios y la solidaridad internacional en emergencias, hasta la mejora de espacios urbanos y el fomento de la economía cooperativa como pilar del desarrollo.",
+            "frase_fuerte": "Que #Córdoba haya sido convocada para integrar esta misión es un reconocimiento al profesionalismo y la capacidad de nuestros hombres y mujeres."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Educación",
+                "Políticas Públicas",
+                "Economía Social",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "El gobernador (La Pampa) resalta la eficiencia de sus políticas públicas en educación, apoyándose en resultados de pruebas nacionales, y subraya la importancia del cooperativismo como modelo de desarrollo con arraigo territorial.",
+            "frase_fuerte": "Estos resultados nos indican que debemos seguir mejorando, pero que el camino por el que transitamos es el correcto."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Cultura",
+                "Infraestructura Energética",
+                "Educación",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "El gobernador (Neuquén) demuestra un enfoque en la diversificación y modernización, desde el fomento cultural y la infraestructura eléctrica en zonas fronterizas, hasta la inversión en espacios educativos y sociales para el desarrollo comunitario.",
+            "frase_fuerte": "Más energía, más integración con Chile y más desarrollo para la Provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Desarrollo Local",
+                "Infraestructura",
+                "Inversión Provincial"
+            ],
+            "postura_politica": "El gobernador (Río Negro) se concentra en el desarrollo de pequeñas comunidades a través de inversiones específicas en infraestructura, como pavimentación e iluminación, proyectando un futuro con más oportunidades para los habitantes.",
+            "frase_fuerte": "Queremos que cada chico y chica que hoy crece en Fuerte San Javier tenga más oportunidades y un futuro mejor en su propio lugar."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Economía Social",
+                "Cooperativismo",
+                "Desarrollo Económico"
+            ],
+            "postura_politica": "El gobernador (San Luis) enfatiza la promoción del cooperativismo como motor de desarrollo económico y humano, buscando expandir esta figura jurídica y generar oportunidades de trabajo en la provincia.",
+            "frase_fuerte": "Promovemos la figura jurídica del Cooperativismo en San Luis, son pocas las Cooperativas activas por lo que tenemos mucho margen para crecer."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Infraestructura Deportiva",
+                "Inversión Provincial"
+            ],
+            "postura_politica": "El gobernador (Santa Cruz) focaliza en la inversión en infraestructura deportiva, destacando la construcción de un nuevo polideportivo como un paso concreto para transformar la realidad con gestión y planificación, superando años de abandono.",
+            "frase_fuerte": "Estamos recuperando el rumbo con inversión, planificación y gestión. Cada obra que ponemos en marcha demuestra que el compromiso es transformar la realidad con hechos y dejar definitivamente atrás los años de abandono."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Obra Pública",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "El gobernador (Santa Fe) muestra el avance de obras viales y en espacios públicos en distintos departamentos, consolidando una agenda de infraestructura que busca embellecer y mejorar la conectividad de la provincia.",
+            "frase_fuerte": "Más infraestructura en rutas, clubes y espacios públicos. Invertimos para que nuestra provincia este cada día más linda!!"
+        }
+    ]
+}
