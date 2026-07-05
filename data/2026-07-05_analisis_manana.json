@@ -1,0 +1,78 @@
+{
+    "clima_general": "CALMO",
+    "resumen_ejecutivo": "La jornada federal se distingue por un enfoque predominante en la gestión provincial y el impulso al desarrollo local. Los gobernadores destacaron avances en infraestructura, apoyo a sectores productivos y la reafirmación de lazos comunitarios. Córdoba enfatizó la cultura y el cooperativismo; Chaco, la promoción ganadera; Neuquén, obras esenciales y espacios sociales; y Río Negro, la provisión de servicios básicos en zonas rurales. La agenda exhibió una tónica proactiva y de cumplimiento de compromisos, sin registrar tensiones explícitas con el gobierno nacional o entre provincias, manteniendo un clima de gestión centrado en el interior.",
+    "analisis_profundo": "La jornada se ha caracterizado por una agenda netamente provincial, con los gobernadores enfocados en la gestión interna de obras, el impulso a sectores productivos y el fortalecimiento de la infraestructura local y comunitaria. Martín Llaryora (Córdoba) ha demostrado una particular atención a la vida institucional y cultural, participando en aniversarios y destacando el rol del cooperativismo como un pilar fundamental para el desarrollo socioeconómico de la provincia, promoviendo el arraigo y la generación de empleo. Sus actividades reflejan una búsqueda constante de conexión con las bases sociales y culturales, reafirmando el compromiso con el patrimonio y la identidad cordobesa.\n\nLeandro Zdero (Chaco) ha puesto el acento en el apoyo al sector productivo, participando activamente en eventos como la Exposición Ganadera de Machagai, lo que subraya la importancia estratégica de las economías regionales y el sector primario para su gestión. Este enfoque busca visibilizar y potenciar el trabajo y el potencial del Chaco, fomentando la inversión y el crecimiento local.\n\nPor su parte, Rolando Figueroa (Neuquén) ha priorizado las obras comunitarias y la expansión de servicios esenciales, como la extensión de la red de gas natural y la mejora de espacios educativos y deportivos. Su discurso enfatiza la colaboración con los municipios para el desarrollo territorial, buscando que las oportunidades lleguen a todos los rincones de la provincia y mejorando directamente la calidad de vida de los neuquinos.\n\nAlberto Weretilneck (Río Negro) se ha centrado en garantizar servicios básicos vitales para las comunidades rurales, como el suministro de agua, lo que demuestra una política activa en infraestructura y atención a las necesidades de las poblaciones más dispersas. Este tipo de acciones son cruciales para el arraigo y el desarrollo equitativo en un territorio extenso como el rionegrino.\n\nEn síntesis, los mensajes de los gobernadores analizados en las últimas horas delinean una gestión proactiva y orientada a resultados concretos a nivel provincial. Se observa una ausencia de conflictos explícitos o declaraciones de confrontación con el gobierno nacional o entre provincias, manteniendo un clima de 'Calmo' y enfocándose en la consolidación de proyectos internos y la atención a las demandas de sus respectivas poblaciones. La tónica general es de reafirmación del federalismo a través de la acción y la inversión en sus propios territorios, construyendo futuro desde una base local sólida.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión y desarrollo productivo local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Infraestructura y servicios esenciales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Apoyo a instituciones y cultura",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK (RT de @rionegrogob)",
+        "texto": "RÍO NEGRO GARANTIZA AGUA PARA POBLADORES RURALES DE LA REGIÓN SUR 🚜 El gobernador, junto al intendente de Ingeniero Jacobacci, José Mellado, entregó carros de acopio y traslado de agua para fortalecer el abastecimiento parajes y comisiones de fomento.",
+        "por_que_es_clave": "Destaca el compromiso del gobierno provincial con la provisión de servicios básicos esenciales en zonas rurales, una política de arraigo y desarrollo equitativo para las comunidades más alejadas.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Apoyo al sector ganadero"
+            ],
+            "postura_politica": "Demuestra un compromiso activo con el sector productivo de su provincia, buscando potenciar las economías regionales y el empleo local a través de la participación en eventos y exposiciones.",
+            "frase_fuerte": "Acompañamos la apertura de la 81.ª Exposición Ganadera de Machagai, un nuevo encuentro que refleja el trabajo, el esfuerzo y el enorme potencial del sector productivo chaqueño."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Cultura y patrimonio",
+                "Cooperativismo",
+                "Agenda institucional",
+                "Obras comunitarias"
+            ],
+            "postura_politica": "Enfocado en una agenda de gestión cultural y apoyo al cooperativismo, enfatizando la importancia de las instituciones locales. Muestra una visión de desarrollo que integra lo social, cultural y económico a nivel provincial.",
+            "frase_fuerte": "En #BellVille compartí una hermosa noche cultural junto a la comunidad, celebrando el 130° aniversario de la Sociedad Italiana de Socorros Mutuos y los 80 años del histórico Teatro Coliseo, dos instituciones que forman parte de la identidad y la historia de esta querida ciudad cabecera del departamento Unión."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Obras comunitarias",
+                "Educación y deporte",
+                "Integración regional",
+                "Infraestructura de gas y electricidad"
+            ],
+            "postura_politica": "Prioriza el desarrollo comunitario a través de obras de infraestructura social y el fortalecimiento de espacios educativos y deportivos. Reafirma la importancia de la colaboración entre provincia y municipios para el crecimiento.",
+            "frase_fuerte": "CUANDO LA COMUNIDAD CRECE, NEUQUÉN AVANZA. Estamos convencidos de que la mejor manera de construir la Neuquén del futuro es hacerlo junto a la comunidad, fortaleciendo los espacios donde las personas aprenden, se encuentran y crecen."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Servicios básicos",
+                "Infraestructura rural",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Se enfoca en la provisión de servicios esenciales como el agua potable para las zonas rurales, demostrando un compromiso con el arraigo y la igualdad de oportunidades en todo el territorio provincial.",
+            "frase_fuerte": "RÍO NEGRO GARANTIZA AGUA PARA POBLADORES RURALES DE LA REGIÓN SUR"
+        }
+    ]
+}

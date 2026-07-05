@@ -1,0 +1,66 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de repliegue absoluto. Los pocos tweets del día son gestion local o efemérides. No hay disputas fiscales, alineamientos con Nación ni señal de poder. Silencio coordinado o apatía federal.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registra tensiones. El silencio es el dato. Ningún gobernador de peso (Bs.As., CABA, Córdoba) emitió señales de conflicto o reclamo. La macroeconomía brilla por su ausencia en las líneas de tiempo. Acto 2 — Los Alineamientos: Sin posicionamientos. Las provincias centrales (CABA, Córdoba) optaron por una agenda de cabotaje (inauguraciones, efemérides). Catamarca y Chaco también quedaron en la intrascendencia. Acto 3 — La Micro-política: Figueroa (Neuquén) y Weretilneck (Río Negro) mostraron gestión local (gas, agua), sin vincularla con Nación. Llaryora (Córdoba) se enfocó en cultura y cooperativismo. Acto 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable: las provincias no compiten por el foco. No hay ruido que capitalizar ni confrontación que desactivar. Un respiro en la tensión federal.",
+    "temas_calientes": [],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Efeméride internacional",
+                "Día de la Independencia de EE.UU."
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Sin confrontación ni reclamo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Aniversario de San Fernando del Valle de Catamarca"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Refuerzo identitario provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Exposición Ganadera de Machagai"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión del sector productivo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Inauguración de instalaciones educativas",
+                "Obra local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Sin mención a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Entrega de carros de agua",
+                "Inauguración de gas en El Bolsón"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión de servicios esenciales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Aniversarios culturales",
+                "Cooperativismo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Sin roce con Nación.",
+            "frase_fuerte": null
+        }
+    ]
+}
