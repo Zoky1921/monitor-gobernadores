@@ -1,0 +1,142 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada se caracteriza por una sutil pero firme embestida de los gobernadores peronistas y radicales contra el relato de ajuste nacional. Kicillofok y Llaryora marcan territorio con obras propias, mientras el silencio de otros mandatarios sobre la macroeconomía refuerza la estrategia de deslegitimación por omisión. La Casa Rosada enfrenta un despliegue de autonomía provincial que disimula mal la asfixia fiscal.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante de la jornada es la disputa por la obra pública. Kicillofok, con un retuit de viviendas retomadas en Bahía Blanca, y Llaryora, con su letanía de inauguraciones en Córdoba, envían el mismo mensaje: ‘Nosotros hacemos lo que Nación abandonó’. No es gestión, es una exhibición de poder frente a un Estado nacional que se repliega. La omisión de cualquier referencia a la macroeconomía en sus tuits es una declaración de guerra fría: no necesitan mencionar a Milei porque lo están desmintiendo con hechos.\n\nActo 2 — Los Alineamientos: Los socios estratégicos del oficialismo nacional, como Jorge Macri, se limitan a gestos protocolares (saludo a EEUU) y evitan cualquier roce. En la vereda opuesta, el peronismo federal (Jalil, Quintela, Zdero) se refugia en la agenda local, pero sin confrontar abiertamente. La excepción es Kicillofok, que juega al límite: su retuit no menciona a Nación, pero el contexto lo acusa. Los gobernadores del interior, como Rolo Figueroa y Weretilneck, se mantienen en una ambigüedad calculada, mostrando obras pero sin disparar contra la Rosada.\n\nActo 3 — La Micro-política: Las provincias periféricas, como San Luis (Poggi) y La Rioja (Quintela), se sumergen en la agenda de cabotaje: condolencias, efemérides y cooperativismo. No hay señales de conflicto nacional porque su capital político es bajo. Sin embargo, Poggi homenajea a una dirigente de Avanzar, lo que revela lealtades internas. Zdero, en Chaco, combina asistencia social con una feria ganadera, mostrando que la gestión de la pobreza sigue siendo su prioridad.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el saldo de la jornada es amargo. El silencio de los gobernadores sobre la inflación o el ajuste es una derrota simbólica. Cada obra inaugurada es una acusación tácita. Milei necesita que las provincias pidan ayuda, pero hoy le demostraron que pueden sobrevivir solas. El capital político de Nación se erosiona lentamente, mientras los mandatarios provinciales construyen su propia narrativa de eficiencia.",
+    "temas_calientes": [
+        {
+            "tema": "Obra pública provincial como respuesta al abandono nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Cooperativismo como herramienta de desarrollo local",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Homenajes y condolencias como gesto de liderazgo territorial",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@QuintelaRicardo",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Gestión social y asistencia directa en provincias periféricas",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Relaciones internacionales de bajo perfil",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @MinHabitatPBA)",
+        "texto": "¡Trabajamos en toda la PBA! Firmamos junto al Gobernador @kicillofok, en el marco del programa Completar, un convenio para retomar 36 viviendas que fueron abandonadas por el gobierno nacional en el barrio Luz y Fuerza en #BahíaBlanca.",
+        "por_que_es_clave": "Es un misil contra la gestión nacional: acusa de abandono y se atribuye el mérito de retomar las obras. No necesita decir 'Milei' para herir.",
+        "pregunta_openarg": "¿Cuántas obras nacionales paralizadas están siendo retomadas por las provincias como estrategia de desgaste político?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "vivienda",
+                "obra pública",
+                "gestión provincial"
+            ],
+            "postura_politica": "Marca territorio: la Provincia ejecuta lo que Nación abandona. El retuit es un manifiesto de autonomía y una crítica implícita al gobierno de Milei. Juega a la víctima fiscal mientras se erige como salvador de los bonaerenses.",
+            "frase_fuerte": "retomar 36 viviendas que fueron abandonadas por el gobierno nacional"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "relaciones internacionales",
+                "protocolo"
+            ],
+            "postura_politica": "Se mantiene en una burbuja diplomática. Saluda a EEUU en su día de la independencia, sin tocar temas locales. Es un gesto de alineamiento con el PRO y la agenda de Milei, pero sin confrontación. Silencio sobre la coparticipación o la seguridad.",
+            "frase_fuerte": "Feliz Día de la Independencia a los Estados Unidos"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "desarrollo productivo",
+                "cooperación",
+                "empleo"
+            ],
+            "postura_politica": "Apuesta al desarrollo privado (Arcor) y a la imagen de gestión eficiente. Evita mencionar a Nación, pero al celebrar a una empresa que invierte, muestra que la provincia puede crecer sin el Estado nacional. Es un posicionamiento sutil de autonomía económica.",
+            "frase_fuerte": "Gracias a Luis Pagani y a toda la gran familia Arcor por seguir invirtiendo"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "asistencia social",
+                "producción ganadera",
+                "operativo interfluvio"
+            ],
+            "postura_politica": "Combina la gestión de la pobreza (Operativo Interfluvio) con la promoción del sector productivo (Exposición Ganadera). Es una doble señal: el Estado presente en la emergencia y el impulso al trabajo. Omite a Nación, pero muestra que la provincia se las arregla sola.",
+            "frase_fuerte": "Acompañamos la apertura de la 81.ª Exposición Ganadera de Machagai"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obra pública",
+                "cooperativismo",
+                "cultura",
+                "deporte"
+            ],
+            "postura_politica": "Es el gran constructor de la jornada. Cada tuit es una inauguración o un anuncio. La frase 'En un país donde la obra pública está paralizada, en Córdoba seguimos haciendo' es un dardo directo a Nación. Refuerza su imagen de gestor eficiente frente al caos nacional.",
+            "frase_fuerte": "En un país donde la obra pública está paralizada, en Córdoba seguimos haciendo"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "deporte",
+                "condolencias",
+                "justicia territorial",
+                "minería"
+            ],
+            "postura_politica": "Se mueve en múltiples frentes: apoya a una tenista local, promulga una ley de límites (rechazo a la dictadura), y presenta un plan minero. Es un gobernador que busca posicionamiento federal y nacional, con una agenda que mezcla reivindicación histórica y desarrollo. No confronta abiertamente, pero marca presencia.",
+            "frase_fuerte": "Hoy promulgué la Ley N° 10.876 para ratificar nuestro rechazo a los límites impuestos por la dictadura militar"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "comunidad",
+                "educación",
+                "deporte",
+                "infraestructura"
+            ],
+            "postura_politica": "Apuesta a la obra comunitaria y a la integración. Su tuit sobre el Instituto Movente de Centenario muestra una gestión cercana. Evita roces nacionales, pero al destacar que la obra es provincial, implícitamente dice que no necesita a Nación. Es un perfil bajo y efectivo.",
+            "frase_fuerte": "CUANDO LA COMUNIDAD CRECE, NEUQUÉN AVANZA"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "salud pública",
+                "agua rural",
+                "gestión territorial"
+            ],
+            "postura_politica": "Se enfoca en la salud y el acceso al agua en zonas rurales. Son temas de gestión dura, sin contenido político explícito. Sin embargo, al mostrar que el Estado provincial llega donde Nación no está, refuerza la idea de autonomía. Es una postura pragmática.",
+            "frase_fuerte": "SALUD PÚBLICA PARA QUE NINGÚN RIONEGRINO QUEDE ATRÁS"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "condolencias",
+                "homenajes",
+                "cooperativismo"
+            ],
+            "postura_politica": "La jornada está marcada por el fallecimiento de una dirigente de Avanzar (Luciana Perano) y una funcionaria (Ingrid Blumencweig). Los tuits son de duelo, pero al resaltar la militancia de Avanzar, muestra alineamiento interno. El cooperativismo es un tema menor. No hay agenda nacional.",
+            "frase_fuerte": "De manera inesperada y con profundo dolor despido hoy a la LUCHI"
+        }
+    ]
+}

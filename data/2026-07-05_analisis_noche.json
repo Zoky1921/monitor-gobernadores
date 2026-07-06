@@ -1,0 +1,134 @@
+{
+    "clima_general": "NEUTRO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron su agenda en la gestión provincial y el desarrollo local. Axel Kicillof (Buenos Aires) destacó un convenio para retomar viviendas 'abandonadas por el gobierno nacional', marcando una tensión con la administración central. Martín Llaryora (Córdoba) y Leandro Zdero (Chaco) impulsaron inversiones en infraestructura social, educación y apoyo a productores locales, haciendo énfasis en la articulación para la asistencia. Raúl Jalil (Catamarca) celebró la inversión de Arcor, mientras Ricardo Quintela (La Rioja) y Alberto Weretilneck (Río Negro) resaltaron el apoyo al deporte y a la salud pública, respectivamente. Rolando Figueroa (Neuquén) se enfocó en obras comunitarias. Predomina el énfasis en el 'hacer' y la cercanía con la ciudadanía, consolidando agendas propias.",
+    "analisis_profundo": "La jornada reflejó una clara orientación de los gobernadores hacia la gestión interna y la cercanía con las comunidades. Axel Kicillof (Buenos Aires) mantuvo un tono crítico hacia el gobierno nacional al destacar la recuperación de viviendas 'abandonadas', posicionándose como un gestor activo frente a la inacción central. Este tipo de mensajes refuerza el relato provincialista y puede interpretarse como una estrategia para consolidar la imagen de autonomía y eficiencia frente a las políticas nacionales.\n\nPor su parte, Martín Llaryora (Córdoba) demostró una intensa agenda territorial, anunciando inversiones para bomberos voluntarios y apoyando instituciones culturales y sociales en el interior provincial. Este enfoque en la 'institucionalidad' y el 'tejido social' es recurrente en su comunicación, buscando fortalecer la identidad cordobesa y la capacidad de autogestión local.\n\nEn el Norte Grande, Raúl Jalil (Catamarca) celebró la continuidad de inversiones privadas como la de Arcor, vinculando directamente el crecimiento empresarial con la generación de empleo. Leandro Zdero (Chaco) exhibió una activa política social y productiva, desde operativos de asistencia hasta el apoyo a exposiciones ganaderas y programas para emprendedores, con un notable énfasis en El Impenetrable. Esta combinación de asistencia y fomento productivo es clave en provincias con necesidades sociales marcadas, y su mención de articulación con el Ministerio de Capital Humano de la Nación sugiere una convivencia pragmática.\n\nRicardo Quintela (La Rioja) se centró en el reconocimiento y apoyo a deportistas locales, una estrategia de visibilidad y fomento de valores. Alberto Weretilneck (Río Negro) destacó la inversión en salud pública y el suministro de agua en zonas rurales, subrayando la importancia de la infraestructura básica y el bienestar. Rolando Figueroa (Neuquén) también se focalizó en obras comunitarias y la expansión de infraestructura básica, reafirmando su compromiso con el crecimiento local.\n\nEn general, la comunicación muestra a gobernadores comprometidos con la resolución de problemas cotidianos y el impulso de la economía regional, a menudo contrastando la gestión provincial con un gobierno central que perciben distante o ineficaz, o bien, destacando la articulación cuando es favorable. La jornada no presentó conflictos interprovinciales significativos, sino una reafirmación de las agendas subnacionales y una defensa del 'hacer' en el territorio. El foco en el 'desarrollo local' y la 'autonomía' es una constante que marca el pulso de la dinámica federal.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión y Desarrollo Local",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Infraestructura Social y Servicios Básicos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Apoyo a la Producción y Economía Regional",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Cultura, Deporte y Comunidad",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Relación Nación-Provincias y Discursos Políticos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @MinHabitatPBA)",
+        "texto": "¡Trabajamos en toda la PBA! Firmamos junto al Gobernador @kicillofok, en el marco del programa Completar, un convenio para retomar 36 viviendas que fueron abandonadas por el gobierno nacional en el barrio Luz y Fuerza en #BahíaBlanca.",
+        "por_que_es_clave": "El gobernador Kicillof (Buenos Aires) utiliza el relanzamiento de un proyecto de viviendas para marcar una clara diferencia con el gobierno nacional, acusándolo de abandono. Esto subraya la polarización y la defensa de la gestión provincial frente a la administración central.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Gestión de vivienda",
+                "Relación Nación-Provincia",
+                "Obra pública"
+            ],
+            "postura_politica": "Crítica al gobierno nacional por el abandono de obras y reafirmación de la gestión provincial en la resolución de problemas locales, posicionándose como un gestor activo.",
+            "frase_fuerte": "Firmamos junto al Gobernador @kicillofok, en el marco del programa Completar, un convenio para retomar 36 viviendas que fueron abandonadas por el gobierno nacional en el barrio Luz y Fuerza en #BahíaBlanca."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Inversión privada",
+                "Empleo"
+            ],
+            "postura_politica": "Fomenta y celebra la inversión privada como motor de desarrollo y generación de empleo, destacando la importancia de empresas arraigadas en la provincia.",
+            "frase_fuerte": "Felices 75 años años @arcor Desde hace 38 años su planta en Recreo es clave para el desarrollo de nuestra provincia generando fuentes de empleo directo."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Asistencia social",
+                "Desarrollo productivo",
+                "Economía local",
+                "Exposiciones ganaderas"
+            ],
+            "postura_politica": "Enfatiza la acción directa del Estado en asistencia a comunidades vulnerables y el impulso a la producción local y eventos sectoriales, destacando la articulación con el gobierno nacional en temas de asistencia.",
+            "frase_fuerte": "Completamos cinco jornadas de trabajo en el Operativo Interfluvio N.° 132 en El Impenetrable. En articulación con el Ministerio de Capital Humano de la Nación, llegamos a 48 pueblos y parajes para asistir a más de 5.000 familias chaqueñas con la entrega de más de 22.000 módulos."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Inversión en infraestructura social y cultural",
+                "Apoyo a instituciones",
+                "Gestión local"
+            ],
+            "postura_politica": "Muestra una gestión activa en el interior provincial, apoyando a bomberos, centros de jubilados y espacios culturales con inversiones concretas, reafirmando el valor del trabajo institucional y el compromiso comunitario.",
+            "frase_fuerte": "En nombre de todos los cordobeses, anunciamos un aporte de 60 millones de pesos destinado a la ampliación del cuartel."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Deporte",
+                "Juventud",
+                "Apoyo a talentos locales"
+            ],
+            "postura_politica": "Resalta el acompañamiento a jóvenes deportistas como política de estado para fomentar el desarrollo y la representación provincial a nivel nacional e internacional, vinculándolo con la alegría de la comunidad.",
+            "frase_fuerte": "Vamos a seguir acompañando a nuestros deportistas para que puedan cumplir sus sueños y seguir dejando a nuestra provincia bien representada en cada rincón del mundo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Desarrollo comunitario",
+                "Educación",
+                "Deporte",
+                "Infraestructura"
+            ],
+            "postura_politica": "Destaca la importancia de las obras comunitarias y la colaboración con la comunidad para el crecimiento provincial, enfocándose en espacios de educación, deporte e integración como pilares del futuro.",
+            "frase_fuerte": "Estamos convencidos de que la mejor manera de construir la Neuquén del futuro es hacerlo junto a la comunidad, fortaleciendo los espacios donde las personas aprenden, se encuentran y crecen."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Infraestructura rural",
+                "Servicios básicos",
+                "Acceso al agua"
+            ],
+            "postura_politica": "Centra su gestión en garantizar servicios esenciales como salud y agua en zonas rurales, buscando la equidad territorial y el fortalecimiento del sistema público, con una visión de futuro.",
+            "frase_fuerte": "Recorrí la segunda etapa de ampliación y remodelación del Hospital 'Dr. Orencio Callejas' de Maquinchao, una obra que sigue en marcha y que va a significar una mejor atención para las familias de toda la Región Sur."
+        }
+    ]
+}
