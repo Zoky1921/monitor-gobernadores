@@ -1,0 +1,126 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Los gobernadores argentinos evitan mencionar a Nación en sus posteos del día, refugiándose en una agenda de gestión local y obras públicas. No hay señales de conflicto fiscal ni alineamientos explícitos, lo que sugiere un repliegue táctico o la ausencia de urgencias políticas inmediatas.",
+    "analisis_profundo": "Acto 1: El Conflicto Central. La jornada del 7 de julio se caracteriza por un vacío de confrontación directa entre las provincias y la Casa Rosada. Ningún gobernador utilizó su espacio digital para cuestionar la coparticipación, la deuda o los recursos estratégicos. Es un silencio que no debe leerse como normalidad, sino como una pausa calculada: con la designación de Diego Santilli como Jefe de Gabinete aún en fase de rodaje, los mandatarios provinciales parecen esperar señales de una nueva etapa de negociación antes de posicionarse.\n\nActo 2: Los Alineamientos. Los únicos contactos con el nivel nacional fueron gestiones cooperativas: Gustavo Sáenz (Salta) firmó convenios con el ministro de Justicia Juan Mahiques, y Ricardo Quintela (La Rioja) se reunió con el diputado nacional Germán Martínez. El resto optó por la omisión estratégica. Martín Llaryora (Córdoba) y Maximiliano Pullaro (Santa Fe) concentraron su mensaje en la eficiencia de sus gestiones, marcando autonomía sin romper el vínculo. No se detectan parias ni socios declarados: todos, por ahora, se mantienen en una ambigüedad disciplinada.\n\nActo 3: La Micro-política. Las provincias periféricas y de menor peso demográfico se sumergieron en la agenda de cabotaje. Leandro Zdero (Chaco) mostró obras de energía solar; Claudio Vidal (Santa Cruz) polideportivos; Alberto Weretilneck (Río Negro) asignaciones familiares y acceso a gas. Este comportamiento es un refugio típico en contextos de baja tensión: cuando no hay conflicto con Nación, los gobernadores ocupan el espacio con anuncios locales para fortalecer su imagen de gestión.\n\nActo 4: Saldo Presidencial. Para la Casa Rosada, la jornada es favorable en términos de oxígeno político. La ausencia de críticas y el enfoque en obras provinciales le restan presión al nuevo Gabinete de Santilli y al equipo económico. Sin embargo, la calma puede ser engañosa: el silencio de los gobernadores del peronismo (Quintela, Passalacqua, Insfrán) y de los radicales (Valdés, Cornejo) no implica respaldo, sino la expectativa de que el Gobierno nacional cumpla con compromisos previos de obra pública y fondos coparticipables. Si esos compromisos no se materializan, este silencio se transformará en una andanada de reclamos.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión local de infraestructura y obras públicas",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Educación y resultados de evaluaciones Aprender",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Seguridad y cooperación con el gobierno nacional",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "EL TALENTO CORDOBÉS NO TIENE FRONTERAS\n\nMe reuní con emprendedores cordobeses que son el reflejo de nuestra cultura emprendedora, con la convicción de que cuando el sector público y privado trabajan juntos, se genera más desarrollo y #empleo.\n\nInteligencia artificial, blockchain, tecnología agrícola, digitalización comercial y medicamentos personalizados, son algunos de los desarrollos que se generan en #Córdoba y que están presentes en distintos países del mundo. \n\nMe interioricé sobre cada proyecto y avanzamos en cómo incorporar estas soluciones innovadoras en la gestión pública. \n\n#HacerParaCrecer",
+        "por_que_es_clave": "Llaryora posiciona a Córdoba como polo de innovación y gestión eficiente, sin mencionar a Nación. Es un mensaje de autonomía y competencia administrativa que refuerza su figura de gobernador modernizador, en un contexto donde el gobierno nacional enfrenta críticas por la paralización de obras públicas.",
+        "pregunta_openarg": "¿Puede un gobernador construir una imagen de gestión exitosa sin mencionar ni apoyar ni confrontar con el gobierno nacional, o ese silencio es una forma de deslegitimación pasiva?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "energía solar",
+                "parque fotovoltaico"
+            ],
+            "postura_politica": "Gestión local sin impacto federal. Muestra obras de energía renovable, pero sin vincularlas a Nación ni a conflictos. Es una señal de capacidad administrativa en el norte, pero sin carga política.",
+            "frase_fuerte": "El Parque Solar de Quitilipi sigue avanzando, con más de 27.000 paneles solares, abastecerá a cerca de 14.000 hogares"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "emprendedores tecnológicos",
+                "iluminación pública",
+                "seguridad"
+            ],
+            "postura_politica": "Refuerza su perfil de gobernador moderno y eficiente. Omite a Nación por completo, lo que sugiere una estrategia de autonomía y competencia con el gobierno central.",
+            "frase_fuerte": "El talento cordobés no tiene fronteras"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "justicia",
+                "feria del libro",
+                "acuerdo político"
+            ],
+            "postura_politica": "Mantiene un perfil peronista con reuniones de alto nivel opositor (Germán Martínez), pero sin atacar directamente al gobierno de Milei. Busca construir un espacio de poder sin exponerse.",
+            "frase_fuerte": "Los grandes desafíos también se enfrentan construyendo acuerdos"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "reunión local",
+                "agua potable"
+            ],
+            "postura_politica": "Agenda de gestión local sin confrontación ni mención a Nación. Es un gobernador peronista que elige el silencio político, probablemente esperando definiciones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "infraestructura educativa",
+                "salud",
+                "pavimentación",
+                "seguridad"
+            ],
+            "postura_politica": "Gobernador de perfil técnico y localista. Sus tuits destacan obras y gestión, sin roces con Nación. La mención a un juez federal es el único elemento que conecta con el nivel nacional, pero en tono cooperativo.",
+            "frase_fuerte": "Las decisiones que tomamos para administrar con eficiencia y austeridad los recursos públicos... hoy se ven reflejadas en obras"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "educación",
+                "asignaciones familiares",
+                "obra hidráulica"
+            ],
+            "postura_politica": "Enfoque en gestión social y obras. No hay crítica al gobierno nacional, sino una demostración de capacidad provincial. Es un mensaje de que Río Negro se las arregla sola.",
+            "frase_fuerte": "Aumentamos un 133% las asignaciones familiares"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "seguridad",
+                "justicia",
+                "convenios con Nación"
+            ],
+            "postura_politica": "Único gobernador que muestra cooperación explícita con el gobierno nacional. La reunión con Mahiques es una señal de diálogo y gestión conjunta, lo que lo posiciona como aliado táctico de la Casa Rosada.",
+            "frase_fuerte": "Firmamos importantes convenios para avanzar en la implementación del Régimen Penal Juvenil... y profundizar la lucha contra el microtráfico"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "polideportivos",
+                "conectividad aérea"
+            ],
+            "postura_politica": "Gobernador de gestión local con fuerte énfasis en obras públicas. No hay mención a Nación, lo que sugiere que busca construir su propia marca de gestión.",
+            "frase_fuerte": "El nuevo polideportivo de Pico Truncado ya se está construyendo"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "prevención climática",
+                "obras en rutas",
+                "eventos deportivos"
+            ],
+            "postura_politica": "Gobernador radical que muestra una gestión activa y moderna, sin confrontar con Nación. Su tweet sobre El Niño es preventivo y muestra capacidad de respuesta.",
+            "frase_fuerte": "Tenemos que estar preparados y equipados para dar respuestas en nuestra provincia"
+        }
+    ]
+}

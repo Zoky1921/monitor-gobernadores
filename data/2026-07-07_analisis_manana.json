@@ -1,0 +1,143 @@
+{
+    "clima_general": "CAUTELOSO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron la jornada en la consolidación de la gestión local, destacando inversiones en infraestructura crítica y servicios esenciales. Leandro Zdero (Chaco) y Claudio Vidal (Santa Cruz) impulsaron obras de energía renovable y polideportivos, respectivamente. Ignacio Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) subrayaron el fortalecimiento de educación y salud, con este último también incrementando asignaciones familiares. Ricardo Quintela (La Rioja) puso énfasis en la modernización judicial y el fomento cultural. Gustavo Sáenz (Salta) reorganizó su gabinete de seguridad. Sin embargo, el clima federal se tornó cauteloso con el reclamo directo de Maximiliano Pullaro (Santa Fe) al 'centralismo porteño' por la falta de acompañamiento en obras hídricas ante 'El Niño'.",
+    "analisis_profundo": "La agenda federal de hoy se caracterizó por la firmeza de las gestiones provinciales en la ejecución de políticas locales, priorizando la inversión en infraestructura y la mejora de servicios esenciales, a menudo con un trasfondo de la necesidad de autoabastecimiento frente a un contexto nacional incierto. Gobernadores como Leandro Zdero (Chaco) exhibieron logros en energía renovable, destacando el avance del Parque Solar de Quitilipi y su impacto en la generación de empleo chaqueño, marcando una ruta hacia la sostenibilidad y el desarrollo endógeno. En la misma línea de concreción de obra pública, Claudio Vidal (Santa Cruz) enfatizó el inicio de la construcción del polideportivo de Pico Truncado, señalando una ruptura con el pasado de obras inconclusas y reafirmando el compromiso provincial con el deporte y los espacios de encuentro.\nMartín Llaryora (Córdoba) proyectó una visión de modernización urbana y desarrollo tecnológico, no solo mejorando la iluminación y la seguridad, sino también celebrando el talento cordobés en inteligencia artificial y blockchain, posicionando a la provincia como un polo de innovación. Paralelamente, Ignacio Figueroa (Neuquén) dedicó su comunicación a la expansión de la infraestructura educativa y sanitaria, con la ampliación de una EPET en Plottier y la construcción de un nuevo centro de salud, enfatizando la respuesta a demandas históricas de su comunidad. Alberto Weretilneck (Río Negro) también mostró un fuerte acento en lo social, con un significativo aumento del 133% en las asignaciones familiares y programas de esquí escolar, junto a avances en infraestructura clave como la terminal de El Bolsón.\nRicardo Quintela (La Rioja) destacó el compromiso con la transformación judicial mediante un simulacro del sistema acusatorio y defendió la inversión cultural con la inauguración de la Feria del Libro, presentándola como una 'inversión necesaria' en 'tiempos difíciles'. Gustavo Sáenz (Salta), por su parte, realizó movimientos en su gabinete de seguridad, remarcando la importancia de una política de estado federal en esta área.\nEl punto de mayor tensión federal provino de Maximiliano Pullaro (Santa Fe), quien, al informar sobre la adquisición de maquinaria para enfrentar el fenómeno 'El Niño', lanzó un explícito llamado al gobierno nacional: 'pedimos que desde el centralismo porteño miren de una vez por todas al interior productivo y puedan acompañarnos con las grandes obras que hacen falta.' Este comentario subraya la persistente percepción de una asimetría en la atención y asignación de recursos desde el centro hacia las provincias, especialmente en proyectos de infraestructura de gran envergadura y vital importancia como la gestión hídrica. La jornada, por tanto, refleja un dinamismo provincial robusto y autónomo, matizado por la insistencia de algunas jurisdicciones en la necesidad de un mayor y más equitativo acompañamiento por parte del poder central.",
+    "temas_calientes": [
+        {
+            "tema": "Impulso a la Obra Pública y Desarrollo Productivo Local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de Servicios Esenciales (Educación y Salud)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Reafirmación de la Autonomía Provincial y Gestión de Riesgos Climáticos",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Modernización Institucional y Seguridad Pública",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@GustavoSaenzOK",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales y Asignaciones Familiares",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Tenemos que estar preparados y equipados para dar respuestas en nuestra provincia. Desde el inicio de la gestión venimos invirtiendo en obras, en limpieza de canales y trabajando junto a municipios y comunas para mitigar las consecuencias de las intensas lluvias.\n\nEn los próximos meses, Santa Fe integra el mapa de provincias que pueden sufrir las consecuencias del fenómeno climático “El Niño” y para eso, hoy sumamos 9 máquinas pesadas destinadas a fortalecer el trabajo en recursos hídricos. \n\nEste nuevo equipamiento es para lograr estar en óptimas condiciones frente a posibles emergencias: Un camión, un topador y 9 máquinas de brazo de 9, 14 y 18 metros\npedimos que desde el centralismo porteño miren de una vez por todas al interior productivo y puedan acompañarnos con las grandes obras que hacen falta.",
+        "por_que_es_clave": "El gobernador (Santa Fe) no solo informa sobre la preparación de su provincia ante el fenómeno climático 'El Niño', sino que aprovecha la oportunidad para realizar un llamado explícito al gobierno nacional, demandando una mirada federal y apoyo para las obras de infraestructura que el 'interior productivo' necesita. Esto marca una clara postura frente a la relación Nación-provincias.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Energía renovable",
+                "Obra pública",
+                "Empleo local",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Enfocado en la gestión provincial con inversión en infraestructura estratégica para generar energía limpia y empleo, mostrando resultados concretos de su administración.",
+            "frase_fuerte": "generó trabajo para alrededor de 300 chaqueños"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obra pública",
+                "Modernización urbana",
+                "Tecnología",
+                "Innovación",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Impulsa una agenda de modernización y desarrollo productivo basada en la innovación tecnológica y la mejora de servicios urbanos, destacando la colaboración público-privada. Enfatiza la capacidad de Córdoba como motor de crecimiento.",
+            "frase_fuerte": "EL TALENTO CORDOBÉS NO TIENE FRONTERAS"
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Reforma judicial",
+                "Modernización del Estado",
+                "Cultura",
+                "Inversión cultural"
+            ],
+            "postura_politica": "Dedicado a la reforma y modernización del sistema judicial, así como a la promoción y defensa de la cultura como inversión esencial, destacando el rol del Estado en ambos.",
+            "frase_fuerte": "Estos espacios no son un gasto: son una inversión necesaria y una demanda genuina de nuestros hacedores culturales."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Educación técnica",
+                "Infraestructura educativa",
+                "Salud pública",
+                "Obra pública"
+            ],
+            "postura_politica": "Resalta la inversión en infraestructura para educación y salud, mostrando una gestión enfocada en resolver demandas históricas y fortalecer los servicios esenciales como pilar para el futuro provincial.",
+            "frase_fuerte": "invertir en Educación es invertir en el futuro de Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Asignaciones familiares",
+                "Educación",
+                "Turismo educativo",
+                "Seguridad",
+                "Infraestructura"
+            ],
+            "postura_politica": "Prioriza el bienestar social a través del aumento de asignaciones familiares, la inversión en experiencias educativas y la mejora de infraestructura, al tiempo que refuerza la seguridad con llamados a la denuncia.",
+            "frase_fuerte": "AUMENTAMOS UN 133% LAS ASIGNACIONES FAMILIARES"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Seguridad",
+                "Gestión de gobierno",
+                "Federalismo"
+            ],
+            "postura_politica": "Reafirma su compromiso con la seguridad como política de Estado a través de cambios en su gabinete, enfatizando la visión federal y el servicio a los ciudadanos.",
+            "frase_fuerte": "fortaleciendo una política de Estado tan importante como la seguridad, trabajando con compromiso, de manera federal y siempre al servicio de los salteños."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura deportiva",
+                "Inversión"
+            ],
+            "postura_politica": "Destaca el cumplimiento de promesas de obras públicas con fuertes inversiones, buscando generar oportunidades, fortalecer el deporte y revertir años de abandono en la provincia.",
+            "frase_fuerte": "SEGUIMOS CUMPLIENDO: EL NUEVO POLIDEPORTIVO DE PICO TRUNCADO YA SE ESTÁ CONSTRUYENDO"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Gestión de riesgo hídrico",
+                "Inversión en equipamiento",
+                "Infraestructura",
+                "Federalismo"
+            ],
+            "postura_politica": "Enfocado en la prevención y mitigación de desastres naturales con inversión en maquinaria, y utiliza este contexto para reclamar mayor atención y apoyo a las necesidades del 'interior productivo' por parte del gobierno nacional.",
+            "frase_fuerte": "pedimos que desde el centralismo porteño miren de una vez por todas al interior productivo y puedan acompañarnos con las grandes obras que hacen falta."
+        }
+    ]
+}
