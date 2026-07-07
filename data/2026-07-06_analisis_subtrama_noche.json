@@ -1,0 +1,198 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada de gestión local con escasos roces directos con Nación. Gobernadores peronistas como Kicillof y Ziliotto reivindican su modelo provincial frente al ajuste, mientras que Macri y Llaryora capitalizan resultados educativos. Predomina la obra pública provincial como mensaje de autonomía.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante no es fiscal abierta, sino simbólica. Kicillof (Buenos Aires) y Ziliotto (La Pampa) utilizan la gestión de obra pública y conectividad para marcar distancia del relato nacional de ajuste, insinuando que sus provincias son islas de eficiencia. Macri (CABA), en cambio, se alinea con la narrativa de 'Ley y orden' y resultados educativos, reforzando su perfil como aliado de la Casa Rosada. \n\nActo 2 — Los Alineamientos: Llaryora (Córdoba) y Zdero (Chaco) se posicionan como gestores eficaces que logran resultados educativos pese al contexto, sin confrontar directamente. Saenz (Salta) y Quintela (La Rioja) optan por la cooperación institucional con el gobierno nacional (justicia, turismo), mostrando una ambigüedad calculada: no rompen pero tampoco se subordinan. \n\nActo 3 — La Micro-política: Figueroa (Neuquén) y Weretilneck (Río Negro) se refugian en la agenda de cabotaje: pavimento, gas, hospitales. Es un repliegue estratégico para evitar posicionarse en temas nacionales mientras aseguran gobernabilidad local. Jaldo (Tucumán) y Sadir (Jujuy) hacen lo propio con salud y conectividad. \n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día es neutro. No hay rebeliones ni apoyos explícitos. Los gobernadores evitan pronunciarse sobre la macroeconomía, lo que sugiere una tregua táctica. El silencio de los pesos pesados ausentes (Santa Fe, Mendoza, Santa Cruz) es una omisión que revela cálculo: no dar munición ni al oficialismo ni a la oposición.",
+    "temas_calientes": [
+        {
+            "tema": "Resultados educativos Aprender 2025 como capital político",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Obra pública provincial como marca de autonomía frente a Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden como eje de gestión",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Cooperación institucional con el gobierno nacional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@GustavoSaenzOK",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Defensa del modelo provincial y eficiencia fiscal",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Si sos trapito, te meto preso.\n\nLey y orden. https://t.co/ewNmX685ep",
+        "por_que_es_clave": "Macri refuerza su perfil de mano dura en seguridad, alineado con la narrativa nacional, y busca capitalizar el descontento social con medidas punitivas. Es un mensaje directo a su base electoral y un guiño a la Casa Rosada.",
+        "pregunta_openarg": "¿La política de 'Ley y orden' de Macri en CABA es una solución real a la inseguridad o una estrategia electoral que criminaliza la pobreza?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obra pública municipal",
+                "Conectar Igualdad Bonaerense",
+                "Leasing provincial"
+            ],
+            "postura_politica": "Muestra gestión activa y recursos propios para llenar el vacío dejado por Nación. Es un mensaje de autonomía y capacidad, pero sin confrontación directa. El silencio sobre la macroeconomía es un cálculo para no desgastarse.",
+            "frase_fuerte": "En contextos tan difíciles como el que estamos atravesando, estas herramientas se vuelven fundamentales"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Educación",
+                "Resultados Aprender"
+            ],
+            "postura_politica": "Se posiciona como el ejecutor de la 'Ley y orden' y el gestor eficiente en educación. Es el gobernador más alineado con el discurso nacional, usando datos para legitimar su gestión.",
+            "frase_fuerte": "Si sos trapito, te meto preso."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Alfabetización",
+                "Operativo Interfluvio",
+                "Asistencia social"
+            ],
+            "postura_politica": "Equilibra gestión provincial con cooperación nacional (Capital Humano). Muestra resultados en educación y asistencia, sin confrontar. Es un perfil técnico y moderado.",
+            "frase_fuerte": "Cuando se prioriza la alfabetización, los resultados llegan."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Innovación",
+                "Aniversario de Córdoba",
+                "Resultados Aprender",
+                "Bomberos"
+            ],
+            "postura_politica": "Combina agenda local con un fuerte énfasis en educación e innovación. El mensaje de 'Córdoba no improvisa' es una crítica implícita al gobierno nacional, pero sin decirlo abiertamente.",
+            "frase_fuerte": "En un contexto económico complejo para nuestro país, estos resultados adquieren un valor aún mayor."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Homenaje cultural"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. El tweet es un saludo por fallecimiento de un músico, sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Conectividad",
+                "Inversión privada"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Anuncia inversión de Telecom en 5G, mostrando capacidad de atraer capital privado. Sin mención a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Conectividad",
+                "Soberanía provincial"
+            ],
+            "postura_politica": "Defensivo y orgulloso. Responde a críticas sobre su modelo de provincia, reivindicando eficiencia y soberanía. Es un mensaje de resistencia al relato nacional.",
+            "frase_fuerte": "Será por estas políticas que algunos dirigentes quieren cambiar nuestro modelo de Provincia?"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Acuerdo político",
+                "Turismo",
+                "Deporte"
+            ],
+            "postura_politica": "Construye puentes con la oposición nacional (Unión por la Patria) y lanza una ley de promoción turística con exenciones fiscales. Es un perfil de gestión con ambición de liderazgo peronista.",
+            "frase_fuerte": "Los grandes desafíos también se enfrentan construyendo acuerdos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Condolencias"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Tweet de pésame, sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Agua potable"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Anuncia una perforación de agua, sin referencia a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Seguridad",
+                "Justicia"
+            ],
+            "postura_politica": "Enfatiza administración eficiente de recursos y combate al crimen. Se muestra como gestor responsable, sin confrontar. La mención a la justicia federal sugiere coordinación con Nación.",
+            "frase_fuerte": "Los recursos bien administrados vuelven en obras."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Gas",
+                "Hospital"
+            ],
+            "postura_politica": "Agenda de obras en zonas rurales y periféricas. Es un repliegue territorial: muestra gestión sin mencionar a Nación. El lema 'Sabemos que falta, pero este es el rumbo' es una declaración de continuidad.",
+            "frase_fuerte": "Sabemos que falta. Pero este es el rumbo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Justicia",
+                "Seguridad",
+                "Cooperación nacional"
+            ],
+            "postura_politica": "Recibe al ministro de Justicia nacional y firma convenios. Es un gesto de alineamiento institucional, mostrando diálogo y gestión conjunta.",
+            "frase_fuerte": "El diálogo, la gestión y el trabajo conjunto son el camino para construir una justicia más eficiente."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Profesionales",
+                "Convenio marco"
+            ],
+            "postura_politica": "Agenda local de articulación con colegios profesionales. Sin contenido federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Aniversario local",
+                "Salud",
+                "Equipamiento"
+            ],
+            "postura_politica": "Gestión de cercanía: entrega de ambulancias y equipamiento médico. Muestra presencia del Estado provincial, sin referencias a Nación.",
+            "frase_fuerte": null
+        }
+    ]
+}

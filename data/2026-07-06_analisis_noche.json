@@ -1,0 +1,212 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal estuvo marcada por una combinación de gestión local intensiva y posturas políticas definidas, reflejando tensiones subyacentes. Jorge Macri (Ciudad Autónoma de Buenos Aires) acentuó su discurso de 'ley y orden' con acciones firmes en seguridad y espacio público, además de celebrar avances educativos. En contraste, Axel Kicillof (Buenos Aires), Osvaldo Jaldo (Tucumán) y Leandro Zdero (Chaco) destacaron inversiones en obra pública, salud, educación y asistencia social. Sergio Ziliotto (La Pampa) defendió la autonomía de su modelo provincial ante posibles injerencias. Ricardo Quintela (La Rioja) se reunió con referentes de la oposición nacional para fortalecer el federalismo, mientras otros gobernadores se enfocaron en infraestructura y conectividad, demostrando una agenda heterogénea y estratégicamente diferenciada.",
+    "analisis_profundo": "La agenda de los gobernadores este 6 de julio de 2026 revela una diversidad de enfoques, con una notable distinción en las prioridades y el tono discursivo. Jorge Macri (Ciudad Autónoma de Buenos Aires) dominó la conversación con una serie de tuits que enfatizan su política de 'ley y orden', anunciando la clausura de obras irregulares en la Villa 31 y una mano dura contra los 'trapitos'. Su reiteración de la frase 'Ley y orden' busca consolidar una imagen de firmeza en seguridad, lo que puede ser interpretado como un mensaje al electorado nacional y un contraste con gestiones anteriores o provinciales. Además, su mención a los 'resultados históricos en Aprender' subraya un modelo educativo basado en 'esfuerzo, disciplina, evaluación y mérito', alineado con una visión de derecha liberal.\n\nEn contrapartida, Axel Kicillof (Buenos Aires) se concentró en la gestión territorial y el desarrollo productivo, firmando convenios para la Línea Municipios 2026 para obra pública, seguridad y salud, y apoyando a emprendedores. Su énfasis en el 'Conectar Igualdad Bonaerense' también refleja una postura de inversión social activa, distanciándose del discurso de ajuste. Osvaldo Jaldo (Tucumán) y Leandro Zdero (Chaco) también pusieron el foco en la inversión social y la gestión local, con Jaldo fortaleciendo el Sistema Provincial de Salud y Zdero el programa de alfabetización y la asistencia en zonas vulnerables. Estas acciones demuestran un compromiso con la provisión de servicios básicos y el apoyo a las comunidades, a menudo con recursos provinciales.\n\nSergio Ziliotto (La Pampa) introdujo una nota de confrontación al cuestionar a 'algunos dirigentes' que quieren cambiar su modelo de provincia, reafirmando la eficiencia y soberanía del Estado pampeano. Esta declaración sugiere una tensión subyacente entre el modelo de gestión provincial y posibles presiones o críticas de nivel nacional, o de otros actores políticos que podrían querer replicar otro tipo de políticas. En el mismo sentido, Ricardo Quintela (La Rioja) se reunió con Gerardo Martínez, presidente del bloque de Unión por la Patria en Diputados, para 'seguir fortaleciendo el trabajo conjunto entre el Congreso y nuestra provincia', lo que denota una búsqueda de alianzas y defensa del federalismo ante un posible centralismo.\n\nOtros gobernadores como Martín Llaryora (Córdoba) celebraron el aniversario de su capital con anuncios de obras y destacaron los resultados educativos, mientras que Rolo Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) informaron sobre diversas obras de infraestructura como pavimentación, tendido eléctrico y ampliación de redes de gas, priorizando la mejora de la calidad de vida de sus habitantes y el desarrollo local. La conectividad digital también fue un punto importante para Carlos Sadir (Jujuy), quien recibió a Telecom para discutir la expansión de 5G y fibra óptica. En general, la jornada expuso un paisaje federal donde la gestión local y la defensa de los recursos y modelos provinciales prevalecen, aunque con claras señales de tensión política y diferentes enfoques estratégicos frente al escenario nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y 'Ley y Orden' en espacios urbanos",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Obra Pública",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@passalacquaok",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Educación, Alfabetización y Mejora de Resultados Académicos",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Defensa del Federalismo y del Modelo de Gestión Provincial",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo, Económico Local y Conectividad",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@EliasSuarezSDE",
+                "@carlossadirjuy"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Todas las nuevas obras que aparezcan en la Villa 31 van a ser clausuradas. No vamos a permitir que construyan un solo metro cuadrado más. Ley y orden.",
+        "por_que_es_clave": "Es una declaración de política pública directa y contundente, que establece un límite claro sobre la construcción informal en un barrio sensible. La frase 'Ley y orden' se repite a lo largo del día, consolidando una postura firme en materia de seguridad y urbanismo, y puede generar debates sobre el rol del Estado en asentamientos urbanos.",
+        "pregunta_openarg": "¿Hasta qué punto la aplicación de 'Ley y orden' en la urbanización de barrios vulnerables puede garantizar una solución habitacional sostenible e inclusiva?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Desarrollo Local",
+                "Microcréditos",
+                "Educación Digital"
+            ],
+            "postura_politica": "Centrado en la inversión estatal para el desarrollo de los municipios y el acceso a la tecnología. Prioriza el rol del Estado en la provisión de recursos y herramientas para mejorar la calidad de vida de los bonaerenses, enfatizando una gestión activa y presente.",
+            "frase_fuerte": "En contextos tan difíciles como el que estamos atravesando, estas herramientas se vuelven fundamentales porque brindan a los municipios la posibilidad de adquirir recursos para que sus vecinos vivan mejor."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad Urbana",
+                "Orden Público",
+                "Educación",
+                "Lucha contra la Ilegalidad"
+            ],
+            "postura_politica": "Adopta una línea dura en seguridad y control del espacio público, con un fuerte énfasis en la 'ley y orden'. Promueve un modelo educativo basado en el esfuerzo y el mérito, y una gestión que busca la eficiencia y la mejora de indicadores.",
+            "frase_fuerte": "Si sos trapito, te meto preso. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "Alfabetización",
+                "Asistencia Social",
+                "Articulación Nación-Provincia"
+            ],
+            "postura_politica": "Demuestra un compromiso con la mejora de la calidad educativa, especialmente en alfabetización, y una activa coordinación con el gobierno nacional para la asistencia social en zonas vulnerables. Su enfoque es en resultados concretos y políticas públicas sostenidas.",
+            "frase_fuerte": "Cuando se prioriza la alfabetización, los resultados llegan. Hoy la realidad es distinta, con #AprendoLeyendo y políticas públicas sostenidas, estamos duplicando la comprensión lectora y mejorando la fluidez desde primer grado."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Innovación y Emprendedorismo",
+                "Desarrollo Urbano",
+                "Educación de Calidad",
+                "Apoyo a Instituciones"
+            ],
+            "postura_politica": "Impulsa una agenda de desarrollo basada en la innovación tecnológica y el emprendedorismo, conectándolos con la gestión pública. Celebra los logros educativos como resultado de políticas planificadas y fomenta la inversión en infraestructura.",
+            "frase_fuerte": "Hay logros que no son fruto del azar, sino de la convicción de una comunidad que entiende que la #educación es la mejor inversión para el futuro de sus hijos."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Cultura",
+                "Homenajes"
+            ],
+            "postura_politica": "Su único tweet relevante en el período es un mensaje de condolencia, mostrando un lado más humano y cultural de la gestión, reconociendo el legado de figuras destacadas del litoral.",
+            "frase_fuerte": "Se fue Rubén, uno de los Hermanos Cuestas. Nos deja un legado que trasciende el tiempo y seguirá emocionando cada vez que suene una chamarrita de nuestro Litoral."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Conectividad",
+                "Infraestructura Digital",
+                "Inversión Privada"
+            ],
+            "postura_politica": "Busca fortalecer la infraestructura digital de la provincia a través de la inversión privada y la expansión de tecnologías de comunicación. Apuesta por la modernización para una mayor conexión en el territorio.",
+            "frase_fuerte": "Seguimos trabajando para que Jujuy esté cada vez más conectado."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Conectividad",
+                "Soberanía Provincial",
+                "Defensa de Modelo de Gestión"
+            ],
+            "postura_politica": "Reafirma el modelo de provincia pampeano, destacando la eficiencia y la soberanía estatal. Se posiciona en defensa de su gestión frente a posibles injerencias o críticas de 'dirigentes' que buscarían cambiarlo.",
+            "frase_fuerte": "Será por estas políticas que algunos dirigentes quieren cambiar nuestro modelo de Provincia?"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Desarrollo Económico",
+                "Turismo",
+                "Diálogo Político"
+            ],
+            "postura_politica": "Se enfoca en la defensa del federalismo y la búsqueda de desarrollo a través de la inversión en turismo, con beneficios fiscales. Demuestra apertura al diálogo con actores políticos nacionales para construir una agenda federal.",
+            "frase_fuerte": "Los grandes desafíos también se enfrentan construyendo acuerdos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Duelo Oficial"
+            ],
+            "postura_politica": "Su tweet relevante es un mensaje de condolencia, lo que no permite definir una postura política clara sobre la gestión, más allá de la formalidad institucional ante el fallecimiento de una figura política local.",
+            "frase_fuerte": "Lamento el fallecimiento de Herman Pérez, un hombre comprometido con San Martín, con una extensa trayectoria en el radicalismo mendocino y una valiosa labor al frente de Defensa Civil del departamento."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Servicios Públicos Básicos",
+                "Calidad de Vida"
+            ],
+            "postura_politica": "Prioriza el acceso a servicios básicos como el agua potable como motor de transformación y mejora de la calidad de vida en las comunidades. Muestra una gestión enfocada en resolver necesidades fundamentales.",
+            "frase_fuerte": "El acceso al agua potable es una de las obras que más transforma la vida de las familias."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Gestión de Recursos",
+                "Obra Pública",
+                "Seguridad",
+                "Funcionamiento Institucional"
+            ],
+            "postura_politica": "Destaca una administración eficiente de los recursos para traducirlos en obras concretas que benefician a la ciudadanía. Se compromete con el combate al delito y la modernización del sistema judicial, además de reconocer el rol del personal legislativo.",
+            "frase_fuerte": "Los recursos bien administrados vuelven en obras."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Servicios Básicos",
+                "Salud Pública",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Se enfoca en saldar deudas históricas en infraestructura y servicios esenciales (agua, gas, electricidad, salud) en todo el territorio, especialmente en regiones postergadas. Reafirma un compromiso con la igualdad de oportunidades y el desarrollo regional.",
+            "frase_fuerte": "Porque para nosotros no hay parajes grandes o chicos: hay rionegrinos que merecen las mismas oportunidades, vivan donde vivan."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Justicia",
+                "Federalismo",
+                "Colaboración Nación-Provincia"
+            ],
+            "postura_politica": "Busca fortalecer el sistema de justicia en la provincia a través de la colaboración activa con el Ministerio de Justicia de la Nación. Enfatiza el diálogo y el trabajo conjunto como pilares de un federalismo efectivo.",
+            "frase_fuerte": "Estoy convencido de que el diálogo, la gestión y el trabajo conjunto son el camino para construir una justicia más eficiente, más cercana y con mejores herramientas al servicio de los salteños."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Profesionalización Estatal",
+                "Desarrollo Institucional",
+                "Planificación"
+            ],
+            "postura_politica": "Impulsa la articulación con federaciones de profesionales para incorporar conocimiento y capacidades técnicas en el diseño de políticas públicas. Apuesta por la planificación y el consenso para el desarrollo provincial.",
+            "frase_fuerte": "Creemos que el desarrollo de nuestra provincia requiere de un Estado que incorpore conocimiento, innovación y capacidades técnicas para diseñar e implementar mejores políticas públicas."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Gestión Municipal",
+                "Salud Pública",
+                "Servicios Urbanos",
+                "Inversión Social"
+            ],
+            "postura_politica": "Destaca el apoyo a los municipios con entrega de equipamiento y fortalecimiento de servicios, y una fuerte inversión en el sistema de salud provincial. Subraya un modelo de crecimiento equilibrado y la importancia de la participación ciudadana.",
+            "frase_fuerte": "Creemos en un Tucumán que crece de manera equilibrada, acompañado por municipios y comunas que impulsan el progreso en cada rincón de la provincia."
+        }
+    ]
+}
