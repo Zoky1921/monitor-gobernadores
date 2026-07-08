@@ -1,0 +1,120 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La jornada federal se centra en una intensa agenda de gestión provincial. Los gobernadores destacan avances en educación y seguridad con iniciativas legislativas como la Ley Antibúnker en Córdoba, y el fortalecimiento de la infraestructura de servicios esenciales en Río Negro y Neuquén. Santa Cruz y Neuquén impulsan el turismo, mientras Chaco y Santa Fe invierten en aulas. Misiones, por su parte, participa en actos protocolares. La actividad refleja un marcado enfoque en la agenda local y la provisión de servicios, con un tono constructivo y sin tensiones explícitas con el gobierno nacional ni entre provincias.",
+    "analisis_profundo": "La agenda de los gobernadores durante la última jornada se caracterizó por un fuerte énfasis en la gestión interna y el desarrollo provincial, con una clara orientación hacia la mejora de servicios públicos y la promoción económica local. No se observaron pronunciamientos directos que generen tensión con el gobierno nacional o entre jurisdicciones, manteniendo un clima de 'normalidad' operativa. \n\nMartín Llaryora (Córdoba) ha liderado con un mensaje contundente sobre seguridad, impulsando la Ley Antibúnker y reafirmando la postura de su provincia como 'hostil para el narcotráfico'. Esta iniciativa muestra una gestión proactiva ante uno de los problemas más apremiantes del país. En el mismo plano de gestión, Alberto Weretilneck (Río Negro) destaca una triple agenda: la expansión del 'Programa Gas Rionegrino' que beneficia a miles de familias, la definición de prioridades legislativas en una reunión de gabinete, y el robustecimiento del sistema de salud con equipamiento y atracción de profesionales. Su discurso mantiene la línea de 'sabemos que falta, pero este es el rumbo', proyectando continuidad y compromiso.\n\nEl eje educativo es crucial, con Leandro Zdero (Chaco) resaltando el éxito del programa #AprendoLeyendo en la mejora de la fluidez lectora y Maximiliano Pullaro (Santa Fe) destacando la inauguración de nuevas aulas. Ambos gobernadores enfatizan la educación pública como una prioridad y la evidencia de resultados concretos. Rolando Figueroa (Neuquén) enfoca su comunicación en el turismo, promocionando los beneficios del Banco Provincia del Neuquén (BPN) para el invierno, ligando directamente el sector a la generación de empleo y desarrollo. Claudio Vidal (Santa Cruz) también apuesta al turismo, preparando la provincia para la Winter Swimming World Cup, buscando posicionar a Santa Cruz como destino internacional de eventos deportivos. Finalmente, Oscar Herrera Ahuad (Misiones) participa en un acto institucional significativo del Liceo Naval Militar, subrayando la importancia de la formación en valores. La jornada, en síntesis, revela una serie de administraciones enfocadas en fortalecer sus territorios con inversiones y políticas públicas locales.",
+    "temas_calientes": [
+        {
+            "tema": "Fortalecimiento de la Educación Pública",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Promoción Turística y Eventos Internacionales",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Gestión Gubernamental y Planificación Provincial",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "CÓRDOBA HOSTIL PARA EL NARCOTRÁFICO: NECESITAMOS QUE HOY SE APRUEBE LA LEY ANTIBÚNKER Y ANTIAGUANTADEROS\n\nEn #Córdoba no miramos para otro lado. Actuamos con decisión.\n\nPor eso creamos más Fiscalías Antinarcotráfico, ampliamos la territorialidad judicial e implementamos el sistema Cordobeses en Alerta. También seguimos incorporando más equipamiento, tecnología y capacitación para nuestra Fuerza policial.\n\nLos resultados mejoran actuando: las estadísticas dan cuenta que nuestra provincia registra el nivel más bajo de homicidios de los últimos 25 años.\n\nHoy damos un paso firme con la nueva Ley Antibúnker y Antiaguantaderos, una herramienta que nos permite dar un golpe fuerte donde se organiza el delito. Vamos a derribar aquellos sitios donde operan los delincuentes.\n\nNuestra provincia es hostil para el narcotráfico. Ni un paso atrás. En Córdoba, los narcos no tienen lugar.\n\n#HacerParaCrecer",
+        "por_que_es_clave": "El gobernador Llaryora (Córdoba) aborda un tema de alta sensibilidad social y relevancia nacional como el narcotráfico, presentando una iniciativa legislativa provincial concreta y con carácter de urgencia. Su mensaje es directo y firme, posicionando a Córdoba con una estrategia decidida en seguridad y exhibiendo logros en la reducción de homicidios, lo que subraya la efectividad de su gestión en un área crítica.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Educación",
+                "Alfabetización",
+                "Políticas Públicas"
+            ],
+            "postura_politica": "El gobernador Zdero (Chaco) se enfoca en la gestión educativa, resaltando los resultados positivos del programa #AprendoLeyendo. Destaca la inversión en capacitaciones y materiales, posicionándose como un impulsor de la mejora en la calidad educativa y un garante del derecho a la educación.",
+            "frase_fuerte": "Docentes chaqueñas, protagonistas de este cambio, nos cuentan cómo, a través de las capacitaciones y los libros que llegaron a las aulas, con el programa #AprendoLeyendo duplicamos la fluidez lectora y comenzamos a revertir una década de resultados negativos"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Seguridad",
+                "Narcotráfico",
+                "Legislación",
+                "Empleo",
+                "Empresas Recuperadas"
+            ],
+            "postura_politica": "Llaryora (Córdoba) muestra una postura firme en la lucha contra el narcotráfico, impulsando la Ley Antibúnker y destacando la decisión política de su gestión. Además, apoya el sostenimiento del empleo y la recuperación de empresas, reafirmando el rol activo del Estado provincial.",
+            "frase_fuerte": "CÓRDOBA HOSTIL PARA EL NARCOTRÁFICO: NECESITAMOS QUE HOY SE APRUEBE LA LEY ANTIBÚNKER Y ANTIAGUANTADEROS"
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Institucionalidad",
+                "Educación Naval"
+            ],
+            "postura_politica": "El gobernador Herrera Ahuad (Misiones) participa en un acto ceremonial en el Liceo Naval Militar, destacando la importancia de la formación en valores como el honor, la disciplina y el compromiso. Su mensaje se centra en el reconocimiento a las instituciones formativas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Turismo",
+                "Desarrollo Económico",
+                "Infraestructura"
+            ],
+            "postura_politica": "Figueroa (Neuquén) prioriza el turismo como motor económico, promoviendo beneficios del BPN para la temporada invernal. Enfatiza la reinversión de recursos públicos en iniciativas que fomentan el movimiento económico y el desarrollo local.",
+            "frase_fuerte": "Neuquén es turismo y el turismo es trabajo, desarrollo y oportunidades para toda la Provincia. Este miércoles participé de la presentación de los beneficios del #BPN para disfrutar el invierno en Neuquén, una iniciativa que impulsa el turismo interno, fortalece la actividad comercial y genera movimiento económico en cada localidad."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura de Gas",
+                "Salud Pública",
+                "Gestión de Gobierno",
+                "Planificación"
+            ],
+            "postura_politica": "Weretilneck (Río Negro) mantiene un fuerte enfoque en la expansión de servicios esenciales como el gas y la mejora del sistema de salud. Destaca la planificación y coordinación de su gabinete, transmitiendo un mensaje de gestión continua y cumplimiento de objetivos, bajo la premisa de un 'rumbo claro'.",
+            "frase_fuerte": "Sabemos que falta y que todavía hay mucho por hacer. Pero este es el rumbo."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Turismo Internacional",
+                "Deporte",
+                "Obra Pública"
+            ],
+            "postura_politica": "Vidal (Santa Cruz) apuesta al posicionamiento de su provincia como destino internacional a través de eventos deportivos de magnitud, como la Winter Swimming World Cup. Subraya la concreción de obras públicas como polideportivos, reflejando un compromiso con el desarrollo local y la infraestructura comunitaria.",
+            "frase_fuerte": "SEGUIMOS PREPARANDO A SANTA CRUZ PARA LA WINTER SWIMMING WORLD CUP"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura Educativa"
+            ],
+            "postura_politica": "Pullaro (Santa Fe) reafirma la educación pública como una prioridad, destacando la inauguración de nuevas aulas bajo el programa '1000 Aulas'. Conecta la inversión en infraestructura educativa con la generación de oportunidades y el desarrollo futuro de la provincia.",
+            "frase_fuerte": "Seguimos demostrando con obras que la educación pública es una prioridad fundamental, llevando respuestas concretas a cada rincón de la provincia."
+        }
+    ]
+}
