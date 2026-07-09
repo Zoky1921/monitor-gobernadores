@@ -1,0 +1,257 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada marcada por la celebración de resultados educativos (Aprender) y la consolidación de alianzas con el nuevo Jefe de Gabinete Santilli, mientras Kicillofok mantiene la confrontación directa con Nación por recursos y abandono. La mayoría de los gobernadores opta por mostrar gestión local, evitando roces abiertos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión del día se concentra en la disputa simbólica y material entre el kirchnerismo duro y el resto del arco federal. Kicillofok, con su tuit sobre la Zona Fría y su crítica al desligue nacional en salud, busca capitalizar el descontento bonaerense y posicionarse como el único defensor del interior frente a un gobierno que, según él, abandona a las provincias. Sin embargo, la ausencia de otros gobernadores peronistas en esa línea sugiere un aislamiento calculado: prefieren no quemar puentes con la Casa Rosada en un momento de reacomodamiento.\n\nActo 2 — Los Alineamientos: La mayoría de los gobernadores (Jalil, Zdero, Frigerio, Llaryora, etc.) optaron por felicitar a Diego Santilli por su asunción como Jefe de Gabinete, un gesto que revela la expectativa de una nueva etapa de diálogo y gestión de recursos. Llaryora, además, impulsa una agenda de seguridad y educación que compite con el relato nacional. Macri, desde CABA, refuerza su perfil de gestión eficiente con los resultados de Aprender, mientras que Weretilneck y Figueroa muestran obras financiadas con recursos propios, marcando autonomía.\n\nActo 3 — La Micro-política: Gobernadores de provincias periféricas como Claudio Poggi (San Luis) y Claudio Vidal (Santa Cruz) se refugian en la agenda local: entrega de viviendas, obras de infraestructura y eventos deportivos. No hay señales de conflicto con Nación, lo que sugiere una estrategia de supervivencia basada en la gestión de cabotaje. Passalacqua (Misiones) y Suárez (Santiago del Estero) también se concentran en lo propio, con énfasis en la integración regional y la promoción económica.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es positiva: la mayoría de los gobernadores evita la confrontación y busca alinearse con el nuevo jefe de Gabinete. Sin embargo, la persistencia de Kicillofok como ariete opositor y la falta de menciones explícitas a la gestión nacional por parte de muchos mandatarios indican que el capital político del gobierno sigue siendo frágil. La apuesta de Santilli por el diálogo federal tendrá que traducirse en recursos concretos para evitar que el malestar se convierta en una grieta más profunda.",
+    "temas_calientes": [
+        {
+            "tema": "Resultados de las pruebas Aprender 2025 como herramienta de posicionamiento político",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Felicidades y expectativas por la asunción de Diego Santilli como Jefe de Gabinete",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@frigeriorogelio",
+                "@carlossadirjuy",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Reclamos por recursos y abandono nacional (Zona Fría, salud, obras)",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura y obra pública provincial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "No lo decimos nosotros, lo dice la realidad que se niegan a ver. Solo quienes no conocen la provincia de Buenos Aires o quienes la desprecian pueden sostener que no tiene que estar contemplada dentro de la Zona Fría.",
+        "por_que_es_clave": "Kicillofok utiliza un reclamo técnico (Zona Fría) para marcar una diferencia ideológica y política con el gobierno nacional, apelando a la identidad bonaerense y al abandono. Es un dardo directo a la gestión de Milei y un intento de movilizar a su base.",
+        "pregunta_openarg": "¿Es la inclusión de la provincia de Buenos Aires en la Zona Fría una cuestión de justicia social o un privilegio que desvirtúa el beneficio original para las provincias patagónicas?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Zona Fría",
+                "salud mental",
+                "acuerdo salarial docente",
+                "Casas de la Provincia"
+            ],
+            "postura_politica": "Mantiene una línea de confrontación directa con Nación, acusándola de abandono y desprecio. Cada tuit es una reivindicación de su gestión frente a un gobierno que, según él, no cumple. Busca posicionarse como el líder de la resistencia peronista.",
+            "frase_fuerte": "Solo quienes no conocen la provincia de Buenos Aires o quienes la desprecian pueden sostener que no tiene que estar contemplada dentro de la Zona Fría."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Pruebas Aprender 2025",
+                "educación",
+                "seguridad",
+                "autonomía porteña"
+            ],
+            "postura_politica": "Refuerza su perfil de gestión eficiente y resultados concretos, contrastando con el relato nacional. La mención a la autonomía porteña y la clausura de obras en la Villa 31 muestran una postura de 'ley y orden' que compite con el discurso de Nación.",
+            "frase_fuerte": "Los datos hablan por sí solos: resultados históricos en Aprender. La educación mejora cuando recupera los valores que nunca debió abandonar: esfuerzo, disciplina, evaluación y mérito."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "energías renovables",
+                "exportaciones",
+                "Norte Grande",
+                "Santilli"
+            ],
+            "postura_politica": "Se muestra como un gobernador dialoguista y pro-inversión, celebrando el crecimiento exportador y la llegada de Santilli. Su agenda es de gestión y desarrollo, evitando roces con Nación.",
+            "frase_fuerte": "Las exportaciones de Catamarca alcanzaron los US$71,8 millones en mayo, con un crecimiento interanual del 144,5%."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "alfabetización",
+                "educación",
+                "operativo Interfluvio",
+                "energía solar",
+                "Santilli"
+            ],
+            "postura_politica": "Enfocado en la gestión social y educativa, con un tono de cercanía y resultados. La mención a Santilli es un gesto de alineamiento con el nuevo jefe de Gabinete.",
+            "frase_fuerte": "Docentes chaqueñas, protagonistas de este cambio, nos cuentan cómo, a través de las capacitaciones y los libros que llegaron a las aulas, con el programa #AprendoLeyendo duplicamos la fluidez lectora."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Ley Antibúnker",
+                "seguridad",
+                "educación",
+                "emprendedurismo",
+                "aniversario de Córdoba"
+            ],
+            "postura_politica": "Se posiciona como un gobernador decidido en la lucha contra el narcotráfico y la innovación educativa. Su agenda es de gestión fuerte y autonomía, sin mencionar a Nación excepto para celebrar logros propios.",
+            "frase_fuerte": "En #Córdoba no miramos para otro lado. Actuamos con decisión. Por eso creamos más Fiscalías Antinarcotráfico."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "exportaciones",
+                "transparencia fiscal",
+                "seguridad",
+                "Santilli",
+                "alivio impositivo"
+            ],
+            "postura_politica": "Muestra una gestión ordenada y dialoguista, con énfasis en la transparencia y el alivio fiscal. La felicitación a Santilli y la reunión con Caputo indican una búsqueda de acuerdos con Nación.",
+            "frase_fuerte": "Entre Ríos alcanzó la máxima calificación nacional en transparencia fiscal. Es el resultado de una decisión muy clara: decirles la verdad a los entrerrianos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "ciencia y tecnología",
+                "conectividad",
+                "Pruebas Aprender",
+                "cooperativas",
+                "soberanía energética"
+            ],
+            "postura_politica": "Defiende el modelo de provincia con Estado presente y soberanía, contrastando con el ajuste nacional. Sus tuits son una reivindicación de la gestión peronista pampeana.",
+            "frase_fuerte": "Defender la ciencia argentina es defender el futuro de nuestro país."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Feria del Libro",
+                "memoria",
+                "justicia",
+                "turismo",
+                "minería"
+            ],
+            "postura_politica": "Se muestra como un gobernador cultural y federal, con énfasis en la memoria y la soberanía territorial. La mención a la ley de límites es un guiño a su base peronista.",
+            "frase_fuerte": "La soberanía territorial de La Rioja exige una defensa irrestricta y con esta norma iniciaremos acciones para traer equidad y justicia al pueblo riojano."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "vivienda",
+                "acuerdo UE-Mercosur",
+                "salud",
+                "educación",
+                "minería"
+            ],
+            "postura_politica": "Gobernador pro-inversión y apertura internacional, destacando la llegada de hoteles y la minería sostenible. Su agenda es de desarrollo económico sin confrontación.",
+            "frase_fuerte": "El acuerdo entre la Unión Europea y el MERCOSUR representa una gran oportunidad para las empresas mendocinas."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "eventos culturales",
+                "agua potable",
+                "créditos",
+                "títulos de propiedad",
+                "yerba mate"
+            ],
+            "postura_politica": "Agenda local y de gestión, con énfasis en la identidad misionera y la integración regional. Sin menciones a Nación.",
+            "frase_fuerte": "Cada título representa arraigo, futuro y la certeza de contar con un hogar para construir nuevos proyectos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "seguridad",
+                "vivienda",
+                "infraestructura educativa",
+                "salud",
+                "turismo"
+            ],
+            "postura_politica": "Gobernador de gestión y obras, con un discurso de 'hechos' y 'resultados'. La mención a la construcción de pabellones de máxima seguridad refuerza su perfil de mano dura.",
+            "frase_fuerte": "EN NEUQUÉN, EL DELITO TIENE CONSECUENCIAS. Durante años se habló de la falta de celdas... Hoy supervisamos el avance del nuevo pabellón de máxima seguridad."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "vivienda",
+                "gas",
+                "salud",
+                "infraestructura",
+                "educación"
+            ],
+            "postura_politica": "Gobernador de gestión constante, con un lema repetido 'Sabemos que falta. Pero este es el rumbo.' Muestra obras en toda la provincia, sin confrontación con Nación.",
+            "frase_fuerte": "Sabemos que falta. Pero este es el rumbo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "comercio y turismo",
+                "seguridad",
+                "justicia",
+                "minería",
+                "Güemes"
+            ],
+            "postura_politica": "Gobernador con fuerte identidad salteña, combinando gestión con homenajes históricos. La reunión con el ministro de Justicia nacional muestra diálogo institucional.",
+            "frase_fuerte": "Gobernar también es acompañar. Y eso es lo que estamos haciendo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "vivienda",
+                "salud",
+                "cooperativismo",
+                "educación",
+                "infraestructura"
+            ],
+            "postura_politica": "Agenda puramente local, con entrega de viviendas y obras. Sin referencias a Nación. Parece un gobernador de gestión de cabotaje.",
+            "frase_fuerte": "Llegamos a las 7000 ESCRITURAS entregadas a 7000 HOGARES, que dejaron de ser 'adjudicatarios' y pasaron a ser 'propietarios'."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "deporte",
+                "turismo",
+                "infraestructura",
+                "conectividad aérea"
+            ],
+            "postura_politica": "Gobernador que busca posicionar a Santa Cruz como destino internacional, con inversiones en polideportivos y vuelos. La mención a Santilli es un gesto de alineamiento.",
+            "frase_fuerte": "Santa Cruz Puede y Tiene Rumbo..."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "exportaciones",
+                "educación",
+                "infraestructura hídrica",
+                "seguridad",
+                "modernización del Estado"
+            ],
+            "postura_politica": "Gobernador de gestión moderna y eficiente, con énfasis en la digitalización y la lucha contra el narcotráfico. Su tuit sobre el Parlamento Europeo muestra gestión internacional.",
+            "frase_fuerte": "Hoy el Parlamento Europeo rechazó la norma que clasificaba a la soja como cultivo de alto riesgo... Juntos, defendiendo a nuestra soja, nuestro campo y nuestra industria del biodiésel."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "inversiones",
+                "educación",
+                "salud rural",
+                "aniversario de la ciudad",
+                "Norte Grande"
+            ],
+            "postura_politica": "Gobernador con agenda de desarrollo productivo y articulación regional. La reunión con la Embajada de Italia y la inauguración de escuelas muestran gestión activa.",
+            "frase_fuerte": "Mapei se encuentra finalizando la instalación de su nueva planta industrial en el Parque Industrial La Isla... una de las plantas más modernas de toda su red global."
+        }
+    ]
+}

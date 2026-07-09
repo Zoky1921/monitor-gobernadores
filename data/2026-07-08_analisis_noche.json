@@ -1,0 +1,246 @@
+{
+    "clima_general": "DIVERGENTE",
+    "resumen_ejecutivo": "La jornada federal del 8 de julio de 2026 estuvo marcada por una intensa agenda de gestión provincial. Los gobernadores se concentraron en el impulso de la obra pública y la mejora de servicios esenciales, con un fuerte acento en la seguridad y el desarrollo económico. Se destacó la presentación de leyes contra el narcotráfico en Córdoba, la inversión en salud y vivienda en Buenos Aires, Neuquén y San Luis, y el fomento de inversiones y exportaciones en Mendoza, Catamarca, Salta y Santiago del Estero. Varios mandatarios celebraron logros educativos y la defensa de sus economías regionales, a veces con críticas implícitas o explícitas a la gestión nacional, reflejando una dinámica de reafirmación de las capacidades provinciales en un contexto de variadas relaciones intergubernamentales.",
+    "analisis_profundo": "El escenario político federal del 8 de julio de 2026 reveló una consolidación de agendas provinciales enfocadas en la gestión concreta, con un clima de trabajo divergente frente al Gobierno nacional. La mayoría de los gobernadores priorizó anuncios y avances en infraestructura, desarrollo económico y mejora de servicios, delineando un perfil de autonomía y proactividad.\n\nEn materia de seguridad, Martín Llaryora (Córdoba) emergió con una postura contundente, impulsando la 'Ley Antibúnker y Antiaguantadero' y declarando a su provincia 'hostil para el narcotráfico', una retórica que subraya la decisión política local frente a un problema de escala nacional. Rolando Figueroa (Neuquén) complementó esta línea al supervisar obras en infraestructura carcelaria y policial, vinculando la seguridad a la ejecución de proyectos tangibles. Raúl Jalil (Catamarca) también apuntó a la seguridad con la incorporación de tecnología para su policía, mostrando una modernización de las fuerzas provinciales.\n\nEl desarrollo productivo y la atracción de inversiones fueron temas transversales. Rogelio Frigerio (Entre Ríos) celebró la articulación exitosa con el Gobierno nacional para proteger las exportaciones de soja y biodiésel, un ejemplo de colaboración puntual en beneficio de las economías regionales. Alfredo Cornejo (Mendoza) destacó oportunidades en acuerdos Mercosur-UE y su impacto en las exportaciones provinciales. Elías Suárez (Santiago del Estero) promovió inversiones internacionales y líneas de crédito CFI, mientras Gustavo Sáenz (Salta) anunció paquetes de medidas para estimular el comercio y turismo local ante un contexto económico nacional difícil. Claudio Vidal (Santa Cruz) se enfocó en el turismo internacional a través de la organización de eventos deportivos de magnitud.\n\nLa inversión en infraestructura social y servicios esenciales fue un pilar de la gestión. Axel Kicillof (Buenos Aires) inauguró Casas de la Provincia y un centro de salud mental, aprovechando para criticar la 'desresponsabilización' del Gobierno nacional en esa área. Sergio Ziliotto (La Pampa) inauguró un Centro Regional de Radio Oncología, defendiendo el sistema científico-tecnológico. Claudio Poggi (San Luis) concentró su agenda en la entrega de escrituras, obras urbanas y la mejora de hospitales. Alberto Weretilneck (Río Negro) mostró un plan integral que incluye gas, hospitales y urbanismo, reafirmando un 'rumbo claro'. Maximiliano Pullaro (Santa Fe) inauguró aulas, reforzando la educación pública.\n\nEn el ámbito de la educación, Jorge Macri (Ciudad Autónoma de Buenos Aires) celebró los 'resultados históricos' de las Pruebas Aprender 2025, atribuyéndolos a una 'decisión política' local. Leandro Zdero (Chaco) enfatizó los logros de su programa #AprendoLeyendo, y Llaryora (Córdoba) anunció la federalización de la oferta académica y la formación policial, evidenciando el compromiso provincial con la mejora educativa.\n\nLa dinámica federal se manifestó tanto en colaboración como en crítica. Mientras Frigerio (Entre Ríos) y Pullaro (Santa Fe) celebraron el trabajo conjunto con la Nación en temas específicos de comercio exterior, Kicillof (Buenos Aires) mantuvo una línea de crítica hacia el desfinanciamiento nacional en áreas sociales. Ricardo Quintela (La Rioja) continuó su defensa del federalismo en el marco de un debate sobre política fiscal en el Congreso, reflejando una búsqueda activa de posicionamiento provincial en la agenda nacional. Esta multiplicidad de enfoques, que va desde la coordinación pragmática hasta la reivindicación de la autonomía, define un clima político 'DIVERGENTE' en el interior del país.",
+    "temas_calientes": [
+        {
+            "tema": "Fortalecimiento de la Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@alfredocornejo",
+                "@GustavoSaenzOK",
+                "@EliasSuarezSDE",
+                "@ClaudioVidalSer",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura Social y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Defensa de la Educación y el Sistema Científico-Tecnológico",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Autonomía Provincial y Crítica a la Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "CÓRDOBA HOSTIL PARA EL NARCOTRÁFICO: NECESITAMOS QUE HOY SE APRUEBE LA LEY ANTIBÚNKER Y ANTIAGUANTADEROS. En Córdoba no miramos para otro lado. Actuamos con decisión. Por eso creamos más Fiscalías Antinarcotráfico, ampliamos la territorialidad judicial e implementamos el sistema Cordobeses en Alerta. También seguimos incorporando más equipamiento, tecnología y capacitación para nuestra Fuerza policial. Los resultados mejoran actuando: las estadísticas dan cuenta que nuestra provincia registra el nivel más bajo de homicidios de los últimos 25 años. Hoy damos un paso firme con la nueva Ley Antibúnker y Antiaguantaderos, una herramienta que nos permite dar un golpe fuerte donde se organiza el delito. Vamos a derribar aquellos sitios donde operan los delincuentes. Nuestra provincia es hostil para el narcotráfico. Ni un paso atrás. En Córdoba, los narcos no tienen lugar.",
+        "por_que_es_clave": "Demuestra una postura proactiva y enérgica del gobierno provincial de Córdoba en la lucha contra el narcotráfico, buscando aprobación de legislación clave y destacando logros en seguridad. La retórica es contundente, marcando un diferencial con otras jurisdicciones y, posiblemente, con el enfoque federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Salud",
+                "Política Salarial",
+                "Federalismo"
+            ],
+            "postura_politica": "Se enfoca en fortalecer la presencia del Estado provincial y mejorar servicios esenciales con recursos propios. Mantiene una postura crítica hacia la gestión del Gobierno nacional, atribuyéndole desatención en áreas clave como la salud mental.",
+            "frase_fuerte": "En un área en la que el Gobierno nacional se desligó de sus responsabilidades."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Educación",
+                "Calidad Educativa"
+            ],
+            "postura_politica": "Celebra los logros educativos de la Ciudad, atribuyéndolos a una 'decisión política' y políticas sostenidas que 'recuperan valores centrales' como esfuerzo y mérito, posicionando a CABA como líder en el país.",
+            "frase_fuerte": "Somos la Ciudad N°1 en educación de todo el país. No es casualidad, es decisión política."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Energías Renovables",
+                "Seguridad",
+                "Innovación"
+            ],
+            "postura_politica": "Busca impulsar el crecimiento provincial a través de la innovación y la atracción de inversiones tecnológicas, aplicando soluciones modernas tanto al sector productivo como a la seguridad.",
+            "frase_fuerte": "Cada una de estas acciones forma parte de una planificación que busca acompañar el crecimiento de Catamarca con más innovación, infraestructura y servicios para nuestra gente."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Educación",
+                "Valores Democráticos",
+                "Institucionalidad"
+            ],
+            "postura_politica": "Resalta la mejora en los resultados educativos mediante programas específicos y la importancia de fortalecer las instituciones y los valores democráticos a través de obras simbólicas.",
+            "frase_fuerte": "con el programa #AprendoLeyendo duplicamos la fluidez lectora y comenzamos a revertir una década de resultados negativos."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Seguridad",
+                "Narcotráfico",
+                "Educación",
+                "Empleo",
+                "Federalismo"
+            ],
+            "postura_politica": "Muestra una gestión decidida en seguridad con una propuesta legislativa fuerte contra el narcotráfico. Impulsa la descentralización de la educación y el apoyo al empleo local, posicionando a Córdoba con una agenda propia y proactiva.",
+            "frase_fuerte": "Nuestra provincia es hostil para el narcotráfico. Ni un paso atrás. En Córdoba, los narcos no tienen lugar."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Comercio Exterior",
+                "Relación con el Gobierno Nacional"
+            ],
+            "postura_politica": "Destaca la colaboración exitosa con el Gobierno nacional y el sector privado en defensa de los intereses exportadores de la provincia, promoviendo el desarrollo agroindustrial.",
+            "frase_fuerte": "Este avance significa más oportunidades, más inversión y mejores condiciones para seguir produciendo y exportando."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Ciencia y Tecnología",
+                "Salud Pública",
+                "Inversión Estatal"
+            ],
+            "postura_politica": "Defiende la inversión pública en ciencia y tecnología como un pilar fundamental para el futuro del país y el bienestar de su gente, ejemplificado con obras de salud de alta complejidad.",
+            "frase_fuerte": "Defender la ciencia argentina es defender el futuro de nuestro país."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Memoria Histórica",
+                "Cultura",
+                "Política Fiscal"
+            ],
+            "postura_politica": "Aboga por un federalismo reforzado y diálogo con el Congreso para abordar la política fiscal. Mantiene viva la memoria histórica y promueve la cultura como un refugio en tiempos difíciles.",
+            "frase_fuerte": "La Rioja va a seguir abriendo sus puertas a cada iniciativa que fortalezca el pensamiento, el diálogo y una mirada profundamente federal para la Argentina."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Vivienda",
+                "Comercio Exterior",
+                "Inversiones",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Prioriza la vivienda social y la apertura económica, buscando atraer inversiones y potenciar exportaciones a través de acuerdos internacionales. Destaca la seguridad jurídica provincial.",
+            "frase_fuerte": "Argentina atraviesa un proceso de mayor integración con el mundo y este acuerdo representa una oportunidad para potenciar el desarrollo productivo de Mendoza."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Promoción Comercial",
+                "Eventos Culturales"
+            ],
+            "postura_politica": "Su comunicación se centra en la promoción de actividades locales que impulsan el comercio y la cultura, buscando dinamizar la economía y el sentido de comunidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Seguridad",
+                "Infraestructura Penitenciaria",
+                "Vivienda",
+                "Turismo",
+                "Gestión Eficiente"
+            ],
+            "postura_politica": "Enfocado en la ejecución de obras para fortalecer la seguridad y la vivienda, así como en la promoción turística. Destaca el cumplimiento de compromisos y la eficiencia en la administración de recursos.",
+            "frase_fuerte": "Desde que asumimos, decidimos pasar de las palabras a los hechos: avanzamos en la construcción de los pabellones que la provincia necesita y reforzamos la presencia del Estado en las calles."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Gas",
+                "Hospitales",
+                "Urbanismo",
+                "Salud Pública"
+            ],
+            "postura_politica": "Aborda una agenda amplia de gestión, priorizando obras de infraestructura vitales y el fortalecimiento de la salud pública. Enfatiza el cumplimiento de objetivos y la planificación para el desarrollo provincial.",
+            "frase_fuerte": "Sabemos que falta y que todavía hay mucho por hacer. Pero este es el rumbo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Estímulo Económico",
+                "Comercio",
+                "Turismo",
+                "Financiamiento"
+            ],
+            "postura_politica": "Frente a un escenario económico nacional complejo, implementa medidas provinciales para dinamizar la economía local, apoyando a comerciantes y prestadores turísticos con herramientas financieras.",
+            "frase_fuerte": "En un contexto económico difícil, decidimos poner en marcha un paquete de medidas para fortalecer el comercio y el turismo, incentivar el consumo y acompañar a quienes trabajan, producen y generan empleo."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Agroindustria",
+                "Exportaciones",
+                "Educación",
+                "Colaboración Intergubernamental"
+            ],
+            "postura_politica": "Celebra éxitos en la defensa de intereses agroindustriales provinciales a nivel internacional con articulación nacional y sector privado. Prioriza la inversión en educación como eje de desarrollo.",
+            "frase_fuerte": "Esto es el resultado de un gran trabajo conjunto entre gobiernos provinciales, el gobierno nacional y el sector privado. Juntos, defendiendo a nuestra soja, nuestro campo y nuestra industria del biodiésel."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo Industrial",
+                "Inversiones Extranjeras",
+                "Financiamiento Productivo",
+                "Cooperación Internacional"
+            ],
+            "postura_politica": "Se enfoca en atraer inversiones internacionales y facilitar el acceso a financiamiento para fortalecer la industria y los sectores productivos, destacando el potencial de la provincia para el crecimiento.",
+            "frase_fuerte": "Mapei se encuentra finalizando la instalación de su nueva planta industrial en el Parque Industrial La Isla, en la ciudad de La Banda. Se trata de una de las plantas más modernas de toda su red global, un proyecto que ratifica la confianza de una empresa líder en el potencial productivo de Santiago del Estero."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad Jurídica",
+                "Infraestructura Urbana",
+                "Salud Pública"
+            ],
+            "postura_politica": "Demuestra una gestión activa en la entrega de soluciones habitacionales y la mejora de la infraestructura de salud y urbanismo, enfatizando la 'seguridad jurídica y tranquilidad familiar'.",
+            "frase_fuerte": "Llegamos a las 7000 ESCRITURAS entregadas a 7000 HOGARES, que dejaron de ser 'adjudicatarios' y pasaron a ser 'propietarios'."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Turismo",
+                "Deporte Internacional",
+                "Posicionamiento Provincial"
+            ],
+            "postura_politica": "Impulsa eventos internacionales para posicionar a Santa Cruz como destino turístico global, destacando la capacidad de la provincia para organizar eventos de magnitud.",
+            "frase_fuerte": "La llegada de la pileta flotante a El Calafate marca un nuevo paso en la organización del Mundial de Nado en Aguas Frías, un evento que pondrá a Santa Cruz en la mirada del mundo."
+        }
+    ]
+}
