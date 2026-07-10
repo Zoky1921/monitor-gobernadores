@@ -1,0 +1,341 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "El 9 de Julio encuentra a los gobernadores en una coreografía ambivalente: celebran la Independencia pero la usan como plataforma para marcar posición frente a Nación. Kicillof militariza la fecha con un mensaje antimperialista, mientras los gobernadores dialoguistas (Jalil, Frigerio, Cornejo) asisten a la vigilia con Milei. La disputa fiscal late bajo el protocolo, y el silencio sobre la macroeconomía es ensordecedor.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada patria expone la fractura fiscal. Kicillof utiliza el 9 de Julio para trazar una línea entre la 'Patria soberana' y el 'modelo de entrega' de Nación, reforzando su rol de líder opositor. En las antípodas, los gobernadores que asistieron a la vigilia en Tucumán (Jalil, Frigerio, Cornejo, Sáenz, Figueroa, Orrego, Vidal) envían una señal de diálogo institucional, pero el costo político de aparecer junto a Milei en una provincia peronista como Tucumán no es menor.\n\nActo 2 — Los Alineamientos: El bloque del Norte Grande (Jalil, Sadir, Suarez) se muestra cohesionado en la agenda de infraestructura y financiamiento, pero sin confrontar a Nación. Pullaro (Santa Fe) y Llaryora (Córdoba) optan por una agenda de gestión local y seguridad, evitando el debate nacional. Zdero (Chaco) combina obras con una mención a la articulación con Nación en asistencia social, un gesto de pragmatismo. Torres (Chubut) y Vidal (Santa Cruz) priorizan la gestión provincial y la conectividad, sin mencionar a Milei ni a la oposición.\n\nActo 3 — La Micro-política: Los gobernadores periféricos (Insfrán, Quintela, Poggi, Melella) se refugian en efemérides y anuncios locales, sin posicionamiento federal. Quintela aprovecha para lanzar un guiño a la militancia peronista con la Feria del Libro y la memoria de Angelelli, mientras que insinúa una disputa territorial con San Juan. Orrego (San Juan) responde con firmeza, marcando un conflicto limítrofe que trasciende lo protocola.\n\nActo 4 — Saldo Presidencial: Milei capitaliza la vigilia como foto de unidad, pero la ausencia de Kicillof y la crítica velada de Ziliotto (La Pampa) revelan que la independencia sigue siendo un campo de batalla simbólico. El Gobierno nacional logró un gesto de diálogo, pero no disipó la desconfianza fiscal. Las provincias siguen reclamando recursos y autonomía, mientras la Casa Rosada intenta construir una nueva narrativa federal.",
+    "temas_calientes": [
+        {
+            "tema": "Vigilia del 9 de Julio en Tucumán con Milei",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@frigeriorogelio",
+                "@alfredocornejo",
+                "@GustavoSaenzOK",
+                "@Rolo_Figueroa",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Crítica a la Nación por desfinanciamiento y abandono",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Disputa territorial La Rioja - San Juan",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Resultados educativos Aprender 2025",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@ZiliottoSergio",
+                "@DrMarceloOrrego",
+                "@alfredocornejo",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Gestión de seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Independencia es que ninguna potencia ni organismo internacional escriba los destinos de nuestra Patria; es poder construir un proyecto de país soberano, con igualdad, donde seamos los argentinos quienes decidamos nuestro futuro. Este 9 de julio tengámoslo más presente que nunca 🇦🇷",
+        "por_que_es_es_clave": "Kicillof utiliza la fecha patria para lanzar una crítica directa al modelo económico del gobierno nacional, enmarcándolo como una pérdida de soberanía. Es un mensaje a la militancia peronista y un intento de marcar el relato opositor en un día de supuesta unidad.",
+        "pregunta_openarg": "¿Puede un gobernador usar una fecha patria para hacer oposición política sin erosionar el simbolismo de la Independencia?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Independencia",
+                "soberanía",
+                "crítica a Nación",
+                "gestión provincial",
+                "educación",
+                "salud"
+            ],
+            "postura_politica": "Marca perfil presidenciable: despliega una agenda de gestión intensa mientras usa la fecha patria para trazar una línea divisoria con el gobierno nacional. El mensaje de 'soberanía' es un guiño al kirchnerismo duro.",
+            "frase_fuerte": "Independencia es que ninguna potencia ni organismo internacional escriba los destinos de nuestra Patria"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Independencia",
+                "libertad",
+                "valores",
+                "educación",
+                "seguridad",
+                "ley y orden"
+            ],
+            "postura_politica": "Refuerza su marca de gestión PRO: combina el relato de la Independencia con valores liberales, resultados educativos y mano dura. Omite cualquier mención a Nación, proyectando autonomía.",
+            "frase_fuerte": "Andá pa' allá bobo"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Vigilia con Milei",
+                "gestión minera",
+                "exportaciones",
+                "Norte Grande"
+            ],
+            "postura_politica": "Jugada de doble filo: aparece con Milei para mostrar diálogo, pero su agenda de gestión (minería, exportaciones) busca proyectar independencia de la Casa Rosada. Se posiciona como puente entre el peronismo federal y el oficialismo nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Independencia",
+                "educación",
+                "gestión provincial",
+                "seguridad alimentaria"
+            ],
+            "postura_politica": "Agenda de gestión local con énfasis en resultados educativos. Menciona articulación con Nación en asistencia social, un gesto de pragmatismo sin confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Independencia",
+                "gestión provincial",
+                "obras",
+                "seguridad",
+                "energía"
+            ],
+            "postura_politica": "Refugio en la gestión local: destaca obras con fondos provinciales y critica indirectamente a Nación por obras paralizadas. Omite cualquier mención a Milei o a la política nacional.",
+            "frase_fuerte": "Cuando Nación frenó la construcción del nuevo Hospital de Epuyén, la obra quedó paralizada... nosotros decidimos hacernos cargo."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Independencia",
+                "seguridad",
+                "ley antibúnker",
+                "gestión educativa",
+                "obra pública"
+            ],
+            "postura_politica": "Córdoba como isla de eficiencia: destaca resultados en seguridad y educación sin mencionar a Nación. La ley antibúnker es un mensaje de autonomía en la lucha contra el narcotráfico.",
+            "frase_fuerte": "Córdoba es hostil al narcotráfico y no escatimaremos recursos en la lucha frontal contra este flagelo."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Independencia",
+                "identidad radical",
+                "gestión legislativa"
+            ],
+            "postura_politica": "Agenda protocolar y de partido: se limita a efemérides y a reforzar su identidad radical. Sin impacto en la disputa federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Independencia",
+                "relación con Nación",
+                "transparencia fiscal",
+                "gestión vial"
+            ],
+            "postura_politica": "Se posiciona como gestor ordenado y dialoguista: asiste a la vigilia, destaca la transparencia fiscal y la baja de impuestos. Busca ser un aliado confiable de la Casa Rosada sin perder perfil propio.",
+            "frase_fuerte": "La transparencia dejó de ser un discurso para convertirse en una forma de gobernar."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Independencia",
+                "efemérides",
+                "gestión de personal"
+            ],
+            "postura_politica": "Agenda protocolar aislada: se limita a conmemoraciones y reconocimientos internos. Sin señales de disputa federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Independencia",
+                "gestión provincial",
+                "conectividad",
+                "minería"
+            ],
+            "postura_politica": "Agenda de gestión con perfil bajo: asiste a la vigilia pero no hace declaraciones confrontativas. Su foco está en la promoción de inversiones y la conectividad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Independencia",
+                "crítica a Nación",
+                "gestión provincial",
+                "educación",
+                "salud",
+                "energía"
+            ],
+            "postura_politica": "Uno de los más críticos: utiliza la fecha patria para denunciar la 'entrega de recursos' y el 'industricidio'. Marca perfil opositor y reivindica el modelo de provincia con Estado presente.",
+            "frase_fuerte": "La entrega de recursos naturales, el industricidio por la apertura indiscriminada de las importaciones... hacen retroceder la histórica lucha de nuestra Nación."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Independencia",
+                "memoria",
+                "cultura",
+                "disputa territorial",
+                "gestión provincial"
+            ],
+            "postura_politica": "Jugada múltiple: combina homenajes a la memoria peronista con una escalada en el conflicto limítrofe con San Juan. La Feria del Libro y la presencia de referentes del PJ nacional refuerzan su armado opositor.",
+            "frase_fuerte": "La soberanía territorial de La Rioja exige una defensa irrestricta y con esta norma iniciaremos acciones para traer equidad y justicia al pueblo riojano."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Independencia",
+                "relación con Nación",
+                "gestión provincial",
+                "minería",
+                "educación"
+            ],
+            "postura_politica": "Perfil técnico y dialoguista: asiste a la vigilia, destaca la integración con Chile y la minería sostenible. Busca ser un aliado confiable de la Casa Rosada, pero sin perder autonomía en su agenda productiva.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Independencia",
+                "identidad misionera",
+                "gestión provincial",
+                "cooperación con Corrientes"
+            ],
+            "postura_politica": "Refugio en la agenda local y regional: destaca el federalismo y la cooperación con Corrientes. Sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Independencia",
+                "gestión provincial",
+                "seguridad",
+                "vivienda",
+                "infraestructura"
+            ],
+            "postura_politica": "Agenda de gestión intensa con perfil de orden: asiste a la vigilia pero no hace declaraciones políticas. Su foco está en mostrar resultados en seguridad y obras.",
+            "frase_fuerte": "En Neuquén, el delito tiene consecuencias."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Independencia",
+                "gestión provincial",
+                "gas",
+                "salud",
+                "educación"
+            ],
+            "postura_politica": "Agenda de gestión con énfasis en obras de infraestructura y servicios. Omite cualquier mención a Nación, proyectando autonomía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Independencia",
+                "gestión provincial",
+                "seguridad",
+                "minería",
+                "educación"
+            ],
+            "postura_politica": "Perfil de gestión con diálogo federal: asiste a la vigilia, pero su agenda local (minería, justicia) busca mostrar autonomía. Se posiciona como un gobernador que negocia con Nación sin subordinarse.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Independencia",
+                "disputa territorial",
+                "minería",
+                "gestión provincial"
+            ],
+            "postura_politica": "Doble frente: por un lado, asiste a la vigilia con Milei; por el otro, responde con firmeza al reclamo territorial de La Rioja. La minería es su eje de gestión y su principal carta de negociación con Nación.",
+            "frase_fuerte": "No vamos a permitir que se ponga en duda lo nuestro: el territorio, los recursos, el futuro y símbolos como Ischigualasto."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Independencia",
+                "gestión provincial",
+                "salud",
+                "vivienda"
+            ],
+            "postura_politica": "Agenda local sin impacto federal: se limita a inauguraciones y reconocimientos. Sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Independencia",
+                "gestión provincial",
+                "conectividad",
+                "deporte",
+                "infraestructura"
+            ],
+            "postura_politica": "Perfil de gestión con énfasis en obras y conectividad. Asiste a la vigilia, pero su mensaje se centra en la gestión local. Busca mostrar que Santa Cruz 'tiene rumbo' sin confrontar con Nación.",
+            "frase_fuerte": "Santa Cruz Puede y Tiene Rumbo."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Independencia",
+                "gestión provincial",
+                "educación",
+                "seguridad",
+                "infraestructura hídrica"
+            ],
+            "postura_politica": "Agenda de gestión con perfil de orden: destaca la digitalización del Estado, la lucha contra el narcotráfico y las obras. Omite cualquier mención a Nación, proyectando una provincia autónoma y eficiente.",
+            "frase_fuerte": "Santa Fe puede mostrarle un camino al país."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Independencia",
+                "gestión provincial",
+                "educación",
+                "infraestructura",
+                "Norte Grande"
+            ],
+            "postura_politica": "Agenda de gestión con foco en obras y educación. Menciona la articulación con el Norte Grande y el CFI, pero sin confrontar con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Independencia",
+                "gestión provincial",
+                "reforma constitucional",
+                "energía"
+            ],
+            "postura_politica": "Agenda local con perfil reformista: destaca la reforma constitucional y la obra de la usina. Sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Independencia",
+                "anfitrión de la vigilia",
+                "gestión provincial",
+                "salud",
+                "infraestructura hídrica"
+            ],
+            "postura_politica": "Anfitrión de la fecha patria: recibe a Milei y a gobernadores, mostrando capacidad de diálogo. Su agenda de gestión (acueducto, salud) busca equilibrar el perfil institucional con la necesidad de mostrar resultados.",
+            "frase_fuerte": null
+        }
+    ]
+}
