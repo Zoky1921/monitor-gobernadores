@@ -1,0 +1,68 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La jornada federal se caracteriza por un enfoque casi exclusivo en la gestión provincial y el desarrollo local. @RaulJalil_ok (Catamarca) subraya una filosofía de gobierno centrada en el diálogo y el bienestar colectivo, cimentada en el legado de figuras históricas. @LeandroZdero (Chaco) exhibe avances en infraestructura productiva, energía rural y turismo en la región de El Impenetrable, además de promover festividades locales. @claudiojpoggi (San Luis) destaca la entrega de 7000 escrituras, consolidando la seguridad jurídica en políticas de vivienda. La agenda refleja una concentración en logros concretos y el impulso de la actividad económica y social a nivel subnacional.",
+    "analisis_profundo": "La actividad de los gobernadores en las últimas horas se mantiene orientada a la gestión y consolidación de proyectos provinciales, evidenciando un clima político sin tensiones evidentes a nivel federal o interprovincial. @RaulJalil_ok (Catamarca) utiliza la conmemoración de Vicente Leonides Saadi para reafirmar una visión de gobernanza que prioriza el diálogo y el bienestar ciudadano. Este enfoque busca legitimar la continuidad de una gestión arraigada en principios de servicio, proyectando estabilidad y una mirada a largo plazo para Catamarca. Sus declaraciones, al definir el gobernar como 'trabajar por el bien de todos y el mal para nadie', plantean una máxima de su administración. \n\nEn el Nordeste, @LeandroZdero (Chaco) muestra una gestión proactiva con énfasis en el desarrollo de la región de El Impenetrable, destacando avances en producción, energía y turismo bajo el lema '#HuellaImpenetrable'. La promoción de la Fiesta Provincial del Ternero subraya el compromiso con las economías regionales y la identidad cultural, elementos clave para el arraigo y la generación de oportunidades. Este perfil de gestión busca fortalecer la infraestructura y diversificar la matriz productiva provincial. \n\nPor último, @claudiojpoggi (San Luis) reporta un hito en su política habitacional, con la entrega de 7000 escrituras. Esta acción tiene un impacto directo en la seguridad jurídica y la calidad de vida de las familias, demostrando una concreción tangible en programas sociales. La ausencia de discusiones de índole nacional o conflictos con otras provincias indica una agenda enfocada en la autonomía y la capacidad de resolución de problemas dentro de sus respectivas jurisdicciones. El panorama general es de gobiernos enfocados en su territorio, buscando construir legitimidad a través de la efectividad de sus políticas públicas y el fomento del desarrollo local.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión y Desarrollo Provincial: énfasis en obras, producción y turismo local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Política de Vivienda y Acceso a la Propiedad: programas habitacionales con impacto social directo",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Memoria y Legado Político: conmemoraciones que refuerzan ideologías de gestión y valores provinciales",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@RaulJalil_ok",
+        "texto": "A 38 años de su partida, recuerdo con respeto y afecto al Dr. Vicente Leonides Saadi, una figura que dejó una huella profunda en la historia política de Catamarca. Su compromiso con nuestra provincia y su vocación de servicio marcaron una forma de entender la política: con diálogo, convicciones y la mirada puesta en el bienestar de la gente. Su legado sigue presente y nos recuerda que gobernar es trabajar por el bien de todos y el mal para nadie.",
+        "por_que_es_clave": "El gobernador de Catamarca, @RaulJalil_ok, utiliza la conmemoración de una figura histórica para articular explícitamente su visión de gobernanza, destacando el diálogo, las convicciones y el bienestar social como pilares. Esta definición programática trasciende el mero recuerdo y sienta una base ideológica para su administración.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Memoria política",
+                "Gobernabilidad",
+                "Bienestar social"
+            ],
+            "postura_politica": "Reafirma una filosofía de gobierno centrada en el diálogo, las convicciones y el bienestar popular, anclada en el legado de figuras históricas provinciales. Su mensaje subraya una visión de gestión orientada al servicio público.",
+            "frase_fuerte": "Su legado sigue presente y nos recuerda que gobernar es trabajar por el bien de todos y el mal para nadie."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo regional",
+                "Infraestructura",
+                "Producción",
+                "Energía",
+                "Turismo",
+                "Cultura local"
+            ],
+            "postura_politica": "Presenta una gestión activa enfocada en el desarrollo integral de El Impenetrable, promoviendo la producción local, la energía y el turismo. También apoya eventos culturales que impulsan la economía regional.",
+            "frase_fuerte": "#HuellaImpenetrable 🌱 Producción chaqueña que llega al mundo, más energía para las familias de zonas rurales, obras históricas que avanzan y un turismo que sigue creciendo para generar más oportunidades en El Impenetrable. ¡Seguimos!"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Política habitacional",
+                "Seguridad jurídica",
+                "Bienestar familiar"
+            ],
+            "postura_politica": "Destaca el compromiso de su gobierno con la política de vivienda, asegurando la seguridad jurídica y la tranquilidad de las familias a través de la entrega de escrituras, lo que impacta directamente en el patrimonio de los hogares.",
+            "frase_fuerte": "Llegamos a las 7000 ESCRITURAS entregadas a 7000 HOGARES, que dejaron de ser 'adjudicatarios' y pasaron a ser 'propietarios'."
+        }
+    ]
+}

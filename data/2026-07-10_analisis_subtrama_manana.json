@@ -1,0 +1,43 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de bajo voltaje político. Solo tres gobernadores publicaron contenido reciente, y todos optaron por efemérides, promoción local o saludos protocolares. Sin disputas fiscales, sin dardos a Nación, sin alineamientos explícitos. La agenda federal quedó en pausa.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada del 10 de julio no registró tensión fiscal ni institucional entre Nación y provincias. El silencio es elocuente: los gobernadores evitaron cualquier posicionamiento que pudiera interpretarse como un desafío o una demanda en medio de la tregua tácita que suele rodear las fechas patrias. La ausencia de reclamos por coparticipación, deuda o recursos estratégicos sugiere un repliegue táctico, no una tregua sincera.\n\nActo 2 — Los Alineamientos: Sin gestos de confrontación ni de alianza, el mapa de poder se desdibuja. Raúl Jalil (Catamarca) se refugió en el homenaje a un caudillo provincial, una jugada de baja intensidad que refuerza su arraigo local sin incomodar a la Casa Rosada. Leandro Zdero (Chaco) apostó por la promoción de programas provinciales (Huella Impenetrable, Fiesta del Ternero), un intento de mostrar gestión en un contexto de ajuste nacional, pero sin mencionar a Nación. Rolando Figueroa (Neuquén) se limitó a un saludo patrio, una omisión que revela cálculo: no sumarse a ninguna corriente, no exponerse.\n\nActo 3 — La Micro-política: Los tres gobernadores optaron por la agenda de cabotaje. Jalil recordó a Vicente Saadi, un nombre que solo resuena en la política catamarqueña; Zdero destacó obras en El Impenetrable y una fiesta local; Figueroa retuiteó un salvo patrio. Son gestos de supervivencia: cuando el escenario nacional está quieto, lo mejor es no moverse. La ausencia de menciones a la macroeconomía o a la relación con Nación es una estrategia de bajo perfil para no quedar expuestos.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, esta jornada es una victoria por incomparecencia. Sin gobernadores alzando la voz, el Gobierno nacional consolida un respiro en medio de las tensiones habituales. Pero el silencio no es adhesión; es una pausa calculada. El verdadero pulso se verá cuando reaparezcan los temas de fondo: la coparticipación, la deuda previsional y el reparto de recursos energéticos.",
+    "temas_calientes": [],
+    "tweet_destacado": {
+        "usuario": "@LeandroZdero",
+        "texto": "#HuellaImpenetrable\n🌱 Producción chaqueña que llega al mundo, más energía para las familias de zonas rurales, obras históricas que avanzan y un turismo que sigue creciendo para generar más oportunidades en El Impenetrable. ¡Seguimos! https://t.co/oE5aX1utPj",
+        "por_que_es_clave": "Es el único posteo con contenido de gestión provincial que intenta mostrar resultados concretos en un territorio simbólico (El Impenetrable). La omisión de cualquier mención a Nación sugiere que Zdero busca capitalizar políticamente la obra pública provincial en un área donde el Estado nacional está ausente.",
+        "pregunta_openarg": "¿Pueden las provincias sostener obras de infraestructura en regiones postergadas sin el respaldo financiero de Nación, o es una estrategia de marketing político que encubre el desfinanciamiento federal?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "homenaje político local",
+                "efeméride provincial"
+            ],
+            "postura_politica": "Se refugió en la memoria de un caudillo provincial (Vicente Saadi) para evitar cualquier posicionamiento sobre la coyuntura nacional. Es un gesto de arraigo local que no incomoda a nadie, pero que revela una estrategia de bajo perfil: no dar señales que puedan ser interpretadas como alineamiento o conflicto.",
+            "frase_fuerte": "A 38 años de su partida, recuerdo con respeto y afecto al Dr. Vicente Leonides Saadi, una figura que dejó una huella profunda en la historia política de Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "desarrollo rural",
+                "energía renovable",
+                "turismo local",
+                "fiesta provincial"
+            ],
+            "postura_politica": "Apuesta por la gestión provincial como carta de presentación. Los dos posteos (Huella Impenetrable y Fiesta del Ternero) buscan mostrar un gobierno activo en un contexto de ajuste. La ausencia de mención a Nación es deliberada: no quiere confrontar, pero tampoco agradecer. Es un intento de construir una imagen de eficiencia propia.",
+            "frase_fuerte": "Producción chaqueña que llega al mundo, más energía para las familias de zonas rurales, obras históricas que avanzan y un turismo que sigue creciendo para generar más oportunidades en El Impenetrable."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "saludo patrio",
+                "efeméride nacional"
+            ],
+            "postura_politica": "Se limitó a un saludo genérico por el Día de la Independencia, sin agregar contenido propio. Es la jugada más segura: no genera ruido, no se posiciona, no se expone. En una provincia clave por sus recursos energéticos, el silencio es una declaración de no beligerancia con la Casa Rosada.",
+            "frase_fuerte": null
+        }
+    ]
+}
