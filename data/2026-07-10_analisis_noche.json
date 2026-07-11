@@ -1,0 +1,191 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "Los gobernadores concentraron su agenda en la gestión provincial y el impulso de obras públicas, muchas financiadas con recursos propios, enfatizando la autonomía y capacidad de respuesta local. Se observó un fuerte enfoque en infraestructura (vial, vivienda, salud) y desarrollo económico regional, con promoción del turismo, la producción local y la atracción de inversiones. Ricardo Quintela (La Rioja) articuló la defensa del federalismo y los derechos laborales como pilares frente al contexto nacional, mientras otros destacaron la eficacia de sus programas educativos y de servicios. La jornada reflejó un pragmatismo enfocado en resolver problemas concretos de los ciudadanos, reforzando la capacidad de las provincias para autogestionarse.",
+    "analisis_profundo": "La jornada del 10 de julio de 2026 se caracterizó por una marcada preeminencia de la agenda provincial en los discursos de los gobernadores, quienes priorizaron la comunicación de logros en gestión e inversión local. El énfasis en 'Infraestructura y Obra Pública con Fondos Propios' fue un denominador común, con varios mandatarios destacando la financiación provincial como garantía de continuidad en un contexto nacional incierto. Axel Kicillof (Buenos Aires) promocionó obras de vivienda y programas educativos, mientras Leandro Zdero (Chaco) y Martín Llaryora (Córdoba) hicieron foco en mejoras viales y urbanas que impulsan la calidad de vida y el empleo. Nacho Torres (Chubut) fue explícito al mencionar la recuperación de la Ruta 40 'con fondos propios', subrayando la capacidad chubutense de autogestión frente a la posible reducción de fondos nacionales. Rolando Figueroa (Neuquén) también contrastó el avance de la construcción de viviendas con la situación de obras frenadas 'en otros lugares'.\n\nOtro eje central fue el 'Desarrollo Económico Regional y Fomento de Inversiones'. Gobernadores como Arabela Carreras (Río Negro) proyectaron a sus provincias como 'protagonistas de la nueva Argentina' a través de la producción y la exportación, atrayendo inversiones en sectores estratégicos. Ricardo Quintela (La Rioja) implementó medidas de apoyo a pymes y una moratoria de Ingresos Brutos, además de promover el uso de 'Chachos' para dinamizar el consumo local. Elías Suárez (Santiago del Estero) celebró la inversión de Mapei en una planta industrial, buscando fortalecer el perfil productivo provincial con capital extranjero. La 'Educación' también mantuvo su lugar en la agenda, con Kicillof (Buenos Aires) resaltando el acceso universitario y Maxi Pullaro (Santa Fe) mostrando avances en infraestructura escolar.\n\nEn cuanto al 'Federalismo y Defensa de Intereses Provinciales', Ricardo Quintela (La Rioja) fue el más explícito, posicionando a su provincia como defensora de los trabajadores y de un 'federalismo que garantice igualdad', una postura que insinúa tensión con las políticas nacionales. Esta afirmación se enmarca en un contexto donde las provincias buscan reafirmar su soberanía y capacidad de decisión. La 'Gestión de Salud Pública' y la 'Seguridad' también fueron puntos de atención, con Claudio Poggi (San Luis) anunciando un nuevo hospital pediátrico y la actualización de instrumental.\n\nEn síntesis, la jornada mostró a gobernadores enfocados en consolidar la autonomía de gestión de sus provincias, utilizando las obras públicas y el desarrollo económico como herramientas para asegurar estabilidad y bienestar local, y posicionando sus administraciones como soluciones efectivas en un entramado federal complejo y a menudo desafiante. No se registraron confrontaciones directas con el Gobierno nacional, sino una demostración de fortaleza y proactividad desde los territorios.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Obra Pública con Fondos Propios",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Regional y Fomento de Inversiones",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Federalismo y Defensa de Intereses Provinciales",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Educación como Prioridad",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@carlossadirjuy",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestión de Salud Pública",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "La defensa de las y los trabajadores es también la defensa de un país más justo y verdaderamente federal.\nCompartimos un encuentro con representantes de las 62 Organizaciones Peronistas de todo el país, con quienes dialogamos sobre la realidad que atraviesa la Argentina y la necesidad de fortalecer el movimiento obrero como protagonista en la construcción de una Nación con más oportunidades para todos y todas.\nDesde La Rioja seguiremos acompañando cada espacio de organización y participación que tenga como prioridad proteger el trabajo, defender los derechos conquistados y sostener un federalismo que garantice igualdad para todas las provincias.",
+        "por_que_es_clave": "Posiciona a La Rioja como un actor clave en la defensa de los derechos laborales y el federalismo en el contexto de un modelo nacional percibido como regresivo. Articula una postura política clara sobre la relación Nación-Provincias y el rol del movimiento obrero como protagonista.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Turismo",
+                "Economía local",
+                "Vivienda",
+                "Educación"
+            ],
+            "postura_politica": "Foco en la gestión provincial y programas de acceso a derechos (vivienda, educación universitaria), impulsando la economía local y el turismo. Demuestra presencia en el territorio a través de acciones concretas.",
+            "frase_fuerte": "En Iriarte, 22 familias recibieron la llave de su casa y comenzaron una nueva etapa."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Política local",
+                "Legado histórico"
+            ],
+            "postura_politica": "Honra la memoria de un exgobernador peronista, vinculando su legado a la gestión actual con énfasis en diálogo y bienestar. Refuerza la identidad política y la vocación de servicio local.",
+            "frase_fuerte": "Su compromiso con nuestra provincia y su vocación de servicio marcaron una forma de entender la política: con diálogo, convicciones y la mirada puesta en el bienestar de la gente."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura",
+                "Producción",
+                "Energía",
+                "Turismo"
+            ],
+            "postura_politica": "Muestra una gestión activa en obras y programas de desarrollo, destacando el impacto local en educación, producción y mejora de servicios. Enfoque en el potencial de 'El Impenetrable' y el crecimiento regional.",
+            "frase_fuerte": "Producción chaqueña que llega al mundo, más energía para las familias de zonas rurales, obras históricas que avanzan y un turismo que sigue creciendo para generar más oportunidades en El Impenetrable."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Inversión provincial",
+                "Desarrollo local",
+                "Empleo"
+            ],
+            "postura_politica": "Destaca la capacidad de la provincia para ejecutar obras de gran envergadura 'con fondos propios', enfatizando la autogestión y el impacto directo en la producción y seguridad vial. Subraya el 'trabajo chubutense' como motor del progreso.",
+            "frase_fuerte": "LA RUTA 40 SE RECUPERA CON TRABAJO CHUBUTENSE"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Prevención de incendios",
+                "Infraestructura urbana",
+                "Seguridad vial",
+                "Empleo"
+            ],
+            "postura_politica": "Enfatiza la planificación, inversión y capacidad de respuesta del gobierno provincial en la lucha contra el fuego y en obras de infraestructura. Conecta las acciones con el 'crecimiento' y la 'calidad de vida', bajo el lema 'Hacer Para Crecer'.",
+            "frase_fuerte": "En Córdoba sabemos que los primeros minutos son decisivos. Por eso invertimos para contar con el mejor sistema de combate del país."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad",
+                "Infraestructura"
+            ],
+            "postura_politica": "Demuestra una gestión proactiva en infraestructura clave (viviendas, seguridad) financiada con recursos provinciales, contrastando con la parálisis de obras nacionales. Enfocado en dar 'respuestas concretas' a las necesidades de los neuquinos.",
+            "frase_fuerte": "LA CONSTRUCCIÓN DE VIVIENDAS VOLVIÓ A PONERSE EN MARCHA. Mientras en otros lugares las obras se frenan, en Neuquén seguimos avanzando."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Economía regional",
+                "Empleo",
+                "Federalismo",
+                "Derechos laborales"
+            ],
+            "postura_politica": "Fuerte énfasis en la protección del trabajo y la actividad económica provincial. Utiliza medidas como la moratoria de Ingresos Brutos y una moneda local ('Chachos') para dinamizar la economía, posicionando a La Rioja como defensora de un 'federalismo que garantice igualdad' y los 'derechos conquistados'.",
+            "frase_fuerte": "La defensa de las y los trabajadores es también la defensa de un país más justo y verdaderamente federal."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Turismo",
+                "Cultura",
+                "Promoción económica"
+            ],
+            "postura_politica": "Promueve a Misiones como destino turístico para las vacaciones de invierno, destacando su oferta cultural y de ocio para las familias. Impulsa la economía local a través de eventos y propuestas que atraen visitantes.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Infraestructura",
+                "Patrimonio cultural",
+                "Inversión provincial"
+            ],
+            "postura_politica": "Centra su discurso en el aniversario de una localidad para anunciar inversiones y proyectar el rol de la provincia en una 'nueva Argentina' a través de producción y exportación, destacando la colaboración Provincia-Municipio y la recuperación de espacios comunitarios.",
+            "frase_fuerte": "SAN ANTONIO OESTE, PROTAGONISTA DE LA NUEVA ARGENTINA"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Acceso a la vivienda",
+                "Infraestructura urbana",
+                "Salud pública"
+            ],
+            "postura_politica": "Muestra una gestión activa en políticas sociales clave, como la entrega de escrituras y viviendas, y la mejora de la infraestructura y equipamiento de salud. Prioriza la 'seguridad jurídica y tranquilidad familiar' como base del bienestar.",
+            "frase_fuerte": "Llegamos a las 7000 ESCRITURAS entregadas a 7000 HOGARES, que dejaron de ser 'adjudicatarios' y pasaron a ser 'propietarios'."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Enfocado en la gestión de obras para el desarrollo local y la educación, visitando localidades y mostrando avances concretos. Destaca el crecimiento de la provincia 'Invencible' a través del trabajo en equipo y la inversión en la comunidad.",
+            "frase_fuerte": "Hermosa recorrida por #Maciel y #Oliveros este viernes 💪🏽 pasamos a ver la nueva escuela, el parque y el futuro museo, pero lo más importante de hoy fue el encuentro."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Inversión extranjera",
+                "Desarrollo industrial"
+            ],
+            "postura_politica": "Promueve a la provincia como destino de inversión extranjera directa, resaltando la capacidad productiva e industrial de Santiago del Estero y la generación de empleo. Se enfoca en la modernización y los lazos internacionales para el crecimiento.",
+            "frase_fuerte": "Mapei se encuentra finalizando la instalación de su nueva planta industrial en el Parque Industrial La Isla, en la ciudad de La Banda. Se trata de una de las plantas más modernas de toda su red global, un proyecto que ratifica la confianza de una empresa líder en el potencial productivo de Santiago del Estero."
+        }
+    ]
+}
