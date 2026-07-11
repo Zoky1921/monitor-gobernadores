@@ -1,0 +1,50 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de bajo impacto político. Solo cuatro gobernadores publicaron tweets dentro del período de análisis, todos de contenido local o protocolar. Sin señales de disputa fiscal, alineamientos con Nación o posicionamiento ideológico. El día transcurrió en una aparente tregua de la agenda federal.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada del 11 de julio de 2026 se caracteriza por una ausencia casi total de tensión entre Nación y provincias. Los gobernadores que publicaron omitieron cualquier referencia a la macroeconomía, la coparticipación o los recursos estratégicos. El silencio sugiere un repliegue táctico: nadie quiso marcar posición en un día sin agenda nacional apremiante, quizás para evitar sumar ruido en un contexto de alta incertidumbre fiscal. El único pulso perceptible es el de la omisión: no hay reclamos, pero tampoco adhesiones.\n\nActo 2 — Los Alineamientos: No se observan socios ni parias. Los cuatro gobernadores con actividad (Formosa, Misiones, Santa Cruz y Santiago del Estero) pertenecen a distintos signos políticos: Gildo Insfrán (PJ-Frente de Todos), Hugo Passalacqua (Frente Renovador de la Concordia), Claudio Vidal (Unión por la Patria) y Elías Suárez (Frente Cívico por Santiago). Ninguno eligió posicionarse sobre el gobierno nacional. La dispersión ideológica y la ausencia de menciones a Nación refuerzan la idea de una tregua no pactada, donde cada uno se refugió en su gestión local para no exponerse.\n\nActo 3 — La Micro-política: Los tweets de Insfrán (aniversario de Ibarreta), Passalacqua (encuentro con productores en Caminos y Sabores), Vidal (jornada intersectorial en barrios) y Suárez (entronización de San Charbel con embajadora libanesa) son de peso bajo a medio. Todos son gestiones de cabotaje: marcan presencia territorial, pero no buscan interpelar al gobierno central. Incluso el evento de Passalacqua, que tiene un tinte económico, se limita a promocionar la producción provincial sin mencionar dificultades nacionales. Es un refugio en la agenda de entretenimiento y servicios.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es neutra. La ausencia de gobernadores de provincias centrales (Buenos Aires, Córdoba, Santa Fe, CABA) en el período analizado evita cualquier roce. El presidente Javier Milei no recibe críticas ni apoyos explícitos. Es un día de bajo riesgo político, donde el silencio de los pesos pesados puede interpretarse como una pausa estratégica: no hay necesidad de atacar ni de defender, simplemente se espera.",
+    "temas_calientes": [],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "aniversario local",
+                "protocolo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. El tweet es un saludo protocolar por el 105° aniversario de Ibarreta, sin contenido político ni mención a Nación.",
+            "frase_fuerte": "105° ANIVERSARIO DE IBARRETA"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "promoción productiva",
+                "feria gastronómica"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Promociona la participación misionera en 'Caminos y Sabores', destacando productores locales. Sin críticas ni alusiones a la situación nacional.",
+            "frase_fuerte": "Fue un enorme orgullo encontrarme con nuestros productores, emprendedores y empresas misioneras en Caminos y Sabores."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "gestión territorial",
+                "salud y servicios"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Anuncia jornadas intersectoriales para acercar servicios a los barrios. Reafirma gestión provincial sin referencias a Nación.",
+            "frase_fuerte": "CON LA JORNADA INTERSECTORIAL, ACERCAMOS SALUD, TRÁMITES Y SERVICIOS A LOS BARRIOS"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "evento religioso",
+                "diplomacia provincial"
+            ],
+            "postura_politica": "Agenda protocolar aislada. Participa en la entronización de San Charbel junto a la embajadora libanesa. Sin posicionamiento político ni federal.",
+            "frase_fuerte": "San Charbel representa un puente de unión entre Oriente y Occidente y constituye un reconocimiento al valioso legado de la comunidad sirio-libanesa."
+        }
+    ]
+}

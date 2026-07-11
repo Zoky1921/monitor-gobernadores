@@ -1,0 +1,78 @@
+{
+    "clima_general": "OPTIMISTA",
+    "resumen_ejecutivo": "Los gobernadores con actividad en redes hoy se enfocaron en resaltar la gestión local y el rol activo del Estado. Gildo Insfrán (Formosa) celebró un aniversario municipal, mientras Oscar Herrera Ahuad (Misiones) destacó el apoyo a la producción regional. Claudio Vidal (Santa Cruz) enfatizó la presencia estatal en los barrios con servicios directos. Por su parte, Gerardo Zamora (Santiago del Estero) participó de un evento cultural que honra a la comunidad sirio-libanesa. La agenda provincial se concentra en el desarrollo interno y la cercanía con los ciudadanos, sin registros de tensiones con el gobierno nacional o entre provincias.",
+    "analisis_profundo": "La jornada del 11 de julio de 2026 exhibe una clara tendencia de los gobernadores a consolidar su agenda territorial y proyectar una imagen de gestión activa y eficiente. Este enfoque en lo local y la reafirmación del rol estatal resultan estratégicos en un escenario sin confrontaciones directas con el gobierno nacional ni disputas interprovinciales. \n\nGildo Insfrán (Formosa) optó por un mensaje de celebración y arraigo comunitario, destacando el 'pueblo pujante' y el avance hacia el futuro en el 105° aniversario de Ibarreta. Esta postura subraya una narrativa de desarrollo endógeno y cohesión social. De forma complementaria, Oscar Herrera Ahuad (Misiones) se dedicó a la promoción económica, visibilizando el 'trabajo, esfuerzo, innovación y mucho amor por nuestra tierra' de los productores misioneros en 'Caminos y Sabores', lo que refuerza la identidad productiva regional como motor económico.\n\nClaudio Vidal (Santa Cruz) se posicionó como un 'Estado presente, cercano y comprometido' mediante las 'Jornadas Intersectoriales' en los barrios, ofreciendo servicios de salud y trámites. Su tweet, 'Santa Cruz Puede y Tiene Rumbo', es una declaración política que busca consolidar la percepción de una gestión resolutiva y orientada a las necesidades básicas de la población, contrastando con discursos de reducción estatal. Finalmente, Gerardo Zamora (Santiago del Estero) participó en una ceremonia religiosa que, además de su significado espiritual, fue una oportunidad para reconocer el 'valioso legado de la comunidad sirio-libanesa', destacando la diversidad cultural y la integración, con un componente de política exterior subnacional. \n\nEn síntesis, los líderes provinciales priorizan el fortalecimiento interno, la oferta de servicios y la promoción identitaria, capitalizando políticamente la cercanía y la eficiencia percibida en sus gestiones.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión y Servicios Públicos en el Territorio",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Promoción Local",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Cohesión Social y Celebraciones Locales",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "CON LA JORNADA INTERSECTORIAL, ACERCAMOS SALUD, TRÁMITES Y SERVICIOS A LOS BARRIOS. Seguimos consolidando un rumbo con un Estado presente, cercano y comprometido con cada santacruceño. Por eso, llevamos las Jornadas Intersectoriales a los barrios para acercar controles de salud, trámites, asesoramiento y distintos servicios provinciales en un solo lugar. Gobernar también es estar cerca de la gente, escuchar sus necesidades y brindar respuestas concretas en cada barrio de la provincia. Santa Cruz Puede y Tiene Rumbo...",
+        "por_que_es_clave": "Este tweet es una declaración política contundente sobre el rol del Estado provincial en la provisión de servicios esenciales y la cercanía con los ciudadanos, en un contexto nacional donde el debate sobre el tamaño y la eficiencia estatal es central. Refuerza la autonomía y capacidad de gestión provincial.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Celebraciones locales",
+                "Desarrollo comunitario",
+                "Cohesión social"
+            ],
+            "postura_politica": "Su mensaje reafirma la identidad y el progreso de las comunidades dentro de Formosa, utilizando el aniversario de Ibarreta para proyectar una imagen de unidad y avance provincial.",
+            "frase_fuerte": "un pueblo pujante que abraza su historia y camina firme hacia el futuro."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Economía regional",
+                "Emprendedurismo"
+            ],
+            "postura_politica": "Destaca el rol de los productores y emprendedores misioneros como motor de la economía provincial, promoviendo la identidad local a través de la gastronomía y la producción.",
+            "frase_fuerte": "Detrás de cada producto hay trabajo, esfuerzo, innovación y mucho amor por nuestra tierra."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Servicios públicos",
+                "Estado presente",
+                "Cercanía con la ciudadanía",
+                "Salud",
+                "Trámites"
+            ],
+            "postura_politica": "Posiciona a su gobierno como un 'Estado presente' que brinda 'respuestas concretas' a los vecinos, enfocándose en la gestión efectiva de servicios esenciales y la cercanía territorial.",
+            "frase_fuerte": "Seguimos consolidando un rumbo con un Estado presente, cercano y comprometido con cada santacruceño."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Cultura",
+                "Religión",
+                "Legado de comunidades inmigrantes",
+                "Relaciones internacionales (subnacional)"
+            ],
+            "postura_politica": "Utiliza un evento cultural y religioso para reconocer el aporte de la comunidad sirio-libanesa y fortalecer lazos identitarios y de cooperación internacional a nivel provincial.",
+            "frase_fuerte": "La presencia de San Charbel en nuestra Iglesia Madre representa un puente de unión entre Oriente y Occidente y constituye un reconocimiento al valioso legado de la comunidad sirio-libanesa."
+        }
+    ]
+}
