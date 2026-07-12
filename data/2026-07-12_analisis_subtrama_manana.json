@@ -1,0 +1,116 @@
+{
+    "clima_general": "ALIANZA",
+    "resumen_ejecutivo": "La jornada estuvo dominada por la celebración del pase de Argentina a semifinales del Mundial, con la mayoría de los gobernadores expresando su apoyo. Sin embargo, Leandro Zdero (Chaco) aprovechó para destacar avances en alfabetización, y Ricardo Quintela (La Rioja) promovió la Feria del Libro con contenido político. No se registraron tensiones con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada del 12 de julio de 2026 estuvo marcada por un fenómeno de unidad nacional atípico: el triunfo de la selección argentina de fútbol que la depositó en semifinales del Mundial. Este evento deportivo actuó como un paraguas que cubrió cualquier posible roce fiscal o institucional entre las provincias y la Casa Rosada. Los gobernadores, lejos de disputar recursos o marcar diferencias, se alinearon en una coreografía de apoyo patriótico que diluyó cualquier señal de conflicto. El silencio de los pesos pesados como Kicillof o Jalil (en sus cuentas oficiales) no fue un gesto de rebeldía, sino una omisión calculada: no había espacio para la política cuando el país entero miraba la cancha.\n\nActo 2 — Los Alineamientos: Los gobernadores que sí tuiteron se dividieron en dos grupos: los que se limitaron a celebrar el gol (Jorge Macri, Raúl Jalil, Ignacio Torres, Martín Llaryora, Claudio Vidal, Maximiliano Pullaro) y los que aprovecharon la ventana de atención para mostrar gestión local. Leandro Zdero (Chaco) fue el más astuto: mientras todos miraban el partido, él publicó datos concretos de su programa de alfabetización, posicionándose como un gestor eficiente en medio del ruido. Ricardo Quintela (La Rioja), por su parte, utilizó la Feria del Libro para tejer una red de contactos políticos y reafirmar su perfil peronista, con la presencia de figuras como Guillermo Moreno. Ambos entendieron que el fútbol no es competencia, sino cobertura.\n\nActo 3 — La Micro-política: En las provincias periféricas, los gestos de supervivencia se camuflaron en efemérides y obras. Ignacio Torres (Chubut) combinó el fervor mundialista con el aniversario de Tecka y anuncios de gas, mostrando que la gestión de cabotaje no se detiene. Claudio Vidal (Santa Cruz) también mezcló el fútbol con la promoción de eventos internacionales, como la Winter Swimming World Cup. Estos gobernadores entienden que, en días de alta tensión simbólica, lo mejor es no confrontar y mostrar que el Estado provincial sigue funcionando.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada fue un respiro. El presidente Milei, que participó de la vigilia del 9 de Julio en Tucumán, no recibió críticas directas de los gobernadores en este período. El Mundial actuó como un escudo que protegió al Gobierno Nacional de posibles embestidas fiscales. Sin embargo, el verdadero termómetro será cuando termine la competencia y las provincias vuelvan a reclamar por coparticipación, deudas y obras paralizadas. Por ahora, el fútbol unió lo que la política suele dividir.",
+    "temas_calientes": [
+        {
+            "tema": "Celebración del triunfo de Argentina en el Mundial (semifinales)",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestión educativa y resultados en alfabetización en Chaco",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Feria del Libro y articulación política en La Rioja",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Aniversario local y obras de infraestructura en Chubut",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@LeandroZdero",
+        "texto": "Con #AprendoLeyendo fortalecemos la alfabetización desde las aulas: más de 9.000 docentes capacitados y miles de materiales distribuidos para fortalecer la alfabetización desde los primeros años. ¡Ese es el camino! https://t.co/obPRTd3jaH",
+        "por_que_es_clave": "En una jornada dominada por el fervor futbolístico, Zdero eligió destacar un logro de gestión provincial, mostrando que su prioridad es la educación y no la disputa política. Es un mensaje de autonomía y eficiencia, sin mencionar a Nación, lo que sugiere que Chaco avanza con recursos propios.",
+        "pregunta_openarg": "¿Puede un gobernador construir capital político sosteniendo una agenda de gestión local mientras el país entero mira el Mundial, o es una estrategia que solo funciona en provincias periféricas?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Mundial",
+                "fútbol"
+            ],
+            "postura_politica": "Celebración pura, sin contenido político. Se suma al fervor popular, reforzando su imagen de líder cercano a la gente.",
+            "frase_fuerte": "Vamooooooooos Argentina carajo!!!!"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Mundial",
+                "demografía"
+            ],
+            "postura_politica": "Comparte la euforia mundialista y, de forma lateral, retuitea una noticia sobre la baja natalidad en Chile, posiblemente como reflexión sobre políticas sociales, pero sin posicionamiento explícito.",
+            "frase_fuerte": "SEMIFINAL!!!! ARGENTINA A SEMIFINAL"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "alfabetización"
+            ],
+            "postura_politica": "Muestra resultados de su programa estrella, posicionándose como un gestor eficiente que no necesita del ruido nacional para avanzar. Es un mensaje de autonomía y capacidad de gestión.",
+            "frase_fuerte": "¡Ese es el camino!"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Mundial",
+                "aniversario local",
+                "obras de gas"
+            ],
+            "postura_politica": "Combina el fervor patriótico con la gestión territorial. Celebra el triunfo de la selección y, al mismo tiempo, anuncia obras en Tecka, mostrando que su gobierno no se detiene.",
+            "frase_fuerte": "¡Vamos, Argentina carajo!!!"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Mundial",
+                "orgullo cordobés"
+            ],
+            "postura_politica": "Resalta el aporte cordobés al triunfo (gol de Julián Álvarez), reforzando la identidad provincial dentro de la celebración nacional. Sin confrontación.",
+            "frase_fuerte": "Tranquilos argentinos siempre hay un CORDOBÉS"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Cultura",
+                "Feria del Libro",
+                "política"
+            ],
+            "postura_politica": "Utiliza la Feria del Libro como plataforma para tejer alianzas políticas y reafirmar su perfil peronista, con la presencia de figuras como Guillermo Moreno. Es un movimiento de construcción de poder en un contexto de bajo perfil nacional.",
+            "frase_fuerte": "La Feria del Libro es una oportunidad para encontrarnos, intercambiar ideas y reafirmar el valor de la cultura como parte de nuestra identidad."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Mundial"
+            ],
+            "postura_politica": "Celebración del triunfo, sin contenido político adicional. Se suma al clima de unidad nacional.",
+            "frase_fuerte": "¡GRACIAS, ARGENTINA! ¡GRACIAS, ARAÑA!"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Mundial"
+            ],
+            "postura_politica": "Apoyo explícito a la selección, sin desviaciones. Refuerza su imagen de líder que comparte las emociones populares.",
+            "frase_fuerte": "VAMOS ARGENTINA!!!"
+        }
+    ]
+}
