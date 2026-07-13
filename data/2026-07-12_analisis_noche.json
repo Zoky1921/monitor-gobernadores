@@ -1,0 +1,157 @@
+{
+    "clima_general": "CALMADO",
+    "resumen_ejecutivo": "La agenda federal de hoy y última hora de ayer estuvo dominada por la comunicación de gestión y avances concretos en las provincias. Los gobernadores se enfocaron en obras públicas y desarrollo local, destacando inversiones en infraestructura urbana y vial. Se reportaron logros en programas educativos, con énfasis en la alfabetización, y se impulsaron iniciativas de turismo y desarrollo económico regional. En seguridad, se comunicaron resultados positivos en la reducción de índices delictivos y se expresó apoyo institucional a las fuerzas. Un evento cultural sirvió como plataforma para debatir el federalismo y el 'momento político' nacional, sin que esto se tradujera en tensiones directas con el Gobierno nacional o entre jurisdicciones. La tónica general fue de proactividad en la gestión provincial.",
+    "analisis_profundo": "El panorama federal del 12 de julio de 2026, extendiéndose a la noche del 11 de julio, revela una marcada orientación de los gobernadores hacia la comunicación de acciones de gobierno y resultados en sus respectivas provincias. La gestión local y el desarrollo endógeno dominaron la agenda pública de los mandatarios.\n\nEn el ámbito de la infraestructura, Maximiliano Pullaro (Santa Fe) comunicó la renovación de espacios urbanos clave, mientras que Leandro Zdero (Chaco) enfatizó los avances en la pavimentación de rutas provinciales y la finalización de obras educativas. Por su parte, Nacho Torres (Chubut) destacó inversiones en viviendas e infraestructura básica, como la ampliación de la red de gas, con un enfoque en los pueblos del interior. Rolando Figueroa (Neuquén) reportó el progreso en la construcción de viviendas y el desarrollo estratégico de ciudades como Zapala, además de obras en infraestructura de seguridad. Estas comunicaciones subrayan una priorización de la agenda concreta y el impacto directo en la vida de los ciudadanos, en un contexto donde el financiamiento nacional para obra pública suele ser un punto de fricción.\n\nLa educación emergió como un pilar importante, con Leandro Zdero (Chaco) presentando cifras sobre la duplicación de la fluidez lectora, atribuyendo el éxito a políticas sostenidas. Esta métrica directa y positiva busca validar la inversión provincial en capital humano.\n\nLa seguridad pública también fue un tema central. Rolando Figueroa (Neuquén) enfatizó el descenso de los índices delictivos como resultado de la gestión, mientras que Martín Llaryora (Córdoba) expresó el luto institucional por el fallecimiento de un policía, articulando el apoyo a las fuerzas de seguridad en momentos sensibles. Estas declaraciones, si bien distintas en su naturaleza, reflejan una preocupación compartida por la estabilidad y el orden en sus territorios.\n\nLa promoción económica y el turismo fueron motores comunicacionales, con Raúl Jalil (Catamarca) destacando el movimiento turístico y su impacto en el empleo local. Oscar Herrera Ahuad (Misiones) celebró un evento de Turismo Carretera como dinamizador económico. La integración regional y la exposición de productos locales fueron subrayadas por Alberto Weretilneck (Río Negro), quien resaltó la participación de la Norpatagonia en eventos como 'Caminos y Sabores'. Estas acciones apuntan a diversificar y fortalecer las economías provinciales, buscando autonomía y desarrollo frente a eventuales vaivenes nacionales.\n\nFinalmente, el diálogo político-cultural también tuvo su espacio. Ricardo Quintela (La Rioja) utilizó la Feria del Libro como un escenario para la reflexión sobre el momento político argentino y el federalismo, sugiriendo una necesidad de mantener la discusión ideológica y estratégica abierta. En general, la tónica fue de gestión proactiva y consolidación de agendas provinciales, con una ausencia de confrontaciones directas con el gobierno nacional, lo que contribuye a un clima político de relativa calma en la superficie, aunque con temas de fondo latentes.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de Seguridad Pública y Apoyo Institucional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Infraestructura, Obras Públicas y Desarrollo Local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Promoción Económica, Turismo y Eventos Productivos",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@passalacquaok",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Educación y Mejora de la Alfabetización",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Cultura, Federalismo y Debate Político",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "La Feria del Libro es una oportunidad para encontrarnos, intercambiar ideas y reafirmar el valor de la cultura como parte de nuestra identidad. Recibí a @hernanbrienza, quien nos visitó para presentar su libro 'En contra del bien. Adiós a la teoría de los dos demonios' y compartir una muy buena charla sobre el momento político que vive la Argentina, el federalismo, la memoria y la importancia de seguir fortaleciendo estos espacios de reflexión y diálogo.",
+        "por_que_es_clave": "Este tweet trasciende la mera promoción cultural al posicionar la Feria del Libro como un foro para el debate crítico sobre el 'momento político' nacional, el federalismo y la memoria. Ricardo Quintela (La Rioja) lo utiliza para destacar el rol de la provincia en la articulación de ideas y la construcción de un futuro con participación, reforzando la relevancia de la cultura como plataforma para el discurso político de fondo.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Coordinación Interjurisdiccional"
+            ],
+            "postura_politica": "Destaca la capacidad de la provincia para responder a emergencias de salud complejas y la necesaria cooperación con la Ciudad de Buenos Aires para tratamientos especializados, mostrando una gestión activa en salud pública.",
+            "frase_fuerte": "Dos bebés recién nacidos, India y Franco fueron trasladados al Hospital Garrahan de #CABA. India con asfixia perinatal desde #Chacabuco y Franco con Encefalopatía desde #MarDelPlata."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Desarrollo Turístico",
+                "Economía Regional",
+                "Demografía Regional"
+            ],
+            "postura_politica": "Subraya el impacto positivo del turismo en la economía provincial, enfocado en el empleo y las oportunidades locales. Además, muestra una conciencia sobre dinámicas demográficas regionales a través de un retuit sobre Chile.",
+            "frase_fuerte": "Cada visitante que llega a Catamarca representa más trabajo para nuestra gente y más oportunidades para las economías locales."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura Provincial",
+                "Desarrollo Local",
+                "Turismo"
+            ],
+            "postura_politica": "Enfatiza logros concretos en educación, destacando la duplicación de la fluidez lectora. Muestra una gestión activa en obras públicas como la pavimentación, y la promoción de eventos culturales y turísticos como motores de desarrollo regional.",
+            "frase_fuerte": "¿Sabías que se duplicó la fluidez lectora de los estudiantes del primer ciclo? Con #AprendoLeyendo y políticas públicas sostenidas, pasamos de 16 a 36 palabras por minuto. Ese es nuestro compromiso. Y lo estamos logrando. 💪🏼"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Desarrollo Local",
+                "Infraestructura",
+                "Vivienda",
+                "Servicios Básicos"
+            ],
+            "postura_politica": "Centra su mensaje en el apoyo y desarrollo de los pueblos del interior, destacando inversiones en obras públicas como viviendas e infraestructura de gas, con una narrativa de honrar el legado pionero y mejorar la calidad de vida.",
+            "frase_fuerte": "EN CADA PUEBLO DE CHUBUT HAY UNA HISTORIA QUE VALE LA PENA DEFENDER"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Seguridad Ciudadana",
+                "Apoyo Institucional"
+            ],
+            "postura_politica": "Expresa condolencias y apoyo a la fuerza policial tras el fallecimiento de un agente, reforzando el respaldo institucional a la seguridad pública y el reconocimiento del riesgo en el servicio.",
+            "frase_fuerte": "Hoy la Policía de Córdoba llora la partida del cabo primero Nicolás Mauricio Dubut, fallecido en acto de servicio. Un hombre que eligió servir, cuidar y proteger a los demás, y que entregó lo más valioso que tenía, su propia vida."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Cultura",
+                "Federalismo",
+                "Debate Político",
+                "Memoria"
+            ],
+            "postura_politica": "Utiliza la Feria del Libro como plataforma para el debate de ideas sobre el 'momento político' y el federalismo, promoviendo la cultura y el pensamiento crítico como pilares para construir el futuro de la provincia y del país.",
+            "frase_fuerte": "La Feria del Libro es una oportunidad para encontrarnos, intercambiar ideas y reafirmar el valor de la cultura como parte de nuestra identidad."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Turismo",
+                "Desarrollo Local",
+                "Eventos Deportivos"
+            ],
+            "postura_politica": "Celebra la realización de eventos masivos como el Turismo Carretera, resaltando su impacto positivo en la alegría de la gente y la proyección de la provincia a nivel nacional.",
+            "frase_fuerte": "Me llena de alegría ver a tantas familias, amigos y visitantes compartiendo la pasión por el Turismo Carretera en Posadas."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Seguridad Pública",
+                "Gestión de Resultados",
+                "Desarrollo Urbano",
+                "Obras Públicas"
+            ],
+            "postura_politica": "Destaca el descenso de los índices delictivos como resultado de inversiones y planificación, reafirmando un compromiso con la seguridad. Adicionalmente, subraya el rol estratégico de localidades como Zapala y las obras impulsadas para su desarrollo.",
+            "frase_fuerte": "TAMBIÉN EN SEGURIDAD, LOS RESULTADOS RESPALDAN EL CAMBIO Las estadísticas difundidas a nivel nacional ratifican que en Neuquén los índices delictivos continúan en descenso."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Promoción Productiva",
+                "Turismo",
+                "Integración Regional",
+                "Cultura Gastronómica"
+            ],
+            "postura_politica": "Promueve la participación de Río Negro en ferias nacionales para exhibir su potencial productivo y turístico, enfatizando la integración regional de la Norpatagonia como un motor de desarrollo.",
+            "frase_fuerte": "LA NORPATAGONIA ES PROTAGONISTA EN CAMINOS Y SABORES Hoy es el último día de Caminos y Sabores 2026, una oportunidad para mostrar todo lo que Río Negro tiene para ofrecer junto a Neuquén en un espacio que, por primera vez, reúne a ambas provincias."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Infraestructura Urbana",
+                "Obras Públicas",
+                "Mejora de Espacios Públicos"
+            ],
+            "postura_politica": "Resalta la inversión en infraestructura urbana y la recuperación de espacios públicos como parte de una gestión que busca mejorar la calidad de vida de los vecinos de la capital.",
+            "frase_fuerte": "Ayer inauguramos la renovación total del cantero central en Aristóbulo del Valle, una de las avenidas más importantes de la ciudad de Santa Fe. También le sumamos nueva iluminación y árboles, este lugar quedó hermoso para que todos los vecinos de nuestra capital lo puedan volver a disfrutar 💪🏾"
+        }
+    ]
+}
