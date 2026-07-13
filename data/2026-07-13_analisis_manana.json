@@ -1,0 +1,155 @@
+{
+    "clima_general": "CALMO",
+    "resumen_ejecutivo": "La jornada federal del 13 de julio de 2026 se caracterizó por un marcado enfoque en la gestión provincial y el desarrollo local, reflejando un clima político general calmo. Los gobernadores priorizaron anuncios de obras de infraestructura, mejoras en servicios públicos y apoyo a sectores económicos específicos. Jorge Macri (Ciudad Autónoma de Buenos Aires) se destacó con un plan de refinanciación de deudas, mientras Alfredo Cornejo (Mendoza) informó sobre compras eficientes de medicamentos y reconocimientos gastronómicos. Osvaldo Jaldo (Tucumán) anunció avances en la remodelación de su aeropuerto, y Rolando Figueroa (Neuquén) reportó mejoras en seguridad. Otros mandatarios como Raúl Jalil (Catamarca), Leandro Zdero (Chaco), Gildo Insfrán (Formosa), Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro) también concentraron su agenda en iniciativas que impactan directamente en la calidad de vida y las oportunidades de sus habitantes.",
+    "analisis_profundo": "La agenda federal de hoy, 13 de julio de 2026, muestra una fuerte inclinación hacia la gestión interna y el desarrollo provincial, en contraste con una baja visibilidad de tensiones interjurisdiccionales o conflictos directos con la Nación, lo que configura un 'clima general' calmo. Los gobernadores exhiben una pragmática orientación a la acción, buscando soluciones y presentando avances en áreas críticas para sus ciudadanos. En este contexto, la infraestructura y los servicios públicos emergen como pilares de la gestión. Osvaldo Jaldo (Tucumán) anunció un hito en la remodelación del Aeropuerto Internacional Teniente Benjamín Matienzo, una inversión estratégica de más de 50 millones de dólares que promete duplicar la capacidad operativa y dinamizar el turismo y el comercio. Paralelamente, Leandro Zdero (Chaco) celebró la renovación del Domo del Centenario 'Zitto Segovia', invirtiendo en espacios culturales clave. Omar Passalacqua (Misiones) detalló una nueva perforación en Cerro Corá para garantizar el acceso al agua, una necesidad básica que impacta directamente en la salud y calidad de vida de las familias. La economía local y el alivio financiero también fueron temas centrales. Jorge Macri (Ciudad Autónoma de Buenos Aires) presentó un programa de refinanciación de deudas para la clase media, una medida concreta que busca dar 'un alivio' a las familias en un contexto económico desafiante. Raúl Jalil (Catamarca) resaltó el impacto positivo del movimiento turístico del fin de semana largo en las economías locales, mientras Alfredo Cornejo (Mendoza) celebró el reconocimiento de la Guía Michelin a la gastronomía provincial, consolidando el sector turístico como motor de empleo. En materia de salud y seguridad, Cornejo (Mendoza) destacó una compra directa de medicamentos oncológicos y reumatológicos desde la India, logrando un ahorro del 80% y demostrando la capacidad de las provincias para optimizar recursos y garantizar tratamientos complejos. En el ámbito de la seguridad, Rolando Figueroa (Neuquén) informó sobre el descenso de los índices delictivos, atribuyéndolo a la inversión y coordinación interinstitucional. Martín Llaryora (Córdoba) expresó sus condolencias por el fallecimiento de un policía en servicio, en un gesto que subraya la importancia del rol de las fuerzas de seguridad en la provincia. Finalmente, el fortalecimiento institucional y la participación ciudadana también tuvieron su lugar. Gildo Insfrán (Formosa) celebró un aniversario local, reforzando la identidad y el crecimiento comunitario. Alberto Weretilneck (Río Negro) anunció la creación de una Secretaría de Juventudes para fomentar la participación de los jóvenes en la toma de decisiones. Este conjunto de acciones subraya una visión de gobernanza enfocada en el bienestar provincial, la eficiencia en el uso de recursos y la búsqueda de soluciones endógenas, elementos que hoy delinean una agenda federal marcada por la autonomía y la gestión local.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de Infraestructura y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Políticas de Salud Provincial y Eficiencia en la Gestión",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Regional y Promoción del Turismo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad Pública y Reconocimiento a Fuerzas de Seguridad",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento Institucional y Participación Ciudadana",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@insfran_gildo",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@alfredocornejo",
+        "texto": "Seguimos fortaleciendo el sistema público de salud con decisiones que mejoran la atención y cuidan los recursos de los mendocinos. Recibimos un nuevo cargamento de medicamentos oncológicos y reumatológicos importados directamente desde la India, lo que nos permite garantizar los tratamientos durante los próximos 12 meses y lograr un ahorro cercano al 80% respecto de los precios del mercado local. La salud también se fortalece gestionando con eficiencia. Reducir costos sin resignar calidad nos permite garantizar el acceso a tratamientos de alta complejidad y hacer un uso responsable de los recursos públicos.",
+        "por_que_es_clave": "El gobernador (Mendoza) destaca una medida de gestión innovadora y eficiente en el ámbito de la salud pública, al lograr un ahorro del 80% en la compra de medicamentos de alta complejidad y asegurar el abastecimiento. Esto demuestra capacidad de respuesta provincial frente a necesidades críticas y optimización de recursos.",
+        "pregunta_openarg": "¿Qué rol pueden jugar las compras directas e importaciones provinciales en la optimización de los sistemas de salud a nivel nacional y la contención de costos frente a la inflación?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Finanzas personales",
+                "Apoyo a la clase media",
+                "Legislación"
+            ],
+            "postura_politica": "Proactiva en la búsqueda de soluciones financieras para los ciudadanos de la Ciudad Autónoma de Buenos Aires, articulando con el Poder Legislativo para implementar medidas de alivio económico con impacto directo en la economía familiar.",
+            "frase_fuerte": "Las familias porteñas podrán refinanciar sus deudas de tarjetas de crédito y préstamos en mora con más plazo y una tasa de interés fija. Es un alivio para la clase media que trabaja, se esfuerza y quiere ponerse al día."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Turismo",
+                "Economía regional"
+            ],
+            "postura_politica": "Destaca el éxito del movimiento turístico durante el fin de semana largo en Catamarca y su impacto positivo en las economías locales, proyectando a la provincia como un destino atractivo y generador de empleo.",
+            "frase_fuerte": "Cada visitante que llega a Catamarca representa más trabajo para nuestra gente y más oportunidades para las economías locales."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Cultura",
+                "Infraestructura"
+            ],
+            "postura_politica": "Enfatiza la inversión en infraestructura cultural en Chaco, mostrando un compromiso con la renovación y modernización de espacios para el disfrute y desarrollo de la comunidad.",
+            "frase_fuerte": "El Domo del Centenario 'Zitto Segovia' inicia una nueva etapa con su edificio totalmente renovado."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Seguridad",
+                "Tributo a las fuerzas"
+            ],
+            "postura_politica": "Expresa solidaridad y reconocimiento a la labor policial de Córdoba ante un trágico suceso, subrayando el compromiso con la seguridad de la provincia y la protección de sus habitantes.",
+            "frase_fuerte": "Quiero expresar mis condolencias a la familia, amigos y compañeros de trabajo del cabo primero Nicolás Mauricio Dubut, el joven policía que perdió la vida mientras prestaba servicio, cumpliendo con su deber de cuidar la seguridad de los cordobeses."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Aniversarios locales",
+                "Identidad provincial",
+                "Crecimiento comunitario"
+            ],
+            "postura_politica": "Refuerza el valor de las celebraciones locales en Formosa, conectando la historia y la identidad de los pueblos con el crecimiento y desarrollo provincial bajo el lema 'Todos Unidos'.",
+            "frase_fuerte": "Conmemoramos 125 años de historia, identidad y crecimiento compartido. Un fuerte abrazo a todos los vecinos y vecinas que hacen grande a esta querida localidad."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Gastronomía",
+                "Turismo",
+                "Empleo",
+                "Salud pública",
+                "Eficiencia en la gestión"
+            ],
+            "postura_politica": "Proyecta a Mendoza como un polo turístico y gastronómico de excelencia, destacando el trabajo conjunto público-privado. Asimismo, demuestra una gestión eficiente en salud pública al lograr un ahorro significativo en la compra de medicamentos de alta complejidad.",
+            "frase_fuerte": "Seguimos fortaleciendo el sistema público de salud con decisiones que mejoran la atención y cuidan los recursos de los mendocinos."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Infraestructura hídrica",
+                "Salud",
+                "Bienestar social"
+            ],
+            "postura_politica": "Subraya la importancia de las inversiones en infraestructura básica en Misiones para mejorar la calidad de vida de los ciudadanos, con un enfoque en el acceso al agua potable y el fortalecimiento de los servicios de salud comunitarios.",
+            "frase_fuerte": "En Cerro Corá recorrimos una nueva perforación que fortalecerá el funcionamiento del CAPS y garantizará el abastecimiento de agua para más de 70 familias."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Gestión provincial",
+                "Lucha contra el delito"
+            ],
+            "postura_politica": "Destaca los logros en la reducción de los índices delictivos en Neuquén como resultado de inversiones, planificación y coordinación entre los poderes del Estado, reafirmando su compromiso con la transformación de la provincia.",
+            "frase_fuerte": "Las estadísticas difundidas a nivel nacional ratifican que en Neuquén los índices delictivos continúan en descenso. Es una señal clara de que las decisiones que tomamos están dando resultados."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Juventud",
+                "Participación",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Impulsa la inclusión y participación activa de los jóvenes en Río Negro en la construcción del futuro de la provincia, creando espacios y roles específicos para ellos en la gestión provincial.",
+            "frase_fuerte": "Queremos una provincia donde cada vez más jóvenes se animen a participar, a involucrarse y a transformar sus ideas en proyectos que hagan crecer a Río Negro."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo económico",
+                "Conectividad",
+                "Turismo",
+                "Empleo"
+            ],
+            "postura_politica": "Destaca una inversión significativa en la modernización del aeropuerto de Tucumán, proyectándola como una obra estratégica que impulsará el crecimiento económico, el turismo y la generación de empleo en la provincia.",
+            "frase_fuerte": "Tucumán | Hoy recorrimos las obras de remodelación integral del Aeropuerto Internacional Teniente Benjamín Matienzo y dejamos habilitado el nuevo Check-In provisorio, una infraestructura clave que nos permite avanzar con esta transformación histórica sin interrumpir el funcionamiento de la terminal aérea."
+        }
+    ]
+}

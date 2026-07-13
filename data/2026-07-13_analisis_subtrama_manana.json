@@ -1,0 +1,132 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de bajo perfil federal. Los gobernadores evitan posicionarse sobre la macroeconomía o la relación con Nación. Predominan anuncios de gestión local, efemérides y obras públicas. No hay señales de conflicto fiscal ni alineamientos explícitos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada transcurre sin tensiones dominantes. La ausencia de menciones a la coparticipación, la deuda provincial o los recursos estratégicos indica un repliegue táctico. Los gobernadores optan por refugiarse en la agenda de cabotaje, evitando confrontar con la Casa Rosada en un contexto de incertidumbre electoral y fiscal. El silencio es un mensaje: no hay margen para la disputa abierta.\n\nActo 2 — Los Alineamientos: No se observan socios estratégicos ni parias en la jornada. Cada gobernador opera en su propio territorio, sin coordinar mensajes. Las excepciones son Jorge Macri (CABA) y Alfredo Cornejo (Mendoza), que muestran eficiencia de gestión (refinanciación de deudas y compra de medicamentos), pero sin desafiar a Nación. Rolando Figueroa (Neuquén) destaca en seguridad, pero sin mencionar al gobierno central.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Formosa, Chaco, Misiones) se limitan a efemérides y obras menores. Es gestión de supervivencia: mostrar que el Estado provincial funciona a pesar del contexto. No hay ambición de proyección nacional. La apatía federal es la norma.\n\nActo 4 — Saldo Presidencial: Para Javier Milei, la jornada es neutra. Ningún gobernador lo ataca ni lo defiende. La ausencia de conflicto le permite mantener el control de la agenda, pero también revela que las provincias no lo ven como un interlocutor relevante para sus problemas cotidianos. El capital político de la Casa Rosada no se modifica.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de seguridad provincial con resultados",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Eficiencia en salud pública (compra directa de medicamentos)",
+            "gobernadores_involucrados": [
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Alivio financiero para clases medias urbanas",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@alfredocornejo",
+        "texto": "Seguimos fortaleciendo el sistema público de salud con decisiones que mejoran la atención y cuidan los recursos de los mendocinos. Recibimos un nuevo cargamento de medicamentos oncológicos y reumatológicos importados directamente desde la India, lo que nos permite garantizar los tratamientos durante los próximos 12 meses y lograr un ahorro cercano al 80% respecto de los precios del mercado local.",
+        "por_que_es_clave": "Muestra capacidad de gestión autónoma frente al repliegue nacional. El ahorro del 80% es un dato duro que contrasta con la ineficiencia estatal que el gobierno nacional critica. Es un mensaje sutil de que las provincias pueden administrar mejor sus recursos sin depender de Nación.",
+        "pregunta_openarg": "¿La compra directa de medicamentos por parte de las provincias es una señal de federalismo eficiente o un síntoma de la desintegración del sistema de salud nacional?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Refinanciación de deudas",
+                "Alivio para clase media"
+            ],
+            "postura_politica": "Muestra gestión proactiva en un área sensible (deudas) para posicionarse como un gobernador que resuelve problemas cotidianos, sin mencionar a Nación. Busca capitalizar el descontento económico con una medida concreta.",
+            "frase_fuerte": "Las familias porteñas podrán refinanciar sus deudas de tarjetas de crédito y préstamos en mora con más plazo y una tasa de interés fija. Es un alivio para la clase media que trabaja, se esfuerza y quiere ponerse al día."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Turismo",
+                "Fin de semana largo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Promueve el turismo como motor económico, pero sin confrontar con Nación. Es un refugio en la gestión de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obra cultural",
+                "Renovación de edificio"
+            ],
+            "postura_politica": "Gestión protocolar aislada. La renovación del Domo del Centenario es una obra menor que no trasciende lo local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Aniversario de pueblo",
+                "Obras públicas"
+            ],
+            "postura_politica": "Gestión provincial con foco en el interior. Muestra obras en localidades pequeñas para reforzar arraigo, pero sin contenido federal.",
+            "frase_fuerte": "Y no hay mejor manera de honrar ese legado que con obras. Por eso, en este nuevo aniversario avanzamos con nuevas viviendas, más infraestructura y la ampliación de la red de gas."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Condolencias policiales"
+            ],
+            "postura_politica": "Respuesta institucional a un hecho trágico. No hay cálculo político visible más allá del acompañamiento a la fuerza policial.",
+            "frase_fuerte": "Su partida conmueve profundamente. Cada día, los hombres y mujeres de nuestra @PoliciaCbaOf arriesgan su vida con valentía y compromiso para proteger a los cordobeses y sostener la paz social."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Aniversario de localidad"
+            ],
+            "postura_politica": "Efeméride sin posicionamiento. Peso bajo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Gastronomía",
+                "Salud",
+                "Medicamentos"
+            ],
+            "postura_politica": "Doble jugada: promociona el turismo gastronómico (reconocimiento Michelin) y muestra eficiencia en salud pública con ahorro del 80%. Se posiciona como gestor moderno y eficiente, sin mencionar a Nación, pero implícitamente contrasta con el relato de ajuste nacional.",
+            "frase_fuerte": "La salud también se fortalece gestionando con eficiencia. Reducir costos sin resignar calidad nos permite garantizar el acceso a tratamientos de alta complejidad y hacer un uso responsable de los recursos públicos."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Agua potable",
+                "Obra hídrica"
+            ],
+            "postura_politica": "Gestión local de infraestructura básica. Sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Estadísticas delictivas"
+            ],
+            "postura_politica": "Enfatiza resultados en seguridad, un tema de alta sensibilidad. Muestra que su gestión está dando frutos, sin mencionar coordinación con Nación. Es un mensaje de autonomía y eficacia.",
+            "frase_fuerte": "Las estadísticas difundidas a nivel nacional ratifican que en Neuquén los índices delictivos continúan en descenso. Es una señal clara de que las decisiones que tomamos están dando resultados."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Juventudes",
+                "Participación política"
+            ],
+            "postura_politica": "Anuncio de designación de una secretaria de juventudes. Es un movimiento de baja intensidad, apunta a renovación generacional pero sin relevancia federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obra aeroportuaria",
+                "Inversión"
+            ],
+            "postura_politica": "Muestra una inversión de 50 millones de dólares en el aeropuerto, destacando la participación de empresas locales. Es un mensaje de desarrollo provincial, pero sin mencionar a Nación.",
+            "frase_fuerte": "Esta primera etapa marca el inicio de un proyecto estratégico para Tucumán, con una inversión superior a los 50 millones de dólares, que permitirá contar con un aeropuerto más moderno, amplio, eficiente y preparado para acompañar el crecimiento de nuestra provincia."
+        }
+    ]
+}
