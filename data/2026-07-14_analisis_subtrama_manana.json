@@ -1,0 +1,147 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por un coro de gobernadores que contrastan su gestión provincial con la parálisis nacional. Llaryora y Weretilneck explicitan que siguen haciendo obras mientras el país se detiene. Macri refuerza su perfil de mano dura en seguridad. Ziliotto reivindica la memoria. La subtexto es una disputa por la legitimidad de la gestión: las provincias se presentan como islas de eficiencia frente a un gobierno nacional ausente o ineficaz.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante de la jornada es la brecha entre el activismo provincial y la inacción nacional. Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro) utilizan sus plataformas para subrayar que, mientras el gobierno de Javier Milei congela la obra pública, sus provincias continúan invirtiendo con recursos propios. Llaryora es explícito: 'En un país donde las obras están paralizadas, en Córdoba seguimos haciendo'. Weretilneck, por su parte, enumera 121 obras con fondos provinciales. No es casualidad que ambos sean de provincias centrales y con peso fiscal. La omisión de cualquier mención a la Nación en estos tuits es un mensaje en sí mismo: la gestión se legitima por sí sola, sin necesidad de la Casa Rosada.\n\nActo 2 — Los Alineamientos: Se dibujan dos campos. Por un lado, los gobernadores que se posicionan como gestores autónomos y críticos implícitos del ajuste nacional: Llaryora, Weretilneck, y en menor medida Zdero (Chaco) con sus exportaciones caprinas. Por otro, los que se mantienen en una agenda local sin roce federal: Jalil (Catamarca) con créditos a pymes, Pullaro (Santa Fe) con escrituras, Suárez (Santiago del Estero) con filosofía. Macri (CABA) se ubica en un carril propio de seguridad, reforzando su perfil de derecha dura, sin confrontar directamente con Nación pero marcando territorio. Ziliotto (La Pampa) introduce la agenda de derechos humanos, un contrapunto ideológico al relato oficial.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas o con menor peso político se refugian en la gestión de cabotaje. Jalil apuesta al turismo y al crédito; Zdero celebra exportaciones; Cornejo (Mendoza) moderniza hospitales; Figueroa (Neuquén) planifica con municipios. Son gestos de supervivencia: muestran que gobiernan, aunque el contexto nacional sea adverso. No hay grandes declaraciones, pero el silencio sobre la macroeconomía es elocuente: evitan posicionarse para no quedar atrapados en la grieta.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el saldo es mixto. Por un lado, ningún gobernador le declara la guerra abierta. Por otro, la narrativa de 'provincias que hacen solas' erosiona el relato de que el ajuste es necesario y compartido. La ausencia de menciones a Nación en los tuits de gestión es una forma de deslegitimación silenciosa. El capital político de Milei no se desploma, pero se filtra: las provincias le disputan la autoridad de la obra pública y la eficiencia.",
+    "temas_calientes": [
+        {
+            "tema": "Provincias que ejecutan obra pública propia contrastando con la parálisis nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y mano dura contra el delito",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo y exportaciones provinciales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Memoria y derechos humanos como posicionamiento ideológico",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Modernización de servicios públicos (salud, digitalización)",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "EN LA CAPITAL Y EN TODA LA PROVINCIA, LOS CORDOBESES HACEMOS\n\nRecorrimos junto a los vecinos los avances del plan de bacheo y repavimentación que estamos llevando adelante en los barrios Irupé, Horizonte y Parque Los Molinos.\n\nJunto a la @MuniCba trabajamos de manera coordinada para recuperar la red vial de la ciudad. Hoy tenemos 39 frentes de #obra en marcha, porque entendemos que mantener y mejorar la #infraestructura es una decisión de gestión que impacta directamente en la vida de la gente.\n\nEn un país donde la obras están paralizadas, en #Córdoba seguimos haciendo. \n\nCreemos en un Estado provincial que invierte para generar desarrollo, mejorar la seguridad vial y acompañar el crecimiento de cada barrio.\n\nEscuchar a los vecinos, recorrer las obras y cumplir con la palabra es la forma en la que gestionamos: con presencia, trabajo y resultados.\n\n#HacerParaCrecer",
+        "por_que_es_clave": "Llaryora no solo muestra gestión, sino que establece un contraste explícito con la parálisis nacional. Es un dardo directo a la política de ajuste de Milei, presentando a Córdoba como un oasis de obra pública. La frase 'en un país donde las obras están paralizadas' es una declaración de autonomía y una crítica velada al gobierno central.",
+        "pregunta_openarg": "¿Hasta qué punto la obra pública provincial puede sostenerse sin transferencias nacionales, y qué implica esto para la relación fiscal entre Nación y provincias?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y orden"
+            ],
+            "postura_politica": "Refuerza su perfil de mano dura, apuntando a villas como refugio de delincuentes. No menciona a Nación, pero se posiciona como garante del orden en la ciudad. Es un mensaje para su electorado de centro-derecha.",
+            "frase_fuerte": "Si los delincuentes creen que pueden refugiarse en una villa, están equivocados."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Turismo",
+                "Crédito a PyMEs",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en la Fiesta del Poncho y en ampliar el fondo de riesgo con CFI. Es gestión pura, sin roces con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Exportaciones",
+                "Producción caprina",
+                "Aniversario local"
+            ],
+            "postura_politica": "Celebra logros productivos y exportaciones a Arabia Saudita. No hay crítica a Nación, pero el mensaje de 'del Impenetrable al mundo' sugiere que Chaco se abre solo. Es un posicionamiento de gestión exitosa sin apoyo nacional.",
+            "frase_fuerte": "¡DEL IMPENETRABLE AL MUNDO!"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial",
+                "Seguridad penitenciaria"
+            ],
+            "postura_politica": "Es el más confrontativo de la jornada. Contrasta explícitamente la actividad cordobesa con la parálisis nacional. Se presenta como el gobernador que hace mientras Nación no hace. Un desafío directo al relato de ajuste de Milei.",
+            "frase_fuerte": "En un país donde las obras están paralizadas, en #Córdoba seguimos haciendo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Memoria",
+                "Derechos humanos",
+                "Dictadura"
+            ],
+            "postura_politica": "Conmemora el copamiento de Jacinto Arauz con un fuerte mensaje de Memoria, Verdad y Justicia. Es un posicionamiento ideológico que contrasta con el negacionismo de algunos sectores del oficialismo nacional. Marca territorio en la agenda de derechos humanos.",
+            "frase_fuerte": "A 50 años del copamiento de Jacinto Arauz, seguimos eligiendo la Verdad."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Modernización",
+                "Ahorro"
+            ],
+            "postura_politica": "Anuncia la llegada de sistemas automatizados de dispensación de medicamentos, destacando el ahorro de US$ 8,2 millones anuales. Es gestión eficiente sin mención a Nación. Se posiciona como un gestor moderno y austero.",
+            "frase_fuerte": "Mendoza se convertirá en la provincia con más sistemas automatizados de dispensación de medicamentos en hospitales públicos del país."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Planificación urbana",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Reunión con intendenta de Plottier para agenda de trabajo. Es gestión municipalista, sin contenido federal. No hay señales de conflicto ni alineamiento.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Obra pública",
+                "Expulsión de delincuentes",
+                "Aniversarios locales"
+            ],
+            "postura_politica": "Combina seguridad (expulsión de chileno) con obra pública propia. Enfatiza que Río Negro invierte $25.945 millones en obras mientras el contexto es adverso. Similar a Llaryora, pero más sutil. Se posiciona como un gobernador que actúa y coordina con fuerzas federales cuando es necesario.",
+            "frase_fuerte": "En Río Negro el que viene a delinquir no tiene lugar."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Escrituración"
+            ],
+            "postura_politica": "Entrega de escrituras en Rosario. Es gestión social sin confrontación. No hay mención a Nación. Pullaro se mantiene en un per bajo, evitando roces.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Cultura",
+                "Filosofía",
+                "Juventud"
+            ],
+            "postura_politica": "Recibe al filósofo Darío Sztajnszrajber para charlas sobre democracia. Es un evento cultural sin peso político federal. Se refugia en la agenda blanda.",
+            "frase_fuerte": null
+        }
+    ]
+}
