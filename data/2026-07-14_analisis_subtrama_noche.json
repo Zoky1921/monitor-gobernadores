@@ -1,0 +1,185 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por la confrontación de gobernadores peronistas (Kicillofok, Ziliotto) contra el ajuste nacional, mientras mandatarios de provincias productivas (Jalil, Cornejo) capitalizan el RIGI y la apertura exportadora. La seguridad y la obra pública propia marcan la agenda de los distritos centrales.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La subrama fiscal domina el tablero. Axel Kicillofok (Buenos Aires) retuitea con crudeza: 'Lo que Nación frenó, en la Provincia lo reactivamos'. Sergio Ziliotto (La Pampa) redobla: 'a pesar de la deuda del Gobierno nacional y con recursos propios'. Ambos exponen una estrategia de autonomía forzada: ante el repliegue de la Casa Rosada, el peronismo gobernante erige su propio Estado de bienestar provincial como vitrina de gestión y como ariete electoral. Martín Llaryora (Córdoba) se suma al coro con sutileza: 'en un país donde las obras están paralizadas, en Córdoba seguimos haciendo'. \n\nActo 2 — Los Alineamientos: Raúl Jalil (Catamarca) se posiciona como el socio pragmático del RIGI, celebrando los 709 millones de dólares para litio. Alfredo Cornejo (Mendoza) apuesta a la eficiencia sanitaria con automatización de medicamentos, sin roces con Nación. En las antípodas, Jorge Macri (CABA) y Rolando Figueroa (Neuquén) priorizan la seguridad y la infraestructura local, evitando pronunciarse sobre el conflicto fiscal. Leandro Zdero (Chaco) despliega su perfil exportador como carta de gestión. \n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Chubut, Río Negro, Santa Fe, Misiones, Santiago del Estero) se refugian en la agenda de cabotaje: inauguran obras menores, celebran aniversarios y promocionan eventos. Ignacio Torres (Chubut) y Alberto Weretilneck (Río Negro) muestran gestión propia sin mencionar a Nación, una omisión que revela cálculo: evitan desgastarse en una pulseada que no dominan. Maximiliano Pullaro (Santa Fe) limpia canales y entrega escrituras, manteniendo perfil bajo. \n\nActo 4 — Saldo Presidencial: El capital político de Javier Milei no se fortalece hoy. La ofensiva peronista provincial siembra dudas sobre la eficacia del ajuste, mientras los gobernadores aliados se concentran en mostrar resultados propios. La Casa Rosada gana tiempo con el RIGI, pero pierde la batalla comunicacional del día: los lemas 'frenó' y 'deuda' resuenan más fuerte que los logros de Caputo. El federalismo se consolida como campo de batalla preelectoral.",
+    "temas_calientes": [
+        {
+            "tema": "Confronación fiscal peronista contra el ajuste nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Aprovechamiento del RIGI para inversiones mineras",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Despliegue de seguridad como prioridad provincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Ampliación de exportaciones y conectividad comercial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Autonomía en gestión de obra pública sin apoyo nacional",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @gkatopodis)",
+        "texto": "RT @gkatopodis: Lo que Nación frenó, en la Provincia lo reactivamos. En #CarmenDePatagones estamos construyendo una nueva Planta Depurador…",
+        "por_que_es_clave": "El tuit sintetiza la estrategia de Kicillofok: capitalizar el descontento con el ajuste nacional exhibiendo gestión propia. Cada obra es un dardo a la Casa Rosada.",
+        "pregunta_openarg": "¿Puede la Provincia de Buenos Aires sostener el ritmo de inversión si Nación continúa recortando transferencias discrecionales?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obra pública provincial",
+                "Salud",
+                "Educación universitaria",
+                "Crítica a política exterior de Milei"
+            ],
+            "postura_politica": "Oposición militante. Cada posteo es una reivindicación de la gestión peronista frente al 'abandono' nacional. El RT de Carli_Bianco sobre la subordinación a Estados Unidos eleva el tono a disputa ideológica.",
+            "frase_fuerte": "Lo que Nación frenó, en la Provincia lo reactivamos."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Refinanciación de deudas"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en ley y orden como sello de gestión, sin mencionar a Nación. El silencio sugiere alineamiento tácito con el oficialismo.",
+            "frase_fuerte": "Mal día para los delincuentes. Buen día para los porteños de bien."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "RIGI",
+                "Inversión en litio",
+                "Turismo",
+                "Convenio con Bs. As."
+            ],
+            "postura_politica": "Alineamiento pragmático con Nación. Celebra la aprobación del RIGI como motor de desarrollo, destacando la inversión de USD 709 millones. Se muestra como gobernador productivo y abierto a acuerdos.",
+            "frase_fuerte": "La aprobación del RIGI para la ampliación del proyecto 3Q es una muy buena noticia para Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Exportaciones",
+                "Infraestructura",
+                "Educación",
+                "Tradiciones"
+            ],
+            "postura_politica": "Gestión provincial sin roces. Se enfoca en logros concretos (exportación de aceite de palo santo a Alemania, carne a Arabia Saudita) para mostrar eficacia, evitando confrontar con Nación.",
+            "frase_fuerte": "¡CHACO SIGUE ABRIENDO PUERTAS AL MUNDO!"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Gas para localidades",
+                "Obra pública",
+                "Aniversarios",
+                "Turismo"
+            ],
+            "postura_politica": "Agenda local con énfasis en presencia estatal. Reivindica la llegada del gas a Las Plumas y la repavimentación de la Ruta 40 con fondos propios, marcando autonomía, pero sin agresión directa a Nación.",
+            "frase_fuerte": "DESPUÉS DE 105 AÑOS EL GAS LLEGA A LAS PLUMAS"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Seguridad",
+                "Salud",
+                "Brigadistas en Venezuela"
+            ],
+            "postura_politica": "Oposición calculada. Compara la inversión provincial con la parálisis nacional ('En un país donde las obras están paralizadas, en Córdoba seguimos haciendo'). Se posiciona como gestor eficiente frente al desorden nacional.",
+            "frase_fuerte": "En un país donde la obras están paralizadas, en #Córdoba seguimos haciendo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Memoria",
+                "Soberanía energética"
+            ],
+            "postura_politica": "Oposición abierta. Denuncia la deuda del gobierno nacional y reivindica la inversión propia. Vincula la independencia con la defensa de los recursos naturales, en clara crítica a la política de Milei.",
+            "frase_fuerte": "Mientras tanto, a pesar de la deuda del Gobierno nacional y con recursos propios... La Pampa invierte $ 117 mil millones más en rutas provinciales."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud",
+                "Modernización"
+            ],
+            "postura_politica": "Gestión tecnocrática sin conflicto. Presenta la automatización de dispensación de medicamentos como ejemplo de eficiencia, evitando cualquier referencia a la macroeconomía o a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Aniversarios",
+                "Infraestructura hídrica",
+                "Turismo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a celebrar cumpleaños de localidades y obras menores. La omisión de la macroeconomía sugiere repliegue estratégico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura turística",
+                "Seguridad",
+                "Viviendas"
+            ],
+            "postura_politica": "Gestión provincial proactiva. Destaca las inversiones en Cerro Bayo y el operativo nieve, así como la baja de índices delictivos. Se muestra como gestor eficiente, sin enfrentarse a Nación.",
+            "frase_fuerte": "Vinimos a transformar la realidad y lo estamos logrando."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Justicia",
+                "Deportes",
+                "Seguridad"
+            ],
+            "postura_politica": "Gestión propia y planificación. Reitera 'Sabemos que falta. Pero este es el rumbo', transmitiendo continuidad. No menciona a Nación, pero la inversión propia es un mensaje implícito de autonomía.",
+            "frase_fuerte": "Las obras hablan del Río Negro que elegimos construir."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Prevención de inundaciones",
+                "Escrituras",
+                "Educación",
+                "Cultura"
+            ],
+            "postura_politica": "Gestión localista y técnica. Se enfoca en obras hídricas y entrega de documentos, mostrando un Estado presente. Evita cualquier confrontación con el gobierno nacional.",
+            "frase_fuerte": "Con planificación y obras nos preparamos para que el fenómeno de El Niño cause el menor daño posible."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Cultura",
+                "Educación",
+                "Relaciones institucionales"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Recibe a un filósofo y promueve actividades culturales. No hay posicionamiento sobre la coyuntura nacional.",
+            "frase_fuerte": null
+        }
+    ]
+}

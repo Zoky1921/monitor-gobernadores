@@ -1,0 +1,208 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron su agenda en la gestión provincial, marcando una clara diferencia con el escenario nacional. Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba) destacaron la continuidad de obras y servicios con fondos propios, contrastando con la parálisis de proyectos nacionales. Sergio Ziliotto (La Pampa) fue aún más allá, refiriéndose a la 'deuda del Gobierno nacional' y la importancia de no 'entregar soberanía'. En seguridad, Jorge Macri (Ciudad Autónoma de Buenos Aires) reafirmó la 'Ley y orden' con un aumento policial, mientras que Alberto Weretilneck (Río Negro) subrayó la expulsión de un delincuente extranjero. El desarrollo productivo y la inversión minera, como en Catamarca con el RIGI, también fueron focos importantes.",
+    "analisis_profundo": "La jornada federal de hoy estuvo marcada por un pronunciado énfasis en la autonomía y la capacidad de gestión de las provincias, con varios gobernadores delineando sus acciones en franco contraste con las políticas o la inacción del gobierno nacional. Axel Kicillof (Buenos Aires), a través de un retuit, afirmó que 'Lo que Nación frenó, en la Provincia lo reactivamos', ilustrando una postura reactiva y autogestionaria en infraestructura sanitaria y depuración de aguas. En esta misma línea crítica, Martín Llaryora (Córdoba) fue categórico al declarar: 'En un país donde la obras están paralizadas, en #Córdoba seguimos haciendo', consolidando la narrativa de un Estado provincial resiliente y proactivo que invierte en infraestructura vial, hídrica y penitenciaria con recursos propios.\n\nSergio Ziliotto (La Pampa) profundizó esta tensión, aludiendo a la 'deuda del Gobierno nacional' mientras su provincia 'invierte $ 117 mil millones más en rutas provinciales' sin 'entregar soberanía'. Su recordatorio del 'copamiento de Jacinto Arauz' y la defensa de la 'Memoria, Verdad y Justicia' refuerza un posicionamiento de defensa de principios fundamentales frente a posibles revisionismos nacionales.\n\nEn el ámbito de la seguridad, Jorge Macri (Ciudad Autónoma de Buenos Aires) mantuvo una línea discursiva de 'Ley y orden', anunciando la incorporación de nuevos policías y la persecución activa de delincuentes, incluso en 'villas', lo que resalta una gestión de seguridad con fuerte autonomía local. Alberto Weretilneck (Río Negro) complementó esta agenda al informar sobre la expulsión de un delincuente extranjero, enviando un mensaje claro sobre la intolerancia al delito y la coordinación interjurisdiccional.\n\nEl desarrollo económico y la apertura a mercados internacionales también figuraron prominentemente. Raúl Jalil (Catamarca) celebró la aprobación del RIGI para un proyecto de litio, viéndolo como una 'muy buena noticia' para la inversión y el empleo local. Leandro Zdero (Chaco) enfatizó la expansión de exportaciones de productos regionales, como aceite de palo santo y carne caprina, buscando consolidar la presencia provincial en mercados globales.\n\nOtros gobernadores como Alfredo Cornejo (Mendoza) se concentraron en la modernización de la salud pública con sistemas automatizados de medicamentos, buscando eficiencia y ahorro. Rolando Figueroa (Neuquén) articuló la monetización de Vaca Muerta con el desarrollo de obras y la planificación territorial, mientras que Maximiliano Pullaro (Santa Fe) se abocó a la preparación ante el fenómeno 'El Niño' con inversión en infraestructura hídrica. Elías Suárez (Santiago del Estero) promovió el pensamiento y diálogo como herramientas de desarrollo.\n\nEn resumen, la jornada mostró a los mandatarios provinciales priorizando una agenda de gestión local, con un marcado tono de autoafirmación y soberanía provincial, a menudo en implícito o explícito contraste con el gobierno central. La obra pública, la seguridad y el desarrollo productivo con inversión propia se consolidaron como los ejes discursivos más fuertes, reflejando una dinámica federal tensa pero con provincias activas en la búsqueda de soluciones para sus territorios.",
+    "temas_calientes": [
+        {
+            "tema": "Contraste Nacional-Provincial y Obra Publica",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@WeretilneckOK",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Exportaciones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad y 'Mano Dura'",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Gestion de Salud y Modernizacion",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Impacto Climatico y Prevencion",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "En un país donde la obras están paralizadas, en #Córdoba seguimos haciendo.",
+        "por_que_es_clave": "Destaca el contraste entre la parálisis de la obra pública a nivel nacional y la capacidad de gestión y continuidad de inversiones de la provincia con recursos propios, reflejando una tensión en las dinámicas federales.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Salud",
+                "Gestión provincial vs. nacional"
+            ],
+            "postura_politica": "Reafirma un rol activo del Estado provincial en áreas donde la Nación 'frenó' o se ausentó, destacando la continuidad de obras y servicios. Tono de contraste y defensa de la gestión provincial.",
+            "frase_fuerte": "Lo que Nación frenó, en la Provincia lo reactivamos."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad ciudadana",
+                "Incremento policial",
+                "Ley y orden"
+            ],
+            "postura_politica": "Línea dura en seguridad, priorizando la acción policial y la persecución del delito en la CABA. Enfatiza el control territorial y la protección de los porteños.",
+            "frase_fuerte": "No vamos a pedir perdón por cuidar a los porteños. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Inversión minera",
+                "RIGI",
+                "Desarrollo económico",
+                "Empleo",
+                "Turismo",
+                "MiPyMEs"
+            ],
+            "postura_politica": "Pro-inversión minera, destacando la aprobación del RIGI como motor de desarrollo y empleo. Fomenta el turismo y el apoyo a la economía local. Articula con organismos como el CFI.",
+            "frase_fuerte": "La aprobación del RIGI para la ampliación del proyecto 3Q en Fiambalá es una muy buena noticia para Catamarca. Representa más inversión, más producción y nuevas oportunidades de trabajo para los catamarqueños."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Exportaciones",
+                "Producción",
+                "Desarrollo local",
+                "Agregado de valor",
+                "Festividades locales"
+            ],
+            "postura_politica": "Impulsa la inserción del Chaco en mercados internacionales a través de la exportación de productos con valor agregado, fomentando el desarrollo productivo y la generación de empleo genuino.",
+            "frase_fuerte": "¡CHACO SIGUE ABRIENDO PUERTAS AL MUNDO! Un nuevo embarque de aceite esencial de palo santo, elaborado en Sáenz Peña por la empresa Heffner Oil, partió con destino a Alemania."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Aniversarios locales",
+                "Obras públicas",
+                "Desarrollo local",
+                "Turismo"
+            ],
+            "postura_politica": "Centrado en la gestión local y el desarrollo de los pueblos del interior, con foco en obras de infraestructura básica y fomento del turismo. Tono cercano a la comunidad.",
+            "frase_fuerte": "En su primer desfile, Rosita ya se convirtió en una de las grandes protagonistas del 126° aniversario de Puerto Pirámides."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Seguridad",
+                "Salud",
+                "Ayuda humanitaria"
+            ],
+            "postura_politica": "Enfocado en la continuidad de la obra pública con recursos propios, contrastando con la parálisis nacional. Prioriza la seguridad, la salud y la mejora de la infraestructura urbana. Destaca la solidaridad internacional.",
+            "frase_fuerte": "En un país donde la obras están paralizadas, en #Córdoba seguimos haciendo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Deuda nacional",
+                "Soberanía",
+                "Derechos humanos",
+                "Eficiencia estatal"
+            ],
+            "postura_politica": "Defiende la inversión provincial con recursos propios frente a la 'deuda del Gobierno nacional' y resalta la eficiencia del Estado pampeano sin 'entregar soberanía'. Reafirma el compromiso con los derechos humanos y la memoria histórica.",
+            "frase_fuerte": "Mientras tanto, a pesar de la deuda del Gobierno nacional y con recursos propios... La Pampa invierte $ 117 mil millones más en rutas provinciales."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Medicamentos",
+                "Tecnología",
+                "Eficiencia en la gestión",
+                "Ahorro de recursos"
+            ],
+            "postura_politica": "Promueve la modernización del sistema de salud pública a través de la incorporación de tecnología y una gestión eficiente que busca reducir costos y garantizar el acceso a tratamientos.",
+            "frase_fuerte": "Con esta primera etapa, Mendoza se convertirá en la provincia con más sistemas automatizados de dispensación de medicamentos en hospitales públicos del país."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Aniversarios locales",
+                "Espíritu provincial",
+                "Trabajo",
+                "Esperanza"
+            ],
+            "postura_politica": "Celebra las identidades locales y el espíritu de trabajo y superación de los misioneros. Tono de orgullo y reconocimiento a la comunidad.",
+            "frase_fuerte": "Puerto Leoni cumple 99 años y nos recuerda el espíritu con el que se forjó Misiones."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Rendición de cuentas",
+                "Planificación",
+                "Infraestructura turística",
+                "Seguridad",
+                "Desarrollo urbano",
+                "Impacto de Vaca Muerta"
+            ],
+            "postura_politica": "Enfatiza la transparencia y planificación de la gestión, vinculando el crecimiento de Vaca Muerta con obras concretas para toda la provincia. Promueve el turismo invernal y la seguridad en rutas.",
+            "frase_fuerte": "Queremos que la monetización de Vaca Muerta llegue a cada rincón de la provincia y que ese desarrollo se sienta dentro del metro cuadrado de cada vecino."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obra pública",
+                "Desarrollo local",
+                "Gestión de recursos",
+                "Deporte",
+                "Viviendas",
+                "Seguridad"
+            ],
+            "postura_politica": "Destaca la continuidad de la obra pública con fondos propios como una decisión política, modernización de leyes para desarrollo productivo, apoyo al deporte y gestión de viviendas. Enfatiza una política de seguridad estricta con coordinación nacional para expulsar delincuentes.",
+            "frase_fuerte": "En Río Negro el que viene a delinquir no tiene lugar."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Fenómeno climático 'El Niño'",
+                "Infraestructura hídrica",
+                "Escrituración de viviendas"
+            ],
+            "postura_politica": "Prioriza la prevención y la inversión en infraestructura para mitigar riesgos climáticos. Resalta la importancia de la seguridad jurídica en el acceso a la vivienda. Contrasta la inversión actual con la 'falta de inversión' pasada.",
+            "frase_fuerte": "Nos estamos ocupando de un fenómeno climático que puede llegar este año, limpiando canales e invirtiendo en infraestructura, maquinaria y recursos para estar preparados en caso de emergencia."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Cultura",
+                "Diálogo",
+                "Desarrollo de las comunidades",
+                "Filosofía"
+            ],
+            "postura_politica": "Promueve el acceso a la cultura, la reflexión y el diálogo como herramientas para el desarrollo de la provincia, especialmente para jóvenes y comunidades del interior.",
+            "frase_fuerte": "𝗘𝗟 𝗣𝗘𝗡𝗦𝗔𝗠𝗜𝗘𝗡𝗧𝗢 𝗬 𝗘𝗟 𝗗𝗜𝗔́𝗟𝗢𝗚𝗢 𝗖𝗢𝗠𝗢 𝗛𝗘𝗥𝗥𝗔𝗠𝗜𝗘𝗡𝗧𝗔𝗦 𝗣𝗔𝗥𝗔 𝗘𝗟 𝗗𝗘𝗦𝗔𝗥𝗥𝗢𝗟𝗟𝗢"
+        }
+    ]
+}
