@@ -1,0 +1,161 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por el choque entre Axel Kicillof y Jorge Macri en torno a seguridad y soberanía, mientras un grupo de gobernadores de perfil técnico y político variado reforzó un discurso de autonomía fiscal y gestión propia, sin mencionar a la Nación. El oficialismo nacional queda expuesto a críticas por la venta de tierras a extranjeros y la paralización de obras, mientras que la oposición peronista y algunos gobernadores de centro buscan capitalizar el descontento.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante de la jornada se concentra en dos frentes simultáneos. Por un lado, Axel Kicillof (Buenos Aires) lanza una ofensiva simbólica al retuitear la denuncia de Carli_Bianco contra la eliminación de límites a la compra de tierras rurales por extranjeros, iniciativa del gobierno de Javier Milei. Kicillof no solo cuestiona la política de recursos naturales, sino que promete una revisión \"desde diciembre de 2027\", marcando el terreno electoral y posicionando al peronismo como defensor de la soberanía. Por otro lado, Jorge Macri (CABA) responde con un acto de fuerza: la incorporación de 1.022 policías y un discurso de \"ley y orden\" que contrasta explícitamente con el \"desgobierno\" de Kicillof. La disputa Buenos Aires-CABA se convierte en el escenario principal de la grieta, con la seguridad como herramienta de confrontación política.\n\nActo 2 — Los Alineamientos: En este tablero, los gobernadores se dividen en tres grupos. Los socios estratégicos del oficialismo nacional, como Maximiliano Pullaro (Santa Fe) y Martin Llaryora (Córdoba), evitan confrontar directamente con Milei pero refuerzan la idea de que sus provincias son islas de eficiencia en un país paralizado. Pullaro destaca la limpieza de canales y la inversión en infraestructura hídrica, mientras Llaryora subraya que \"en un país donde las obras están paralizadas, en Córdoba seguimos haciendo\". Ambos se posicionan como gestores serios que no dependen de la Nación. En el polo opositor, Kicillof es el único que ataca de frente, pero el silencio de otros peronistas como Gildo Insfrán o Ricardo Quintela revela un repliegue táctico. Los gobernadores de provincias periféricas, como Leandro Zdero (Chaco) y Alberto Weretilneck (Río Negro), se refugian en la gestión local: rutas, exportaciones, agua potable. Su omisión de la macroeconomía es un mensaje claro: \"nosotros resolvemos solos\".\n\nActo 3 — La Micro-política: En las provincias más alejadas del centro, la agenda de cabotaje domina. Ignacio Torres (Chubut) celebra la llegada de gas a Las Plumas después de 105 años y la repavimentación de la Ruta 40 \"con fondos propios\". Rolando Figueroa (Neuquén) presume de liderar la creación de empleo privado gracias a Vaca Muerta, mientras Hugo Passalacqua (Misiones) se limita a un aniversario local y una buena noticia sin especificar. Elías Suárez (Santiago del Estero) presenta un programa de capacitación juvenil, sin roce federal. Estos gestos, aunque de bajo impacto, construyen una narrativa de autonomía que erosiona la capacidad de la Casa Rosada para imponer su relato de ajuste.\n\nActo 4 — Saldo Presidencial: Para Milei, la jornada no es favorable. Si bien Jorge Macri le da una victoria simbólica en seguridad, la ofensiva de Kicillof sobre la venta de tierras lo pone a la defensiva en un tema sensible para el electorado nacionalista. Además, la proliferación de gobernadores que reivindican la obra pública propia contradice el discurso de que el Estado nacional debe achicarse. El saldo es mixto: el oficialismo retiene el control de la agenda mediática con el acto de Macri, pero pierde capacidad de coordinación federal. La oposición peronista, por su parte, consolida un frente de resistencia sin coordinar públicamente, lo que sugiere que esperan el momento oportuno para capitalizar el desgaste.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y confrontación Buenos Aires vs CABA",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Soberanía y control de recursos naturales",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Obra pública provincial autónoma",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Empleo y economía regional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Gestión local sin referencia a Nación",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@EliasSuarezSDE",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Carli_Bianco)",
+        "texto": "Este jueves el Senado puede eliminar el único límite nacional a la compra de tierras rurales por extranjeros, a propuesta del gobierno de @JMilei. Esta decisión de rematar el país al mejor postor llega en un momento en que el escenario internacional volvió a poner al territorio, los recursos naturales y la seguridad exterior en el centro. La excepción no son las restricciones. La excepción sería la Argentina. (...) Hay una razón por la que cada vez más países regulan la compra de tierras por extranjeros. La tierra no es sólo un activo inmobiliario: alberga agua, minerales, energía, alimentos, infraestructura y posiciones estratégicas. Milei va a contramano del mundo, y arrastra a la Argentina en el camino. Pero que a nadie le quepa duda: el gobierno peronista que va a gobernar desde diciembre de 2027 va a revisar esta disposición de entrega del territorio nacional.",
+        "por_que_es_clave": "Kicillof no solo critica una política concreta de Milei, sino que se proyecta como el líder de la oposición que revertirá las medidas en 2027. Es un posicionamiento electoral directo que busca movilizar a la base peronista y nacionalista.",
+        "pregunta_openarg": "¿Es viable que un gobierno peronista en 2027 revierta la venta de tierras a extranjeros sin generar conflictos diplomáticos y jurídicos con inversores ya instalados?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "venta de tierras a extranjeros",
+                "soberanía",
+                "oposición a Milei",
+                "proyección electoral"
+            ],
+            "postura_politica": "Ofensiva. Se posiciona como defensor de la soberanía nacional y futuro presidente, atacando el núcleo de la política económica de Milei. No menciona gestión provincial, solo nacional.",
+            "frase_fuerte": "El gobierno peronista que va a gobernar desde diciembre de 2027 va a revisar esta disposición de entrega del territorio nacional."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "policía",
+                "ley y orden",
+                "confrontación con Kicillof"
+            ],
+            "postura_politica": "Ofensiva. Utiliza el acto de egreso de policías para marcar distancia con el 'desgobierno' de la provincia de Buenos Aires y reafirmar el modelo PRO de gestión. Es un mensaje directo a los votantes de centro-derecha.",
+            "frase_fuerte": "Mal día para los delincuentes. Buen día para los porteños de bien."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "rutas",
+                "exportaciones",
+                "empleo",
+                "educación"
+            ],
+            "postura_politica": "Autonomía gestora. Se enfoca en obras provinciales y logros exportadores sin mencionar a Nación. Refuerza la idea de que Chaco avanza por sí mismo.",
+            "frase_fuerte": "En el Chaco, 470 kilómetros de rutas están en obra actualmente. Recuperamos caminos que impulsan el desarrollo."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "aniversarios",
+                "gas",
+                "rutas",
+                "fondos propios"
+            ],
+            "postura_politica": "Autonomía gestora. Destaca obras financiadas con recursos provinciales, como la repavimentación de la Ruta 40 y la llegada de gas a localidades. Crítica implícita al abandono nacional.",
+            "frase_fuerte": "Durante años, la Ruta Nacional 40 (...) fue quedando en el abandono. Hoy estamos avanzando en su repavimentación completa, con fondos propios."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obras",
+                "infraestructura",
+                "agua",
+                "seguridad"
+            ],
+            "postura_politica": "Autonomía gestora con crítica velada. Afirma que Córdoba sigue haciendo obras mientras el país las paraliza. Se posiciona como gestor eficiente frente a la crisis nacional.",
+            "frase_fuerte": "En un país donde las obras están paralizadas, en #Córdoba seguimos haciendo."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "aniversarios",
+                "agua",
+                "buenas noticias"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a actos protocolares y gestión menor. No hay posicionamiento sobre temas nacionales.",
+            "frase_fuerte": "¡Excelente noticia! 💪🏻💪🏻💪🏻 Más trabajo y oportunidades para Misiones."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "empleo",
+                "Vaca Muerta",
+                "obras",
+                "seguridad"
+            ],
+            "postura_politica": "Autonomía gestora con orgullo provincial. Destaca el liderazgo en empleo y la gestión de recursos de Vaca Muerta. No menciona a Nación, pero subraya que el desarrollo se debe a la administración provincial.",
+            "frase_fuerte": "Neuquén lidera el crecimiento del empleo privado formal en el país con un 7,1% de aumento."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "producción",
+                "obras",
+                "seguridad",
+                "exportaciones"
+            ],
+            "postura_politica": "Autonomía gestora. Enfocado en obras provinciales y logros productivos. Menciona la expulsión de un delincuente como muestra de eficacia. No hay referencia a la Nación.",
+            "frase_fuerte": "Gobernar también es tomar decisiones. Y nosotros elegimos no detener la obra pública."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "infraestructura hídrica",
+                "escrituras",
+                "educación",
+                "festejos patrios"
+            ],
+            "postura_politica": "Autonomía gestora con crítica al pasado. Resalta la inversión en prevención de inundaciones y la entrega de escrituras, contrastando con el abandono previo. No polemiza con Nación.",
+            "frase_fuerte": "El nivel de abandono era tal que, realizando tareas de limpieza, llegamos a encontrar hasta una retroexcavadora tirada adentro de un canal."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "capacitación juvenil",
+                "cultura",
+                "visitas protocolares"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a eventos de formación y encuentros diplomáticos menores. No hay posicionamiento sobre la coyuntura nacional.",
+            "frase_fuerte": null
+        }
+    ]
+}

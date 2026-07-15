@@ -1,0 +1,170 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada se define por una aguda confrontación política, marcada por la disputa entre el Jefe de Gobierno de la Ciudad Autónoma de Buenos Aires (Jorge Macri) y el gobernador de la provincia de Buenos Aires (Axel Kicillof). Macri (Ciudad Autónoma de Buenos Aires) lanzó fuertes críticas a la gestión de seguridad bonaerense mientras exhibía logros propios. Kicillof (Buenos Aires), por su parte, atacó la propuesta del gobierno nacional sobre la venta de tierras y la política exterior. En contraste, otros gobernadores como Rolando Figueroa (Neuquén), Leandro Zdero (Chaco) y Martín Llaryora (Córdoba) se enfocaron en mostrar gestión local, obras públicas, crecimiento económico y preparación para desafíos climáticos, manteniendo una agenda más pragmática frente a la polarización central.",
+    "analisis_profundo": "La agenda federal de hoy se articula en torno a dos ejes principales: una intensa polarización inter-provincial y una marcada oposición a políticas nacionales. Jorge Macri (Ciudad Autónoma de Buenos Aires) ha capitalizado la jornada para destacar los avances en seguridad en su distrito, con la incorporación de más de mil nuevos policías y un enfoque de 'tolerancia cero con el delito'. Sin embargo, su discurso trasciende lo local al lanzar ataques directos y reiterados contra la administración de Axel Kicillof (Buenos Aires), utilizando frases como 'el conurbano está regalado a los delincuentes' y afirmando que CABA no se 'condena a convivir con lo peor del conurbano'. Estas declaraciones buscan posicionar a CABA como un modelo de gestión en seguridad frente a la provincia de Buenos Aires y, al mismo tiempo, proyectar una agenda política para el ciclo electoral de 2027, con referencias indirectas a una posible candidatura de Mauricio Macri. \n\nAxel Kicillof (Buenos Aires), en respuesta, centró su crítica en el gobierno nacional de Javier Milei, específicamente en la propuesta de eliminar límites a la compra de tierras rurales por extranjeros. Calificó la medida como un 'remate del país al mejor postor' y una acción 'a contramano del mundo', prometiendo una futura revisión por parte de un gobierno peronista en 2027. Esta postura no solo subraya una profunda diferencia ideológica con el modelo liberal del gobierno nacional, sino que también lo consolida como un líder opositor con una clara visión de país y una estrategia a mediano plazo.\n\nParalelamente a esta confrontación, varios gobernadores mantuvieron una agenda de gestión enfocada en el desarrollo local y provincial. Rolando Figueroa (Neuquén) puso en relieve el liderazgo de su provincia en la creación de empleo privado, conectándolo con la monetización de Vaca Muerta. Leandro Zdero (Chaco) destacó obras viales, programas de empleo y el impulso a las exportaciones locales. Alberto Weretilneck (Río Negro) mostró inversión en obras públicas con fondos propios y la modernización de leyes para diversificar la producción. Martín Llaryora (Córdoba) reafirmó su compromiso con obras de infraestructura, subrayando que 'en Córdoba no nos detenemos' frente a la parálisis nacional. Maximiliano Pullaro (Santa Fe) se ocupó de la prevención ante el fenómeno de El Niño, invirtiendo en infraestructura hídrica. Ignacio Torres (Chubut) y Elías Suárez (Santiago del Estero) también se enfocaron en obras y programas sociales respectivamente. En Misiones, Hugo Passalacqua mantuvo un tono general de fomento del trabajo y oportunidades. En conjunto, el panorama es de una fuerte disputa política nacional y regional, mientras otras provincias intentan avanzar con una gestión propia y proactiva.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación Política por Seguridad y Gestión Provincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Crítica a Políticas Económicas y Soberanía Nacional (RIGI/Tierras)",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Inversión en Obras Publicas e Infraestructura",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Fomento de Empleo y Desarrollo Productivo Regional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@LeandroZdero",
+                "@WeretilneckOK",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Preparación y Mitigación de Fenomenos Climaticos",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Carli_Bianco)",
+        "texto": "Este jueves el Senado puede eliminar el único límite nacional a la compra de tierras rurales por extranjeros, a propuesta del gobierno de @JMilei. Esta decisión de rematar el país al mejor postor llega en un momento en que el escenario internacional volvió a poner al territorio, los recursos naturales y la seguridad exterior en el centro.\n\nLa excepción no son las restricciones. La excepción sería la Argentina. Brasil limita la propiedad extranjera al 25% de la superficie de cada municipio. México conserva desde 1917 las restricciones constitucionales sobre las tierras ubicadas en fronteras y costas. China, Indonesia, Filipinas, Tailandia y Vietnam directamente reservan la propiedad de la tierra para nacionales. En Estados Unidos, la propiedad extranjera de tierras agrícolas está cada vez más bajo escrutinio tanto federal como estatal, y el propio Trump lanzó un plan de acción de seguridad agrícola para abordar dicha problemática.\n\nHay una razón por la que cada vez más países regulan la compra de tierras por extranjeros. La tierra no es sólo un activo inmobiliario: alberga agua, minerales, energía, alimentos, infraestructura y posiciones estratégicas.\n\nMilei va a contramano del mundo, y arrastra a la Argentina en el camino. Pero que a nadie le quepa duda: el gobierno peronista que va a gobernar desde diciembre de 2027 va a revisar esta disposición de entrega del territorio nacional.",
+        "por_que_es_clave": "El gobernador Axel Kicillof (Buenos Aires) emite una crítica contundente a una política económica clave del gobierno nacional (RIGI) que afectaría la soberanía territorial. La mención de que un futuro gobierno peronista la revisará, proyecta una confrontación política de gran envergadura hacia 2027, marcando una clara línea de oposición ideológica y estratégica.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Política territorial",
+                "Soberanía nacional",
+                "RIGI",
+                "Crítica al gobierno nacional",
+                "Planificación electoral (2027)"
+            ],
+            "postura_politica": "Adopta una postura de oposición frontal a políticas del gobierno nacional (Milei) que considera lesivas para la soberanía y los recursos naturales. Se posiciona como un defensor del patrimonio nacional y proyecta una reversión de estas políticas por parte de un futuro gobierno peronista en 2027, consolidando su rol de liderazgo opositor.",
+            "frase_fuerte": "el gobierno peronista que va a gobernar desde diciembre de 2027 va a revisar esta disposición de entrega del territorio nacional."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Política de seguridad urbana",
+                "Comparación inter-provincial",
+                "Crítica a la gestión bonaerense",
+                "Proyección política"
+            ],
+            "postura_politica": "Reafirma un modelo de 'ley y orden' en la Ciudad Autónoma de Buenos Aires (CABA) con fuerte inversión en seguridad. Utiliza la comparación explícita con la provincia de Buenos Aires para criticar la gestión de Axel Kicillof, posicionándose como garante de la seguridad y anticipando el debate electoral de 2027. Muestra un enfoque confrontativo y de diferenciación política.",
+            "frase_fuerte": "Malas noticias para los que quieren convertir esta Ciudad en lo peor del conurbano. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura vial",
+                "Empleo",
+                "Desarrollo productivo",
+                "Exportaciones"
+            ],
+            "postura_politica": "Enfocado en la gestión concreta, el impulso del empleo y el desarrollo productivo en Chaco, con énfasis en la expansión de rutas, programas de inserción laboral y el crecimiento de las exportaciones. Destaca la materialización de 'hechos' en su administración para impulsar el progreso local.",
+            "frase_fuerte": "Recuperamos caminos que impulsan el desarrollo, conectan localidades y mejoran la vida de los chaqueños, fortaleciendo también la producción y la circulación de quienes los transitan."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Desarrollo local",
+                "Aniversario de localidades",
+                "Infraestructura de servicios"
+            ],
+            "postura_politica": "Prioriza la gestión de obras y servicios básicos en localidades de Chubut, especialmente en el marco de aniversarios locales. Enfocado en mejorar la calidad de vida de los habitantes, con énfasis en la concreción de obras y el acompañamiento al crecimiento de los pueblos.",
+            "frase_fuerte": "este aniversario también fue una oportunidad para seguir acompañando el crecimiento del pueblo. Por eso impulsamos nuevas obras, como la refacción integral del Hospital Rural y la construcción de la nueva cisterna para garantizar el abastecimiento de agua"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura vial",
+                "Desarrollo regional",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Exhibe un gobierno proactivo y constante en la ejecución de obras de infraestructura que mejoran la conectividad y calidad de vida en Córdoba, bajo la consigna 'HacerParaCrecer'. Destaca la continuidad de las obras a pesar del contexto nacional, resaltando la inversión provincial.",
+            "frase_fuerte": "En #Córdoba no nos detenemos. Seguimos haciendo obras que mejoran la vida de la gente y acompañan el crecimiento de nuestras ciudades."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Empleo",
+                "Oportunidades",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Mantiene un tono celebratorio y positivo, centrado en el impulso general al trabajo y las oportunidades en Misiones. Sus comunicaciones son concisas y buscan generar un sentimiento de avance y optimismo en la provincia.",
+            "frase_fuerte": "¡Excelente noticia! 💪🏻💪🏻💪🏻 Más trabajo y oportunidades para Misiones."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Empleo privado",
+                "Crecimiento económico",
+                "Inversión",
+                "Infraestructura",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Posiciona a Neuquén como líder nacional en generación de empleo privado, atribuyendo este éxito a una gestión eficiente que capitaliza el potencial de Vaca Muerta, transformando recursos en obras y oportunidades concretas para los neuquinos.",
+            "frase_fuerte": "Neuquén lidera el crecimiento del empleo privado formal en el país con un 7,1% de aumento del empleo registrado entre noviembre de 2023 y abril de 2026. Somos la provincia que más empleo genera en la Argentina."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo productivo (agricultura, regulación)",
+                "Obras públicas",
+                "Infraestructura local",
+                "Seguridad",
+                "Deportes"
+            ],
+            "postura_politica": "Presenta un gobierno enfocado en el desarrollo económico a través de la producción local, la modernización regulatoria y una fuerte inversión en obras con fondos propios en Río Negro. Además, mantiene una postura firme en materia de seguridad, destacando la expulsión de delincuentes extranjeros.",
+            "frase_fuerte": "Gobernar también es tomar decisiones. Y nosotros elegimos no detener la obra pública. Elegimos seguir invirtiendo en cada ciudad y en cada paraje porque sabemos que detrás de cada cordón cuneta, de cada escuela, de cada hospital o de cada red de agua hay familias que viven mejor y comunidades que tienen más oportunidades para crecer."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Preparación para fenómenos climáticos",
+                "Infraestructura hídrica",
+                "Obras públicas",
+                "Abandono de obras"
+            ],
+            "postura_politica": "Muestra un gobierno previsor y activo en la mitigación de riesgos climáticos, específicamente ante el fenómeno de El Niño en Santa Fe. Destaca la recuperación de infraestructura hídrica y la inversión en maquinaria tras años de 'falta de inversión' y abandono.",
+            "frase_fuerte": "Nos estamos ocupando de un fenómeno climático que puede llegar este año, limpiando canales e invirtiendo en infraestructura, maquinaria y recursos para estar preparados en caso de emergencia."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Programas sociales",
+                "Juventud",
+                "Capacitación",
+                "Educación",
+                "Desarrollo humano"
+            ],
+            "postura_politica": "Destaca el éxito de programas sociales enfocados en la juventud y la capacitación, promoviendo el desarrollo individual y el futuro de Santiago del Estero a través de la educación y formación. Se enfoca en el orgullo por los logros de los jóvenes y la inversión en el capital humano.",
+            "frase_fuerte": "Felicitamos con orgullo a esta primera camada de jóvenes que eligieron capacitarse, superarse y apostar a su futuro en su provincia"
+        }
+    ]
+}
