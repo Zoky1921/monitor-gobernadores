@@ -1,0 +1,274 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal de hoy se dividió entre un masivo entusiasmo por la clasificación de la Selección Argentina a la final del Mundial, compartido por la mayoría de los gobernadores, y persistentes fricciones políticas. Jorge Macri (Ciudad de Buenos Aires) mantuvo una fuerte retórica en seguridad, contraponiendo su gestión a la de Axel Kicillof (Buenos Aires). Sergio Ziliotto (La Pampa) enfatizó la inversión en obra pública con fondos propios, criticando la 'deuda del Gobierno nacional' y defendiendo la soberanía provincial. Otros mandatarios destacaron la continuidad de infraestructura, el fomento de exportaciones y el empleo, resaltando la autonomía financiera y el desarrollo local en un contexto nacional desafiante.",
+    "analisis_profundo": "La jornada política federal del 15 de julio de 2026 fue una amalgama de celebración y tensión. El hito deportivo de la Selección Argentina unió a la mayoría de los gobernadores en una efusiva muestra de patriotismo y alegría, con figuras como Axel Kicillof (Buenos Aires), Jorge Macri (Ciudad de Buenos Aires), Ignacio Torres (Chubut), Martín Llaryora (Córdoba), Rogelio Frigerio (Entre Ríos), Carlos Sadir (Jujuy), Ricardo Quintela (La Rioja), Claudio Poggi (San Luis), Maximiliano Pullaro (Santa Fe), Gerardo Zamora (Santiago del Estero), Gustavo Melella (Tierra del Fuego) y Osvaldo Jaldo (Tucumán) expresando su entusiasmo. Sin embargo, este espíritu de unidad no eclipsó las fracturas políticas preexistentes.\n\nUn foco de tensión recurrente provino de Jorge Macri (Ciudad de Buenos Aires), quien utilizó la agenda de seguridad para marcar una diferencia explícita con el gobierno de la provincia de Buenos Aires. Sus retweets y declaraciones directas, como la referencia a 'condenar a los porteños a convivir con lo peor del conurbano', delinean una estrategia de confrontación polarizante que busca capitalizar las preocupaciones por la seguridad y pintar un escenario de 'orden' en CABA frente al 'desgobierno' en la provincia vecina. Esto sugiere una escalada en la retórica preelectoral, donde la seguridad se erige como un eje central de disputa entre jurisdicciones.\n\nPor otro lado, Sergio Ziliotto (La Pampa) mantuvo una postura de firme defensa de la autonomía y capacidad de gestión provincial, aludiendo a la 'deuda del Gobierno nacional' y la importancia de invertir 'sin endeudarse, con orden fiscal y sin entregar soberanía'. Esta declaración es una crítica velada pero contundente a las políticas económicas de la administración central, reforzando la narrativa de un Estado provincial robusto y autosuficiente. Este enfoque es compartido por otros gobernadores como Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro), quienes destacaron la inversión en obra pública y el crecimiento económico financiado con recursos propios, a menudo presentándose como 'Islas de Desarrollo' en un contexto nacional complejo.\n\nTemas como la promoción de exportaciones (Leandro Zdero de Chaco y Raúl Jalil de Catamarca) y la modernización legislativa para el desarrollo productivo (Weretilneck de Río Negro con la ley de carnes) indican una búsqueda activa de vías provinciales para el crecimiento económico. La atención a programas de juventud y educación (Elías Suárez de Santiago del Estero y Leandro Zdero de Chaco) también subraya la inversión en capital humano a nivel subnacional. En suma, la jornada reflejó un federalismo dinámico donde, pese a la coyuntura de unidad nacional por el fútbol, las identidades y agendas provinciales se reafirmaron, a menudo en contraste o en confrontación con las políticas y narrativas del gobierno central o de provincias vecinas. El clima general, si bien matizado por la celebración deportiva, mantuvo un pulso de fricción y autonomía.",
+    "temas_calientes": [
+        {
+            "tema": "Fervor por la Selección Argentina",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@carlossadirjuy",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@gustavomelella",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Crítica inter-provincial (CABA vs. Bs.As.)",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Inversión en Obra Pública y Desarrollo con Recursos Propios",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Promoción Económica, Exportaciones y Empleo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@frigeriorogelio",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales, Educación y Derechos Humanos",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @danilerer)",
+        "texto": "\"Los que creen que vamos a condenar a los porteños a convivir con lo peor del conurbano, se equivocan\"",
+        "por_que_es_clave": "Esta frase subraya la polarización política en materia de seguridad entre la Ciudad de Buenos Aires y la Provincia de Buenos Aires, proyectando una imagen de eficiencia propia frente a una presunta deficiencia ajena. Es una clara delimitación territorial y política, con fuerte carga retórica, que intensifica la tensión inter-provincial.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Deporte"
+            ],
+            "postura_politica": "Su postura es de celebración y adhesión al fervor nacional por el éxito deportivo, sumándose al sentimiento unificador que genera la selección.",
+            "frase_fuerte": "🇦🇷VAMOS CAMPEÓN, A PURO CORAZÓN 🇦🇷"
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Crítica inter-provincial",
+                "Gestión",
+                "Deporte"
+            ],
+            "postura_politica": "Mantiene una fuerte agenda de seguridad, destacando el refuerzo policial en la Ciudad de Buenos Aires y confrontando directamente con la gestión de la Provincia de Buenos Aires. Se suma a la celebración deportiva nacional.",
+            "frase_fuerte": "Los que creen que vamos a condenar a los porteños a convivir con lo peor del conurbano, se equivocan"
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Promoción de la producción",
+                "Comercio internacional"
+            ],
+            "postura_politica": "Proactiva en la búsqueda de mercados externos y el fomento de la industria local, en este caso, el sector de diseño de moda.",
+            "frase_fuerte": "We discussed their collaborative projects with the Indian industry, including the possibility of exporting Argentine design to a highly competitive market."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública",
+                "Educación",
+                "Empleo",
+                "Desarrollo productivo",
+                "Exportación"
+            ],
+            "postura_politica": "Centra su gestión en la ejecución de obras de infraestructura educativa y vial, la generación de empleo y la apertura de mercados internacionales para la producción local.",
+            "frase_fuerte": "Agustín, productor de El Impenetrable, logró exportar su producción a Arabia Saudita desde el frigorífico de Pampa del Infierno. Gracias a #ProGaNo, se abren nuevos mercados internacionales."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Deporte",
+                "Aniversario local",
+                "Obra pública",
+                "Turismo",
+                "Servicios básicos",
+                "Capacitación"
+            ],
+            "postura_politica": "Se une a la celebración deportiva y reafirma el compromiso con el desarrollo de localidades y la mejora de servicios e infraestructura básica en la provincia.",
+            "frase_fuerte": "Por eso impulsamos nuevas obras, como la refacción integral del Hospital Rural y la construcción de la nueva cisterna para garantizar el abastecimiento de agua, además de fortalecer la capacitación, la seguridad vial, el turismo y el desarrollo de Puerto Pirámides."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Deporte",
+                "Derechos humanos",
+                "Memoria y Justicia",
+                "Obra pública",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Combina el apoyo fervoroso a la selección nacional con un compromiso firme con los derechos humanos y la búsqueda de la verdad histórica, junto a la continuidad de la obra pública en la provincia.",
+            "frase_fuerte": "ACOMPAÑAR LA BÚSQUEDA DE LA VERDAD TAMBIÉN ES CONSTRUIR FUTURO"
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Deporte",
+                "Desarrollo económico",
+                "Innovación",
+                "PyMES"
+            ],
+            "postura_politica": "Apoya al equipo nacional y promueve una visión proactiva en la modernización económica y la capacitación tecnológica para el sector productivo y las pequeñas y medianas empresas.",
+            "frase_fuerte": "Hoy firmamos el primer acuerdo que @salesforce hace con una provincia argentina: nuevas herramientas gratuitas de formación, capacitación de nivel mundial y más innovación para impulsar el desarrollo de los entrerrianos, en especial de nuestras PyMEs."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Deporte"
+            ],
+            "postura_politica": "Su postura es de celebración y apoyo incondicional a la selección nacional tras su avance a la final.",
+            "frase_fuerte": "¡Estamos en la final! ¡VAMOS ARGENTINA! 💪🇦🇷"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obra pública",
+                "Inversión pública",
+                "Federalismo",
+                "Autonomía financiera"
+            ],
+            "postura_politica": "Enfatiza la inversión pública con recursos propios como pilar de la gestión provincial, con un claro mensaje de autonomía y eficiencia frente a las políticas económicas de la Nación.",
+            "frase_fuerte": "Cada vivienda que entregamos es el resultado de una decisión política: sostener la inversión pública, generar trabajo local y garantizar que las oportunidades lleguen a cada pueblo de La Pampa."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Deporte"
+            ],
+            "postura_politica": "Muestra un fuerte orgullo nacional y celebra la unidad que el logro deportivo genera en el pueblo argentino.",
+            "frase_fuerte": "Este triunfo nos llena de orgullo y nos recuerda la fuerza que tiene nuestro pueblo cuando esta unido en espíritu."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Cultura local",
+                "Aniversarios municipales",
+                "Gobernanza"
+            ],
+            "postura_politica": "Enfatiza la importancia de la participación democrática y el diálogo para construir el futuro provincial, valorando la historia y la comunidad local.",
+            "frase_fuerte": "El camino para seguir construyendo es escuchar todas las voces de la democracia y ser valientes ante nuestras convicciones y nuestros valores. 🤝🏻"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Empleo privado",
+                "Desarrollo económico",
+                "Infraestructura",
+                "Vaca Muerta",
+                "Educación pública",
+                "Gobernanza"
+            ],
+            "postura_politica": "Destaca el liderazgo provincial en la generación de empleo y el desarrollo económico, anclado en la gestión eficiente de recursos de Vaca Muerta, con un compromiso con la educación y la rendición de cuentas.",
+            "frase_fuerte": "NEUQUÉN SIGUE ENCABEZANDO LA CREACIÓN DE EMPLEO PRIVADO EN EL PAÍS"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obra pública",
+                "Seguridad",
+                "Desarrollo productivo",
+                "Legislación",
+                "Deportes",
+                "Gobernanza"
+            ],
+            "postura_politica": "Impulsa una gestión activa con inversión en infraestructura, modernización productiva y fortalecimiento de la seguridad con fondos provinciales, enfatizando la importancia de no detener la obra pública.",
+            "frase_fuerte": "Gobernar también es tomar decisiones. Y nosotros elegimos no detener la obra pública."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obra pública vial",
+                "Federalismo",
+                "Deporte"
+            ],
+            "postura_politica": "Aboga por la transferencia de infraestructura vial nacional a la provincia para su mejora, destacando la importancia de la seguridad vial y celebrando los logros deportivos nacionales.",
+            "frase_fuerte": "Hoy firmamos un Convenio con la DIRECCIÓN NACIONAL DE VIALIDAD que nos permitirá en lo inmediato comenzar con la puesta en valor de la AVENIDA JOSÉ SANTOS ORTIZ (traza urbana de la ex Ruta Nac 7)."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obra pública",
+                "Inversión local",
+                "Desarrollo de comunidades"
+            ],
+            "postura_politica": "Resalta la inversión provincial en obras para el desarrollo de las localidades, buscando revertir años de postergación y generar nuevas oportunidades.",
+            "frase_fuerte": "Después de muchos años en los que las inversiones quedaron postergadas, tomamos la decisión política de invertir para el presente y el futuro de Puerto Deseado."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura",
+                "Prevención de desastres naturales",
+                "Obras hídricas",
+                "Producción"
+            ],
+            "postura_politica": "Combina la celebración nacional por el fútbol con un fuerte énfasis en la gestión proactiva para la prevención de desastres naturales y el desarrollo de infraestructura productiva, contrastando con el abandono pasado.",
+            "frase_fuerte": "Nos estamos ocupando de un fenómeno climático que puede llegar este año, limpiando canales e invirtiendo en infraestructura, maquinaria y recursos para estar preparados en caso de emergencia."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Deporte",
+                "Programas de juventud",
+                "Formación",
+                "Valores"
+            ],
+            "postura_politica": "Enfatiza la inversión en la juventud a través de programas de formación y capacitación, destacando valores como el esfuerzo y el trabajo en equipo, inspirados por la selección nacional.",
+            "frase_fuerte": "Desde el Gobierno de Santiago del Estero seguiremos impulsando políticas públicas que amplíen las oportunidades de formación y capacitación, convencidos de que invertir en nuestros jóvenes es invertir en el desarrollo de toda la provincia."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Deporte",
+                "Soberanía"
+            ],
+            "postura_politica": "Expresa orgullo nacional por el logro deportivo y reafirma la soberanía sobre las Islas Malvinas, vinculando el éxito colectivo con el sentimiento patriótico.",
+            "frase_fuerte": "Las Malvinas son Fueguinas y Argentinas 🧡🤍💙 🇦🇷"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Deporte"
+            ],
+            "postura_politica": "Manifiesta un fervoroso apoyo y orgullo por el logro de la selección nacional, destacando el espíritu y coraje argentino.",
+            "frase_fuerte": "Aprendimos a sufrir. Aprendimos a ser pacientes y sacar nuestra mejor versión. No quedan palabras para esta selección que representa el espíritu argentino: pasión, coraje y esperanza."
+        }
+    ]
+}
