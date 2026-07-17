@@ -1,0 +1,201 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "El día político federal se centró en la gestión subnacional y la participación en la Exposición Rural de Palermo, que se erige como un punto de encuentro clave para el sector agropecuario y el diálogo interprovincial con la Nación. Varios gobernadores (Chaco, Jujuy, Río Negro, San Luis) destacaron su presencia en la Rural para promover producciones locales y fortalecer agendas de desarrollo. En paralelo, la inversión en salud y educación a nivel provincial fue una constante, como lo demuestran acciones en Mendoza, Neuquén, Río Negro, Córdoba y Santiago del Estero. La Ciudad Autónoma de Buenos Aires avanzó con una reforma educativa, mientras que un gobernador (Catamarca) generó un debate simbólico con un tuit reivindicando una figura histórica.",
+    "analisis_profundo": "La jornada política federal transcurrió con un enfoque predominante en la gestión provincial y la articulación económica con el ámbito nacional, sin tensiones explícitas entre jurisdicciones. La 138ª Exposición Rural de Palermo se consolidó como un espacio neurálgico para el encuentro y la promoción de las economías regionales. Gobernadores como Leandro Zdero (Chaco) y Carlos Sadir (Jujuy) resaltaron su participación para apoyar a productores locales y proyectar sus provincias en mercados nacionales e internacionales, sumándose a la narrativa de 'El campo nos une'. Alberto Weretilneck (Río Negro) no solo compartió su presencia y la de otros colegas, sino que también enfatizó cómo su provincia lleva su 'potencial' y 'mejor genética' a Palermo, demostrando un modelo de desarrollo basado en la producción y la inversión. Claudio Poggi (San Luis) también se sumó a este despliegue.\n\nEn el plano de la política interna, Jorge Macri (CABA) impulsó una reforma del Estatuto Docente, priorizando el mérito y el presentismo, en línea con una agenda de 'Ley y Orden' también expresada en un retuit sobre seguridad. Esta postura contrasta con un modelo educativo más inclusivo y de fortalecimiento del sistema de salud público que se observa en otras provincias.\n\nLa inversión en infraestructura social y servicios esenciales fue un eje transversal para varios mandatarios. Alfredo Cornejo (Mendoza) y Alberto Weretilneck (Río Negro) anunciaron significativas inversiones en equipamiento hospitalario de última generación, mostrando un fuerte compromiso con la salud pública. En Neuquén, Rolando Figueroa destacó el inicio de obras en una nueva escuela técnica, y Martín Llaryora (Córdoba) hizo lo propio con infraestructura escolar y un enfoque federal que busca 'igualdad' en todo el territorio provincial. Elías Suárez (Santiago del Estero) también puso en valor proyectos educativos enfocados en la convivencia y el respeto.\n\nSergio Ziliotto (La Pampa) presentó un modelo de 'articulación público-privada' para el cuidado de adultos mayores, reafirmando una visión pragmática de la gestión. Maximiliano Pullaro (Santa Fe) se centró en iniciativas de apoyo social, inaugurando una sala de streaming para una institución que trabaja con personas en situación de calle.\n\nLa principal nota de discusión simbólica provino de Raúl Jalil (Catamarca), cuyo retuit enalteciendo a Julio A. Roca reaviva un debate histórico sobre la construcción nacional, con posibles lecturas sobre la visión de Estado y desarrollo que resuenan en el actual contexto político. Aunque no genera una confrontación directa interprovincial, su simbolismo es relevante. La ausencia de mensajes de confrontación directa o quejas hacia el gobierno nacional en el marco temporal estricto sugiere un día de relativa calma en la superficie, con la mayoría de los gobernadores enfocados en comunicar logros de gestión y participación en eventos que refuerzan la imagen de sus provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Promoción y Desarrollo Agropecuario Federal",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@carlossadirjuy",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Inversión y Fortalecimiento de la Salud Pública",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo de Infraestructura Educativa",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Impulso a la Producción y Exportaciones Locales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Reivindicación Histórica y Visión de Estado",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@RaulJalil_ok (RT de @CaucinoMariano)",
+        "texto": "En un nuevo aniversario del nacimiento del general Julio A. Roca, homenaje eterno al conquistador del Desierto, dos veces Presidente de la República, fundador de la Argentina moderna e integrante más prominente de una generación que transformó un desierto en la nación más avanzada de Sudamérica. Tributo y reconocimiento por su contribución al mayor acto de afirmación soberana argentina después de las guerras de Independencia, por sentar las bases de la construcción del Estado Nacional y consolidar las décadas más prósperas de nuestra historia.",
+        "por_que_es_clave": "El respaldo del gobernador (Catamarca) a un tuit que elogia enfáticamente a Julio A. Roca, una figura histórica profundamente divisiva, es una declaración política fuerte. Destaca una visión particular de la historia y la construcción del Estado nacional, que puede generar adhesiones o controversias. Esto puede ser leído como un alineamiento implícito con discursos que reivindican figuras históricas liberal-conservadoras, en un contexto donde el gobierno nacional también ha realizado gestos similares.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Educación",
+                "Seguridad",
+                "Reforma del Estado"
+            ],
+            "postura_politica": "Enfatiza la 'Ley y Orden' y la modernización de la gestión pública a través de reformas estructurales como el Estatuto Docente, alineándose con una visión meritocrática y de eficiencia.",
+            "frase_fuerte": "Cambiamos el Estatuto Docente y le pusimos fin a un sistema que nivelaba para abajo. El mérito, el esfuerzo, la vocación vuelven a importar. Se terminaron los kioscos pedagógicos y ya no da lo mismo estar o no en el aula. Ahora el presentismo pesa en la calificación."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Historia nacional",
+                "Federalismo",
+                "Construcción del Estado"
+            ],
+            "postura_politica": "Se alinea con una visión de la historia que enaltece figuras como Julio A. Roca, marcando una postura ideológica sobre la construcción de la Nación y la afirmación de la soberanía.",
+            "frase_fuerte": "En un nuevo aniversario del nacimiento del general Julio A. Roca, homenaje eterno al conquistador del Desierto, dos veces Presidente de la República, fundador de la Argentina moderna e integrante más prominente de una generación que transformó un desierto en la nación más avanzada de Sudamérica."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Desarrollo agropecuario",
+                "Exportaciones",
+                "Apoyo a productores"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con la promoción de las economías regionales y la inserción de la producción chaqueña en mercados internacionales, enfatizando el 'desarrollo del campo chaqueño' a través de la exportación.",
+            "frase_fuerte": "¡DEL IMPENETRABLE AL MUNDO! La segunda exportación de chivos y cabras, desde el frigorífico de Pampa del Infierno, consolida la inserción de la producción chaqueña en nuevos mercados internacionales."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Desarrollo digital",
+                "Economía del conocimiento",
+                "Infraestructura"
+            ],
+            "postura_politica": "Proyecta a su provincia como un hub de 'desarrollo digital' en Argentina, buscando atraer inversiones y generar empleo en sectores tecnológicos emergentes, reconociendo las 'condiciones únicas' de Chubut.",
+            "frase_fuerte": "CHUBUT TIENE TODO PARA CONVERTIRSE EN PROTAGONISTA DEL DESARROLLO DIGITAL DE LA ARGENTINA."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Educación",
+                "Federalismo",
+                "Gestión local"
+            ],
+            "postura_politica": "Subraya la importancia de la inversión provincial en infraestructura y educación como pilares para construir la 'igualdad' y un 'Córdoba más federal', priorizando la presencia del Estado en el territorio.",
+            "frase_fuerte": "La igualdad no se declama: se construye con decisiones, inversión y presencia en el territorio, escuchando a los vecinos y llevando respuestas concretas."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Sector agropecuario",
+                "Federalismo",
+                "Promoción provincial"
+            ],
+            "postura_politica": "Muestra el compromiso de Jujuy con el sector agropecuario nacional al participar en la Expo Rural de Palermo, buscando visibilidad y articulación federal para el desarrollo provincial.",
+            "frase_fuerte": "Gracias a la Sociedad Rural Argentina y a su presidente Nicolás Pino por invitarme a los 160 años de la SRA en el marco de la 138ª Exposición Rural de Palermo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Articulación público-privada",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Defiende un modelo de gestión que combina la intervención estatal con la participación privada para el bienestar social, priorizando el cuidado de los mayores y el crecimiento de cada localidad con pragmatismo.",
+            "frase_fuerte": "Tanto sector privado como sea posible, tanto Estado como sea necesario: en La Pampa seguimos trabajando para que cada lugar de la provincia siga creciendo."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Infraestructura hospitalaria",
+                "Modernización"
+            ],
+            "postura_politica": "Resalta la inversión en tecnología de 'última generación' para el sistema de salud pública, buscando mejorar la atención neonatal y fortalecer la infraestructura médica provincial.",
+            "frase_fuerte": "En el Hospital Regional Diego Paroissien incorporamos equipamiento de última generación para la atención de recién nacidos en la sala de parto, brindando mayor seguridad desde el primer minuto de vida."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Medicina avanzada",
+                "Reconocimiento profesional"
+            ],
+            "postura_politica": "Destaca el valor de la medicina argentina de referencia y el compromiso con la formación de profesionales, impulsando el fortalecimiento de la salud pública provincial a través del intercambio de conocimientos.",
+            "frase_fuerte": "Fue un honor y un orgullo recibir al Dr. Horacio Vogelfang, un referente de la medicina argentina y pionero del trasplante cardíaco infantil en Latinoamérica."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Educación técnica",
+                "Infraestructura",
+                "Promoción productiva",
+                "Expo Rural"
+            ],
+            "postura_politica": "Prioriza la inversión en 'educación pública' y 'educación técnica' como motores de movilidad social y desarrollo, al tiempo que promueve las producciones regionales de Neuquén en eventos nacionales.",
+            "frase_fuerte": "COMENZARON LAS OBRAS DE LA NUEVA EPET DE NEUQUÉN CAPITAL."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Diálogo federal",
+                "Agroindustria",
+                "Salud pública",
+                "Programas sociales"
+            ],
+            "postura_politica": "Muestra una fuerte presencia en la arena federal (Expo Rural) para fortalecer el sector agropecuario, y una gestión activa en salud pública y programas sociales, con inversiones en infraestructura y servicios esenciales.",
+            "frase_fuerte": "EN PALERMO, DIÁLOGO FEDERAL PARA FORTALECER AL CAMPO."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Sector agropecuario",
+                "Diálogo federal",
+                "Promoción provincial"
+            ],
+            "postura_politica": "Participa activamente en la Exposición Rural de Palermo, destacando el apoyo a los 'emprendedores/productores' de San Luis y la importancia de los espacios de diálogo federal.",
+            "frase_fuerte": "CABA - Agasajo especial a los GOBERNADORES de las Provincias por parte de la SOCIEDAD RURAL ARGENTINA en el primer día de la 138 Edición de la Expo Rural."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Apoyo a instituciones",
+                "Desarrollo comunitario"
+            ],
+            "postura_politica": "Se enfoca en el 'acompañamiento' a instituciones que trabajan con 'personas en situación de calle', destacando programas de apoyo social y la generación de 'espacios de encuentro y participación' a nivel local.",
+            "frase_fuerte": "Vamos a seguir acompañando las instituciones con programas como APRECOD y Nueva Oportunidad, que permiten generar espacios de encuentro y participación."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Educación",
+                "Valores sociales",
+                "Primera infancia"
+            ],
+            "postura_politica": "Pone en valor proyectos educativos innovadores en la primera infancia, que promueven la 'participación, el respeto y la opinión' como pilares para el desarrollo de la convivencia y el aprendizaje desde temprana edad.",
+            "frase_fuerte": "Visité el Jardín de Infantes de la Escuela Normal Superior 'General Manuel Belgrano' de la ciudad Capital, donde las docentes y los más chicos me compartieron un proyecto maravilloso que me llenó de orgullo: 'Una propuesta para conocer desde el jardín la participación, el respeto y la opinión de cada compañero'."
+        }
+    ]
+}

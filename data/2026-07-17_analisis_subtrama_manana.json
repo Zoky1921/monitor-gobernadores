@@ -1,0 +1,328 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada expone una fractura bipolar: Axel Kicillof (Buenos Aires) intensifica su perfil de resistencia nacional con críticas directas a la ley de Propiedad Privada y al ajuste, mientras que la mayoría de los gobernadores se repliegan en gestión local o efemérides, evitando posicionarse. Pullaro (Santa Fe) y Jalil (Catamarca) equilibran con anuncios de inversión y orden fiscal. El tablero muestra un conurbano en pie de guerra y un interior que prioriza la supervivencia administrativa y las señales de diálogo con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante de la jornada es la disputa por la narrativa de la asfixia fiscal y la soberanía territorial. Kicillof, con tres posteos de alto calibre, marca la cancha al denunciar que el proyecto de 'Propiedad Privada' es una 'venta del territorio argentino' y al contrastar la inauguración de centros de salud con la pérdida de empleos y obra social por políticas nacionales. No es solo crítica: es la construcción de un relato de resistencia y reemplazo del Estado nacional por el provincial. En la vereda opuesta, Jorge Macri (CABA) refuerza el discurso de 'Ley y Orden' con el egreso de 1.022 policías, contrastando implícitamente con la inseguridad del conurbano que gobierna Kicillof. \n\nActo 2 — Los Alineamientos: Se consolidan dos polos. El primero, el bloque de gobernadores 'dialoguistas' o de perfil productivo que evitan confrontar a Milei: Pullaro (Santa Fe) con su agenda de obras y preparación para El Niño; Jalil (Catamarca) mostrando la aprobación del RIGI para el litio y un bono a empleados públicos; Frigerio (Entre Ríos) con su récord de transparencia fiscal; y Cornejo (Mendoza) con inversión en salud y tecnología. Ellos buscan capitalizar la gestión como moneda de cambio frente a la Nación. El segundo polo, el de la resistencia peronista, se reduce a Kicillof, Ziliotto (La Pampa) con su reclamo histórico por el río Atuel, y Quintela (La Rioja) con su defensa de la soberanía territorial. No hay un 'nado sincronizado' opositor; Kicillof nada solo, aunque con potencia. \n\nActo 3 — La Micro-política: Las provincias periféricas y de menor peso se refugian en la agenda de cabotaje como mecanismo de supervivencia política. Zdero (Chaco) y Torres (Chubut) se enfocan en exportaciones y obras de infraestructura local (gas, rutas). Insfrán (Formosa) y Sáenz (Salta) se mantienen en efemérides y protocolo, un silencio que sugiere una estrategia de espera o de no incomodar a la Casa Rosada. La omisión de la macroeconomía en estos casos revela un cálculo de no desgastarse en una pelea que no pueden ganar. El saldo es una federación que no se quiebra, pero donde cada uno cuida su feudo. \n\nActo 4 — Saldo Presidencial: Para Milei, el saldo es mixto. La no comparecencia de gobernadores centrales como Llaryora (Córdoba) o Jalil en la trinchera opositora le da aire. Sin embargo, el bombardeo constante de Kicillof, el gobernador de la provincia más grande y con más recursos, siembra un ruido constante que erosiona la narrativa de 'revolución liberal'. La Casa Rosada gana en gobernabilidad fiscal (varios gobernadores se alinean con el orden), pero pierde la batalla cultural en el principal distrito electoral. La pregunta que queda es si Kicillof construye una plataforma para 2027 o solo se fortalece como líder de la resistencia sin consecuencias inmediatas.",
+    "temas_calientes": [
+        {
+            "tema": "Crisis de soberanía y modelo de Estado: Kicillof denuncia la ley de Propiedad Privada como entrega del territorio y defiende su gestión como alternativa al ajuste nacional.",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad como demarcación política: Macri (CABA) refuerza su perfil de 'orden' contrastando con el desgobierno del conurbano.",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Inversión y RIGI como señal de alineamiento productivo: Gobernadores de provincias mineras y agropecuarias muestran apoyo a proyectos de inversión.",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@DrMarceloOrrego",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Reclamo hídrico y litigio interprovincial: Ziliotto (La Pampa) mantiene vivo el conflicto con Mendoza por el río Atuel.",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Apagón político y gestión local: Gobernadores de provincias periféricas evitan posicionamientos nacionales y se refugian en agenda de obras y efemérides.",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@insfran_gildo",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "El proyecto de ley de Propiedad Privada que impulsa Milei en el Congreso no tiene otro objetivo que poner a la venta el territorio argentino. Esperemos que quienes tienen que votar hoy no se dejen extorsionar. Sigan el ejemplo que dio ayer la Selección, piensen en la celeste y blanca y defiendan nuestra soberanía.",
+        "por_que_es_clave": "Es la declaración política más fuerte del día. Kicillof no solo se posiciona como el líder de la oposición, sino que apela al sentimiento patriótico del Mundial para movilizar a los legisladores contra el oficialismo. Es un intento de nacionalizar el conflicto y deslegitimar a Milei como 'entreguista'.",
+        "pregunta_openarg": "¿Puede un gobernador bloquear efectivamente la agenda legislativa nacional desde su territorio, o es Kicillof un gigante con pies de barro si la economía no mejora en la Provincia?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Ley de Propiedad Privada",
+                "Salud Pública",
+                "Refinanciación PyMEs",
+                "Copa del Mundo",
+                "Infraestructura",
+                "Soberanía",
+                "Educación",
+                "Zona Fría"
+            ],
+            "postura_politica": "Oposición frontal a Milei. Construye un relato de Estado provincial eficiente que reemplaza al nacional ausente y denuncia al proyecto oficial como una amenaza a la soberanía. Busca posicionarse como el líder del peronismo para 2027.",
+            "frase_fuerte": "El proyecto de ley de Propiedad Privada que impulsa Milei en el Congreso no tiene otro objetivo que poner a la venta el territorio argentino."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y Orden",
+                "Educación (mérito)",
+                "Copa del Mundo"
+            ],
+            "postura_politica": "Refuerza su perfil de gestión y orden, contrastando su modelo con el de Kicillof. El tweet sobre el Estatuto Docente y la seguridad son armas arrojadizas contra el conurbano.",
+            "frase_fuerte": "Cambiamos el Estatuto Docente y le pusimos fin a un sistema que nivelaba para abajo. El mérito, el esfuerzo, la vocación vuelven a importar."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "RIGI Litio (3Q)",
+                "Bono empleados públicos",
+                "Relaciones internacionales",
+                "YMAD",
+                "Perón",
+                "Fiesta del Poncho"
+            ],
+            "postura_politica": "Alineamiento productivo con Nación. Muestra gestión y captación de inversiones (RIGI), combinado con concesiones sociales (bono). Busca equilibrar su perfil peronista con pragmatismo fiscal.",
+            "frase_fuerte": "La aprobación del RIGI para la ampliación del proyecto 3Q en Fiambalá es una muy buena noticia para Catamarca. Representa más inversión, más producción y nuevas oportunidades de trabajo."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Exportaciones (caprino, palo santo)",
+                "Obras de infraestructura",
+                "Educación",
+                "Turismo"
+            ],
+            "postura_politica": "Agenda de gestión provincial pura. Se enfoca en desarrollo productivo y exportaciones evitando cualquier roce nacional. Posicionamiento de bajo perfil y supervivencia administrativa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Infraestructura digital (fibra óptica)",
+                "Gas natural para localidades",
+                "Obras viales (Ruta 40)",
+                "Viviendas",
+                "Seguridad"
+            ],
+            "postura_politica": "Agenda local con guiños a Nación (reunión con Santilli). Foco en obras provinciales que resuelven problemas históricos. Evita la confrontación y se muestra como gestor.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obra pública provincial",
+                "Seguridad (CEMAX)",
+                "Incendios forestales",
+                "Memoria y DDHH",
+                "Salud (VSR)"
+            ],
+            "postura_politica": "Gestión pura, sin mención a Nación. Muestra a Córdoba como una isla de eficiencia en medio del parate nacional. Silencio elocuente sobre la macroeconomía.",
+            "frase_fuerte": "En un país donde la obras están paralizadas, en #Córdoba seguimos haciendo."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Régimen de Startups",
+                "Trazabilidad Ambiental",
+                "Producción ganadera",
+                "Efemérides"
+            ],
+            "postura_politica": "Agenda de gestión y legislación provincial. Perfil bajo, enfocado en desarrollo productivo e institucional. Sin conflicto con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Transparencia fiscal",
+                "RINI (Régimen de Inversiones)",
+                "Consejo Federal de Seguridad",
+                "Alivio impositivo a comercios"
+            ],
+            "postura_politica": "Gobernador más alineado con el discurso de orden fiscal de Milei. Destaca récords de transparencia y reducción de impuestos. Muestra a su provincia como ejemplo de gestión.",
+            "frase_fuerte": "Entre Ríos alcanzó la máxima calificación nacional en transparencia fiscal. Es el resultado de una decisión muy clara: decirles la verdad a los entrerrianos."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Efemérides (aniversarios de localidades, Perón, Independencia)"
+            ],
+            "postura_politica": "Agenda protocolar aislada. Sin posicionamiento sobre temas nacionales. Repliegue en la historia y la identidad como refugio político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Relaciones internacionales (Ucrania, Reino Unido)",
+                "Mediación",
+                "Conectividad (5G)",
+                "Viviendas finalizadas por Nación"
+            ],
+            "postura_politica": "Agenda de gestión con perfil internacional. Muestra capacidad de diálogo y ejecución, incluso finalizando obras paralizadas. Sin conflicto y con perfil técnico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Conflicto hídrico con Mendoza (Río Atuel)",
+                "Obra pública provincial",
+                "Salud (Centro Oncológico)",
+                "Educación (Pruebas Aprender)",
+                "Soberanía energética"
+            ],
+            "postura_politica": "Único gobernador que plantea un conflicto abierto con otra provincia (Mendoza) por el agua. Su perfil es de resistencia y reclamo de federalismo, en sintonía opositora.",
+            "frase_fuerte": "¿HASTA CUÁNDO ESTA INJUSTICIA? No vamos a dejar de luchar por lo que nos corresponde. EL RÍO ATUEL TAMBIÉN ES PAMPEANO."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Soberanía territorial (ley de límites)",
+                "Feria del Libro",
+                "Diálogo con empresarios",
+                "Moratoria de Ingresos Brutos"
+            ],
+            "postura_politica": "Oposición declarada. Promulga ley contra límites de la dictadura y recibe a referentes del peronismo como Moreno. Marca un perfil de resistencia federal y cultural.",
+            "frase_fuerte": "Hoy promulgué la Ley N° 10.876 para ratificar nuestro rechazo a los límites impuestos por la dictadura militar. La soberanía territorial de La Rioja exige una defensa irrestricta."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud (tecnología y medicamentos)",
+                "Gastronomía (Guía Michelin)",
+                "Inversiones (Uber, hoteles)",
+                "Viviendas",
+                "Puente Luján-Perdriel"
+            ],
+            "postura_politica": "Gobernador de perfil modernizador y pro-mercado. Muestra gestión eficiente, inversión privada y apertura internacional. Sin conflicto con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Educación intercultural",
+                "Agua potable",
+                "Salud (trasplantes)",
+                "Turismo",
+                "Yerba mate"
+            ],
+            "postura_politica": "Agenda de gestión local con perfil social y cultural. Reunión con gobernador de Corrientes sugiere trabajo en bloque regional. Sin tensión con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Empleo privado (liderazgo nacional)",
+                "Infraestructura escolar",
+                "Turismo (Cerro Bayo)",
+                "Seguridad",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Gobernador que capitaliza el éxito económico de Vaca Muerta. Su discurso es de orgullo y gestión, destacando que Neuquén 'está en verde' mientras el país está en rojo. Sutil diferenciación.",
+            "frase_fuerte": "Neuquén lidera el crecimiento del empleo privado formal en el país con un 7,1% de aumento del empleo registrado. Somos la provincia que más empleo genera en la Argentina."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Expo Rural Palermo",
+                "Empleo privado (crecimiento)",
+                "Salud (ecógrafos)",
+                "Obra pública",
+                "Modernización de leyes"
+            ],
+            "postura_politica": "Perfil de gestión pragmática. Se muestra dialogando con el gobierno nacional y el campo. Destaca el crecimiento del empleo junto a Neuquén, marcando la diferencia con la media nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Salud (Guardia hospital)",
+                "RIGI (Diablillos)",
+                "Relaciones internacionales (Arabia Saudita)",
+                "Justicia y Seguridad",
+                "Medidas económicas para comercio"
+            ],
+            "postura_politica": "Gobernador de perfil federalista pragmático. Se reúne con ministros nacionales, impulsa el RIGI y anuncia medidas de alivio local. Sin confrontación directa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "RIGI (Vicuña)",
+                "Ley de Desarrollo Minero",
+                "Energía solar",
+                "Educación (Aprender)",
+                "Integración con Chile"
+            ],
+            "postura_politica": "Alineamiento total con la agenda productiva minera nacional. Es el mejor ejemplo de un gobernador que se monta al relato de Milei para atraer inversiones a su provincia.",
+            "frase_fuerte": "Celebro la aprobación del RIGI para Vicuña, el mayor proyecto minero de la historia de nuestro país. Más del 81% de los trabajadores directos son sanjuaninos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Salud (trasplantes renales y de córneas)",
+                "Convenio con Vialidad Nacional",
+                "Viviendas (Plan Tenemos Futuro)",
+                "Feria Caminos y Sabores"
+            ],
+            "postura_politica": "Agenda de gestión intensa en salud pública. Destaca logros quirúrgicos y de infraestructura. Perfil técnico y de resultados, evitando la política nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Turismo (Winter Swimming World Cup)",
+                "Conectividad aérea (Perito Moreno)",
+                "Obra pública",
+                "Diversificación económica"
+            ],
+            "postura_politica": "Gobernador con agenda de reactivación y obras. Se muestra dialogando con Nación (Vigilia con Milei) y generando eventos internacionales. Rompe con la idea de una Santa Cruz kirchnerista monolítica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Prevención climática (El Niño)",
+                "Obra pública",
+                "Educación",
+                "Bomberos en Venezuela",
+                "Digitalización del Estado"
+            ],
+            "postura_politica": "Gobernador de alto perfil en gestión. Se posiciona como un líder regional con capacidad de acción y respuesta. Logra que feliciten a su provincia por la ayuda internacional, un gesto de soft power.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Educación (arte, jóvenes)",
+                "Relaciones internacionales (Italia, Líbano)",
+                "Salud",
+                "Aniversario de la Ciudad"
+            ],
+            "postura_politica": "Agenda de gestión cultural y relaciones institucionales. Foco en formación y vínculos internacionales. Sin roce con Nación, perfil institucional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Mundial",
+                "Mensaje de bienvenida a Santilli",
+                "Salud (PROMEFU)",
+                "Reforma constitucional"
+            ],
+            "postura_politica": "Bajo perfil en la fecha. Se limita a la efeméride del Mundial y a un saludo protocolar a Santilli. La reforma constitucional es su tema local más relevante.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Aniversario de la Independencia (anfitrión)",
+                "Obras (Aeropuerto, Acueducto Vipos)",
+                "Salud",
+                "Gestión de residuos",
+                "Diálogo con gremios"
+            ],
+            "postura_politica": "Anfitrión del 9 de Julio. Su postura es de unidad y protocolo. Recibe a Milei y a gobernadores de todo el arco político, mostrando a Tucumán como tierra de diálogo y gestión.",
+            "frase_fuerte": "Ninguna provincia puede cambiar un límite con su propia ley; la Constitución es clara..."
+        }
+    ]
+}
