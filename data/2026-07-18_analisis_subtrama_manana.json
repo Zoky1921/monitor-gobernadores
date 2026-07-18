@@ -1,0 +1,160 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada conmemorativa por AMIA que une a gobernadores de distintos signos, mientras la gestión local y la eficiencia fiscal marcan la agenda provincial. Jorge Macri (CABA) profundiza su perfil de ajuste, mientras en el interior se destacan obras y fiestas populares. Sin disputas abiertas con Nación, pero con señales de autonomía en la gestión de recursos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada está dominada por el aniversario del atentado a la AMIA, que genera una convergencia inusual entre gobernadores de distinto signo político. Valdés (Corrientes), Frigerio (Entre Ríos), Cornejo (Mendoza) y Passalacqua (Misiones) coinciden en un reclamo de justicia que trasciende la grieta. Sin embargo, este gesto unificador no oculta la tensión subyacente: la ausencia de referencias a la macroeconomía o a la relación con Nación revela un repliegue calculado hacia temas de seguridad y memoria, evitando confrontar en un contexto de alta sensibilidad fiscal.\n\nActo 2 — Los Alineamientos: Jorge Macri (CABA) se posiciona como el principal aliado del discurso de ajuste nacional, eliminando 359 cargos gerenciales y proclamando la eficiencia como deber moral. Su figura, junto a la de Pullaro (Santa Fe) que celebra la eliminación de Rosario de la alerta de EE.UU., conforman un bloque de provincias que apuestan a la gestión ordenada y la seguridad como ejes. En contraste, gobernadores periféricos como Jalil (Catamarca) se refugian en la agenda local (fiesta del Poncho) sin emitir señales de conflicto, en una estrategia de supervivencia política.\n\nActo 3 — La Micro-política: Llaryora (Córdoba) y Figueroa (Neuquén) despliegan una intensa agenda de obras e infraestructura, reafirmando su autonomía frente a un Estado nacional que perciben ausente. Saenz (Salta) se muestra en terreno, combatiendo incendios, una gestión de cercanía que busca capitalizar la crisis inmediata. Weretilneck (Río Negro) moderniza la ley de carnes, un gesto de innovación productiva que intenta diversificar la economía provincial. Cada uno de estos movimientos es una pieza en el tablero de la asfixia fiscal: mostrar gestión es reclamar capacidad de autogobierno.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada no ofrece confrontación directa, pero sí una advertencia silenciosa. La proliferación de conmemoraciones y actos locales sin mención al gobierno nacional sugiere un 'apagón político' coordinado: los gobernadores evitan asociarse con el ajuste, pero tampoco lo atacan. El capital político de Milei se mantiene estable, pero la omisión de la macroeconomía en los tuits es una señal de que las provincias priorizan su propia agenda de cabotaje, dejando al presidente sin socios visibles para su relato de recuperación.",
+    "temas_calientes": [
+        {
+            "tema": "Conmemoración del atentado a la AMIA (32 años)",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok",
+                "@frigeriorogelio",
+                "@alfredocornejo",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Eficiencia del Estado y reducción de cargos gerenciales",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Obras de infraestructura y gestión local",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Emergencia y seguridad (incendios, alerta internacional)",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Promoción de productos regionales y festivales",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Rada querido, esta semana se cumple un mes de ese abrazo y el asado que compartimos con Héroes de Malvinas en Santa Fe. Hoy nos toca despedirte recordando el compromiso y el legado que dejás. Hace un tiempo atrás me pediste que en la nueva Constitución de Santa Fe exista un artículo dedicado a Malvinas. Y en ese artículo, que hoy existe, se encuentra el trabajo de toda tu vida. No tengo dudas de que esta semana fue muy importante para vos que a Malvinas querías 'volver con DNI y no con pasaporte'. Un fuerte abrazo a su familia, a sus seres queridos y a toda la comunidad de Héroes en este momento de dolor. Mientras haya un santafesino en el mundo, la causa Malvinas que Rubén defendió, será para siempre nuestra bandera irrenunciable.",
+        "por_que_es_clave": "Pullaro aprovecha un homenaje personal para vincular su gestión con la causa Malvinas, un tema de alto valor simbólico y transversal. La mención a la Constitución provincial y la frase 'volver con DNI y no con pasaporte' refuerzan su perfil nacionalista y federal, enviando un mensaje de autonomía política frente a la Nación.",
+        "pregunta_openarg": "¿Es la causa Malvinas una herramienta de posicionamiento político para gobernadores que buscan marcar distancia del gobierno nacional sin confrontar directamente?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Reducción de cargos gerenciales",
+                "Eficiencia del Estado",
+                "AMIA"
+            ],
+            "postura_politica": "Se posiciona como el ejecutor del ajuste fiscal en la Ciudad, alineándose con el discurso de orden y eficiencia del gobierno nacional. La eliminación de 359 cargos gerenciales es un guiño directo a la Casa Rosada, mostrando que su gestión es consecuente con el recorte del gasto público. La omisión de cualquier crítica a Nación refuerza su rol de aliado estratégico.",
+            "frase_fuerte": "La eficiencia del Estado no solo es una cuestión técnica: es un deber moral con los porteños que lo sostienen con su trabajo. Esto también es orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Fiesta Nacional del Poncho",
+                "Turismo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. La promoción de un festival cultural es una estrategia de refugio en la identidad provincial, evitando cualquier posicionamiento sobre la coyuntura nacional. No hay mención a Nación, lo que sugiere un cálculo de bajo perfil.",
+            "frase_fuerte": "¡Bienvenidos a la fiesta de todos los catamarqueños!"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Iluminación",
+                "Rutas"
+            ],
+            "postura_politica": "Refuerza su imagen de gestor eficiente con obras concretas, mostrando que la provincia avanza a pesar del contexto nacional. La ausencia de referencias a Nación es una señal de autonomía: 'Hacer para crecer' es su lema, y lo cumple sin pedir permiso.",
+            "frase_fuerte": "Estoy convencido de que una plaza iluminada y bien cuidada es mucho más que un espacio verde: es un lugar donde se fortalece la convivencia."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "AMIA",
+                "Memoria",
+                "Justicia"
+            ],
+            "postura_politica": "Se suma al coro de conmemoración por AMIA, un tema de consenso que le permite marcar un perfil de defensa de derechos humanos sin confrontar. La publicación es protocolo, pero la elección de la hora exacta (9:53) muestra un cálculo simbólico.",
+            "frase_fuerte": "Hoy, más que nunca, alzamos la voz para pedir justicia por las víctimas, sus familias y el país."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "AMIA",
+                "Memoria",
+                "Justicia"
+            ],
+            "postura_politica": "Idéntico gesto que Valdés, sumándose a la conmemoración nacional. Frigerio, de perfil dialoguista con Nación, aprovecha para mostrarse en sintonía con valores republicanos, sin desviarse de su agenda productiva.",
+            "frase_fuerte": "La memoria cobra sentido cuando va de la mano de la verdad y la justicia."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "AMIA",
+                "Memoria",
+                "Justicia"
+            ],
+            "postura_politica": "Cornejo se suma a la conmemoración, pero con un tono más duro: 'La impunidad sigue siendo una deuda inadmisible'. Esto le permite posicionarse como un defensor de la institucionalidad, sin alejarse del núcleo duro de la gestión.",
+            "frase_fuerte": "La memoria exige verdad, el terrorismo merece condena."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "AMIA",
+                "Memoria",
+                "Justicia"
+            ],
+            "postura_politica": "Conmemoración estándar, sin agregados. Passalacqua se mantiene en el terreno seguro de la memoria, evitando cualquier roce político. Es un gesto de baja intensidad.",
+            "frase_fuerte": "Que el recuerdo nos siga uniendo para que una tragedia como esta nunca más vuelva a repetirse."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura",
+                "Productos regionales"
+            ],
+            "postura_politica": "Figueroa despliega una agenda de gestión intensa, destacando inversiones en puentes y rutas, así como la promoción del chivito neuquino. Es una demostración de poder territorial: mientras Nación ajusta, Neuquén invierte con recursos propios. El mensaje es claro: la provincia es autosuficiente.",
+            "frase_fuerte": "Estamos cumpliendo con hechos. Mientras otros prometieron durante años, nosotros avanzamos con las obras que transforman la vida de los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Modernización de ley de carnes",
+                "Productos regionales",
+                "Expo Rural"
+            ],
+            "postura_politica": "La modernización de la ley de carnes para incluir jabalí y guanaco es un movimiento de innovación productiva que busca posicionar a Río Negro como provincia pionera en diversificación. El tuit es gestionario, pero la ausencia de mención a Nación sugiere que la provincia avanza por su cuenta.",
+            "frase_fuerte": "Río Negro está en marcha."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Incendios",
+                "Emergencia",
+                "Bomberos"
+            ],
+            "postura_politica": "Saenz se muestra en terreno, liderando la respuesta a una emergencia. Es una jugada de cercanía y gestión directa, que busca capitalizar la crisis para reforzar su imagen de gobernador presente. No hay menciones a Nación, lo que indica que la provincia maneja sus propios recursos.",
+            "frase_fuerte": "Les agradezco de corazón a los brigadistas, bomberos de la Policía de Salta, bomberos voluntarios y a todos los que trabajan sin descanso para combatir el fuego."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Malvinas",
+                "Homenaje",
+                "Constitución provincial"
+            ],
+            "postura_politica": "Pullaro utiliza un homenaje personal para vincular su gestión con la causa Malvinas, un tema de alto valor simbólico. La mención a la Constitución provincial y la frase 'volver con DNI y no con pasaporte' refuerzan su perfil nacionalista y federal, enviando un mensaje de autonomía política frente a la Nación.",
+            "frase_fuerte": "Mientras haya un santafesino en el mundo, la causa Malvinas que Rubén defendió, será para siempre nuestra bandera irrenunciable."
+        }
+    ]
+}
