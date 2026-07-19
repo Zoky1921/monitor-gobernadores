@@ -1,0 +1,238 @@
+{
+    "clima_general": "FRAGMENTADO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una marcada agenda provincial, donde los gobernadores enfocaron sus comunicaciones en la gestión local y la defensa de intereses regionales. Temas como la eficiencia estatal, el desarrollo de infraestructuras clave y el apoyo a la producción PyME dominaron los discursos. Se observaron puntos de acuerdo en la exigencia de justicia por el atentado a la AMIA, mientras que la cooperación interprovincial se manifestó en torno a temas como el federalismo productivo. El tono general reflejó una vocación por la autonomía en la resolución de problemas y la promoción de agendas propias, más allá de una coordinación federal explícita.",
+    "analisis_profundo": "El tablero federal de hoy revela una clara profundización de las agendas provinciales, con gobernadores priorizando la comunicación de acciones y logros específicos en sus jurisdicciones. Destaca el gobernador Jorge Macri (CABA) con una contundente campaña sobre la reducción de cargos jerárquicos y la eficiencia del Estado, marcando una postura fiscalista y de reforma administrativa. En contraste, Axel Kicillof (Buenos Aires) enfatizó la necesidad de un diálogo plural y multisectorial, criticando los 'discursos de odio', lo que sugiere una tensión en el debate político nacional. \n\nLa infraestructura productiva y el desarrollo local fueron pilares. Nacho Torres (Chubut) resaltó inversiones en energía renovable, mientras que Rolando Figueroa (Neuquén) destacó una obra vial estratégica para Vaca Muerta, ambos evidenciando la orientación de sus gestiones hacia el crecimiento económico de sus regiones. Martín Llaryora (Córdoba) también se sumó con el anuncio de obras viales para mejorar la conectividad. La Pampa, con Sergio Ziliotto, reafirmó su soberanía económica a través del Banco de La Pampa y líneas de refinanciación para PyMEs. \n\nUn tema recurrente fue la exigencia de memoria y justicia por el atentado a la AMIA, un punto de consenso que unió a varios mandatarios como Gustavo Valdés (Corrientes), Rogelio Frigerio (Entre Ríos), Alfredo Cornejo (Mendoza) y Hugo Passalacqua (Misiones), aunque sin matices individuales. En Salta, Gustavo Sáenz se abocó a la gestión de emergencia por incendios, demostrando capacidad de respuesta provincial. \n\nLa cooperación entre provincias también tuvo su espacio, con Alberto Weretilneck (Río Negro) y Raúl Jalil (Catamarca) colaborando en la promoción de un federalismo productivo en el marco de la Fiesta del Poncho. Maximiliano Pullaro (Santa Fe) realizó un fuerte posicionamiento sobre la causa Malvinas, vinculándola a la Constitución provincial y la identidad santafesina. Elías Suárez (Santiago del Estero) puso el foco en la cultura como elemento de cohesión. La dispersión temática y la autoafirmación de las gestiones subraya un clima político caracterizado por la fragmentación de la agenda nacional en múltiples iniciativas locales.",
+    "temas_calientes": [
+        {
+            "tema": "Gobernanza y Eficiencia Estatal",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Desarrollo Productivo Regional",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Federalismo y Apoyo a Economías Provinciales",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@SergioZiliotto",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Memoria y Justicia (Caso AMIA)",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@frigeriorogelio",
+                "@alfredocornejo",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Seguridad Ciudadana y Gestión de Emergencias",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Rada querido, esta semana se cumple un mes de ese abrazo y el asado que compartimos con Héroes de Malvinas en Santa Fe. Hoy nos toca despedirte recordando el compromiso y el legado que dejás. Hace un tiempo atrás me pediste que en la nueva Constitución de Santa Fe exista un artículo dedicado a Malvinas. Y en ese artículo, que hoy existe, se encuentra el trabajo de toda tu vida. No tengo dudas de que esta semana fue muy importante para vos que a Malvinas querías 'volver con DNI y no con pasaporte'.",
+        "por_que_es_clave": "El gobernador Maximiliano Pullaro (Santa Fe) eleva la causa Malvinas a un nivel de política de Estado provincial, conectándola con la Constitución local y el tributo a un veterano. Esta declaración subraya la importancia de las agendas provinciales en la reafirmación de símbolos nacionales y la defensa de la soberanía, mostrando un fuerte compromiso con el federalismo identitario.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Diálogo Político",
+                "Justicia (AMIA)",
+                "Cohesión Social",
+                "Crítica a discursos de odio"
+            ],
+            "postura_politica": "Defiende una visión de país basada en el diálogo plural, el trabajo y la igualdad, contraponiéndola a discursos de agresión. Mantiene la exigencia de justicia por AMIA como una bandera de paz y memoria.",
+            "frase_fuerte": "Tenemos que volver a poner en el centro de nuestras preocupaciones cómo construimos un diálogo plural y multisectorial para que la Argentina vuelva a organizarse en torno al trabajo, la comunidad y la igualdad."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Reforma del Estado",
+                "Eficiencia Pública",
+                "Reducción de Gasto",
+                "Justicia (AMIA)"
+            ],
+            "postura_politica": "Promueve una drástica reducción de la planta administrativa y cargos gerenciales, argumentando un 'deber moral' de eficiencia. Se alinea con el reclamo de verdad y justicia por el atentado a la AMIA.",
+            "frase_fuerte": "La eficiencia del Estado no solo es una cuestión técnica: es un deber moral con los porteños que lo sostienen con su trabajo. Esto también es orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Cooperación Interprovincial",
+                "Desarrollo Pyme",
+                "Cultura y Turismo"
+            ],
+            "postura_politica": "Impulsa el federalismo a través de la colaboración con otras provincias y organismos como el CFI, para fortalecer el financiamiento PyME. Utiliza eventos culturales como la Fiesta del Poncho para potenciar la economía local y la identidad productiva.",
+            "frase_fuerte": "La Fiesta del Poncho es orgullo catamarqueño, y nos alegra que el @BancoNacion vuelva a estar presente acompañándonos."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Energía Renovable",
+                "Infraestructura",
+                "Desarrollo Económico",
+                "Empleo"
+            ],
+            "postura_politica": "Apuesta por la diversificación de la matriz energética con inversiones en infraestructura solar fotovoltaica, vinculando directamente estas obras con el desarrollo provincial, la generación de empleo y nuevas oportunidades.",
+            "frase_fuerte": "Porque invertir en infraestructura energética es invertir en desarrollo, en trabajo y en más oportunidades para cada comunidad de nuestra provincia."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Conectividad Regional",
+                "Seguridad Vial",
+                "Justicia (AMIA)",
+                "Gestión Local"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura vial para mejorar la conectividad y seguridad en el interior provincial, como motor de desarrollo económico. Mantiene un compromiso con la memoria y justicia por la AMIA y se enfoca en mejoras urbanas locales.",
+            "frase_fuerte": "MÁS CAMINOS Y CONECTIVIDAD PARA IMPULSAR EL DESARROLLO CORDOBÉS Seguimos cumpliendo los compromisos que asumimos con cada región de nuestra provincia."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Justicia (AMIA)",
+                "Memoria"
+            ],
+            "postura_politica": "Reafirma el pedido de verdad y justicia por el atentado a la AMIA, subrayando la impunidad como una deuda nacional y un compromiso con las víctimas y sus familias.",
+            "frase_fuerte": "El 18 de julio de 1994 a las 9:53 un coche bomba voló la AMIA y mató 85 argentinos. El 18 de julio de 2026 a las 9:53 aquel atentado sigue impune."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Justicia (AMIA)",
+                "Memoria"
+            ],
+            "postura_politica": "Se une al reclamo general por memoria, verdad y justicia para las víctimas del atentado a la AMIA, destacando la necesidad de mantener vivo el compromiso de la sociedad ante la impunidad.",
+            "frase_fuerte": "La memoria cobra sentido cuando va de la mano de la verdad y la justicia. A 32 años del atentado a la AMIA, el reclamo sigue vigente."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Apoyo Económico PyMES",
+                "Financiamiento Provincial",
+                "Soberanía Económica",
+                "Empleo"
+            ],
+            "postura_politica": "Resalta el rol del Banco de La Pampa para sostener la actividad económica y el empleo local, ofreciendo líneas de refinanciación para PyMEs. Enfatiza la importancia de un banco público para la soberanía provincial y el orgullo pampeano.",
+            "frase_fuerte": "Contar con un Banco público no sólo nos da soberanía para potenciar la producción y el trabajo, sino sentir aún más orgullo por ser pampeanos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Justicia (AMIA)",
+                "Memoria",
+                "Terrorismo"
+            ],
+            "postura_politica": "Subraya la impunidad del atentado a la AMIA como una 'deuda inadmisible', llamando a la verdad y condenando el terrorismo. Se suma al consenso federal sobre la importancia de la memoria.",
+            "frase_fuerte": "A 32 años del atentado a la AMIA, la impunidad sigue siendo una deuda inadmisible para la Argentina."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Justicia (AMIA)",
+                "Memoria",
+                "Prevención de Tragedias"
+            ],
+            "postura_politica": "Se suma al recordatorio de las víctimas del atentado a la AMIA y renueva el compromiso con la memoria y la justicia, con la esperanza de que tal tragedia no se repita. Enfoque en la unión social.",
+            "frase_fuerte": "Hoy recordamos a las 85 víctimas del atentado a la AMIA, abrazamos a sus familias y renovamos el compromiso con la memoria, la verdad y la justicia."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura Estratégica",
+                "Desarrollo Vaca Muerta",
+                "Gestión de Gobierno",
+                "Promoción Productiva"
+            ],
+            "postura_politica": "Enfocado en la ejecución de obras de infraestructura largamente esperadas, especialmente aquellas vinculadas al desarrollo de Vaca Muerta. Destaca la concreción de proyectos como una diferencia frente a promesas pasadas y promueve productos locales.",
+            "frase_fuerte": "Estamos cumpliendo con hechos. Mientras otros prometieron durante años, nosotros avanzamos con las obras que transforman la vida de los neuquinos, integran el territorio y generan oportunidades para cada localidad de la provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Cooperación Interprovincial",
+                "Infraestructura Agrícola",
+                "Obras Viales",
+                "Justicia (AMIA)"
+            ],
+            "postura_politica": "Promueve un federalismo activo a través del trabajo conjunto con otras provincias y organismos de inversión. Destaca las obras viales con diversas fuentes de financiamiento e inversiones en infraestructura de riego para la producción. Se une al reclamo por la AMIA.",
+            "frase_fuerte": "El verdadero federalismo no es un discurso. Es compartir experiencias, aprender unos de otros y trabajar en conjunto para que cada provincia pueda desarrollar todo su potencial."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Gestión de Emergencias",
+                "Incendios Forestales",
+                "Seguridad Pública",
+                "Coordinación Interinstitucional"
+            ],
+            "postura_politica": "Demuestra liderazgo proactivo en la gestión de crisis por incendios, supervisando las acciones en terreno y coordinando equipos. Enfatiza la cercanía con los vecinos y la prevención.",
+            "frase_fuerte": "Desde el primer momento estamos al lado de cada vecino, y así seguiremos, coordinando acciones desde todas las áreas del Gobierno para acompañarlos en este difícil momento."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Política Habitacional",
+                "Vivienda Social",
+                "Bienestar Familiar"
+            ],
+            "postura_politica": "Se centra en la entrega de viviendas como un compromiso cumplido que mejora la calidad de vida y brinda seguridad a las familias, generando un impacto social positivo y emotivo.",
+            "frase_fuerte": "Navidad del 2026 en la Vivienda propia !! Muy emotivo !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Seguridad Vial",
+                "Mantenimiento de Rutas",
+                "Prevención de Riesgos (Clima)"
+            ],
+            "postura_politica": "Prioriza la seguridad vial y la respuesta ante condiciones climáticas adversas, implementando operativos de distribución de sal en avenidas. Demuestra una gestión activa en la protección de los ciudadanos.",
+            "frase_fuerte": "DESDE VIALIDAD PROVINCIAL TRABAJAMOS PARA GARANTIZAR LA SEGURIDAD DE NUESTROS VECINOS EN RÍO GALLEGOS Ante las bajas temperaturas y la presencia de hielo sobre la calzada, desde Vialidad Provincial llevamos adelante un operativo de distribución de sal en las principales avenidas de Río Gallegos para mejorar las condiciones de circulación y contribuir a la seguridad de los vecinos y vecinas."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Causa Malvinas",
+                "Constitución Provincial",
+                "Patriotismo",
+                "Tributo a Veteranos"
+            ],
+            "postura_politica": "Articula la causa Malvinas con la identidad provincial y la reforma constitucional, honrando el legado de los veteranos. Su postura reafirma el compromiso de Santa Fe con los valores patrióticos y soberanos.",
+            "frase_fuerte": "No tengo dudas de que esta semana fue muy importante para vos que a Malvinas querías 'volver con DNI y no con pasaporte'."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Cultura",
+                "Identidad Provincial",
+                "Eventos Comunitarios"
+            ],
+            "postura_politica": "Destaca la importancia de eventos culturales emblemáticos como la Marcha de los Bombos, que fortalecen la identidad santiagueña y generan espacios de encuentro para miles de personas, proyectando la provincia a nivel nacional e internacional.",
+            "frase_fuerte": "Viví con enorme emoción una nueva edición de la XXIV Marcha de los Bombos y la XII Marcha de Cuerdas y Fuelles Santiagueños, expresiones culturales que forman parte de nuestra identidad y que, una vez más, reunieron a miles de santiagueños y visitantes de todo el país y del mundo."
+        }
+    ]
+}
