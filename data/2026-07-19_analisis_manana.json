@@ -1,0 +1,49 @@
+{
+    "clima_general": "CALMO",
+    "resumen_ejecutivo": "La jornada federal transcurrió con una agenda marcadamente local, lejos de grandes confrontaciones nacionales o interprovinciales. Se destacaron dos ejes: el fortalecimiento del federalismo y las economías regionales, y la gestión de crisis. @RaulJalil_ok (Catamarca) retuiteó la visión de @Weretilneck (Río Negro) sobre el desarrollo del interior y el apoyo a las PyMEs, en un mensaje que vincula cultura y producción. Por su parte, @GustavoSaenzOK (Salta) concentró su comunicación en la respuesta operativa frente a incendios y vientos, mostrando un liderazgo enfocado en la protección ciudadana y la coordinación de recursos. Predominó la gestión concreta sobre la disputa política.",
+    "analisis_profundo": "La dinámica federal actual se caracterizó por una fuerte prevalencia de agendas provinciales, con escasa conexión o tensión explícita a nivel nacional o interjurisdiccional. El gobernador @RaulJalil_ok (Catamarca) articuló un mensaje de resiliencia regional y apoyo productivo al retuitear un post de @Weretilneck (Río Negro). Este mensaje, centrado en la inauguración de la Fiesta Nacional e Internacional del Poncho, fue estratégico para enfatizar la noción de 'federalismo para hacer crecer al interior del país'. La mención a 'provincias fuertes, productivas y con más herramientas para crecer', junto con la facilitación de financiamiento a PyMEs a través del CFI y FOGARÍO, subraya un modelo de gestión enfocado en la autonomía económica y el desarrollo local. La acción de retuitear sugiere una búsqueda de resonancia y validación de este enfoque por parte de un par, fortaleciendo un bloque de gobernadores que prioriza la autogestión y la colaboración horizontal.\n\nEn contraste, la comunicación de @GustavoSaenzOK (Salta) se limitó exclusivamente a la gestión de una emergencia ambiental, demostrando un liderazgo directo y operativo. Sus publicaciones de hoy detallan el 'incansable' trabajo de brigadistas y equipos de emergencia frente a los incendios, exhortando a la prevención y a la denuncia inmediata. Este enfoque, si bien es una respuesta a una necesidad urgente, también posiciona al gobernador (Salta) como un gestor eficaz y cercano a las problemáticas cotidianas de su población, capitalizando la visibilidad en momentos de crisis sin inmiscuirse en debates políticos más amplios. La ausencia de contenido de otros gobernadores sobre temas federales de mayor envergadura refuerza la lectura de una jornada dominada por las urgencias o las prioridades internas de cada provincia.\n\nLa falta de discusión sobre la relación con el gobierno central o sobre proyectos legislativos de impacto nacional en los tweets relevantes sugiere una pausa en la confrontación, o una canalización de estas discusiones por vías alternativas a las redes sociales. Este escenario de relativa calma en el frente federal de X podría interpretarse como un momento de consolidación de gestiones locales o de atención a coyunturas específicas, antes de que retomen los debates más estructurantes sobre el reparto de recursos o competencias. La agenda de los gobernadores que sí publicaron es un reflejo de realidades bien concretas y tangibles para sus electorados, desde el fomento de la cultura y la producción hasta la protección civil, sin distracciones en la esfera política más amplia.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo y desarrollo productivo regional",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión de crisis y emergencias ambientales",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@GustavoSaenzOK",
+        "texto": "El viento no da tregua. Mi admiración y reconocimiento a todos los que trabajan sin descanso, mañana, tarde y noche, desde hace varios días, de manera coordinada y en territorio, para cuidar y proteger a los salteños.\n\nSeguimos recorriendo la zona, acompañando a los equipos de emergencia y a las familias afectadas, mientras los distintos equipos intensifican el operativo para controlar el fuego.\n\nPor favor, extremen las medidas de prevención. En estas condiciones climáticas, cualquier descuido puede tener consecuencias muy graves.\n\nAnte cualquier foco ígneo, llamen de inmediato al 911.",
+        "por_que_es_clave": "Este tweet es clave porque muestra al gobernador en primera línea de una crisis ambiental, priorizando la gestión de emergencias y la seguridad ciudadana. Refleja una postura de liderazgo proactivo y cercanía con la población frente a desafíos inmediatos, desviando la atención de la agenda política nacional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Federalismo",
+                "Desarrollo PYME",
+                "Cultura regional"
+            ],
+            "postura_politica": "El gobernador Jalil (Catamarca) se alinea con la narrativa de fortalecer las provincias y apoyar la producción local. Al retuitear a Weretilneck (Río Negro), enfatiza la cooperación interprovincial para el desarrollo económico y la importancia de la autonomía regional, desligándose de debates centrales para enfocarse en la gestión cultural y económica provincial.",
+            "frase_fuerte": "El verdadero federalismo no es un discurso. Es compartir experiencias, aprender unos de otros y trabajar en conjunto para que cada provincia pueda desarrollar todo su potencial."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Gestión de emergencias",
+                "Seguridad ciudadana",
+                "Prevención de incendios"
+            ],
+            "postura_politica": "El gobernador Sáenz (Salta) demuestra un liderazgo enfocado en la respuesta a emergencias climáticas. Su comunicación se centra en la movilización de recursos, la coordinación de equipos y la prevención, mostrando un compromiso directo con la protección de la vida y los bienes de los salteños. Evita cualquier mención política, priorizando la acción ante la crisis.",
+            "frase_fuerte": "Mi admiración y reconocimiento a todos los que trabajan sin descanso, mañana, tarde y noche, desde hace varios días, de manera coordinada y en territorio, para cuidar y proteger a los salteños."
+        }
+    ]
+}

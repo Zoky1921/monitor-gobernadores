@@ -1,0 +1,58 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Tres gobernadores (Jalil, Sáenz, Poggi) publicaron en la jornada, pero sin abordar conflictos fiscales ni tensiones con Nación. Jalil destacó una visita de Weretilneck en tono federal, Sáenz gestionó una emergencia ígnea en Salta, y Poggi promocionó emprendedores. El resto de los mandatarios optó por el silencio, lo que sugiere una jornada de repliegue o agenda local sin impacto federal.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada estuvo marcada por un silencio casi total de los gobernadores. Ningún mandatario de provincias centrales (Buenos Aires, CABA, Córdoba, Santa Fe) emitió señales sobre coparticipación, deuda o recursos estratégicos. La ausencia de posteos en un día sin efemérides mayores sugiere una pausa táctica, quizás para evitar desgaste o esperar definiciones de la Casa Rosada. \n\nActo 2 — Los Alineamientos: Raúl Jalil (Catamarca) retuiteó un mensaje de Alberto Weretilneck (Río Negro) que exaltaba el federalismo y la cooperación entre provincias. El gesto, aunque protocolar, refuerza la alianza implícita del Norte Grande y la Región Sur, un bloque que busca visibilidad frente a la centralización. Gustavo Sáenz (Salta) se mostró en modo de gestión de crisis, con un tuit sobre incendios que evita cualquier mención a Nación, subrayando su autonomía operativa. Claudio Poggi (San Luis) se mantuvo en la agenda de cabotaje, con un saludo dominical a emprendedores. \n\nActo 3 — La Micro-política: Sáenz capitalizó la emergencia para mostrar un Estado presente, pero sin reclamar apoyo nacional. Es un clásico ejemplo de 'diplomacia fiscal' silenciosa: no pedir para no deber. Poggi, por su parte, continuó con su perfil de gestión local, sin roces con el gobierno nacional. Ambos mandatarios de provincias periféricas se refugiaron en temas de baja intensidad, evitando posicionamientos que pudieran comprometerlos. \n\nActo 4 — Saldo Presidencial: El silencio de los gobernadores más influyentes es una señal ambigua para la Casa Rosada. Por un lado, no hay confrontación directa, lo que alivia la presión mediática. Por otro, la falta de respaldo explícito o de agenda compartida revela una relación distante. El presidente Milei obtiene un respiro táctico, pero no consolida alianzas sólidas. La jornada deja un tablero congelado, donde las provincias esperan el próximo movimiento de Nación.",
+    "temas_calientes": [
+        {
+            "tema": "Cooperación interprovincial (Jalil-Weretilneck)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión de emergencias provinciales (Sáenz)",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@GustavoSaenzOK",
+        "texto": "El viento no da tregua. Mi admiración y reconocimiento a todos los que trabajan sin descanso, mañana, tarde y noche, desde hace varios días, de manera coordinada y en territorio, para cuidar y proteger a los salteños.\n\nSeguimos recorriendo la zona, acompañando a los equipos de emergencia y a las familias afectadas, mientras los distintos equipos intensifican el operativo para controlar el fuego.\n\nPor favor, extremen las medidas de prevención. En estas condiciones climáticas, cualquier descuido puede tener consecuencias muy graves.\n\nAnte cualquier foco ígneo, llamen de inmediato al 911.",
+        "por_que_es_clave": "Sáenz utiliza la emergencia para reafirmar su liderazgo provincial sin mencionar a Nación. Es un mensaje de autonomía y capacidad de gestión, que omite deliberadamente cualquier pedido de ayuda federal. El tuit proyecta control territorial y evita abrir un flanco de crítica hacia el gobierno nacional.",
+        "pregunta_openarg": "¿La ausencia de reclamos al gobierno nacional en la gestión de emergencias es una señal de confianza en la propia capacidad provincial o un cálculo para no quedar atado a promesas incumplidas?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Cooperación interprovincial",
+                "Fiesta del Poncho"
+            ],
+            "postura_politica": "Jalil retuitea a Weretilneck para mostrar que Catamarca no está aislada y que el federalismo es un valor compartido. Detrás de la cortesía, hay un mensaje de alineamiento con el interior productivo y un recordatorio de que las provincias periféricas existen más allá de la agenda metropolitana.",
+            "frase_fuerte": "El verdadero federalismo no es un discurso. Es compartir experiencias, aprender unos de otros y trabajar en conjunto para que cada provincia pueda desarrollar todo su potencial."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Incendios",
+                "Emergencia climática",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Sáenz se posiciona como gestor de crisis, omitiendo cualquier referencia a Nación. El tuit es un acto de autonomía: muestra que la provincia maneja la emergencia con recursos propios, sin reclamar apoyo ni criticar al gobierno central. Es un repliegue táctico que evita conflictos.",
+            "frase_fuerte": "Mi admiración y reconocimiento a todos los que trabajan sin descanso... para cuidar y proteger a los salteños."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Emprendedores",
+                "Promoción local",
+                "Agenda de fin de semana"
+            ],
+            "postura_politica": "Poggi se mantiene en una agenda de bajo perfil, sin roces con Nación. El tuit es puramente promocional y no tiene peso político federal. Refleja una estrategia de refugio en la gestión local para evitar posicionamientos comprometedores.",
+            "frase_fuerte": null
+        }
+    ]
+}
