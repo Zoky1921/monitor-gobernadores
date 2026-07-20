@@ -1,0 +1,153 @@
+{
+    "clima_general": "CALMO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por la unánime reacción de los gobernadores a la final de la Selección Argentina, predominando mensajes de orgullo y agradecimiento por el esfuerzo del equipo pese al resultado. Coincidiendo con el Día del Amigo, se observaron también publicaciones enfocadas en la cohesión social y la identidad provincial. La agenda institucional se mantuvo activa con el gobernador de Tucumán abordando la coordinación de la gestión, mientras que el gobernador de Mendoza emitió un pronunciamiento clave en el 32° aniversario del atentado a la AMIA, renovando el reclamo de verdad y justicia. La ausencia de fricciones interjurisdiccionales o con el Gobierno nacional sugiere un día de bajo perfil conflictivo.",
+    "analisis_profundo": "La agenda política de los gobernadores se vio ampliamente influenciada por la repercusión de la final de la Selección Argentina, con un notable número de mandatarios expresando gratitud y orgullo por el desempeño del equipo. Mensajes como los de Axel Kicillof (Buenos Aires), Raúl Jalil (Catamarca), Rogelio Frigerio (Entre Ríos), Carlos Sadir (Jujuy), Sergio Ziliotto (La Pampa), Alfredo Cornejo (Mendoza), Hugo Passalacqua (Misiones) y Gustavo Melella (Tierra del Fuego) denotan una conexión con el sentimiento popular, capitalizando un momento de unidad nacional más allá de los resultados deportivos. Esta sintonía con la emoción colectiva trasciende las habituales divisiones políticas, proyectando una imagen de cercanía con la ciudadanía. \n\nEn un plano distinto, el Día del Amigo fue aprovechado por Gildo Insfrán (Formosa) y Sergio Ziliotto (La Pampa) para reforzar valores de cohesión social y destacar la identidad provincial. Ziliotto (La Pampa) se desmarcó con un extenso posteo que fusiona la celebración del Día del Amigo con una profunda oda a La Pampa, describiendo su historia, cultura y desarrollo, en un claro esfuerzo por fortalecer el arraigo y la narrativa local de gestión. \n\nEl punto de mayor peso político en la jornada lo aportó Alfredo Cornejo (Mendoza), al recordar el 32° aniversario del atentado a la AMIA, reafirmando el compromiso con la memoria, la verdad y la justicia, un tema de recurrente relevancia en la agenda nacional. Por su parte, Osvaldo Jaldo (Tucumán) mantuvo el foco en la gestión interna, detallando reuniones de coordinación y avance de obras, lo que refleja una prioridad en la ejecución de la agenda provincial. La jornada, en términos generales, no arrojó tensiones significativas entre provincias o con el gobierno central, consolidando un clima de relativa calma en la política federal, donde los temas sociales y de memoria compartida tuvieron preeminencia.",
+    "temas_calientes": [
+        {
+            "tema": "Reacción a la Final de la Selección Argentina",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@frigeriorogelio",
+                "@carlossadirjuy",
+                "@ZiliottoSergio",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Memoria y Justicia (32° aniversario AMIA)",
+            "gobernadores_involucrados": [
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Identidad Provincial y Cohesión Social (Dia del Amigo)",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Gestión Provincial y Obras Públicas",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@alfredocornejo",
+        "texto": "A 32 años del ataque a la AMIA, nos reunimos en Casa de Gobierno donde acompañamos a la comunidad judía de nuestra provincia y renovamos nuestro homenaje a las 85 víctimas. Sostenemos el compromiso con la memoria y el reclamo, que todavía sigue pendiente. El terrorismo dejó una marca profunda en toda la Argentina, por eso recordar no es solo un acto, es una convicción para exigir verdad y justicia.",
+        "por_que_es_clave": "Este tweet es clave por su relevancia política y social, abordando un tema sensible y de larga data en la agenda nacional como el 32° aniversario del atentado a la AMIA. El gobernador Alfredo Cornejo (Mendoza) utiliza la ocasión para reafirmar el compromiso con la memoria, la verdad y la justicia, destacando la persistencia de un reclamo pendiente. Su mensaje posiciona a la provincia en un tema de profunda importancia institucional y humana.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Fútbol",
+                "Sentimiento nacional"
+            ],
+            "postura_politica": "Se alinea con el sentimiento popular de orgullo y gratitud hacia la Selección Argentina y Lionel Messi, mostrando empatía tras un resultado adverso en la final, reforzando la unión nacional a través del deporte.",
+            "frase_fuerte": "Tus lágrimas son las nuestras, Capitán 👑🇦🇷 Nos diste las alegrías más grandes de nuestras vidas."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Fútbol",
+                "Sentimiento nacional",
+                "Orgullo provincial"
+            ],
+            "postura_politica": "Expresa gratitud a la Selección Argentina, destacando su esfuerzo y manteniendo viva la ilusión, vinculando el éxito deportivo nacional con el orgullo de Catamarca. También, mediante un retuit, resalta el apoyo internacional al equipo.",
+            "frase_fuerte": "Gracias Leo por toda esta ilusión, por nunca dejar de intentar sin importar la circunstancia o el rival!"
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Fútbol",
+                "Sentimiento nacional",
+                "Valores",
+                "Liderazgo"
+            ],
+            "postura_politica": "Reconoce el esfuerzo de la Selección Argentina tras la derrota, enfatizando valores como la entrega y el compromiso, y extendiendo el orgullo a los entrerrianos que formaron parte del equipo. Subraya la lección de equipo y perseverancia.",
+            "frase_fuerte": "No pudo ser esta vez. Pero hay algo que este equipo no pierde nunca: el respeto y la admiración de todo un país."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Día del Amigo",
+                "Cohesión social",
+                "Valores Peronistas"
+            ],
+            "postura_politica": "Celebra el Día del Amigo, citando a Juan Domingo Perón para destacar la amistad como fuerza de unidad y solidaridad comunitaria, en línea con el lema provincial 'Todos Unidos'.",
+            "frase_fuerte": "La amistad es la gran fuerza aglutinante en toda lucha y nada puede desarrollar la solidaridad indispensable como la existencia de una verdadera amistad, decía J. D. Perón."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Fútbol",
+                "Sentimiento nacional"
+            ],
+            "postura_politica": "Expresa orgullo por la Selección Argentina, destacando su esfuerzo y su capacidad para unir a los argentinos, reflejando un sentir nacional colectivo.",
+            "frase_fuerte": "Gracias por dejar todo en cada partido, por el esfuerzo y por unirnos como argentinos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Día del Amigo",
+                "Identidad provincial",
+                "Cultura",
+                "Desarrollo",
+                "Fútbol",
+                "Sentimiento nacional"
+            ],
+            "postura_politica": "Combina la celebración del Día del Amigo con una profunda descripción de la identidad, historia y progreso de La Pampa, enfatizando el esfuerzo colectivo y la solidaridad. También expresa orgullo por la Selección Argentina tras la final, destacando el sentido de pertenencia.",
+            "frase_fuerte": "No alcanzan las palabras para describir La Pampa, porque es cada uno y somos todos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Memoria y Justicia (AMIA)",
+                "Fútbol",
+                "Valores",
+                "Liderazgo"
+            ],
+            "postura_politica": "Aborda la importancia del 32° aniversario del atentado a la AMIA, reafirmando el compromiso con la memoria, la verdad y la justicia. También analiza la actuación de la Selección Argentina desde una perspectiva de valores como el esfuerzo y la resiliencia, transformando la derrota en una lección de vida.",
+            "frase_fuerte": "A 32 años del ataque a la AMIA, nos reunimos en Casa de Gobierno donde acompañamos a la comunidad judía de nuestra provincia y renovamos nuestro homenaje a las 85 víctimas."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Fútbol",
+                "Sentimiento nacional",
+                "Unidad"
+            ],
+            "postura_politica": "Agradece a la Selección Argentina por la unidad que genera, incluso después de un resultado adverso en la final, reforzando el apoyo incondicional y el orgullo de ser argentinos.",
+            "frase_fuerte": "Nos dieron las alegrías más grandes pero, sobre todo, nos volvieron a unir como argentinos para celebrar todos juntos el orgullo de haber nacido acá."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Fútbol",
+                "Sentimiento nacional",
+                "Orgullo provincial"
+            ],
+            "postura_politica": "Expresa gratitud y orgullo por la Selección Argentina después de la final, destacando su compromiso y pasión, y reafirmando el apoyo de Tierra del Fuego al equipo.",
+            "frase_fuerte": "El orgullo por esta Selección sigue intacto. Gracias por dejar todo en la cancha y representar al país con compromiso y pasión."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Gestión provincial",
+                "Obras públicas",
+                "Agenda legislativa",
+                "Desarrollo",
+                "Coordinación interpoderes"
+            ],
+            "postura_politica": "Destaca una reunión de trabajo con el vicegobernador para revisar la gestión provincial, la agenda legislativa y el avance de obras, enfatizando la coordinación y el diálogo como claves para el desarrollo de Tucumán en un contexto complejo.",
+            "frase_fuerte": "Ratificamos la importancia de mantener una agenda común basada en el diálogo permanente, el consenso y el compromiso de seguir trabajando para brindar respuestas concretas a los tucumanos."
+        }
+    ]
+}
