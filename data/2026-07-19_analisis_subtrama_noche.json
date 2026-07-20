@@ -1,0 +1,113 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "La jornada posterior a la final del Mundial estuvo dominada por mensajes de agradecimiento a la Selección Argentina, sin señales de conflicto fiscal o político. El único posicionamiento con peso federal fue el tuit de Raúl Jalil retuiteando a Alberto Weretilneck sobre federalismo y desarrollo productivo, en el marco de la Fiesta del Poncho.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La agenda del día estuvo secuestrada por la épica deportiva. La derrota en la final del Mundial unificó a los gobernadores en un mismo registro emocional, diluyendo cualquier tensión fiscal o institucional con la Casa Rosada. El silencio sobre la macroeconomía fue ensordecedor: ni una mención a la coparticipación, la deuda o el ajuste. \n\nActo 2 — Los Alineamientos: La única excepción fue la dupla Jalil-Weretilneck, que aprovechó la Fiesta del Poncho para escenificar un gesto de federalismo cooperativo. Mientras el resto de los mandatarios se refugiaban en la agenda de cabotaje o en el luto futbolero, estos dos gobernadores del interior productivo marcaron una cancha: el desarrollo regional se construye con provincias fuertes, no con discursos. \n\nActo 3 — La Micro-política: Los gobernadores periféricos (Ziliotto, Melella, Passalacqua) se limitaron a agradecer a la Selección, sin agregar ningún elemento de disputa. Incluso Kicillof, que suele ser el más confrontativo, optó por un tuit lacrimógeno y apolítico. La omisión de cualquier crítica al Gobierno nacional sugiere un repliegue táctico: no conviene hablar de ajuste cuando el país está unido por el fútbol. \n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada fue un respiro. Sin gobernadores reclamando fondos ni denunciando desfinanciamiento, el presidente Milei pudo capitalizar la unidad nacional en torno a la Selección. Sin embargo, el silencio de los mandatarios no debe leerse como apoyo, sino como una pausa calculada. La tregua durará hasta que se reabra la discusión por los recursos.",
+    "temas_calientes": [
+        {
+            "tema": "Reaccion a la final del Mundial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@frigeriorogelio",
+                "@carlossadirjuy",
+                "@ZiliottoSergio",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Federalismo y desarrollo productivo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@RaulJalil_ok (RT de @Weretilneck)",
+        "texto": "FEDERALISMO PARA HACER CRECER AL INTERIOR DEL PAÍS\n\nAcompañé al gobernador de Catamarca @RaulJalil_ok en la apertura de la 55° Fiesta Nacional e Internacional del Poncho, una celebración que refleja el talento, el trabajo, la cultura y la identidad productiva del interior argentino.\n\nJunto a @ignalam, del @CFI_Argentina, compartimos una agenda de trabajo centrada en una convicción que en Río Negro sostenemos todos los días: el desarrollo del país se construye con provincias fuertes, productivas y con más herramientas para crecer.\n\nCatamarca acaba de avanzar, junto al CFI, en un convenio para fortalecer el financiamiento de sus PyMEs a través de su fondo de garantías. Una experiencia que dialoga con el camino que venimos impulsando en Río Negro con FOGARÍO para acompañar a quienes producen, invierten y generan empleo.\n\nEl verdadero federalismo no es un discurso. Es compartir experiencias, aprender unos de otros y trabajar en conjunto para que cada provincia pueda desarrollar todo su potencial. Porque cuando el interior crece, crece la Argentina.\n\nFelicitaciones a Catamarca por una nueva edición de una fiesta que ya es un orgullo para todo el país.",
+        "por_que_es_clave": "Es el único mensaje con contenido político de la jornada. Jalil y Weretilneck escenifican una alianza federal que contrasta con el silencio del resto de los gobernadores. La mención al CFI y a los fondos de garantía es una señal de que la cooperación entre provincias sigue siendo una herramienta para sortear el repliegue de Nación.",
+        "pregunta_openarg": "¿El silencio de los gobernadores sobre la coparticipación durante la fiebre mundialista es una tregua táctica o una señal de que el ajuste de Milei ya no encuentra resistencia?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Mundial",
+                "Seleccion Argentina"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limitó a un tuit emocional sobre Messi, evitando cualquier confrontación con Nación.",
+            "frase_fuerte": "Tus lágrimas son las nuestras, Capitán 👑🇦🇷"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Mundial",
+                "Federalismo",
+                "Fiesta del Poncho",
+                "CFI",
+                "PyMEs"
+            ],
+            "postura_politica": "Posicionamiento federalista. Utilizó la Fiesta del Poncho para mostrar cooperación con Río Negro y el CFI, marcando distancia del relato nacional y reivindicando el desarrollo regional.",
+            "frase_fuerte": "El verdadero federalismo no es un discurso. Es compartir experiencias, aprender unos de otros y trabajar en conjunto."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Mundial",
+                "Seleccion Argentina"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Mensaje de agradecimiento a la Selección, sin contenido político.",
+            "frase_fuerte": "No pudo ser esta vez. Pero hay algo que este equipo no pierde nunca: el respeto y la admiración de todo un país."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Mundial",
+                "Seleccion Argentina"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Tuit genérico de apoyo a la Selección.",
+            "frase_fuerte": "Gracias por dejar todo en cada partido, por el esfuerzo y por unirnos como argentinos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Mundial",
+                "Seleccion Argentina",
+                "Alexis Mac Allister"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Aprovechó para destacar a un jugador pampeano, pero sin confrontación.",
+            "frase_fuerte": "Desde La Pampa, tierra de nuestro @alemacallister, mostramos orgullo por lo que lograron!"
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Mundial",
+                "Futbol",
+                "Trabajo en equipo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Reflexión filosófica sobre el deporte, sin referencia a la política.",
+            "frase_fuerte": "Ahí aprendemos que ningún partido se gana solo, que el esfuerzo de todos vale más que cualquier individualidad."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Mundial",
+                "Seleccion Argentina",
+                "Messi"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Tuit emotivo y unificador.",
+            "frase_fuerte": "Nos dieron las alegrías más grandes pero, sobre todo, nos volvieron a unir como argentinos."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Mundial",
+                "Seleccion Argentina"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Mensaje de orgullo, sin contenido político.",
+            "frase_fuerte": "¡Gracias Argentina! 🇦🇷 El orgullo por esta Selección sigue intacto."
+        }
+    ]
+}
