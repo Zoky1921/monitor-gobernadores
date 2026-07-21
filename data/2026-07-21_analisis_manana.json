@@ -1,0 +1,142 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La jornada actual se caracteriza por una agenda federal diversificada, con gobernadores enfocados en la gestión local y social. Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba) resaltan obras públicas y programas de formación. Raúl Jalil (Catamarca) enfatiza un bono extraordinario a empleados, mientras que Leandro Zdero (Chaco) y Claudio Poggi (San Luis) se centran en educación y desarrollo energético-social. Gildo Insfrán (Formosa) celebra aniversarios locales, y Alberto Weretilneck (Río Negro) combina infraestructura vial con mejoras sanitarias. Osvaldo Jaldo (Tucumán) muestra gestión y diálogo político, mientras Jorge Macri (CABA) se suma a la celebración por el regreso de la Selección Nacional, mostrando un matiz más emocional en la agenda.",
+    "analisis_profundo": "La jornada del 21 de julio de 2026 exhibe una clara tendencia de los gobernadores a enfocarse en la gestión local y la cercanía con los ciudadanos, un patrón consistente que busca consolidar el impacto de sus administraciones en un contexto nacional de incertidumbre. Axel Kicillof (Buenos Aires) destaca inversiones significativas en infraestructura hídrica para Bahía Blanca, subrayando el rol provincial en la resolución de problemas históricos y la mejora de la calidad de vida. Este enfoque en 'obras concretas' se alinea con la narrativa de un Estado provincial activo frente a carencias. Martín Llaryora (Córdoba) refuerza la idea de 'Igualdad Territorial' con la creación de centros de formación policial, enfatizando la descentralización de oportunidades. Esta iniciativa no solo aborda la seguridad, sino también el acceso a la capacitación, un pilar de desarrollo social. Raúl Jalil (Catamarca) opta por una medida de impacto directo en el bolsillo de los trabajadores estatales, acreditando un bono extraordinario, lo que denota una estrategia para mitigar el impacto económico o reconocer el esfuerzo laboral. En el ámbito educativo, Leandro Zdero (Chaco) promociona el programa #AprendoLeyendo, mostrando avances en la fluidez lectora. Esta apuesta por la educación fundamental se presenta como una inversión en el futuro provincial. Gildo Insfrán (Formosa) mantiene una agenda centrada en celebraciones locales, como el aniversario de Ingeniero Juárez, una práctica que refuerza la identidad y cohesión comunitaria. Alberto Weretilneck (Río Negro) despliega una agenda de infraestructura diversa, anunciando la licitación de una obra vial crucial en Cipolletti y resaltando la entrega de equipamiento neonatal en Villa Regina. Estas acciones demuestran una capacidad de inversión autónoma y un compromiso con la mejora de servicios esenciales. Claudio Poggi (San Luis) muestra un doble frente de gestión, inaugurando obras educativas de nivel inicial y una planta fotovoltaica con financiamiento del CFI, lo que evidencia una articulación público-privada para el desarrollo energético. Finalmente, Osvaldo Jaldo (Tucumán) se dedica al diálogo con actores locales, recibiendo a un concejal capitalino para abordar temas de gestión y servicios, lo que proyecta una imagen de gobierno accesible y coordinado. Jorge Macri (CABA) se desmarca con un mensaje emotivo sobre el recibimiento de la Selección Argentina, un tweet de carácter más simbólico y de menor carga política directa, pero que conecta con el sentimiento popular. En general, el clima es de afirmación de la gestión provincial ante los desafíos económicos y sociales, con una fuerte impronta de territorialidad y autonomía en la toma de decisiones.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Obras Públicas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Social y Calidad de Vida",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Celebraciones Locales y Cohesión",
+            "gobernadores_involucrados": [
+                "@insfran_gildo"
+            ]
+        },
+        {
+            "tema": "Innovación y Energías Renovables",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Deporte y Sentimiento Nacional",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @fsusbielles)",
+        "texto": "¡Obras que avanzan para una Bahia mejor! Las cisternas de Bosque Alto y Planta Patagonia, junto al nuevo acueducto de vinculación e impulsión, darán respuesta a una problemática histórica para un sector importante de la ciudad. Con una inversión del gobierno provincial superior a los 40.000 millones de pesos, estas obras mejorarán el abastecimiento para miles de vecinos y vecinas de Cerri, Los Chañares, Don Ramiro y Bordeu, y permitirán la provisión en Paihuén, Villa Belgrano y barrios aledaños. Sabemos que aún queda mucho por hacer, pero seguimos progresando con obras concretas para construir la Bahia Blanca que nos merecemos.",
+        "por_que_es_clave": "El gobernador Kicillof (Buenos Aires) resalta una inversión provincial multimillonaria en infraestructura hídrica, abordando una 'problemática histórica'. Este tweet subraya el rol activo del gobierno provincial en la provisión de servicios esenciales y la inversión pública en un contexto económico complejo, haciendo un claro posicionamiento de gestión.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Obras Públicas",
+                "Infraestructura Hídrica",
+                "Gestión Local"
+            ],
+            "postura_politica": "El gobernador Kicillof (Buenos Aires) enfatiza la capacidad de inversión de la provincia para resolver problemas estructurales en municipios clave. Su discurso se centra en la 'obra concreta' y el 'progreso' como respuesta a necesidades históricas de la población.",
+            "frase_fuerte": "Con una inversión del gobierno provincial superior a los 40.000 millones de pesos, estas obras mejorarán el abastecimiento para miles de vecinos y vecinas."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Deporte",
+                "Sentimiento Nacional",
+                "Eventos masivos"
+            ],
+            "postura_politica": "El jefe de Gobierno Macri (CABA) se alinea con el sentimiento popular, celebrando el regreso de la selección nacional de fútbol. Su tweet es de carácter emotivo y unificador, desligado de la gestión política directa, buscando conexión con la ciudadanía.",
+            "frase_fuerte": "Emocionante recibimiento a nuestros héroes!!! Bienvenidos a casa! Gracias Selección 🇦🇷🇦🇷🇦🇷"
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Política Salarial",
+                "Apoyo Económico",
+                "Empleo Público"
+            ],
+            "postura_politica": "El gobernador Jalil (Catamarca) demuestra una política de apoyo directo a los empleados públicos y municipales mediante un bono extraordinario. Esta acción busca reforzar el poder adquisitivo y el reconocimiento laboral en su provincia.",
+            "frase_fuerte": "Ya está acreditado el bono extraordinario de $100.000 para todos los trabajadores de planta permanente provinciales y de cada uno de los municipios de Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Educación",
+                "Alfabetización",
+                "Desarrollo Infantil"
+            ],
+            "postura_politica": "El gobernador Zdero (Chaco) se enfoca en los resultados de su programa de alfabetización, destacando mejoras en la fluidez lectora de los estudiantes. Esto subraya una prioridad en la política educativa como base del desarrollo futuro provincial.",
+            "frase_fuerte": "los estudiantes pasaron de leer 16 palabras por minuto a 36 palabras por minuto, fortaleciendo sus habilidades de lectura y comprensión."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Seguridad",
+                "Formación Pública",
+                "Igualdad Territorial"
+            ],
+            "postura_politica": "El gobernador Llaryora (Córdoba) impulsa la descentralización de la formación policial para generar oportunidades en todo el territorio. Su enfoque es la 'Igualdad Territorial' y la expansión del Estado para el crecimiento y acceso a servicios.",
+            "frase_fuerte": "El programa de #IgualdadTerritorial es una decisión de gestión que impulsamos para que las #oportunidades lleguen a cada rincón de #Córdoba."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Celebraciones Locales",
+                "Identidad Provincial",
+                "Cohesión Comunitaria"
+            ],
+            "postura_politica": "El gobernador Insfrán (Formosa) refuerza la importancia de las celebraciones locales como pilares de la identidad y el 'crecimiento de esta gran comunidad'. Su mensaje es de unión y reconocimiento a la historia de sus localidades, promoviendo la cohesión.",
+            "frase_fuerte": "Forjada con el esfuerzo de su gente y el orgullo de nuestro oeste, Ingeniero Juárez celebra hoy 96 años de historia viva."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Salud Pública",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "El gobernador Weretilneck (Río Negro) exhibe una gestión activa en infraestructura vial con proyectos estratégicos y mejoras en el equipamiento de salud. Sus acciones demuestran capacidad de inversión propia y atención a las necesidades locales, reafirmando el 'Río Negro en marcha'.",
+            "frase_fuerte": "Con una inversión provincial de más de $18.500 millones, vamos a mejorar la circulación, ordenar el tránsito y acompañar el crecimiento de una ciudad que no deja de desarrollarse."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Energías Renovables",
+                "Articulación Público-Privada"
+            ],
+            "postura_politica": "El gobernador Poggi (San Luis) muestra un gobierno comprometido con la mejora educativa y el impulso de la producción de energía limpia. La colaboración con el sector privado y el CFI destaca como clave para el desarrollo sostenible y la mejora de servicios.",
+            "frase_fuerte": "Inauguramos la puesta en valor integral del NIVEL INICIAL de la Escuela ROSARIO M. SIMÓN. Además habilitamos oficialmente la nueva SALA de TRES AÑOS. Muy bien !!"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Gestión Local",
+                "Diálogo Político",
+                "Servicios Públicos"
+            ],
+            "postura_politica": "El gobernador Jaldo (Tucumán) proyecta una imagen de diálogo y coordinación con las autoridades locales para abordar los temas que afectan directamente a los vecinos. Su enfoque es la 'articulación' y las 'respuestas concretas' a las demandas ciudadanas.",
+            "frase_fuerte": "Seguimos trabajando con diálogo, coordinación y compromiso para que las acciones del Estado se traduzcan en más oportunidades para todos."
+        }
+    ]
+}

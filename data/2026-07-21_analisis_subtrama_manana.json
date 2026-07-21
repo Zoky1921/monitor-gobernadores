@@ -1,0 +1,105 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada sin confrontación federal. Los gobernadores con actividad en redes se limitan a anuncios de gestión local, obras provinciales y efemérides. No hay menciones a la Nación ni posicionamientos sobre la macroeconomía. El silencio sugiere un repliegue táctico o una agenda de cabotaje.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada del 21 de julio transcurre sin tensiones explícitas entre Nación y provincias. Los gobernadores que tuitean evitan cualquier referencia a la coparticipación, la deuda o las políticas del gobierno central. El silencio es elocuente: no hay reclamos, pero tampoco adhesiones. Es una pausa calculada, quizás a la espera de definiciones fiscales o simplemente un día de bajo voltaje político.\n\nActo 2 — Los Alineamientos: No se observan alineamientos estratégicos. Cada gobernador opera en su propio tablero local. Kicillof (Buenos Aires) refuerza su narrativa de gestión provincial con obras hídricas, mientras que Macri (CABA) se suma al fervor mundialista sin contenido político. Jalil (Catamarca) y Llaryora (Córdoba) anuncian medidas de gestión interna. No hay bloques ni coordinación visible.\n\nActo 3 — La Micro-política: Los gestos de supervivencia son la tónica. Kicillof invierte 40.000 millones en agua potable, un mensaje implícito de que la provincia suple el vacío nacional. Weretilneck (Río Negro) destaca una obra vial con fondos propios, reclamando autonomía. Poggi (San Luis) inaugura una escuela y una planta solar, mostrando gestión. Son movimientos de ajedrez local, sin impacto en la rosca federal.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es neutra. Ningún gobernador la ataca ni la defiende. El silencio puede leerse como indiferencia o como una tregua momentánea. El capital político de Milei no se modifica, pero la ausencia de apoyos explícitos revela que las provincias no están dispuestas a comprometerse en un contexto de asfixia fiscal.",
+    "temas_calientes": [
+        {
+            "tema": "Anuncios de obras e inversiones provinciales con recursos propios",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @fsusbielles)",
+        "texto": "¡Obras que avanzan para una Bahia mejor!\n\nLas cisternas de Bosque Alto y Planta Patagonia, junto al nuevo acueducto de vinculación e impulsión, darán respuesta a una problemática histórica para un sector importante de la ciudad.\n\nCon una inversión del gobierno provincial superior a los 40.000 millones de pesos, estas obras mejorarán el abastecimiento para miles de vecinos y vecinas de Cerri, Los Chañares, Don Ramiro y Bordeu, y permitirán la provisión en Paihuén, Villa Belgrano y barrios aledaños.\n\nSabemos que aún queda mucho por hacer, pero seguimos progresando con obras concretas para construir la Bahia Blanca que nos merecemos.",
+        "por_que_es_clave": "Kicillof utiliza una obra local para marcar presencia estatal frente al repliegue nacional. La inversión de 40.000 millones es un dardo a la gestión de Milei: 'nosotros hacemos lo que Nación abandona'.",
+        "pregunta_openarg": "¿Hasta qué punto la inversión provincial en obras públicas puede compensar el ajuste nacional sin generar desequilibrios fiscales en las provincias?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obras hídricas",
+                "Inversión provincial"
+            ],
+            "postura_politica": "Muestra gestión propia para contrastar con la inacción nacional. El silencio sobre Nación es un reproche implícito.",
+            "frase_fuerte": "Con una inversión del gobierno provincial superior a los 40.000 millones de pesos"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Selección argentina",
+                "Festejo popular"
+            ],
+            "postura_politica": "Agenda protocolar sin contenido político. Se suma al fervor mundialista para capitalizar simpatía.",
+            "frase_fuerte": "Emocionante recibimiento a nuestros héroes!!! Bienvenidos a casa! Gracias Selección"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Bono a empleados públicos",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Medida de contención social en un contexto de ajuste. Busca mantener la paz laboral sin confrontar con Nación.",
+            "frase_fuerte": "Ya está acreditado el bono extraordinario de $100.000 para todos los trabajadores de planta permanente provinciales"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Alfabetización",
+                "Educación"
+            ],
+            "postura_politica": "Gestión educativa sin impacto federal. Refuerza su perfil de gestión local.",
+            "frase_fuerte": "los estudiantes pasaron de leer 16 palabras por minuto a 36 palabras por minuto"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Formación policial",
+                "Igualdad territorial"
+            ],
+            "postura_politica": "Anuncia centros de formación policial como muestra de inversión en seguridad. Marca autonomía provincial.",
+            "frase_fuerte": "24 NUEVOS CENTROS DE FORMACIÓN POLICIAL"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Aniversario local",
+                "Efeméride"
+            ],
+            "postura_politica": "Agenda protocolar aislada. Sin contenido político relevante.",
+            "frase_fuerte": "96° ANIVERSARIO INGENIERO JUÁREZ"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Obra vial",
+                "Inversión provincial"
+            ],
+            "postura_politica": "Destaca inversión propia en infraestructura. Reclamo implícito de autonomía frente al desfinanciamiento nacional.",
+            "frase_fuerte": "Con una inversión provincial de más de $18.500 millones"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Energía solar"
+            ],
+            "postura_politica": "Gestión local con articulación público-privada. Sin confrontación federal.",
+            "frase_fuerte": "Inauguramos la puesta en valor integral del NIVEL INICIAL de la Escuela ROSARIO M. SIMÓN"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Reunión institucional",
+                "Gestión local"
+            ],
+            "postura_politica": "Agenda de bajo perfil. Reunión con concejal para coordinar acciones barriales.",
+            "frase_fuerte": "Recibimos al concejal de San Miguel de Tucumán, Ernesto Nagle"
+        }
+    ]
+}
