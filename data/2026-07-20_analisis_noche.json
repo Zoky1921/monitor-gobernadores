@@ -1,0 +1,277 @@
+{
+    "clima_general": "CAUTELOSO",
+    "resumen_ejecutivo": "La agenda de los gobernadores provinciales el 20 de julio de 2026 estuvo notablemente dividida. Una mayoría significativa de líderes expresó gratitud y orgullo por la Selección Nacional de Fútbol tras su derrota en la final de la Copa del Mundo, destacando valores de unidad y esfuerzo. Paralelamente, hubo un robusto enfoque en la gestión provincial, con gobernadores detallando avances en infraestructura, desarrollo económico, empleo local, mejoras en salud y seguridad. Se observó una tendencia a la colaboración interprovincial en temas específicos. El clima general fue de reflexión y concentración en logros internos, con un matiz cauteloso sobre el impacto del modelo económico nacional en las provincias, sugerido por algunas menciones sobre la disparidad federal.",
+    "analisis_profundo": "El pulso digital de los líderes provinciales argentinos en la jornada del 20 de julio de 2026 revela un panorama político multifacético, predominantemente marcado por una oleada de mensajes relacionados con el desempeño de la Selección Nacional de Fútbol en la final de la Copa del Mundo. La casi totalidad de los gobernadores activos se sumó a un coro unificado de agradecimiento y orgullo por el equipo, a menudo extendiendo tributos a Lionel Messi y resaltando valores como el esfuerzo, la unidad y la resiliencia. Este consenso en el ámbito deportivo fungió como un catalizador de la cohesión nacional, aunque efímero. Más allá del fútbol, la agenda provincial se mantuvo firme en la comunicación de logros de gestión y la planificación estratégica local. La inversión en infraestructura fue un eje central, con gobernadores como Leandro Zdero (Chaco) detallando mejoras en escuelas y conectividad rural con Starlink. Nacho Torres (Chubut) enfocó su mensaje en la infraestructura deportiva y su rol social en los clubes, mientras que Martín Llaryora (Córdoba) destacó obras urbanas, escrituración de viviendas y programas de empleo, mostrando una gestión activa en la calidad de vida ciudadana. En el Norpatagonia, Rolando Figueroa (Neuquén) impulsó una agenda de integración regional, abordando rutas, ferrocarriles y logística, y firmó convenios interprovinciales con Alberto Weretilneck (Río Negro) en educación y prevención de incendios. El mismo Weretilneck (Río Negro) utilizó sus retweets para visibilizar inversiones en salud y obras públicas con fondos propios, pero también para introducir una crítica velada al modelo económico nacional, señalando que existe 'un nuevo mapa: las provincias que ganan y las que pierden'. Esta declaración, aunque por vía de retweet de contenido anterior, marca una postura de cautela y reclamo en la relación Nación-Provincias. Gustavo Sáenz (Salta) priorizó la seguridad con la incorporación de nuevos móviles policiales, mientras que Maximiliano Pullaro (Santa Fe) se centró en la infraestructura deportiva para los Juegos Suramericanos. Claudio Vidal (Santa Cruz) se mostró enfocado en recuperar proyectos ferroviarios históricos. Finalmente, Elías Suárez (Santiago del Estero) destacó la preparación de la provincia frente al fenómeno de El Niño. La jornada se caracterizó por un fuerte sentimiento de identidad provincial y la búsqueda de soluciones a nivel local y regional, en un contexto nacional que algunos líderes perciben con tensiones económicas.",
+    "temas_calientes": [
+        {
+            "tema": "Reacción Post-Final Copa del Mundo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@frigeriorogelio",
+                "@carlossadirjuy",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@gustavomelella",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico y Fomento del Empleo Local",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Federalismo y Impacto del Modelo Económico Nacional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y Justicia",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK (RT de @Weretilneck)",
+        "texto": "Un nuevo mapa: las provincias que ganan y las que pierden con el modelo económico",
+        "por_que_es_clave": "El gobernador de Río Negro (Alberto Weretilneck) reitera una crítica implícita al modelo económico nacional, señalando disparidades en el desarrollo provincial. Esto marca una posición cautelosa en la relación Nación-Provincias, destacando la tensión económica federal.",
+        "pregunta_openarg": "¿Qué medidas se esperan del gobierno nacional para corregir las asimetrías económicas entre las provincias?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Solidaridad y gratitud con la Selección Nacional (Argentina), especialmente con Messi, en un tono emotivo que busca unidad tras la derrota en la final del Mundial.",
+            "frase_fuerte": "Tus lágrimas son las nuestras, Capitán 👑🇦🇷 Nos diste las alegrías más grandes de nuestras vidas. Gracias por la entrega, por la magia y por dar la vida hasta el último segundo 🙌 ¡Te amamos para siempre, Leo! 🩵🤍"
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Reconocimiento al equipo por el esfuerzo y el ejemplo, buscando un mensaje de unidad nacional (Argentina) tras el resultado del Mundial.",
+            "frase_fuerte": "Simplemente gracias a este tremendo equipo. Gracias Selección!!! Gracias por la entrega absoluta. Gracias por ser siempre un ejemplo."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Promoción provincial",
+                "Reacción post-final Copa del Mundo",
+                "Diplomacia deportiva"
+            ],
+            "postura_politica": "Impulsa la visibilidad de Catamarca a nivel nacional a través de la Expo Rural. Se alinea con el sentimiento de orgullo post-derrota de la Selección Nacional, agradeciendo el esfuerzo del equipo y la ilusión generada. También destaca el apoyo internacional a la Argentina en el Mundial.",
+            "frase_fuerte": "Gracias Leo por toda esta ilusión, por nunca dejar de intentar sin importar la circunstancia o el rival! El fútbol es así: un día nos da alegrías y otras veces no, pero nunca dejamos de creer!"
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura educativa y tecnológica",
+                "Inclusión social",
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Enfatiza la inversión en educación, conectividad rural y programas de inclusión como pilares del desarrollo de Chaco, mostrando una gestión activa en obras y servicios. Se suma al agradecimiento por la entrega de la Selección Nacional.",
+            "frase_fuerte": "Una gestión que transforma y deja huellas. 📚 Más obras en escuelas de toda la provincia. 🌐 Internet satelital Starlink para escuelas rurales. 🤝 Más inclusión con equipos interdisciplinarios y docentes interculturales."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Desarrollo comunitario"
+            ],
+            "postura_politica": "Resalta el rol social de los clubes y la inversión en infraestructura deportiva como motor de valores y oportunidades para jóvenes en Chubut. Destaca la importancia del deporte en la formación de la persona.",
+            "frase_fuerte": "Cada club de nuestra provincia es mucho más que un espacio para practicar deporte: es el lugar donde miles de chicos y jóvenes aprenden valores, se forman como mejores personas y descubren que el esfuerzo y el trabajo en equipo también abren oportunidades."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Vivienda y seguridad jurídica",
+                "Políticas de empleo",
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Muestra una gestión en Córdoba enfocada en obras públicas que impactan directamente en la calidad de vida de los ciudadanos, la seguridad jurídica del hogar y la generación de oportunidades laborales. Se une al sentimiento nacional post-partido de la Selección.",
+            "frase_fuerte": "La escritura de una vivienda es mucho más que un papel: es la tranquilidad de saber que el esfuerzo de toda una vida está protegido."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Agradece a la Selección Nacional (Argentina) por la lección de valores y por generar orgullo nacional, en un tono de unión y reconocimiento tras el resultado del Mundial.",
+            "frase_fuerte": "Nos dejan una lección de esfuerzo, humildad, compromiso y trabajo en equipo. ¡Gracias por hacernos sentir orgullosos de ser argentinos! 🇦🇷"
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Expresa admiración por la Selección Nacional (Argentina), destacando el ejemplo de compromiso y humildad más allá del resultado, con un mensaje de fortaleza y unidad para el país y Entre Ríos.",
+            "frase_fuerte": "Gracias por representar a la Argentina con entrega, humildad y compromiso. Son un ejemplo, no solo por lo que hacen dentro de la cancha, sino, sobre todo, por la clase de personas que demuestran ser."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Reconoce el esfuerzo de la Selección Nacional (Argentina) y su capacidad para unir a los argentinos, transmitiendo orgullo desde Jujuy tras la final del Mundial.",
+            "frase_fuerte": "Gracias por dejar todo en cada partido, por el esfuerzo y por unirnos como argentinos. Orgullosos de nuestra Selección 🇦🇷"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Manifiesta orgullo por la Selección Nacional (Argentina), destacando el sentido de pertenencia y la lucha colectiva, con una mención particular al jugador pampeano Alexis Mac Allister, tras la derrota en la final del Mundial.",
+            "frase_fuerte": "Gracias por mostrar ese sentido de pertenencia que nos identifica, por luchar codo a codo por una causa colectiva, por demostrar cómo se defiende la Argentina."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Reflexiona sobre la trascendencia de la Selección Nacional (Argentina) más allá del resultado, vinculando su espíritu de lucha con los valores de la comunidad y el fútbol de barrio en La Rioja, tras la final del Mundial.",
+            "frase_fuerte": "Hay resultados que duelen, pero también hay equipos que trascienden cualquier estadística. Esta Selección volvió a dejar el alma en cada partido, jugando con la misma entrega, la misma garra y la misma pasión con la que representa hace años a nuestro país."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Memoria y Justicia",
+                "Terrorismo",
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Reafirma el compromiso de Mendoza con la verdad y la justicia en el caso AMIA, destacando la lucha contra el terrorismo. Ofrece una reflexión personal sobre los valores del fútbol y el esfuerzo de la Selección Nacional.",
+            "frase_fuerte": "El terrorismo dejó una marca profunda en toda la Argentina, por eso recordar no es solo un acto, es una convicción para exigir verdad y justicia."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Destaca el rol unificador de la Selección Nacional (Argentina) y el orgullo de ser argentino, llamando a mantener el apoyo al equipo de Misiones tras la final del Mundial.",
+            "frase_fuerte": "Nos dieron las alegrías más grandes pero, sobre todo, nos volvieron a unir como argentinos para celebrar todos juntos el orgullo de haber nacido acá."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura regional",
+                "Cooperación interprovincial",
+                "Desarrollo económico y empleo local"
+            ],
+            "postura_politica": "Impulsa una agenda de integración patagónica en infraestructura y desarrollo, enfatizando la planificación y decisiones compartidas. Promueve el empleo local y la competitividad de las empresas neuquinas, destacando la cooperación con provincias vecinas como Río Negro.",
+            "frase_fuerte": "La integración regional se construye con planificación, obras y decisiones compartidas para hacer más competitiva a toda la región."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Salud",
+                "Federalismo y modelo económico",
+                "Reacción post-final Copa del Mundo",
+                "Obra pública",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Resalta inversiones en salud y obras públicas con fondos provinciales en Río Negro. Reafirma el federalismo y la cooperación, pero también introduce una nota crítica sobre el impacto del modelo económico nacional en las provincias. Se suma a los agradecimientos por la Selección Nacional.",
+            "frase_fuerte": "Un nuevo mapa: las provincias que ganan y las que pierden con el modelo económico"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Prioriza la seguridad en Salta con inversiones concretas para la policía, como la renovación de móviles. Expresa gratitud y orgullo por el espíritu de lucha de la Selección Nacional (Argentina) tras la final del Mundial.",
+            "frase_fuerte": "En momentos difíciles hay que establecer prioridades. Y para mí, la seguridad de los salteños es una de ellas."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Se une al sentimiento de orgullo y agradecimiento por la Selección Nacional (Argentina), reconociendo su ejemplo y las emociones generadas en San Luis tras la final del Mundial.",
+            "frase_fuerte": "Estamos orgullosos de ustedes. Gracias por el ejemplo. Gracias por las emociones que nos hicieron sentir. GRACIAS SELECCIÓN 🇦🇷🇦🇷"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Infraestructura ferroviaria",
+                "Obra pública"
+            ],
+            "postura_politica": "Busca reactivar proyectos de infraestructura ferroviaria 'históricos' para Santa Cruz, con un enfoque en la concreción de obras postergadas y el uso de fondos propios para desarrollo provincial.",
+            "frase_fuerte": "RECUPERAR EL TREN TAMBIÉN ES RECUPERAR PARTE DE NUESTRA HISTORIA Hoy recorrimos las instalaciones de Materfer, en Córdoba, dando un nuevo paso para concretar un proyecto que durante muchos años quedó solo en anuncios."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Inversión provincial",
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Destaca inversiones en infraestructura deportiva en Rafaela (Santa Fe) para los Juegos Suramericanos, enfatizando el legado para la provincia. Se une al agradecimiento por el esfuerzo de la Selección Nacional (Argentina) en el Mundial.",
+            "frase_fuerte": "¡Las obras que estamos llevando adelante en #Rafaela para los Juegos Suramericanos van a marcar un antes y un después en nuestra provincia!"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Prevención de desastres naturales",
+                "Obra pública",
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Demuestra proactividad en la prevención de desastres naturales como el fenómeno de El Niño en Santiago del Estero, con obras de refuerzo y defensas. Se suma al reconocimiento de la Selección Nacional (Argentina) como ejemplo de lucha.",
+            "frase_fuerte": "Prevención y trabajo en nuestra provincia ⚠️👷‍♂️ Estamos reforzando defensas y realizando trabajos estratégicos en toda la provincia para estar preparados frente al fenómeno de El Niño. 🌧️"
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Expresa orgullo por la Selección Nacional (Argentina), destacando su compromiso y pasión, con un mensaje de apoyo continuo desde Tierra del Fuego, Antártida e Islas del Atlántico Sur tras la final del Mundial.",
+            "frase_fuerte": "¡Gracias Argentina! 🇦🇷 El orgullo por esta Selección sigue intacto. Gracias por dejar todo en la cancha y representar al país con compromiso y pasión."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Gobernanza provincial",
+                "Coordinación institucional",
+                "Reacción post-final Copa del Mundo"
+            ],
+            "postura_politica": "Se enfoca en la coordinación institucional interna para el desarrollo provincial de Tucumán, destacando el trabajo conjunto con el vicegobernador. Agradece a la Selección Nacional (Argentina) y a Messi por el orgullo y la inspiración generados en el Mundial.",
+            "frase_fuerte": "El resultado no borra el enorme orgullo que sentimos por este equipo. Gracias por representar a nuestro país con entrega, compromiso y un amor inmenso por estos colores."
+        }
+    ]
+}
