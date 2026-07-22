@@ -1,0 +1,239 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada muestra a los gobernadores enfocados en gestión local y cooperación interprovincial, con escasa confrontación directa con Nación. Kicillof mantiene su narrativa de abandono nacional, mientras Figueroa y Weretilneck consolidan alianzas estratégicas. El clima es de negociación sorda, con cada provincia reclamando recursos y visibilidad.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante es la disputa por recursos y autonomía, pero sin estallidos. Kicillof marca la cancha con su crítica al desfinanciamiento nacional, mientras otros gobernadores evitan el choque y se refugian en la gestión local. La omisión de la macroeconomía en la mayoría de los tuits revela un cálculo de supervivencia: no dar munición al oficialismo, pero tampoco respaldarlo.\n\nActo 2 — Los Alineamientos: Figueroa y Weretilneck emergen como socios estratégicos en la Norpatagonia, firmando convenios de cooperación en educación y planificación vial. Es un nado sincronizado que busca fortalecer el peso regional frente a Nación. Por otro lado, Kicillof se posiciona como el principal antagonista del relato oficial, aunque sin respaldo explícito de otros peronistas. Jalil y Cornejo apuestan a la minería como vector de desarrollo, alineándose con el RIGI nacional pero reclamando protagonismo provincial.\n\nActo 3 — La Micro-política: Gobernadores periféricos como Insfran, Sadir y Poggi se centran en efemérides y obras menores, evitando posicionamientos nacionales. Es un repliegue táctico: cuando no hay recursos federales, se apuesta a la agenda de cabotaje para mostrar gestión. Zdero y Suarez también se enfocan en educación e infraestructura local, sin mencionar a Nación. El silencio sobre la coparticipación es ensordecedor.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no recibe ataques directos, pero tampoco apoyos explícitos. La agenda está dominada por iniciativas provinciales que buscan llenar el vacío dejado por el ajuste nacional. La cooperación entre provincias (Río Negro-Neuquén) sugiere que el federalismo se está reconfigurando por fuera de los canales oficiales. Milei gana tiempo, pero pierde control sobre la narrativa territorial.",
+    "temas_calientes": [
+        {
+            "tema": "Cooperación interprovincial (Río Negro-Neuquén)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión provincial vs Nación (salud y obra pública)",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Inversiones mineras y energéticas (RIGI, litio, cobre)",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Educación e infraestructura escolar",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público (reforma estatal, policía)",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Seguimos acercando la salud a cada barrio de la provincia con obras como el nuevo Centro de Atención Primaria 'Papa Francisco' que inauguramos en Morón. Una inversión que contrasta con el abandono del Gobierno nacional y nos permite mejorar la atención de los vecinos de Castelar en clínica médica, ginecología, enfermería y odontología, entre otras áreas. La verdadera libertad es que todas las personas que sufren un padecimiento puedan contar con una atención integral en un centro como este, tengan o no los recursos.",
+        "por_que_es_clave": "Kicillof utiliza la inauguración de un centro de salud para marcar una diferencia explícita con el Gobierno nacional, posicionándose como el verdadero garante de derechos en la provincia más poblada del país. Es un dardo directo a la narrativa de ajuste de Milei, disfrazado de gestión local.",
+        "pregunta_openarg": "¿Hasta qué punto la estrategia de Kicillof de contrastar su gestión con el 'abandono nacional' puede erosionar el capital político de Milei en el principal distrito electoral?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "salud pública",
+                "contraste con Nación",
+                "obra pública"
+            ],
+            "postura_politica": "Refuerza su perfil de gestor peronista que compensa el ajuste nacional. Cada obra es una acusación implícita al Gobierno de Milei. Busca capitalizar el descontento social.",
+            "frase_fuerte": "Una inversión que contrasta con el abandono del Gobierno nacional"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "reforma del Estado",
+                "eliminación de cargos",
+                "eficiencia"
+            ],
+            "postura_politica": "Se alinea con el discurso de ajuste nacional pero desde la gestión local. Muestra resultados concretos para diferenciarse del 'gasto político' y posicionarse como un gestor ordenado.",
+            "frase_fuerte": "La eficiencia del Estado no solo es una cuestión técnica: es un deber moral con los porteños"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "cultura",
+                "bono a empleados",
+                "minería"
+            ],
+            "postura_politica": "Combina agenda festiva (Fiesta del Poncho) con medidas de alivio fiscal y promoción de inversiones mineras. Busca mostrar una provincia activa y en crecimiento, sin confrontar con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "educación",
+                "exportaciones",
+                "infraestructura"
+            ],
+            "postura_politica": "Enfocado en gestión local con énfasis en resultados educativos y apertura de mercados internacionales. Evita cualquier mención a Nación, lo que sugiere una estrategia de autonomía silenciosa.",
+            "frase_fuerte": "El futuro de una provincia comienza cuando un niño aprende a leer"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "deporte",
+                "infraestructura",
+                "energía"
+            ],
+            "postura_politica": "Apuesta a la diversificación productiva (energía solar, fibra óptica) y al deporte como motor social. Muestra gestión con recursos propios, reclamando implícitamente mayor autonomía.",
+            "frase_fuerte": "Chubut tiene todo para convertirse en protagonista del desarrollo digital de la Argentina"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "educación",
+                "seguridad",
+                "infraestructura"
+            ],
+            "postura_politica": "Gobernador peronista que prioriza la gestión por sobre la confrontación. Inversiones en universidad y formación policial muestran un Estado presente, sin mencionar a Nación.",
+            "frase_fuerte": "La igualdad no se declama: se construye con decisiones, inversión y presencia en el territorio"
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "infraestructura",
+                "campo",
+                "cooperación con Nación"
+            ],
+            "postura_politica": "Mantiene un perfil dialoguista con el Gobierno nacional, destacando gestiones conjuntas (puente, seguro agrícola). Se posiciona como un gobernador que gestiona resultados sin romper puentes.",
+            "frase_fuerte": "Gestionar con resultados es la mejor manera de defender los intereses de Entre Ríos"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "efemérides",
+                "aniversarios"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a saludos protocolares, evitando cualquier posicionamiento político. Refleja un repliegue estratégico en una provincia periférica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "infancia",
+                "expo rural",
+                "conectividad"
+            ],
+            "postura_politica": "Gobernador de perfil bajo que apuesta a la gestión y a la atracción de inversiones (Telecom, minería). Sin confrontación, busca mostrar una provincia ordenada y en desarrollo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "obra pública",
+                "soberanía",
+                "agua"
+            ],
+            "postura_politica": "Peronismo duro que reivindica la autonomía provincial y la lucha por recursos (río Atuel). Su discurso es de defensa de los intereses pampeanos frente a Nación y otras provincias.",
+            "frase_fuerte": "Cuando una provincia se endeuda para gastos corrientes, las decisiones deja de tomarlas el gobernador, las toma un funcionario nacional"
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "minería",
+                "inversiones",
+                "salud"
+            ],
+            "postura_politica": "Radical alineado con el oficialismo nacional en materia de apertura minera. Promueve Mendoza como destino de inversiones, con énfasis en seguridad jurídica y modernización.",
+            "frase_fuerte": "Mendoza tiene potencial geológico y, con previsibilidad, seguridad jurídica y planificación, podemos atraer inversiones"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "emergencias",
+                "cooperación federal",
+                "educación intercultural"
+            ],
+            "postura_politica": "Peronista dialoguista que coordina con Nación en temas de emergencia y muestra gestión en educación intercultural. Evita la confrontación directa.",
+            "frase_fuerte": "Cuando se trata de cuidar a nuestra gente y proteger nuestro patrimonio natural, la mejor decisión es siempre anticiparse"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "educación",
+                "impuestos",
+                "cooperación con Río Negro",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Gobernador de perfil técnico que apuesta a la competitividad fiscal y a la integración regional. Su alianza con Weretilneck busca fortalecer la Norpatagonia frente a Nación.",
+            "frase_fuerte": "Neuquén consolidó un esquema de competitividad basado en la coordinación entre Nación, Provincia y Municipio"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "cooperación con Neuquén",
+                "infraestructura",
+                "energía"
+            ],
+            "postura_politica": "Peronista que prioriza la gestión y la cooperación interprovincial. Su agenda con Figueroa muestra un bloque regional que negocia colectivamente con Nación.",
+            "frase_fuerte": "El verdadero federalismo no es un discurso. Es compartir experiencias, aprender unos de otros y trabajar en conjunto"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "solidaridad internacional",
+                "minería"
+            ],
+            "postura_politica": "Gobernador de perfil bajo que se solidariza con Chile y promueve la minería. Sin confrontación, busca posicionar a San Juan como destino de inversiones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "obra pública",
+                "gas",
+                "educación"
+            ],
+            "postura_politica": "Gobernador de gestión local con anuncios de obras y programas sociales. Evita cualquier mención a Nación, lo que sugiere una estrategia de autonomía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "gestión local",
+                "Juegos Suramericanos",
+                "seguridad"
+            ],
+            "postura_politica": "Radical que muestra gestión en infraestructura deportiva y seguridad. Su tweet sobre la alerta de EE.UU. es un logro en seguridad que capitaliza políticamente.",
+            "frase_fuerte": "Esto es el resultado de los cambios que impulsamos desde el primer día: enfrentar a las mafias, recuperar el control de la calle"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "agua potable",
+                "viviendas",
+                "cultura"
+            ],
+            "postura_politica": "Peronista de gestión local con anuncios de obras. Sin confrontación, busca mostrar una provincia en desarrollo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "gestión local",
+                "reuniones institucionales"
+            ],
+            "postura_politica": "Peronista que se enfoca en la gestión cotidiana y reuniones con actores locales. Evita posicionamientos nacionales, mostrando una provincia que funciona.",
+            "frase_fuerte": null
+        }
+    ]
+}

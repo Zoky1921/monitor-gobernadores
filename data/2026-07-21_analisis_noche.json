@@ -1,0 +1,235 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una fuerte reafirmación de la gestión provincial y la independencia financiera frente a la Nación. Varios gobernadores destacaron inversiones propias en infraestructura, salud y educación, contrastando con la supuesta inacción o abandono del gobierno central. El gobernador Ziliotto (La Pampa) fue enfático al vincular el endeudamiento provincial con la pérdida de soberanía en la toma de decisiones, mientras Kicillof (Buenos Aires) criticó directamente el 'abandono del Gobierno nacional' en salud. Otros mandatarios, como Figueroa (Neuquén) y Weretilneck (Río Negro), impulsaron agendas de cooperación interprovincial y atracción de inversiones con incentivos fiscales. Predomina un tono de autosuficiencia y defensa de los intereses locales, con claros signos de tensión en la relación con el Ejecutivo nacional.",
+    "analisis_profundo": "La agenda federal del 21 de julio de 2026 revela una polarización creciente entre el activismo provincial y la percepción de una Nación distante o incluso conflictiva. Los gobernadores se volcaron a comunicar intensamente sus logros de gestión e inversiones propias, lo que sugiere una estrategia deliberada para consolidar el poder y la legitimidad en sus territorios.\n\nEl gobernador Axel Kicillof (Buenos Aires) criticó abiertamente el 'abandono del Gobierno nacional' en áreas sensibles como la salud, utilizando la inauguración de un centro de atención primaria para subrayar la inversión provincial en contraste con la desfinanciación central. Esta narrativa de 'provincia versus Nación' se amplificó con el mensaje del gobernador Sergio Ziliotto (La Pampa), quien explicitó que el endeudamiento provincial para gastos corrientes se traduce en una pérdida de autonomía en las decisiones de gobierno, posicionando a La Pampa como baluarte de la 'independencia económica' y la 'decisión propia'. Esta retórica subraya una tensión fundamental sobre la distribución de recursos y el poder decisorio en el federalismo argentino.\n\nEn un frente más proactivo, el gobernador Rolando Figueroa (Neuquén) desplegó una ambiciosa estrategia de atracción de inversiones con un esquema de 'Impuestos 0%', combinando el Régimen de Incentivo a las Grandes Inversiones (RIGI) nacional con leyes provinciales y municipales para posicionar a Neuquén como el distrito con menor carga impositiva. Este enfoque, aunque busca la coordinación Nación-Provincia-Municipio, también denota una carrera competitiva entre jurisdicciones por captar capitales, especialmente para Vaca Muerta y GNL, y la diversificación hacia el agro.\n\nPor su parte, el gobernador Alberto Weretilneck (Río Negro) mostró una fuerte sinergia con el gobernador Figueroa (Neuquén) en la 'Norpatagonia', firmando convenios de cooperación en capacitación y abordando temas como la transferencia de rutas nacionales y proyectos energéticos, lo que resalta la búsqueda de bloques regionales para enfrentar desafíos comunes y potenciar el desarrollo sin depender exclusivamente de Buenos Aires. En este marco, el gobernador Weretilneck (Río Negro) también enfatizó el apoyo a productores rurales frente al cambio climático con financiamiento del CFI.\n\nOtros gobernadores, como Martín Llaryora (Córdoba), Leandro Zdero (Chaco), y Gerardo Zamora (Santiago del Estero), se enfocaron en la inversión en educación, obras de infraestructura social (agua, cloacas, viviendas) y el fortalecimiento de servicios públicos con fondos exclusivamente provinciales. Estas acciones buscan demostrar capacidad de respuesta ante las demandas ciudadanas, muchas de las cuales, en el discurso de algunos, no estarían siendo cubiertas por la esfera nacional.\n\nEl panorama del día es de una fuerte afirmación de las provincias a través de su capacidad de gestión y de un reclamo tácito o explícito de autonomía frente a un contexto nacional percibido como restrictivo o ausente. La diversidad de estrategias, desde la confrontación discursiva hasta la cooperación regional y la atracción de inversiones, evidencia un federalismo dinámico pero bajo una clara presión.",
+    "temas_calientes": [
+        {
+            "tema": "Inversión y Gestión Provincial de Obra Pública y Servicios",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Autonomía Económica y Críticas a la Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Federalismo y Cooperación Interprovincial",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Educación y Fortalecimiento Institucional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "Porque cuando una provincia se endeuda para gastos corrientes, las decisiones deja de tomarlas el gobernador, las toma un funcionario nacional. En La Pampa seguiremos teniendo independencia económica, seguiremos decidiendo nosotros. Por eso, algunos no entienden o se callan cuando luchamos por lo que les pertenece a los pampeanos.",
+        "por_que_es_clave": "El gobernador (La Pampa) articula directamente la autonomía económica con la soberanía política, una declaración potente en el debate federal sobre el rol de las provincias y el impacto de la financiación externa en la capacidad de decisión local.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Obras de Infraestructura Hídrica",
+                "Relación Nación-Provincia"
+            ],
+            "postura_politica": "El gobernador (Buenos Aires) exhibe la inversión provincial en salud y obras hídricas, como la inauguración de un centro de atención primaria y un acueducto. Su discurso es de confrontación directa, señalando el 'abandono del Gobierno nacional' y reafirmando el compromiso provincial con los servicios esenciales como un derecho, financiado con fondos propios.",
+            "frase_fuerte": "Una inversión que contrasta con el abandono del Gobierno nacional y nos permite mejorar la atención de los vecinos de Castelar en clínica médica, ginecología, enfermería y odontología, entre otras áreas."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Política Salarial",
+                "Apoyo a Trabajadores Públicos"
+            ],
+            "postura_politica": "El gobernador (Catamarca) anunció la acreditación de un bono extraordinario de $100.000 para trabajadores provinciales y municipales. Su postura es de reconocimiento al esfuerzo laboral, buscando fortalecer el poder adquisitivo de los empleados públicos en un contexto económico desafiante.",
+            "frase_fuerte": "Ya está acreditado el bono extraordinario de $100.000 para todos los trabajadores de planta permanente provinciales y de cada uno de los municipios de Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Educación",
+                "Alfabetización",
+                "Capacitación Docente"
+            ],
+            "postura_politica": "El gobernador (Chaco) resaltó los avances del programa #AprendoLeyendo, que ha duplicado la fluidez lectora en estudiantes. Su gestión prioriza la educación como eje fundamental para el futuro de la provincia, invirtiendo en capacitación docente y el fortalecimiento de habilidades básicas.",
+            "frase_fuerte": "Porque el futuro de una provincia comienza cuando un niño aprende a leer y comprender lo que lee."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Recuperación de Espacios Públicos",
+                "Infraestructura Comunitaria"
+            ],
+            "postura_politica": "El gobernador (Chubut) informó sobre la transformación de un espacio abandonado en el barrio Illia en un lugar de encuentro y recreación. Su política apunta a mejorar la calidad de vida de los vecinos a través de la recuperación y puesta en valor de la infraestructura social, fomentando el deporte y la comunidad.",
+            "frase_fuerte": "TRANSFORMAMOS UN SÍMBOLO DEL ABANDONO EN UN LUGAR DE ENCUENTRO"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación Pública Superior",
+                "Formación Policial",
+                "Igualdad Territorial",
+                "Infraestructura Educativa"
+            ],
+            "postura_politica": "El gobernador (Córdoba) enfatizó la inversión en la sede regional de la Universidad Provincial y en nuevos centros de formación policial. Su objetivo es la 'Igualdad Territorial', asegurando que las oportunidades de educación superior y capacitación lleguen a todos los rincones de la provincia, sin importar el lugar de nacimiento.",
+            "frase_fuerte": "En #Córdoba, el futuro no se promete, se construye."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Conectividad Regional",
+                "Gestión Federal"
+            ],
+            "postura_politica": "El gobernador (Entre Ríos) destacó la importancia del puente Rosario-Victoria y el avance de obras en rutas nacionales para la conectividad y desarrollo. Subrayó su compromiso de 'seguir gestionando ante el Gobierno nacional' para las obras clave que impulsen la producción y el empleo provincial, defendiendo los intereses de Entre Ríos con resultados.",
+            "frase_fuerte": "Gestionar con resultados es la mejor manera de defender los intereses de Entre Ríos."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Protección de la Infancia y Adolescencia"
+            ],
+            "postura_politica": "El gobernador (Jujuy) se pronunció sobre el compromiso de su gestión con el cuidado de niños, niñas y adolescentes. Su postura es de afirmación de la responsabilidad estatal en la protección de los derechos de este segmento de la población.",
+            "frase_fuerte": "Cuidar a nuestros niños, niñas y adolescentes es una responsabilidad que asumimos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Autonomía Económica",
+                "Inversión Provincial",
+                "Infraestructura Hídrica y de Vivienda",
+                "Federalismo"
+            ],
+            "postura_politica": "El gobernador (La Pampa) anunció importantes obras de cloacas, agua potable y viviendas financiadas 'exclusivamente con recursos provinciales y sin endeudarnos'. Su discurso es una enérgica defensa de la independencia económica provincial, advirtiendo sobre la pérdida de soberanía en las decisiones cuando hay endeudamiento con el gobierno nacional.",
+            "frase_fuerte": "Porque cuando una provincia se endeuda para gastos corrientes, las decisiones deja de tomarlas el gobernador, las toma un funcionario nacional. En La Pampa seguiremos teniendo independencia económica, seguiremos decidiendo nosotros."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Inversión Minera",
+                "Desarrollo Económico",
+                "Seguridad Jurídica"
+            ],
+            "postura_politica": "El gobernador (Mendoza) recibió a una importante empresa minera de India, promoviendo el potencial de Malargüe y las condiciones favorables para la inversión. Su política se centra en atraer capitales externos mediante previsibilidad, seguridad jurídica y planificación, buscando generar desarrollo y empleo a través de una minería moderna y sostenible.",
+            "frase_fuerte": "El interés de empresas internacionales confirma que Mendoza tiene potencial geológico y que, con previsibilidad, seguridad jurídica y planificación, podemos atraer inversiones que generen desarrollo y empleo para los mendocinos."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Gestión de Emergencias",
+                "Coordinación Federal",
+                "Protección Ambiental"
+            ],
+            "postura_politica": "El gobernador (Misiones) mantuvo una reunión de coordinación federal por el fenómeno El Niño y el riesgo de incendios. Su gestión prioriza la anticipación y la articulación interjurisdiccional (Nación, municipios, provincias) para proteger la población y la biodiversidad provincial, destacando la importancia del trabajo conjunto.",
+            "frase_fuerte": "Cuando se trata de cuidar a nuestra gente y proteger nuestro patrimonio natural, la mejor decisión es siempre anticiparse."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Incentivos Fiscales",
+                "Desarrollo de Vaca Muerta/GNL",
+                "Educación Técnica",
+                "Salud",
+                "Infraestructura",
+                "Diversificación Productiva",
+                "Coordinación Federal"
+            ],
+            "postura_politica": "El gobernador (Neuquén) consolidó un esquema de 'Impuestos 0%' para la producción, destacando la coordinación Nación-Provincia-Municipio para atraer inversiones en Vaca Muerta y GNL. También anunció importantes obras de infraestructura educativa y sanitaria, así como inversiones para la diversificación productiva, como el riego. Su gestión busca maximizar las oportunidades del crecimiento neuquino con planificación y beneficios para las empresas y el empleo local.",
+            "frase_fuerte": "IMPUESTOS 0%: NEUQUÉN ES EL DISTRITO CON LA MENOR CARGA IMPOSITIVA DEL PAÍS A LA PRODUCCIÓN"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Cooperación Interprovincial",
+                "Infraestructura",
+                "Apoyo a Productores",
+                "Energía",
+                "Salud"
+            ],
+            "postura_politica": "El gobernador (Río Negro) firmó un convenio de cooperación con Neuquén para capacitación y fortalecimiento de la Norpatagonia. También destacó inversiones en infraestructura eléctrica, vial y apoyo a productores agropecuarios con financiamiento para mallas antigranizo. Su gestión subraya el federalismo mediante hechos y la inversión con recursos propios para el desarrollo provincial y regional frente a desafíos como el cambio climático.",
+            "frase_fuerte": "Cuando las provincias trabajan juntas, comparten capacidades y coordinan políticas públicas, generan más oportunidades, fortalecen sus instituciones y mejoran la calidad de vida de su gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obra Pública Deportiva",
+                "Gestión Penitenciaria",
+                "Acceso a Servicios Básicos (Gas)",
+                "Infraestructura Escolar",
+                "Energías Renovables",
+                "Mantenimiento Vial Rural"
+            ],
+            "postura_politica": "El gobernador (San Luis) anunció la reactivación de un polideportivo, mejoras en el Servicio Penitenciario (educación, ascensos) y el programa 'Chau Garrafa' para acceso a gas natural. También inauguró infraestructura escolar y una planta fotovoltaica, además de impulsar consorcios camineros con productores. Su gestión se enfoca en la inversión directa en infraestructura y servicios, con participación público-privada para el bienestar social y el desarrollo productivo.",
+            "frase_fuerte": "Lanzamos la tercera edición del 'Programa CHAU GARRAFA' de manera de facilitarle y financiarle el acceso al gas natural a cientos de familias en donde la red pasa por el frente de su casa y ya tienen las instalaciones internas realizadas."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Apoyo a Instituciones Intermedias",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "El gobernador (Santa Fe) visitó localidades para acompañar a instituciones intermedias en obras de clubes, plazas y SAMCo. Su gestión prioriza el apoyo directo a la comunidad y el desarrollo de pueblos pequeños, promoviendo el trabajo conjunto para el crecimiento provincial.",
+            "frase_fuerte": "Trabajando juntos logramos que los pueblos pequeños cuenten con apoyo para hacer reliadad las obras de sus clubes, sus plazas y SAMCo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Infraestructura Hídrica",
+                "Viviendas Sociales",
+                "Servicios Básicos"
+            ],
+            "postura_politica": "El gobernador (Santiago del Estero) inauguró una planta potabilizadora y entregó viviendas sociales. Su enfoque es la inversión prioritaria en infraestructura y servicios esenciales para mejorar la calidad de vida de los vecinos y lograr un desarrollo equilibrado en todo el territorio provincial.",
+            "frase_fuerte": "Cada obra que realizamos responde a una necesidad concreta de nuestra gente y forma parte de un proyecto de provincia que prioriza la inversión en infraestructura, el acceso a los servicios indelegables del Estado y el desarrollo equilibrado de todo el territorio santiagueño."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Coordinación Provincial-Municipal",
+                "Desarrollo Social",
+                "Servicios"
+            ],
+            "postura_politica": "El gobernador (Tucumán) se reunió con un concejal de la capital para coordinar acciones de gestión y acercar servicios a los barrios. Su enfoque es la articulación y el diálogo con diferentes niveles de gobierno para promover el desarrollo social, la inclusión y mejorar la calidad de vida de los tucumanos.",
+            "frase_fuerte": "Seguimos trabajando con diálogo, coordinación y compromiso para que las acciones del Estado se traduzcan en más oportunidades para todos."
+        }
+    ]
+}
