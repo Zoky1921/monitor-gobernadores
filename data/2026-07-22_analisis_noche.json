@@ -1,0 +1,237 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La agenda de los gobernadores hoy se centró en la gestión territorial, obra pública y desarrollo productivo, con un tono general de pragmatismo y autonomía. Se destacaron acuerdos interprovinciales, como el de energía entre Nacho Torres (Chubut) y la provincia de Río Negro (Río Negro), y la articulación exitosa para el traspaso de la ruta A012 a Santa Fe (Santa Fe) por parte de Maxi Pullaro (Santa Fe). Varios mandatarios impulsaron inversiones en infraestructura educativa y vial, mientras que Rolando Figueroa (Neuquén) celebró la atracción de capitales a Vaca Muerta y Jorge Macri (Ciudad de Buenos Aires) generó debate con sus propuestas sobre seguridad y salud para extranjeros.",
+    "analisis_profundo": "La jornada del 22 de julio de 2026 reveló un federalismo activo, con gobernadores volcados a una gestión intensiva de sus respectivas provincias. La obra pública, financiada mayoritariamente con recursos propios, fue un eje central, demostrando una voluntad de autonomía y capacidad de respuesta local. Axel Kicillof (Buenos Aires) se dedicó a inaugurar proyectos de infraestructura hídrica y energética, además de entregar escrituras, enfatizando el rol del Estado en el bienestar. De manera similar, Martín Llaryora (Córdoba) avanzó con importantes obras cloacales y edificios para la educación técnica, complementado por su programa de seguridad ciudadana 'CordobesesEnAlerta'. Claudio Poggi (San Luis) también invirtió en educación inicial y promovió el desarrollo logístico con inversión privada. Gustavo Sáenz (Salta) y Osvaldo Jaldo (Tucumán) enfocaron sus mensajes en obras viales y coordinación gubernamental para sus territorios. \n\nUn punto de alta relevancia fue la cooperación interprovincial. Nacho Torres (Chubut) anunció un 'acuerdo histórico' con la provincia de Río Negro (Río Negro) para resolver una deuda energética, transformándola en inversión. Esta dinámica de colaboración fue replicada por Elías Suárez (Santiago del Estero) en sus reuniones con funcionarios de otras provincias. La Expo Rural de Palermo continuó siendo una vitrina para la producción local, con gobernadores como Leandro Zdero (Chaco), Claudio Vidal (Santa Cruz), Rogelio Frigerio (Entre Ríos), Claudio Poggi (San Luis) y Rolando Figueroa (Neuquén) promocionando sus economías regionales y buscando inversiones. \n\nEn cuanto a la relación con el gobierno nacional, la tónica fue de gestión pragmática. Rogelio Frigerio (Entre Ríos) destacó su compromiso de gestionar obras nacionales, mientras que Rolando Figueroa (Neuquén) celebró el éxito de la incorporación del upstream al RIGI, subrayando la coordinación para atraer inversiones. Maxi Pullaro (Santa Fe) consiguió el traspaso de una ruta nacional, evidenciando una gestión efectiva ante el Ejecutivo central. Sin embargo, Jorge Macri (Ciudad de Buenos Aires) se desmarcó con posturas más disruptivas, como la propuesta de cobrar la atención médica a extranjeros y la afirmación de 'terminó el vale todo' en operativos de seguridad, lo que anticipa posibles debates sobre políticas públicas con repercusión nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Obra Publica y Desarrollo de Infraestructura",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo y Promocion Productiva Regional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad Publica y Gestion del Delito",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Educacion y Formacion de Capital Humano",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Interaccion Federal y Transparencia en la Gestion",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@insfran_gildo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Extranjero que se atiende en la Ciudad, extranjero que paga.",
+        "por_que_es_clave": "Esta declaración es clave por su impacto directo en la política de salud y migratoria de la Ciudad de Buenos Aires (Ciudad de Buenos Aires), generando un debate nacional sobre el acceso a servicios públicos para no residentes y la autonomía provincial en estas definiciones.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Obra publica",
+                "Vivienda",
+                "Educacion"
+            ],
+            "postura_politica": "El gobernador (Buenos Aires) enfatiza la inversión estatal en infraestructura hídrica, energética y educativa. Reafirma la importancia de un Estado presente como motor de desarrollo y mejora de la calidad de vida de los bonaerenses.",
+            "frase_fuerte": "No hay futuro posible si no es con un Estado presente, que acompaña con obra pública para que el sector privado pueda invertir y generar trabajo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Salud",
+                "Politica Migratoria"
+            ],
+            "postura_politica": "El jefe de Gobierno (Ciudad de Buenos Aires) adopta una postura contundente en seguridad, anunciando el fin del 'vale todo' en barrios. Propone una política de salud controversial al implementar el cobro de atención a extranjeros, marcando una agenda de priorización de recursos para residentes.",
+            "frase_fuerte": "Extranjero que se atiende en la Ciudad, extranjero que paga."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Gestion de emergencias",
+                "Coordinacion interinstitucional"
+            ],
+            "postura_politica": "El gobernador (Catamarca) destaca la eficacia de la coordinación interinstitucional para el rescate de personas aisladas por una tormenta de nieve. Subraya el trabajo conjunto de diferentes organismos ante situaciones críticas.",
+            "frase_fuerte": "Gracias al trabajo coordinado de la Policía de Catamarca, Vialidad Provincial, el Municipio de Antofagasta de la Sierra, Bomberos Voluntarios de Santa María, las empresas Río Tinto y Guido Mogetta, junto a baqueanos de la zona, logramos rescatar a 23 personas aisladas por una tormenta de nieve sin precedentes en la Puna."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Produccion",
+                "Expo Rural"
+            ],
+            "postura_politica": "El gobernador (Chaco) promueve el potencial productivo de su provincia, destacando el talento y esfuerzo de los productores locales en la Expo Rural de Palermo. Enfatiza el orgullo por los logros de la ganadería chaqueña.",
+            "frase_fuerte": "El talento y el trabajo de nuestros productores volvieron a destacarse."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Cooperacion interprovincial",
+                "Obra energetica",
+                "Deporte"
+            ],
+            "postura_politica": "El gobernador (Chubut) anunció un acuerdo histórico con la provincia de Río Negro (Río Negro) para resolver un conflicto energético de 25 años. Demuestra una gestión proactiva en la resolución de problemas regionales mediante el diálogo.",
+            "frase_fuerte": "Con diálogo, responsabilidad y una mirada regional y federal estamos demostrando que los problemas históricos también pueden tener soluciones históricas."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Seguridad ciudadana",
+                "Educacion tecnica",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador (Córdoba) impulsa programas de seguridad ciudadana, invierte en la construcción de edificios para la educación técnica y avanza en obras cloacales. Prioriza el crecimiento, la formación y la seguridad como pilares de su gestión provincial.",
+            "frase_fuerte": "La #seguridad la construimos entre todos."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Cooperacion",
+                "Comercio"
+            ],
+            "postura_politica": "El gobernador (Formosa) busca fortalecer los lazos de cooperación con Turquía, explorando oportunidades en comercio, producción, inversiones e intercambio académico. Su postura apunta a la apertura internacional para el desarrollo provincial.",
+            "frase_fuerte": "Celebramos estos encuentros que promueven el conocimiento, el diálogo y la construcción de nuevos lazos de cooperación, contribuyendo al desarrollo de nuestra provincia."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Conectividad",
+                "Gestion nacional"
+            ],
+            "postura_politica": "El gobernador (Entre Ríos) destaca la importancia del puente Rosario-Victoria para la conectividad de su provincia con polos productivos. Reafirma su compromiso de gestionar obras necesarias ante el Gobierno nacional para el crecimiento entrerriano.",
+            "frase_fuerte": "Gestionar con resultados es la mejor manera de defender los intereses de Entre Ríos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Transparencia",
+                "Desarrollo economico",
+                "RIGI",
+                "Infraestructura",
+                "Politicas sociales"
+            ],
+            "postura_politica": "El gobernador (Neuquén) subraya la transparencia de su gestión y celebra el éxito del RIGI para Vaca Muerta. Impulsa inversiones viales y eléctricas, y lanza programas de cuidado para adultos mayores, mostrando un modelo de planificación y desarrollo integral.",
+            "frase_fuerte": "Cuando hay una hoja de ruta, reglas claras y una agenda común las oportunidades llegan y se transforman en crecimiento para todos los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Produccion",
+                "Seguridad",
+                "Cooperacion interprovincial"
+            ],
+            "postura_politica": "El gobernador (Río Negro) destaca la participación de productores rionegrinos en la Expo Rural y la modernización tecnológica en seguridad. Se posiciona por un enfoque regional y federal, colaborando con Chubut en un acuerdo energético.",
+            "frase_fuerte": "Río Negro tiene rumbo: más tecnología, más prevención y más seguridad para todos."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Obras con fondos provinciales"
+            ],
+            "postura_politica": "El gobernador (Salta) resalta el avance de la Autopista del Valle de Lerma, una obra estratégica financiada íntegramente con fondos provinciales. Su enfoque es la planificación y ejecución de infraestructura clave para el desarrollo local.",
+            "frase_fuerte": "Planificamos el futuro y hacemos las obras que Salta necesita."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Educacion superior",
+                "Salud publica"
+            ],
+            "postura_politica": "El gobernador (San Juan) celebra la incorporación de la carrera de Medicina en la UNSJ, ofreciendo el apoyo gubernamental con la red hospitalaria. Su política busca ampliar las oportunidades educativas y fortalecer la salud pública provincial.",
+            "frase_fuerte": "Que la @UNSJ_Oficial incorpore la carrera de Medicina en 2027 es una muy buena noticia para la provincia."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educacion",
+                "Inversion productiva",
+                "Logistica",
+                "Sector agropecuario"
+            ],
+            "postura_politica": "El gobernador (San Luis) muestra un fuerte compromiso con la educación inicial, licitando nuevas salas. Destaca la inversión extranjera en el sector logístico y promueve el diálogo con entidades rurales para el mantenimiento de caminos provinciales.",
+            "frase_fuerte": "La LOGÍSTICA en San Luis, por ubicación geográfica y demás condiciones de competitividad, se convierte en un generador de inversiones y de nuevos empleos."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Produccion",
+                "Expo Rural",
+                "Promocion provincial"
+            ],
+            "postura_politica": "El gobernador (Santa Cruz) enfoca su gestión en reposicionar a Santa Cruz en el ámbito nacional, promoviendo su producción en la Expo Rural. Busca agregar valor a los productos locales y generar oportunidades para la provincia.",
+            "frase_fuerte": "Nuestro compromiso es seguir construyendo una provincia que agregue valor a su producción, que acompañe a quienes invierten y trabajan todos los días y que vuelva a ocupar el lugar que le corresponde en los escenarios más importantes del país."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Produccion",
+                "Relaciones interjurisdiccionales"
+            ],
+            "postura_politica": "El gobernador (Santa Fe) celebra el traspaso de la ruta A012 a jurisdicción provincial, destacando su impacto en la producción y la logística. Subraya la importancia de la gestión efectiva para el desarrollo de la provincia.",
+            "frase_fuerte": "Un paso enorme para la producción santafesina. Hoy desde la Casa Rosada firmamos el traspaso de la ruta A012 a la jurisdicción de nuestra provincia por los próximos 20 años."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Relaciones interprovinciales",
+                "Desarrollo productivo regional"
+            ],
+            "postura_politica": "El gobernador (Santiago del Estero) destaca la consolidación de lazos con otras provincias y la articulación de una agenda común para el desarrollo productivo regional. Su enfoque es federal y de cooperación con otros distritos.",
+            "frase_fuerte": "Durante la reunión, conversaron sobre la importancia de consolidar lazos entre provincias con una mirada federal."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra publica",
+                "Conectividad",
+                "Seguridad",
+                "Gestion climatica",
+                "Coordinacion legislativa"
+            ],
+            "postura_politica": "El gobernador (Tucumán) se muestra activo en la gestión de obras viales y hídricas, y en la coordinación con legisladores nacionales y locales. Reafirma su compromiso de estar presente ante las necesidades de los tucumanos, incluso frente a dificultades climáticas.",
+            "frase_fuerte": "Reafirmamos nuestro compromiso de estar presentes, acompañar a cada vecino y continuar trabajando con responsabilidad por el bienestar de todos los tucumanos."
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por la disputa simbólica entre el relato de gestión provincial y el repliegue nacional. Kicillof refuerza su perfil de Estado presente contra el ajuste, mientras Figueroa y Pullaro capitalizan acuerdos con Nación en infraestructura y RIGI. La seguridad y la transparencia fiscal emergen como ejes de posicionamiento.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal y simbólica entre Nación y provincias se manifiesta en dos relatos antagónicos. Por un lado, Axel Kicillof (Buenos Aires) despliega una batería de inauguraciones y anuncios de obra pública —cauce del río Areco, estación transformadora en Salto, centros de salud— con un discurso que contrapone explícitamente la inversión provincial al 'abandono del Gobierno nacional'. Cada foto de obra es un acto de autonomía y una denuncia del ajuste. Por el otro, Rolando Figueroa (Neuquén) celebra la aprobación de un préstamo de CAF por USD 387,8 millones y la incorporación del upstream al RIGI, presentando a Neuquén como el distrito con menor carga impositiva a la producción. La disputa no es solo de recursos: es de modelos de Estado.\n\nActo 2 — Los Alineamientos: Se consolidan dos bloques. El primero, de gobernadores que buscan articular con Nación para obtener ventajas concretas: Maximiliano Pullaro (Santa Fe) firma el traspaso de la ruta A012 y anuncia obras inmediatas, mientras Figueroa y Alberto Weretilneck (Río Negro) coordinan infraestructura vial y energética para la Norpatagonia. El segundo bloque, encabezado por Kicillof, utiliza la gestión local como ariete político contra la Casa Rosada. En una zona gris, Jorge Macri (CABA) refuerza su perfil de orden y eficiencia con la eliminación de cargos gerenciales, sin confrontar directamente pero marcando distancia del relato nacional.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas se refugian en la agenda de cabotaje. Raúl Jalil (Catamarca) promociona la Fiesta del Poncho y un bono a empleados públicos; Leandro Zdero (Chaco) destaca logros educativos y exportaciones caprinas; Claudio Poggi (San Luis) inaugura salas de tres años y un centro de distribución. Son gestos de supervivencia política que evitan posicionarse sobre la macroeconomía. El silencio sobre la coyuntura nacional es, en sí mismo, un mensaje: no quieren quemar puentes ni con Nación ni con sus bases.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada deja un balance agridulce. Por un lado, logra que gobernadores aliados o pragmáticos (Figueroa, Pullaro, Weretilneck) validen instrumentos como el RIGI y la transferencia de rutas. Por el otro, la ofensiva comunicacional de Kicillof —el gobernador de la provincia más poblada— siembra dudas sobre la eficacia del ajuste y refuerza la narrativa opositora de que el Estado nacional se retira mientras las provincias sostienen el tejido social. La pulseada por el relato fiscal sigue abierta.",
+    "temas_calientes": [
+        {
+            "tema": "Obras provinciales como respuesta al repliegue nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "RIGI y atracción de inversiones",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad urbana y coordinación federal",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Transparencia y eficiencia del Estado",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Agenda cultural y promoción provincial",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La nueva Estación Transformadora y la línea de media tensión que inauguramos en Salto elimina el techo de crecimiento que sufría la localidad de Gahan. No solo beneficiará a los vecinos, sino que permitirá que más familias y nuevas empresas vengan a crecer y desarrollarse en el distrito.\n\nNo hay futuro posible si no es con un Estado presente, que acompaña con obra pública para que el sector privado pueda invertir y generar trabajo.",
+        "por_que_es_clave": "Kicillof sintetiza su estrategia de posicionamiento: cada obra provincial es un acto de autonomía y una crítica implícita al ajuste nacional. La frase 'No hay futuro posible si no es con un Estado presente' es un dardo directo al relato de Milei.",
+        "pregunta_openarg": "¿Puede la obra pública provincial sostenerse sin el respaldo fiscal de Nación, o es solo un espejismo electoral?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Estado presente",
+                "Crítica a Nación"
+            ],
+            "postura_politica": "Refuerza su perfil de gestor frente al ajuste nacional. Cada inauguración es un mensaje: 'Yo gestiono lo que Nación abandona'. La omisión de cualquier referencia a la macroeconomía es calculada: no necesita nombrar a Milei para confrontarlo.",
+            "frase_fuerte": "No hay futuro posible si no es con un Estado presente, que acompaña con obra pública para que el sector privado pueda invertir y generar trabajo."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Eficiencia del Estado",
+                "Orden"
+            ],
+            "postura_politica": "Marca perfil propio con la eliminación de cargos gerenciales y la política de 'extranjero que se atiende, paga'. Se posiciona como el gestor del orden y la eficiencia, sin confrontar con Nación pero diferenciándose del relato de ajuste nacional.",
+            "frase_fuerte": "La eficiencia del Estado no solo es una cuestión técnica: es un deber moral con los porteños que lo sostienen con su trabajo. Esto también es orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Fiesta del Poncho",
+                "Bono a empleados",
+                "Rescate en la Puna"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en promoción cultural y gestión de emergencias, evitando cualquier posicionamiento sobre la relación con Nación. El bono a empleados públicos es un gesto de supervivencia política.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "Exportaciones",
+                "Expo Rural"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Destaca logros en alfabetización y exportaciones caprinas, pero sin mencionar a Nación. Es un refugio en la agenda de cabotaje para evitar roces.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Acuerdo con Río Negro",
+                "Energía",
+                "Infraestructura"
+            ],
+            "postura_politica": "Muestra capacidad de gestión regional al firmar un acuerdo histórico con Río Negro para resolver un conflicto de 25 años. Se posiciona como un gobernador que resuelve problemas con diálogo, sin necesidad de Nación.",
+            "frase_fuerte": "Con diálogo, responsabilidad y una mirada regional y federal estamos demostrando que los problemas históricos también pueden tener soluciones históricas."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Educación técnica",
+                "Obra pública"
+            ],
+            "postura_politica": "Refuerza su gestión con inauguraciones y programas de seguridad. No menciona a Nación, pero su énfasis en la educación técnica y la infraestructura sugiere una apuesta a la autonomía provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Puente Rosario-Victoria",
+                "Seguro multirriesgo",
+                "Acuerdo con Salesforce"
+            ],
+            "postura_politica": "Gestiona ante Nación obras clave y presenta herramientas innovadoras para el campo. Se muestra como un gobernador que negocia y obtiene resultados, sin confrontar.",
+            "frase_fuerte": "Gestionar con resultados es la mejor manera de defender los intereses de Entre Ríos."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Aniversarios",
+                "Homenaje a Perón"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en efemérides y reuniones protocolares, evitando cualquier posicionamiento político. El silencio sobre la macroeconomía es total.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Infraestructura escolar",
+                "Coordinación con Nación",
+                "Cultura"
+            ],
+            "postura_politica": "Muestra gestión en educación y coordinación con Nación para emergencias. Se posiciona como un gobernador que articula sin conflictos, pero sin grandes gestos de autonomía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "RIGI",
+                "Préstamo CAF",
+                "Transparencia",
+                "Impuestos 0%"
+            ],
+            "postura_politica": "Se consolida como el principal aliado de Nación en materia de inversiones. Cada anuncio refuerza su relato de orden fiscal y competitividad. La mención a Caputo y el RIGI es una señal de alineamiento.",
+            "frase_fuerte": "Neuquén concentra dos de cada tres dólares anunciados a través de este régimen."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Cooperación con Neuquén",
+                "Seguridad inteligente",
+                "Obras"
+            ],
+            "postura_politica": "Refuerza la integración regional con Neuquén y muestra gestión en seguridad y obra pública. Se posiciona como un gobernador pragmático que busca resultados sin confrontar con Nación.",
+            "frase_fuerte": "El verdadero federalismo no es un discurso. Es compartir experiencias, aprender unos de otros y trabajar en conjunto."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Autopista del Valle de Lerma",
+                "Incendios",
+                "Seguridad"
+            ],
+            "postura_politica": "Muestra gestión en obra pública y emergencias, con un fuerte énfasis en la seguridad. No menciona a Nación, pero su presencia en la Vigilia del 9 de Julio sugiere una relación institucional correcta.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Medicina en UNSJ",
+                "Solidaridad con Chile",
+                "Ley de Desarrollo Minero"
+            ],
+            "postura_politica": "Agenda local con perfil internacional. Se enfoca en educación y minería, evitando roces con Nación. El gesto de solidaridad con Chile es un movimiento diplomático sin costo político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación inicial",
+                "Inversión privada",
+                "Consorcios camineros"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Inaugura obras y firma decretos, pero sin ningún posicionamiento federal. Es el refugio en la agenda de cabotaje más puro.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Expo Rural",
+                "Conectividad aérea",
+                "Eventos internacionales"
+            ],
+            "postura_politica": "Muestra gestión en promoción provincial y conectividad. Se posiciona como un gobernador que recupera presencia después de años de abandono, pero sin confrontar con Nación.",
+            "frase_fuerte": "Santa Cruz Puede y Tiene Rumbo..."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Traspaso de ruta A012",
+                "Seguridad",
+                "Viviendas"
+            ],
+            "postura_politica": "Capitaliza el traspaso de una ruta nacional como un logro de gestión. Se muestra como un gobernador que negocia y obtiene resultados, con un discurso de eficiencia y orden.",
+            "frase_fuerte": "Arreglar esta ruta nacional sale mucho, pero insistimos mucho con esto porque defendemos a nuestro sistema productivo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Reuniones con intendentes",
+                "Obras",
+                "Cultura"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en reuniones protocolares y obras menores, evitando cualquier posicionamiento político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obras hídricas",
+                "Salud",
+                "9 de Julio"
+            ],
+            "postura_politica": "Muestra gestión en infraestructura y salud, con un fuerte énfasis en el aniversario de la Independencia. Se posiciona como anfitrión de la celebración patria, lo que le da visibilidad federal sin confrontación.",
+            "frase_fuerte": null
+        }
+    ]
+}
