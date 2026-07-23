@@ -1,0 +1,133 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La agenda de los gobernadores hoy está marcada por la autoafirmación provincial en gestión y seguridad. Jorge Macri (Ciudad de Buenos Aires) intensifica su foco en 'ley y orden' en villas, proyectando una imagen de control territorial. Gobernadores como Torres (Chubut), Figueroa (Neuquén) y Sáenz (Salta) destacan inversiones en infraestructura y desarrollo económico, a menudo impulsadas por fondos provinciales o acuerdos interprovinciales, señalando una proactividad regional frente a necesidades estructurales o posibles inacciones federales. Llaryora (Córdoba) subraya la transparencia fiscal y gestión de seguridad, mientras Poggi (San Luis) y Suárez (Santiago del Estero) enfatizan el trabajo con sectores productivos, educación y salud. Esta dinámica general exhibe un federalismo activo, con las provincias tomando las riendas de su desarrollo.",
+    "analisis_profundo": "La jornada de hoy revela un paisaje federal donde las provincias están marcando una agenda propia con una fuerte impronta de gestión y autoafirmación. Jorge Macri (Ciudad de Buenos Aires) lidera con un mensaje contundente sobre seguridad, utilizando sus redes para amplificar operativos en villas y reforzar su lema de 'ley y orden', una señal clara de continuidad en su política de mano dura y control territorial. Esta postura, respaldada por múltiples retweets, sugiere una campaña mediática deliberada para consolidar su imagen en un área de alta sensibilidad ciudadana. En el interior, la tónica es de proactividad y resolución de problemas. Ignacio Torres (Chubut) ejemplifica un federalismo pragmático al destacar un acuerdo histórico con Río Negro para resolver un problema energético de larga data en la Comarca Andina, enmarcando esta acción como 'el verdadero federalismo'. Rolando Figueroa (Neuquén), por su parte, celebra el impacto positivo del Régimen de Incentivo a Grandes Inversiones (RIGI) en Vaca Muerta, una política que su provincia impulsó activamente, y resalta la transparencia de su gestión con una 'hoja de ruta' clara, buscando generar previsibilidad y confianza. La inversión en infraestructura es un eje transversal. Gustavo Sáenz (Salta) eleva el tono al anunciar la inversión de fondos provinciales en una ruta nacional, subrayando que los ciudadanos 'no pueden seguir esperando una solución que no llega', lo que visibiliza tensiones con el gobierno central y posiciona a Salta como un actor resolutivo. Martín Llaryora (Córdoba) presenta una agenda diversificada que incluye inversiones en salud pública, específicamente un hospital pediátrico, y la expansión de programas de seguridad ciudadana, mientras se posiciona como 'líder en transparencia fiscal' según informes externos, reforzando una imagen de gestión eficiente y responsable. Por otro lado, Claudio Poggi (San Luis) se enfoca en la articulación con el sector agropecuario y la inversión en infraestructura educativa, priorizando el desarrollo local y las oportunidades para la niñez. Elías Suárez (Santiago del Estero) también se inclina por obras de salud pública, habilitando una UPA, mostrando un compromiso con el acceso a servicios esenciales. Juan Manuel Passalacqua (Misiones) utiliza sus redes para difundir programas provinciales de salud enfocados en la mujer, consolidando una agenda de bienestar y prevención. El mensaje general de los gobernadores activos hoy es de una gestión local y regional proactiva, afirmando las capacidades provinciales para abordar cuestiones críticas, desde seguridad e infraestructura hasta desarrollo económico y servicios sociales, encuadrando estas acciones como la verdadera expresión del federalismo.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad Ciudadana y Control Territorial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura (energética, vial, educativa)",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Federalismo y Cooperación Interprovincial",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@NachoTorresCH",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Gestión Fiscal y Transparencia",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Ley y orden en la villa 1.11.14.",
+        "por_que_es_clave": "Demuestra la determinación del gobierno porteño en imponer su agenda de seguridad en zonas complejas de la Ciudad, priorizando la intervención policial y el control territorial.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad Ciudadana",
+                "Control Territorial"
+            ],
+            "postura_politica": "El gobernador (Ciudad de Buenos Aires) reafirma su política de mano dura en seguridad y control territorial, enfocándose en la intervención de villas para restablecer el 'orden'. Sus retweets amplifican el mensaje de que 'se terminó el vale todo' y la protección de los 'laburantes' mediante fuerzas de seguridad.",
+            "frase_fuerte": "Ley y orden en la villa 1.11.14."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura Energética",
+                "Federalismo",
+                "Cooperación Interprovincial"
+            ],
+            "postura_politica": "El gobernador (Chubut) celebra un acuerdo interprovincial con Río Negro para una inversión energética clave, resolviendo un conflicto de 25 años. Articula su gestión como una manifestación de 'federalismo' al resolver problemas concretos de la gente a través de la cooperación regional.",
+            "frase_fuerte": "EL VERDADERO FEDERALISMO ES RESOLVER LOS PROBLEMAS DE NUESTRA GENTE"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Transparencia Fiscal",
+                "Seguridad Ciudadana"
+            ],
+            "postura_politica": "El gobernador (Córdoba) enfatiza su gestión con un enfoque triple: inversión en infraestructura de salud pública (hospital pediátrico), mejora de la seguridad ciudadana con programas participativos ('Cordobeses en Alerta'), y liderazgo en transparencia fiscal, citando rankings externos para validar su administración.",
+            "frase_fuerte": "CÓRDOBA LÍDER EN TRANSPARENCIA FISCAL"
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Políticas de Género"
+            ],
+            "postura_politica": "El gobernador (Misiones) refuerza el compromiso de su gobierno con la salud pública, destacando un programa provincial de atención integral para mujeres, lo que subraya una agenda de bienestar y prevención en la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo Energético",
+                "Inversión Privada",
+                "Transparencia de Gestión"
+            ],
+            "postura_politica": "El gobernador (Neuquén) consolida su estrategia de desarrollo económico al celebrar el éxito de la inclusión del upstream en el RIGI para Vaca Muerta, atribuyéndolo a una decisión política provincial. Paralelamente, subraya la transparencia de su gestión al comunicar una 'hoja de ruta' clara para el desarrollo de la provincia.",
+            "frase_fuerte": "CUANDO PROPUSIMOS QUE EL UPSTREAM INGRESE AL RIGI, NO NOS EQUIVOCAMOS"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Inversión Provincial",
+                "Autonomía Federal"
+            ],
+            "postura_politica": "El gobernador (Salta) toma la iniciativa de financiar obras en una ruta nacional con fondos provinciales, lo que implica una crítica implícita a la inacción del gobierno federal y subraya su compromiso con la infraestructura y la seguridad vial de su provincia.",
+            "frase_fuerte": "tomé la decisión de invertir fondos provinciales en la reparación de ese tramo de la ruta, aunque sea nacional."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Desarrollo Agropecuario",
+                "Educación Pública",
+                "Infraestructura Educativa"
+            ],
+            "postura_politica": "El gobernador (San Luis) demuestra una agenda de gobierno que prioriza la articulación con sectores productivos como el agropecuario para coordinar políticas. También anuncia una fuerte inversión en educación inicial, enfocándose en la ampliación de infraestructura para niños y la escolarización temprana.",
+            "frase_fuerte": "Sumaremos otra Sala de Tres y más niños escolarizados !!"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Infraestructura Sanitaria"
+            ],
+            "postura_politica": "El gobernador (Santiago del Estero) destaca la habilitación de un nuevo edificio de una Unidad de Pronta Atención (UPA), reforzando el compromiso de su gestión con la mejora de la infraestructura sanitaria y el acceso a la salud pública en la provincia.",
+            "frase_fuerte": null
+        }
+    ]
+}

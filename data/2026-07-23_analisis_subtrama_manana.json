@@ -1,0 +1,145 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada exhibe una grieta entre gobernadores que desafían a Nación con obras propias (Salta) y quienes celebran la cooperación federal (Neuquén, Chubut, Catamarca). La seguridad porteña y la transparencia fiscal completan una agenda de posicionamiento calculado.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La decisión de Gustavo Sáenz (Salta) de invertir fondos provinciales en la ruta nacional 9/34 es un misil directo a la Casa Rosada. 'Aunque sea nacional' no es un lamento; es una acusación de abandono y una reivindicación de autonomía forzada. Mientras, Rolando Figueroa (Neuquén) agradece a Luis Caputo por el RIGI, mostrando que la alianza con Nación rinde frutos en Vaca Muerta. La tensión entre provincias que se sienten huérfanas y las que se benefician del modelo Milei define el día.\n\nActo 2 — Los Alineamientos: Del lado de la cooperación federal, Ignacio Torres (Chubut) y Raúl Jalil (Catamarca) firman un acuerdo energético histórico con Río Negro, presentándolo como 'el verdadero federalismo'. Es un bloque patagónico que se autoabastece y prescinde de Nación. Jorge Macri (CABA) refuerza su perfil de orden y eficiencia, alineado con el discurso nacional de seguridad y ajuste. Martín Llaryora (Córdoba) y Claudio Poggi (San Luis) se refugian en la gestión local, evitando roces.\n\nActo 3 — La Micro-política: Los gobernadores periféricos (Misiones, Santiago del Estero) se limitan a anuncios de obras y salud, sin mencionar a Nación. Es un silencio que sugiere supervivencia: no confrontan, pero tampoco celebran. La omisión de la macroeconomía en sus tuits es una estrategia para no quedar atrapados en el debate fiscal.\n\nActo 4 — Saldo Presidencial: Milei gana puntos con Neuquén y CABA, pero pierde con Salta y la señal de que provincias clave financien rutas nacionales. La Casa Rosada enfrenta un federalismo que ya no espera soluciones, sino que las impone por su cuenta. El capital político se erosiona cuando los gobernadores dejan de pedir y empiezan a hacer.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto por rutas nacionales: provincias financian obras que Nación abandona",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Cooperación interprovincial energética en Patagonia",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden urbano como marca de gestión",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Transparencia fiscal y eficiencia del Estado",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Inversiones y RIGI como herramienta de desarrollo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@RaulJalil_ok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@GustavoSaenzOK",
+        "texto": "Quienes transitan por la ruta nacional 9/34, en el tramo entre Rosario de la Frontera y Metán, no pueden seguir esperando una solución que no llega. Por esa razón, tomé la decisión de invertir fondos provinciales en la reparación de ese tramo de la ruta, aunque sea nacional.\n\nLas máquinas ya están trabajando en la repavimentación de la traza actual para dar seguridad y fluidez al tránsito y dar respuesta a una demanda de hace años.\n\nNos comprometimos. Estamos cerca de la gente. Estamos cumpliendo.",
+        "por_que_es_clave": "Sáenz expone la ausencia del Estado nacional y se erige como gestor directo, enviando un mensaje de autonomía forzada que otros gobernadores podrían emular. Es un desafío explícito a la narrativa de ajuste de Milei.",
+        "pregunta_openarg": "¿Cuántas rutas nacionales más deberán ser reparadas con fondos provinciales antes de que la Casa Rosada reconozca el colapso de su plan de infraestructura?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Orden",
+                "Reducción del Estado"
+            ],
+            "postura_politica": "Refuerza su perfil de mano dura con operativos en villas y eliminación de cargos gerenciales. Se alinea con el discurso nacional de seguridad y eficiencia, sin mencionar a Nación pero compitiendo en la misma sintonía.",
+            "frase_fuerte": "Se terminó el vale todo en las villas"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Cooperación interprovincial",
+                "Litio",
+                "Fiesta del Poncho",
+                "Bono a empleados"
+            ],
+            "postura_politica": "Jalil se muestra como articulador federal: retuitea el acuerdo patagónico y promociona su provincia. La mención al RIGI para litio indica alineamiento con la política minera nacional, pero sin subordinación.",
+            "frase_fuerte": "Los problemas históricos no se resuelven con discursos: se resuelven con diálogo, decisión política y acuerdos que mejoran la vida de la gente."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Acuerdo energético con Río Negro",
+                "Infraestructura",
+                "Federalismo"
+            ],
+            "postura_politica": "Torres capitaliza el acuerdo histórico con Río Negro para posicionarse como líder regional que resuelve problemas de fondo. Su mensaje es de autonomía y gestión, sin pedir nada a Nación.",
+            "frase_fuerte": "EL VERDADERO FEDERALISMO ES RESOLVER LOS PROBLEMAS DE NUESTRA GENTE"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Salud",
+                "Transparencia fiscal",
+                "Seguridad",
+                "Educación"
+            ],
+            "postura_politica": "Llaryora se enfoca en gestión pura: obras, transparencia y programas. Evita cualquier roce con Nación, mostrando una provincia ordenada que no necesita confrontar. Es un perfil técnico-político.",
+            "frase_fuerte": "Córdoba es la provincia mejor posicionada en transparencia fiscal y presupuestaria."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Salud",
+                "Infraestructura deportiva",
+                "Coordinación federal ante El Niño"
+            ],
+            "postura_politica": "Passalacqua se mantiene en la agenda local y de coordinación con Nación en emergencias. Sin confrontación, pero tampoco sin celebrar. Es un repliegue estratégico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "RIGI",
+                "Inversiones",
+                "Transparencia",
+                "Impuestos cero"
+            ],
+            "postura_politica": "Figueroa es el alumno estrella del modelo Milei: agradece a Caputo, promociona el RIGI y muestra resultados. Su postura es de alineamiento total con Nación en materia económica.",
+            "frase_fuerte": "Cuando propusimos que el upstream ingrese al RIGI, no nos equivocamos."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Rutas nacionales",
+                "Obra pública provincial",
+                "Seguridad",
+                "Incendios"
+            ],
+            "postura_politica": "Sáenz es el crítico más directo: financia rutas nacionales con fondos provinciales, evidenciando el abandono de Nación. Su mensaje es de autonomía y reclamo implícito.",
+            "frase_fuerte": "tomé la decisión de invertir fondos provinciales en la reparación de ese tramo de la ruta, aunque sea nacional."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Desarrollo productivo",
+                "Gas natural",
+                "Consorcios camineros"
+            ],
+            "postura_politica": "Poggi se concentra en gestión local: escuelas, inversiones y programas sociales. Sin mención a Nación, sugiere una provincia que resuelve sus problemas sin esperar soluciones externas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Salud",
+                "Vivienda",
+                "Cultura",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Suárez muestra gestión y vínculos con otras provincias (Chaco, Mar Chiquita). Sin conflicto con Nación, su perfil es de bajo perfil y construcción de redes.",
+            "frase_fuerte": null
+        }
+    ]
+}
