@@ -1,0 +1,175 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada expone una disputa fiscal soterrada: Kicillof marca agenda propia en salud y obras mientras critica el abandono nacional; Macri refuerza su perfil de orden y eficiencia; Figueroa y Jalil muestran sintonía con Nación en inversiones. El silencio de otros gobernadores sugiere repliegue táctico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante de la jornada es la disputa por legitimidad fiscal y gestión. Kicillof, desde la provincia más poblada, despliega una narrativa de autosuficiencia y crítica al ajuste nacional, mientras Figueroa, desde Neuquén, celebra la incorporación del upstream al RIGI como una victoria de la coordinación Nación-provincia. Ambos discursos son dos caras de la misma moneda: la puja por recursos y el relato de quién gobierna realmente.\n\nActo 2 — Los Alineamientos: Figueroa y Jalil se posicionan como los aliados estratégicos de la Casa Rosada, capitalizando inversiones y RIGI. Kicillof y Macri, cada uno a su manera, construyen un perfil de autonomía: el primero con un discurso de Estado presente frente al abandono nacional; el segundo con una gestión eficientista y ordenada que contrasta con el relato de ajuste. Llaryora y Passalacqua se mantienen en una ambigüedad calculada, mostrando gestión local sin confrontar directamente.\n\nActo 3 — La Micro-política: Zdero y Torres, desde provincias periféricas, se enfocan en obra pública y gestión territorial, evitando posicionamientos nacionales. Es un refugio en la agenda de cabotaje que revela tanto la falta de recursos como el cálculo de no exponerse en un escenario de alta tensión.\n\nActo 4 — Saldo Presidencial: Milei gana en el tablero de las inversiones con Figueroa y Jalil, pero pierde en el relato de la gestión cotidiana con Kicillof y Macri. La Casa Rosada enfrenta una provincia díscola (Buenos Aires) y una Ciudad que compite en eficiencia, mientras los gobernadores del interior se alinean selectivamente. El capital político presidencial se sostiene en los acuerdos fiscales, pero se erosiona en la percepción de abandono territorial.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y orden urbano como marca de gestión",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Salud pública y crítica al abandono nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Inversiones y RIGI como sintonía con Nación",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Obra pública y gestión provincial autónoma",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Federalismo y cooperación interprovincial",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Seguimos acercando la salud a cada barrio de la provincia con obras como el nuevo Centro de Atención Primaria 'Papa Francisco' que inauguramos en Morón. Una inversión que contrasta con el abandono del Gobierno nacional y nos permite mejorar la atención de los vecinos de Castelar en clínica médica, ginecología, enfermería y odontología, entre otras áreas. La verdadera libertad es que todas las personas que sufren un padecimiento puedan contar con una atención integral en un centro como este, tengan o no los recursos.",
+        "por_que_es_clave": "Kicillof no se limita a inaugurar; marca territorio ideológico al contrastar su gestión con el 'abandono' nacional. Es un mensaje doble: a los vecinos les dice 'yo los cuido', y a Nación le dice 'usted no hace lo suficiente'. La jugada apunta a erosionar el relato de ajuste de Milei, presentándose como el verdadero garante de derechos.",
+        "pregunta_openarg": "¿Hasta cuándo la provincia de Buenos Aires podrá sostener servicios sociales sin un traspaso de fondos nacionales o una reforma coparticipable, o es solo un gesto político insostenible en el tiempo?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "salud",
+                "obra pública",
+                "crítica a Nación",
+                "educación",
+                "vivienda",
+                "energía",
+                "financiamiento PyME",
+                "soberanía",
+                "cultura del encuentro"
+            ],
+            "postura_politica": "Construye un relato de autonomía y eficiencia provincial frente a un Gobierno nacional que describe como ausente y ajustador. Cada tuit de gestión es un dardo a la Casa Rosada, buscando posicionarse como el verdadero defensor de los derechos sociales y la producción.",
+            "frase_fuerte": "Una inversión que contrasta con el abandono del Gobierno nacional."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "orden",
+                "reforma del Estado",
+                "eficiencia",
+                "gestión PRO"
+            ],
+            "postura_politica": "Refuerza su perfil de gestor ordenado y eficiente, con énfasis en la seguridad y la reducción del Estado. Es un posicionamiento que compite con el relato nacional de ajuste, mostrando que la Ciudad puede hacerlo mejor y más rápido. La omisión de Nación en sus tuits es deliberada: no necesita confrontar porque su gestión habla por sí sola.",
+            "frase_fuerte": "Se terminó la joda en las villas."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "CAF",
+                "inversiones",
+                "federalismo",
+                "energía",
+                "Fiesta del Poncho",
+                "gestión",
+                "rescate"
+            ],
+            "postura_politica": "Muestra sintonía con Nación al participar en el Directorio de CAF y firmar acuerdos interprovinciales. Sin embargo, su agenda está dominada por la promoción de la Fiesta del Poncho, lo que sugiere un refugio en lo local. La reunión con el Banco Nación y el anuncio de bonos indican una gestión que busca paliar el ajuste con recursos propios y financiamiento externo.",
+            "frase_fuerte": "Gracias al trabajo coordinado... logramos rescatar a 23 personas aisladas por una tormenta de nieve sin precedentes."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "rutas",
+                "expo rural",
+                "educación",
+                "alfabetización",
+                "exportaciones",
+                "obra pública"
+            ],
+            "postura_politica": "Enfocado en gestión local y promoción de la producción chaqueña. Evita posicionamientos nacionales, lo que puede interpretarse como un repliegue táctico o una falta de recursos para confrontar. La mención a la Expo Rural y las exportaciones sugiere una apuesta por el desarrollo productivo como vía de supervivencia.",
+            "frase_fuerte": "No llegue al minuto, pero sí a contarles cómo avanzan las rutas del Chaco."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "deuda con Nación",
+                "obra pública",
+                "energía",
+                "acuerdo interprovincial",
+                "gestión",
+                "deporte"
+            ],
+            "postura_politica": "Logra transformar una deuda con Nación en obras, lo que es un triunfo político y de gestión. El acuerdo con Río Negro por energía muestra un federalismo práctico. La omisión de críticas directas a Nación sugiere que su relación es más transaccional que confrontativa.",
+            "frase_fuerte": "Transformamos deuda en obras clave."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "seguridad",
+                "prevención",
+                "obra pública",
+                "salud",
+                "educación",
+                "transparencia fiscal",
+                "gestión"
+            ],
+            "postura_politica": "Despliega una agenda de gestión intensa en seguridad, salud y educación, sin mencionar a Nación. Esto puede leerse como una estrategia de autonomía: Córdoba se ocupa de sus problemas sin esperar soluciones nacionales. La mención a la transparencia fiscal es un guiño al discurso de ajuste, pero sin alinearse explícitamente.",
+            "frase_fuerte": "Córdoba se hizo cargo y la obra de la Autopista Ruta Nacional 19 avanza."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "salud",
+                "tecnología",
+                "justicia",
+                "inversiones mineras",
+                "relaciones internacionales",
+                "gestión"
+            ],
+            "postura_politica": "Su agenda es de gestión moderna y apertura al mundo, con foco en salud y minería. La ausencia de críticas a Nación y la participación en eventos con funcionarios nacionales (como el jura de un vocal federal) sugieren una relación institucional correcta, sin grandes roces.",
+            "frase_fuerte": "Seguimos fortaleciendo la salud pública con tecnología de última generación."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "gestión con municipios",
+                "salarios",
+                "educación",
+                "salud",
+                "cultura",
+                "gestión"
+            ],
+            "postura_politica": "Se muestra como un gestor cercano y ocupado en la agenda local. La actualización salarial a docentes y fuerzas de seguridad es un gesto de sensibilidad social en un contexto de ajuste. Evita posicionamientos nacionales, lo que sugiere un cálculo de no exposición.",
+            "frase_fuerte": "Tal como lo venimos haciendo, en julio volveremos a actualizar los salarios de nuestros docentes y de las fuerzas de seguridad."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "RIGI",
+                "inversiones",
+                "Vaca Muerta",
+                "transparencia",
+                "educación",
+                "salud",
+                "infraestructura",
+                "gestión"
+            ],
+            "postura_politica": "Es el gobernador que más explícitamente se alinea con el Gobierno nacional, celebrando el RIGI y la llegada de inversiones. Su discurso de transparencia y eficiencia calza con el relato de Milei. La mención a los acuerdos con Río Negro muestra un federalismo cooperativo, pero siempre dentro de la órbita de la gestión pro-inversiones.",
+            "frase_fuerte": "Cuando propusimos que el upstream ingrese al RIGI, no nos equivocamos."
+        }
+    ]
+}
