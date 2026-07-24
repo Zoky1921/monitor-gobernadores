@@ -1,0 +1,114 @@
+{
+    "clima_general": "CALMO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron sus agendas en la gestión interna y la promoción provincial. Sergio Ziliotto (La Pampa) destacó el Día de los Pueblos Originarios Pampeanos, reafirmando la identidad cultural. Rolando Figueroa (Neuquén) celebró el crecimiento en ventas de supermercados, atribuyéndolo a su 'Modelo Neuquino'. Claudio Poggi (San Luis) anunció una diplomatura en Inteligencia Artificial para docentes, apostando a la innovación educativa. Gustavo Melella (Tierra del Fuego) promocionó una nueva ruta aérea de verano para impulsar el turismo. Raúl Jalil (Catamarca) compartió la aprobación de proyectos de desarrollo sostenible para la región, mientras que Osvaldo Jaldo (Tucumán) informó sobre su satisfactoria recuperación de una intervención médica. La jornada federal se muestra concentrada en lo local, lo educativo y la conectividad, con un tono general de gestión positiva.",
+    "analisis_profundo": "La jornada se caracteriza por un claro enfoque de los gobernadores en la gestión provincial y el desarrollo interno, con mínima referencia a conflictos interjurisdiccionales o nacionales. Sergio Ziliotto (La Pampa) prioriza la reafirmación cultural y soberana, con un mensaje clave sobre el Día Provincial de los Pueblos Originarios Pampeanos, buscando fortalecer la identidad territorial. Este es un posicionamiento político que busca unir en torno a valores intrínsecos de la provincia.\n\nEn el ámbito económico, Rolando Figueroa (Neuquén) presenta datos de crecimiento en ventas de supermercados, validando su 'Modelo Neuquino' y sus efectos en la inversión, el empleo y el consumo. Su estrategia es comunicar éxito en la administración económica autónoma.\n\nClaudio Poggi (San Luis) muestra una inversión en el futuro a través de la educación, con la diplomatura en Inteligencia Artificial para docentes. Esta iniciativa busca posicionar a San Luis (San Luis) a la vanguardia tecnológica en el sector educativo, promoviendo el desarrollo de capital humano.\n\nGustavo Melella (Tierra del Fuego) impulsa el turismo y la conectividad con el anuncio de una nueva ruta aérea internacional. Este tipo de medidas busca diversificar y fortalecer la economía provincial, además de su ya conocida defensa de la soberanía sobre las Islas Malvinas (Tierra del Fuego).\n\nRaúl Jalil (Catamarca) amplifica la aprobación de importantes proyectos de desarrollo sostenible para la región por parte de la CAF. Esto lo sitúa como un actor clave en la gestión de financiamiento internacional y el progreso regional, vinculando el desarrollo de Catamarca (Catamarca) a iniciativas más amplias.\n\nFinalmente, Osvaldo Jaldo (Tucumán) emite un comunicado sobre su estado de salud, proporcionando tranquilidad y mostrando una gestión transparente ante un evento personal relevante para la provincia. Su pronta recuperación permite mantener la continuidad institucional.\n\nEn conjunto, los mensajes reflejan una prioridad por la estabilidad, el crecimiento local y la construcción de un futuro provincial, consolidando un clima de trabajo enfocado en los desafíos y oportunidades propias de cada jurisdicción. El tono general es de gestión y optimismo, destacando logros y proyectos específicos.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo Económico Provincial y Consumo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Innovación y Fortalecimiento Educativo",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Promoción Turística y Conectividad Aérea",
+            "gobernadores_involucrados": [
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Financiamiento para el Desarrollo Sostenible",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Reafirmación Cultural e Identidad Provincial",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "MODELO NEUQUINO: CRECEN LAS VENTAS EN SUPERMERCADOS Los datos de mayo confirman que seguimos por el camino correcto. Las ventas en supermercados crecieron un 36,5% interanual a precios corrientes y un 7,8% interanual en términos reales, ubicando a Neuquén por encima del promedio nacional. Estos indicadores reflejan una provincia que sigue creciendo, generando actividad económica y oportunidades gracias a un Modelo Neuquino que impulsa la inversión, el empleo y el consumo.",
+        "por_que_es_clave": "El gobernador (Neuquén) destaca indicadores económicos positivos para su provincia, atribuyéndolos a su 'Modelo Neuquino'. Esto refuerza su gestión y autonomía en un contexto donde muchas provincias enfrentan dificultades.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Desarrollo sostenible",
+                "Financiamiento internacional",
+                "Infraestructura",
+                "Energías renovables"
+            ],
+            "postura_politica": "El gobernador (Catamarca) se muestra como un gestor activo en la búsqueda de financiamiento internacional para el desarrollo sostenible de la región, destacando la cooperación multilateral. Su retuit de CAF refuerza una visión de Catamarca inserta en la agenda regional de desarrollo.",
+            "frase_fuerte": "Desde Ciudad de México, en el marco del CLXXXIX Directorio de CAF, aprobamos proyectos por USD 2.046 millones para impulsar el desarrollo sostenible en ocho países de la región."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Pueblos originarios",
+                "Cultura",
+                "Memoria",
+                "Identidad provincial",
+                "Soberanía"
+            ],
+            "postura_politica": "El gobernador (La Pampa) adopta una postura de reivindicación y valoración de las raíces culturales e históricas de La Pampa, enfatizando la importancia de los pueblos originarios para la construcción de la identidad provincial. Esto se enmarca en una defensa de la soberanía cultural y territorial.",
+            "frase_fuerte": "RECONOCER NUESTRAS RAÍCES ES CONSTRUIR PAMPEANIDAD Y HONRAR NUESTRA SOBERANÍA."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Economía",
+                "Consumo",
+                "Ventas en supermercados",
+                "Inversión",
+                "Empleo",
+                "Modelo Neuquino"
+            ],
+            "postura_politica": "El gobernador (Neuquén) muestra una gestión proactiva con resultados económicos concretos, utilizando el crecimiento de ventas como prueba del éxito de su 'Modelo Neuquino'. Subraya el impacto de la inversión, el empleo y el consumo en el desarrollo provincial.",
+            "frase_fuerte": "MODELO NEUQUINO: CRECEN LAS VENTAS EN SUPERMERCADOS"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Innovación",
+                "Inteligencia artificial",
+                "Formación docente"
+            ],
+            "postura_politica": "El gobernador (San Luis) se posiciona como un impulsor de la modernización educativa, destacando la implementación de una diplomatura en IA para docentes. Resalta la apuesta de la provincia por el desarrollo del capital humano y la innovación.",
+            "frase_fuerte": "DIPLOMATURA DE INTELIGENCIA ARTIFICIAL Y EDUCACION dictada por la UNIVERSIDAD AUSTRAL. 6000 docentes inscriptos para esta segunda cohorte. Muy Bien !!"
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Turismo",
+                "Conectividad aérea",
+                "Desarrollo económico",
+                "Soberanía"
+            ],
+            "postura_politica": "El gobernador (Tierra del Fuego) promueve la provincia como un destino turístico internacional, anunciando nuevas rutas aéreas que impulsarán la economía local. Su mensaje, aunque celebra el turismo, también reitera la histórica postura sobre Malvinas, manteniendo una línea política de defensa territorial.",
+            "frase_fuerte": "A partir del 26 de noviembre, GOL Líneas Aéreas incorpora una nueva ruta de verano que unirá San Pablo, El Calafate y Ushuaia."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Transparencia",
+                "Salud del gobernador",
+                "Gestión"
+            ],
+            "postura_politica": "El gobernador (Tucumán) comunica de manera oficial y transparente sobre su estado de salud, proyectando una imagen de estabilidad y continuidad en la gestión provincial a pesar de una situación personal.",
+            "frase_fuerte": "El gobernador se recupera satisfactoriamente de una intervención."
+        }
+    ]
+}

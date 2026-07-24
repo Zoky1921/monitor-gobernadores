@@ -1,0 +1,74 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada sin señales de conflicto federal. Los gobernadores con actividad en redes se refugiaron en la gestión local, efemérides provinciales o anuncios de bajo impacto político. La ausencia de menciones a Nación sugiere una estrategia coordinada de apatía federal.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: No existe una tensión dominante. La agenda del día carece de disputas fiscales, reclamos por coparticipación o cruces con la Casa Rosada. Los gobernadores optaron por un silencio calculado, evitando posicionarse sobre temas que puedan desgastar su capital político o exponerlos a demandas nacionales.\n\nActo 2 — Los Alineamientos: No se detectan alineamientos explícitos. Cada gobernador se movió en su propio territorio: Raúl Jalil (Catamarca) se mostró en el ámbito internacional de CAF; Rolando Figueroa (Neuquén) destacó indicadores económicos provinciales; Sergio Ziliotto (La Pampa) reivindicó la identidad ranquel; Claudio Poggi (San Luis) impulsó una diplomatura docente; Gustavo Melella (Tierra del Fuego) promocionó conectividad aérea; y Osvaldo Jaldo (Tucumán) informó sobre su estado de salud. Ninguno articuló una postura común ni desafió al gobierno nacional.\n\nActo 3 — La Micro-política: Las provincias periféricas y centrales se refugiaron en la gestión de cabotaje. Los tuits de baja intensidad política (educación, salud, turismo, efemérides) revelan una estrategia de supervivencia: evitar la macroeconomía para no quedar atrapados en el debate del ajuste o la inflación. El silencio sobre la relación Nación-provincias es en sí mismo un mensaje de repliegue táctico.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es neutra. Sin ataques ni demandas desde los gobernadores, el gobierno nacional gana un respiro en la agenda mediática, pero también pierde la oportunidad de mostrar alineamientos o construir consensos públicos. La ausencia de conflicto no implica apoyo; es una tregua de baja visibilidad.",
+    "temas_calientes": [],
+    "tweet_destacado": {
+        "usuario": "@RaulJalil_ok (RT de @chrisasinelli)",
+        "texto": "Desde Ciudad de México, en el marco del CLXXXIX Directorio de CAF, aprobamos proyectos por USD 2.046 millones para impulsar el desarrollo sostenible en ocho países de la región. Las operaciones alcanzan sectores clave: infraestructura, energías renovables, acción climática, biodiversidad, movilidad urbana, desarrollo urbano, agua potable e inversión productiva. Un hito especial de esta reunión: sumamos a Santa Lucía como nuevo país accionista, con lo que CAF llega a 25 países y se consolida como el banco de desarrollo con mayor presencia geográfica de América Latina y el Caribe. También aprobamos un incremento de capital para Jamaica, que fortalecerá su capacidad de respuesta tras el paso del huracán Melissa. Seguimos trabajando para ser el banco de todos los latinoamericanos, latinoamericanas, caribeñas y caribeños.",
+        "por_que_es_clave": "Jalil se posiciona como un actor internacional, vinculándose al financiamiento regional, en un gesto que busca proyectar gestión y capacidad de gestión fuera de la órbita nacional. Es una jugada de autonomía simbólica, evitando el debate interno.",
+        "pregunta_openarg": "¿El creciente activismo internacional de los gobernadores argentinos (como la participación en CAF) es una señal de hartazgo con el centralismo o una estrategia para recaudar fondos sin pasar por Nación?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "CAF",
+                "financiamiento internacional",
+                "desarrollo regional"
+            ],
+            "postura_politica": "Se muestra como un gestor con proyección internacional, subrayando su capacidad de conseguir recursos para el desarrollo. El mensaje evita cualquier mención a la Nación, sugiriendo que Catamarca opera en una esfera propia.",
+            "frase_fuerte": "CAF llegó a 25 países y se consolida como el banco de desarrollo con mayor presencia geográfica de América Latina y el Caribe."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "pueblos originarios",
+                "identidad provincial",
+                "ranquel"
+            ],
+            "postura_politica": "Reivindica la cultura ranquel en el Día Provincial de los Pueblos Originarios. Es un posicionamiento identitario, sin carga fiscal, que busca reforzar el perfil progresista y federal de su gestión.",
+            "frase_fuerte": "El pueblo ranquel -rankülche, en su propia lengua- ocupa un lugar importante dentro de esa historia."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "ventas en supermercados",
+                "crecimiento económico",
+                "Modelo Neuquino"
+            ],
+            "postura_politica": "Destaca el crecimiento de las ventas como prueba del éxito del 'Modelo Neuquino'. Es un mensaje de gestión exitosa, enviado a la Nación y a los inversores, mostrando que Neuquén avanza sin necesidad de ayuda federal.",
+            "frase_fuerte": "Las ventas en supermercados crecieron un 36,5% interanual a precios corrientes y un 7,8% interanual en términos reales, ubicando a Neuquén por encima del promedio nacional."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "inteligencia artificial",
+                "diplomatura"
+            ],
+            "postura_politica": "Promueve una iniciativa educativa local, sin vinculación nacional. Es una gestión de bajo perfil, que no genera roces ni réditos inmediatos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "turismo",
+                "conectividad aérea",
+                "GOL Líneas Aéreas"
+            ],
+            "postura_politica": "Anuncia una nueva ruta aérea internacional, mostrando dinamismo turístico. Es un logro de gestión local, pero sin impacto en la relación con Nación.",
+            "frase_fuerte": "A partir del 26 de noviembre, GOL Líneas Aéreas incorpora una nueva ruta de verano que unirá San Pablo, El Calafate y Ushuaia."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "salud",
+                "estado de salud",
+                "operación"
+            ],
+            "postura_politica": "Comunica su recuperación con un parte médico oficial. Es un mensaje personal y de transparencia, sin contenido político. Denota debilidad temporal, pero evita cualquier especulación sobre vacío de poder.",
+            "frase_fuerte": "El gobernador se recupera satisfactoriamente de una intervención."
+        }
+    ]
+}
