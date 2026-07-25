@@ -1,0 +1,183 @@
+{
+    "clima_general": "COLABORATIVO",
+    "resumen_ejecutivo": "La agenda federal de las últimas horas se centró en la gestión provincial con un marcado énfasis en la obra pública, el desarrollo productivo y el apoyo a las economías regionales. Varios gobernadores destacaron inversiones en infraestructura vial, saneamiento, vivienda y salud, financiadas con recursos propios o a través de licitaciones. El apoyo al turismo y al sector agropecuario, evidenciado por la presencia en la Expo Rural y políticas de exención impositiva, fue otro pilar. También se observaron iniciativas de cercanía gubernamental y celebraciones de aniversarios locales, consolidando la identidad y el sentido de pertenencia en las provincias.",
+    "analisis_profundo": "La jornada federal se caracterizó por una intensa actividad de los gobernadores en la promoción de la gestión provincial y el desarrollo endógeno. Un eje central fue la inversión en infraestructura: Claudio Poggi (San Luis) anunció licitaciones para la mejora de rutas y la construcción de viviendas, hospitales y escuelas en varias localidades del sur de su provincia, demostrando un compromiso fuerte con la expansión de servicios básicos. En la misma línea, Arabela Carreras (Río Negro) a través de retweets, mostró un despliegue masivo de obras en Bariloche, incluyendo cloacas, rutas y la recuperación de espacios, además de reforzar la seguridad en la zona andina. Leandro Zdero (Chaco) también destacó la entrega de títulos de propiedad y el impulso a la economía local a través de la cultura y la producción de bienes regionales.\n\nEl apoyo al sector productivo y turístico fue otro punto clave. Alfredo Cornejo (Mendoza) celebró el reconocimiento de la gastronomía provincial con Estrellas Michelin, vinculando este éxito al esfuerzo privado y al acompañamiento estatal para generar inversión y empleo. Martín Llaryora (Córdoba) y Arabela Carreras (Río Negro) resaltaron la importancia de la Expo Rural de Palermo como vidriera para sus agroindustrias y ganaderías, proyectando una visión de crecimiento y competitividad. Rolando Figueroa (Neuquén) también se centró en el potencial turístico de su provincia y la confianza para atraer inversiones.\n\nEn cuanto a las dinámicas interprovinciales, Arabela Carreras (Río Negro) y Nacho Torres (Chubut) mostraron una colaboración activa al resolver un conflicto histórico de más de 25 años en una inversión energética crucial para la Comarca Andina, un ejemplo claro de federalismo pragmático. Por otro lado, la distribución de bicicletas 'TUBI' en San Luis y la recuperación de espacios públicos en Santa Cruz (Claudio Vidal) reflejan políticas de impacto social y transparencia. Las celebraciones de aniversarios locales en Catamarca (Raúl Jalil) y Santiago del Estero (Elías Suárez) completaron un panorama de reafirmación identitaria y unidad provincial. No se detectaron tensiones con el gobierno nacional, sino una concentración en las agendas locales y regionales.",
+    "temas_calientes": [
+        {
+            "tema": "Impulso a la infraestructura y obra pública",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo, agroindustria y turismo",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Federalismo y colaboración interprovincial",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Vivienda y programas sociales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Reafirmación de identidad y cultura regional",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@EliasSuarezSDE",
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@alfredocornejo",
+        "texto": "Mendoza vuelve a ser reconocida entre los grandes destinos gastronómicos del mundo. Se realizó la entrega de las placas de la Guía Michelin 2026, que distinguió a nuestros restaurantes y profesionales por tercer año consecutivo. Tres nuevos establecimientos recibieron una Estrella Michelin, sumamos una nueva Estrella Verde y seis nuevos recomendados, además de dos reconocimientos especiales para profesionales mendocinos. Estos reconocimientos son el resultado del talento, la creatividad y el esfuerzo de quienes hacen crecer nuestra gastronomía todos los días. Desde el Estado seguiremos acompañando al sector privado, generando condiciones para invertir, crecer y crear empleo.",
+        "por_que_es_clave": "Destaca el reconocimiento internacional de la gastronomía mendocina, posicionando a la provincia como un referente turístico y económico global. Subraya una política activa de apoyo al sector privado y la generación de empleo, mostrando un enfoque proactivo en el desarrollo local y la atracción de inversiones.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Apoyo al sector agropecuario",
+                "Eventos nacionales"
+            ],
+            "postura_politica": "Demuestra una presencia activa en eventos de relevancia nacional como la Expo Rural, buscando posicionar la Ciudad Autónoma de Buenos Aires como un actor clave en el ámbito productivo y de integración con el campo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Celebraciones provinciales",
+                "Relaciones institucionales"
+            ],
+            "postura_politica": "Se alinea con un perfil institucional y colaborativo al retuitear mensajes de otras provincias y organismos, enfocándose en la celebración de la identidad regional y el protocolo diplomático.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Cultura y economía local",
+                "Vivienda",
+                "Derechos de propiedad"
+            ],
+            "postura_politica": "Enfocado en el desarrollo social y económico local, resaltando logros concretos en la entrega de títulos de propiedad y el impulso a la producción cultural, lo que refuerza su compromiso con el bienestar de las familias chaqueñas.",
+            "frase_fuerte": "Más de 45 años de espera para poder decir con orgullo: 'Esta casa es oficialmente mía'. Hoy, ese sueño ya es una realidad para más de 6.500 familias chaqueñas que tienen el título de propiedad en sus manos."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Deporte",
+                "Orgullo provincial"
+            ],
+            "postura_politica": "Prioriza el reconocimiento y apoyo a los talentos deportivos de la provincia, utilizándolos como símbolo de orgullo y esfuerzo chubutense.",
+            "frase_fuerte": "Por eso vamos a seguir estando junto a nuestros deportistas, para que puedan dejar siempre bien en alto la bandera de Chubut."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Agroindustria",
+                "Desarrollo regional",
+                "Articulación público-privada"
+            ],
+            "postura_politica": "Muestra un fuerte compromiso con el sector agroindustrial cordobés, promoviendo la inversión y el empleo a través de la articulación entre el sector público y privado, buscando el crecimiento sostenido de las economías regionales.",
+            "frase_fuerte": "Nuestro compromiso es seguir llevando iniciativas juntos, articulando lo público y lo privado, generando más oportunidades."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Turismo",
+                "Gastronomía",
+                "Desarrollo económico",
+                "Apoyo al sector privado"
+            ],
+            "postura_politica": "Promueve a Mendoza como un destino internacional de excelencia, destacando el rol del Estado en el acompañamiento al sector privado para generar inversiones, crecimiento y empleo, a partir de reconocimientos internacionales.",
+            "frase_fuerte": "Desde el Estado seguiremos acompañando al sector privado, generando condiciones para invertir, crecer y crear empleo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Turismo",
+                "Inversiones",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Enfocado en potenciar el turismo y la capacidad de la provincia para atraer inversiones, destacando el potencial esquiable de Neuquén como motor de desarrollo y crecimiento.",
+            "frase_fuerte": "Neuquén tiene la mayor superficie esquiable de la Argentina, pero, sobre todo, tiene gente con ganas de crecer y una provincia que genera confianza para atraer inversiones."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Gestión de cercanía",
+                "Infraestructura urbana",
+                "Federalismo regional",
+                "Seguridad",
+                "Desarrollo turístico",
+                "Ganadería",
+                "Reforma institucional"
+            ],
+            "postura_politica": "Adopta una postura proactiva y colaborativa, enfocándose en obras de gran impacto local, la modernización de la gestión pública y la promoción de la producción regional. Su énfasis en el 'federalismo en el que creemos' demuestra una visión de cooperación interprovincial para resolver desafíos comunes.",
+            "frase_fuerte": "Ese es el federalismo en el que creemos: provincias que dejan de lado las diferencias para trabajar juntas, resolver desafíos comunes y construir una Patagonia más integrada, con más infraestructura, más desarrollo y más oportunidades para todos."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obra pública",
+                "Vivienda",
+                "Infraestructura vial",
+                "Educación",
+                "Salud",
+                "Colaboración municipal"
+            ],
+            "postura_politica": "Muestra un fuerte impulso a la obra pública en el interior de la provincia, con un foco en la vivienda y la mejora de servicios esenciales. Destaca la inversión provincial como motor de desarrollo y la cooperación con los municipios.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Lucha contra la corrupción",
+                "Desarrollo productivo local",
+                "Transformación estatal"
+            ],
+            "postura_politica": "Acentúa su gestión en la recuperación de espacios asociados a la corrupción para transformarlos en polos productivos y mercados, proyectando una imagen de cambio y oportunidades para todos los santacruceños.",
+            "frase_fuerte": "Recuperamos un predio que durante años representó privilegios para unos pocos y lo transformamos en un lugar abierto para todos, donde se impulsa el desarrollo, el trabajo y las oportunidades."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Interior productivo",
+                "Desarrollo local",
+                "Visitas a municipios"
+            ],
+            "postura_politica": "Se enfoca en el fortalecimiento del interior provincial, realizando recorridas para visibilizar y apoyar el trabajo de los productores y emprendedores locales, reafirmando el potencial productivo de Santa Fe.",
+            "frase_fuerte": "Ver el trabajo que se realiza en nuestro interior productivo nos recuerda todo el tiempo la potencia enorme que tiene nuestro país cuando se apuesta por el esfuerzo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Celebraciones provinciales",
+                "Identidad cultural"
+            ],
+            "postura_politica": "Se centra en la celebración del aniversario de la 'Madre de Ciudades', enfatizando la identidad, la historia y la cultura de Santiago del Estero como pilares de cohesión y orgullo provincial.",
+            "frase_fuerte": "Santiago es su gente, su hospitalidad, su chacarera, su calidez y esa identidad única que nos llena de orgullo en cada rincón de nuestra patria."
+        }
+    ]
+}
