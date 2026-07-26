@@ -1,0 +1,215 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La agenda federal de los gobernadores (Buenos Aires, CABA, Chaco, Chubut, Córdoba, La Pampa, Mendoza, Neuquén, Río Negro, San Luis, Santa Cruz, Santa Fe, Santiago del Estero y Tierra del Fuego) se focalizó en la gestión provincial con un marcado énfasis en obras de infraestructura, desarrollo productivo y turístico. Axel Kicillof (Buenos Aires) y Sergio Ziliotto (La Pampa) destacaron políticas provinciales para suplir recortes nacionales, evidenciando tensiones fiscales. Por otro lado, Ignacio Torres (Chubut) y Alberto Weretilneck (Río Negro) resaltaron la cooperación interprovincial en temas energéticos. La mayoría celebró logros en áreas como vivienda, conectividad, seguridad y promoción económica local, buscando fortalecer la autonomía y el crecimiento territorial frente a un contexto nacional complejo.",
+    "analisis_profundo": "La jornada del 25 de julio de 2026 y las últimas horas del 24 de julio revelan una estrategia clara por parte de los gobernadores: consolidar la gestión provincial y marcar autonomía frente a las políticas nacionales, con un fuerte acento en el desarrollo local. Axel Kicillof (Buenos Aires) criticó directamente el 'desfinanciamiento de Remediar' por parte del gobierno nacional, reafirmando el compromiso de su provincia con la provisión gratuita de fármacos, posicionándose como defensor activo del rol estatal en la salud. Sergio Ziliotto (La Pampa) enfatizó la financiación provincial de residencias médicas 'ante el abandono de Nación' y la inversión en infraestructura sin endeudamiento para mantener la 'independencia económica'. Jorge Macri (Ciudad Autónoma de Buenos Aires) se centró en la modernización de la ciudad, destacando la expansión de la red de carga eléctrica y su participación en la Expo Rural, promoviendo el sector privado y la innovación. Alfredo Cornejo (Mendoza) celebró el reconocimiento internacional de la gastronomía mendocina, ligándolo al esfuerzo del sector privado y el apoyo estatal. En el norte, Leandro Zdero (Chaco) resaltó avances en infraestructura esencial como electrificación rural y entrega de viviendas, además de iniciativas culturales y productivas. Claudio Poggi (San Luis) mostró una intensa actividad en vivienda, rutas y servicios de salud, enfatizando la inversión provincial directa. La Patagonia exhibió una fuerte apuesta por el turismo y la infraestructura. Rolando Figueroa (Neuquén) dedicó múltiples publicaciones a la temporada de esquí y el potencial turístico. Alberto Weretilneck (Río Negro) fue prolífico, abarcando desde obras de cloacas y repavimentación en Bariloche hasta la exención de Ingresos Brutos al turismo extranjero. Destacó la histórica cooperación con Ignacio Torres (Chubut) para obras energéticas en la Comarca Andina. Torres (Chubut) también celebró el éxito de productores en la Expo Rural y el reconocimiento a deportistas. Claudio Vidal (Santa Cruz) se sumó a la promoción productiva en la Rural y la organización de eventos internacionales. Gustavo Melella (Tierra del Fuego) impulsó nuevas rutas aéreas para el turismo. Finalmente, Martín Llaryora (Córdoba) hizo hincapié en la promoción productiva en la Expo Rural, mientras Elías Suárez (Santiago del Estero) se abocó a la celebración del aniversario de su capital. En conjunto, la jornada subraya una agenda provincial robusta, con fuerte inversión pública y privada, y una postura defensiva o proactiva frente a la situación nacional, buscando afirmar la autonomía y el desarrollo territorial.",
+    "temas_calientes": [
+        {
+            "tema": "Inversión en Infraestructura y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Fomento al Desarrollo Productivo y Agroindustrial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Turismo y Promoción Regional",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Autonomía Provincial y Reclamos al Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Celebraciones y Cultura Local",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Frente al desfinanciamiento de Remediar por parte del gobierno nacional, en @BAProvincia reforzamos la política de provisión gratuita de fármacos a través de Medicamentos Bonaerenses para garantizar la continuidad de los tratamientos y fortalecer el acceso a la salud.",
+        "por_que_es_clave": "Este tweet es clave porque marca una confrontación directa con el gobierno nacional, aludiendo a un 'desfinanciamiento' y posicionando a la provincia de Buenos Aires como un actor que suple las deficiencias nacionales en un área sensible como la salud, a través de políticas propias.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Crítica al gobierno nacional por el desfinanciamiento de programas de salud y reafirmación de la intervención provincial para garantizar el acceso a derechos básicos. Su postura es de defensa activa del Estado provincial como garante de servicios esenciales.",
+            "frase_fuerte": "Frente al desfinanciamiento de Remediar por parte del gobierno nacional, en @BAProvincia reforzamos la política de provisión gratuita de fármacos a través de Medicamentos Bonaerenses para garantizar la continuidad de los tratamientos y fortalecer el acceso a la salud."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Innovación urbana",
+                "Desarrollo productivo",
+                "Agenda agropecuaria"
+            ],
+            "postura_politica": "Impulsa la modernización de la ciudad a través de la electromovilidad y el fomento a la inversión privada. También mantiene una presencia activa en la promoción de sectores productivos en eventos clave como la Expo Rural.",
+            "frase_fuerte": "ACELERAMOS LA EXPANSIÓN DE LA RED DE CARGA ELÉCTRICA EN TODA LA CIUDAD Sumamos incentivos para la instalación de estaciones de carga para vehículos eléctricos e híbridos enchufables en espacios concesionados de la Ciudad."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Celebraciones interprovinciales",
+                "Diplomacia"
+            ],
+            "postura_politica": "Se muestra solidario con las celebraciones de provincias vecinas, como el aniversario de Santiago del Estero. Su mención a la despedida de una funcionaria de la embajada en India muestra una faceta protocolar y de relaciones externas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Vivienda",
+                "Desarrollo productivo",
+                "Cultura local"
+            ],
+            "postura_politica": "Foco en la concreción de obras que mejoran la calidad de vida y la infraestructura energética, así como en la promoción de la cultura y la economía local. Su gestión busca generar oportunidades y reafirmar la identidad chaqueña a través de proyectos concretos.",
+            "frase_fuerte": "'Esta casa es oficialmente mía'. Hoy, ese sueño ya es una realidad para más de 6.500 familias chaqueñas que tienen el título de propiedad en sus manos."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Deporte",
+                "Promoción provincial"
+            ],
+            "postura_politica": "Resalta los logros de productores y deportistas chubutenses a nivel nacional e internacional, utilizando estos éxitos como elementos de orgullo y promoción para la provincia. Enfatiza el potencial productivo y el apoyo gubernamental al deporte.",
+            "frase_fuerte": "PRODUCTORES CHUBUTENSES QUE DEJAN HUELLA Felicitaciones a Seleme, y a todo el equipo de la cabaña San Marón de Sarmiento, por obtener el Gran Campeón en la Exposición Rural de Palermo."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo agroindustrial",
+                "Economía regional"
+            ],
+            "postura_politica": "Promueve a Córdoba como un motor productivo nacional, reforzando el compromiso con el sector agropecuario y la agroindustria en eventos de alcance nacional. Busca la articulación público-privada para generar empleo e inversión.",
+            "frase_fuerte": "CÓRDOBA MUESTRA SU POTENCIAL EN LA EXPO RURAL DE PALERMO Somos un importante motor productivo del país. Por eso, junto al ministro @SergioBussoOK participé de la 138° @exposicionrural, en la ciudad de Buenos Aires, para reafirmar mi compromiso con el campo cordobés, la agroindustria y todo el entramado de este pujante sector de nuestra provincia."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Transparencia institucional",
+                "Salud pública",
+                "Autonomía provincial"
+            ],
+            "postura_politica": "Destaca los avances en transparencia presupuestaria y defiende la autonomía provincial mediante la financiación propia de servicios esenciales como las residencias médicas, en contraste con la gestión nacional. Reafirma la 'independencia económica' como pilar de su administración.",
+            "frase_fuerte": "La Pampa crece en calidad institucional por un Estado que suma transparencia y eficiencia."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Turismo",
+                "Gastronomía",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Celebra los reconocimientos internacionales a la gastronomía mendocina, posicionando a la provincia como un destino turístico de primer nivel. Subraya el rol del Estado en generar condiciones para la inversión y el crecimiento del sector privado.",
+            "frase_fuerte": "Mendoza vuelve a ser reconocida entre los grandes destinos gastronómicos del mundo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Turismo",
+                "Infraestructura turística",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Enfocado en la consolidación de Neuquén como un destino turístico de nieve de primer nivel. Destaca el crecimiento económico, la generación de empleo y la confianza para atraer inversiones.",
+            "frase_fuerte": "ESTAMOS MUY ORGULLOSOS DEL NEUQUÉN QUE TENEMOS Recorrimos Lago Hermoso Ski Resort para acompañar el comienzo de una nueva temporada de invierno y seguir fortaleciendo la oferta turística de Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Turismo",
+                "Seguridad",
+                "Desarrollo productivo",
+                "Federalismo"
+            ],
+            "postura_politica": "Presenta una gestión activa y presente en el territorio, con múltiples obras en Bariloche y la región, mejoras en seguridad y políticas innovadoras para el turismo (exención de IIBB a extranjeros). Resalta la cooperación interprovincial y el crecimiento de la ganadería.",
+            "frase_fuerte": "RÍO NEGRO SERÁ LA PRIMERA PROVINCIA EN EXIMIR INGRESOS BRUTOS AL TURISMO EXTRANJERO"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obra pública",
+                "Vivienda",
+                "Infraestructura vial",
+                "Salud",
+                "Educación"
+            ],
+            "postura_politica": "Gran énfasis en la concreción de obras públicas y la entrega de viviendas en múltiples localidades del sur provincial. Demuestra un fuerte compromiso con el desarrollo de infraestructura básica y social, destacando el impacto directo en la vida de las familias.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Infraestructura",
+                "Recuperación de espacios",
+                "Turismo"
+            ],
+            "postura_politica": "Enfocado en la recuperación de activos provinciales para el fomento productivo y la promoción de la provincia en eventos nacionales e internacionales. Busca generar trabajo local y destacar el potencial productivo de Santa Cruz.",
+            "frase_fuerte": "EL CAMBIO EMPIEZA CUANDO SE RECUPERA LO QUE ERA DE UNOS POCOS PARA PONERLO AL SERVICIO DE TODOS"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Desarrollo productivo del interior",
+                "Visitas a localidades"
+            ],
+            "postura_politica": "Destaca el potencial productivo del interior de la provincia y la importancia del 'esfuerzo' local. Se enfoca en el trabajo en equipo con las comunidades para el crecimiento de Santa Fe.",
+            "frase_fuerte": "Qué recorrida por Cañada de Gómez, Salto Grande y Lucio V. Lopez Ver el trabajo que se realiza en nuestro interior productivo nos recuerda todo el tiempo la potencia enorme que tiene nuestro país cuando se apuesta por el esfuerzo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Celebraciones provinciales",
+                "Cultura",
+                "Identidad"
+            ],
+            "postura_politica": "Conmemora el aniversario de la 'Madre de Ciudades' con un fuerte componente de orgullo por la historia, la identidad y la hospitalidad santiagueña. Fomenta el sentido de pertenencia y el trabajo conjunto por el futuro.",
+            "frase_fuerte": "¡Feliz 473° aniversario Madre de Ciudades! Me emociona enormemente volver a encontrarnos en la Plaza Libertad para celebrar los 473 años de esta ciudad que es corazón de la historia de nuestro pueblo."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Turismo",
+                "Conectividad aérea"
+            ],
+            "postura_politica": "Celebra la expansión de las rutas aéreas directas, destacando el impacto positivo en el turismo y la economía provincial. Busca potenciar a Tierra del Fuego como un destino accesible y atractivo.",
+            "frase_fuerte": "GOL Líneas Aéreas incorpora una nueva ruta de verano que unirá San Pablo, El Calafate y Ushuaia."
+        }
+    ]
+}

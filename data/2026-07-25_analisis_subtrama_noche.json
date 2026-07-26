@@ -1,0 +1,204 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "El día estuvo marcado por la denuncia de Kicillof sobre el desfinanciamiento de Remediar, mientras gobernadores del interior usaron la Expo Rural como vitrina de gestión. La mayoría evitó confrontar al gobierno nacional, excepto La Pampa y Buenos Aires.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El tuit de Kicillof sobre el desfinanciamiento de Remediar es la señal más clara de la jornada. El gobernador bonaerense transforma un problema técnico en una declaración de guerra política, exhibiendo la asfixia fiscal como argumento de campaña y dejando expuesta la contradicción del ajuste nacional. No es un reclamo técnico, sino un acto de soberanía provincial que busca capitalizar la falta de respuesta de Nación.\n\nActo 2 — Los Alineamientos: Los gobernadores alineados con el gobierno nacional, como Jorge Macri y Rolando Figueroa, aprovecharon la jornada para mostrar resultados concretos. Macri destacó la calificación crediticia de CABA y las operaciones de seguridad, mientras Figueroa celebró la incorporación del upstream al RIGI, refrendando la confianza en las inversiones en Vaca Muerta. En tanto, Weretilneck y Torres firmaron un acuerdo histórico para resolver un conflicto energético de 25 años, mostrando una cooperación interprovincial que busca opacar la falta de respuestas de Nación.\n\nActo 3 — La Micro-política: Gobernadores de provincias periféricas, como Raúl Jalil y Claudio Poggi, se refugiaron en la agenda de cabotaje: efemérides, viviendas y rutas. La ausencia de menciones a la macroeconomía en estos tuits no es casualidad, sino una estrategia de supervivencia para no quedar atrapados en el fuego cruzado entre Nación y la provincia de Buenos Aires.\n\nActo 4 — Saldo Presidencial: La Casa Rosada logró que varios gobernadores del interior evitaran la confrontación, pero el ruido de Kicillof y la crítica de La Pampa por el abandono de las residencias médicas marcan que la paciencia fiscal tiene un límite. El gobierno nacional gana tiempo, pero no resuelve la tensión estructural con la provincia más grande del país.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto fiscal: Provincia de Buenos Aires acusa a Nación de desfinanciar salud",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Exposición Rural de Palermo como vitrina de gestión provincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "RIGI y desarrollo energético: Neuquén y Río Negro destacan inversiones",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Transparencia fiscal: La Pampa y Neuquén mejoran indicadores",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Aniversario de Santiago del Estero: movilización de identidad local",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @SaludBAP)",
+        "texto": "Frente al desfinanciamiento de Remediar por parte del gobierno nacional, en @BAProvincia reforzamos la política de provisión gratuita de fármacos a través de Medicamentos Bonaerenses para garantizar la continuidad de los tratamientos y fortalecer el acceso a la salud.",
+        "por_que_es_clave": "Kicillof transforma un reclamo técnico en un acto de soberanía provincial, exhibiendo la asfixia fiscal como argumento de campaña y dejando expuesta la contradicción del ajuste nacional.",
+        "pregunta_openarg": "¿Puede la provincia de Buenos Aires sostener la política de medicamentos gratuitos sin el respaldo de Nación, o es una jugada electoral que se desmoronará con el tiempo?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "salud",
+                "desfinanciamiento nacional"
+            ],
+            "postura_politica": "Oposición frontal, denuncia desfinanciamiento y construye relato de gestión propia frente al ajuste nacional.",
+            "frase_fuerte": "Frente al desfinanciamiento de Remediar por parte del gobierno nacional, en @BAProvincia reforzamos la política de provisión gratuita de fármacos..."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "electrificación",
+                "Expo Rural",
+                "calificación crediticia",
+                "seguridad"
+            ],
+            "postura_politica": "Alineamiento con el gobierno nacional, destaca orden fiscal y gestión eficiente como modelo.",
+            "frase_fuerte": "Contundente!!! Después de 14 años recuperamos la calificación B1 de Moody’s..."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "aniversario Santiago del Estero",
+                "Fiesta del Poncho",
+                "bono empleados"
+            ],
+            "postura_politica": "Agenda local sin impacto federal, refugio en efemérides y gestión de cabotaje.",
+            "frase_fuerte": "Feliz Cumpleaños Madre de Ciudades!!"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "energía rural",
+                "bienal",
+                "acordeón",
+                "títulos de propiedad",
+                "vínculo con Turquía"
+            ],
+            "postura_politica": "Gestión local, perfil bajo. Evita confrontación con Nación.",
+            "frase_fuerte": "Llegó la luz rural al Paraje El Puca, detrás de décadas de esfuerzo y esperanzas..."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Expo Rural",
+                "deportista campeón",
+                "acuerdo energético con Río Negro"
+            ],
+            "postura_politica": "Cooperación interprovincial, destaca logros productivos y deportivos. Muestra gestión sin tensiones.",
+            "frase_fuerte": "PRODUCTORES CHUBUTENSES QUE DEJAN HUELLA... Felicitaciones a Seleme, y a todo el equipo de la cabaña San Marón de Sarmiento..."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Expo Rural",
+                "transparencia",
+                "seguridad"
+            ],
+            "postura_politica": "Gestión local, sin confrontación. Alineamiento tácito con el orden fiscal.",
+            "frase_fuerte": "CÓRDOBA MUESTRA SU POTENCIAL EN LA EXPO RURAL DE PALERMO"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "transparencia",
+                "residencias médicas",
+                "cloacas",
+                "reclamo río Atuel"
+            ],
+            "postura_politica": "Crítica a Nación por abandono, pero focalizada. Marca autonomía y gestión propia.",
+            "frase_fuerte": "Ante el abandono de Nación nos hacemos cargo de financiar las Residencias Médicas."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "gastronomía",
+                "financiamiento",
+                "salud",
+                "debate eutanasia"
+            ],
+            "postura_politica": "Gestión moderna, sin criticar Nación. Muestra atractivo internacional.",
+            "frase_fuerte": "Mendoza vuelve a ser reconocida entre los grandes destinos gastronómicos del mundo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "turismo",
+                "RIGI",
+                "transparencia",
+                "infraestructura"
+            ],
+            "postura_politica": "Alineado con Nación en RIGI, muestra resultados de gestión y confianza inversora.",
+            "frase_fuerte": "CUANDO PROPUSIMOS QUE EL UPSTREAM INGRESE AL RIGI, NO NOS EQUIVOCAMOS"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Expo Rural",
+                "acuerdo con Chubut",
+                "seguridad",
+                "turismo"
+            ],
+            "postura_politica": "Cooperación interprovincial y gestión local. Perfil de diálogo y resultados.",
+            "frase_fuerte": "PATAGONIA UNIDA: UN ACUERDO HISTÓRICO PARA GARANTIZAR MÁS ENERGÍA PARA NUESTRA GENTE"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "viviendas",
+                "rutas",
+                "hospital",
+                "educación"
+            ],
+            "postura_politica": "Gestión pura, sin federal. Agenda local intensa sin posicionamiento político.",
+            "frase_fuerte": "NAVIA - Finalicé la actividad de Navia con la visita al Destacamento Policial recientemente refaccionado y ampliado."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Expo Rural",
+                "esquila",
+                "tren",
+                "conectividad"
+            ],
+            "postura_politica": "Gestión, recuperación de obras y presencia en eventos. Sin crítica a Nación.",
+            "frase_fuerte": "CON NICOLÁS PINO COMPARTIMOS LA DEMOSTRACIÓN DE ESQUILA, UNA DE LAS GRANDES TRADICIONES PRODUCTIVAS QUE IDENTIFICAN A SANTA CRUZ"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "obras",
+                "traspaso ruta",
+                "seguridad"
+            ],
+            "postura_politica": "Gestión, cooperación con Nación en traspaso de ruta. Perfil de gestión eficiente.",
+            "frase_fuerte": "Ayer firmamos el traspaso. Hoy arrancan las reparaciones."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "aniversario",
+                "salud",
+                "juventud"
+            ],
+            "postura_politica": "Gestión local, identidad. Sin señales de tensión federal.",
+            "frase_fuerte": "473 AÑOS DE NUESTRA MADRE DE CIUDADES... Con enorme orgullo acompañamos a miles de santiagueños y visitantes en el tradicional Desfile Cívico Militar..."
+        }
+    ]
+}
