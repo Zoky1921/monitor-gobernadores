@@ -1,0 +1,110 @@
+{
+    "clima_general": "CALMO",
+    "resumen_ejecutivo": "Los gobernadores activos en las últimas horas se volcaron a la gestión local y a la reafirmación identitaria. Jorge Macri (Ciudad Autónoma de Buenos Aires) destacó obras viales y operativos de seguridad, mientras Gildo Insfrán (Formosa), Sergio Ziliotto (La Pampa) y Ricardo Quintela (La Rioja) protagonizaron un unificado homenaje a Eva Perón, vinculando su legado a la construcción de una Patria justa y soberana. Claudio Poggi (San Luis) participó en festejos municipales y Claudio Vidal (Santa Cruz) promovió el turismo deportivo y tradiciones productivas. La agenda, fragmentada, no evidencia conflictos interjurisdiccionales, centrándose en las particularidades de cada provincia.",
+    "analisis_profundo": "La jornada se caracteriza por una agenda provincial predominantemente localista y conmemorativa, sin grandes controversias interjurisdiccionales o conflictos abiertos con el gobierno nacional. Jorge Macri (Ciudad Autónoma de Buenos Aires) exhibe un perfil de gestión enfocado en obras de infraestructura vial y urbana, con menciones específicas a la ampliación de puentes y autopistas. Asimismo, reitera su compromiso con la seguridad ciudadana mediante retweets sobre operativos de saturación, utilizando la consigna de 'Ley y orden'. Esta línea de comunicación refuerza una visión de gobierno pragmático y eficiente en la capital federal.\n\nPor otro lado, un marcado bloque de gobernadores peronistas, integrado por Gildo Insfrán (Formosa), Sergio Ziliotto (La Pampa) y Ricardo Quintela (La Rioja), convergieron en un fuerte homenaje a Eva Perón con motivo del 74° aniversario de su fallecimiento. Sus mensajes, publicados en las primeras horas del día, subrayan el legado de justicia social, igualdad y defensa de la soberanía, posicionando la figura de Evita como un faro para los 'tiempos donde necesitamos estar más unidos que nunca' (Quintela). Esta coordinación en la conmemoración podría interpretarse como una reafirmación identitaria y un intento de fortalecer el eje político peronista en el contexto federal.\n\nClaudio Poggi (San Luis) se sumó a la dinámica de cercanía, participando en el festejo del 124° aniversario de Anchorena y resaltando la inauguración de infraestructuras municipales, lo que refuerza una imagen de gestión orientada a las necesidades comunitarias y el desarrollo de pequeñas localidades.\n\nFinalmente, Claudio Vidal (Santa Cruz) diversificó su agenda, primero destacando la presentación de la Winter Swimming World Cup 2026 en El Calafate, con un énfasis en el potencial turístico y el trabajo público-privado. Además, compartió una demostración de esquila con Nicolás Pino, conectando con las tradiciones productivas y la identidad rural de su provincia. Ambas acciones buscan posicionar a Santa Cruz en el ámbito nacional e internacional, impulsando el desarrollo económico local.\n\nEn síntesis, los líderes provinciales se enfocan en su gestión interna, la promoción de sus territorios y la consolidación de sus bases políticas e identitarias. La ausencia de un gran tema federal unificador o conflictivo sugiere una jornada de agendas fragmentadas, donde cada gobernador prioriza su ámbito de acción directa y simbólico.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Conectividad Urbana",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Público",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Conmemoración y Reafirmación Peronista",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Impulso al Turismo y Eventos Provinciales",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Obras Locales",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Evita eterna 🤍 Su amor inmenso por los más humildes, su incansable lucha por la igualdad y su obra revolucionaria transformaron para siempre a la Argentina. Intentaron borrar su nombre y ocultar su legado, pero su figura es cada día más gigante.\n​En tiempos donde necesitamos estar más unidos que nunca, desde La Rioja levantamos sus banderas y reafirmamos el compromiso de construir una Patria más justa, libre y federal.",
+        "por_que_es_clave": "Este tweet no solo conmemora una figura histórica central del peronismo, sino que también utiliza el aniversario para enviar un mensaje político actual sobre unidad y el modelo de país, resonando con las tensiones federales y la identidad partidaria.",
+        "pregunta_openarg": "¿Cómo impacta la reafirmación del legado peronista en la dinámica de alianzas y confrontaciones con el gobierno central?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Infraestructura Urbana",
+                "Seguridad Ciudadana",
+                "Conectividad Vial"
+            ],
+            "postura_politica": "Macri (Ciudad Autónoma de Buenos Aires) se muestra enfocado en la gestión de infraestructura y seguridad, enfatizando la 'Ley y orden' y el avance de obras urbanas. Su discurso es pragmático y orientado a resultados concretos en su jurisdicción.",
+            "frase_fuerte": "Ley y orden."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Conmemoración Histórica",
+                "Justicia Social",
+                "Identidad Peronista"
+            ],
+            "postura_politica": "Insfrán (Formosa) reafirma los valores peronistas de justicia social e igualdad a través del legado de Eva Perón, proyectando su vigencia en la actualidad para la construcción de una sociedad solidaria.",
+            "frase_fuerte": "Su compromiso con el pueblo continúa inspirando la construcción de una sociedad más solidaria, inclusiva y con igualdad de oportunidades para todos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Conmemoración Histórica",
+                "Justicia Social",
+                "Soberanía Provincial"
+            ],
+            "postura_politica": "Ziliotto (La Pampa), similar a Insfrán, utiliza el aniversario de Evita para destacar la lucha por la dignidad, los derechos y un Estado al servicio del pueblo, vinculándolo a la defensa de una Argentina justa, libre y soberana.",
+            "frase_fuerte": "Evita no pertenece al pasado. Vive en cada lucha por una Argentina más justa, libre y soberana."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Conmemoración Histórica",
+                "Federalismo",
+                "Unidad Nacional"
+            ],
+            "postura_politica": "Quintela (La Rioja) honra el legado de Eva Perón para convocar a la unidad en tiempos de necesidad, reafirmando el compromiso con una Patria justa, libre y federal. Su mensaje busca trascender la mera conmemoración para proyectar un camino político.",
+            "frase_fuerte": "En tiempos donde necesitamos estar más unidos que nunca, desde La Rioja levantamos sus banderas y reafirmamos el compromiso de construir una Patria más justa, libre y federal."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Desarrollo Local",
+                "Obras Municipales",
+                "Celebraciones Provinciales"
+            ],
+            "postura_politica": "Poggi (San Luis) se enfoca en la presencia en el territorio y la participación en celebraciones locales, destacando la finalización de obras y la cercanía con los vecinos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Turismo",
+                "Deporte Internacional",
+                "Desarrollo Económico",
+                "Tradiciones Productivas"
+            ],
+            "postura_politica": "Vidal (Santa Cruz) promueve a Santa Cruz como destino internacional a través de eventos deportivos de gran envergadura y resalta las tradiciones productivas, con un enfoque en el trabajo conjunto público-privado para el desarrollo económico y turístico.",
+            "frase_fuerte": "Apostar al turismo también es apostar al desarrollo, al movimiento económico y al trabajo."
+        }
+    ]
+}

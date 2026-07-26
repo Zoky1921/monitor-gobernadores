@@ -1,0 +1,102 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada sin confrontación directa con Nación. Gobernadores peronistas conmemoran a Eva Perón, mientras Macri, Poggi y Vidal se refugian en gestión local. No hay reclamos fiscales ni disputas federales.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada registra un vacío de tensión fiscal o institucional con la Casa Rosada. Los gobernadores optan por un repliegue estratégico: ninguno aborda coparticipación, deuda o recursos estratégicos. El silencio sobre la macroeconomía es elocuente: sugieren que el costo político de confrontar no compensa el beneficio. \n\nActo 2 — Los Alineamientos: Los tres gobernadores peronistas (Insfran, Ziliotto, Quintela) sincronizan un homenaje a Eva Perón. No es casual: en un contexto de ajuste nacional, reivindicar a la abanderada de los humildes es una marca de identidad y resistencia simbólica. El gesto no implica acción inmediata, pero consolida un frente cultural. \n\nActo 3 — La Micro-política: Jorge Macri (CABA) y Claudio Poggi (San Luis) despliegan una agenda de obras y seguridad, mostrando eficiencia administrativa. Claudio Vidal (Santa Cruz) apuesta al turismo internacional. Los tres evitan cualquier mención a Nación, como si el país no existiera. Es una estrategia de supervivencia: gobernar es gestionar, no polemizar. \n\nActo 4 — Saldo Presidencial: Para Milei, el día es tranquilo. Ningún gobernador le exige fondos ni lo critica abiertamente. El silencio de los adversarios puede leerse como debilidad o como cálculo. Pero en el tablero federal, la ausencia de conflicto no es paz: es una tregua armada.",
+    "temas_calientes": [
+        {
+            "tema": "Conmemoración de Eva Perón",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Gestión de obras y seguridad urbana",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Vivienda y desarrollo local",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Promoción turística y eventos internacionales",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Evita eterna 🤍\n\n​Su amor inmenso por los más humildes, su incansable lucha por la igualdad y su obra revolucionaria transformaron para siempre a la Argentina. Intentaron borrar su nombre y ocultar su legado, pero su figura es cada día más gigante.\n​En tiempos donde necesitamos estar más unidos que nunca, desde La Rioja levantamos sus banderas y reafirmamos el compromiso de construir una Patria más justa, libre y federal.",
+        "por_que_es_clave": "Es el tuit más explícitamente político de la jornada: reivindica a Evita como símbolo de justicia social en un contexto de ajuste, y lanza una crítica implícita al gobierno de Milei ('intentaron borrar su nombre').",
+        "pregunta_openarg": "¿La reivindicación de Evita por parte de los gobernadores peronistas es una señal de resistencia o un gesto vacío sin capacidad de movilización?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "obras viales",
+                "seguridad",
+                "movilidad eléctrica",
+                "exposición rural"
+            ],
+            "postura_politica": "Macri se muestra como un gestor eficiente, centrado en la transformación urbana y el orden. Al retuitear operativos en villas con frases como 'Se terminó la joda', refuerza su perfil de mano dura. No menciona a Nación, pero su éxito en la gestión porteña es un activo político propio.",
+            "frase_fuerte": "Se terminó la joda en las villas"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Eva Perón",
+                "aniversarios locales"
+            ],
+            "postura_politica": "Homenaje a Evita en un tuit institucional. Refuerza la identidad peronista sin agresividad. Es un gesto de pertenencia al campo nacional y popular, pero sin confrontación directa.",
+            "frase_fuerte": "Honramos el legado de Evita, una mujer que marcó la historia argentina con su lucha incansable por la justicia social"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Eva Perón",
+                "transparencia fiscal"
+            ],
+            "postura_politica": "Similar a Insfran, pero con un tuit más extenso y emotivo. Busca capitalizar el legado de Evita para conectar con la base peronista. El tuit de transparencia (fuera de la ventana) sugiere que también quiere mostrar gestión ordenada.",
+            "frase_fuerte": "Evita no pertenece al pasado. Vive en cada lucha por una Argentina más justa, libre y soberana"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Eva Perón",
+                "feria del libro",
+                "cultura"
+            ],
+            "postura_politica": "El tuit más combativo de la jornada. Denuncia que 'intentaron borrar su nombre' y llama a la unidad. Quintela se posiciona como defensor del peronismo histórico, en sintonía con su perfil de oposición al gobierno nacional.",
+            "frase_fuerte": "Intentaron borrar su nombre y ocultar su legado, pero su figura es cada día más gigante"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "vivienda",
+                "rutas",
+                "salud",
+                "educación"
+            ],
+            "postura_politica": "Pura gestión local. Poggi recorre el sur provincial inaugurando obras y entregando viviendas. Su mensaje es que su gobierno cumple. No hay registro de la política nacional. Es un repliegue total a la agenda de cabotaje.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "turismo",
+                "deportes internacionales",
+                "producción",
+                "recuperación de espacios"
+            ],
+            "postura_politica": "Vidal promociona eventos internacionales y muestra recuperación de predios para la producción. Su lema 'Santa Cruz Puede y Tiene Rumbo' busca transmitir confianza. Evita confrontar con Nación, pero la alusión a 'dejar atrás años de abandono' es una crítica velada a la gestión anterior.",
+            "frase_fuerte": "Santa Cruz Puede y Tiene Rumbo"
+        }
+    ]
+}
