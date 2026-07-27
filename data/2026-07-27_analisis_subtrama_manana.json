@@ -1,0 +1,317 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "La jornada posterior a la ofensa de Milei a Lula domina la agenda. Kicillof capitaliza el conflicto diplomático como ariete contra la Casa Rosada, mientras los gobernadores peronistas se refugian en efemérides y gestión local. El silencio de la mayoría de los mandatarios sobre el tema Brasil es una señal de cálculo: no quieren quedar atrapados entre la lealtad partidaria y la necesidad de fondos nacionales.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La ofensa de Javier Milei a Lula da Silva, seguida del comunicado de Kicillof al canciller brasileño, instala una grieta diplomática que el gobernador bonaerense explota sin pudor. No es solidaridad: es marcar territorio de cara a 2027, presentándose como el estadista que la Casa Rosada no es. La pregunta que flota es si esta jugada le suma capital político o lo expone como un opositor que prioriza la pelea sobre la gestión.\n\nActo 2 — Los Alineamientos: El peronismo se divide entre los que siguen a Kicillof (Quintela, Insfrán, Ziliotto) y los que callan. Axel Kicillof, Ricardo Quintela y Gildo Insfrán homenajean a Evita el 26 de julio, pero omiten el conflicto con Brasil. Los gobernadores de JxC o provinciales, como Jorge Macri o Rogelio Frigerio, evitan el tema y se focalizan en gestión y eventos como la Expo Rural. Claudio Vidal (Santa Cruz) es el único que defiende explícitamente a Milei, en un gesto de alineamiento que busca réditos en la interna provincial.\n\nActo 3 — La Micro-política: Mientras la pelea grande ocupa las portadas, los gobernadores periféricos aprovechan para mostrar gestión. Leandro Zdero (Chaco) inaugura rutas y luz rural, Raúl Jalil (Catamarca) celebra la Fiesta del Poncho, y Claudio Poggi (San Luis) entrega viviendas. Es el refugio en la agenda de cabotaje: cuando el debate nacional es tóxico, mostrar obras locales es el único salvavidas.\n\nActo 4 — Saldo Presidencial: Para Milei, la foto con 13 gobernadores en Tucumán el 9 de julio ya es un recuerdo. Hoy, la ofensa a Lula lo deja solo ante el peronismo y la institucionalidad. El silencio de los gobernadores no alineados es su verdadero capital político: nadie quiere quemar puentes con la Casa Rosada, pero tampoco salir a bancar un exabrupto. El saldo es una debilidad política que Kicillof, con astucia, busca convertir en fortaleza propia.",
+    "temas_calientes": [
+        {
+            "tema": "Ofensa de Milei a Lula y reacción de Kicillof como canciller paralelo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Legado de Evita y reivindicación simbólica peronista",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@RaulJalil_ok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Expo Rural y posicionamiento productivo de provincias",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@RaulJalil_ok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Obras provinciales como respuesta al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@GustavoSaenzOK",
+                "@maxipullaro",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Silencio de gobernadores sobre conflicto con Brasil",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@GustavoSaenzOK",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Ayer vimos, con vergüenza ajena, al presidente Milei ofender e insultar al gobierno de Brasil, a su presidente y a todo un país. Desde la provincia de Buenos Aires sostenemos que la Argentina respeta a las naciones hermanas y apuesta a la integración regional. Hoy me comuniqué con Mauro Vieira, el canciller de Brasil, en nombre del @BonaerensePJ, para transmitirle que Milei no representa el sentir del pueblo argentino.",
+        "por_que_es_clave": "Kicillof no solo denuncia, sino que actúa: se comunica con el canciller brasileño y se erige como representante de la política exterior argentina. Es una jugada de doble filo: fortalece su perfil presidencial pero lo expone a la acusación de usurpar funciones nacionales.",
+        "pregunta_openarg": "¿Puede un gobernador arrogarse la representación internacional del país sin violar la Constitución, o es solo una jugada política para 2027?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Ofensa de Milei a Lula",
+                "Comunicación con canciller de Brasil",
+                "Homenaje a Evita",
+                "Gestión en salud y obras"
+            ],
+            "postura_politica": "Operador de la sucesión: se posiciona como el estadista que Milei no es, tejiendo política exterior paralela y recordando su gestión provincial como modelo alternativo. La agenda de obras es el aval de que 'gobierna' mientras la Nación se desintegra.",
+            "frase_fuerte": "\"Milei no representa el sentir del pueblo argentino\""
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Gestión de obras",
+                "Seguridad en villas",
+                "Calificación Moody's",
+                "Expo Rural"
+            ],
+            "postura_politica": "Aliado pragmático: evita el conflicto con Brasil y se enfoca en mostrar resultados de gestión que avalen su modelo PRO. La mejora en la calificación crediticia es su principal argumento: orden fiscal y previsibilidad, en sintonía con el discurso de Milei pero sin subordinación explícita.",
+            "frase_fuerte": "\"Después de 14 años recuperamos la calificación B1 de Moody’s\""
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Fiesta del Poncho",
+                "Homenaje a Evita",
+                "Gestión de emergencia climática",
+                "Expo Rural"
+            ],
+            "postura_politica": "Peronismo de gestión low profile: se refugia en la agenda cultural y la gestión local de crisis. El homenaje a Evita es marca de identidad, pero evita cualquier confrontación directa con Nación. Su presencia en la Expo Rural junto a Weretilneck sugiere alianzas regionales por fuera de la dinámica partidaria.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obras viales y de infraestructura",
+                "Expo Rural",
+                "Educación",
+                "Exportación caprina"
+            ],
+            "postura_politica": "Radicalismo de gestión pura: sin menciones a Nación ni a conflictos nacionales. Su foco es mostrar resultados en obra pública, alfabetización y producción. Es el perfil bajo que busca diferenciarse del ruido político con hechos concretos, aunque sin marcar agenda federal.",
+            "frase_fuerte": "\"Paso a paso vamos avanzando, algunas luego de grandes gestiones y otras con un enorme esfuerzo de todos los chaqueños\""
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Acuerdo histórico con Río Negro por energía",
+                "Deuda con Nación",
+                "Expo Rural",
+                "Deportes"
+            ],
+            "postura_politica": "Federalismo pragmático: el acuerdo con Río Negro por la deuda energética es su principal jugada. Muestra capacidad de resolución entre provincias, sin esperar a Nación. La cancelación de deuda con la Casa Rosada a cambio de obras es un guiño de gobernabilidad.",
+            "frase_fuerte": "\"Transformamos deuda en obras clave\""
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Pruebas Aprender",
+                "Obra pública",
+                "Seguridad",
+                "Expo Rural",
+                "Transparencia fiscal"
+            ],
+            "postura_politica": "Competencia en gestión: presume resultados educativos y fiscales como marca de su gobierno. La autopista RN 19 la paga la provincia, no Nación, lo que le permite marcar distancia del ajuste nacional sin confrontar. Su postura es de autonomía con diálogo.",
+            "frase_fuerte": "\"Córdoba se hizo cargo y la obra de la Autopista Ruta Nacional 19 avanza\""
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Homenaje AMIA",
+                "Gestión legislativa provincial",
+                "Expo Rural regional"
+            ],
+            "postura_politica": "Radicalismo con agenda propia: sus tweets son de fechas anteriores, sin posicionamiento sobre el conflicto del día. El homenaje a la AMIA y la gestión legislativa local marcan una agenda de baja intensidad, sin roces con Nación ni con la oposición.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Apertura mercado Indonesia",
+                "Puente Rosario-Victoria",
+                "Transparencia fiscal",
+                "Seguridad federal"
+            ],
+            "postura_politica": "Dialoguista pro gestión: celebra logros comerciales y de infraestructura con Nación, pero sin subordinación. Su presencia en la jura de Santilli y la reunión con Caputo muestran una relación funcional, aunque el foco está en las gestiones concretas para su provincia.",
+            "frase_fuerte": "\"Gestionar con resultados es la mejor manera de defender los intereses de Entre Ríos\""
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Homenaje a Evita",
+                "Aniversarios locales",
+                "Gestión institucional"
+            ],
+            "postura_politica": "Peronismo clásico de repliegue: sin menciones a Nación ni al conflicto con Brasil. Su agenda es de efemérides y actos de gestión local. El homenaje a Evita es identitario, pero sin carga política ofensiva. Es el perfil bajo de un gobernador que no necesita confrontar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Preocupación por productores bananeros",
+                "Ley de Precio Uniforme del Libro",
+                "Conectividad y minería"
+            ],
+            "postura_politica": "Opacidad calculada: sus tweets son principalmente de días anteriores, sin posicionamiento sobre la coyuntura. La preocupación por los bananeros y la ley del libro son temas sectoriales. Su perfil es de gestión técnica, sin alineamientos explícitos.",
+            "frase_fuerte": "\"Me preocupa la situación de los productores bananeros de Jujuy\""
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Homenaje a Evita",
+                "Gestión en salud y obras",
+                "Reclamo por el Atuel"
+            ],
+            "postura_politica": "Peronismo reivindicativo: el homenaje a Evita es acompañado de un fuerte reclamo a Mendoza por el río Atuel, que actualiza una disputa histórica. La omisión de la pelea con Brasil es deliberada: su foco está en la agenda pampeana y en marcar perfil propio dentro del peronismo.",
+            "frase_fuerte": "\"No vamos a dejar de luchar por lo que nos corresponde. EL RÍO ATUEL TAMBIÉN ES PAMPEANO\""
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Solidaridad con Lula",
+                "Homenaje a Evita",
+                "Feria del Libro"
+            ],
+            "postura_politica": "Peronismo combativo: se suma al repudio a Milei por la ofensa a Lula, pero su intervención es más moderada que la de Kicillof. La Feria del Libro y el homenaje a Evita son su caballo de batalla cultural. Su postura es de oposición clara, pero sin excederse.",
+            "frase_fuerte": "\"Quiero expresar mi solidaridad y respeto al presidente de Brasil, Luiz Inácio Lula da Silva\""
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Expo Rural",
+                "Inversión minera",
+                "Modernización hospitalaria"
+            ],
+            "postura_politica": "Gestión PRO-market: su agenda es de promoción económica y modernización del Estado. Omite el conflicto con Brasil y se enfoca en mostrar a Mendoza como destino de inversiones. Su postura es de alineamiento tácito con el rumbo económico de Milei, sin confrontación.",
+            "frase_fuerte": "\"Mendoza vuelve a ser reconocida entre los grandes destinos gastronómicos del mundo\""
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Salario docente y seguridad",
+                "Obras en Azara",
+                "Gestión de incendios",
+                "Cultura misionerista"
+            ],
+            "postura_politica": "Gestión localista con tono conciliador: su mensaje en el aniversario de Azara ('que no nos dividan') es un llamado a la unidad en un contexto de polarización. Evita posicionarse sobre el conflicto con Brasil y se enfoca en la gestión provincial y el diálogo con intendentes.",
+            "frase_fuerte": "\"La historia de Azara también nos deja un mensaje que hoy sigue más vigente que nunca: que no nos dividan\""
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "RIGI y Vaca Muerta",
+                "Inversiones y transparencia",
+                "Turismo de nieve"
+            ],
+            "postura_politica": "Modelo de gestión pro-inversión: celebra los resultados del RIGI y la llegada de capitales. No hay menciones al conflicto con Brasil. Su postura es de alineamiento con la política económica de Milei, pero desde la autonomía provincial. Es el ejemplo del gobernador que 'hace su negocio' al margen de la grieta.",
+            "frase_fuerte": "\"Neuquén concentra dos de cada tres dólares anunciados a través de este régimen\""
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Acuerdo energético con Chubut",
+                "Seguridad y obras",
+                "Expo Rural",
+                "Turismo"
+            ],
+            "postura_politica": "Federalismo ejecutor: el acuerdo con Chubut es su principal activo. Muestra capacidad de gestión regional y diálogo con otros gobernadores, sin depender de Nación. Su postura es de autonomía pragmática, con foco en resultados.",
+            "frase_fuerte": "\"Los problemas históricos no se resuelven con discursos: se resuelven con diálogo, decisión política y acuerdos\""
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Minería e inversiones",
+                "Incendios",
+                "Obra pública en rutas",
+                "Seguridad"
+            ],
+            "postura_politica": "Gestión con perfil productivo: su agenda está dominada por la minería, la seguridad y la gestión de emergencias. Evita el debate nacional y se enfoca en mostrar gestión. Su presencia en Tucumán junto a Milei indica un alineamiento pragmático, pero sin subordinación discursiva.",
+            "frase_fuerte": "\"Dejamos de ser una provincia con minerales para convertirnos en una provincia minera\""
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Minería y RIGI",
+                "Educación",
+                "Obra pública"
+            ],
+            "postura_politica": "Perfil pro-minería y diálogo con Nación: la aprobación de la ley de Desarrollo Local Minero y el RIGI para Vicuña son sus principales logros. Su postura es de alineamiento con el rumbo económico de Milei, pero sin militancia política explícita.",
+            "frase_fuerte": "\"San Juan dio un paso clave para construir su futuro\""
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Obras en rutas provinciales",
+                "Educación e IA"
+            ],
+            "postura_politica": "Gestión local intensiva: su agenda es de entrega de viviendas y obras en el interior provincial. Sin menciones a Nación ni a temas federales. Es el ejemplo de gobernador que se repliega en la gestión de cabotaje para no quemarse en la grieta.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Defensa de Milei",
+                "Expo Rural",
+                "Turismo internacional",
+                "Obras provinciales"
+            ],
+            "postura_politica": "Alineamiento explícito con Milei: es el único gobernador que defiende abiertamente al presidente, citándolo y compartiendo su discurso. La agenda de producción y turismo busca mostrar que su gestión rinde frutos. Su postura es de un peronismo que abraza el cambio, en una apuesta arriesgada.",
+            "frase_fuerte": "\"El Presidente lo dijo muy claro: un país sale adelante cuando acompaña a quienes producen y trabajan\""
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Obras viales",
+                "Juegos Suramericanos",
+                "Seguridad",
+                "Ruta A012"
+            ],
+            "postura_politica": "Gestión con perfil de obras: la firma del traspaso de la ruta A012 y el inicio inmediato de reparaciones es su principal jugada. Muestra capacidad de gestión y de obtener recursos de Nación. Su postura es de diálogo funcional, sin estridencias.",
+            "frase_fuerte": "\"Serán 7 meses de intenso trabajo!... En unos meses la A012 va a estar en las condiciones que tiene que estar\""
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Aniversario de la ciudad",
+                "Gestión en salud",
+                "Formación juvenil"
+            ],
+            "postura_politica": "Agenda local y cultural: el aniversario de la Madre de Ciudades domina su feed. Sin menciones a Nación ni al conflicto del día. Su postura es de perfil bajo, con foco en la identidad santiagueña y la gestión local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Nueva usina",
+                "Vuelos internacionales",
+                "Reforma constitucional"
+            ],
+            "postura_politica": "Perfil modernizador: la llegada de equipos para la usina y los nuevos vuelos son su agenda. Sin menciones al conflicto con Brasil. Su postura es de gestión técnica, con la reforma constitucional como bandera de cambio institucional.",
+            "frase_fuerte": "\"No estamos recibiendo solamente maquinaria. Estamos construyendo la infraestructura energética que la provincia necesita\""
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Recuperación médica",
+                "Agenda legislativa",
+                "Aniversario de la Independencia"
+            ],
+            "postura_politica": "Perfil institucional y de gestión: su comunicado sobre la intervención quirúrgica y la agenda con Santilli muestran un gobernador operativo. La celebración del 9 de julio lo ubica como anfitrión del federalismo. Evita el conflicto con Brasil y se enfoca en la gestión provincial y el diálogo institucional.",
+            "frase_fuerte": null
+        }
+    ]
+}
