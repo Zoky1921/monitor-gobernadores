@@ -1,0 +1,250 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por críticas directas de Kicillofok y Sadir a la gestión de Milei, mientras que otros gobernadores como Macri, Figueroa y Weretilneck se enfocaron en gestión local y alineamiento con Nación. La ausencia de un conflicto fiscal unificado sugiere una fragmentación estratégica.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día no es fiscal sino simbólica. Kicillofok, desde la provincia más populosa, retuitea un ataque directo contra Milei por 'hacer pasar vergüenza al país', mientras que Sadir cuestiona la derogación de la Ley del Libro y la desprotección sanitaria bananera. Ambos buscan capitalizar el descontento sectorial sin coordinación explícita. La Casa Rosada no recibe un desafío unificado, sino pinchazos aislados.\n\nActo 2 — Los Alineamientos: Macri (CABA) refuerza su perfil de gestión eficiente con el cobro a no residentes en el Ecoparque, una medida que marca territorio ideológico y fiscal. Figueroa (Neuquén) y Weretilneck (Río Negro) se posicionan como socios estratégicos de Nación: el primero agradece a Caputo por el RIGI y destaca inversiones; el segundo difunde una catarata de obras públicas y acuerdos de salud. Ambos utilizan la transparencia y el orden fiscal como escudo político.\n\nActo 3 — La Micro-política: Gobernadores de provincias periféricas como Jalil (Catamarca), Zdero (Chaco) e Insfran (Formosa) se refugian en la agenda local: fiestas populares, cabalgatas y homenajes a Evita. No hay mención a Nación, lo que sugiere un repliegue calculado para evitar roces en un contexto de ajuste. Poggi (San Luis) y Vidal (Santa Cruz) también se centran en obras y producción, pero Vidal incluye un guiño explícito a Milei al citar su discurso sobre el campo.\n\nActo 4 — Saldo Presidencial: Milei no tuitea directamente, pero recibe apoyos implícitos de Figueroa, Vidal y Macri. Sin embargo, las críticas de Kicillofok y Sadir, aunque acotadas, erosionan el relato de unidad nacional. La fragmentación opositora juega a favor del oficialismo, pero la persistencia de reclamos sectoriales (libro, banana) indica que la paciencia social tiene límites.",
+    "temas_calientes": [
+        {
+            "tema": "Críticas a la gestión nacional de Milei",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Gestión provincial y obras públicas como escudo político",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Eventos culturales y protocolo como refugio político",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@insfran_gildo",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Transparencia y eficiencia fiscal como posicionamiento",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @MOVIMIENTODAF)",
+        "texto": "Tenemos un presidente que le hace pasar vergüenza al país. https://t.co/2DK01haxY7",
+        "por_que_es_clave": "Es el ataque más directo del día contra Milei, proveniente del principal líder opositor y gobernador de la provincia más grande. Busca instalar la idea de que el presidente es un factor de vergüenza nacional, apelando a un sentimiento de orgullo patrio.",
+        "pregunta_openarg": "¿La estrategia de Kicillofok de criticar a Milei por la imagen internacional logra conectar con el electorado de centro o solo refuerza su base?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Crítica a Milei",
+                "Política exterior",
+                "Vergüenza nacional"
+            ],
+            "postura_politica": "Oposición frontal. Retuitea una cuenta afín para cargar contra Milei sin asumir directamente la autoría, pero el mensaje es claro: busca desgastar al presidente en un tema de orgullo nacional.",
+            "frase_fuerte": "Tenemos un presidente que le hace pasar vergüenza al país."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Prioridad porteña",
+                "Ecoparque",
+                "Seguridad",
+                "Calificación crediticia"
+            ],
+            "postura_politica": "Alineamiento con el oficialismo nacional. Muestra gestión eficiente y orden fiscal, diferenciándose del conurbano. La medida del Ecoparque es un guiño a la base electoral de PRO: priorizar al residente por sobre el turista.",
+            "frase_fuerte": "Prioridad porteña en el Ecoparque. No residentes pagan."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Fiesta del Poncho",
+                "Evita",
+                "Aniversario Santiago del Estero"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se refugia en la promoción cultural y el peronismo ritual (Evita). No hay mención a Nación, lo que sugiere un repliegue estratégico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Cabalgata de la Fe",
+                "Ruta provincial",
+                "Luz rural"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Se enfoca en obras y eventos religiosos sin posicionamiento nacional. Busca mostrar cercanía con el interior profundo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Cápsula del tiempo",
+                "Dique Florentino Ameghino"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Un tuit nostálgico sobre la historia local, sin contenido político explícito.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación",
+                "Pruebas Aprender",
+                "Obras",
+                "Desagües pluviales"
+            ],
+            "postura_politica": "Gestión provincial con orgullo. Destaca los resultados educativos de Córdoba como marca de gestión, sin mencionar a Nación. Es un mensaje de autonomía y eficiencia.",
+            "frase_fuerte": "Los estudiantes cordobeses lideraron las #PruebasAprender: #Córdoba obtuvo los mejores resultados entre todas las provincias del país."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Homenaje a Evita",
+                "Reunión con arquitectos"
+            ],
+            "postura_politica": "Peronismo ritual y gestión local. Sin referencia a Nación. El homenaje a Evita es un clásico del peronismo para marcar identidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Ley del Libro",
+                "Productores bananeros",
+                "Endeavor NOA"
+            ],
+            "postura_politica": "Crítica sectorial a Nación. Cuestiona la derogación de la Ley del Precio Uniforme del Libro y la desprotección sanitaria bananera. Se posiciona como defensor de la producción local frente a políticas nacionales que perjudican a Jujuy.",
+            "frase_fuerte": "Estoy en total desacuerdo con la intención del Gobierno Nacional de derogar la Ley 25.542 de Precio Uniforme del Libro."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Winti",
+                "Energías renovables",
+                "Educación ambiental"
+            ],
+            "postura_politica": "Gestión local con perfil ambiental. Sin mención a Nación. Busca mostrar una iniciativa propia de desarrollo sostenible.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Minería",
+                "Inversiones",
+                "Chile",
+                "Gastronomía"
+            ],
+            "postura_politica": "Apertura al mundo y desarrollo productivo. Se reúne con empresas mineras y el embajador de Chile. No critica a Nación; más bien muestra una provincia que atrae inversiones por sí misma.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Deporte",
+                "Quita de retenciones",
+                "Aniversario Azara"
+            ],
+            "postura_politica": "Gestión local con anuncio de alivio fiscal. La quita de retenciones a transferencias bancarias es una medida propia que busca dinamizar la economía. Sin conflicto con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Transparencia",
+                "RIGI",
+                "Inversiones",
+                "Turismo de nieve"
+            ],
+            "postura_politica": "Alineamiento explícito con Nación. Agradece a Caputo por el RIGI y destaca la llegada de inversiones. Se posiciona como modelo de gestión ordenada y pro-mercado.",
+            "frase_fuerte": "Cuando propusimos que el upstream ingrese al RIGI, no nos equivocamos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Salud",
+                "Obras públicas",
+                "Transparencia",
+                "Sueldos"
+            ],
+            "postura_politica": "Gestión omnipresente. Difunde múltiples obras y acuerdos de salud. No hay crítica a Nación; más bien muestra una provincia que funciona. El pago de sueldos en tiempo y forma es un mensaje de orden fiscal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Escuelas",
+                "Viviendas",
+                "Rutas",
+                "Hospital"
+            ],
+            "postura_politica": "Agenda local intensa. Inaugura escuelas, entrega viviendas, licita rutas. Sin mención a Nación. Es pura gestión de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Lluvias",
+                "Campo",
+                "Expo Rural",
+                "Winter Swimming"
+            ],
+            "postura_politica": "Alineamiento con Milei y gestión local. Cita al presidente y destaca la producción. Critica al kirchnerismo pasado. Busca mostrar un cambio de rumbo.",
+            "frase_fuerte": "El Presidente lo dijo muy claro: un país sale adelante cuando acompaña a quienes producen y trabajan, no cuando los castiga."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Aulas",
+                "Juegos Suramericanos",
+                "Ruta A012",
+                "Seguridad"
+            ],
+            "postura_politica": "Gestión con perfil federal. Anuncia obras y mejoras en seguridad. La firma del traspaso de la ruta A012 es un logro de gestión ante Nación. Se muestra como un gobernador que consigue recursos.",
+            "frase_fuerte": "Hoy desde la Casa Rosada firmamos el traspaso de la ruta A012 a la jurisdicción de nuestra provincia por los próximos 20 años."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Títulos de propiedad",
+                "Aniversario Madre de Ciudades",
+                "Salud"
+            ],
+            "postura_politica": "Agenda local y festiva. Entrega escrituras y celebra el aniversario de la ciudad. Sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Usina",
+                "Vuelos directos",
+                "Selección"
+            ],
+            "postura_politica": "Gestión de infraestructura energética y turismo. Anuncia la llegada de equipos para la nueva usina y una ruta aérea. Sin conflicto con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Elecciones provinciales",
+                "Salud",
+                "Recuperación"
+            ],
+            "postura_politica": "Gestión institucional. Convoca a elecciones y muestra recuperación de salud. Sin mención a Nación. Busca dar previsibilidad.",
+            "frase_fuerte": null
+        }
+    ]
+}
