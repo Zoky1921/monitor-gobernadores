@@ -1,0 +1,157 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada muestra una clara división: gobernadores peronistas (Kicillof, Jalil, Poggi) refuerzan la confrontación con Nación por salud, coparticipación y soberanía, mientras los aliados (Macri, Llaryora, Cornejo, Figueroa, Sáenz, Orrego) exhiben gestión propia y alineamiento con el ajuste. El silencio de los gobernadores de provincias periféricas sugiere repliegue táctico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal y simbólica domina la agenda. Kicillof (Buenos Aires) dispara contra la desregulación de medicamentos, acusando a Milei de aumentar el gasto de bolsillo, mientras Macri (CABA) celebra la calificación crediticia y la prioridad porteña en el Ecoparque. La disputa por la coparticipación y el rol del Estado se cristaliza en dos modelos antagónicos.\n\nActo 2 — Los Alineamientos: Llaryora (Córdoba) y Cornejo (Mendoza) se posicionan como gestores eficientes: el primero destaca resultados educativos y obras viales con fondos propios; el segundo licita la hidroeléctrica Los Nihuiles y atrae inversiones mineras. Figueroa (Neuquén) y Sáenz (Salta) refuerzan la narrativa de desarrollo energético y minero con RIGI y financiamiento internacional. Orrego (San Juan) viaja a Londres a presentar la provincia como destino de inversiones. Todos ellos evitan confrontar con Nación y muestran autonomía productiva.\n\nActo 3 — La Micro-política: Poggi (San Luis) y Passalacqua (Misiones) se refugian en la gestión local: el primero entrega viviendas y licita rutas; el segundo anuncia pagos de sueldos y actualizaciones salariales. Jalil (Catamarca) combina agenda cultural (Fiesta del Poncho) con gestión de emergencia climática, sin mencionar a Nación. Estos gestos de supervivencia revelan una estrategia de desgaste: gobernar sin pedir permiso a la Casa Rosada.\n\nActo 4 — Saldo Presidencial: Milei capitaliza el silencio de los gobernadores aliados y la fragmentación opositora. Sin embargo, la persistencia de Kicillof como ariete y la omisión de temas fiscales por parte de los periféricos indican que la tregua es frágil. La Casa Rosada gana tiempo, pero no resuelve la asfixia de las provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Desregulación de medicamentos y gasto de bolsillo",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Calificación crediticia y gestión fiscal provincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Inversiones mineras y energéticas (RIGI, litio, hidrocarburos)",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Resultados educativos y obra pública provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Gestión local y entrega de viviendas",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "[RE-TWEET de @nkreplak] Otro capítulo de la falsa libertad de Milei. El gobierno nacional autorizó la venta libre de 10 medicamentos. Lo que no te cuentan es que automáticamente estos medicamentos dejan de tener todo tipo de cobertura y pierden los descuentos en farmacias. Sigue aumentando el gasto de bolsillo. Ya no hay dudas. Este gobierno nacional está en contra de la salud del pueblo.",
+        "por_que_es_clave": "Kicillof utiliza la salud como ariete para desgastar a Milei, apelando al bolsillo de los sectores populares y marcando la cancha de cara a 2027. Es un clásico de la oposición peronista: denunciar el ajuste encubierto.",
+        "pregunta_openarg": "¿La desregulación de medicamentos realmente aumenta el gasto de bolsillo o es una medida que promueve la competencia y baja precios a largo plazo?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Salud",
+                "Desregulación",
+                "Gasto de bolsillo",
+                "Conflicto con Nación"
+            ],
+            "postura_politica": "Oposición frontal. Denuncia la 'falsa libertad' de Milei y se posiciona como defensor de la salud pública. El retweet es una forma de amplificar el mensaje sin asumir la autoría directa, pero el cálculo es claro: erosionar la credibilidad del gobierno nacional.",
+            "frase_fuerte": "Este gobierno nacional está en contra de la salud del pueblo."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Calificación crediticia",
+                "Prioridad porteña",
+                "Ecoparque",
+                "Seguridad en villas"
+            ],
+            "postura_politica": "Alineamiento con Nación y gestión propia. Macri celebra la mejora crediticia y la medida de cobrar entrada a no residentes en el Ecoparque, reforzando la idea de orden fiscal y 'prioridad porteña'. También muestra mano dura en villas, en sintonía con el discurso de seguridad de Milei.",
+            "frase_fuerte": "Contundente!!! Después de 14 años recuperamos la calificación B1 de Moody’s y tenemos la máxima nota subsoberana de la Argentina."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Fiesta del Poncho",
+                "Gestión cultural",
+                "Emergencia climática"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Jalil se enfoca en la promoción turística y la atención de emergencias, evitando cualquier mención a Nación. Es un repliegue estratégico: gobernar sin confrontar, pero sin alinearse explícitamente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación",
+                "Obra pública",
+                "Autopista RN19",
+                "Transparencia fiscal"
+            ],
+            "postura_politica": "Gestión autónoma y eficiente. Llaryora destaca los resultados de Córdoba en pruebas Aprender y la finalización de la autopista RN19 con fondos provinciales, enviando el mensaje de que su provincia no depende de Nación. Se posiciona como un gestor moderno y alejado de la grieta.",
+            "frase_fuerte": "Los cordobeses dejamos de lado nuestras diferencias y nos sentamos a trabajar juntos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Minería",
+                "Energía",
+                "Inversiones",
+                "Salud"
+            ],
+            "postura_politica": "Alineamiento pro-inversión. Cornejo licita la hidroeléctrica Los Nihuiles y recibe a empresas mineras, mostrando a Mendoza como destino confiable. Su postura es de apoyo al RIGI y a la apertura económica, sin críticas a Nación.",
+            "frase_fuerte": "La licitación busca poner en valor su potencial y fortalecer la generación de energía para el desarrollo de la provincia."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Pago de sueldos",
+                "Actualización salarial",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Gestión local y previsibilidad. Passalacqua anuncia el pago de haberes y actualizaciones salariales, buscando transmitir orden fiscal. No hay mención a Nación, lo que sugiere una estrategia de bajo perfil para evitar roces.",
+            "frase_fuerte": "Informo que el viernes 31 de julio estarán acreditados los haberes de los trabajadores activos del Estado provincial."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Gasoducto",
+                "Vaca Muerta",
+                "RIGI",
+                "Turismo de nieve",
+                "Financiamiento CAF"
+            ],
+            "postura_politica": "Alineamiento con el modelo extractivista. Figueroa celebra la repotenciación del gasoducto y la aprobación de créditos internacionales, reforzando la idea de que Neuquén es el motor energético del país. Su discurso es técnico y pro-mercado, sin confrontación.",
+            "frase_fuerte": "Vaca Muerta nos ofrece la oportunidad de alcanzar la seguridad energética no solo para Argentina, sino también para nuestros países vecinos."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Autopista del Valle de Lerma",
+                "Minería",
+                "Seguridad"
+            ],
+            "postura_politica": "Gestión autónoma con perfil federal. Sáenz invierte fondos provinciales en rutas nacionales y promueve la minería, mostrando capacidad de gestión sin depender de Nación. Su postura es de cooperación crítica: no confronta, pero marca presencia.",
+            "frase_fuerte": "Salta decidió dejar de esperar. Construimos una política minera con reglas claras, previsibilidad y seguridad jurídica."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Inversiones internacionales",
+                "Minería",
+                "Energía solar"
+            ],
+            "postura_politica": "Alineamiento pro-inversión. Orrego viaja a Londres a presentar San Juan como destino de inversiones, destacando la solidez fiscal y el potencial minero. Su postura es de apoyo al RIGI y a la apertura, sin críticas a Nación.",
+            "frase_fuerte": "Presentamos una provincia ordenada, con cuentas claras, seguridad institucional y un enorme potencial minero, energético y productivo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Obra pública",
+                "Educación",
+                "Rutas"
+            ],
+            "postura_politica": "Gestión local intensiva. Poggi entrega viviendas, licita rutas y amplía escuelas, mostrando una provincia en movimiento. No hay mención a Nación, lo que sugiere un repliegue en la agenda de cabotaje para evitar conflictos.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse!!"
+        }
+    ]
+}
