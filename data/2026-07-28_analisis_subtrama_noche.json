@@ -1,0 +1,176 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por el contraste entre la ofensiva de Axel Kicillof contra el gobierno nacional en salud y política exterior, y la consolidación de la Región Centro como bloque de poder productivo. Mientras tanto, gobernadores de provincias periféricas se refugiaron en la gestión local y obras, evitando posicionamientos nacionales.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día es la embestida de Axel Kicillof contra la Casa Rosada. Con dos tuits en la jornada, el gobernador bonaerense no solo denuncia el desfinanciamiento de Remediar y la venta libre de medicamentos como un ataque a la salud pública, sino que también retuitea una crítica directa a Milei por su presunta falsa libertad. Kicillof busca capitalizar el descontento social y posicionarse como el líder de la oposición peronista, utilizando la agenda sanitaria como ariete político. Su silencio sobre la Región Centro, mientras otros gobernadores se alinean, revela un cálculo: aislar a Nación desde la provincia más populosa.\n\nActo 2 — Los Alineamientos: En el otro extremo, la Región Centro se consolida como un contrapeso federal. Martín Llaryora, Rogelio Frigerio y Maximiliano Pullaro escenificaron en San Francisco una cumbre de cooperación interprovincial, con énfasis en producción, infraestructura y educación. Llaryora, además, celebró los resultados de las Pruebas Aprender, posicionando a Córdoba como modelo educativo. Jorge Macri, por su parte, refuerza su perfil de gestión con medidas de 'ley y orden' en villas y prioridad porteña en salud y espacios públicos, alineándose tácitamente con el discurso de seguridad nacional. Rolando Figueroa recibe a la directora del FMI, mostrando a Neuquén como ejemplo de disciplina fiscal y atracción de inversiones, en sintonía con la ortodoxia económica de Milei.\n\nActo 3 — La Micro-política: Las provincias periféricas optaron por el refugio en la agenda local. Raúl Jalil celebró la visita de Fito Páez en Catamarca, Leandro Zdero destacó una cabalgata de la fe en Chaco, e Ignacio Torres promocionó obras viales en Chubut. Gildo Insfran se reunió con un intendente, Carlos Sadir inauguró un centro paleontológico, y Sergio Ziliotto inauguró un frigorífico en La Pampa. Claudio Poggi, en San Luis, se enfocó en certificados catastrales y desayunos con alumnos. Estos gestos de gestión de cabotaje buscan evitar roces con Nación y mantener la gobernabilidad local, sin asumir costos políticos.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el saldo es mixto. La ofensiva de Kicillof es un recordatorio de que el peronismo no está muerto y que la provincia de Buenos Aires sigue siendo un bastión de resistencia. Sin embargo, la consolidación de la Región Centro y la alineación de provincias como Neuquén, Mendoza y San Juan en torno a la inversión y la minería ofrecen un contrapeso productivo. El silencio de gobernadores como Osvaldo Jaldo (Tucumán) o Gustavo Valdés (Corrientes) sugiere una espera calculada. Milei gana en el interior productivo pero pierde en el conurbano bonaerense, donde Kicillof siembra descontento.",
+    "temas_calientes": [
+        {
+            "tema": "Región Centro como bloque de poder productivo y contrapeso federal",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Ofensiva de Kicillof contra Milei en salud y política exterior",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden en CABA con prioridad porteña",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Inversiones mineras y energéticas en provincias del interior",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Gestión local y obras en provincias periféricas como refugio político",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@insfran_gildo",
+                "@carlossadirjuy",
+                "@ZiliottoSergio",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @nkreplak)",
+        "texto": "Otro capítulo de la falsa libertad de Milei. \n\nEl gobierno nacional autorizó la venta libre de 10 medicamentos. Lo que no te cuentan es que automáticamente estos medicamentos dejan de tener todo tipo de cobertura y pierden los descuentos en farmacias. Sigue aumentando el gasto de bolsillo. \n\nYa no hay dudas. Este gobierno nacional está en contra de la salud del pueblo.",
+        "por_que_es_clave": "Kicillof utiliza la desregulación de medicamentos para articular un relato de ajuste encubierto, posicionándose como defensor de la salud pública y marcando el terreno de la campaña electoral. Es un dardo directo a la gestión de Milei, que busca movilizar a la base peronista.",
+        "pregunta_openarg": "¿La desregulación de medicamentos beneficia al consumidor o encubre un desfinanciamiento de la salud pública?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "salud pública",
+                "desregulación de medicamentos",
+                "crítica al gobierno nacional"
+            ],
+            "postura_politica": "Oposición frontal. Kicillof denuncia el desfinanciamiento de Remediar y la venta libre de medicamentos como un ataque a la salud, buscando capitalizar el descontento y posicionarse como líder opositor. Su silencio sobre la Región Centro revela un cálculo de aislamiento.",
+            "frase_fuerte": "Otro capítulo de la falsa libertad de Milei."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "salud pública con prioridad porteña",
+                "seguridad y orden en villas",
+                "cobro a extranjeros en espacios públicos"
+            ],
+            "postura_politica": "Alineamiento tácito con Nación. Macri refuerza su perfil de gestión eficiente y orden, con medidas populistas de prioridad porteña que resuenan con el discurso de 'ley y orden' de Milei. Busca diferenciarse del desorden nacional.",
+            "frase_fuerte": "Se terminó el descontrol en la Villa 31. Todas las nuevas obras serán clausuradas. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "cultura",
+                "visita de Fito Páez",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Jalil se refugia en la promoción cultural y evita cualquier posicionamiento nacional. Es un gesto de supervivencia política en una provincia periférica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "cultura",
+                "cabalgata de la fe",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Zdero se enfoca en eventos religiosos y tradicionales, evitando temas nacionales. Es un refugio en la agenda de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "obra pública",
+                "ruta 40",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local con énfasis en gestión. Torres promociona avances en infraestructura vial, mostrando capacidad de ejecución sin mencionar a Nación. Es un gesto de autonomía.",
+            "frase_fuerte": "EN CHUBUT LA PALABRA VALE: AVANZA LA OBRA DE LA RUTA 40"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Región Centro",
+                "educación",
+                "Pruebas Aprender",
+                "obra pública"
+            ],
+            "postura_politica": "Liderazgo regional. Llaryora consolida la Región Centro como bloque de poder productivo, destacando resultados educativos y obras. Se posiciona como un gobernador moderno y eficiente, en contraste con el conflicto nacional.",
+            "frase_fuerte": "LA EDUCACIÓN ES EL CAMINO DEL PROGRESO"
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Región Centro",
+                "exportaciones avícolas",
+                "apertura de mercados"
+            ],
+            "postura_politica": "Alineamiento con la Región Centro y perfil productivo. Frigerio asume la presidencia pro tempore y celebra la reapertura del mercado europeo para la avicultura, mostrando gestión con resultados. Evita críticas a Nación.",
+            "frase_fuerte": "Que la Unión Europea vuelva a abrir oportunidades para la industria avícola es una gran noticia"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "gestión local",
+                "reunión con intendente"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Insfran se reúne con un intendente y evita cualquier tema nacional. Es un gesto de supervivencia en una provincia periférica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "cultura",
+                "centro paleontológico",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Sadir inaugura un centro paleontológico, promoviendo el turismo y la cultura. Evita posicionamientos nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "producción",
+                "frigorífico",
+                "inversión privada"
+            ],
+            "postura_politica": "Agenda local con énfasis en desarrollo productivo. Ziliotto inaugura un frigorífico y destaca la articulación público-privada, mostrando gestión sin depender de Nación. Es un gesto de autonomía.",
+            "frase_fuerte": "WINIFREDA: EL NUEVO FRIGORÍFICO EL DIAMANTE SUMA PRODUCCIÓN Y TRABAJO"
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "minería",
+                "inversiones",
+                "licitación hidroeléctrica",
+                "viviendas"
+            ],
+            "postura_politica": "Alineamiento con la agenda productiva nacional. Cornejo promociona inversiones mineras y la licitación de Los Nihuiles, mostrando a Mendoza como destino confiable. Su perfil es técnico y favorable a la inversión privada.",
+            "frase_fuerte": "La industria mendocina tiene la capacidad y el talento para ser protagonista de los grandes proyectos energéticos"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "gestión local",
+                "viviendas",
+                "aniversario de Azara",
+                "pago de sueldos"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Passalacqua se enfoca en obras, fechas patrias y el pago de haberes, evitando cualquier roce con Nación. Es un refugio en la gestión cotidiana.",
+            "frase_fuerte": null
+        }
+    ]
+}

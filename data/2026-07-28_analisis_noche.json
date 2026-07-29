@@ -1,0 +1,262 @@
+{
+    "clima_general": "ACTIVO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una intensa agenda de gestión provincial, con varios gobernadores destacando obras públicas, fomento productivo y modernización estatal. Sobresale el fuerte impulso de la Región Centro, donde Martín Llaryora (Córdoba) traspasó la presidencia a Rogelio Frigerio (Entre Ríos), consolidando un bloque de desarrollo interprovincial. Otros mandatarios, como Axel Kicillof (Buenos Aires) y Claudio Vidal (Santa Cruz), mantuvieron un tono crítico hacia el gobierno nacional en áreas como salud y desarrollo productivo. Jorge Macri (Ciudad Autónoma de Buenos Aires) reafirmó políticas de priorización para residentes en servicios públicos, mientras Rolando Figueroa (Neuquén) recibió a la directora del FMI en Vaca Muerta, enfatizando inversión y producción, marcando una dinámica proactiva y diferenciada a nivel subnacional.",
+    "analisis_profundo": "La agenda provincial del 28 de julio de 2026 se perfiló con un fuerte énfasis en la gestión local y el desarrollo económico, mostrando una marcada proactividad de las administraciones subnacionales frente a un escenario federal de complejidades y diferenciación de políticas. Un eje central fue la actividad de la Región Centro, que se consolidó como un actor clave en el mapa productivo y político del país. Martín Llaryora (Córdoba) traspasó la presidencia pro tempore a Rogelio Frigerio (Entre Ríos), con Maximiliano Pullaro (Santa Fe) también presente. Los mensajes subrayaron la importancia de la integración regional para impulsar la producción, la innovación y el federalismo. Esta sintonía interprovincial contrasta con la tónica federal más amplia. En el ámbito económico y de inversiones, Rolando Figueroa (Neuquén) destacó la visita de la directora del FMI, posicionando a Vaca Muerta como motor de desarrollo y atracción de inversiones, no solo para Argentina sino para países vecinos. Alfredo Cornejo (Mendoza) también impulsó la industria local como proveedora de proyectos energéticos y anunció licitaciones para modernizar el complejo hidroeléctrico Los Nihuiles, evidenciando una visión estratégica sobre los recursos provinciales. Sergio Ziliotto (La Pampa) presentó incentivos fiscales y financiamiento para el desarrollo industrial, promoviendo la inversión privada. La salud pública y la educación fueron áreas prioritarias para varios gobernadores. Axel Kicillof (Buenos Aires) inauguró infraestructura de salud mental y criticó la política de medicamentos del gobierno nacional. Jorge Macri (Ciudad Autónoma de Buenos Aires) promovió la salud pública porteña con una política de copago para extranjeros, generando un debate sobre el acceso a servicios. Claudio Poggi (San Luis) puso foco en la modernización educativa y en becas. Finalmente, el tono político mostró una diversidad. Mientras algunos gobernadores optaron por un perfil de gestión pura, otros como Kicillof (Buenos Aires) y Claudio Vidal (Santa Cruz) mantuvieron una línea confrontativa con la administración central, atribuyendo al 'kirchnerismo' y al 'gobierno nacional' la responsabilidad de problemas pasados o actuales, y destacando las soluciones provinciales. Esta polarización sigue marcando la dinámica federal, con provincias buscando autonomía en sus modelos de desarrollo y gestión.",
+    "temas_calientes": [
+        {
+            "tema": "Integración y Potencia de la Región Centro",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Federalismo y Recursos Energéticos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@alfredocornejo",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Salud Pública y Acceso Diferenciado",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@alfredocornejo",
+                "@ZiliottoSergio",
+                "@frigeriorogelio",
+                "@ClaudioVidalSer",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Críticas a la Gestión Nacional y Reafirmación de Modelos Provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "NEUQUÉN CRECE CON PRODUCCIÓN E INVERSIÓN Hoy recibimos la visita institucional de la directora gerente del FMI, @KGeorgieva. Compartimos cómo nuestra Vaca Muerta, se convierte en más becas, escuelas, hospitales, rutas e infraestructura para mejorar la calidad de vida de nuestra gente. El desarrollo es posible gracias al esfuerzo de los neuquinos y al trabajo conjunto del Estado, los trabajadores, las empresas, los sindicatos y cada uno de los actores que hicieron realidad el enorme potencial de nuestra provincia. En Neuquén creemos en un modelo basado en la producción, el trabajo y la inversión. Estamos convencidos de que ese es el camino para que nuestra provincia siga creciendo y para que la Argentina vuelva a ponerse de pie.",
+        "por_que_es_clave": "El gobernador (Neuquén) posiciona a Vaca Muerta como un activo estratégico para el desarrollo provincial y nacional, atrayendo inversiones internacionales de alto nivel como la visita de la directora del FMI. Este tweet subraya una visión de autonomía y crecimiento económico a través de recursos propios y gestión proactiva, influyendo en la percepción de la estabilidad y oportunidades de Argentina.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Salud pública",
+                "Crítica a políticas nacionales",
+                "Gestión provincial"
+            ],
+            "postura_politica": "El gobernador (Buenos Aires) exhibe la gestión en salud pública con inauguraciones, al mismo tiempo que critica fuertemente al gobierno nacional por sus políticas en el sector farmacéutico, acusándolas de perjudicar el acceso a la salud.",
+            "frase_fuerte": "Este gobierno nacional está en contra de la salud del pueblo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Salud pública",
+                "Gestión urbana",
+                "Financiamiento de servicios públicos",
+                "Prioridad residentes"
+            ],
+            "postura_politica": "El gobernador (Ciudad Autónoma de Buenos Aires) defiende su política de priorizar a los residentes en el acceso a servicios públicos como salud y ecoparques, implementando cobros a no residentes y extranjeros. Reafirma una agenda de 'ley y orden' en la gestión urbana.",
+            "frase_fuerte": "Si sos extranjero y querés atenderte en la mejor salud pública del país, podés hacerlo. Solo que, como pasa en cualquier lugar del mundo, la pagás."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Cultura y turismo",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "El gobernador (Catamarca) celebra eventos culturales y turísticos que posicionan a la provincia, y promueve lazos de cooperación con otros municipios y provincias para fortalecer la gestión local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Cultura y tradiciones",
+                "Eventos religiosos"
+            ],
+            "postura_politica": "El gobernador (Chaco) participa en eventos culturales y religiosos, destacando la importancia de las raíces y la fe para la comunidad provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "El gobernador (Chubut) enfatiza el cumplimiento de la palabra a través del avance de obras de infraestructura clave, como la Ruta 40, financiadas con fondos provinciales para dar soluciones a la ciudadanía.",
+            "frase_fuerte": "En Chubut no hay nada más importante que dar respuesta y cumplir con la palabra."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación y desarrollo",
+                "Integración regional",
+                "Obra pública local",
+                "Innovación"
+            ],
+            "postura_politica": "El gobernador (Córdoba) proyecta a Córdoba como líder educativo y motor productivo de la Región Centro, destacando la importancia de la planificación, inversión y acuerdos interprovinciales. Su agenda resalta la gestión en educación e infraestructura local.",
+            "frase_fuerte": "Cuando #Córdoba, #SantaFe y #EntreRíos unen sus capacidades, el federalismo deja de ser una idea para convertirse en una herramienta concreta de crecimiento."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Economía y exportaciones",
+                "Integración regional",
+                "Federalismo"
+            ],
+            "postura_politica": "El gobernador (Entre Ríos) celebra la apertura de mercados internacionales para la producción provincial y asume la presidencia de la Región Centro, comprometiéndose a una agenda común que fortalezca la producción, seguridad y educación.",
+            "frase_fuerte": "La reapertura del mercado europeo significa más producción, más inversión, más exportaciones y más trabajo para los entrerrianos. Este es el rumbo que queremos."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Gestión municipal",
+                "Diálogo político"
+            ],
+            "postura_politica": "El gobernador (Formosa) se enfoca en el diálogo y la coordinación con gobiernos locales para avanzar en temas de interés común y fortalecer el desarrollo regional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Cultura",
+                "Turismo",
+                "Patrimonio natural"
+            ],
+            "postura_politica": "El gobernador (Jujuy) promueve la cultura y el turismo a través de la inauguración de espacios que conservan el patrimonio local y lo ponen al servicio de la comunidad y los visitantes.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Inversión privada",
+                "Beneficios fiscales",
+                "Autonomía provincial"
+            ],
+            "postura_politica": "El gobernador (La Pampa) impulsa la producción y el empleo a través de beneficios fiscales y apoyo a la inversión privada, buscando ampliar la capacidad productiva provincial y destacando la independencia económica de la provincia.",
+            "frase_fuerte": "En La Pampa, la actividad industrial tiene una carga tributaria provincial 0. Quien agrega valor, generando actividad y empleo, no paga impuestos."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Energía",
+                "Obra pública",
+                "Vivienda"
+            ],
+            "postura_politica": "El gobernador (Mendoza) promueve el potencial industrial y energético de la provincia, articulando con el sector privado y licitando proyectos clave para la modernización y el desarrollo. También destaca la gestión habitacional con fondos provinciales.",
+            "frase_fuerte": "La industria mendocina tiene la capacidad y el talento para ser protagonista de los grandes proyectos energéticos que están transformando el país."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obra pública",
+                "Administración estatal",
+                "Eventos locales"
+            ],
+            "postura_politica": "El gobernador (Misiones) destaca la inversión en vivienda y la gestión salarial del estado provincial, mientras celebra hitos locales y reconoce la labor de fuerzas de seguridad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Energía (Vaca Muerta)",
+                "Inversión extranjera",
+                "Servicios públicos",
+                "Transparencia"
+            ],
+            "postura_politica": "El gobernador (Neuquén) enfoca su agenda en la promoción de Vaca Muerta como motor de desarrollo y atracción de inversiones, destacando la expansión de servicios energéticos y la transparencia en la gestión, incluso frente a organismos internacionales como el FMI.",
+            "frase_fuerte": "En Neuquén creemos en un modelo basado en la producción, el trabajo y la inversión. Estamos convencidos de que ese es el camino para que nuestra provincia siga creciendo y para que la Argentina vuelva a ponerse de pie."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Gestión de gobierno",
+                "Turismo",
+                "Legislación provincial"
+            ],
+            "postura_politica": "El gobernador (Río Negro) se enfoca en la planificación y coordinación de la gestión de gobierno, destacando los resultados de la temporada invernal y el avance de la agenda legislativa para fortalecer las comunidades.",
+            "frase_fuerte": "Sabemos que falta. Pero tenemos un rumbo claro: seguir trabajando todos los días, con planificación, coordinación y un equipo comprometido para dar más respuestas a los rionegrinos."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial",
+                "Inundaciones"
+            ],
+            "postura_politica": "El gobernador (Salta) impulsa obras estratégicas de infraestructura vial para solucionar problemas históricos como las inundaciones, financiadas con fondos provinciales para beneficiar a miles de ciudadanos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Economía e inversión",
+                "Relaciones internacionales",
+                "Potencial minero/energético"
+            ],
+            "postura_politica": "El gobernador (San Juan) lidera una activa búsqueda de inversiones internacionales, presentando a la provincia como un destino ordenado, con cuentas claras y gran potencial en minería y energía, para impulsar el crecimiento local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Modernización estatal",
+                "Educación técnica",
+                "Participación ciudadana",
+                "Infraestructura escolar"
+            ],
+            "postura_politica": "El gobernador (San Luis) promueve la modernización de la administración pública con herramientas digitales, invierte en infraestructura educativa y fomenta el diálogo con organizaciones sociales y estudiantes para mejorar la educación y la gestión.",
+            "frase_fuerte": "Simplificación de trámites, ahorro en tasas administrativas, transparencia y mayor seguridad jurídica; son sus atributos principales."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Crítica a la gestión anterior",
+                "Desarrollo productivo",
+                "Apoyo local"
+            ],
+            "postura_politica": "El gobernador (Santa Cruz) critica duramente la inacción del 'kirchnerismo' y promueve un modelo de provincia basado en el esfuerzo, la producción y el trabajo, destacando el progreso en el cultivo de trigo y avena como ejemplo de la nueva dirección provincial.",
+            "frase_fuerte": "Solo dejando atrás la escasez y viviendo de nuestro propio trabajo es que vamos a conseguir una provincia fuerte."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Integración regional",
+                "Federalismo",
+                "Gestión productiva"
+            ],
+            "postura_politica": "El gobernador (Santa Fe) refuerza el bloque de la Región Centro como un modelo de gestión basado en el esfuerzo y el trabajo, buscando demostrar una manera diferente de abordar los asuntos públicos y productivos.",
+            "frase_fuerte": "No venimos a demandar, sino a demostrarle a toda la República que hay una manera diferente de hacer las cosas, de mirar lo público a través del esfuerzo y el trabajo diario."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Política partidaria",
+                "Administración de gobierno",
+                "Salud (interna de gobierno)",
+                "Desarrollo agrícola"
+            ],
+            "postura_politica": "El gobernador (Santiago del Estero) muestra actividad partidaria y destaca la continuidad institucional del gobierno ante la situación de salud de un ministro clave. También impulsa la capacitación y el desarrollo para el campo santiagueño.",
+            "frase_fuerte": "EL GOBIERNO PROVINCIAL INFORMA SOBRE LA SITUACIÓN DE SALUD DEL MINISTRO DE ECONOMÍA Y LA CONTINUIDAD INSTITUCIONAL DE DICHA CARTERA"
+        }
+    ]
+}
