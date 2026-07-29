@@ -1,0 +1,134 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de afirmación provincial con foco en autonomía fiscal y productiva. Llaryora consolida la Región Centro como bloque de poder; Figueroa exhibe Vaca Muerta ante el FMI; Cornejo y Saenz avanzan en minería y obras viales con fondos propios; Vidal y Ziliotto marcan distancia del kirchnerismo y defienden recursos provinciales. La Nación queda como actor ausente o adversario tácito.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión del día no es un choque frontal sino una acumulación de gestos de autonomía. Mientras la Casa Rosada intenta estabilizar la macroeconomía, los gobernadores de provincias centrales y productivas despliegan una diplomacia fiscal propia. Llaryora preside la Región Centro y la entrega a Frigerio, consolidando un bloque que no demanda sino que demuestra capacidad de gestión. Figueroa recibe a Kristalina Georgieva en Neuquén, enviando la señal de que Vaca Muerta es un activo convalidado internacionalmente, sin necesidad de intermediación nacional. \n\nActo 2 — Los Alineamientos: Se perfilan dos campos. Por un lado, los gobernadores que construyen poder propio: Llaryora (Córdoba), Figueroa (Neuquén), Cornejo (Mendoza) y Saenz (Salta) apuestan a la inversión privada y la obra pública provincial. Por otro, los que usan el discurso anti-kirchnerista como herramienta de legitimación: Vidal (Santa Cruz) y Ziliotto (La Pampa) marcan distancia del pasado para justificar su gestión en contextos de escasez. Jalil (Catamarca) y Suarez (Santiago del Estero) se mantienen en una ambigüedad calculada, combinando agenda cultural con gestión local. \n\nActo 3 — La Micro-política: En provincias periféricas, el silencio sobre la macroeconomía es ensordecedor. Ziliotto dedica un extenso hilo al conflicto del río Atuel, recordando que la deuda de Mendoza con La Pampa sigue impaga. Vidal insiste en que 'treinta años de kirchnerismo no se reparan en dos', usando la producción agropecuaria como símbolo de cambio. Saenz, por su parte, invierte fondos provinciales en rutas nacionales, un clásico gesto de 'hago lo que Nación no hace'. \n\nActo 4 — Saldo Presidencial: Para Milei, la jornada es agridulce. Por un lado, la visita de Georgieva a Neuquén valida el modelo extractivo que el presidente promueve. Por otro, la proliferación de bloques regionales y la ausencia de menciones explícitas a la Nación en los tuits de los gobernadores sugieren que el centro de gravedad política se está desplazando hacia las provincias. La Casa Rosada gana estabilidad macro pero pierde centralidad política.",
+    "temas_calientes": [
+        {
+            "tema": "Región Centro como bloque productivo autónomo",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Vaca Muerta y legitimación internacional (FMI)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Inversión provincial en infraestructura nacional",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Conflicto hídrico y defensa de recursos provinciales",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Discurso anti-kirchnerista como herramienta de gestión",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "NEUQUÉN CRECE CON PRODUCCIÓN E INVERSIÓN\n\nHoy recibimos la visita institucional de la directora gerente del FMI, @KGeorgieva. Compartimos cómo nuestra Vaca Muerta, se convierte en más becas, escuelas, hospitales, rutas e infraestructura para mejorar la calidad de vida de nuestra gente.\n\nEl desarrollo es posible gracias al esfuerzo de los neuquinos y al trabajo conjunto del Estado, los trabajadores, las empresas, los sindicatos y cada uno de los actores que hicieron realidad el enorme potencial de nuestra provincia.\n\nEn Neuquén creemos en un modelo basado en la producción, el trabajo y la inversión. Estamos convencidos de que ese es el camino para que nuestra provincia siga creciendo y para que la Argentina vuelva a ponerse de pie.",
+        "por_que_es_clave": "Figueroa utiliza la visita de la directora del FMI para legitimar su modelo de gestión y, de paso, marcar que Neuquén no necesita de la Nación para atraer capital internacional. Es un golpe de efecto que posiciona a la provincia como un actor soberano en la escena global.",
+        "pregunta_openarg": "¿La visita de Georgieva a Neuquén fortalece la posición de la provincia frente a la Nación o expone la dependencia del modelo extractivo para sostener el gasto público?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Fiesta del Poncho",
+                "cultura",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Jalil se refugia en la promoción cultural y evita cualquier mención a la macroeconomía o a la Nación. El silencio sugiere que prefiere no exponerse en un contexto de tensión fiscal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Región Centro",
+                "educación",
+                "salud",
+                "obra pública"
+            ],
+            "postura_politica": "Liderazgo regional explícito. Llaryora no solo preside la Región Centro sino que la entrega con un discurso de autonomía productiva. Cada tuit refuerza la idea de que Córdoba gestiona mejor que la Nación, especialmente en educación (Pruebas Aprender) y salud (angioplastia inédita).",
+            "frase_fuerte": "Córdoba se posiciona como referente educativo en el país."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "conflicto del Atuel",
+                "gestión provincial",
+                "transparencia"
+            ],
+            "postura_politica": "Defensa de la soberanía provincial. Ziliotto dedica un extenso hilo al incumplimiento de Mendoza del fallo del río Atuel, combinando denuncia ambiental con reclamo de justicia. Es un mensaje directo a la Nación y a Mendoza: La Pampa no se rinde.",
+            "frase_fuerte": "¿HASTA CUÁNDO ESTA INJUSTICIA? El río Atuel también es pampeano."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "minería",
+                "energía",
+                "inversión extranjera",
+                "salud"
+            ],
+            "postura_politica": "Mendoza se posiciona como destino de inversiones mineras y energéticas. Cornejo recibe a Teck Resources y avanza en la licitación de Los Nihuiles, mostrando que la provincia tiene reglas claras y previsibilidad. La omisión de la Nación es total: Mendoza se basta a sí misma.",
+            "frase_fuerte": "Mendoza tiene una oportunidad concreta para desarrollar una nueva actividad, generar empleo de calidad y diversificar nuestra matriz productiva."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "FMI",
+                "gas",
+                "turismo",
+                "transparencia"
+            ],
+            "postura_politica": "Figueroa capitaliza la visita de Georgieva para proyectar una imagen de provincia ordenada y atractiva para inversiones. Cada tuit refuerza el 'modelo neuquino' como ejemplo de gestión. La Nación aparece solo como acompañante, no como protagonista.",
+            "frase_fuerte": "En Neuquén creemos en un modelo basado en la producción, el trabajo y la inversión."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "obra pública provincial",
+                "rutas nacionales",
+                "minería",
+                "seguridad"
+            ],
+            "postura_politica": "Saenz invierte fondos provinciales en rutas nacionales, un gesto de 'hago lo que Nación no hace'. También promociona la minería con el proyecto Diablillos. La postura es de autonomía operativa: Salta no espera, ejecuta.",
+            "frase_fuerte": "Los compromisos se honran con hechos."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "producción agropecuaria",
+                "anti-kirchnerismo",
+                "gestión de emergencias",
+                "eventos internacionales"
+            ],
+            "postura_politica": "Vidal utiliza un discurso de ruptura con el pasado kirchnerista para justificar su gestión. La producción de trigo en Santa Cruz es presentada como un hito que contrasta con las promesas incumplidas del kirchnerismo. La Nación de Milei es un aliado tácito, pero Vidal se cuida de no depender de ella.",
+            "frase_fuerte": "Treinta años de kirchnerismo reemplazaron la cultura del trabajo por el cortoplacismo, la dependencia y el clientelismo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "aniversario de la ciudad",
+                "salud",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Suarez se enfoca en la celebración del aniversario de Santiago del Estero y en la inauguración de una UPA. No hay mención a la Nación ni a temas macro. Es un refugio en la agenda de cabotaje.",
+            "frase_fuerte": null
+        }
+    ]
+}
