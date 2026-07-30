@@ -1,0 +1,223 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "La jornada estuvo marcada por el trágico accidente de helicóptero en San Juan, que generó una ola de condolencias de varios gobernadores. En paralelo, la gestión provincial predominó con anuncios de infraestructura, seguridad y educación, mientras que la Región Centro reafirmó su cooperación. No se registraron enfrentamientos directos con Nación, lo que sugiere una pausa táctica.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tragedia del helicóptero en San Juan, que cobró la vida de siete servidores públicos, incluidos altos funcionarios de Protección Civil y Policía, se impuso como el hecho dominante de la jornada. Gobernadores de todo el espectro político expresaron sus condolencias, unificando momentáneamente el discurso en torno al dolor y la solidaridad. Sin embargo, este suceso también expone la fragilidad de los sistemas de emergencia provinciales y la dependencia de recursos federales, un tema que subyace sin explotar.\n\nActo 2 — Los Alineamientos: Los gobernadores alineados con el oficialismo nacional, como Jorge Macri (CABA) y Claudio Vidal (Santa Cruz), reforzaron sus narrativas de 'ley y orden' y crítica al kirchnerismo, respectivamente. Vidal aprovechó las inundaciones en Río Gallegos para culpar a la gestión anterior, mientras que Macri destacó la recuperación de propiedades. En contraste, el peronismo opositor, encabezado por Axel Kicillof (Buenos Aires), optó por una agenda de gestión local con críticas veladas al ajuste nacional, evitando una confrontación directa. La Región Centro, con Martín Llaryora (Córdoba) a la cabeza, mostró cohesión y capacidad de gestión autónoma, posicionándose como un contrapeso productivo.\n\nActo 3 — La Micro-política: Varios gobernadores de provincias periféricas se refugiaron en la gestión de cabotaje. Raúl Jalil (Catamarca) y Gustavo Sáenz (Salta) destacaron obras viales financiadas con fondos provinciales, un mensaje implícito sobre el abandono nacional. Sergio Ziliotto (La Pampa) homenajeó a René Favaloro para defender la salud pública, mientras que Claudio Poggi (San Luis) mostró avances en digitalización y vivienda. Estos gestos buscan consolidar el poder local sin exponerse a roces federales.\n\nActo 4 — Saldo Presidencial: La Casa Rosada logró una jornada sin grandes conflictos abiertos con las provincias. El accidente de San Juan desvió la atención de posibles tensiones fiscales, y la mayoría de los gobernadores evitaron criticar a Milei directamente. Sin embargo, la ausencia de un respaldo explícito al ajuste nacional por parte de muchos mandatarios sugiere que el respiro es temporal. La Región Centro, en particular, emerge como un bloque que no demanda sino que demuestra, lo que podría erosionar el relato de unidad nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Condolencias por el accidente de helicóptero en San Juan",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Inversiones en infraestructura provincial (rutas, vivienda, energía)",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa",
+                "@alfredocornejo",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Cooperación regional (Región Centro)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Seguridad y propiedad privada",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Desarrollo energético y minero (Vaca Muerta, litio)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@alfredocornejo",
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer (Santa Cruz)",
+        "texto": "EL CAMINO ES DIFÍCIL PERO SOLO DEJANDO ATRÁS AL KIRCHNERISMO VAMOS A TENER UNA SANTA CRUZ FUERTE\n\nHace más de 10 años Cristina Kirchner y los militantes de la Cámpora prometían que Santa Cruz iba a producir donde parecía imposible. Como fue siempre con ellos, la promesa quedó en nada. \n\nHoy en una de las tierras más desafiantes del país, este gobierno junto al sector privado hizo realidad el cultivo de trigo y avena. Porque nosotros sí somos gente de la patagonia: sabemos lo que es el esfuerzo, pelear contra la adversidad y hacer posible lo que otros abandonan. \n\nSabemos que el camino que elegimos los santacruceños en 2023 es difícil, pero solo dejando atrás la escasez y viviendo de nuestro propio trabajo es que vamos a conseguir una provincia fuerte. Santa Cruz puede y tiene rumbo.",
+        "por_que_es_clave": "Vidal utiliza el éxito agrícola para trazar una línea divisoria clara entre su gestión y el kirchnerismo, reforzando su alineamiento con el relato nacional de 'cambio' y 'esfuerzo'. El tweet busca capitalizar el descontento histórico y proyectar una imagen de eficacia, a la vez que justifica la continuidad del ajuste.",
+        "pregunta_openarg": "¿Puede el discurso antikirchnerista de Vidal sostener la gobernabilidad en Santa Cruz sin un aumento significativo de la coparticipación federal?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Salud",
+                "Obra pública",
+                "Crítica a la motosierra"
+            ],
+            "postura_politica": "Kicillof refuerza su perfil de gestión con inauguraciones de bases policiales y centros de salud, mientras desliza críticas al ajuste nacional ('motosierra permanente'). Su mensaje es de oposición moderada: muestra que hay otro camino, pero evita una confrontación directa con Milei.",
+            "frase_fuerte": "En medio de tanta complejidad económica y social hay otro camino que se construye con trabajo, dignidad y derechos para nuestro pueblo."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Propiedad privada",
+                "Ley y orden",
+                "Seguridad"
+            ],
+            "postura_politica": "Macri se posiciona como el garante de la seguridad y la propiedad, alineado con el discurso nacional de 'orden'. Su tweet es breve y contundente, buscando capitalizar la recuperación de propiedades como un logro de gestión.",
+            "frase_fuerte": "No hay grises cuando se trata de defender la propiedad privada."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Jalil retuitea a Sáenz destacando la repavimentación de una ruta nacional con fondos provinciales, un mensaje de autonomía y reclamo implícito por la falta de inversión nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Aniversario local",
+                "Emergencia climática",
+                "Recursos provinciales"
+            ],
+            "postura_politica": "Torres combina la celebración de Puerto Madryn con un reclamo de 'reparación histórica' por recursos, y reconoce a los equipos de emergencia. Su postura es de gestión local con un tono reivindicativo hacia Nación.",
+            "frase_fuerte": "Porque defender los recursos de cada pueblo también es construir un Chubut verdaderamente federal."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación",
+                "Salud",
+                "Seguridad",
+                "Región Centro",
+                "Inversiones"
+            ],
+            "postura_politica": "Llaryora despliega una agenda múltiple que posiciona a Córdoba como líder en educación (Pruebas Aprender), salud (angioplastia de alta complejidad) y seguridad (lucha contra el narcotráfico). La cumbre de la Región Centro refuerza su perfil de articulador federal.",
+            "frase_fuerte": "En Córdoba damos una batalla frontal contra el narcotráfico. Nuestra provincia es un territorio hostil para los narcos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Salud",
+                "Homenaje",
+                "Ciencia"
+            ],
+            "postura_politica": "Ziliotto homenajea a René Favaloro para defender la inversión en salud pública y la ciencia, en un contexto de ajuste. Es un mensaje de resistencia y defensa del Estado.",
+            "frase_fuerte": "Su historia nos recuerda que reconocer a nuestros científicos y fortalecer el sistema de salud también implica defender las instituciones."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Condolencias",
+                "Tragedia"
+            ],
+            "postura_politica": "Quintela expresa su pesar por el accidente en San Juan, destacando la labor de los fallecidos. Su tweet es institucional y humano, sin carga política directa.",
+            "frase_fuerte": "Entregaron su vida en el cumplimiento del deber y en un acto de absoluta solidaridad."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Condolencias",
+                "Vivienda",
+                "Minería",
+                "Energía",
+                "Gastronomía"
+            ],
+            "postura_politica": "Cornejo muestra una gestión diversa: desde viviendas hasta la licitación de Los Nihuiles y reuniones con mineras internacionales. Su perfil es pro-inversión y alineado con el desarrollo energético, sin confrontación con Nación.",
+            "frase_fuerte": "La industria mendocina tiene la capacidad y el talento para ser protagonista de los grandes proyectos energéticos que están transformando el país."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Aniversario local",
+                "Salarios",
+                "Gestión"
+            ],
+            "postura_politica": "Passalacqua se enfoca en lo local: aniversario de Colonia Delicia y confirmación de pago de sueldos. Su postura es de gestión administrativa, sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Energía",
+                "Vaca Muerta",
+                "Educación",
+                "Deuda",
+                "Inversiones"
+            ],
+            "postura_politica": "Figueroa destaca la transformación industrial de Neuquén con la planta de YPF, la reducción de deuda y la inversión en escuelas. Su mensaje es de gestión exitosa y alineamiento con el RIGI y las políticas energéticas nacionales.",
+            "frase_fuerte": "Vaca Muerta está transformando nuestra matriz productiva. Hoy extraer petróleo y gas es una actividad industrial."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Sáenz anuncia la repavimentación de una ruta nacional con fondos provinciales, un claro mensaje de que la provincia cubre las ausencias de Nación. Su postura es de autonomía y reclamo.",
+            "frase_fuerte": "Los compromisos se honran con hechos."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Condolencias",
+                "Tragedia local"
+            ],
+            "postura_politica": "Orrego, como anfitrión de la tragedia, ofrece un mensaje de dolor y reconocimiento a los fallecidos. Su postura es institucional y de liderazgo en la crisis.",
+            "frase_fuerte": "Servidores públicos que dedicaron su vida al cuidado de los sanjuaninos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Vivienda",
+                "Digitalización",
+                "Condolencias"
+            ],
+            "postura_politica": "Poggi muestra una gestión activa en educación, vivienda y modernización del Estado. Su tweet de condolencias es parte del luto general. Su perfil es de gestión eficiente y local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Inundaciones",
+                "Crítica al kirchnerismo",
+                "Producción",
+                "Eventos internacionales"
+            ],
+            "postura_politica": "Vidal utiliza la emergencia climática para atacar al kirchnerismo y promocionar logros agrícolas. Su postura es fuertemente alineada con el relato de Milei, buscando legitimar el ajuste.",
+            "frase_fuerte": "QUE NO VUELVAN NUNCA MÁS LOS QUE HICIERON ESTE DESASTRE"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Salud",
+                "Financiamiento",
+                "Aniversario local"
+            ],
+            "postura_politica": "Suárez se enfoca en la gestión: salud del ministro de Economía, créditos del CFI y el aniversario de la ciudad. Su perfil es de gestión local sin confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Emprendimientos",
+                "Desarrollo social",
+                "Microcréditos"
+            ],
+            "postura_politica": "Jaldo anuncia inversiones en emprendimientos y microcréditos, mostrando una gestión social activa. Su postura es de acompañamiento a sectores vulnerables, sin tintes federales.",
+            "frase_fuerte": "Acompañar a quienes emprenden y generan trabajo es una de las prioridades de nuestra gestión."
+        }
+    ]
+}

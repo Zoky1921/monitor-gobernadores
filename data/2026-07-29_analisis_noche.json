@@ -1,0 +1,258 @@
+{
+    "clima_general": "CAUTELOSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por la profunda consternación y solidaridad interprovincial tras el trágico accidente aéreo en San Juan, que generó mensajes unánimes de condolencia de varios gobernadores. En paralelo, la agenda provincial se centró en la gestión de emergencias, la promoción del desarrollo productivo y energético, y la inversión en infraestructura clave. Se observaron claras diferenciaciones y críticas a las políticas nacionales por parte de gobernadores como @Kicillofok (Buenos Aires), quien propuso 'otro camino' a la 'motosierra', y @ClaudioVidalSer (Santa Cruz), que responsabilizó a gestiones anteriores por las inundaciones. La autonomía financiera y la capacidad de gestión local fueron los ejes recurrentes en la narrativa de los mandatarios.",
+    "analisis_profundo": "La dinámica federal de las últimas 24 horas exhibió una dualidad significativa. Por un lado, una fuerte convergencia en la solidaridad humana: el accidente del helicóptero en San Juan movilizó expresiones de profundo pesar y apoyo recíproco por parte de @MartinLlaryora (Córdoba), @claudiojpoggi (San Luis), @alfredocornejo (Mendoza), @QuintelaRicardo (La Rioja) y @DrMarceloOrrego (San Juan), atenuando temporalmente las habituales tensiones políticas. Este consenso ante la tragedia subraya la importancia de los lazos interprovinciales en momentos de crisis.\n\nSimultáneamente, la agenda se mantuvo fuertemente provincializada, con los gobernadores enfocados en destacar sus logros de gestión y, en varios casos, marcar distancia o criticar implícitamente al gobierno nacional. @Kicillofok (Buenos Aires) fue explícito al contrastar su modelo de inversión en salud y seguridad con la 'idea de la motosierra permanente', defendiendo la dignidad y los derechos. En un tono similar, @ZiliottoSergio (La Pampa) vinculó la defensa de la salud pública y la ciencia al legado de Favaloro, con una clara alusión a la necesidad de recursos y un Estado que acompañe, frente a la falta de financiamiento nacional.\n\nEl desarrollo económico y la inversión estratégica también ocuparon un lugar central. @Rolo_Figueroa (Neuquén) proyectó a su provincia como un polo industrial gracias a Vaca Muerta, resaltando una notable reducción de la deuda pública y el interés del FMI en su modelo. @MartinLlaryora (Córdoba) celebró la expansión de BYMA, consolidando a Córdoba como centro financiero, y detalló innovaciones en salud pública. @ClaudioVidalSer (Santa Cruz) adoptó una postura confrontativa, atribuyendo las actuales inundaciones a '30 años de kirchnerismo' y destacando el esfuerzo de su administración para 'reparar el desastre'. Finalmente, gobernadores como @NachoTorresCH (Chubut), @RaulJalil_ok (Catamarca) y @GustavoSaenzOK (Salta) pusieron énfasis en inversiones propias en infraestructura y asignación de recursos, demostrando una activa autonomía y capacidad de respuesta local frente a desafíos persistentes.",
+    "temas_calientes": [
+        {
+            "tema": "Solidaridad interprovincial y gestión de emergencias",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@alfredocornejo",
+                "@QuintelaRicardo",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Diferenciación de modelo de gestión y crítica nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo, energético y financiero",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Inversión provincial en infraestructura y servicios",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@RaulJalil_ok",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo",
+                "@claudiojpoggi",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Con la inauguración de un nuevo Centro de Atención Primaria de la Salud y la entrega de más patrulleros para Luján estamos demostrando que no hay que someterse a la idea de la motosierra permanente. En medio de tanta complejidad económica y social hay otro camino que se construye con trabajo, dignidad y derechos para nuestro pueblo.",
+        "por_que_es_clave": "El gobernador de Buenos Aires contrasta directamente su modelo de gestión con la política de ajuste nacional ('motosierra'), posicionando la inversión pública en salud y seguridad como un camino alternativo basado en derechos y dignidad, un claro mensaje de diferenciación ideológica y estratégica.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Seguridad",
+                "Infraestructura Policial",
+                "Salud",
+                "Crítica Nacional (modelo económico)"
+            ],
+            "postura_politica": "Demuestra un enfoque en la expansión de servicios esenciales como salud y seguridad mediante inversión pública, contrastando abiertamente con las políticas de ajuste a nivel nacional. Se posiciona como defensor de un modelo alternativo basado en la protección de derechos y la dignidad.",
+            "frase_fuerte": "Con la inauguración de un nuevo Centro de Atención Primaria de la Salud y la entrega de más patrulleros para Luján estamos demostrando que no hay que someterse a la idea de la motosierra permanente."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Propiedad Privada",
+                "Orden Público"
+            ],
+            "postura_politica": "Refuerza su línea dura en seguridad y defensa de la propiedad privada, operando bajo el lema de 'Ley y orden'. Destaca la recuperación de propiedades, señalando una gestión intransigente en estos asuntos.",
+            "frase_fuerte": "No hay grises cuando se trata de defender la propiedad privada. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Inversión Provincial",
+                "Conectividad"
+            ],
+            "postura_politica": "Amplifica la decisión de otra provincia de invertir fondos propios en infraestructura vial nacional, señalando la importancia de la acción subnacional para el desarrollo y la seguridad de la región.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Desarrollo Local",
+                "Federalismo",
+                "Asignación de Recursos",
+                "Gestión de Emergencias",
+                "Asistencia Social",
+                "Nevadas"
+            ],
+            "postura_politica": "Conecta la celebración de un aniversario local con la 'reparación histórica' de recursos, enfatizando la visión de un federalismo provincial. Además, destaca el compromiso y la presencia de su gobierno en la asistencia ante emergencias climáticas severas.",
+            "frase_fuerte": "Porque defender los recursos de cada pueblo también es construir un Chubut verdaderamente federal."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Finanzas",
+                "Inversión",
+                "Desarrollo Productivo",
+                "Educación Financiera",
+                "Seguridad",
+                "Emergencias",
+                "Solidaridad Interprovincial",
+                "Lucha contra el Narcotráfico",
+                "Salud Pública",
+                "Innovación Médica",
+                "Inversión Pública",
+                "Educación",
+                "Evaluación Educativa",
+                "Liderazgo Provincial"
+            ],
+            "postura_politica": "Proyecta a Córdoba como un polo de inversión y desarrollo productivo, destacando la previsibilidad y el trabajo conjunto con el sector privado. Mantiene una postura firme contra el narcotráfico y celebra los logros en educación y salud pública mediante inversión sostenida. Expresó profunda solidaridad ante la tragedia en San Juan.",
+            "frase_fuerte": "EN CÓRDOBA NO HAY LUGAR PARA EL NARCOTRÁFICO."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Seguridad",
+                "Emergencias",
+                "Solidaridad Interprovincial"
+            ],
+            "postura_politica": "Expresa profundo dolor y solidaridad con San Juan ante el trágico accidente aéreo, honrando la memoria de los servidores públicos que perdieron la vida.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Legado Favaloro",
+                "Crítica Nacional (desfinanciamiento)"
+            ],
+            "postura_politica": "Defiende la salud pública como un derecho innegociable y honra el legado de René Favaloro, utilizando su figura para criticar implícitamente la falta de apoyo y desfinanciamiento de instituciones y la ciencia a nivel nacional, reafirmando la independencia económica provincial.",
+            "frase_fuerte": "Su historia nos recuerda que reconocer a nuestros científicos y fortalecer el sistema de salud también implica defender las instituciones, garantizar los recursos necesarios y sostener un Estado que acompañe a quienes trabajan al servicio del pueblo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Energía",
+                "Inversión",
+                "Desarrollo Industrial",
+                "Empleo",
+                "Educación",
+                "Infraestructura Escolar",
+                "Inversión Pública",
+                "Finanzas Provinciales",
+                "Reducción de Deuda",
+                "Administración Pública",
+                "Vaca Muerta",
+                "Relaciones Exteriores",
+                "Economía",
+                "Inversión Social",
+                "Relaciones Internacionales (FMI)"
+            ],
+            "postura_politica": "Posiciona a Neuquén como líder en desarrollo industrial y energético a través de Vaca Muerta, destacando la atracción de inversiones y la generación de empleo. Resalta la gestión fiscal responsable que llevó a una significativa reducción de la deuda, permitiendo mayor inversión social y en educación. Proyecta confianza en el potencial provincial y su relevancia regional e internacional.",
+            "frase_fuerte": "Somos la provincia que logró la mayor reducción de deuda pública del país."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Inversión Provincial",
+                "Seguridad Vial"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con la inversión en infraestructura vial vital, utilizando fondos provinciales para reparar rutas nacionales, priorizando la seguridad y el desarrollo regional, honrando sus compromisos de gestión.",
+            "frase_fuerte": "Con un gran esfuerzo económico de la Provincia, avanza la repavimentación de la actual traza de la ruta nacional 9/34, en el tramo entre Rosario de la Frontera y Metán, uno de los principales ingresos a Salta."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Seguridad",
+                "Emergencias",
+                "Tragedia",
+                "Solidaridad Interprovincial"
+            ],
+            "postura_politica": "Expresa un profundo dolor y solidaridad ante la trágica pérdida de vidas en el accidente de helicóptero en su provincia, destacando el servicio de los fallecidos y ofreciendo apoyo a las familias afectadas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura Escolar",
+                "Nivel Inicial",
+                "Seguridad",
+                "Emergencias",
+                "Solidaridad Interprovincial"
+            ],
+            "postura_politica": "Demuestra compromiso con la mejora de la infraestructura educativa, específicamente en el nivel inicial. Expresa solidaridad y condolencias a la provincia hermana de San Juan por la tragedia aérea, reconociendo el valor de los servidores públicos.",
+            "frase_fuerte": "Seguimos sumando niños de 3 años a la escolarización, lo cual impactará positivamente en la formación inicial de cada uno de ellos."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Gestión de Emergencias",
+                "Obra Pública",
+                "Crítica Política (gestión anterior)",
+                "Asistencia Social",
+                "Infraestructura"
+            ],
+            "postura_politica": "Aborda la emergencia por inundaciones en Río Gallegos criticando fuertemente a gestiones kirchneristas anteriores por la falta de obras estructurales. Enfatiza la presencia de su gobierno en el terreno y el compromiso de su equipo para solucionar los problemas heredados, proyectando una Santa Cruz autónoma y trabajadora.",
+            "frase_fuerte": "QUE NO VUELVAN NUNCA MÁS LOS QUE HICIERON ESTE DESASTRE"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Financiamiento",
+                "Desarrollo Productivo",
+                "PyMES"
+            ],
+            "postura_politica": "Impulsa activamente el desarrollo económico local a través de programas de financiamiento para emprendedores y PyMES, buscando fortalecer la producción y el comercio en la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Emprendedores",
+                "Microcréditos",
+                "Desarrollo Social",
+                "Formación en Oficios"
+            ],
+            "postura_politica": "Apoya la economía social y el desarrollo local a través de la inversión provincial en microcréditos y capacitación para emprendedores, buscando generar oportunidades laborales y mejorar la calidad de vida de las familias tucumanas.",
+            "frase_fuerte": "Seguimos impulsando políticas públicas que no solo brindan capacitación, sino también las herramientas y el financiamiento necesarios para que más tucumanos puedan transformar sus conocimientos en una oportunidad laboral, consolidar sus emprendimientos y mejorar la calidad de vida de sus familias."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Seguridad",
+                "Emergencias",
+                "Solidaridad Interprovincial",
+                "Vivienda",
+                "Inversión Provincial",
+                "Financiamiento",
+                "Industria",
+                "Energía",
+                "Vaca Muerta",
+                "Empleo"
+            ],
+            "postura_politica": "Expresa solidaridad con San Juan tras la tragedia aérea. Demuestra un firme compromiso con la provisión de viviendas a través de inversión provincial ante la dificultad del acceso al crédito hipotecario. Destaca la capacidad industrial de Mendoza para proyectos energéticos de envergadura, generando empleo calificado y valor agregado local.",
+            "frase_fuerte": "Hoy, para muchas familias, conseguir un crédito hipotecario sigue siendo imposible. Por eso, mientras esperamos que vuelva a haber financiamiento accesible, en Mendoza vamos a seguir sosteniendo este programa."
+        }
+    ]
+}
