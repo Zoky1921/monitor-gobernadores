@@ -1,0 +1,174 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada expone una fractura Nación-provincias. Kicillofok y VidalSer denuncian abandono federal, mientras Macri capitaliza la recuperación de propiedades en CABA. La Región Centro se consolida como bloque autónomo. El accidente en San Juan unifica gestos de pesar, pero no disimula la lucha por recursos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal y simbólica se concentra en el eje Buenos Aires-CABA. Kicillofok, en un tuit matinal, acusa al Estado Nacional de abandonar la salud pública, mientras su gestión provincial se presenta como único sostén. Es un mensaje directo a la Rosada: el ajuste no es neutral, y la provincia más poblada no está dispuesta a ser el pagador. Al mismo tiempo, Jorge Macri despliega una batería de retuits celebrando la recuperación de 900 propiedades, construyendo un relato de orden y eficiencia que contrasta deliberadamente con la supuesta anarquía bonaerense. La disputa no es solo territorial; es una batalla por el relato de la seguridad y la gestión.\n\nActo 2 — Los Alineamientos: La Región Centro emerge como el bloque más articulado. Llaryora, Pullaro y el ausente Frigerio (cuyos tuits no ingresan en la ventana temporal) muestran una agenda común: inversiones, infraestructura y educación. Llaryora, con la apertura de BYMA en Córdoba, marca un hito de descentralización financiera, mientras Pullaro avanza con obras viales y educativas. Ambos evitan mencionar a Nación, lo que sugiere un repliegue estratégico: 'no demandamos, hacemos'. En el otro extremo, Claudio Vidal (Santa Cruz) se posiciona como el antikirchnerista radical, responsabilizando a treinta años de gestión anterior por las inundaciones, y alineándose con el discurso del Presidente. Su omisión deliberada de cualquier vínculo con Nación es un guiño a la Casa Rosada.\n\nActo 3 — La Micro-política: Los gobernadores periféricos (Jalil, Zdero, Torres, Suárez, Melella) se refugian en la agenda local. Jalil rescata turistas, Zdero promociona una empresa local, Torres entrega viviendas a policías, Suárez inaugura una planta industrial. Son gestos de gestión de cabotaje que evitan posicionamientos federales. La excepción es el duelo compartido por el accidente en San Juan, que une a varios mandatarios en un gesto protocolario que no altera el tablero.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día es ambiguo. Gana un aliado en Vidal, pero pierde la batalla comunicacional en Buenos Aires, donde Kicillofok monopoliza el relato del 'abandono'. La Región Centro sigue su propio curso, sin subordinación. La ausencia de menciones a la macroeconomía en los tuits de los gobernadores periféricos sugiere un cálculo de supervivencia: no hablar de la recesión para no legitimar la crisis. El silencio es, en sí mismo, un mensaje.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto CABA vs PBA por seguridad y gestión",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Región Centro: integración productiva y autonomía",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Luto por accidente en San Juan (solidaridad interprovincial)",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@gustavomelella",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Denuncia de abandono nacional en salud e infraestructura",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo local (industria, educación, vivienda)",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE",
+                "@LeandroZdero",
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @IanantuonySeba)",
+        "texto": "Gracias @gkatopodis y @Kicillofok por este gran paso hacia la ampliación de nuestro sistema sanitario. Hoy cuando la salud privada se repliega y el Estado Nacional abandona, con mucho esfuerzo seguimos trabajando para garantizar este derecho tan esencial para nuestros vecinos.",
+        "por_que_es_clave": "Kicillofok utiliza la inauguración de un centro de salud para marcar el contraste entre su gestión provincial y el 'abandono' de Nación. Es un mensaje de doble filo: muestra capacidad de gestión local mientras erosiona la legitimidad del ajuste nacional. La frase 'Estado Nacional abandona' es una declaración de guerra política en el territorio más sensible para el Gobierno.",
+        "pregunta_openarg": "¿Cuánto de la crisis de salud pública es responsabilidad de la Nación y cuánto de las provincias que no hicieron los deberes fiscales durante la década K?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Abandono nacional",
+                "Infraestructura sanitaria"
+            ],
+            "postura_politica": "Ofensiva contra Nación. Presenta la gestión provincial como única garante de derechos ante el repliegue del Estado nacional. Se posiciona como el verdadero defensor del peronismo y la gestión pública.",
+            "frase_fuerte": "Hoy cuando la salud privada se repliega y el Estado Nacional abandona, con mucho esfuerzo seguimos trabajando..."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Propiedad privada",
+                "Seguridad",
+                "Ley y orden"
+            ],
+            "postura_politica": "Celebra la recuperación de propiedades como prueba de gestión eficaz y contraste con la provincia de Buenos Aires. Se posiciona como el adalid del orden y la seguridad jurídica, en contraposición al kirchnerismo.",
+            "frase_fuerte": "No hay grises cuando se trata de defender la propiedad privada. 900 propiedades recuperadas."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Gestión de emergencias",
+                "Rescate de turistas"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Resalta capacidad de coordinación provincial ante desastres naturales. No menciona a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Producción local",
+                "Empleo",
+                "Desarrollo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Promociona una empresa chaqueña de envasados. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad",
+                "Policía"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Anuncia viviendas para policías en Trelew. Gestión protocolar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Mercado de capitales",
+                "Desarrollo federal",
+                "Salud",
+                "Educación",
+                "Narcotráfico"
+            ],
+            "postura_politica": "Consolida a Córdoba como polo de inversión y desarrollo autónomo. Evita mencionar a Nación, pero marca agenda propia. Se posiciona como líder de la Región Centro.",
+            "frase_fuerte": "Que nos hayan elegido para iniciar esta etapa de expansión federal es un reconocimiento al trabajo que venimos haciendo..."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Escrituración",
+                "Articulación público-privada",
+                "Educación",
+                "Condolencias"
+            ],
+            "postura_politica": "Agenda local. Gestión de servicios y obras. Sin posicionamiento federal. El único gesto político es el pésame por el accidente en San Juan.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Inundaciones",
+                "Crítica al kirchnerismo",
+                "Producción",
+                "Justicia"
+            ],
+            "postura_politica": "Ofensiva contra el kirchnerismo. Atribuye los problemas actuales a la herencia de 30 años de gestión anterior. Se alinea con el discurso de Nación. Marca autonomía y gestión propia.",
+            "frase_fuerte": "Lo que hoy estamos viviendo con estas inundaciones es el resultado de más de 30 años de kirchnerismo: promesas, improvisación, corrupción..."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Región Centro",
+                "Infraestructura educativa",
+                "Obras viales"
+            ],
+            "postura_politica": "Refuerza el bloque de la Región Centro. Evita demandar a Nación, muestra gestión propia. Se posiciona como parte del motor productivo del país.",
+            "frase_fuerte": "No venimos a demandar, sino a demostrarle a toda la República que hay una manera diferente de hacer las cosas..."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Industria",
+                "Inversión",
+                "Salud"
+            ],
+            "postura_politica": "Agenda local. Inaugura planta industrial. También retuitea campaña política local. Sin posicionamiento federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Condolencias",
+                "Infraestructura energética"
+            ],
+            "postura_politica": "Gestión protocolar. El único tuit del día es el pésame por el accidente en San Juan. Muestra perfil bajo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Aniversario local",
+                "Sueldos"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Anuncia fecha de pago de sueldos y supervisa obras. Gestión aislada.",
+            "frase_fuerte": null
+        }
+    ]
+}
