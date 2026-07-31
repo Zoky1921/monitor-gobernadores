@@ -1,0 +1,284 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron la jornada en gestión provincial, aunque no exenta de tensiones con el Gobierno nacional. Se destacó la defensa de las economías regionales por parte de Salta (Saenz) y Jujuy (Sadir) ante una decisión fitosanitaria federal. La Ciudad Autónoma de Buenos Aires (Jorge Macri) reafirmó su política de 'ley y orden' con la recuperación de propiedades. En paralelo, Chubut (Torres), Chaco (Zdero), Misiones (Passalacqua), San Luis (Poggi) y Neuquén (Figueroa) anunciaron importantes inversiones en infraestructura y servicios. Hubo un notable tono de autoafirmación provincial, con Río Negro (Weretilneck) resaltando su crecimiento económico por encima de la media nacional, y Buenos Aires (Kicillof) criticando el 'abandono' del Estado Nacional en salud. La solidaridad interprovincial también se manifestó con condolencias por el accidente en San Juan.",
+    "analisis_profundo": "La agenda federal estuvo marcada hoy por una doble dinámica: la autoafirmación de la gestión provincial y un creciente grado de confrontación o diferenciación con el Gobierno nacional. Gobernadores como Gustavo Sáenz (Salta) y Carlos Sadir (Jujuy) lideraron un frente regional al impugnar públicamente una modificación 'inconsulta' del régimen fitosanitario para la importación de bananas, llegando a anunciar 'barreras sanitarias' provinciales. Esta acción no solo defiende sus economías regionales, sino que encapsula una postura de federalismo proactivo frente a lo que perciben como una desatención centralizada.\n\nLa Ciudad Autónoma de Buenos Aires, bajo Jorge Macri, continuó su línea discursiva de 'ley, orden y propiedad privada', celebrando la recuperación de 900 propiedades y enarbolando este logro como un contraste con otras jurisdicciones, con una clara alusión a la provincia de Buenos Aires. Por su parte, Axel Kicillof (Buenos Aires) se dedicó a comunicar avances en obra pública y salud, aunque retuiteó mensajes que critican directamente el 'abandono' del Estado Nacional en áreas esenciales. Sergio Ziliotto (La Pampa) reforzó esta narrativa al anunciar una significativa inversión en salud pública, enmarcando la decisión como un compromiso ineludible en 'tiempos difíciles', sugiriendo una suplencia de un rol nacional ausente.\n\nEn el plano económico, Arabela Carreras (Río Negro) utilizó datos de crecimiento en ventas de supermercados para posicionar a su provincia, junto a Neuquén (Figueroa) y San Luis (Poggi), como una de las pocas que logran expandirse en un contexto de caída nacional. Rolando Figueroa (Neuquén) también destacó un ambicioso plan vial y la transformación industrial ligada a Vaca Muerta, proyectando la provincia como un motor energético regional. Martín Llaryora (Córdoba) subrayó el rol de su provincia como polo de inversión e innovación, así como su importancia en la Región Centro, que también vio a Rogelio Frigerio (Entre Ríos) asumir su presidencia pro tempore, enfatizando la agenda productiva.\n\nLa jornada también mostró un fuerte enfoque en obras de infraestructura variadas, desde acueductos en Chaco (Zdero), viviendas en Chubut (Torres) y San Luis (Poggi), hasta sistemas de saneamiento en Río Negro (Weretilneck) y energía en Misiones (Passalacqua). La solidaridad interprovincial se hizo presente con múltiples gobernadores expresando condolencias por el trágico accidente aéreo en San Juan, destacando la vocación de servicio de los fallecidos.\n\nEn síntesis, la jornada reveló un escenario federal donde las provincias buscan reafirmar su autonomía y capacidad de gestión, a menudo en contraste con o en respuesta a la política nacional, mientras continúan con sus agendas internas de desarrollo y servicios.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica y Contraste con el Gobierno Nacional / Gestiones Anteriores",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@ZiliottoSergio",
+                "@carlossadirjuy",
+                "@GustavoSaenzOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Defensa de Economías Regionales y Producción Local",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@GustavoSaenzOK",
+                "@LeandroZdero",
+                "@frigeriorogelio",
+                "@EliasSuarezSDE",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Gestión de Emergencias y Seguridad Pública",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@ClaudioVidalSer",
+                "@WeretilneckOK",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Solidaridad Interprovincial (Accidente Aéreo en San Juan)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@gustavomelella"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@GustavoSaenzOK",
+        "texto": "La defensa de la producción y las economías regionales de ambas provincias son acciones indelegables de quienes las gobernamos. Defender nuestra producción es ejercer el federalismo en el Norte profundo, postergado.",
+        "por_que_es_clave": "Esta declaración conjunta y enérgica de dos gobernadores representa una confrontación directa y coordinada con una política nacional, enmarcando la defensa de sus economías regionales como un ejercicio fundamental del federalismo y la autonomía provincial.",
+        "pregunta_openarg": "¿Qué implicancias tiene para la dinámica federal la decisión de Salta y Jujuy de establecer barreras sanitarias provinciales ante una medida nacional?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Salud pública",
+                "Crítica a políticas nacionales"
+            ],
+            "postura_politica": "Reafirma la gestión provincial con inversión en infraestructura y servicios esenciales, criticando el desfinanciamiento y 'abandono' del Estado Nacional en salud. Mantiene una postura combativa contra la política central.",
+            "frase_fuerte": "Hoy cuando la salud privada se repliega y el Estado Nacional abandona, con mucho esfuerzo seguimos trabajando para garantizar este derecho tan esencial para nuestros vecinos."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad de Buenos Aires)",
+            "temas_mencionados": [
+                "Propiedad privada",
+                "Seguridad jurídica",
+                "Ordenamiento urbano",
+                "Ley y orden",
+                "Contraste político"
+            ],
+            "postura_politica": "Lidera con una política de mano dura en defensa de la propiedad privada y el ordenamiento urbano, contrastando explícitamente su gestión con la de la provincia de Buenos Aires. Enfatiza la eficiencia y el cumplimiento de la ley.",
+            "frase_fuerte": "No hay grises cuando se trata de defender la propiedad privada. 900 propiedades recuperadas."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Gestión de emergencias",
+                "Coordinación público-privada"
+            ],
+            "postura_politica": "Destaca la eficiencia y rapidez en la respuesta a emergencias, enfatizando la colaboración entre el Estado y el sector privado para la seguridad ciudadana y la modificación de la infraestructura turística para mayor seguridad.",
+            "frase_fuerte": "Cuando se trata de cuidar a nuestra gente y a quienes nos visitan, la rápida coordinación y el trabajo articulado entre el Estado y el sector privado salvan vidas."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Infraestructura hídrica",
+                "Desarrollo productivo local",
+                "Apoyo a clubes"
+            ],
+            "postura_politica": "Se enfoca en el cumplimiento de obras postergadas como el segundo acueducto y el impulso a la producción chaqueña para generar empleo y valor agregado, mostrando cercanía con la comunidad y el sector productivo.",
+            "frase_fuerte": "Años de promesas vacías, hoy avanza la obra del segundo acueducto de interior para culminar el próximo año."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Políticas de vivienda",
+                "Seguridad"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura que transforma vidas, como nuevas pistas deportivas y viviendas para fuerzas de seguridad, ligándolo a un 'legado' para futuras generaciones y a la revitalización de proyectos abandonados.",
+            "frase_fuerte": "QUE LINDO QUILOMBO QUE ARMAMOS Con la nueva pista de atletismo de tartán profesional en Trelew, para que la ciudad sea sede de competencias internacionales y nuestros atletas puedan entrenar en las mejores condiciones posibles."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Inversión",
+                "Innovación",
+                "Eventos culturales y deportivos",
+                "Mercado de capitales",
+                "Solidaridad"
+            ],
+            "postura_politica": "Promueve a Córdoba como un polo de desarrollo productivo y cultural con previsibilidad, fomentando la articulación público-privada y extendiendo la influencia regional. Expresa solidaridad interprovincial ante tragedias.",
+            "frase_fuerte": "Cuando el Estado genera confianza y trabaja junto al sector privado, llegan las inversiones, se crean más oportunidades y Córdoba sigue consolidándose como líder de innovación y desarrollo."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Integración regional",
+                "Infraestructura fluvial"
+            ],
+            "postura_politica": "Impulsa proyectos de interconexión con provincias vecinas para fortalecer el desarrollo y la conectividad regional, demostrando gestión eficiente y visión de futuro para Corrientes y Santa Fe.",
+            "frase_fuerte": "Dimos media sanción, en el Senado, al proyecto de ley que ratifica el acuerdo suscripto el 28 de agosto de 2025 entre #Corrientes y #SantaFe para crear la Unidad Ejecutora Biprovincial para la interconexión fluvial entre #BellaVista y #VillaOcampo."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Eficiencia del gasto",
+                "Producción avícola",
+                "Exportaciones"
+            ],
+            "postura_politica": "Aboga por un Estado ordenado y transparente en la gestión de recursos, con énfasis en la eficiencia de la compra de medicamentos. Impulsa sectores productivos clave y celebra la apertura de mercados internacionales.",
+            "frase_fuerte": "Cada peso que dejamos de desperdiciar es un peso más para invertir en mejores hospitales, más medicamentos y una mejor atención para todos los entrerrianos."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Economías regionales",
+                "Política fitosanitaria nacional",
+                "Federalismo"
+            ],
+            "postura_politica": "Confronta la decisión nacional sobre el régimen fitosanitario de bananas, defendiendo con firmeza la producción local y ejerciendo la autonomía provincial en coordinación con Salta.",
+            "frase_fuerte": "Tras la decisión inconsulta del Gobierno nacional de modificar el régimen fitosanitario para el ingreso de bananas importadas, desde Jujuy actuaremos con firmeza."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Inversión provincial",
+                "Compromiso social"
+            ],
+            "postura_politica": "Compromete recursos provinciales para fortalecer la salud pública, implícitamente contrastando con la política nacional y reafirmando su responsabilidad con la ciudadanía en tiempos difíciles.",
+            "frase_fuerte": "Cuando decimos que no vamos a abandonar a nuestra gente, no hacemos una promesa: asumimos un compromiso que se demuestra con hechos."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Protección de la niñez y adolescencia",
+                "Cooperación institucional"
+            ],
+            "postura_politica": "Demuestra un compromiso activo con las políticas sociales, buscando alianzas con organismos nacionales e internacionales para garantizar derechos, especialmente en niñez y adolescencia, en un contexto de recursos limitados.",
+            "frase_fuerte": "En un contexto complejo, donde muchas veces las provincias y los municipios deben responder con sus propios recursos, seguimos apostando al trabajo articulado, a la planificación y a la cooperación para garantizar más derechos."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Infraestructura energética",
+                "Protección ambiental",
+                "Vivienda",
+                "Aniversarios locales"
+            ],
+            "postura_politica": "Destaca la inversión en infraestructura a largo plazo y la compatibilidad entre desarrollo y conservación ambiental, mostrando cercanía con las comunidades locales y el progreso en obras de vivienda.",
+            "frase_fuerte": "Pensar en las próximas generaciones también es invertir en infraestructura."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Desarrollo industrial",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Presenta un plan de obras viales ambicioso y subraya la transformación de Neuquén en una provincia industrial, capitalizando el potencial de Vaca Muerta para el desarrollo y nuevas oportunidades.",
+            "frase_fuerte": "NEUQUÉN SE ESTÁ TRANSFORMANDO EN UNA PROVINCIA INDUSTRIAL Vaca Muerta está transformando nuestra matriz productiva. Hoy extraer petróleo y gas es una actividad industrial y el desafío es seguir agregando valor en origen."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Gestión de gobierno",
+                "Desarrollo económico",
+                "Salud",
+                "Seguridad",
+                "Infraestructura",
+                "Vivienda",
+                "Solidaridad"
+            ],
+            "postura_politica": "Muestra una gestión provincial integral y eficiente, destacando el crecimiento económico propio frente a la tendencia nacional y la constante inversión en servicios esenciales y obras públicas, además de manifestar solidaridad interprovincial.",
+            "frase_fuerte": "SOLO TRES PROVINCIAS CRECIERON. RÍO NEGRO ES UNA DE ELLAS."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Inversión minera",
+                "Economías regionales",
+                "Federalismo",
+                "Política fitosanitaria nacional"
+            ],
+            "postura_politica": "Afirma la seguridad jurídica para atraer inversiones mineras y lidera la defensa de las economías regionales frente a decisiones nacionales que considera 'inconsultas', reivindicando el federalismo en el Norte.",
+            "frase_fuerte": "La defensa de la producción y las economías regionales de ambas provincias son acciones indelegables de quienes las gobernamos. Defender nuestra producción es ejercer el federalismo en el Norte profundo, postergado."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura urbana y vial",
+                "Educación",
+                "Articulación público-privada"
+            ],
+            "postura_politica": "Enfocado en la gestión de obras y programas sociales que mejoran la calidad de vida, como el acceso a la vivienda, la mejora de infraestructuras educativas y viales, promoviendo la colaboración con el sector privado.",
+            "frase_fuerte": "7.070 FAMILIAS ya accedieron a la ESCRITURA de su casa."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia",
+                "Inundaciones",
+                "Críticas a gestiones anteriores",
+                "Producción agrícola"
+            ],
+            "postura_politica": "Aborda las emergencias climáticas y refuerza el sistema judicial y de seguridad. Utiliza una retórica fuerte contra la 'destrucción' del kirchnerismo, enfocándose en la recuperación productiva y el cumplimiento de promesas postergadas.",
+            "frase_fuerte": "QUE NO VUELVAN NUNCA MÁS LOS QUE HICIERON ESTE DESASTRE"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Eficiencia de gestión",
+                "Reducción de costos",
+                "Inversión en infraestructura productiva"
+            ],
+            "postura_politica": "Destaca una gestión provincial ordenada que permite reducir gastos políticos e impuestos, invirtiendo en infraestructura clave y logrando avances que impactan positivamente en la ciudadanía. Enfatiza que 'se pueden hacer las cosas de otra manera'.",
+            "frase_fuerte": "En Santa Fe estamos demostrando que se pueden hacer las cosas de otra manera."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Conectividad aérea",
+                "Desarrollo industrial",
+                "Producción local",
+                "Política local"
+            ],
+            "postura_politica": "Impulsa el desarrollo económico a través de la mejora de la conectividad aérea y el apoyo a la industria local, combinando anuncios de gestión con actividades de campaña política y el trabajo conjunto público-privado.",
+            "frase_fuerte": "MÁS CONECTIVIDAD ÁREA PARA NUESTRA PROVINCIA ✈️ Tuve la enorme alegría de participar del lanzamiento oficial de @VuelaJetSMART en nuestra provincia, una gran noticia que marca un hito estratégico para el turismo, el comercio y el desarrollo económico de los santiagueños."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Solidaridad interprovincial"
+            ],
+            "postura_politica": "Expresa condolencias y solidaridad con la provincia de San Juan, mostrando un espíritu de hermandad y apoyo entre provincias ante un evento trágico.",
+            "frase_fuerte": "Lamento profundamente la tragedia ocurrida en San Juan, donde siete personas perdieron la vida en un accidente aéreo mientras cumplían tareas de emergencia."
+        }
+    ]
+}
