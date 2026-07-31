@@ -1,0 +1,178 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores intensificaron su gestión local, priorizando la inversión en infraestructura, salud pública y desarrollo económico regional. La jornada reflejó una clara reafirmación de la autonomía provincial. En este contexto, el gobernador de Jujuy (Carlos Sadir) anunció medidas directas para proteger su economía regional de decisiones nacionales sobre importaciones, marcando una tensión federal. Otros gobernadores, como el de Córdoba (Martín Llaryora), impulsaron modelos de inversión público-privada, mientras Neuquén (Rolando Figueroa) destacó inversiones en educación y control sobre Vaca Muerta. La Pampa (Sergio Ziliotto) y Buenos Aires (Axel Kicillof) reforzaron la salud pública, al tiempo que se observaron acciones en seguridad (Río Negro, Santa Cruz) y solidaridad interprovincial (Tierra del Fuego, Antártida e Islas del Atlántico Sur).",
+    "analisis_profundo": "La agenda política federal del 31 de julio de 2026 reveló un patrón de reafirmación provincial, donde los gobernadores priorizaron la gestión local y la defensa de los intereses regionales. El clima político, aunque no directamente confrontativo en todos los casos, mostró matices de tensión y una clara diferenciación respecto a las políticas del Gobierno nacional.\n\nEn el ámbito de la salud pública, el gobernador de Buenos Aires (Axel Kicillof) destacó la inversión provincial en salud mental, presentando su modelo de 'desmanicomialización' como un 'cuidado mejor', una postura que contrasta con la narrativa nacional de ajuste. De manera similar, el gobernador de La Pampa (Sergio Ziliotto) reafirmó el compromiso provincial de destinar más de $1.500 millones a la salud pública, subrayando la importancia de sostener este derecho 'en tiempos difíciles', lo que puede interpretarse como una respuesta a posibles desatenciones federales.\n\nLa infraestructura y el desarrollo económico regional fueron ejes centrales. El gobernador de Córdoba (Martín Llaryora) posicionó a su provincia como un polo de inversión e innovación, enfatizando un modelo de colaboración público-privada para atraer capitales y generar oportunidades. El gobernador de Misiones (Hugo Passalacqua) exhibió inversiones en infraestructura energética y entrega de títulos de propiedad, demostrando un compromiso con el desarrollo a largo plazo. Por su parte, el gobernador de Neuquén (Rolando Figueroa) hizo hincapié en la inversión en educación y rutas, además de retuitear sobre Vaca Muerta y la necesidad de un precio justo para los recursos provinciales, planteando implícitamente la tensión con el control nacional sobre los precios de hidrocarburos. El gobernador de Salta (Gustavo Sáenz) también destacó inversiones en infraestructura deportiva como motor de desarrollo juvenil.\n\nLa tensión federal se hizo explícita en la reacción del gobernador de Jujuy (Carlos Sadir) ante una 'decisión inconsulta del Gobierno nacional' sobre el régimen fitosanitario de importación de bananas. Sadir (provincia de Jujuy) anunció un Decreto Acuerdo para fortalecer los controles provinciales, una medida directa de defensa de su economía regional y estatus sanitario, marcando un claro contrapunto con la política comercial federal.\n\nEn materia de seguridad, el gobernador de Río Negro (Alberto Weretilneck) retuiteó sobre la detención de un atrincherado en Choele Choel, mientras que el gobernador de Santa Cruz (Claudio Vidal) anunció la incorporación de nuevos recursos y la reglamentación de un juzgado de faltas, buscando fortalecer la seguridad y prevención vial a nivel provincial.\n\nFinalmente, la solidaridad interprovincial se manifestó en el mensaje del gobernador de Tierra del Fuego, Antártida e Islas del Atlántico Sur (Gustavo Melella), quien expresó condolencias a San Juan (provincia de San Juan) por una tragedia aérea, unificando el sentimiento nacional ante la adversidad. La agenda del gobernador de Catamarca (Raúl Jalil) también incluyó aspectos internos partidarios, mostrando la diversidad de preocupaciones en la esfera provincial. Esta jornada subraya la vitalidad de las autonomías provinciales y su rol activo en la construcción de una agenda de desarrollo y bienestar, a menudo en diálogo o tensión con el gobierno central.",
+    "temas_calientes": [
+        {
+            "tema": "Defensa de Economías Regionales y Soberanía Productiva frente a políticas nacionales",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Gestión y Fortalecimiento de la Salud Pública provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Desarrollo de Infraestructura Provincial (vivienda, energía, vial, educativa)",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Refuerzo de Seguridad y Orden Interno provincial",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Reafirmación de la Gestión Autónoma y Transparencia provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@carlossadirjuy",
+        "texto": "Vamos a fortalecer los controles fitosanitarios en el ingreso de bananas importadas a nuestra provincia. Firmé el Decreto Acuerdo 5682/26,a través del cual vamos a proteger nuestra producción frutihortícola y preservar el estatus sanitario que Jujuy construyó durante muchos años.",
+        "por_que_es_clave": "Este tweet es clave porque el gobernador de Jujuy (Carlos Sadir) anuncia una medida directa de defensa provincial contra una decisión nacional (referida como 'inconsulta' en tweets de días previos por él mismo y el gobernador de Salta) que considera perjudicial para su economía regional y su estatus sanitario. Demuestra la voluntad de las provincias de ejercer autonomía y establecer barreras propias frente a políticas federales que perciben como una amenaza, marcando una tensión federal en la gestión económica y fitosanitaria.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Salud Mental",
+                "Gestión Provincial"
+            ],
+            "postura_politica": "Destaca la inversión y gestión provincial en salud mental, presentando un modelo de 'cuidado mejor' y diferenciándose implícitamente de recortes o desatención a nivel nacional, lo que reafirma una postura de autonomía y responsabilidad provincial en áreas sociales clave.",
+            "frase_fuerte": "Desmanicomializar no es dejar de cuidar, es cuidar mejor."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Política Partidaria",
+                "Apoyo Electoral"
+            ],
+            "postura_politica": "Se involucra activamente en la política partidaria, retuiteando el lanzamiento de una lista para un cargo presidencial interno o un proceso electoral relevante, mostrando su alineación y compromiso con una facción específica dentro del espectro político.",
+            "frase_fuerte": "¡Es oficial! 🙌 Presentamos la lista de Generación Valiente con @carlosdeaparici Presidente."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Inversión",
+                "Innovación",
+                "Desarrollo Económico",
+                "Relación Público-Privada"
+            ],
+            "postura_politica": "Posiciona a Córdoba (provincia de Córdoba) como un polo de inversión y desarrollo tecnológico, enfatizando la previsibilidad y el trabajo conjunto entre el Estado y el sector privado como claves para atraer capitales, generar empleo y consolidar un modelo económico propio.",
+            "frase_fuerte": "Cuando el Estado genera confianza y trabaja junto al sector privado, llegan las inversiones, se crean más oportunidades y Córdoba sigue consolidándose como líder de innovación y desarrollo."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Economías Regionales",
+                "Control Fitosanitario",
+                "Defensa de la Producción",
+                "Federalismo"
+            ],
+            "postura_politica": "Adopta una postura de firme defensa de la producción local y la soberanía sanitaria de Jujuy (provincia de Jujuy) frente a decisiones nacionales, implementando controles propios para proteger la economía frutihortícola y el estatus sanitario provincial.",
+            "frase_fuerte": "Vamos a fortalecer los controles fitosanitarios en el ingreso de bananas importadas a nuestra provincia. Firmé el Decreto Acuerdo 5682/26,a través del cual vamos a proteger nuestra producción frutihortícola y preservar el estatus sanitario que Jujuy construyó durante muchos años."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Inversión Provincial",
+                "Gasto Público",
+                "Federalismo"
+            ],
+            "postura_politica": "Reafirma el compromiso de su gestión con la inversión en salud pública, destacando la autonomía provincial para sostener servicios esenciales y la calidad de vida de los pampeanos (provincia de La Pampa) en 'tiempos difíciles', con una velada crítica a la situación nacional y una clara afirmación de la independencia económica provincial.",
+            "frase_fuerte": "En tiempos difíciles, sostenemos lo que verdaderamente importa: la salud y la calidad de vida de nuestra gente."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad Jurídica",
+                "Infraestructura Energética",
+                "Gestión Provincial",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Subraya la importancia de la inversión provincial en vivienda e infraestructura energética para el desarrollo a largo plazo, mostrando una gestión activa y centrada en las necesidades de las familias misioneras (provincia de Misiones) y el crecimiento regional, proyectando la provincia hacia las 'próximas generaciones'.",
+            "frase_fuerte": "Cada título de propiedad representa el cierre de un proceso muy esperado y un paso fundamental para más familias misioneras."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura Escolar",
+                "Transparencia",
+                "Gestión Pública",
+                "Infraestructura Vial",
+                "Turismo",
+                "Desarrollo Regional",
+                "Energía",
+                "Vaca Muerta",
+                "Federalismo Económico"
+            ],
+            "postura_politica": "Enfatiza la inversión provincial en educación e infraestructura vial, el desarrollo de Vaca Muerta bajo una perspectiva de valor agregado provincial, y la transparencia en la rendición de cuentas. Se posiciona como un gestor proactivo que afirma la autonomía de Neuquén (provincia de Neuquén) en sus recursos y prioridades, buscando transformar la matriz productiva.",
+            "frase_fuerte": "Con acciones, no con palabras, demostramos que la educación es la gran prioridad de nuestra gestión."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad",
+                "Policía",
+                "Gestión Provincial"
+            ],
+            "postura_politica": "Destaca la eficacia de la fuerza policial de Río Negro (provincia de Río Negro) en la resolución de incidentes de seguridad, mostrando una gestión activa y resolutiva en el mantenimiento del orden público y la protección ciudadana.",
+            "frase_fuerte": "🚔 Choele Choel: la Policía detuvo a hombre que se atrincheró en una vivienda"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Deporte",
+                "Juventud",
+                "Inversión Provincial",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Impulsa la inversión en infraestructura deportiva como una herramienta clave para el desarrollo juvenil y regional en Salta (provincia de Salta), buscando generar nuevas oportunidades y un futuro más prometedor a través del deporte.",
+            "frase_fuerte": "La nueva pista de patinaje de El Carril, única en el NOA y el NEA, es una inversión en nuestros jóvenes, en el deporte y en el futuro de toda la región."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Seguridad",
+                "Búsqueda y Rescate",
+                "Equipamiento",
+                "Seguridad Vial",
+                "Legislación",
+                "Gestión Pública"
+            ],
+            "postura_politica": "Resalta el fortalecimiento de las capacidades de seguridad y emergencia en Santa Cruz (provincia de Santa Cruz) mediante la incorporación de recursos como canes de rescate y la implementación de nueva legislación para seguridad vial, mostrando una gestión enfocada en la protección ciudadana y la prevención.",
+            "frase_fuerte": "INCORPORAMOS NUEVOS CANES PARA BÚSQUEDA, RESCATE E INTERVENCIÓN, QUE SERÁN FUNDAMENTALES PARA SEGUIR CUIDANDO A LOS SANTACRUCEÑOS"
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Condolencias",
+                "Emergencia",
+                "Solidaridad Interprovincial"
+            ],
+            "postura_politica": "Expresa solidaridad y profundo pesar ante una tragedia aérea en San Juan (provincia de San Juan), destacando el apoyo del pueblo fueguino (Tierra del Fuego, Antártida e Islas del Atlántico Sur) y la unidad nacional en situaciones de emergencia y dolor compartidos.",
+            "frase_fuerte": "Lamento profundamente la tragedia ocurrida en San Juan, donde siete personas perdieron la vida en un accidente aéreo mientras cumplían tareas de emergencia."
+        }
+    ]
+}
