@@ -1,0 +1,131 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada sin grandes conflictos federales. Los gobernadores se refugian en gestión local y efemérides, con excepción de Figueroa (Neuquén) que marca agenda energética. Jaldo (Tucumán) y Cornejo (Mendoza) muestran articulación con Nación, mientras que el resto evita posicionamientos sobre la macroeconomía.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante es la ausencia de conflicto. Los gobernadores evitan la pelea fiscal directa con Nación, optando por una agenda de gestión que disimula la asfixia financiera. La excepción es Figueroa, que con la planta de YPF en Cutral Co marca territorio industrial y reclama autonomía energética.\n\nActo 2 — Los Alineamientos: Jaldo y Cornejo se alinean con Nación en actos protocolares (9 de Julio, reuniones con ministros). Figueroa y Passalacqua construyen una agenda propia de inversiones y obras, sin pedir permiso a Casa Rosada. Jalil y Valdés se mantienen en una ambigüedad calculada, mostrando gestión local pero sin confrontar.\n\nActo 3 — La Micro-política: Los gobernadores periféricos (Jalil, Valdés, Passalacqua) se refugian en la agenda de cabotaje: fiestas populares, obras menores, efemérides. Es una estrategia de supervivencia: mostrar gestión para ocultar la falta de recursos. Vidal (Santa Cruz) intenta capitalizar la emergencia climática para marcar diferencias con el kirchnerismo.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no sufre ataques directos, pero tampoco recibe respaldos entusiastas. Los gobernadores mantienen un perfil bajo, esperando señales sobre la coparticipación y el ajuste. El silencio es una forma de negociación.",
+    "temas_calientes": [
+        {
+            "tema": "Inversiones energéticas y autonomía provincial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Gestión educativa y obras públicas como refugio político",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@gustavovaldesok",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Relación institucional con Nación: apoyo táctico sin confrontación",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Efemérides y tradiciones como marca de identidad provincial",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@gustavovaldesok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Emergencias climáticas y gestión de crisis",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@RaulJalil_ok",
+        "texto": "Cada año espero que llegue la Fiesta del Poncho. Y cada año, cuando la recorro, vuelvo a sentir el mismo orgullo de ser catamarqueño. Fui casi todos los días porque ahí está el corazón de nuestra provincia: nuestros artesanos, artistas, emprendedores, productores y la gente que nos visita.",
+        "por_que_es_clave": "Jalil convierte una fiesta popular en un acto de reafirmación identitaria, evitando cualquier mención a la crisis o a Nación. Es un refugio en la agenda local para disimular la falta de respuesta federal.",
+        "pregunta_openarg": "¿Cuánto de la fiesta del Poncho es gestión cultural y cuánto es cortina de humo para la asfixia fiscal de las provincias del norte?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Fiesta del Poncho",
+                "rescate de turistas",
+                "gestión local"
+            ],
+            "postura_politica": "Se muestra como gestor eficiente y anfitrión de la cultura local. Evita posicionarse sobre la macroeconomía o la relación con Nación. La omisión es un mensaje: no hay conflicto abierto, pero tampoco respaldo.",
+            "frase_fuerte": "Cada año espero que llegue la Fiesta del Poncho."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "tradición de la caña con ruda",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda puramente protocolar. Sin señales de conflicto fiscal ni alineamiento con Nación. Refugio en la identidad cultural.",
+            "frase_fuerte": "Hoy, tres sorbos de caña con ruda para atraer salud y bienestar."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "reunión con ministro de Justicia",
+                "designación de jueces",
+                "gestión institucional"
+            ],
+            "postura_politica": "Muestra articulación con el gobierno nacional en temas judiciales. Es un gesto de diálogo y búsqueda de recursos, sin confrontación.",
+            "frase_fuerte": "Celebramos el compromiso asumido para avanzar en la cobertura de la vacante del Tribunal Federal Electoral."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "inversión minera",
+                "licitación hidroeléctrica",
+                "relación con Chile"
+            ],
+            "postura_politica": "Posicionamiento pro-inversión y apertura al capital privado. Marca autonomía en energía y minería, pero sin chocar con Nación. Busca atraer recursos propios.",
+            "frase_fuerte": "Los Nihuiles es un activo estratégico para Mendoza y hoy damos un paso fundamental para definir su futuro."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "planta de separación de gases YPF",
+                "inversión energética",
+                "gestión educativa"
+            ],
+            "postura_politica": "Marca agenda propia con inversiones récord en Vaca Muerta. Se posiciona como líder energético y muestra que Neuquén no necesita pedir permiso a Nación.",
+            "frase_fuerte": "Alcanzamos por lejos el mejor acuerdo salarial del país."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "presupuesto provincial",
+                "tomógrafo",
+                "gestión local"
+            ],
+            "postura_politica": "Gestión administrativa sin posicionamiento federal. Refugio en obras y servicios para mostrar eficiencia.",
+            "frase_fuerte": "Para seguir cuidando la educación, la salud y la contención social de los misioneros destina el 63% a la inversión social."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "inundaciones",
+                "crítica al kirchnerismo",
+                "gestión de crisis"
+            ],
+            "postura_politica": "Aprovecha la emergencia para marcar diferencias con el kirchnerismo y mostrar gestión. Se alinea con el discurso de ajuste pero sin mencionar a Milei.",
+            "frase_fuerte": "Que no vuelvan nunca más los que hicieron este desastre."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "homenaje a Angelelli",
+                "visita de Máximo Kirchner",
+                "memoria"
+            ],
+            "postura_politica": "Se posiciona en el peronismo kirchnerista con actos de memoria. Marca territorio político de cara a 2027, pero sin confrontar directamente con Nación.",
+            "frase_fuerte": "Cuando el peronismo se une, es invencible."
+        }
+    ]
+}
