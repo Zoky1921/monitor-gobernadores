@@ -1,0 +1,115 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada de cooperación pragmática entre Nación y provincias periféricas, mientras CABA se posiciona como polo innovador y Buenos Aires se refugia en estadísticas de gestión. Sin confrontación directa, los gobernadores exhiben alineamientos selectivos o internas locales.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registra batallas abiertas sino un repliegue táctico. La ausencia de ataques directos a la Casa Rosada sugiere que los gobernadores miden sus pasos en un escenario de negociación fiscal latente. Mientras algunos (Zdero, Torres, Jaldo) explicitan acuerdos con Nación, otros como Kicillof evitan la macro y se centran en datos sectoriales, una forma de no confrontar sin abdicar de su autonomía.\n\nActo 2 — Los Alineamientos: El bloque patagónico emerge como el más estructurado: Nacho Torres articula con Río Negro y Neuquén un federalismo horizontal que prescinde de la mediación nacional. Zdero y Jaldo, en cambio, buscan oxígeno mostrando obras conjuntas con el gobierno central. Macri juega en otra liga: internacionalización de CABA, sin pedir permiso ni mencionar a Nación. Jalil se encierra en la interna peronista, mientras Kicillof se cubre con datos de gestión para no exponer la fragilidad fiscal bonaerense.\n\nActo 3 — La Micro-política: Las provincias periféricas (Chaco, Santiago del Estero) apuestan a la gestión de cabotaje: acueductos, fibra óptica, financiamiento del CFI. Son gestos de supervivencia que no modifican el tablero federal pero mantienen viva la maquinaria territorial. La ausencia de Pullaro (Santa Fe) en la jornada es un silencio que se interpreta como desinterés calculado: su agenda de obras y juegos olímpicos provinciales no necesita réplica nacional.\n\nActo 4 — Saldo Presidencial: El saldo es ambivalente. La Casa Rosada cosecha gestos de cooperación de gobernadores de provincias chicas y medianas, pero no logra seducir a Buenos Aires ni a CABA. El verdadero test será la próxima disputa por coparticipación o deuda. Por ahora, el presidente puede exhibir que el diálogo federal no está roto, aunque el silencio de Kicillof y la autonomía de Macri son advertencias.",
+    "temas_calientes": [
+        {
+            "tema": "Cooperación Nación-provincias en infraestructura",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Internacionalización de la gestión local",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Tecnología e innovación productiva",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Salud pública provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Interna partidaria peronista",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH",
+        "texto": "UN ABRAZO PATAGÓNICO QUE LLEGA A BARILOCHE\n\nHay obras que van más allá de las fronteras de una provincia, porque le cambian la vida a toda una región.\n\nJunto a Río Negro y Neuquén logramos destrabar obras estratégicas que habían sido abandonadas y ampliar la capacidad del Gasoducto Cordillerano Patagónico, para que más de doce mil familias de toda la región puedan acceder por primera vez al gas.\n\nHoy ya más de 500 familias de Esquel tienen acceso a este servicio tan esencial, y vamos a seguir conectando a más familias de toda la Cordillera. Ese es el federalismo en el que creemos: el que une a la Patagonia para llevar soluciones concretas a toda nuestra gente.",
+        "por_que_es_clave": "Muestra un modelo de federalismo horizontal entre provincias patagónicas, sin esperar a Nación, y explicita una crítica indirecta al abandono de obras. Es un posicionamiento que refuerza la autonomía regional y la capacidad de gestión conjunta.",
+        "pregunta_openarg": "¿El federalismo del siglo XXI se construye con acuerdos entre provincias o con la mediación de Nación?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Salud mental",
+                "Estadísticas provinciales"
+            ],
+            "postura_politica": "Destaca aumento de internaciones en salud mental, posible crítica implícita al desfinanciamiento nacional pero sin mencionarlo. Se refugia en datos de gestión para no confrontar abiertamente.",
+            "frase_fuerte": "las internaciones por salud mental aumentaron un 79% y 110% en menores..."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Innovación educativa",
+                "Startups"
+            ],
+            "postura_politica": "Posiciona a CABA como hub global de innovación y educación, desmarcándose de la agenda nacional. Muestra gestión propia exitosa sin mencionar a Nación.",
+            "frase_fuerte": "Cosas que solo pasan acá."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Interna partidaria",
+                "Elecciones provinciales"
+            ],
+            "postura_politica": "Se enfoca en la presentación de una lista interna del peronismo catamarqueño, consolidando su liderazgo local sin impacto federal.",
+            "frase_fuerte": "Presentamos la lista de Generación Valiente con @carlosdeaparici Presidente."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Acueducto",
+                "Cooperación con Nación"
+            ],
+            "postura_politica": "Muestra avances en infraestructura hídrica con mención explícita a la supervisión conjunta con Nación. Señal de alineamiento y búsqueda de apoyo federal.",
+            "frase_fuerte": "Se terminaron las promesas, hoy avanzamos a paso firme en el Segundo Acueducto del Interior supervisando junto a Nación."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Gasoducto",
+                "Federalismo regional",
+                "Cooperación patagónica"
+            ],
+            "postura_politica": "Enfatiza un federalismo horizontal entre provincias patagónicas, criticando implícitamente el abandono nacional y mostrando eficacia propia.",
+            "frase_fuerte": "Ese es el federalismo en el que creemos: el que une a la Patagonia para llevar soluciones concretas a toda nuestra gente."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Innovación",
+                "Financiamiento CFI",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Gestiona líneas de financiamiento para tecnología, presentando una agenda de desarrollo sin confrontación y con énfasis en el equilibrio fiscal.",
+            "frase_fuerte": "La tecnología, la innovación y el conocimiento son pilares para el desarrollo de la provincia."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Justicia Federal",
+                "Cooperación institucional"
+            ],
+            "postura_politica": "Celebra la incorporación de magistrados federales, mostrando cooperación institucional con Nación y fortaleciendo la imagen de diálogo interpoderes.",
+            "frase_fuerte": "La incorporación de nuevos magistrados a la Justicia Federal marca un avance institucional muy importante para nuestra provincia."
+        }
+    ]
+}
