@@ -1,0 +1,207 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada muestra un tablero fragmentado: gobernadores peronistas como Jaldo y Jalil estrechan lazos con Nación en Justicia, mientras Quintela y Kicillof se repliegan en la gestión local y la memoria peronista. Los radicales y provinciales (Cornejo, Pullaro, Figueroa) apuestan a la cooperación interprovincial y al desarrollo económico. No hay un ataque frontal a Milei, pero sí una reacomodación de fuerzas.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La ausencia de un posicionamiento unificado contra la Casa Rosada es el dato más elocuente. Mientras Osvaldo Jaldo (Tucumán) y Raúl Jalil (Catamarca) se reúnen con el ministro de Justicia nacional para cubrir vacantes federales, Axel Kicillof (Buenos Aires) elige mostrar obras de cloacas y cooperación tecnológica con Santa Fe, omitiendo cualquier referencia a la macroeconomía. El silencio no es neutral: es una pausa táctica para medir el costo de la confrontación.\n\nActo 2 — Los Alineamientos: El núcleo duro de la oposición, encabezado por Ricardo Quintela (La Rioja) y Claudio Vidal (Santa Cruz), refuerza sus identidades: Quintela con la memoria de los mártires de la Iglesia y la visita de Máximo Kirchner, Vidal con un discurso de ruptura con el kirchnerismo y apuesta a la producción. Los gobernadores radicales y de centro-derecha (Alfredo Cornejo, Maximiliano Pullaro, Rolando Figueroa) se recuestan en la gestión eficiente y la atracción de inversiones, sin chocar con Nación. La Región Centro, aunque sin actividad directa hoy, late como polo de poder alternativo.\n\nActo 3 — La Micro-política: En las provincias periféricas, el repliegue es total. Claudio Poggi (San Luis) y Leandro Zdero (Chaco) se limitan a inaugurar luminarias y firmar actas de clubes, sin un solo gesto federal. Ignacio Torres (Chubut) capitaliza un acuerdo energético histórico con Río Negro y Neuquén, mostrando que la cooperación interprovincial es su herramienta de poder. Estos gestos de baja intensidad revelan que, en ausencia de recursos nacionales, los gobernadores se refugian en la agenda local para sobrevivir.\n\nActo 4 — Saldo Presidencial: Para Javier Milei, la jornada es un empate técnico. No recibe críticas directas de los pesos pesados del peronismo, pero tampoco sumas adhesiones explícitas. La Casa Rosada puede celebrar la cooperación judicial con Jaldo y Jalil, pero debe observar con atención la consolidación de la Región Centro y la persistencia de la memoria peronista en La Rioja. El tablero se reacomoda, pero la guerra fiscal no está declarada.",
+    "temas_calientes": [
+        {
+            "tema": "Cooperación interprovincial en infraestructura energética",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Relación con Nación en Justicia y cobertura de vacantes",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Gestión provincial y obras públicas como refugio político",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Identidad peronista y memoria histórica",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo económico regional y atracción de inversiones",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo (La Rioja)",
+        "texto": "Hay lugares que se convierten en guardianes de la memoria; la mantienen viva y la difunden para que las próximas generaciones conozcan la historia de nuestro pueblo. Hoy dejamos inaugurada una nueva etapa del Parque Temático Turístico \"Memoria y Martirio\", un centro de interpretación que resguardan la historia de la pastoral, de Monseñor Enrique Amgelelli, Carlos de Dios Muria, Gabriel Longeville y Wenceslao Pedernera.",
+        "por_que_es_clave": "En un día sin grandes batallas con Nación, Quintela elige anclar su liderazgo en la memoria de los mártires de la Iglesia vinculados al peronismo. La presencia de Máximo Kirchner en los actos previos refuerza la señal de unidad interna del PJ, mientras el resto de los gobernadores evita el terreno de la confrontación directa. Es un movimiento simbólico para consolidar su base y marcar distancia táctica de la agenda de Milei.",
+        "pregunta_openarg": "¿Hasta qué punto la memoria de los mártires de la Iglesia peronista puede funcionar como un dique de contención frente a la avanzada liberal de Milei, o es solo un refugio identitario sin capacidad de movilización electoral?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "gestión local",
+                "cloacas",
+                "innovación",
+                "cooperación con Santa Fe"
+            ],
+            "postura_politica": "Silencio táctico sobre la macroeconomía. Muestra gestión peronista en obras y educación, pero evita la confrontación directa con Nación. La omisión del conflicto fiscal sugiere que espera un mejor momento para atacar.",
+            "frase_fuerte": "no se encontró ninguna frase"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "justicia",
+                "cooperación con Nación",
+                "asistencia por nieve",
+                "cultura"
+            ],
+            "postura_politica": "Alineamiento pragmático con el gobierno nacional en justicia, mientras gestiona emergencias y promociona la cultura local. Busca oxígeno institucional sin perder perfil propio.",
+            "frase_fuerte": "Celebramos el compromiso asumido para avanzar en la cobertura de la vacante del Tribunal Federal Electoral."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "cultura",
+                "prevención de inundaciones",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en la Bienal y obras de canalización, sin mencionar a Nación. Es un repliegue estratégico para evitar roces.",
+            "frase_fuerte": "no se encontró ninguna frase"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "energía",
+                "cooperación interprovincial",
+                "gasoducto",
+                "deporte"
+            ],
+            "postura_politica": "Construye poder a través de acuerdos regionales con Río Negro y Neuquén. El gasoducto cordillerano es una muestra de eficacia federal que contrasta con la parálisis nacional. Se posiciona como gestor pragmático.",
+            "frase_fuerte": "Hay obras que van más allá de las fronteras de una provincia, porque le cambian la vida a toda una región."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "desarrollo económico",
+                "inversiones",
+                "educación",
+                "deporte",
+                "infraestructura"
+            ],
+            "postura_politica": "Córdoba se consolida como polo de innovación y desarrollo. Llaryora evita la pelea con Nación y se enfoca en la Región Centro y la atracción de capitales. Es un modelo de gobernador que no necesita confrontar para crecer.",
+            "frase_fuerte": "En #Córdoba no vamos a parar. Vamos a seguir construyendo la #infraestructura que mejora la #SeguridadVial, agiliza el transporte y acompaña el crecimiento de nuestra #producción."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "tradición",
+                "caña con ruda",
+                "interconexión fluvial"
+            ],
+            "postura_politica": "Agenda protocolar y tradicional. El único gesto político es el acuerdo con Santa Fe para el puente, pero es de baja intensidad. Sin conflicto con Nación.",
+            "frase_fuerte": "no se encontró ninguna frase"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "memoria",
+                "martirio",
+                "peronismo",
+                "unidad"
+            ],
+            "postura_politica": "Máximo despliegue simbólico. La inauguración del parque temático es un acto de reafirmación identitaria peronista, en un momento de debilidad del kirchnerismo nacional. La visita de Máximo Kirchner refuerza su liderazgo interno.",
+            "frase_fuerte": "Cuando el peronismo se une, es invencible."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "turismo del vino",
+                "energía",
+                "inversión minera"
+            ],
+            "postura_politica": "Mendoza se muestra como provincia ordenada y atractiva para inversiones. Cornejo avanza en la concesión de Los Nihuiles y recibe a empresas mineras. Es un perfil técnico, sin confrontación.",
+            "frase_fuerte": "Los Nihuiles es un activo estratégico para Mendoza y hoy damos un paso fundamental para definir su futuro."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "tradición",
+                "salud",
+                "presupuesto",
+                "viviendas"
+            ],
+            "postura_politica": "Gestión local y administrativa. Presenta el presupuesto y entrega títulos, sin mencionar a Nación. Repliegue total en la agenda de cabotaje.",
+            "frase_fuerte": "no se encontró ninguna frase"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Copa Davis",
+                "energía",
+                "educación",
+                "acuerdo salarial"
+            ],
+            "postura_politica": "Neuquén se posiciona como sede de eventos mundiales y polo energético. Figueroa destaca la reducción de deuda y las inversiones en Vaca Muerta. Su perfil es de gestión eficiente y pro-mercado, sin roce con Nación.",
+            "frase_fuerte": "ALCANZAMOS POR LEJOS EL MEJOR ACUERDO SALARIAL DEL PAÍS"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "viviendas",
+                "club",
+                "obras municipales"
+            ],
+            "postura_politica": "Microgestión absoluta. Poggi se dedica a inaugurar luminarias, entregar bicicletas y visitar escuelas. Sin ningún gesto de política federal. Es el refugio más puro en la agenda local.",
+            "frase_fuerte": "no se encontró ninguna frase"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "educación",
+                "abandono kirchnerista",
+                "producción",
+                "inundaciones"
+            ],
+            "postura_politica": "Discurso de ruptura con el pasado kirchnerista. Vidal responsabiliza a los gobiernos anteriores por los problemas actuales y se presenta como el gestor del cambio. Es el único que critica abiertamente a la gestión anterior, pero no a Milei.",
+            "frase_fuerte": "QUE NO VUELVAN NUNCA MÁS LOS QUE HICIERON ESTE DESASTRE"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "gestión social",
+                "orden fiscal",
+                "infraestructura",
+                "deporte"
+            ],
+            "postura_politica": "Pullaro muestra un gobierno eficiente que reduce costos de la política y baja impuestos. Se enfoca en la Región Centro y en la obra pública. No hay conflicto con Nación, sino una demostración de autonomía.",
+            "frase_fuerte": "En Santa Fe estamos demostrando que se pueden hacer las cosas de otra manera."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "justicia",
+                "cooperación con Nación",
+                "elecciones",
+                "salud"
+            ],
+            "postura_politica": "Alineamiento explícito con el gobierno nacional en el área judicial. Jaldo recibe al ministro Mahiques y avanza en la cobertura de vacantes. También convoca a elecciones provinciales con ficha limpia. Es un gobernador peronista que busca acuerdos con la Casa Rosada.",
+            "frase_fuerte": "Celebramos el compromiso asumido para avanzar en la cobertura de la vacante del Tribunal Federal Electoral."
+        }
+    ]
+}
