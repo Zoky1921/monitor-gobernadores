@@ -1,0 +1,147 @@
+{
+    "clima_general": "ALIANZA",
+    "resumen_ejecutivo": "Jornada de afirmación de bloques regionales y gestión autónoma frente al repliegue nacional. Gobernadores patagónicos consolidan cooperación energética, mientras la Región Centro articula su motor productivo. Santa Cruz y San Luis se enfocan en gestión local y simbología de cambio.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registra un enfrentamiento directo con la Casa Rosada, sino una sorda competencia por afirmar soberanía fiscal y simbólica. Los gobernadores evitan nombrar a Nación cuando no es necesario, y cuando lo hacen es para marcar distancia. El gasoducto cordillerano y la Región Centro son los dos frentes donde se libra la batalla por el relato federal.\n\nActo 2 — Los Alineamientos: La Patagonia unida —Torres, Figueroa— exhibe un bloque que transforma deudas en obras y coordina inversiones energéticas. Córdoba, Santa Fe y Entre Ríos (aunque Frigerio no tuiteó hoy) refuerzan la Región Centro como polo productivo autónomo. En contraste, San Luis y Santa Cruz operan en soledad, pero con fuerte narrativa local: Poggi desde la gestión de obras chicas, Vidal desde la ruptura con el kirchnerismo.\n\nActo 3 — La Micro-política: Passalacqua (Misiones) y Cornejo (Mendoza) despliegan agenda de gestión pura: salud, educación, energía. Passalacqua prioriza la vivienda y la conectividad; Cornejo licita Los Nihuiles y recibe a inversores mineros. Son gestos que no desafían a Nación pero consolidan poder territorial. El silencio del resto de los gobernadores —ausentes en el período de análisis— sugiere un repliegue calculado.\n\nActo 4 — Saldo Presidencial: Milei no es protagonista del día. Los gobernadores no lo atacan ni lo defienden; simplemente administran sus recursos. Esto erosiona el relato presidencial de 'casta' y 'motosierra', al mostrar que las provincias siguen siendo el verdadero Estado presente. La Casa Rosada pierde la iniciativa cuando los gobernadores se coordinan entre sí en lugar de confrontar o pactar con ella.",
+    "temas_calientes": [
+        {
+            "tema": "Cooperación energética patagónica (gasoducto cordillerano)",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Inversión y desarrollo en Vaca Muerta",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Región Centro como bloque productivo",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Obra pública y gestión local como estrategia de autonomía",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@passalacquaok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Licitación de activos energéticos en Mendoza",
+            "gobernadores_involucrados": [
+                "@alfredocornejo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH (RT de @Weretilneck)",
+        "texto": "UN ABRAZO PATAGÓNICO QUE LLEGA A BARILOCHE\n\nHay obras que van más allá de las fronteras de una provincia, porque le cambian la vida a toda una región.\n\nJunto a Río Negro y Neuquén logramos destrabar obras estratégicas que habían sido abandonadas y ampliar la capacidad del Gasoducto Cordillerano Patagónico, para que más de doce mil familias de toda la región puedan acceder por primera vez al gas.\n\nHoy ya más de 500 familias de Esquel tienen acceso a este servicio tan esencial, y vamos a seguir conectando a más familias de toda la Cordillera. Ese es el federalismo en el que creemos: el que une a la Patagonia para llevar soluciones concretas a toda nuestra gente.",
+        "por_que_es_clave": "Muestra la coordinación entre tres provincias patagónicas (Chubut, Río Negro, Neuquén) para resolver una necesidad histórica, exhibiendo un federalismo operativo que contrasta con la parálisis nacional. Es un golpe simbólico a la narrativa de Nación como único articulador.",
+        "pregunta_openarg": "¿Pueden las provincias patagónicas sostener una agenda de integración energética sin el liderazgo ni los fondos de Nación, o es solo una táctica de presión para futuras negociaciones fiscales?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Gasoducto Cordillerano Patagónico",
+                "obra pública provincial",
+                "deporte"
+            ],
+            "postura_politica": "Se posiciona como articulador regional, mostrando que el federalismo real se construye entre provincias, no desde Nación. El tuit sobre el gasoducto refuerza su rol de liderazgo patagónico y su capacidad de gestionar recursos y acuerdos más allá de la Casa Rosada.",
+            "frase_fuerte": "Ese es el federalismo en el que creemos: el que une a la Patagonia para llevar soluciones concretas a toda nuestra gente."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Región Centro",
+                "educación",
+                "cultura audiovisual",
+                "infraestructura deportiva"
+            ],
+            "postura_politica": "Afianza el bloque productivo de la Región Centro, subrayando la coordinación con Santa Fe y Entre Ríos. Busca presentar a Córdoba como polo de innovación y desarrollo autónomo, sin confrontar pero marcando distancia del modelo nacional.",
+            "frase_fuerte": "Cuando #Córdoba, #SantaFe y #EntreRíos unen sus capacidades, el federalismo deja de ser una idea para convertirse en una herramienta concreta de crecimiento."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Complejo Hidroeléctrico Los Nihuiles",
+                "minería",
+                "salud",
+                "vivienda"
+            ],
+            "postura_politica": "Gobernador técnico: avanza en la licitación de activos energéticos estratégicos y recibe a inversores mineros, mostrando una provincia ordenada y abierta a la inversión privada. Evita referencias a Nación, proyectando autosuficiencia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "vivienda",
+                "educación",
+                "presupuesto provincial",
+                "infraestructura eléctrica"
+            ],
+            "postura_politica": "Enfocado en gestión de cercanía: entrega de títulos, supervisión de obras, presupuesto con fuerte inversión social. No hay conflicto con Nación, solo la afirmación de un Estado provincial presente y eficiente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "inversión industrial",
+                "educación",
+                "deuda provincial"
+            ],
+            "postura_politica": "Celebra la megainversión de YPF en separación de gases como un hito de industrialización, y destaca la reducción de deuda provincial. Se alinea con una narrativa de orden fiscal y desarrollo energético, sin mencionar a Nación pero beneficiándose de su marco.",
+            "frase_fuerte": "Vaca Muerta está transformando nuestra matriz productiva. Hoy extraer petróleo y gas es una actividad industrial y el desafío es seguir agregando valor en origen."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "vivienda",
+                "programas para clubes",
+                "digitalización"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Recorre escuelas, inaugura obras menores y promueve programas provinciales. Sin referencias a la macro, es pura gestión de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "educación",
+                "inundaciones",
+                "producción agropecuaria",
+                "ruptura con kirchnerismo"
+            ],
+            "postura_politica": "Mantiene una retórica de quiebre con el pasado kirchnerista, vinculando las inundaciones actuales a la herencia de corrupción. Se alinea con el relato de cambio, pero apuesta a mostrar gestión concreta.",
+            "frase_fuerte": "Treinta años de kirchnerismo reemplazaron la cultura del trabajo por el cortoplacismo, la dependencia y el clientelismo."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Región Centro",
+                "seguridad",
+                "educación",
+                "infraestructura vial"
+            ],
+            "postura_politica": "Se suma a la narrativa de la Región Centro como motor productivo, y resalta avances en seguridad (eliminación de alerta de EE.UU. sobre Rosario). Gobierna con perfil técnico y de resultados, evitando confrontaciones.",
+            "frase_fuerte": "No venimos a demandar, sino a demostrarle a toda la República que hay una manera diferente de hacer las cosas."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "justicia federal",
+                "elecciones provinciales",
+                "salud del gobernador",
+                "Ficha Limpia"
+            ],
+            "postura_politica": "Alineado con Nación: reúne con el ministro de Justicia nacional y avanza en cobertura de vacantes judiciales. Su comunicado sobre salud y convocatoria a elecciones busca transmitir estabilidad institucional. No hay conflicto, sino coordinación.",
+            "frase_fuerte": "Tucumán era una de las provincias con mayor cantidad de vacantes en el ámbito federal, y revertir esta situación significa brindar un mejor servicio."
+        }
+    ]
+}

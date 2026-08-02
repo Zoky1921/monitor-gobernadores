@@ -1,0 +1,66 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La jornada post-ayer y de hoy muestra a los gobernadores focalizados en agendas de desarrollo y gestión local. Martín Llaryora (Córdoba) destaca el apoyo estatal a la inclusión a través del deporte, reafirmando el rol público en la generación de oportunidades. Hugo Passalacqua (Misiones) resalta una nueva inversión privada y la colaboración público-privada como motor de crecimiento y empleo. Por su parte, Maximiliano Pullaro (Santa Fe) enfatiza la cercanía con organizaciones sociales en Rosario, promoviendo un gobierno de escucha y acción. La actividad se centra en iniciativas provinciales de impacto directo, marcando un clima de gestión local con diversas prioridades.",
+    "analisis_profundo": "La ventana temporal acotada revela una agenda provincial dominada por la acción gubernamental en sus respectivos territorios. Martín Llaryora (Córdoba) proyecta una imagen de gobierno comprometido con la ampliación de derechos, enfocándose en la inclusión de personas con discapacidad a través del apoyo al deporte. Su mensaje subraya la responsabilidad del Estado provincial en la creación de oportunidades, un contrapunto implícito a posibles discursos de reducción del sector público. Esta línea de acción directa sobre políticas sociales es un eje clave en su comunicación.\nParalelamente, Hugo Passalacqua (Misiones) se posiciona como un promotor de la actividad económica, celebrando la inversión privada y su impacto en la generación de trabajo. Su discurso enfatiza la sinergia entre el sector público y privado como estrategia fundamental para el crecimiento de Misiones, buscando atraer capital y consolidar un modelo de desarrollo basado en la cooperación. La inauguración de un supermercado se utiliza para ilustrar esta visión de progreso tangible y oportunidades concretas para los misioneros.\nFinalmente, Maximiliano Pullaro (Santa Fe) concentra su mensaje en la gestión social y la cercanía con la comunidad. Su encuentro con organizaciones sociales en Rosario refleja una prioridad por abordar las problemáticas desde la base, promoviendo un 'gobierno de escucha y acción'. Esta postura busca construir legitimidad a través del diálogo y la respuesta a las demandas ciudadanas, proyectando una imagen de liderazgo presente y comprometido con la transformación social de la provincia. En conjunto, estos mensajes delinean un panorama donde los gobernadores buscan fortalecer su gestión a través de iniciativas específicas que impactan directamente en la vida de sus ciudadanos, con enfoques distintos pero complementarios en la construcción de bienestar y desarrollo.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo Económico Provincial e Inversión Privada",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Inclusión Social y Política Pública",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Gestión Social y Participación Comunitaria",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@passalacquaok",
+        "texto": "Participé de la inauguración de una nueva sucursal de Supermercados Ceferino en Eldorado, una inversión que significa más trabajo, más oportunidades y una apuesta concreta al crecimiento de nuestra provincia. Detrás de este nuevo espacio hay una familia que hace años trabaja con esfuerzo, perseverancia y la convicción de seguir invirtiendo en Misiones. Eso merece ser reconocido. Siempre digo que la mejor manera de crecer es trabajando juntos. Cuando el sector privado apuesta, invierte y genera empleo, y el Estado acompaña y crea las condiciones para que eso suceda, toda la comunidad se beneficia. Ese es el camino que queremos seguir recorriendo, el de una Misiones que crece con el compromiso de todos.",
+        "por_que_es_clave": "Este tweet destaca una acción concreta de fomento a la inversión y el empleo privado con acompañamiento estatal, una de las principales estrategias económicas que buscan proyectar los gobiernos provinciales en el actual contexto.",
+        "pregunta_openarg": "¿Cómo puede la interacción entre el sector público y privado escalar estas iniciativas para generar un impacto más amplio en las economías regionales frente a la incertidumbre nacional?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Inclusión social",
+                "Deporte adaptado",
+                "Política pública"
+            ],
+            "postura_politica": "Destaca el rol activo del Estado provincial en la promoción de la inclusión y el apoyo a atletas con discapacidad, reafirmando que la discapacidad es una política pública que requiere acompañamiento estatal para generar oportunidades reales.",
+            "frase_fuerte": "Desde #Córdoba entendemos que la #discapacidad es una política pública y que el Estado tiene que estar acompañando para generar oportunidades reales."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Inversión privada",
+                "Generación de empleo",
+                "Desarrollo económico",
+                "Colaboración público-privada"
+            ],
+            "postura_politica": "Celebra una nueva inversión privada en la provincia, posicionando la colaboración entre el sector privado y el Estado como el camino para el crecimiento económico y la creación de trabajo.",
+            "frase_fuerte": "Cuando el sector privado apuesta, invierte y genera empleo, y el Estado acompaña y crea las condiciones para que eso suceda, toda la comunidad se beneficia."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Trabajo social",
+                "Participación comunitaria",
+                "Gestión local",
+                "Escucha activa"
+            ],
+            "postura_politica": "Enfatiza la cercanía de su gobierno con las organizaciones sociales en Rosario, promoviendo un estilo de gestión basado en la escucha activa y la acción para transformar la ciudad y la provincia.",
+            "frase_fuerte": "Este es un gobierno de escucha y acción, y es el mandato de cada uno de nosotros."
+        }
+    ]
+}
