@@ -1,0 +1,117 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada muestra una tensión soterrada: Kicillof denuncia el peor invierno turístico bonaerense desde la pandemia, mientras gobernadores del interior exhiben obras y gestión local. La Casa Rosada no recibe ataques directos, pero el silencio de los mandatarios sobre la macroeconomía sugiere un repliegue calculado.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El tuit de Kicillof sobre el turismo bonaerense es una estocada quirúrgica al relato oficial de recuperación. Al destacar datos oficiales que muestran el peor invierno desde la pandemia, el gobernador bonaerense no solo marca territorio en su disputa con Nación por recursos, sino que instala un termómetro de la recesión que el Gobierno nacional intenta negar. La omisión de cualquier mención a la gestión nacional en el tuit es, en sí misma, una acusación.\n\nActo 2 — Los Alineamientos: Mientras Kicillof tensa la cuerda, los gobernadores del interior optan por una estrategia opuesta: mostrar gestión. Llaryora, Jalil, Sáenz y Jaldo despliegan una batería de anuncios de obras y programas locales, desde saneamiento hasta aeropuertos. Es un mensaje claro: 'Nosotros hacemos, aunque Nación no acompañe'. Quintela, por su parte, refuerza los lazos internos del peronismo al felicitar a Zamora por su triunfo electoral, en un gesto que consolida su liderazgo en La Rioja y teje alianzas para el futuro.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas se refugian en la agenda de cabotaje. Jalil celebra el éxito económico de la Fiesta del Poncho, una forma de mostrar que su provincia genera movimiento propio. Suarez, en Santiago del Estero, agradece el respaldo electoral, un gesto de consolidación interna. Torres, en Chubut, se permite un tuit personal, lo que indica que la agenda federal no le exige posicionamiento en este momento.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es ambigua. No hay una embestida frontal, pero el dato de Kicillof sobre el turismo es una señal de alarma. El silencio del resto de los gobernadores sobre la macroeconomía sugiere que prefieren no asociarse con el ajuste nacional. El capital político de Milei no se erosiona hoy, pero se acumula un dato que la oposición puede usar.",
+    "temas_calientes": [
+        {
+            "tema": "Crisis turística y economía provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de economías regionales y consumo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura estratégica",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Elecciones y alianzas políticas",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Educación técnica y formación",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @solemartinezw)",
+        "texto": "Los datos oficiales de la Subsecretaría de Turismo de la Provincia de Buenos Aires confirman lo que veníamos marcando desde el verano: este fue el peor invierno turístico bonaerense desde la pandemia. Van los datos.",
+        "por_que_es_clave": "Kicillof utiliza datos oficiales para contradecir el relato de recuperación del Gobierno nacional, instalando un indicador de recesión que pone en duda la gestión económica de Milei. Es una jugada de desgaste político con información verificable.",
+        "pregunta_openarg": "¿Es el turismo bonaerense un termómetro de la recesión nacional o un problema de gestión provincial?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Turismo",
+                "Crisis económica"
+            ],
+            "postura_politica": "Crítica indirecta al Gobierno nacional al destacar datos negativos del turismo provincial. Quiere mostrar que la gestión nacional no genera recuperación y que su provincia sufre las consecuencias.",
+            "frase_fuerte": "este fue el peor invierno turístico bonaerense desde la pandemia"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Economía regional",
+                "Fiesta del Poncho",
+                "Aniversario medio"
+            ],
+            "postura_politica": "Agenda local positiva: celebra el éxito económico de la Fiesta del Poncho y saluda a un medio. Sin posicionamiento federal, busca mostrar gestión y dinamismo provincial.",
+            "frase_fuerte": "movimiento económico total de 4.726 millones de pesos, un 45% más que el año anterior"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Personal"
+            ],
+            "postura_politica": "Agenda personal sin impacto federal. Tuit sobre el cumpleaños de su hija. No hay mensaje político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obras de saneamiento",
+                "Educación técnica"
+            ],
+            "postura_politica": "Muestra gestión provincial en infraestructura y educación, reforzando la imagen de Córdoba como polo de desarrollo. Sin mención a Nación, pero implícitamente contrasta con el ajuste nacional.",
+            "frase_fuerte": "Gobernar es resolver, y en #Córdoba llevamos soluciones a cada rincón"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Apoyo político",
+                "Memoria histórica"
+            ],
+            "postura_politica": "Felicita a Zamora por su triunfo electoral en Santiago del Estero, reforzando alianzas peronistas. También conmemora a los mártires de la Iglesia, un gesto de identidad política y religiosa.",
+            "frase_fuerte": "Cuando el peronismo se une, es invencible"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Infraestructura aeroportuaria"
+            ],
+            "postura_politica": "Anuncia avances en la obra del aeropuerto, destacando la inversión provincial. Sin confrontación, pero muestra que Salta invierte mientras Nación se repliega.",
+            "frase_fuerte": "la obra aeroportuaria más importante del país después de Ezeiza y Aeroparque"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Elecciones municipales"
+            ],
+            "postura_politica": "Agradece el respaldo popular en las elecciones, consolidando su liderazgo provincial. Sin referencia a Nación, enfocado en la unidad interna.",
+            "frase_fuerte": "Este resultado representa un renovado compromiso con una forma de gestión basada en la responsabilidad"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obras de infraestructura"
+            ],
+            "postura_politica": "Reunión para planificar obras viales. Gestión local sin posicionamiento federal. Busca mostrar continuidad y respuesta a necesidades.",
+            "frase_fuerte": "Continuamos impulsando obras que acompañen el crecimiento de Tucumán"
+        }
+    ]
+}

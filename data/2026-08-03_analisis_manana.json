@@ -1,0 +1,136 @@
+{
+    "clima_general": "CAUTELOSO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron su agenda en la gestión provincial y el desarrollo local, destacando obras de infraestructura, impulso a economías regionales y fortalecimiento institucional. Axel Kicillof (Buenos Aires) manifestó preocupación por el declive turístico invernal, mientras Jorge Macri (Ciudad de Buenos Aires) reafirmó el compromiso con la seguridad y la propiedad privada. Raúl Jalil (Catamarca) celebró el impacto económico de eventos culturales. En el interior, Martín Llaryora (Córdoba) y Osvaldo Jaldo (Tucumán) anunciaron avances en saneamiento y rutas. Elías Suárez (Santiago del Estero) y Ricardo Quintela (La Rioja) conmemoraron fechas históricas y enfatizaron el federalismo y la unidad. Se observa un tono de afirmación de la capacidad de gestión provincial frente a desafíos económicos y sociales.",
+    "analisis_profundo": "La jornada federal estuvo marcada por una fuerte impronta de gestión y un pragmatismo enfocado en las dinámicas provinciales, con pocas alusiones directas a la esfera nacional, salvo por la velada crítica económica. Axel Kicillof (Buenos Aires) puso el acento en la preocupante caída del turismo invernal, un dato que, aunque referido a la provincia, resuena con el contexto económico nacional y podría ser interpretado como un llamado de atención sobre la desaceleración del consumo. Por su parte, Jorge Macri (Ciudad de Buenos Aires) se mantuvo en su eje discursivo de 'ley y orden' al respaldar a la Policía de la Ciudad, reforzando su compromiso con la seguridad y la defensa de la propiedad privada, temas centrales en su plataforma.\n\nEn el norte argentino, la agenda estuvo teñida por celebraciones de logros locales e hitos de memoria. Raúl Jalil (Catamarca) destacó el éxito económico del 'Marcatón al Poncho', subrayando la capacidad de dinamizar la economía local a través de eventos culturales y la colaboración con entidades financieras como el Banco Nación, un gesto que equilibra la gestión autónoma con la necesaria articulación. Gustavo Sáenz (Salta) reafirmó el compromiso con la infraestructura al anunciar un 70% de avance en la ampliación del Aeropuerto Internacional Martín Miguel de Güemes, posicionando a Salta (Salta) como un hub regional clave y mostrando capacidad de inversión propia. Osvaldo Jaldo (Tucumán) también enfocó en infraestructura con planes para la 'Ruta de la Fe', buscando potenciar el turismo y el desarrollo económico local.\n\nElías Suárez (Santiago del Estero) y Ricardo Quintela (La Rioja) compartieron un énfasis en la memoria histórica y el federalismo. Suárez (Santiago del Estero) celebró las elecciones municipales, vinculando el respaldo popular a una gestión basada en la responsabilidad fiscal y el desarrollo productivo, con una 'visión federal'. Quintela (La Rioja), a su vez, felicitó a un gobernador aliado por su éxito electoral, reforzando la idea de 'un proyecto político cerca de la gente' y una 'mirada federal y en unidad'. Ambos, además, conmemoraron los 50 años del martirio de Monseñor Angelelli y los Mártires Riojanos (La Rioja y Santiago del Estero, respectivamente), un acto que subraya valores de justicia y memoria colectiva, sin una conexión directa con la política federal actual, pero relevante para sus bases políticas.\n\nFinalmente, Martín Llaryora (Córdoba) continuó con su agenda de gestión, anunciando obras de modernización de saneamiento y agua potable en Cruz del Eje, enmarcando estas acciones en la idea de que 'gobernar es resolver' y demostrando capacidad de respuesta a necesidades básicas de la población. Su tweet sobre el fortalecimiento de la educación técnica subraya una visión a largo plazo para el desarrollo industrial, un eje clave de su gestión. La jornada exhibe a gobernadores centrados en la administración provincial, buscando consolidar logros internos y proyectar sus provincias con autonomía, pese a un contexto nacional complejo.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión y Desarrollo de Infraestructura",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Economías Regionales y Locales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Federalismo y Unidad Provincial",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Memoria, Verdad y Justicia",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Educación y Capital Humano",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Quiero felicitar al compañero @GZamoraSDE, quien conduce el proceso político en Santiago del Estero y logró que ayer el pueblo santiagueño siga apostando por un proyecto político que está cerca de la gente, que defiende los intereses de las y los santiagueños con mirada federal y en unidad, sosteniendo el camino del compromiso y el trabajo.",
+        "por_que_es_clave": "Destaca la importancia de la unidad y el federalismo en el contexto electoral, reforzando lazos políticos interprovinciales y la visión de un proyecto político compartido.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Economía regional",
+                "Turismo",
+                "Crítica de gestión económica"
+            ],
+            "postura_politica": "Crítica la performance económica sectorial, sugiriendo un impacto negativo de la situación actual. Enfocado en datos concretos para señalar deficiencias y la necesidad de acción.",
+            "frase_fuerte": "este fue el peor invierno turístico bonaerense desde la pandemia."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Institucionalidad",
+                "Propiedad privada"
+            ],
+            "postura_politica": "Reafirma su compromiso con la seguridad ciudadana y el cumplimiento de la ley, destacando el rol de las fuerzas policiales y la defensa de la propiedad privada.",
+            "frase_fuerte": "Cuidar la vida, la libertad y la propiedad privada de los ciudadanos es una de las responsabilidades más importantes que puede asumir una persona."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Economía regional",
+                "Cultura",
+                "Alianzas público-privadas"
+            ],
+            "postura_politica": "Subraya el éxito de políticas locales que impulsan el consumo y generan movimiento económico, resaltando la colaboración institucional y el orgullo por la cultura provincial.",
+            "frase_fuerte": "Estoy orgulloso de que hayamos alcanzado en esta edición un movimiento económico total de 4.726 millones de pesos, un 45% más que el año anterior"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Saneamiento",
+                "Desarrollo local",
+                "Educación técnica"
+            ],
+            "postura_politica": "Destaca la inversión en servicios básicos y una apuesta estratégica por la educación técnica para el desarrollo industrial, mostrando un perfil de gestor que 'resuelve'.",
+            "frase_fuerte": "Gobernar es resolver, y en #Córdoba llevamos soluciones a cada rincón de nuestra querida provincia."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Elecciones municipales",
+                "Federalismo",
+                "Gestión pública",
+                "Memoria histórica"
+            ],
+            "postura_politica": "Celebra la validación democrática de un modelo de gestión con equilibrio fiscal y visión federal, a la vez que honra la memoria colectiva y el compromiso social.",
+            "frase_fuerte": "Este resultado representa un renovado compromiso con una forma de gestión basada en la responsabilidad, el equilibrio fiscal, la inversión en infraestructura, el fortalecimiento de los servicios indelegables del Estado y el desarrollo productivo de nuestra provincia."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Conectividad",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Promueve a Salta (Salta) como polo de desarrollo y conectividad a través de grandes obras de infraestructura, reforzando la visión de crecimiento y la capacidad de gestión.",
+            "frase_fuerte": "Estamos transformando por completo el Aeropuerto Internacional Martín Miguel de Güemes con la obra aeroportuaria más importante del país después de Ezeiza y Aeroparque."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Turismo",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Impulsa el desarrollo provincial a través de la inversión en infraestructura que conecta y potencia el turismo regional, mostrando una gestión activa y articulada.",
+            "frase_fuerte": "Continuamos impulsando obras que acompañen el crecimiento de Tucumán."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Política federal",
+                "Unidad",
+                "Memoria histórica"
+            ],
+            "postura_politica": "Expresa respaldo a proyectos políticos afines, enfatizando la importancia de la unidad y la perspectiva federal, y revaloriza la memoria de figuras históricas de la provincia.",
+            "frase_fuerte": "Quiero felicitar al compañero @GZamoraSDE, quien conduce el proceso político en Santiago del Estero y logró que ayer el pueblo santiagueño siga apostando por un proyecto político que está cerca de la gente, que defiende los intereses de las y los santiagueños con mirada federal y en unidad, sosteniendo el camino del compromiso y el trabajo."
+        }
+    ]
+}
