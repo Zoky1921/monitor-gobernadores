@@ -1,0 +1,146 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal se presenta hoy en un clima 'TENSO', dominado por la crítica frontal de gobernadores hacia el gobierno nacional y las administraciones pasadas. Axel Kicillof (Buenos Aires) arremetió contra la política de 'extorsión' del Presidente, abogando por un desarrollo nacional y federal. En sintonía, Claudio Vidal (Santa Cruz) fustigó al 'kirchnerismo' por el abandono de obras, exponiendo la vulnerabilidad ante las inundaciones. Contrariamente, Martín Llaryora (Córdoba) proyecta liderazgo con un plan ambicioso de educación técnica. Ricardo Passalacqua (Misiones), Rolando Figueroa (Neuquén), Maximiliano Pullaro (Santa Fe) y Gustavo Melella (Tierra del Fuego) se enfocan en la gestión de infraestructura, desarrollo energético y promoción económica y deportiva. Raúl Jalil (Catamarca) y Osvaldo Jaldo (Tucumán) resaltan avances en salud y justicia federal, respectivamente.",
+    "analisis_profundo": "El panorama político provincial refleja una clara dicotomía en las estrategias de los mandatarios, estableciendo un tono 'TENSO' en la jornada. En un extremo, la administración de Axel Kicillof (Buenos Aires) intensifica su retórica contra el gobierno nacional, calificando sus políticas de 'extorsión' y perjudiciales para un desarrollo federal integrado. Esta postura evidencia una tensión significativa y persistente entre la provincia de Buenos Aires y el poder central. De manera similar, Claudio Vidal (Santa Cruz) aprovecha la coyuntura de inundaciones para criticar la gestión del 'kirchnerismo', atribuyendo la vulnerabilidad actual a la falta de inversión en infraestructura, un discurso que busca diferenciarse del pasado y reafirmar la presencia de su gobierno en la resolución de problemas estructurales. Por otro lado, un grupo significativo de gobernadores opta por enfocar su comunicación en la gestión y el progreso provincial. Martín Llaryora (Córdoba) se destaca al anunciar un ambicioso plan para fortalecer la educación técnica, considerándola esencial para el desarrollo industrial y consolidando la provincia como un referente en innovación educativa. Ricardo Passalacqua (Misiones) pone de relieve la importancia de la educación y la inversión privada en su provincia, mientras Gustavo Melella (Tierra del Fuego) avanza en proyectos energéticos clave como la nueva usina de Ushuaia, orientados a la autonomía y el crecimiento a largo plazo. En la Patagonia, Rolando Figueroa (Neuquén) enfoca sus esfuerzos en el futuro de la Comarca Petrolera, con planes de industrialización del gas y mejoras educativas, y Maximiliano Pullaro (Santa Fe) prepara la provincia para los Juegos Suramericanos 2026, una inversión en infraestructura deportiva con impacto económico y turístico. Finalmente, Raúl Jalil (Catamarca) celebra eventos culturales de gran impacto y Osvaldo Jaldo (Tucumán) subraya la colaboración con el gobierno nacional para robustecer la Justicia Federal. Esta última acción, aunque más discreta, representa un punto de colaboración en un entorno de marcada polarización. La jornada, por tanto, oscila entre la confrontación explícita con el gobierno central y una intensa agenda de desarrollo y gestión autónoma por parte de las provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontacion Federal y Critica a la Gestion Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Proyectos Energeticos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@gustavomelella",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Educacion y Capital Humano",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Desarrollo Economico Regional y Promocion Provincial",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@maxipullaro",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Articulacion Nacion-Provincia y Fortalecimiento de la Justicia",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Nuestro país solo va a poder salir adelante si todas las provincias crecen y trabajan juntas por un horizonte común de desarrollo. Por eso la extorsión y el sálvese quien pueda que propone Milei son contrarios a los intereses nacionales. Necesitamos un proyecto profundamente nacional y federal para recuperar el futuro de la Argentina 🇦🇷",
+        "por_que_es_clave": "El gobernador de Buenos Aires emite una crítica directa al Presidente, acusando sus políticas de 'extorsión' y de ir en contra de los intereses nacionales y el desarrollo federal. Su declaración posiciona a la provincia como un contrapunto estratégico en la dinámica federal, abogando por un modelo de cooperación y crecimiento conjunto.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Federalismo",
+                "Economia nacional",
+                "Critica al gobierno central"
+            ],
+            "postura_politica": "Crítica directa a las políticas del gobierno nacional, las califica de 'extorsión' y perjudiciales para el desarrollo federal, proponiendo un enfoque nacional y colaborativo para la recuperación del país.",
+            "frase_fuerte": "Por eso la extorsión y el sálvese quien pueda que propone Milei son contrarios a los intereses nacionales."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Cultura y Turismo",
+                "Salud publica",
+                "Colaboracion interprovincial"
+            ],
+            "postura_politica": "Destaca el éxito de eventos culturales provinciales como el Poncho 2026, promoviendo la identidad y el turismo. Resalta la colaboración con Río Negro en programas de salud visual, mostrando una gestión enfocada en el bienestar social y la integración regional.",
+            "frase_fuerte": "El Poncho 2026 no fue solo una fiesta: fue el abrazo de nuestro pueblo, la alegría de nuestra gente, la muestra viva del talento de nuestros artesanos y el eco de nuestra música."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educacion tecnica",
+                "Desarrollo industrial",
+                "Inclusion deportiva",
+                "Gestion provincial"
+            ],
+            "postura_politica": "Impulsa fuertemente la educación técnica como motor del desarrollo industrial de la provincia, buscando consolidar el liderazgo educativo de Córdoba. También enfatiza la inclusión a través del deporte, apoyando la participación en eventos internacionales.",
+            "frase_fuerte": "Sin #EducaciónTécnica, no podemos pensar en el desarrollo industrial de nuestra Córdoba."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Educacion",
+                "Inversion privada",
+                "Desarrollo economico local"
+            ],
+            "postura_politica": "Celebra hitos educativos y el rol de las escuelas en la construcción de la sociedad. Fomenta la inversión privada y la creación de empleo, destacando la colaboración público-privada para el crecimiento provincial.",
+            "frase_fuerte": "Cuando el sector privado apuesta, invierte y genera empleo, y el Estado acompaña y crea las condiciones para que eso suceda, toda la comunidad se beneficia."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo energetico",
+                "Infraestructura",
+                "Educacion"
+            ],
+            "postura_politica": "Enfocado en el desarrollo futuro de la Comarca Petrolera, impulsando proyectos de tratamiento de gases y mejoras educativas para las próximas generaciones, proyectando a Neuquén como una provincia industrial.",
+            "frase_fuerte": "Tenemos un desafío generacional. Esta es una gran oportunidad para construir el nuevo Neuquén, con más educación, trabajo, producción y desarrollo."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obras publicas",
+                "Infraestructura",
+                "Critica a administraciones anteriores",
+                "Presencia estatal en emergencias"
+            ],
+            "postura_politica": "Cuestiona duramente la falta de obras estructurales heredadas del 'kirchnerismo' que dejaron a la provincia vulnerable a las inundaciones. Reafirma la presencia y el compromiso del gobierno actual para resolver problemas históricos y asistir a los vecinos.",
+            "frase_fuerte": "LAS LLUVIAS NO TRAJERON LOS PROBLEMAS. SOLO DEJARON AL DESCUBIERTO LOS AÑOS DE ABANDONO."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura",
+                "Desarrollo economico",
+                "Gestion social"
+            ],
+            "postura_politica": "Destaca la inversión en infraestructura deportiva para los Juegos Suramericanos 2026 como un legado para la provincia y un motor económico. Subraya la importancia del trabajo social en los barrios y la escucha activa a las organizaciones.",
+            "frase_fuerte": "No es solo una fiesta del deporte en #Rosario, #SantaFe y #Rafaela, es la inversión histórica en obras que van a quedar para siempre en nuestros clubes y ciudades, promoviendo el esfuerzo, el trabajo en equipo y el orgullo de ser santafesinos."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Energia",
+                "Infraestructura",
+                "Obras publicas"
+            ],
+            "postura_politica": "Supervisa el avance de la nueva usina de Ushuaia, resaltando la importancia de esta obra estratégica para el fortalecimiento energético y el desarrollo a largo plazo de la provincia, impulsada por el trabajo local.",
+            "frase_fuerte": "Detrás de este operativo hay trabajadores y equipos que hacen posible una obra clave para fortalecer la energía fueguina."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Justicia Federal",
+                "Fortalecimiento institucional",
+                "Colaboracion Nacion-Provincia"
+            ],
+            "postura_politica": "Enfatiza la agenda de trabajo conjunta con el gobierno nacional para cubrir vacantes y mejorar la eficiencia de la Justicia Federal, buscando brindar un mejor servicio judicial a los tucumanos y fortalecer las instituciones.",
+            "frase_fuerte": "Continuamos impulsando una agenda de trabajo conjunta con el Gobierno nacional para fortalecer las instituciones y mejorar el funcionamiento de la Justicia Federal en nuestra provincia."
+        }
+    ]
+}
