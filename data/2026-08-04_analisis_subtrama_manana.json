@@ -1,0 +1,160 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de bajo voltaje político. Los gobernadores se refugiaron en la gestión local de obras, educación y protocolo, evitando cualquier roce con la Casa Rosada. No hubo señales de disputa fiscal ni alineamientos explícitos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada transcurrió sin tensiones visibles entre Nación y provincias. El silencio de los gobernadores sobre la macroeconomía y la coparticipación sugiere un repliegue táctico: nadie quiere exponerse en un contexto de ajuste y con la mirada puesta en las elecciones del año próximo. La ausencia de críticas o demandas al Gobierno nacional es, en sí misma, un dato político.\n\nActo 2 — Los Alineamientos: No se registraron alianzas ni enfrentamientos. Cada gobernador se limitó a mostrar gestión en su territorio. El único gesto con potencial de disputa fue el proyecto de ley de tierras de Rolando Figueroa (Neuquén), que prioriza a argentinos en la venta de tierras fiscales, una señal de soberanía provincial que, sin embargo, no apunta directamente a Nación.\n\nActo 3 — La Micro-política: Las provincias periféricas se concentraron en anuncios de obras menores, efemérides y reuniones con organismos internacionales. Raúl Jalil (Catamarca) y Hugo Passalacqua (Misiones) apostaron a la cooperación y la conectividad aérea, mientras que Gildo Insfrán (Formosa) y Ricardo Quintela (La Rioja) optaron por el protocolo y la memoria. Es una estrategia de supervivencia: mostrar gestión para no quedar expuestos al desgaste nacional.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada fue favorable: ningún gobernador salió a confrontar. El silencio puede leerse como una tregua o como un cálculo electoral. Milei no fue mencionado ni criticado, lo que le da aire en un contexto de ajuste. Sin embargo, la ausencia de apoyos explícitos también revela que los gobernadores no quieren atarse al barco oficialista.",
+    "temas_calientes": [
+        {
+            "tema": "Obras públicas provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Educación técnica y formación",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Cooperación internacional y financiamiento",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Actos conmemorativos y protocolo",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Desarrollo económico local",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "LA TIERRA DE LA PROVINCIA DEL NEUQUÉN SERÁ PARA ARGENTINOS\n\nEnviamos a la Legislatura un proyecto para modificar la Ley de Tierras Fiscales y ordenar el acceso a un recurso estratégico y finito: nuestra tierra.\n\nQueremos que sea prioritariamente para neuquinos y argentinos con arraigo y vinculación efectiva con nuestra provincia, para impulsar nuestra producción, turismo, empleo y desarrollo sostenible.\n\nLa tierra de la provincia del Neuquén tiene que estar al servicio de los neuquinos, de nuestro desarrollo y de las próximas generaciones.",
+        "por_que_es_clave": "Figueroa marca territorio al proponer una ley que prioriza a argentinos en la venta de tierras fiscales, un gesto de soberanía provincial que, aunque no confronta directamente con Nación, sienta un precedente en el control de recursos estratégicos. Es un movimiento calculado para posicionarse como defensor de los intereses neuquinos en un año electoral.",
+        "pregunta_openarg": "¿La prioridad de argentinos en tierras fiscales es una medida de soberanía o un gesto electoralista que puede desalentar inversiones extranjeras?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Muestra gestión provincial en una obra de la Ruta 4, evitando cualquier mención a Nación. Es un refugio en la agenda local para no confrontar ni defender al Gobierno nacional. Silencio sobre la macroeconomía.",
+            "frase_fuerte": "Trabajando junto a @BAProvincia pusimos en marcha una nueva etapa de la renovación integral de la avenida Monteverde o Ruta 4"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Cooperación internacional",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Apuesta a la cooperación con Perú y el BID para proyectos de desarrollo. Busca posicionar a Catamarca como un destino de inversión, sin alinearse con la agenda nacional. Es una estrategia de autonomía financiera.",
+            "frase_fuerte": "Bienvenida a Catamarca a Joana Cabrera Pimentel, Gobernadora de La Libertad (Perú)"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Prevención de desastres",
+                "Gestión de emergencias"
+            ],
+            "postura_politica": "Se enfoca en la prevención ante El Niño, mostrando capacidad de gestión sin depender de Nación. Es un mensaje de eficiencia provincial en un contexto de recortes.",
+            "frase_fuerte": "Nos anticipamos y trabajamos frente al fenómeno de El Niño: ante cualquier emergencia, la mejor respuesta es la prevención."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Pavimentación"
+            ],
+            "postura_politica": "Destaca una obra con fondos provinciales (Plan Galina) en Rada Tilly, subrayando que el Estado provincial se hace cargo donde Nación abandonó. Es una crítica implícita al desfinanciamiento nacional.",
+            "frase_fuerte": "Como Selva y como Andrés más de 2.000 vecinos de Rada Tilly llevaban años esperando una respuesta. Por eso decidimos hacernos cargo de una obra que había quedado paralizada y retomarla con fondos íntegramente provinciales"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Industrias creativas",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Promueve Córdoba como polo de industrias creativas, buscando inversiones y generación de empleo. Es una apuesta al desarrollo autónomo, sin mencionar a Nación. Refuerza la imagen de Córdoba como motor productivo independiente.",
+            "frase_fuerte": "Queremos que #Córdoba se convierta en la meca de las industrias creativas de Latinoamérica."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Efeméride",
+                "Protocolo"
+            ],
+            "postura_politica": "Saluda el aniversario de una localidad, sin contenido político. Es un gesto de cercanía con la comunidad, pero sin impacto federal. Refleja una gestión de bajo perfil.",
+            "frase_fuerte": "91° ANIVERSARIO DE SAN MARTÍN DOS"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Memoria",
+                "Diálogo social"
+            ],
+            "postura_politica": "Conmemora los 50 años del martirio de Monseñor Angelelli, un acto de fuerte carga simbólica para el peronismo. También participa en un espacio de diálogo con sectores productivos. Busca mantener viva la memoria y construir consensos, sin confrontar con Nación.",
+            "frase_fuerte": "La mayor enseñanza que nos dejaron nuestros Beatos es el amor que guió cada una de sus acciones: la opción por los más vulnerables"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Conectividad aérea",
+                "Desarrollo turístico"
+            ],
+            "postura_politica": "Anuncia una nueva ruta aérea Posadas-Buenos Aires con JetSMART, buscando impulsar el turismo y la economía. Es una gestión concreta que no depende de Nación, mostrando autonomía en la promoción económica.",
+            "frase_fuerte": "Ampliar la conectividad aérea significa abrir más oportunidades para Misiones."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Tierras fiscales",
+                "Educación técnica"
+            ],
+            "postura_politica": "Propone una ley para priorizar a argentinos en la venta de tierras fiscales, un gesto de soberanía provincial. También inaugura una escuela técnica, mostrando inversión en educación. Es un doble mensaje: control de recursos y futuro.",
+            "frase_fuerte": "LA TIERRA DE LA PROVINCIA DEL NEUQUÉN SERÁ PARA ARGENTINOS"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Prevención de incendios"
+            ],
+            "postura_politica": "Reconoce a directivos escolares y se reúne con la universidad para un plan de prevención de incendios. Son acciones de gestión local, sin contenido federal. Refleja una administración ordenada y de bajo perfil.",
+            "frase_fuerte": "Reconocimos a los tres DIRECTIVOS del Centro Educativo Juan Pascual Pringles"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Escrituras"
+            ],
+            "postura_politica": "Entrega escrituras a familias que esperaron décadas, destacando la seguridad jurídica. Es un acto de gestión que resuelve problemas históricos, sin mencionar a Nación. Refuerza la imagen de un gobierno que cumple.",
+            "frase_fuerte": "Entregamos escrituras a familias de la provincia que esperaron hasta 40 y 60 años por este momento."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obra pública"
+            ],
+            "postura_politica": "Entrega 38 viviendas con recursos provinciales, destacando que sostienen la obra pública a pesar de la paralización nacional. Es una crítica implícita al ajuste de Nación y una muestra de capacidad de gestión propia.",
+            "frase_fuerte": "Frente a la paralización de la obra pública nacional, en Tucumán tomamos la decisión política de sostener estos trabajos con recursos provinciales"
+        }
+    ]
+}

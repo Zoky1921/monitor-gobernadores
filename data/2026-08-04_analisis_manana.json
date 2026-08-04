@@ -1,0 +1,179 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La agenda federal de hoy exhibe un fuerte enfoque de los gobernadores en la gestión de obras provinciales y la promoción de desarrollo local, a menudo destacando el uso de recursos propios ante el contexto nacional. Axel Kicillof (Buenos Aires) y Osvaldo Jaldo (Tucumán) resaltan inversiones en infraestructura y vivienda con fondos provinciales. Ricardo Quintela (La Rioja) y Martín Llaryora (Córdoba) proyectan sus provincias a través de la cultura y la cooperación, mientras que Leandro Zdero (Chaco) y Claudio Poggi (San Luis) se centran en prevención ambiental y fortalecimiento educativo. Rolando Figueroa (Neuquén) impulsa una ley de tierras para argentinos, y Maxi Pullaro (Santa Fe) avanza en seguridad jurídica habitacional. Predomina un tono de autonomía y gestión eficiente en el territorio.",
+    "analisis_profundo": "La jornada de los gobernadores se caracteriza por una marcada concentración en la gestión local y la reafirmación de capacidades provinciales, en un claro contraste con el ámbito nacional. Axel Kicillof (Buenos Aires) subraya el avance en infraestructura vial estratégica con renovación integral de avenidas, enfatizando la conectividad y seguridad. Esta línea de inversión en obra pública con financiamiento propio es replicada por Osvaldo Jaldo (Tucumán), quien entrega viviendas y critica explícitamente la paralización de la obra pública nacional, posicionando a Tucumán como un actor autónomo y eficiente en la provisión de soluciones habitacionales.\n\nEn el plano del desarrollo productivo y la atracción de inversiones, Raúl Jalil (Catamarca) muestra una activa agenda internacional, recibiendo delegaciones de Perú y del BID para impulsar proyectos estratégicos en infraestructura, energía y minería, lo que denota una búsqueda de capital externo y cooperación más allá del gobierno central. Martín Llaryora (Córdoba) consolida a su provincia como polo de industrias creativas con el evento #FocusCórdoba, proyectando la región como un referente latinoamericano y motor de empleo. Oscar Herrera Ahuad (Misiones), por su parte, prioriza la conectividad aérea como vector de turismo e inversiones.\n\nLa cuestión de la soberanía y el control de recursos también emerge, con Rolando Figueroa (Neuquén) anunciando un proyecto de ley para que la tierra provincial sea prioritariamente para neuquinos y argentinos con arraigo, lo que resalta la defensa de los intereses locales sobre recursos estratégicos.\n\nEn el ámbito social y de derechos, Ricardo Quintela (La Rioja) ofrece un mensaje de profundo calado ideológico al conmemorar el martirio de Monseñor Angelelli, vinculando su legado con la defensa de la tierra, el techo y el trabajo como derechos garantizados, lo cual resuena como una toma de posición frente a debates nacionales sobre el rol del Estado. El gobernador también busca el diálogo intersectorial para un desarrollo humano de la provincia. Otros gobernadores, como Claudio Poggi (San Luis), refuerzan la institucionalidad y la gestión ambiental con planes de prevención de incendios y un sistema de acceso a cargos docentes por concurso. Maxi Pullaro (Santa Fe) se enfoca en resolver demandas históricas de seguridad jurídica a través de la entrega de escrituras.\n\nEn resumen, la jornada expone una diversidad de agendas provinciales fuertemente centradas en la gestión propia, el desarrollo local y la reafirmación de autonomía, con algunos mensajes que sutilmente (o explícitamente, como Jaldo) marcan distancia o contrapunto con las políticas nacionales. La cooperación internacional y el desarrollo de economías del conocimiento y sectoriales son vectores clave, mientras que la obra pública sigue siendo un caballito de batalla para la gestión territorial.",
+    "temas_calientes": [
+        {
+            "tema": "Obra Pública y Gestión de Infraestructura con Fondos Provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Regional y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Federalismo y Soberanía Territorial/Recursos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Educación y Fortalecimiento Institucional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Valores Sociales y Derechos Humanos",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "La mayor enseñanza que nos dejaron nuestros Beatos es el amor que guió cada una de sus acciones: la opción por los más vulnerables, la búsqueda de la verdad y el compromiso con la dignidad humana. Al cumplirse cincuenta años del asesinato de Monseñor Angelelli, renovamos el compromiso de mantener vivo su legado. Él nos enseñó que el amor de Dios se manifiesta en cada gesto que transforma la vida de los demás y que una sociedad justa solo es posible cuando la tierra, el techo y el trabajo son derechos garantizados para todos. Que su ejemplo siga iluminando nuestro camino. Hagamos nuestras sus luchas, abracemos sus ideales y sigamos construyendo una Rioja más justa, una Argentina más fraterna y una Patria donde el bienestar, la paz y la dignidad alcancen a todos y todas.",
+        "por_que_es_clave": "Es una potente reafirmación de los principios de justicia social y derechos humanos, en contraposición a posibles recortes sociales o la desvalorización del rol del Estado en garantizar derechos fundamentales. La invocación del legado de Monseñor Angelelli, figura clave del peronismo riojano, es un mensaje ideológico y estratégico de gran calado, posicionando a La Rioja (del gobernador Quintela) en una línea política de defensa de los más vulnerables y de un proyecto de país federal y equitativo.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Obra Pública",
+                "Gestión Local"
+            ],
+            "postura_politica": "El gobernador se enfoca en la concreción de obras estratégicas de infraestructura vial con impacto directo en la conectividad y seguridad de los bonaerenses, destacando la gestión provincial en áreas clave.",
+            "frase_fuerte": "Por el Camino de Cintura circulan más de 120 mil vehículos por día. Por eso seguimos impulsando obras estratégicas que mejoran la conectividad, fortalecen la seguridad vial y hacen más ágil la movilidad de miles de vecinos."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Cooperación Internacional",
+                "Financiamiento Internacional",
+                "Infraestructura",
+                "Desarrollo Económico"
+            ],
+            "postura_politica": "Jalil busca activamente la cooperación y el financiamiento internacional a través de organismos como el BID y países vecinos para impulsar proyectos estratégicos que aseguren el crecimiento y mejoren la calidad de vida en la provincia.",
+            "frase_fuerte": "Seguimos articulando con organismos internacionales para concretar inversiones que mejoren la calidad de vida de los catamarqueños."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Gestión de Emergencias",
+                "Prevención de Desastres",
+                "Medio Ambiente"
+            ],
+            "postura_politica": "El gobernador prioriza la prevención y la anticipación frente a fenómenos climáticos como El Niño, destacando la importancia de la planificación para reducir riesgos en la provincia.",
+            "frase_fuerte": "Nos anticipamos y trabajamos frente al fenómeno de El Niño: ante cualquier emergencia, la mejor respuesta es la prevención."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Gestión Local",
+                "Vivienda"
+            ],
+            "postura_politica": "Torres reafirma su compromiso con la ciudadanía al retomar obras paralizadas con fondos provinciales, enfatizando una gestión presente que cumple promesas y resuelve problemas históricos en barrios con necesidades de infraestructura básica.",
+            "frase_fuerte": "Como Selva y como Andrés más de 2.000 vecinos de Rada Tilly llevaban años esperando una respuesta. Por eso decidimos hacernos cargo de una obra que había quedado paralizada y retomarla con fondos íntegramente provinciales, a través del Plan Galina."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Economía del Conocimiento",
+                "Industrias Creativas",
+                "Desarrollo Económico",
+                "Atraer Inversiones"
+            ],
+            "postura_politica": "Llaryora impulsa a Córdoba (Córdoba) como un polo regional de industrias creativas, buscando atraer inversiones y generar empleo a través de la cultura y la innovación, proyectando la provincia a nivel latinoamericano.",
+            "frase_fuerte": "Queremos que #Córdoba se convierta en la meca de las industrias creativas de Latinoamérica."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Efemérides Locales",
+                "Identidad Cultural"
+            ],
+            "postura_politica": "Su mensaje se centra en la conmemoración de un aniversario local, reforzando el sentido de pertenencia y la identidad comunitaria.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Derechos Humanos",
+                "Justicia Social",
+                "Legado Político",
+                "Diálogo Intersectorial",
+                "Desarrollo Sostenible"
+            ],
+            "postura_politica": "El gobernador utiliza la conmemoración de Monseñor Angelelli para reafirmar principios de justicia social, dignidad humana y derechos como tierra, techo y trabajo, conectando con un proyecto de país federal y fraterno, al tiempo que promueve el diálogo para el desarrollo.",
+            "frase_fuerte": "Él nos enseñó que el amor de Dios se manifiesta en cada gesto que transforma la vida de los demás y que una sociedad justa solo es posible cuando la tierra, el techo y el trabajo son derechos garantizados para todos."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Conectividad Aérea",
+                "Turismo",
+                "Inversiones"
+            ],
+            "postura_politica": "Passalacqua prioriza el fortalecimiento de la conectividad aérea como estrategia clave para potenciar el turismo y atraer inversiones, buscando generar nuevas oportunidades y facilitar la movilidad en la provincia.",
+            "frase_fuerte": "Ampliar la conectividad aérea significa abrir más oportunidades para Misiones. Más vuelos impulsan el turismo, favorecen la llegada de inversiones y hacen más fácil la vida de miles de misioneros que necesitan viajar."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Educación Técnica",
+                "Obra Pública Educativa",
+                "Soberanía Territorial",
+                "Desarrollo Sostenible"
+            ],
+            "postura_politica": "Figueroa enfatiza la inversión en educación técnica y la construcción de nuevas escuelas como pilar para el desarrollo de futuras generaciones. Paralelamente, impulsa una ley para priorizar el acceso a tierras provinciales para argentinos, en un gesto de soberanía y desarrollo local.",
+            "frase_fuerte": "LA TIERRA DE LA PROVINCIA DEL NEUQUÉN SERÁ PARA ARGENTINOS"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación Pública",
+                "Gestión Ambiental",
+                "Transparencia"
+            ],
+            "postura_politica": "Poggi se enfoca en el reconocimiento a la gestión educativa por concurso y la articulación con instituciones académicas y organismos internacionales para la prevención de incendios, demostrando un compromiso con la meritocracia y la gestión ambiental.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad Jurídica",
+                "Gestión Social"
+            ],
+            "postura_politica": "Pullaro aborda el problema histórico de la inseguridad jurídica en la vivienda, entregando escrituras y afirmando el compromiso de su gobierno con la tranquilidad y el respaldo al esfuerzo de las familias santafesinas.",
+            "frase_fuerte": "Nuestra prioridad es darles la seguridad de que nadie les va a quitar lo suyo, respaldando el esfuerzo de toda una vida 💪🏾"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Vivienda Social",
+                "Obra Pública Provincial",
+                "Autonomía Financiera"
+            ],
+            "postura_politica": "Jaldo se posiciona como defensor de la obra pública y la vivienda social, financiando proyectos con recursos provinciales y criticando la paralización nacional, lo que demuestra un fuerte énfasis en la autonomía y la capacidad de gestión local.",
+            "frase_fuerte": "Frente a la paralización de la obra pública nacional, en Tucumán tomamos la decisión política de sostener estos trabajos con recursos provinciales, fruto de una administración responsable y eficiente. Nuestra prioridad es: vivienda terminada, vivienda entregada."
+        }
+    ]
+}
