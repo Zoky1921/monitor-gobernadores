@@ -1,0 +1,277 @@
+{
+    "clima_general": "PRODUCTIVO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron la jornada en la gestión y el desarrollo local, destacando inversiones en infraestructura, educación, salud y producción con recursos provinciales. Se observó un fuerte énfasis en la autonomía financiera y la capacidad de las provincias para impulsar el crecimiento, incluso frente a la parálisis de la obra pública nacional o la necesidad de defender intereses regionales. Temas como la educación técnica (Martín Llaryora de Córdoba), la inversión en energías renovables (Raúl Jalil de Catamarca), la mejora de la conectividad (Oscar Herrera Ahuad de Misiones, Rolando Figueroa de Neuquén) y la resolución de deudas históricas con Nación (Rogelio Frigerio de Entre Ríos) dominaron la agenda. La Patagonia, en particular, mostró un dinamismo en la defensa de sus recursos y la promoción de la conectividad y el turismo.",
+    "analisis_profundo": "La agenda de los gobernadores este 4 de agosto de 2026 se centró en la afirmación de la capacidad de gestión y la autonomía provincial, con un marcado tono pro-activo en contraste, en algunos casos, con la dinámica nacional. Axel Kicillof (Buenos Aires), si bien retuiteó críticas al Banco Central y llamó a una marcha, también puso en valor el rol del Estado en la comunidad con obras de infraestructura social. De manera similar, Osvaldo Jaldo (Tucumán) y Sergio Ziliotto (La Pampa) destacaron la continuidad de la obra pública y las políticas sociales con fondos provinciales, subrayando la capacidad de sus jurisdicciones para avanzar pese a la 'paralización de la obra pública nacional' o la 'deuda del Gobierno nacional'. Un eje central fue el desarrollo productivo y la inversión en infraestructura clave. Raúl Jalil (Catamarca) celebró la inauguración de un parque solar por parte de una empresa privada, reforzando la transición energética. Leandro Zdero (Chaco) resaltó la exportación de carne, evidenciando el potencial productivo regional. La conectividad aérea fue un tema importante para Oscar Herrera Ahuad (Misiones) y Rolando Figueroa (Neuquén), ambos celebrando nuevas rutas o la reanudación de vuelos, vitales para el turismo y el comercio regional. La educación y la salud también fueron pilares. Martín Llaryora (Córdoba) anunció una inversión multimillonaria en educación técnica y la modernización de una UTI hospitalaria. Claudio Poggi (San Luis) y Elías Suárez (Santiago del Estero) destacaron la inversión en infraestructura escolar y la capacitación docente. En Chubut, Ignacio Torres (Chubut) abogó por la unidad provincial para defender los recursos, y Alfredo Cornejo (Mendoza) presentó un programa para integrar a estudiantes secundarios al mundo laboral. Un punto de tensión federal fue la resolución de una deuda histórica: Rogelio Frigerio (Entre Ríos) celebró el anticipo de $120.000 millones de ANSES, marcando un hito en la relación Nación-provincias. Por otro lado, Marcelo Orrego (San Juan) busca financiamiento internacional para infraestructura, mientras que Gustavo Sáenz (Salta) y Gildo Insfrán (Formosa) se centraron en logros de gestión local. La promoción turística y el deporte (Claudio Vidal de Santa Cruz, Jorge Macri de Ciudad de Buenos Aires) también tuvieron su espacio, buscando diversificar las economías regionales. En general, la jornada mostró a los gobernadores consolidando una imagen de gestores eficientes y defensores de los intereses provinciales, con foco en proyectos concretos que mejoran la calidad de vida de sus habitantes.",
+    "temas_calientes": [
+        {
+            "tema": "Afirmación de la autonomía provincial y gestión local ante desafíos nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@OsvaldoJaldo",
+                "@ZiliottoSergio",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Inversión en Educación y Capacitación",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Energías Limpias",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@ZiliottoSergio",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Conectividad (Vial y Aérea)",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Relación Financiera Nación-Provincias y Federalismo",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@DrMarceloOrrego",
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@frigeriorogelio",
+        "texto": "LA NACIÓN EMPIEZA A PAGARLE POR PRIMERA VEZ A ENTRE RÍOS LO QUE LE CORRESPONDE. El acuerdo que firmamos con el director ejecutivo de ANSES, Guillermo Héctor Arancibia, marca un hecho histórico para Entre Ríos: la provincia recibirá $120.000 millones como anticipo del resultado definitivo de la auditoría del ejercicio 2026 del sistema previsional.",
+        "por_que_es_clave": "Este anuncio marca un hito en la relación financiera entre la Nación y las provincias, al resolverse una deuda previsional histórica. Demuestra la capacidad de una provincia para negociar y obtener recursos significativos, sentando un precedente para otros reclamos federales y evidenciando el poder de la gestión provincial en la defensa de sus intereses.",
+        "pregunta_openarg": "¿Qué implicaciones tiene este acuerdo para el equilibrio fiscal de otras provincias con regímenes previsionales no transferidos y qué otros reclamos financieros podrían acelerarse a partir de este precedente?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Rol del Estado",
+                "Infraestructura",
+                "Economía Nacional (BCRA, inflación)",
+                "Manifestaciones sociales",
+                "Obra pública"
+            ],
+            "postura_politica": "Reafirma el rol activo del Estado en la provisión de servicios y obras (SUM, escrituras, rutas). Crítico de políticas económicas nacionales que no contemplan los costos sociales y que impactan negativamente en las provincias. Apoya la movilización social en defensa de la 'tierra y contra la entrega'.",
+            "frase_fuerte": "El nuevo SUM para el Centro Integrador Comunitario Longchamps y las más de 1500 escrituras que entregamos en Almirante Brown son el reflejo de lo que significa el rol del Estado para la comunidad."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Grandes eventos",
+                "Turismo"
+            ],
+            "postura_politica": "Centrado en la promoción de grandes proyectos de infraestructura que posicionan a la Ciudad a nivel internacional y atraen eventos de alto perfil.",
+            "frase_fuerte": "Avanzan las obras del Autódromo Oscar y Juan Gálvez. El año que viene ya vuelve el MotoGP. Y cada día está más cerca el regreso de la F1."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Energías renovables",
+                "Desarrollo productivo",
+                "Cooperación internacional",
+                "Financiamiento",
+                "Seguridad"
+            ],
+            "postura_politica": "Impulsa la diversificación de la matriz energética con proyectos solares y busca activamente la cooperación internacional y financiamiento del BID para obras estratégicas. Respalda iniciativas de seguridad y bienestar animal de otras provincias.",
+            "frase_fuerte": "Es una alegría acompañar la puesta en marcha del primer parque solar de @arcor en Recreo. Un paso fundamental en la transición hacia energías limpias, que aportará hasta el 90% del consumo de su planta industrial."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Exportaciones",
+                "Prevención climática"
+            ],
+            "postura_politica": "Enfatiza la capacidad exportadora de la provincia y la importancia de la prevención frente a fenómenos climáticos, mostrando una gestión enfocada en la producción y la resiliencia.",
+            "frase_fuerte": "Del Impenetrable al mundo. Tercera exportación de carne chaqueña a Medio Oriente. ¡Seguimos!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Federalismo",
+                "Defensa de recursos provinciales",
+                "Obra pública",
+                "Unidad política"
+            ],
+            "postura_politica": "Llama a la unidad provincial por encima de las diferencias partidarias para defender los recursos de Chubut y construir un federalismo efectivo. Destaca la inversión provincial en obras paralizadas.",
+            "frase_fuerte": "Hay discusiones que están por encima de cualquier diferencia partidaria: defender los recursos de nuestra provincia, impulsar una Argentina verdaderamente federal y poner siempre a Chubut por encima de cualquier nombre propio."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Salud pública",
+                "Educación técnica",
+                "Inversión",
+                "Cultura",
+                "Economía del Conocimiento"
+            ],
+            "postura_politica": "Muestra un fuerte compromiso con la inversión en salud y educación técnica, posicionando a Córdoba como un referente en estas áreas. Destaca el autofinanciamiento hospitalario y la articulación público-privada. Promueve la cultura como motor económico.",
+            "frase_fuerte": "FORTALECEMOS LA EDUCACIÓN TÉCNICA... El rol del Estado es igualar oportunidades. Esta consolidación de la educación técnica es una buena noticia que Córdoba le da a toda la Argentina, para que en nuestro querido país se imite este ejemplo de defensa educativa."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Finanzas provinciales",
+                "Deuda previsional",
+                "Relación Nación-Provincias",
+                "Transparencia"
+            ],
+            "postura_politica": "Celebra un logro histórico en la gestión de recursos provinciales, con el pago de una deuda por parte de la Nación, lo que refuerza su narrativa de 'poner orden' y defender los intereses entrerrianos.",
+            "frase_fuerte": "LA NACIÓN EMPIEZA A PAGARLE POR PRIMERA VEZ A ENTRE RÍOS LO QUE LE CORRESPONDE."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Celebraciones locales",
+                "Identidad"
+            ],
+            "postura_politica": "Enfocado en las conmemoraciones de localidades de la provincia, promoviendo el sentido de pertenencia y la historia local.",
+            "frase_fuerte": "Saludamos con enorme alegría a la comunidad de San Martín Dos en sus 91 años de vida, celebrando el esfuerzo de su gente y el profundo sentido de pertenencia que hace de esta localidad un lugar único."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Gestión climática",
+                "Prevención",
+                "Rol del Estado"
+            ],
+            "postura_politica": "Enfocado en la planificación y prevención ante fenómenos climáticos, destacando la eficiencia y capacidad de respuesta del Estado provincial con recursos propios y sin endeudamiento externo.",
+            "frase_fuerte": "Un Estado eficiente que planifica para prevenir y dar respuestas."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Memoria histórica",
+                "Derechos humanos",
+                "Desarrollo humano",
+                "Diálogo"
+            ],
+            "postura_politica": "Conmemora el 50° aniversario del martirio de Monseñor Angelelli, reafirmando su legado de amor por los vulnerables y la búsqueda de una sociedad justa. Promueve el diálogo para un desarrollo integral.",
+            "frase_fuerte": "La mayor enseñanza que nos dejaron nuestros Beatos es el amor que guió cada una de sus acciones: la opción por los más vulnerables, la búsqueda de la verdad y el compromiso con la dignidad humana."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Educación",
+                "Empleo joven",
+                "Articulación público-privada"
+            ],
+            "postura_politica": "Impulsa iniciativas para la inserción laboral de estudiantes secundarios, valorizando la experiencia en el sector privado y buscando la colaboración empresarial para la formación de talento.",
+            "frase_fuerte": "Queremos que los estudiantes mendocinos puedan terminar sus estudios con experiencia laboral en el sector privado, algo fundamental para que en su futuro puedan conseguir su primer trabajo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Conectividad aérea",
+                "Turismo",
+                "Inversión"
+            ],
+            "postura_politica": "Celebra el incremento de vuelos y la apertura de nuevas rutas aéreas, lo que considera fundamental para potenciar el turismo y atraer inversiones a la provincia.",
+            "frase_fuerte": "Ampliar la conectividad aérea significa abrir más oportunidades para Misiones. Más vuelos impulsan el turismo, favorecen la llegada de inversiones y hacen más fácil la vida de miles de misioneros que necesitan viajar."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura (rutas, escuelas, salud)",
+                "Desarrollo regional",
+                "Conectividad aérea",
+                "Recursos naturales",
+                "Educación técnica",
+                "RIGI"
+            ],
+            "postura_politica": "Enfocado en un ambicioso plan de obras que incluye corredores bioceánicos, recuperación de patrimonio, inversión en salud y educación técnica, y la defensa de la tierra provincial para argentinos. Destaca el impacto positivo del RIGI.",
+            "frase_fuerte": "EN 20 DÍAS VAMOS A INAUGURAR LOS PRIMEROS 10 KM DE CORTADERAS. En este 139° aniversario, ratificamos que Chos Malal va a ser un nodo indispensable en el corredor bioceánico binacional para llegar a la región del Biobío, en Chile."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Bienestar animal",
+                "Tracción a sangre",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Promueve políticas de bienestar animal, destacando el éxito de su gestión anterior como intendente para eliminar la tracción a sangre e incentivando a otros municipios a seguir su ejemplo.",
+            "frase_fuerte": "Como intendente, trabajé incansablemente para ponerle fin a la tracción a sangre. Y lo logramos."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Financiamiento internacional",
+                "Obras públicas",
+                "Equilibrio fiscal"
+            ],
+            "postura_politica": "Abocado a la búsqueda de financiamiento internacional a través de bonos provinciales para impulsar obras de infraestructura, destacando la solidez fiscal de San Juan para generar confianza en inversores.",
+            "frase_fuerte": "Cada reunión que tuvimos en el exterior es para encontrar nuevas alternativas de financiamiento para las obras que las familias sanjuaninas necesitan para construir su futuro."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Concursos docentes",
+                "Infraestructura gastronómica",
+                "Prevención de incendios",
+                "Articulación interinstitucional"
+            ],
+            "postura_politica": "Celebra la meritocracia en la educación con el reconocimiento de directivos por concurso. Promueve el desarrollo local con inauguraciones de emprendimientos y la colaboración interinstitucional para la prevención de incendios.",
+            "frase_fuerte": "Reconocimos a los tres DIRECTIVOS del Centro Educativo Juan Pascual Pringles (Ciudad de San Luis) por haber accedido a sus Cargos a partir del CONCURSO DE CARGOS JERÁRQUICOS realizados el año pasado."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Turismo deportivo",
+                "Eventos internacionales",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Apuesta por el turismo deportivo como motor de desarrollo económico, destacando la organización de un evento internacional de nado en aguas frías, buscando posicionar a Santa Cruz globalmente.",
+            "frase_fuerte": "POR PRIMERA VEZ EN EL CONTINENTE AMERICANO, LA WINTER SWIMMING WORLD CUP SE REALIZA EN SANTA CRUZ."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Salud pública",
+                "Justicia social (propiedad)",
+                "Inversión social"
+            ],
+            "postura_politica": "Celebra mejoras en la salud pública y la entrega de títulos de propiedad como actos de justicia social que brindan seguridad a las familias, destacando la inversión y el trabajo en equipo.",
+            "frase_fuerte": "Entregamos escrituras a familias de la provincia que esperaron hasta 40 y 60 años por este momento. Nuestra prioridad es darles la seguridad de que nadie les va a quitar lo suyo, respaldando el esfuerzo de toda una vida 💪🏾"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Educación",
+                "Carrera docente",
+                "Liderazgo educativo"
+            ],
+            "postura_politica": "Enfatiza el compromiso con la educación y el fortalecimiento de la carrera docente a través de programas formativos y concursos, posicionando a los maestros como líderes del futuro provincial.",
+            "frase_fuerte": "El docente como herramienta fundamental y a la vanguardia de la educación, para llevar a nuestros niños y jóvenes al aprendizaje continuo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Acceso a la justicia",
+                "Vivienda",
+                "Obra pública provincial"
+            ],
+            "postura_politica": "Destaca la inversión provincial en infraestructura judicial y habitacional, asumiendo la responsabilidad de la obra pública ante la paralización nacional, para garantizar el acceso a derechos y servicios.",
+            "frase_fuerte": "Frente a la paralización de la obra pública nacional, en Tucumán tomamos la decisión política de sostener estos trabajos con recursos provinciales, fruto de una administración responsable y eficiente."
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada exhibe una clara fractura entre gobernadores que se alinean con la Casa Rosada y aquellos que marcan distancia, con foco en la disputa fiscal, la defensa de economías regionales y la crítica a la política exterior de Milei. Kicillof y Quintela encabezan la oposición, mientras Frigerio, Pullaro y Jaldo buscan equilibrar gestión provincial con guiños al oficialismo nacional.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión entre Nación y provincias se manifiesta en dos frentes: la política exterior de Milei, que genera rechazo abierto en Kicillof y Quintela por el conflicto con Brasil, y la desregulación fitosanitaria que impulsa el gobierno nacional, enfrentando a Sáenz y Sadir en defensa de sus economías regionales. La ausencia de una mención directa a la coparticipación sugiere una tregua táctica, pero el trasfondo fiscal sigue latente.\n\nActo 2 — Los Alineamientos: Frigerio, Pullaro y Jaldo se posicionan como puentes con Nación: Frigerio celebra un acuerdo previsional con ANSES, Pullaro coordina obras con la Región Centro y Jaldo gestiona con el ministro de Justicia nacional. En las antípodas, Kicillof y Quintela construyen un relato de resistencia peronista, con el primero atacando la gestión de Milei en Brasil y el segundo apelando al legado de Angelelli. En el centro, Llaryora y Figueroa exhiben una gestión autónoma con fondos provinciales, sin confrontar directamente pero marcando perfil propio.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas —Passalacqua, Ziliotto, Vidal, Poggi— se refugian en la gestión local: anuncian obras, entregan títulos de propiedad, promueven el turismo o el deporte. Es una estrategia de supervivencia: evitan posicionarse sobre temas nacionales y refuerzan su imagen de eficiencia administrativa. Ziliotto, sin embargo, desliza una crítica al gobierno nacional por la deuda previsional, mientras Vidal responsabiliza al kirchnerismo por las inundaciones en Río Gallegos.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día es agridulce. Por un lado, consolida apoyos en gobernadores no peronistas como Frigerio y Pullaro, y logra avances en la agenda judicial en Tucumán. Por otro, enfrenta el desafío explícito de Kicillof y Quintela, que buscan capitalizar el descontento con la política exterior y el ajuste. La omisión de Milei en los tuits de la mayoría de los gobernadores es un síntoma de repliegue: prefieren no confrontar, pero tampoco lo defienden.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto con Brasil y crítica a la política exterior de Milei",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Defensa de economías regionales ante desregulación fitosanitaria nacional",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Acuerdo previsional y financiamiento con Nación",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Infraestructura con fondos provinciales como marca de autonomía",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestión de emergencias climáticas y responsabilidad política",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@ZiliottoSergio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Ayer vimos, con vergüenza ajena, al presidente Milei ofender e insultar al gobierno de Brasil, a su presidente y a todo un país. Desde la provincia de Buenos Aires sostenemos que la Argentina respeta a las naciones hermanas y apuesta a la integración regional. Hoy me comuniqué con Mauro Vieira, el canciller de Brasil, en nombre del @BonaerensePJ, para transmitirle que Milei no representa el sentir del pueblo argentino. Brasil es nuestro principal socio comercial. Con estas provocaciones, Milei pone en riesgo inversiones, exportaciones, miles de puestos de trabajo y los intereses de la Argentina, todo para sostener a un candidato por pedido de Trump. La relación con Brasil merece responsabilidad, no provocaciones.",
+        "por_que_es_clave": "Kicillof no solo critica a Milei, sino que actúa como un contrapoder diplomático, comunicándose con el canciller brasileño para desmarcar a la provincia de la postura presidencial. Es un desafío directo a la autoridad de Milei en política exterior y un intento de posicionarse como referente opositor con proyección internacional.",
+        "pregunta_openarg": "¿Puede un gobernador arrogarse la representación del sentir del pueblo argentino en política exterior sin violar la Constitución Nacional?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Marcha contra la entrega de tierras",
+                "Reforma Carta Orgánica BCRA",
+                "Gestión provincial (escrituras, obras)",
+                "Crítica a Milei por conflicto con Brasil",
+                "Homenaje a Evita"
+            ],
+            "postura_politica": "Kicillof despliega una agenda de gestión provincial para mostrar gobernabilidad, pero su verdadero objetivo es capitalizar el descontento con Milei. El retweet de la marcha y el ataque a Milei por Brasil buscan posicionarlo como líder opositor, mientras la gestión local intenta contrarrestar el relato de ajuste nacional.",
+            "frase_fuerte": "Milei no representa el sentir del pueblo argentino."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Autódromo",
+                "Policía de la Ciudad",
+                "Recuperación de propiedades usurpadas"
+            ],
+            "postura_politica": "Macri se enfoca en temas de gestión urbana y seguridad, evitando cualquier mención a Nación. Es un repliegue en la agenda de cabotaje, consolidando su imagen de orden y gestión, sin confrontar ni alinearse explícitamente con Milei.",
+            "frase_fuerte": "No hay grises cuando se trata de defender la propiedad privada."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Coordinación con otros gobernadores (Weretilneck, Sáenz)",
+                "Energía renovable (parque solar Arcor)",
+                "Cooperación internacional (BID, Perú)",
+                "Fiesta del Poncho (economía local)",
+                "Rescate de turistas"
+            ],
+            "postura_politica": "Jalil se muestra como un gestor eficiente que atrae inversiones y coopera con provincias vecinas, pero evita posicionarse sobre la gestión nacional. La mención a la Fiesta del Poncho es un guiño al desarrollo local, sin roces con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Exportación de carne a Medio Oriente",
+                "Prevención de El Niño",
+                "Seguridad",
+                "Obras (acueducto, rutas)",
+                "Bienal de arte"
+            ],
+            "postura_politica": "Zdero se centra en gestión provincial y logros productivos, con un tono despolitizado. La mención al acueducto supervisado con Nación sugiere colaboración, pero sin profundizar en la relación. Busca mostrarse como un gobernador que gestiona, no que confronta.",
+            "frase_fuerte": "Se terminaron las promesas, hoy avanzamos a paso firme."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Unidad con otros gobernadores patagónicos (Río Negro, Neuquén)",
+                "Obras viales y energéticas",
+                "Deporte",
+                "Acuerdo con Nación por deuda (RIGI)",
+                "Viviendas para policías"
+            ],
+            "postura_politica": "Torres busca construir una imagen de liderazgo regional patagónico, destacando acuerdos con provincias vecinas y con Nación para obras. La mención al RIGI y al acuerdo con Caputo muestra pragmatismo y capacidad de negociación, sin alinearse ideológicamente.",
+            "frase_fuerte": "El verdadero federalismo es resolver los problemas de nuestra gente."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Salud pública (UTI, hemodinamia)",
+                "Educación técnica",
+                "Industrias creativas",
+                "Infraestructura vial",
+                "Región Centro",
+                "Lucha contra el narcotráfico"
+            ],
+            "postura_politica": "Llaryora despliega una agenda de gestión densa, mostrando capacidad de inversión provincial. La Región Centro es su plataforma de posicionamiento federal, sin confrontar con Nación pero marcando autonomía. El énfasis en la lucha contra el narcotráfico es un mensaje a la Nación sobre competencias.",
+            "frase_fuerte": "Córdoba es un territorio hostil para los narcos."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Acuerdo con ANSES por deuda previsional",
+                "Compra centralizada de medicamentos",
+                "Seguro multirriesgo para maíz",
+                "Región Centro",
+                "Apertura de mercados (UE, Indonesia)"
+            ],
+            "postura_politica": "Frigerio se posiciona como un gestor ordenado que logra acuerdos con Nación, destacando el histórico pago de ANSES. Es un guiño al oficialismo, mostrando que la relación institucional funciona. La Región Centro refuerza su perfil productivo.",
+            "frase_fuerte": "La Nación empieza a pagarle por primera vez a Entre Ríos lo que le corresponde."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Aniversario de localidad",
+                "Reunión con intendente",
+                "Homenaje a Evita"
+            ],
+            "postura_politica": "Insfrán se mantiene en un perfil bajo, con actividades protocolares y efemérides. Es un refugio en la agenda local, sin mencionar a Nación. La omisión es una estrategia de supervivencia en un contexto de ajuste.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Unidad de Gestión para El Niño",
+                "Energía renovable",
+                "Inversión en salud",
+                "Transparencia fiscal",
+                "Reclamo por el río Atuel"
+            ],
+            "postura_politica": "Ziliotto combina gestión provincial con un reclamo histórico a Mendoza por el Atuel, mostrando firmeza en la defensa de los recursos pampeanos. La inversión en salud con fondos propios es una crítica velada al desfinanciamiento nacional. La mención a la transparencia fiscal busca diferenciarse de Nación.",
+            "frase_fuerte": "Ante el abandono de Nación nos hacemos cargo de financiar las Residencias Médicas."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "50° aniversario del martirio de Angelelli",
+                "Mensaje de unidad peronista con Máximo Kirchner",
+                "Crítica a Milei por conflicto con Brasil",
+                "Acuerdo con UNICEF",
+                "Condolencias por accidente en San Juan"
+            ],
+            "postura_politica": "Quintela apela al legado de Angelelli para construir un relato de resistencia peronista, reforzado por la visita de Máximo Kirchner. La crítica a Milei por Brasil lo alinea con Kicillof. Es un posicionamiento claramente opositor, con un fuerte contenido simbólico.",
+            "frase_fuerte": "Las palabras del presidente expresan su posición personal. Tristemente, no nos sorprende que este hombre, con su profundo desequilibrio emocional, tenga estas expresiones."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Educación (Enlace Estudiantil)",
+                "Enoturismo",
+                "Complejo hidroeléctrico Los Nihuiles",
+                "Inversión minera (Teck, NMDC)",
+                "Viviendas",
+                "Salud (tomógrafo, acelerador lineal)"
+            ],
+            "postura_politica": "Cornejo se enfoca en gestión y atracción de inversiones, con un tono técnico. La mención a Los Nihuiles y la minería muestra su apuesta por el desarrollo energético y minero, sin confrontar con Nación. Es un perfil de gestor moderno, alejado de la polémica.",
+            "frase_fuerte": "La integración no debe ser solo un discurso, necesita obras, inversión y decisiones concretas."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Conectividad aérea (JetSMART)",
+                "Renuncia a partido político",
+                "Fiesta del Azúcar",
+                "Centenario de escuela",
+                "Presupuesto provincial",
+                "Salud (tomógrafo)",
+                "Viviendas"
+            ],
+            "postura_politica": "Passalacqua se centra en gestión local y anuncios de servicios. La renuncia al partido Encuentro Misionero es un gesto político que podría indicar reordenamiento, pero no lo explícita. Evita cualquier mención a Nación, refugiándose en la agenda de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obras en Chos Malal (ruta, salud, educación)",
+                "Conexión aérea",
+                "Ley de Tierras Fiscales",
+                "Escuelas técnicas (EPET)",
+                "RIGI y regalías",
+                "Copa Davis"
+            ],
+            "postura_politica": "Figueroa muestra una gestión dinámica, con inversiones en infraestructura y eventos internacionales. La defensa del RIGI y el énfasis en regalías lo alinean con el modelo productivo que impulsa Nación, pero sin subordinación. La ley de tierras es un mensaje de autonomía.",
+            "frase_fuerte": "El RIGI fue muy positivo. Los 6 millones que se pierden de Ganancia se multiplican por 300 en regalías."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Fin de tracción a sangre",
+                "Ampliación de aeropuerto",
+                "Minería (inversión de Eramet)",
+                "Defensa fitosanitaria (con Jujuy)",
+                "Repavimentación de ruta nacional 9/34",
+                "Incendios"
+            ],
+            "postura_politica": "Sáenz combina gestión social con una fuerte defensa de la producción local. La decisión de mantener controles fitosanitarios pese a la desregulación nacional es un desafío directo a Nación. La inversión en ruta nacional con fondos provinciales también marca autonomía.",
+            "frase_fuerte": "La defensa de la producción y las economías regionales son acciones indelegables de quienes las gobernamos."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Misión financiera internacional (bono San Juan)",
+                "Condolencias por accidente de helicóptero",
+                "Educación (carrera de Medicina)",
+                "Minería (Ley de Desarrollo Local Minero, Vicuña)",
+                "RIGI",
+                "Energía solar"
+            ],
+            "postura_politica": "Orrego se posiciona como un gestor proactivo en la búsqueda de financiamiento y desarrollo minero. La mención al RIGI y al proyecto Vicuña lo alinean con el gobierno nacional en materia productiva. La condolencias por el accidente muestra sensibilidad institucional.",
+            "frase_fuerte": "El mundo mira a San Juan, y San Juan mira al futuro."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Inauguración de planta gastronómica",
+                "Reconocimiento a directivos escolares",
+                "Prevención de incendios con universidad",
+                "Obras en escuelas",
+                "Viviendas de autoconstrucción",
+                "Programa Creciendo con tu Club",
+                "Data Center",
+                "Escrituras"
+            ],
+            "postura_politica": "Poggi despliega una agenda intensa de gestión local, con anuncios de obras y programas sociales. Es un perfil puramente administrativo, sin menciones a Nación. La visita a escuelas y clubes busca construir cercanía, pero sin contenido político federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Winter Swimming World Cup",
+                "Inundaciones en Río Gallegos",
+                "Crítica al kirchnerismo",
+                "Producción agropecuaria (trigo, avena)",
+                "Seguridad vial",
+                "Salud (incremento salarial a judiciales)"
+            ],
+            "postura_politica": "Vidal utiliza la emergencia climática para responsabilizar al kirchnerismo por la falta de obras, alineándose con el relato de Milei. La promoción de la producción agropecuaria busca mostrar un cambio de modelo. Es un perfil claramente alineado con el oficialismo nacional.",
+            "frase_fuerte": "Treinta años de kirchnerismo reemplazaron la cultura del trabajo por el cortoplacismo, la dependencia y el clientelismo."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Salud (Sala de Neurología)",
+                "Escrituras",
+                "Bandera de Santa Fe",
+                "Juegos Suramericanos",
+                "Región Centro",
+                "Obras (Ruta A012)",
+                "Viviendas"
+            ],
+            "postura_politica": "Pullaro combina gestión provincial con posicionamiento regional. La asunción de Frigerio en la Región Centro y el traspaso de la ruta A012 muestran coordinación con Nación, pero también autonomía. El énfasis en los Juegos Suramericanos es una apuesta a la imagen de progreso.",
+            "frase_fuerte": "En Santa Fe estamos demostrando que se pueden hacer las cosas de otra manera."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Concurso de cargos docentes",
+                "Elecciones municipales",
+                "Conectividad aérea (JetSMART)",
+                "Industria farmacéutica",
+                "Aniversario de la ciudad",
+                "Salud (UPA)",
+                "Viviendas"
+            ],
+            "postura_politica": "Suárez se enfoca en gestión educativa, salud y conectividad. La felicitación a los intendentes electos refuerza su control político provincial. La nueva ruta aérea es un logro de gestión. Evita temas nacionales, manteniendo un perfil bajo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Justicia (juzgado de paz, designación de jueces federales)",
+                "Viviendas",
+                "Remodelación de terminal de ómnibus",
+                "Elecciones provinciales 2027",
+                "Ficha Limpia",
+                "Salud (recuperación del gobernador)",
+                "9 de Julio"
+            ],
+            "postura_politica": "Jaldo se muestra como un gestor que articula con Nación en materia judicial y ejecuta obras con recursos provinciales. La convocatoria a elecciones y la inclusión de Ficha Limpia es un gesto de modernización política. La mención a su recuperación de salud busca transmitir fortaleza.",
+            "frase_fuerte": "Fortalecer la Justicia es garantizar mayor acceso, más celeridad y mejores condiciones para acompañar el crecimiento social e institucional."
+        }
+    ]
+}
