@@ -1,0 +1,171 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jorge Macri (CABA) lanza un dardo directo a Axel Kicillof (Buenos Aires) al retuitear una provocación sobre propiedades recuperadas, mientras otros gobernadores se refugian en gestión local o anuncios de inversión. La agenda federal se tensa por el choque capital-provincia.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada encuentra su epicentro en la disputa simbólica entre la Ciudad de Buenos Aires y la Provincia de Buenos Aires. Jorge Macri, en un gesto de desconfianza metódica calibrada, retuitea una pregunta venenosa: '¿Alguien conoce una propiedad recuperada por Kicillof?' No es una consulta ingenua. Es un misil dirigido a desnudar la gestión de vivienda del gobernador bonaerense, justo cuando Kicillof tuitea sobre la entrega de llaves en Lanús. La omisión de Kicillof de responder a este desafío es un silencio estratégico: no entra en el ring de la polémica menor, pero el daño político queda instalado.\n\nActo 2 — Los Alineamientos: En el otro extremo, los gobernadores de provincias productivas como Martín Llaryora (Córdoba) y Maximiliano Pullaro (Santa Fe) se posicionan como gestores eficientes, ajenos a la grieta. Llaryora apuesta a la economía creativa y la infraestructura, mientras Pullaro destaca la innovación productiva. Ambos evitan mencionar a Nación, lo que sugiere un repliegue calculado: no quieren ser arrastrados al barro. Marcelo Orrego (San Juan) firma un acuerdo histórico con Vicuña por USD 250 millones, mostrando que la gestión de recursos propios es el camino. Rolando Figueroa (Neuquén) también celebra el RIGI y la conectividad aérea, alineándose con el modelo de desarrollo energético.\n\nActo 3 — La Micro-política: Los gobernadores periféricos y de gestión local se mantienen en la agenda de cabotaje. Gildo Insfran (Formosa) saluda aniversarios de pueblos. Claudio Poggi (San Luis) recorre escuelas y emprendimientos. Sergio Ziliotto (La Pampa) lanza un plan de salud mental. Hugo Passalacqua (Misiones) supervisa una perforación de agua. Son gestos de supervivencia: evitan posicionamientos que puedan generar roces con Nación o con otros gobernadores. La excepción es Gustavo Sáenz (Salta), que publica un emotivo verso de Los Chalchaleros, un refugio en la identidad cultural para no tener que hablar de la crisis.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día es ambiguo. La pelea Macri-Kicillof no la beneficia directamente, pero la distrae de la presión fiscal. La ausencia de reclamos explícitos por coparticipación o deuda es un alivio momentáneo. Sin embargo, el silencio de los gobernadores sobre temas nacionales (como la visita del Papa o la crisis con Brasil) revela un cálculo: no quieren ser asociados a un gobierno que no les garantiza recursos. El capital político presidencial se erosiona lentamente, sin estrépito.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto directo CABA vs Buenos Aires por gestión de propiedades",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Inversiones mineras y energéticas (RIGI, Vicuña, vuelos)",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Economía creativa e infraestructura en provincias centrales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público con perfil de gestión",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Agenda de cabotaje y refugio en lo local",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@claudiojpoggi",
+                "@ZiliottoSergio",
+                "@passalacquaok",
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @ProCiudadBsAs)",
+        "texto": "¿Alguien conoce una propiedad recuperada por Kicillof?",
+        "por_que_es_clave": "Es una provocación directa contra Axel Kicillof en el día que él mismo destaca la entrega de viviendas. Macri intenta instalar la idea de que la gestión bonaerense en recuperación de propiedades es nula, contrastando con sus propios operativos. Es una jugada de daño político calculada.",
+        "pregunta_openarg": "¿Es la gestión de vivienda de Kicillof realmente efectiva o solo un barniz de propaganda mientras el conurbano acumula propiedades usurpadas?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "vivienda",
+                "salud"
+            ],
+            "postura_politica": "Se enfoca en gestión local de vivienda y salud, sin mencionar a Nación ni responder a la provocación de Macri. Es un repliegue táctico: no darle entidad al ataque, pero la omisión revela incomodidad.",
+            "frase_fuerte": "Detrás de cada llave hay un hogar, una familia y un futuro por construir."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "okupas",
+                "narco",
+                "propiedad privada"
+            ],
+            "postura_politica": "Ofensiva total. Usa su cuenta para marcar territorio: 'ley y orden' y atacar a Kicillof. Busca mostrarse como el único que combate la usurpación y el narco, mientras insinúa que la provincia no hace lo mismo.",
+            "frase_fuerte": "¿Alguien conoce una propiedad recuperada por Kicillof?"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "economía creativa",
+                "infraestructura",
+                "educación técnica",
+                "eventos"
+            ],
+            "postura_politica": "Agenda de gestión pura, sin roces con Nación. Se posiciona como polo de desarrollo y modernidad, apelando a la inversión privada y la innovación. Es un mensaje de que Córdoba no necesita a la Nación para crecer.",
+            "frase_fuerte": "Los cordobeses no esperamos el futuro, lo construimos."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "aniversarios",
+                "enseñanza agropecuaria"
+            ],
+            "postura_politica": "Agenda protocolar sin impacto federal. Refuerza identidad local y peronista con hashtags como #TodosUnidos. No hay señales de conflicto ni alineamiento.",
+            "frase_fuerte": "Saludamos a cada vecino y vecina que forma parte de esta historia."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "salud mental",
+                "endeudamiento familiar"
+            ],
+            "postura_politica": "Se presenta como gestor ordenado y eficiente, destacando el bajo endeudamiento de las familias pampeanas. Es un guiño a la ortodoxia fiscal y una crítica implícita a la gestión nacional que genera deuda.",
+            "frase_fuerte": "La Pampa tiene el menor índice de endeudamiento de las familias de todo el país."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "agua potable",
+                "conectividad aérea"
+            ],
+            "postura_politica": "Gestión local con foco en obras básicas y conectividad. No hay posicionamiento nacional. Es un perfil técnico que evita la política.",
+            "frase_fuerte": "En el barrio Las Calandrias recuperamos una perforación que hoy mejora el acceso al agua para 300 familias."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "vivienda",
+                "vuelos",
+                "RIGI",
+                "tierras"
+            ],
+            "postura_politica": "Alineado con el modelo de desarrollo energético. Celebra el RIGI y la inversión privada, y avanza en la regulación de tierras para argentinos. Es un mensaje de orden y federalismo productivo, sin confrontar con Nación.",
+            "frase_fuerte": "La tierra de la provincia del Neuquén tiene que estar al servicio de los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "seguridad",
+                "armas"
+            ],
+            "postura_politica": "Retuitea un dato de seguridad (armas secuestradas) sin comentario propio. Es un gesto de gestión, pero sin profundidad política. No hay posicionamiento.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "patria",
+                "cultura"
+            ],
+            "postura_politica": "Publica una canción de Los Chalchaleros con un 'Viva la Patria'. Es un refugio en el simbolismo, evitando cualquier tema conflictivo. No hay agenda de gestión visible.",
+            "frase_fuerte": "Hoy, más que nunca, esta canción de Los Chalchaleros cobra un sentido especial."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "minería",
+                "inversión",
+                "Vicuña"
+            ],
+            "postura_politica": "Anuncio de un acuerdo histórico por USD 250 millones con Vicuña. Se muestra como gestor de inversiones y generador de empleo. Es un ejemplo de federalismo pragmático, sin conflicto con Nación.",
+            "frase_fuerte": "Un hecho histórico para San Juan: firmamos un acuerdo con Vicuña por USD 250 millones."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "vivienda",
+                "ong",
+                "deporte"
+            ],
+            "postura_politica": "Agenda local intensa con recorridas por escuelas, viviendas y organizaciones. No hay referencia a Nación. Es un perfil de gestión territorial, sin ambiciones de confrontación.",
+            "frase_fuerte": "El camino es la EDUCACIÓN."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "producción",
+                "innovación",
+                "empresas"
+            ],
+            "postura_politica": "Se posiciona como líder de una provincia productiva e innovadora. Su mensaje es que Santa Fe es un modelo a seguir para el país, sin mencionar a Nación. Es una declaración de autonomía.",
+            "frase_fuerte": "Santa Fe es imparable, trabajamos para ser la provincia productiva y más innovadora del país."
+        }
+    ]
+}

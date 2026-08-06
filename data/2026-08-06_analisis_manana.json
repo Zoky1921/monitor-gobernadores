@@ -1,0 +1,151 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal está marcada por una evidente polarización. Jorge Macri (Ciudad de Buenos Aires) intensifica su campaña de 'Ley y Orden', destacando operativos contra el delito y la irregularidad, incluso lanzando dardos directos a la gestión bonaerense. En contraste, gobernadores como Kicillof (Buenos Aires), Ziliotto (La Pampa), Orrego (San Juan) y Pullaro (Santa Fe) optan por visibilizar una activa gestión provincial en áreas clave como vivienda, salud, infraestructura e inversión productiva. Los anuncios de inversiones históricas y el fortalecimiento de los servicios públicos provinciales buscan consolidar un perfil de autonomía y eficiencia, aunque la fricción entre CABA y Buenos Aires mantiene el clima en alerta.",
+    "analisis_profundo": "La dinámica observada en las redes de los gobernadores revela un panorama de alta tensión política, especialmente en la confrontación entre el Jefe de Gobierno de la Ciudad de Buenos Aires y la Provincia de Buenos Aires. Jorge Macri (Ciudad de Buenos Aires) ha capitalizado la jornada para reafirmar su agenda de 'Ley y Orden', utilizando una serie de publicaciones y retweets para destacar operativos contra estacionamientos ilegales, el narcotráfico y la recuperación de propiedades usurpadas. Su estrategia incluye una crítica explícita a la Provincia de Buenos Aires, intentando marcar diferencias claras en la capacidad y voluntad de gestión en seguridad y orden público. Esta confrontación inter-jurisdiccional es un elemento central que define el clima político del día, trascendiendo las agendas de gestión local. En el otro extremo, Axel Kicillof (Buenos Aires) mantiene un enfoque en la concreción de obras y programas sociales, visibilizando la entrega de viviendas y la inauguración de centros de salud, lo cual refuerza su narrativa de un Estado presente que garantiza derechos. Sergio Ziliotto (La Pampa) sigue esta línea al anunciar una significativa inversión en un plan provincial de salud mental, enfatizando el rol ineludible del Estado ante las necesidades de su gente. Otros gobernadores como Marcelo Orrego (San Juan) y Maximiliano Pullaro (Santa Fe) utilizan sus plataformas para proyectar un modelo de desarrollo económico autónomo, con anuncios de inversiones millonarias en minería e industria, o la promoción de incentivos fiscales. Rolo Figueroa (Neuquén) también se suma a esta tendencia, destacando logros históricos en la provisión de servicios básicos e infraestructura. La actividad conjunta de Rogelio Weretilneck (Río Negro) en seguridad y Oscar Herrera Ahuad (Misiones) en servicios hídricos, aunque de menor impacto confrontativo, contribuye a la imagen de una gestión provincial activa. Esta división entre la confrontación política abierta y la afirmación de la gestión local por parte de las provincias perfila una agenda federal fragmentada y tensa, donde cada acción local es también un mensaje político.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y Orden Público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Inversión y Desarrollo Productivo Provincial",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de Políticas Sociales y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Conectividad Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Confrontación y Posicionamiento Inter-jurisdiccional",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Insólito. 4 estacionamientos truchos en una misma cuadra. Ya van 44 en Palermo y 471 en toda la Ciudad. Se terminó el vale todo. Ley y orden.",
+        "por_que_es_clave": "Este tweet encapsula la esencia de la agenda de gobierno de Jorge Macri (Ciudad de Buenos Aires), proyectando una imagen de mano dura y eficiencia en el restablecimiento del orden. La cifra de operativos y la frase 'Se terminó el vale todo. Ley y orden.' son un mensaje directo y contundente a sus votantes y un claro posicionamiento político sobre su estilo de gestión.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Vivienda",
+                "Salud",
+                "Infraestructura Social"
+            ],
+            "postura_politica": "Su agenda se centra en la gestión social y de infraestructura a nivel local. Destaca la entrega de viviendas en Lanús y la apertura de un centro de salud en Bolívar, enfocándose en la ampliación de derechos y la mejora de la calidad de vida de los bonaerenses. Su postura es de un Estado activo y proveedor de soluciones.",
+            "frase_fuerte": "Detrás de cada llave hay un hogar, una familia y un futuro por construir."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad Ciudadana",
+                "Orden Público",
+                "Combate al Delito",
+                "Propiedad Privada",
+                "Oposición Política"
+            ],
+            "postura_politica": "Mantiene una fuerte ofensiva en la agenda de 'Ley y Orden', visibilizando operativos contra estacionamientos ilegales, narcotráfico y usurpaciones, a menudo con retweets que refuerzan su discurso. Utiliza sus redes para contrastar su gestión con la de la Provincia de Buenos Aires, insinuando inacción de esta última en temas de propiedad y seguridad.",
+            "frase_fuerte": "Se terminó el vale todo. Ley y orden."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Salud Mental",
+                "Inversión Provincial",
+                "Rol del Estado"
+            ],
+            "postura_politica": "Anuncia una inversión provincial de $12.000 millones en un Plan de Emergencia en Salud Mental, reafirmando el compromiso del Estado en tiempos difíciles y la responsabilidad colectiva. Su postura es de un Estado presente y garante de derechos sociales, contrastando con la posible inacción a nivel nacional.",
+            "frase_fuerte": "No hay responsabilidades ajenas cuando nuestra gente necesita respuestas."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Vivienda Social",
+                "Infraestructura",
+                "Conectividad",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Destaca la entrega 'por primera vez en 53 años' de lotes con servicios en Varvarco, y la recuperación de la conectividad aérea, simbolizando un progreso significativo y la visión de una provincia que prioriza el desarrollo y las oportunidades en cada rincón.",
+            "frase_fuerte": "En el norte neuquino priorizamos lo básico: luz, gas y agua; salud, educación, seguridad e infraestructura para el crecimiento de cada rincón de nuestra provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad Ciudadana",
+                "Prevención del Delito"
+            ],
+            "postura_politica": "Su actividad reciente se concentra en la seguridad ciudadana, a través de retweets que informan sobre operativos exitosos de incautación de armas. Su mensaje se alinea con una gestión activa en la lucha contra el crimen.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Inversión Privada",
+                "Minería",
+                "Infraestructura",
+                "Generación de Empleo"
+            ],
+            "postura_politica": "Resalta un 'acuerdo histórico' de USD 250 millones con la empresa Vicuña para obras de infraestructura, subrayando la capacidad de su gobierno para atraer inversiones y generar empleo. Proyecta una imagen de gestión eficiente y orientada al futuro económico de la provincia.",
+            "frase_fuerte": "Gestionamos, construimos confianza y trabajamos para que las inversiones se transformen en beneficios concretos para todos los sanjuaninos."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Economía Regional",
+                "Empleo",
+                "Infraestructura Local",
+                "Apoyo a ONGs",
+                "Educación"
+            ],
+            "postura_politica": "Se enfoca en el apoyo a la producción local y el sector privado (SER BEEF S.A.), junto con obras de infraestructura (pasarela peatonal) y programas sociales (Tubi Adaptada, apoyo a ONGs). Su gestión se presenta como cercana a la comunidad y promotora del desarrollo económico y social.",
+            "frase_fuerte": "Su crecimiento tecnológico en el servicio de hoteleria animal, su planta de procesamiento de carne para consumo local y los nuevos proyectos: una Planta de Biogás que producirá energía eléctrica a partir del desecho animal y un nuevo desarrollo ovino que articulará con la Pcia."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Infraestructura Hídrica",
+                "Servicios Públicos"
+            ],
+            "postura_politica": "Se centra en la gestión de servicios básicos, anunciando la recuperación de una perforación para mejorar el acceso al agua. Su mensaje es de compromiso con la mejora de la calidad de vida a nivel local, demostrando un Estado que responde a las necesidades concretas de la comunidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Innovación",
+                "Empleo",
+                "Incentivos Fiscales"
+            ],
+            "postura_politica": "Destaca la 'Santa Fe imparable' como provincia productiva e innovadora, visitando empresas y promoviendo la deducción de Ingresos Brutos por la contratación de nuevos empleados. Su mensaje busca posicionar a Santa Fe como un modelo de desarrollo económico a nivel nacional, enfocado en el esfuerzo y la transformación de la realidad.",
+            "frase_fuerte": "Santa Fe es imparable, trabajamos para ser la provincia productiva y más innovadora del país."
+        }
+    ]
+}
