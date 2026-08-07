@@ -1,0 +1,217 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda política federal se polarizó hoy entre la fuerte confrontación con el Gobierno nacional y la gestión local pragmática. Gobernadores como Axel Kicillof (Buenos Aires) y Ricardo Quintela (La Rioja) arremetieron por la soberanía territorial y leyes nacionales, mientras Jorge Macri (CABA) adoptó una postura de mano dura ante la violencia en la calle. En contraste, Rogelio Frigerio (Entre Ríos) y Marcelo Orrego (San Juan) destacaron acuerdos millonarios con la Nación y empresas. Claudio Vidal (Santa Cruz) mantuvo su discurso anti-kirchnerista. Otros mandatarios, como Martín Llaryora (Córdoba) y Maximiliano Pullaro (Santa Fe), se centraron en obras, desarrollo productivo y servicios, buscando consolidar una imagen de eficiencia y autonomía provincial en un contexto nacional desafiante.",
+    "analisis_profundo": "La jornada reflejó la compleja dinámica federal, con una clara división entre la oposición confrontativa y un sector de gobernadores enfocados en la gestión y, en algunos casos, en la obtención de acuerdos estratégicos con la Nación. Axel Kicillof (Buenos Aires) se erigió como el principal crítico del Gobierno central, denunciando un 'proyecto nefasto' que atenta contra la soberanía y busca 'vender nuestro territorio', reafirmando su modelo de Estado presente en áreas como vivienda y salud. Jorge Macri (CABA), por su parte, endureció su discurso en seguridad, calificando a los violentos de 'delincuentes anarquistas' y enemigos del 'estilo de vida' de la ciudad, un mensaje que busca fortalecer su perfil de 'ley y orden' en la capital. \n\nEn el ámbito de la colaboración y el beneficio mutuo, Rogelio Frigerio (Entre Ríos) anunció un acuerdo 'histórico' de $120.000 millones con ANSES, destacando la defensa de los intereses provinciales y la transparencia en la gestión previsional. De manera similar, Marcelo Orrego (San Juan) celebró un convenio 'sin precedentes' de USD 250 millones con la minera Vicuña para infraestructura, posicionando a la provincia como un destino clave para la inversión con apoyo del Régimen de Incentivo a las Grandes Inversiones (RIGI), una política nacional. \n\nOtros gobernadores se concentraron en agendas provinciales de desarrollo: Martín Llaryora (Córdoba) promovió la infraestructura, la educación y la economía creativa con un enfoque territorial integrador. Sergio Ziliotto (La Pampa) presentó un plan provincial de salud mental y destacó la independencia económica de su provincia. Ricardo Quintela (La Rioja) celebró un 'retroceso parcial' del Gobierno nacional en la protección de tierras rurales, defendiendo la soberanía provincial. Alfredo Cornejo (Mendoza) resaltó la formación en salud y el posicionamiento exportador de ProMendoza. Oscar Herrera Ahuad (Misiones) mantuvo una postura firme contra la 'extranjerización' de la tierra. Rolando Figueroa (Neuquén) impulsó la inversión en yacimientos no convencionales y la seguridad. Claudio Poggi (San Luis) enfatizó obras públicas y desarrollo industrial. Claudio Vidal (Santa Cruz) criticó la corrupción de administraciones anteriores al anunciar inversiones en servicios públicos, consolidando su narrativa de 'cambio de rumbo'. Maximiliano Pullaro (Santa Fe) promovió el desarrollo productivo y la innovación, con incentivos a la creación de empleo. La jornada, por tanto, expuso una mezcla de alta tensión política y una fuerte impronta de gestión provincial, donde los discursos sobre autonomía y soberanía territorial resonaron con fuerza.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación por Soberanía Territorial y Leyes Nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Público frente a la Protesta Social",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Inversión en Obra Pública e Infraestructura Estratégica",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Gestión Financiera Provincial y Acuerdos con la Nación",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@DrMarceloOrrego",
+                "@ZiliottoSergio",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Fomento de Economías Regionales",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@maxipullaro",
+                "@claudiojpoggi",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "La orden a la Policía es clara: hacer cumplir la ley y defender a esta ciudad de los violentos que pretenden destruirla. Quemaron contenedores, rompieron veredas, destrozaron patrulleros y atacaron a la Policía. El debate se da dentro del congreso o se manifiesta de manera pacífica. Quienes alteran el orden de manera violenta y agreden a la Policía son delincuentes anarquistas. Son enemigos de nuestro estilo de vida.",
+        "por_que_es_clave": "Este tweet encapsula la tensión y el enfoque de 'ley y orden' frente a la protesta social violenta, un tema central en la agenda política nacional. La retórica de 'delincuentes anarquistas' y 'enemigos de nuestro estilo de vida' intensifica la polarización, marcando una postura dura desde la Ciudad Autónoma de Buenos Aires.",
+        "pregunta_openarg": "¿Cómo se equilibra la necesidad de orden público y la defensa de la propiedad con el derecho a la protesta social pacífica en un contexto de alta tensión política en Argentina?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Soberanía territorial",
+                "Ley nacional",
+                "Vivienda",
+                "Salud"
+            ],
+            "postura_politica": "Fuerte oposición al Gobierno nacional, defendiendo el rol estatal y la autonomía provincial. Crítica a políticas de 'entrega de soberanía' y promoción de la gestión local en vivienda y salud.",
+            "frase_fuerte": "El Gobierno nacional pensaba que iba a poder avanzar con la entrega de nuestra soberanía pero se encontró una vez más con la reacción de todo un pueblo que sabe lo que hay detrás de este proyecto nefasto."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Orden público",
+                "Violencia en protestas",
+                "Gestión local"
+            ],
+            "postura_politica": "Firmeza absoluta contra la violencia y el desorden. Apoyo incondicional a la acción policial y condena a 'delincuentes anarquistas', buscando consolidar una imagen de 'ley y orden' en la Ciudad.",
+            "frase_fuerte": "Quienes alteran el orden de manera violenta y agreden a la Policía son delincuentes anarquistas. Son enemigos de nuestro estilo de vida."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Prevención",
+                "Fenómenos climáticos ('El Niño')"
+            ],
+            "postura_politica": "Enfoque proactivo en la gestión de riesgos climáticos, destacando la importancia de la prevención y el trabajo conjunto para reducir el impacto de fenómenos como 'El Niño'.",
+            "frase_fuerte": "Con prevención y trabajo conjunto, reducimos el impacto de El Niño. #PrevenirEsCuidarnos"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Infraestructura",
+                "Educación superior",
+                "Economía creativa"
+            ],
+            "postura_politica": "Impulso a políticas de desarrollo territorial integrado, inversión en educación y obra pública, promoción de la cultura y el empleo local. Destaca el diálogo y el trabajo conjunto como pilares de crecimiento.",
+            "frase_fuerte": "La imagen de vecinos, instituciones y dirigentes reunidos para celebrar es el mejor reflejo de la Argentina que queremos construir: unida, con diálogo y trabajo en común."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Salud",
+                "Financiamiento previsional",
+                "Relación Nación-Provincias",
+                "Transparencia"
+            ],
+            "postura_politica": "Se presenta como un gestor eficaz que 'pone orden' y defiende los intereses de la provincia, logrando acuerdos financieros significativos con el Gobierno nacional y mejorando la salud pública.",
+            "frase_fuerte": "La Nación empieza a pagarle por primera vez a Entre Ríos lo que le corresponde. La provincia recibirá $120.000 millones como anticipo del resultado definitivo de la auditoría del ejercicio 2026 del sistema previsional."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Salud mental",
+                "Desarrollo energético",
+                "Estabilidad económica provincial"
+            ],
+            "postura_politica": "Enfoque en políticas sociales robustas y desarrollo autónomo, resaltando la solvencia fiscal, el bajo endeudamiento provincial y la inversión en salud mental y energías renovables.",
+            "frase_fuerte": "En tiempos difíciles, salimos entre todos. Pusimos en marcha el Plan Provincial de Emergencia en Salud Mental y Abordaje de Consumos Problemáticos."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Soberanía territorial",
+                "Legado político",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Defensa férrea de la soberanía provincial sobre la tierra frente a medidas nacionales, con una mirada peronista sobre la historia y el compromiso con el pueblo. Destaca el logro de un 'retroceso parcial' del gobierno nacional.",
+            "frase_fuerte": "La soberanía no se negocia. Defender nuestras tierras es defender el trabajo, los recursos y el futuro de la Argentina."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud",
+                "Promoción de exportaciones",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Foco en la capacitación profesional en salud y en el posicionamiento de Mendoza como exportador diversificado y líder en enoturismo, destacando el éxito de políticas públicas sostenidas.",
+            "frase_fuerte": "ProMendoza es un ejemplo de que las políticas públicas sostenidas en el tiempo generan resultados. Sigamos fortaleciendo esta alianza para que cada vez más empresas mendocinas encuentren oportunidades, crezcan y lleven el nombre de Mendoza al mundo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Soberanía territorial",
+                "Acceso a servicios básicos"
+            ],
+            "postura_politica": "Defensa categórica de la tierra misionera frente a la extranjerización, priorizando los recursos y el futuro de los habitantes locales. También destaca obras de acceso a servicios esenciales.",
+            "frase_fuerte": "LO QUE AMAMOS NO SE VENDE. Misiones siempre va a defender su territorio y el derecho de las provincias a proteger sus recursos estratégicos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inversión en energía",
+                "Seguridad",
+                "Vivienda",
+                "Conectividad aérea"
+            ],
+            "postura_politica": "Impulso a la inversión privada en el sector energético y a proyectos de infraestructura que generen empleo y desarrollo, con un fuerte énfasis en la seguridad y la provisión de servicios básicos.",
+            "frase_fuerte": "NEUQUÉN GENERA CONFIANZA EN LOS INVESORES INTERNACIONALES. El 19 de agosto comenzaremos con un proceso de licitación de 15 áreas estratégicas con potencial para el desarrollo de yacimientos no convencionales a cargo de GyP, la empresa provincial."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Seguridad"
+            ],
+            "postura_politica": "Compromiso con la seguridad a través de la acción policial y la eliminación de armas de circulación, destacando la importancia de la prevención del delito.",
+            "frase_fuerte": "Cada arma secuestrada es un riesgo menos: 75 retiradas de circulación en Cipolletti, durante los primeros 6 meses del 2026"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Inversión minera",
+                "Infraestructura",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Liderazgo en la atracción de inversiones mineras de gran escala, destacando la capacidad de gestión y la generación de confianza para proyectos que impulsan el empleo y la infraestructura.",
+            "frase_fuerte": "UN HECHO HISTÓRICO PARA SAN JUAN: firmamos un acuerdo con Vicuña por USD 250 millones; un aporte único, no reembolsable, ni compensable."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura educativa",
+                "Desarrollo industrial",
+                "Vivienda"
+            ],
+            "postura_politica": "Enfoque en la concreción de obras y el fomento de la inversión local, con énfasis en la educación como pilar de desarrollo, la mejora de servicios y la generación de empleo.",
+            "frase_fuerte": "La VIVIENDA volvió y volvió para quedarse. Navidad del 2026 en la casa propia !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Inversión en servicios públicos",
+                "Crítica a gestiones anteriores",
+                "Vivienda",
+                "Turismo"
+            ],
+            "postura_politica": "Política de 'cambio de rumbo' y 'recuperación' post-Kirchnerismo, destacando la transparencia, la inversión en servicios esenciales y el impulso turístico como motores de desarrollo.",
+            "frase_fuerte": "LAS LUMINARIAS QUE ANTES SE ROBABAN, AHORA ILUMINAN A LOS SANTACRUCEÑOS"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Incentivos económicos",
+                "Infraestructura local",
+                "Salud"
+            ],
+            "postura_politica": "Impulso a un modelo provincial productivo e innovador, con medidas de apoyo al sector privado (deducción de Ingresos Brutos) y una gestión activa en infraestructura y salud para fortalecer la provincia.",
+            "frase_fuerte": "Santa Fe es imparable, trabajamos para ser la provincia productiva y más innovadora del país."
+        }
+    ]
+}
