@@ -1,0 +1,110 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jorge Macri (CABA) escala su discurso de 'ley y orden' contra protestas violentas, mientras Gildo Insfran (Formosa) anuncia un aumento salarial del 15% como gesto de autonomía fiscal frente a la crisis nacional. El resto de los gobernadores con actividad en la ventana se repliegan a gestiones locales sin impacto federal, evidenciando una agenda fragmentada.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no presenta un choque directo entre Nación y provincias, pero dos gestos marcan la tensión latente. Por un lado, Jorge Macri endurece su perfil de mano dura con un mensaje que califica a los manifestantes violentos como 'delincuentes anarquistas' y 'enemigos de nuestro estilo de vida', alineándose con la retórica de seguridad nacional. Por otro, Gildo Insfran utiliza el aumento salarial para contrastar con el ajuste nacional, enviando una señal de que su provincia puede sostener el gasto social sin endeudamiento, aunque reconoce la caída de ingresos provinciales. Ambos movimientos son jugadas de posicionamiento: Macri busca capitalizar la seguridad como bandera propia, e Insfran reafirma la vigencia del modelo peronista de Estado presente. \n\nActo 2 — Los Alineamientos: Los gobernadores que hablan se dividen en dos grupos: los que se posicionan simbólicamente (Macri e Insfran) y los que se refugian en la agenda de cabotaje (Zdero, Passalacqua, Figueroa, Poggi, Vidal). No hay un frente común contra Nación, ni siquiera entre los peronistas. Insfran actúa en solitario, mientras que los demás evitan cualquier referencia a la macroeconomía, lo que sugiere un cálculo de supervivencia: no exponerse en un momento de alta volatilidad política. Macri, por su parte, se muestra como el aliado incondicional de la línea dura, pero sin mencionar directamente a la Casa Rosada. \n\nActo 3 — La Micro-política: Leandro Zdero (Chaco) publica un testimonio genérico sin sustancia, Hugo Passalacqua (Misiones) promociona una fiesta local, Rolo Figueroa (Neuquén) anuncia obras de infraestructura, Claudio Poggi (San Luis) inaugura un supermercado, y Claudio Vidal (Santa Cruz) lanza un plan de alumbrado. Son mensajes de gestión pura, que buscan mostrar actividad en un contexto de recesión, pero sin atreverse a abordar la crisis fiscal. El silencio sobre la relación con Nación es ensordecedor: estos gobernadores prefieren no abrir frentes. \n\nActo 4 — Saldo Presidencial: Para el Gobierno nacional, la jornada deja un saldo ambiguo. No recibe críticas abiertas, pero tampoco apoyos explícitos. El único respaldo tácito viene de Macri, pero desde su propia agenda. La ausencia de gobernadores centrales (Buenos Aires, Córdoba, Santa Fe) en la ventana de análisis es un dato en sí mismo: optaron por el silencio estratégico. La Casa Rosada no logra capitalizar el momento, pero tampoco sufre desgaste. El tablero sigue en calma tensa.",
+    "temas_calientes": [
+        {
+            "tema": "Endurecimiento del discurso de seguridad en CABA",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Aumento salarial provincial como señal de autonomía fiscal",
+            "gobernadores_involucrados": [
+                "@insfran_gildo"
+            ]
+        },
+        {
+            "tema": "Repliegue a gestión local sin posicionamiento nacional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "La orden a la Policía es clara: hacer cumplir la ley y defender a esta ciudad de los violentos que pretenden destruirla. Quemaron contenedores, rompieron veredas, destrozaron patrulleros y atacaron a la Policía. El debate se da dentro del congreso o se manifiesta de manera pacífica. Quienes alteran el orden de manera violenta y agreden a la Policía son delincuentes anarquistas. Son enemigos de nuestro estilo de vida.",
+        "por_que_es_clave": "Macri utiliza un lenguaje de guerra cultural para posicionarse como el garante del orden, en un momento en que la seguridad es un tema central de la agenda nacional. La calificación de 'enemigos de nuestro estilo de vida' eleva el conflicto a un plano ideológico, buscando captar votantes de centro-derecha y alinearse con la narrativa de 'mano dura' del oficialismo, pero sin mencionar explícitamente a Milei.",
+        "pregunta_openarg": "¿La estrategia de Jorge Macri de criminalizar la protesta social le suma capital político propio o lo convierte en un rehén de la agenda de seguridad del Gobierno nacional?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "orden público",
+                "usurpaciones",
+                "desalojos",
+                "propiedad privada"
+            ],
+            "postura_politica": "Endurece su discurso de 'ley y orden', calificando a los manifestantes violentos como 'delincuentes anarquistas' y defendiendo la propiedad privada. Busca diferenciarse como un líder firme en seguridad, alineado con la derecha, pero sin mencionar a Nación. La omisión de referencias al gobierno nacional sugiere que quiere construir su propio perfil sin quedar subordinado.",
+            "frase_fuerte": "Son enemigos de nuestro estilo de vida."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "gestión provincial",
+                "testimonios positivos"
+            ],
+            "postura_politica": "Publica un mensaje genérico de motivación sin contenido político concreto. Es un refugio en la agenda local para evitar exponerse a temas federales. No hay crítica ni apoyo a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "aumento salarial",
+                "política salarial",
+                "crisis económica",
+                "orden fiscal"
+            ],
+            "postura_politica": "Anuncia un aumento salarial del 15% para el sector público, destacando que se financia sin endeudamiento a pesar de la caída de ingresos provinciales. Es un mensaje de autonomía y responsabilidad fiscal, que implícitamente critica la política económica nacional al señalar la 'crisis cada vez más profunda' y la 'caída de ingresos públicos'. Se posiciona como un gestor peronista que prioriza a los trabajadores.",
+            "frase_fuerte": "La Argentina está atravesando una crisis cada vez más profunda a partir de las políticas implementadas por el Gobierno Nacional."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "fiesta provincial",
+                "turismo",
+                "evento local"
+            ],
+            "postura_politica": "Promociona el JeepFest de San Vicente, un evento cultural y turístico. Sin contenido político nacional. Gestión local pura.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "viviendas",
+                "infraestructura energética",
+                "obras pluviales",
+                "gestión provincial"
+            ],
+            "postura_politica": "Anuncia tres licitaciones de obras públicas en el norte neuquino. No hay mención a Nación, ni crítica ni apoyo. Se enfoca en la gestión local para mostrar resultados en un contexto de ajuste. Es un repliegue estratégico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "inauguración comercial",
+                "empleo privado",
+                "gestión local"
+            ],
+            "postura_politica": "Inaugura una sucursal de supermercado que genera 40 puestos de trabajo. Mensaje de apoyo a la inversión privada y creación de empleo. Sin contenido político federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "alumbrado público LED",
+                "infraestructura",
+                "gestión provincial"
+            ],
+            "postura_politica": "Anuncia un plan de alumbrado público LED con 15.000 luminarias. Destaca que la compra fue transparente y ahorró mil millones de pesos. Es un mensaje de eficiencia y lucha contra la corrupción, pero sin referencia a Nación. Se posiciona como un gestor honesto.",
+            "frase_fuerte": "Las luminarias que antes se robaban, ahora iluminan a los santacruceños."
+        }
+    ]
+}
