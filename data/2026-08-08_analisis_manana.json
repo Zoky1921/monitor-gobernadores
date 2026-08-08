@@ -1,0 +1,121 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal revela una mezcla de gestión local y confrontación. Jorge Macri (Ciudad Autónoma de Buenos Aires) y Claudio Poggi (San Luis) priorizan la seguridad ciudadana con acciones concretas. Leandro Zdero (Chaco) se alinea con el discurso nacional de previsibilidad económica. Sin embargo, la tensión se eleva significativamente con Sergio Ziliotto (La Pampa), quien lanza un enérgico reclamo a la Corte Suprema y a Mendoza por el Río Atuel, enmarcando la disputa en la defensa de la soberanía. Maximiliano Pullaro (Santa Fe) y Hugo Passalacqua (Misiones) enfocan sus mensajes en el desarrollo y la cohesión interna, mientras Rolando Figueroa (Neuquén) subraya el compromiso provincial, marcando una agenda diversa pero con puntos de fricción notables.",
+    "analisis_profundo": "La dinámica federal de hoy se presenta compleja, con una clara polarización entre gobernadores que enfocan sus energías en la gestión local y aquellos que elevan el tono en conflictos de índole interprovincial o nacional. Jorge Macri (Ciudad Autónoma de Buenos Aires) reafirma su política de 'Ley y orden' con la detención de una banda narco, consolidando un mensaje de firmeza en seguridad. De manera similar, Claudio Poggi (San Luis) destaca la implementación de 'Alarmas Ciudadanas' con participación vecinal, mostrando una aproximación pragmática y comunitaria a la seguridad pública. Estos gestores operan en un marco de acción directa sobre problemas locales.\n\nEn el ámbito económico, Leandro Zdero (Chaco) articula un mensaje de apoyo al Gobierno Nacional, al vincular las inversiones con la 'previsibilidad y confianza', un eco directo de la narrativa oficial. No obstante, la nota más discordante la pone Sergio Ziliotto (La Pampa), cuyo pronunciamiento en el Día de la Lucha por el Río Atuel es un desafío frontal. Su exigencia a la Corte Suprema para que haga cumplir los fallos sobre el caudal del Atuel, y la comparación con la defensa de las Malvinas, escala el conflicto a un nivel de 'soberanía', lo que indudablemente genera un clima de alta tensión federal y judicial.\n\nContrariamente, Maximiliano Pullaro (Santa Fe) opta por un mensaje de progreso y cercanía, mostrando obras de vivienda e infraestructura cultural en el interior de su provincia, buscando transmitir una imagen de 'Santa Fe imparable' a través de la gestión. Hugo Passalacqua (Misiones) se centra en la cohesión política interna, anunciando un nuevo bloque legislativo para 'trabajar por toda la gran familia misionera', lo que sugiere un fortalecimiento de su base de gobernabilidad. Rolando Figueroa (Neuquén) refuerza esta línea de defensa provincial, comprometiéndose a 'defender Neuquén', lo que puede interpretarse como una postura proactiva frente a cualquier intento de menoscabo de los intereses provinciales. La jornada, por lo tanto, equilibra la gestión productiva con una latente, y en un caso explícita, confrontación de intereses entre distintos niveles de gobierno.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y Orden Público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Defensa de la Soberanía Hídrica y Reclamos Interprovinciales",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Inversión y Previsibilidad Económica",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Gestión Local y Desarrollo de Infraestructura",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@claudiojpoggi",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Cohesión y Defensa Provincial",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "EL RÍO ATUEL TAMBIÉN ES PAMPEANO. En el Día de la Lucha por el Río Atuel reafirmamos una causa que atraviesa generaciones y forma parte de nuestra identidad como pueblo. Por eso, una vez más, exigimos que la Corte Suprema haga cumplir sus fallos de 2017 y 2020. En 1947, Ángel Garay le envió un telegrama al presidente Juan Domingo Perón para denunciar que Mendoza había cortado el Atuel. A casi ocho décadas de aquel reclamo, seguimos peleando por lo mismo: que el agua vuelva a correr por territorio pampeano. Porque a La Pampa le robaron un río. Y con ese corte provocaron un verdadero ecocidio en nuestro oeste, destruyendo el ambiente y afectando la vida de generaciones enteras. La Corte Suprema ya reconoció ese daño. En 2017 declaró la interjurisdiccionalidad del Atuel y en 2020 fijó un caudal mínimo permanente de 3,2 m³ por segundo. Sin embargo, Mendoza sigue sin cumplir y los fallos continúan sin hacerse efectivos. Por eso presentamos un nuevo pronto despacho. No necesitamos nuevas sentencias ni más diagnósticos: necesitamos que la Corte haga cumplir lo que ya resolvió. Más aún cuando las propias autoridades mendocinas reconocen la disponibilidad de agua. Cada vez queda más claro que impedir que el Atuel llegue a La Pampa no responde razones hídricas. No pedimos privilegios. Exigimos que se cumplan los fallos y que nos devuelvan el río que nos pertenece. El Atuel también es pampeano. Es un ícono de nuestra lucha: defender nuestros ríos, defender las Malvinas, defender nuestra tierra. Defender nuestra soberanía.",
+        "por_que_es_clave": "El gobernador Sergio Ziliotto (La Pampa) reactiva con extrema vehemencia el conflicto hídrico con Mendoza, elevando el tono al exigir directamente a la Corte Suprema el cumplimiento de fallos previos. La conexión explícita con la 'defensa de la soberanía' y las Malvinas posiciona este reclamo como un tema de alto impacto federal y una confrontación abierta.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Narcotráfico",
+                "Orden público"
+            ],
+            "postura_politica": "Mantiene una postura firme y de 'mano dura' contra la delincuencia, en línea con el discurso de seguridad ciudadana que es bandera de su gestión. Destaca acciones concretas y exitosas en el combate al narcotráfico.",
+            "frase_fuerte": "Estos no joden más. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Economía",
+                "Inversiones",
+                "Previsibilidad"
+            ],
+            "postura_politica": "Se muestra alineado con las políticas económicas del Gobierno Nacional, enfatizando la importancia de la previsibilidad y la confianza para atraer inversiones a la provincia, buscando consolidar un clima favorable para el desarrollo.",
+            "frase_fuerte": "Las inversiones llegan cuando hay previsibilidad y confianza."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Política interna",
+                "Cohesión provincial",
+                "Legislatura"
+            ],
+            "postura_politica": "Focaliza en la construcción política interna y la unidad, celebrando la formación de un nuevo bloque legislativo que busca trabajar en conjunto por los intereses de la provincia, señal de fortalecimiento de su base de apoyo.",
+            "frase_fuerte": "La única aspiración es seguir trabajando por toda la gran familia misionera."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Defensa provincial",
+                "Compromiso de gestión"
+            ],
+            "postura_politica": "A través de un retuit, refuerza un mensaje de compromiso inquebrantable con la defensa de los intereses de Neuquén, posicionándose como un garante de la autonomía y el bienestar provincial.",
+            "frase_fuerte": "Estamos para defender Neuquén, esa es nuestra responsabilidad, ese es nuestro compromiso."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Conflicto hídrico interprovincial",
+                "Soberanía hídrica",
+                "Cumplimiento judicial",
+                "Federalismo"
+            ],
+            "postura_politica": "Adopta una posición enérgica y confrontativa, exigiendo a la Corte Suprema el cumplimiento de fallos históricos sobre el Río Atuel. Vincula el reclamo hídrico a una cuestión de soberanía y denuncia el 'ecocidio' en su provincia.",
+            "frase_fuerte": "No pedimos privilegios. Exigimos que se cumplan los fallos y que nos devuelvan el río que nos pertenece."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Seguridad ciudadana",
+                "Gestión local",
+                "Participación vecinal"
+            ],
+            "postura_politica": "Destaca una gestión municipal proactiva en materia de seguridad, promoviendo la participación ciudadana a través de herramientas tecnológicas. Se enfoca en soluciones concretas y cercanas a los vecinos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Gestión local",
+                "Desarrollo provincial",
+                "Vivienda",
+                "Cultura"
+            ],
+            "postura_politica": "Presenta una imagen de gestión activa y cercana a los municipios del interior, celebrando logros en infraestructura, cultura y vivienda, bajo la consigna de transformar la provincia en 'imparable'.",
+            "frase_fuerte": "¡A la Invencible la estamos convirtiendo en Imparable!"
+        }
+    ]
+}
