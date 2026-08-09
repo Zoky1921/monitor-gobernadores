@@ -1,0 +1,67 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por el contraste entre el silencio de la mayoría de los gobernadores y el ataque directo de Sergio Ziliotto (La Pampa) contra el ajuste nacional, defendiendo su modelo previsional propio. El resto de los mandatarios se refugió en agenda local o protocolo, sin posicionamientos federales de peso.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal domina la escena con Ziliotto como único vocero de una provincia que desafía abiertamente a la Casa Rosada. Al exhibir que su jubilación mínima duplica la nacional, el pampeano no solo defiende su gestión, sino que acusa al gobierno de Milei de ajustar sobre los más vulnerables. La omisión de otros gobernadores centrales (Buenos Aires, Córdoba, Santa Fe) en este tema revela un cálculo de supervivencia: no quieren quemar puentes con Nación mientras aún negocian fondos.\n\nActo 2 — Los Alineamientos: Ziliotto se consolida como el líder de la resistencia peronista en materia previsional, mientras que Pullaro (Santa Fe) apuesta a la agenda de infraestructura y eventos deportivos como motor de su gestión, sin enfrentar a Nación. Figueroa (Neuquén) y Poggi (San Luis) se mantienen en un perfil bajo, combinando condolencias y saludos cotidianos. Insfran (Formosa) celebra un aniversario hospitalario, mostrando que su capital político está en la gestión local, no en la pelea federal.\n\nActo 3 — La Micro-política: Los gobernadores periféricos optan por el refugio en la agenda de cabotaje. Poggi saluda a las familias sanluiseñas, Figueroa despide a un profesor universitario, Insfran festeja un hospital. Estos gestos, aunque protocolares, refuerzan la idea de que el verdadero campo de batalla está en la macroeconomía y que, sin recursos, la gestión local es solo un bálsamo.\n\nActo 4 — Saldo Presidencial: Para Milei, el día deja una señal de alerta: Ziliotto logró instalar la discusión previsional sin que otros gobernadores lo secundaran, pero tampoco lo contradijeron. El silencio de los grandes (Kicillof, Llaryora, Pullaro) sugiere que la estrategia de la Rosada de atomizar el frente peronista está funcionando, aunque el costo de no tener un interlocutor claro puede profundizar las grietas fiscales.",
+    "temas_calientes": [
+        {
+            "tema": "Defensa de las cajas previsionales provinciales vs. ajuste nacional",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "EN LA PAMPA, LAS JUBILACIONES SE DEFIENDEN\n\nLa jubilación mínima provincial alcanzó en julio los $1.049.985: es la más alta del país y más que duplica la mínima nacional.\n\nNo es casualidad. Es consecuencia de una política que defiende el salario, sostiene paritarias periódicas y traslada esas mejoras a nuestros jubilados y pensionados.\n\nMientras otros eligen ajustar sobre quienes trabajaron toda una vida, nosotros elegimos cuidar sus ingresos.\n\nY vamos a seguir reclamando a Nación cada peso que le corresponde a La Pampa por nuestra Caja Previsional.\n\nUn modelo histórico de cómo gobernar: defendiendo a nuestra gente.\n\n+info 👉 https://t.co/Fbw3zhsQPa",
+        "por_que_es_clave": "Ziliotto utiliza la comparación de las jubilaciones para marcar una diferencia ideológica y política con el gobierno nacional, reclamando a la vez más fondos para su caja. Es un doble golpe: refuerza su base peronista y pone a Milei contra las cuerdas en el tema previsional.",
+        "pregunta_openarg": "¿Cuánto tiempo puede sostener La Pampa su modelo previsional propio sin que Nación corte los fondos de coparticipación o exija un ajuste?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "jubilaciones provinciales",
+                "conflicto fiscal con Nación",
+                "defensa del modelo pampeano"
+            ],
+            "postura_politica": "Opositora al gobierno nacional. Utiliza la jubilación mínima más alta del país como evidencia de su gestión exitosa y como crítica al ajuste de Milei. Reclama fondos adeudados por la caja previsional, posicionándose como defensor de los jubilados frente a la 'austeridad' nacional.",
+            "frase_fuerte": "Mientras otros eligen ajustar sobre quienes trabajaron toda una vida, nosotros elegimos cuidar sus ingresos."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "inauguración de estadio",
+                "Juegos Suramericanos 2026",
+                "deporte e infraestructura"
+            ],
+            "postura_politica": "Gestionista y propositiva. Se enfoca en mostrar obras y eventos que posicionan a Santa Fe como capital deportiva, evitando conflictos con Nación. La agenda es de alto perfil local pero sin roce federal.",
+            "frase_fuerte": "¡A la Invencible no la para nadie! Estamos demostrando de lo que somos capaces, posicionando a #Rosario y a toda Santa Fe como la capital nacional del deporte."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "fallecimiento de profesor universitario",
+                "condolencias"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a un gesto institucional de duelo, sin abordar temas de gestión o política nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "saludo dominical a las familias"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Tweet protocolar de fin de semana, sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "aniversario de hospital",
+                "salud pública"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Celebración institucional de un hospital, reforzando su vínculo con la comunidad pero sin posicionamiento nacional.",
+            "frase_fuerte": null
+        }
+    ]
+}

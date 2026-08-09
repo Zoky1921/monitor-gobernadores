@@ -1,0 +1,49 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de hoy se divide entre la crítica explícita al gobierno nacional y la reafirmación de la capacidad de gestión provincial. El gobernador Ziliotto (La Pampa) eleva el tono al defender las jubilaciones provinciales y reclamar fondos a Nación, marcando una clara confrontación fiscal. En contraste, el gobernador Pullaro (Santa Fe) se enfoca en logros de infraestructura deportiva, inaugurando el 'Invencible Arena' en Rosario, un proyecto que simboliza el desarrollo y la autonomía local. Esta jornada subraya las tensiones por recursos y la búsqueda de identidad y progreso desde las regiones, sin un tweet de hoy que capture la jornada.",
+    "analisis_profundo": "La dinámica federal actual revela una clara división entre provincias que confrontan abiertamente la política económica nacional y aquellas que priorizan la autonomía de gestión y el desarrollo local. El gobernador Ziliotto (La Pampa) adopta una postura de frontal oposición al gobierno central, manifestando su determinación de defender a los jubilados provinciales y reclamar 'cada peso que le corresponde a La Pampa por nuestra Caja Previsional'. Esta declaración es un recordatorio de las disputas fiscales y previsionales históricas, intensificadas por el contexto de ajuste nacional. La Pampa, con una jubilación mínima provincial que casi duplica la nacional, se erige como un modelo de 'cuidado de ingresos' en contraposición a las políticas de 'ajuste' atribuidas a Nación. Este enfoque no solo busca proteger a un sector vulnerable, sino también reafirmar la soberanía financiera provincial frente a las presiones federales.\nPor otro lado, el gobernador Pullaro (Santa Fe) despliega una estrategia centrada en el orgullo y la capacidad de gestión provincial. La inauguración del 'Invencible Arena' en Rosario, como parte de la infraestructura para los Juegos Suramericanos 2026, es un mensaje potente de proactividad y consecución de grandes proyectos sin aludir directamente a la Nación. Sus palabras de 'ganarle al escepticismo y al ‘no se puede’' y 'dar vuelta la página de la historia' resuenan como una afirmación de la autonomía santafesina para transformar su realidad. Aunque no menciona explícitamente al gobierno central, su énfasis en los logros locales y la 'demostración de que somos una provincia imparable' se interpreta como un contrapunto a narrativas que podrían sugerir inacción o dependencia. La polarización se intensifica no solo por la crítica directa, sino también por el contraste entre modelos de gestión y comunicación política frente a la crisis. La agenda federal se teje entre la defensa de recursos y la afirmación de la capacidad de desarrollo propio.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamo Previsional y Autonomía Fiscal",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Desarrollo Local",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Jubilaciones y pensiones",
+                "Finanzas provinciales",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "El gobernador Ziliotto (La Pampa) defiende activamente el sistema previsional provincial, posicionando la jubilación mínima como la más alta del país. Critica la política de ajuste del gobierno nacional y reafirma su intención de reclamar los fondos previsionales correspondientes a La Pampa, mostrando una postura confrontativa y protectora de los ingresos locales frente a las políticas federales.",
+            "frase_fuerte": "Mientras otros eligen ajustar sobre quienes trabajaron toda una vida, nosotros elegimos cuidar sus ingresos."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Desarrollo regional",
+                "Gestión provincial",
+                "Deporte y cultura"
+            ],
+            "postura_politica": "El gobernador Pullaro (Santa Fe) enfatiza el progreso provincial a través de la inauguración de infraestructura clave para eventos internacionales como los Juegos Suramericanos. Su discurso resalta la capacidad de la provincia para superar desafíos y generar desarrollo sin dependencia de la Nación, proyectando una imagen de autonomía y liderazgo en la gestión local.",
+            "frase_fuerte": "Le estamos ganando al escepticismo y al 'no se puede'. No es solo inaugurar una obra: es dar vuelta la página de la historia."
+        }
+    ]
+}
