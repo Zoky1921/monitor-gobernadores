@@ -1,0 +1,153 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada muestra un tablero fragmentado: Kicillofok intensifica su campaña presidencial en Mendoza, Zdero agradece a Milei por inversiones, Ziliotto reivindica su caja jubilatoria frente a Nación, y Pullaro capitaliza obras deportivas. Predomina la agenda local, con alineamientos y distancias calculadas.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: No hay un choque frontal con la Casa Rosada, pero sí una tensión soterrada entre dos modelos de gobernabilidad. Kicillofok (Buenos Aires) despliega una campaña explícita de cara a 2027, erosionando el relato de ajuste nacional con gestos territoriales. Ziliotto (La Pampa) defiende su caja previsional como un bastión de autonomía, mientras Zdero (Chaco) se alinea sin ambages con el oficialismo, agradeciendo a Milei y Caputo por la confianza inversora. La Nación observa: unos la confrontan, otros la abrazan, la mayoría la esquiva.\n\nActo 2 — Los Alineamientos: El día exhibe tres estrategias. Zdero es el socio explícito, llevando al Chaco al redil del ajuste con promesas de inversión. Kicillofok es el antagonista que construye poder desde la periferia, con giras y actos que replican la estructura de un candidato nacional. Ziliotto se ubica en la ambigüedad calculada: no desafía de frente, pero marca la cancha con datos concretos que contrastan con la narrativa de sacrificio de Nación. Pullaro (Santa Fe) y Llaryora (Córdoba) se refugian en la gestión de obras y eventos, evitando cualquier pronunciamiento que los encasille.\n\nActo 3 — La Micro-política: Los gobernadores periféricos y de provincias chicas eluden la macro. Torres (Chubut) tuitea sobre automovilismo, Valdés (Corrientes) sobre una fiesta local y la policía, Insfrán (Formosa) sobre un hospital, Poggi (San Luis) sobre alarmas vecinales y Vidal (Santa Cruz) sobre un campeonato de natación en aguas frías. Son gestos de supervivencia: muestran gestión para ocultar la asfixia fiscal o la falta de margen para discutir el modelo nacional. El silencio sobre la coyuntura económica es ensordecedor.\n\nActo 4 — Saldo Presidencial: Para Milei, el día deja un saldo mixto. Gana un aliado incondicional en Zdero, pero pierde la batalla simbólica en Buenos Aires y La Pampa. La Casa Rosada no logra imponer su agenda en el territorio; los gobernadores que no se alinean prefieren el refugio de la obra pública local o la confrontación soterrada. El capital político presidencial se diluye en la ausencia de una narrativa federal unificada.",
+    "temas_calientes": [
+        {
+            "tema": "Campaña electoral y construcción de alternativa 2027",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Alineamiento explícito con el gobierno nacional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Defensa de recursos provinciales y caja previsional",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura y obras deportivas",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Agenda local sin impacto federal",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@gustavovaldesok",
+                "@insfran_gildo",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "EN LA PAMPA, LAS JUBILACIONES SE DEFIENDEN\n\nLa jubilación mínima provincial alcanzó en julio los $1.049.985: es la más alta del país y más que duplica la mínima nacional.\n\nNo es casualidad. Es consecuencia de una política que defiende el salario, sostiene paritarias periódicas y traslada esas mejoras a nuestros jubilados y pensionados.\n\nMientras otros eligen ajustar sobre quienes trabajaron toda una vida, nosotros elegimos cuidar sus ingresos.\n\nY vamos a seguir reclamando a Nación cada peso que le corresponde a La Pampa por nuestra Caja Previsional.\n\nUn modelo histórico de cómo gobernar: defendiendo a nuestra gente.",
+        "por_que_es_clave": "Ziliotto contrasta su gestión con el ajuste nacional, usando datos concretos para marcar autonomía y reclamar deuda previsional. Es un mensaje de resistencia fiscal directo a la Casa Rosada, enmarcado en la defensa de los derechos adquiridos.",
+        "pregunta_openarg": "¿Puede una provincia sostener un modelo de bienestar propio mientras la Nación aplica ajuste, o es una estrategia insostenible que solo posterga el conflicto fiscal?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Campaña electoral",
+                "gestión educativa",
+                "movilización política"
+            ],
+            "postura_politica": "Construcción de candidatura presidencial 2027 desde el territorio. Oposición explícita a Milei, con énfasis en la defensa de la soberanía y la justicia social.",
+            "frase_fuerte": "es tiempo de caminar, escuchar, organizarse y trabajar para volver a poner a la Argentina de pie."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Incentivos a inversiones",
+                "gestión provincial",
+                "aniversario provincial"
+            ],
+            "postura_politica": "Alineamiento explícito con el gobierno nacional. Agradece a Milei y Caputo, mostrando sintonía con el modelo de ajuste y confianza inversora.",
+            "frase_fuerte": "Las inversiones llegan cuando hay previsibilidad y confianza. @JMilei @LuisCaputoAR @diegosantilli"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Automovilismo",
+                "deporte provincial"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión de promoción de actividades regionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura hídrica",
+                "homenaje fúnebre"
+            ],
+            "postura_politica": "Gestión provincial con foco en obras estratégicas. Evita posicionamiento nacional, se refugia en la planificación local.",
+            "frase_fuerte": "Gobernar es anticiparse, planificar y resolver."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Fiesta popular",
+                "aniversario policial"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Salud pública",
+                "aniversario hospital"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Jubilaciones",
+                "caja previsional",
+                "defensa de recursos provinciales"
+            ],
+            "postura_politica": "Reivindicación de la gestión propia frente al ajuste nacional. Marca distancia con Nación y reclama deuda previsional.",
+            "frase_fuerte": "La jubilación mínima provincial alcanzó en julio los $1.049.985: es la más alta del país y más que duplica la mínima nacional."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Saludo dominical"
+            ],
+            "postura_politica": "Sin contenido político. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Deporte internacional",
+                "turismo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Promoción de eventos para dinamizar la economía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Inauguración estadio",
+                "Juegos Suramericanos",
+                "ajedrez"
+            ],
+            "postura_politica": "Orgullo provincial y gestión de obras deportivas. Sin referencia a Nación, pero con perfil de gestión exitosa.",
+            "frase_fuerte": "¡A la Invencible no la para nadie!"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Ley de Tierras",
+                "nota de opinión"
+            ],
+            "postura_politica": "Posicionamiento sobre soberanía territorial, en línea con el peronismo. Difunde la postura de Zamora contra la extranjerización.",
+            "frase_fuerte": null
+        }
+    ]
+}

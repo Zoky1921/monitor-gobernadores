@@ -1,0 +1,202 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La jornada federal muestra un marcado contraste entre la ofensiva política del peronismo bonaerense de Axel Kicillof (Buenos Aires) contra el gobierno nacional, proyectando su figura a nivel federal, y la agenda de gestión y desarrollo local de la mayoría de los gobernadores. Se destaca la defensa de las jubilaciones provinciales por Sergio Ziliotto (La Pampa) y una crítica indirecta de Gerardo Zamora (Santiago del Estero) a la ley de tierras. Otros mandatarios, como Leandro Zdero (Chaco), Martín Llaryora (Córdoba), Gustavo Valdés (Corrientes) y Maximiliano Pullaro (Santa Fe), se centran en inversiones, infraestructura y promoción de eventos locales, mostrando un enfoque en la autonomía y la gestión propia frente a un contexto nacional complejo.",
+    "analisis_profundo": "El escenario político federal se caracteriza por una polarización entre la gestión provincial y las proyecciones políticas nacionales. El gobernador Axel Kicillof (Buenos Aires) intensifica su perfil de opositor, utilizando las redes sociales para criticar directamente al gobierno de Javier Milei y, al mismo tiempo, expandir su base de apoyo fuera de su provincia, como evidencian los retweets sobre la apertura de locales de campaña en Mendoza (otra provincia). Su equipo, a través de Kicillof, también articula un llamado a la unidad del 'campo popular' con miras a las elecciones de 2027, lo que subraya una clara estrategia de liderazgo nacional.\n\nEn contraste, la mayoría de los gobernadores mantienen una agenda fuertemente arraigada en la gestión local. Leandro Zdero (Chaco) apuesta a la inversión privada con un nuevo régimen de incentivos, buscando un 'antes y un después' para la economía chaqueña. Martín Llaryora (Córdoba) enfoca sus anuncios en obras de infraestructura 'históricas' para garantizar servicios básicos como el agua, un pilar de su discurso de 'gobernar es anticiparse'. Gustavo Valdés (Corrientes) diversifica su presencia con apoyo a fiestas locales que dinamizan la economía regional y el reconocimiento a las fuerzas de seguridad. Gildo Insfrán (Formosa) celebra hitos en salud pública, resaltando el rol social del Estado. Ignacio Torres (Chubut) apoya el automovilismo provincial como parte de la cultura local. Claudio Vidal (Santa Cruz) promueve eventos deportivos internacionales como el Winter Swimming World Cup, buscando posicionar a El Calafate (Santa Cruz) como un destino turístico clave y dinamizador económico. Maximiliano Pullaro (Santa Fe) exhibe orgullo por la inauguración de infraestructura deportiva como el 'Invencible Arena' en Rosario (Santa Fe) y recibe a figuras del deporte, proyectando una imagen de provincia 'imparable' y líder en eventos. Claudio Poggi (San Luis) se enfoca en seguridad ciudadana con alarmas y el fomento de inversión local. Oscar Herrera Ahuad (Misiones) anuncia la conformación de un nuevo bloque político interno y promueve eventos turísticos.\n\nLa tensión entre Nación y provincias resurge en temas específicos. Sergio Ziliotto (La Pampa) eleva el tono al defender las jubilaciones provinciales, presentándolas como un modelo a nivel nacional y denunciando un 'ajuste' del gobierno central. Elías Suárez (Santiago del Estero), al retwittear una nota de opinión de Gerardo Zamora (Santiago del Estero) sobre la Ley de Tierras, se suma a la discusión sobre la soberanía provincial frente a posibles injerencias nacionales. Rolando Figueroa (Neuquén) se enfoca en comunicación personal de duelo. Estos pronunciamientos demuestran que, más allá de la gestión interna, existe una vigilancia constante sobre las políticas nacionales que puedan impactar la autonomía y los recursos provinciales, manteniendo el clima político en un delicado equilibrio. La jornada refleja una dinámica federal compleja donde las agendas locales se entremezclan con las proyecciones políticas a nivel nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Proyección política y oposición nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@EliasSuarezSDE",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Infraestructura y servicios públicos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Fomento económico y atracción de inversiones",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Promoción deportiva y turística",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@gustavovaldesok",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Defensa de la autonomía y federalismo fiscal",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@EliasSuarezSDE",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Carli_Bianco)",
+        "texto": "El futuro es del pueblo argentino, por más que Milei pretenda lo contrario. En el plenario del Movimiento Derecho al Futuro que compartimos en Alberti con compañeros de la 4° sección reafirmamos la convicción de generar la alternativa de justicia social que nuestro pueblo se merece. Arrancamos un camino para seguir recorriendo la provincia y construir una candidatura unificada del campo popular para ganar las elecciones de 2027. La alternativa nace desde abajo y es con todos. Somos mayoría los que creemos que una Argentina mejor es posible. 🇦🇷✌️",
+        "por_que_es_clave": "Este tweet posiciona a Axel Kicillof (Buenos Aires) como el principal referente de la oposición al gobierno nacional, no solo criticando sus políticas actuales sino también articulando una estrategia clara para las elecciones de 2027. La mención de una 'candidatura unificada del campo popular' sugiere una ambición que trasciende la provincia de Buenos Aires y busca construir una alternativa federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Política nacional",
+                "Campaña electoral",
+                "Educación",
+                "Infraestructura",
+                "Oposición al Gobierno Nacional"
+            ],
+            "postura_politica": "Posiciona su figura como referente de la oposición nacional, criticando la gestión de Milei y buscando articular una candidatura unificada para 2027. También destaca logros de gestión provincial en educación e infraestructura como contrapunto al modelo nacional.",
+            "frase_fuerte": "El futuro es del pueblo argentino, por más que Milei pretenda lo contrario."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Inversión",
+                "Política fiscal"
+            ],
+            "postura_politica": "Impulsa políticas pro-inversión para dinamizar la economía provincial. Su enfoque es generar confianza para atraer capitales y promover un cambio transformador en Chaco (Chaco).",
+            "frase_fuerte": "Impulsamos el Régimen de Incentivo a Nuevas Inversiones (RINI) 'Chaco Invierte'. Un antes y un después para la provincia."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Deporte",
+                "Cultura provincial",
+                "Apoyo a actividades locales"
+            ],
+            "postura_politica": "Centrado en el apoyo a actividades deportivas que forman parte de la identidad provincial. Muestra un enfoque en el arraigo y la promoción de las pasiones locales en Chubut (Chubut).",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura hídrica",
+                "Servicios públicos",
+                "Gestión"
+            ],
+            "postura_politica": "Destaca la proactividad de su gestión en obras estratégicas de gran envergadura para garantizar servicios esenciales a futuras generaciones, resaltando la planificación y la inversión provincial en Córdoba (Córdoba). También muestra un lado humano ante un fallecimiento.",
+            "frase_fuerte": "INVERSIÓN HISTÓRICA: INFRAESTRUCTURA QUE GARANTIZA AGUA PARA LAS PRÓXIMAS GENERACIONES"
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Economía regional",
+                "Eventos culturales",
+                "Seguridad"
+            ],
+            "postura_politica": "Apoya el desarrollo de eventos populares que impulsan la economía local y la identidad cultural. También resalta el rol de las fuerzas de seguridad en la protección ciudadana en Corrientes (Corrientes).",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Aniversarios institucionales"
+            ],
+            "postura_politica": "Enfocado en celebrar los logros y la trayectoria de instituciones clave en salud pública, reafirmando el compromiso con el bienestar social y la calidad de los servicios estatales en Formosa (Formosa).",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Seguridad social",
+                "Jubilaciones",
+                "Federalismo fiscal",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Defiende enérgicamente las políticas sociales provinciales, especialmente en materia previsional, destacando el rol del Estado pampeano y criticando el modelo de ajuste nacional. Mantiene una postura fiscalista y federalista confrontativa en La Pampa (La Pampa).",
+            "frase_fuerte": "EN LA PAMPA, LAS JUBILACIONES SE DEFIENDEN"
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Política interna",
+                "Conformación de bloques",
+                "Turismo",
+                "Eventos locales",
+                "Fomento económico"
+            ],
+            "postura_politica": "Enfocado en la articulación política interna y la continuidad del trabajo provincial. Impulsa el turismo y las actividades que fortalecen la identidad y economía local en Misiones (Misiones).",
+            "frase_fuerte": "Feliz de construir colectivamente con los integrantes del nuevo bloque Movimiento por lo que Viene."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Comunicación personal",
+                "Duelo"
+            ],
+            "postura_politica": "Comparte un mensaje de condolencia por el fallecimiento de un referente universitario, mostrando cercanía y respeto por la comunidad educativa en Neuquén (Neuquén).",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Seguridad ciudadana",
+                "Tecnología",
+                "Gestión local",
+                "Inversión privada",
+                "Empleo",
+                "Desarrollo económico local"
+            ],
+            "postura_politica": "Enfocado en la seguridad ciudadana a través de la participación vecinal y la tecnología, así como en el apoyo a la inversión privada y la generación de empleo en la provincia de San Luis (San Luis).",
+            "frase_fuerte": "Esta tarde, junto a la Comisión Vecinal del Barrio PORTAL DE LAS SIERRAS de la Ciudad de San Luis inauguramos la puesta en funcionamiento de las ALARMAS CIUDADANAS para el Barrio."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Turismo",
+                "Deporte internacional",
+                "Desarrollo económico",
+                "Servicios públicos",
+                "Infraestructura"
+            ],
+            "postura_politica": "Impulsor de eventos deportivos de nivel internacional para atraer turismo, generar movimiento económico y posicionar a la provincia en la agenda nacional e internacional. También destaca la inversión en infraestructura de servicios públicos en Santa Cruz (Santa Cruz).",
+            "frase_fuerte": "EL CALAFATE EN LA AGENDA NACIONAL: AYER CERRAMOS UN EVENTO QUE UNIÓ DEPORTE, TURISMO Y DESARROLLO"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Juegos Suramericanos",
+                "Deporte",
+                "Orgullo provincial",
+                "Cultura"
+            ],
+            "postura_politica": "Exhibe con orgullo los avances en infraestructura para grandes eventos deportivos, consolidando la imagen de Santa Fe (Santa Fe) como un polo deportivo y destacando la capacidad de la provincia para lograr objetivos ambiciosos. Fomenta el sentido de pertenencia y la motivación ciudadana.",
+            "frase_fuerte": "¡A la Invencible no la para nadie! Estamos demostrando de lo que somos capaces, posicionando a #Rosario y a toda Santa Fe como la capital nacional del deporte."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Federalismo",
+                "Soberanía provincial",
+                "Ley de Tierras",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Se posiciona en defensa de la soberanía provincial y los recursos naturales, al compartir una nota crítica sobre la Ley de Tierras nacional, mostrando preocupación por la autonomía de las provincias en Santiago del Estero (Santiago del Estero).",
+            "frase_fuerte": "Les comparto mi nota de opinión sobre la Ley de Tierras en el diario @perfilcom 🗞️"
+        }
+    ]
+}
