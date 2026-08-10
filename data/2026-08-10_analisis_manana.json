@@ -1,0 +1,97 @@
+{
+    "clima_general": "GESTION",
+    "resumen_ejecutivo": "Los gobernadores exhiben una marcada agenda de gestión y desarrollo provincial en el día de hoy, focalizando en la inversión pública y la articulación para el crecimiento local. Se destacan iniciativas de infraestructura clave como el control unificado entre Mendoza y San Juan, y el fomento a la producción agropecuaria e industrial en Santa Fe, con un fuerte mensaje sobre el potencial del 'interior productivo'. Neuquén, por su parte, se enfoca en la ciberseguridad ciudadana, una adaptación crucial a los nuevos desafíos del delito. La jornada refleja un compromiso con la administración eficiente y la provisión de servicios esenciales, sin confrontaciones directas con el gobierno nacional, aunque subrayando la autonomía y el rol de las provincias en el progreso del país.",
+    "analisis_profundo": "La agenda federal de los gobernadores en la jornada de hoy se define por un enfoque robusto en la gestión interna y la proyección de desarrollo provincial, evidenciando una estrategia de fortalecer las bases locales en un contexto de incertidumbre nacional. Alfredo Cornejo (Mendoza) demuestra una visión interprovincial al licitar un control unificado con San Juan, una inversión significativa que busca agilizar la conectividad y la seguridad en la Ruta Nacional 40. Este tipo de proyectos, que trascienden las fronteras provinciales inmediatas, subraya la necesidad de soluciones regionales a problemas compartidos, sin esperar directrices o financiamiento exclusivo desde Nación. En una línea similar de avance estratégico, Rolando Figueroa (Neuquén) aborda la ciberseguridad ciudadana con la creación de una dirección provincial específica, reconociendo la evolución de los delitos y la importancia de la prevención. Esta iniciativa posiciona a Neuquén (Neuquén) a la vanguardia en la adaptación a nuevas formas de criminalidad, reflejando una administración proactiva en la protección de sus ciudadanos. Maximiliano Pullaro (Santa Fe), por su parte, reitera su compromiso inquebrantable con el sector productivo en la Expo Rural de Reconquista, defendiendo al campo y la industria como pilares del desarrollo. Su llamado a que 'la Argentina mire a este interior productivo' es un mensaje claro sobre el rol de las economías regionales en la recuperación nacional y una reafirmación de la identidad productiva santafesina. Hugo Passalacqua (Misiones) utiliza un retuit para promover la Fiesta Nacional del Inmigrante, destacando el movimiento económico y turístico, una estrategia común para dinamizar las economías locales a través de eventos culturales. Ricardo Quintela (La Rioja) se suma a la tónica ceremonial con la celebración del Himno Provincial, enfocándose en la identidad y el arraigo cultural. En conjunto, estos mensajes delinean una provincia activa, que invierte en infraestructura, seguridad, producción y cultura, buscando autonomía y liderazgo regional. La falta de menciones directas al gobierno nacional, salvo por la implicación de que las provincias deben generar su propio impulso, sugiere un período de consolidación interna y de afirmación del federalismo desde la acción y la gestión concreta. La narrativa predominante es de construcción y avance, subrayando la capacidad de autogestión y resiliencia de las administraciones provinciales ante los desafíos generales del país.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo de Infraestructura y Conectividad Regional",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y Adaptación a Nuevas Amenazas (Ciberseguridad)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Fomento al Sector Productivo Regional",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Promoción Cultural y Turística",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Identidad y Patrimonio Provincial",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Ayer inauguramos la 90° Expo Rural de Reconquista con un mensaje muy claro: este gobierno provincial cree, acompaña y va a defender siempre al campo y a la industria. Lo demostramos con hechos concretos, invirtiendo en la infraestructura que nuestra provincia necesita para estar siempre un paso adelante en logística productiva. Tenemos la convicción de que, si la Argentina mira a este interior productivo, tiene una oportunidad enorme de desarrollarse y salir adelante",
+        "por_que_es_clave": "El gobernador (Santa Fe) articula la gestión local con una visión nacional, posicionando a la provincia como motor económico clave y defendiendo el sector productivo frente a los desafíos generales. Su mensaje es una clara reafirmación del federalismo económico desde las provincias.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Identidad Provincial",
+                "Cultura"
+            ],
+            "postura_politica": "Enfocado en la reafirmación de la identidad cultural y el orgullo local, utilizando símbolos como el himno provincial para generar unidad y sentido de pertenencia.",
+            "frase_fuerte": "Hoy celebramos con orgullo el día nuestro Himno Provincial, símbolo de nuestra identidad, nuestra historia y el profundo amor por nuestra tierra. ¡Que sus versos nos sigan uniendo a todos los riojanos y riojanas! https://t.co/15K2HQXpp"
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Conectividad Regional",
+                "Seguridad"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura interprovincial, como el control unificado con San Juan, para optimizar la logística, la seguridad y la eficiencia en la circulación, destacando una gestión que facilita la articulación regional.",
+            "frase_fuerte": "Hoy se publicó el llamado a licitación para construir el nuevo Control Unificado Mendoza–San Juan sobre la Ruta Nacional 40, en Las Heras. Con una inversión de más de $5.100 millones, vamos a unificar los controles de seguridad y fitosanitarios para reducir las demoras, ordenar el tránsito y hacer más ágil y seguro el paso entre ambas provincias. El proyecto contempla nuevos carriles, playas para autos, colectivos y camiones, áreas de control y mejoras en toda la infraestructura del complejo. Seguimos avanzando en obras que mejoran la conectividad y facilitan la circulación entre Mendoza y San Juan."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Turismo",
+                "Cultura",
+                "Desarrollo Económico Local"
+            ],
+            "postura_politica": "Promueve eventos culturales y turísticos como la Fiesta Nacional del Inmigrante para dinamizar la economía local, resaltando el valor de las tradiciones y la diversidad provincial como motor de desarrollo.",
+            "frase_fuerte": "46 ediciones, miles de historias y una fiesta que hace crecer a Oberá. 🌎🎉 Del 3 al 13 de septiembre la Fiesta Nacional del Inmigrante vuelve a poner a la ciudad en el centro de la escena y a mover su economía con visitantes de todo el país y la región. https://t.co/DxrBh8Vjjd"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Ciberseguridad",
+                "Prevención del Delito",
+                "Seguridad Ciudadana"
+            ],
+            "postura_politica": "Aborda la seguridad desde una perspectiva moderna, creando una Dirección de Ciber Delitos y enfatizando la prevención y la adaptación a las nuevas modalidades de crimen para proteger a los ciudadanos.",
+            "frase_fuerte": "EN NEUQUÉN LA SEGURIDAD EVOLUCIONA PARA VOS Presentamos hoy las primeras Jornadas de Ciberseguridad Ciudadana, porque los delitos digitales evolucionan permanentemente y las herramientas para prevenirlos y combatirlos también deben hacerlo. Esta es nuestra política de seguridad: creamos la primera Dirección Provincial de Ciber Delitos para estar un paso adelante, incorporar nuevas herramientas y fortalecer la prevención. Tenemos que prepararnos frente a cómo va evolucionando el delito. Tenemos que estar antes y, sobre todo, entender que en la prevención siempre existe una gran solución."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Producción Agropecuaria",
+                "Desarrollo Industrial",
+                "Infraestructura Productiva",
+                "Federalismo"
+            ],
+            "postura_politica": "Reafirma el compromiso con el campo y la industria mediante inversiones en infraestructura logística, proyectando a Santa Fe como un 'interior productivo' que puede impulsar el desarrollo nacional.",
+            "frase_fuerte": "Ayer inauguramos la 90° Expo Rural de #Reconquista con un mensaje muy claro: este gobierno provincial cree, acompaña y va a defender siempre al campo y a la industria. Lo demostramos con hechos concretos, invirtiendo en la infraestructura que nuestra provincia necesita para estar siempre un paso adelante en logística productiva. Tenemos la convicción de que, si la Argentina mira a este interior productivo, tiene una oportunidad enorme de desarrollarse y salir adelante 💪🇦🇷"
+        }
+    ]
+}

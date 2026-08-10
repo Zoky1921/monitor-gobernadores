@@ -1,0 +1,63 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada sin señales de conflicto fiscal ni posicionamiento federal. Los gobernadores con actividad en redes se limitaron a agenda local, obras provinciales y promoción de eventos. No hubo menciones a Nación, coparticipación ni recursos estratégicos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registra tensión dominante entre Nación y provincias. Los pocos posteos de gobernadores corresponden a gestión de cabotaje: inauguraciones, obras locales y celebraciones. La ausencia de debate sobre coparticipación, deuda o recursos estratégicos sugiere una pausa en la agenda federal, posiblemente por tratarse de un fin de semana o por un repliegue táctico de los mandatarios.\n\nActo 2 — Los Alineamientos: No se identifican alineamientos ni disputas. Cada gobernador operó en su burbuja provincial, sin coordinar mensajes ni responder a una agenda común. El silencio sobre la relación con Nación es el dato más relevante: indica que los gobernadores no consideraron necesario marcar posición en la fecha.\n\nActo 3 — La Micro-política: Cornejo (Mendoza) y Pullaro (Santa Fe) mostraron capacidad de inversión en infraestructura (control unificado y Expo Rural), mientras que Figueroa (Neuquén) apuntó a seguridad digital. Quintela (La Rioja) y Passalacqua (Misiones) se refugiaron en efemérides y promoción turística. Son gestos de supervivencia política: mostrar gestión para compensar el ajuste nacional, pero sin confrontar.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es neutra. Sin críticas ni reclamos, el oficialismo capitaliza el silencio como falta de oposición articulada. Sin embargo, la ausencia de gobernadores dialoguistas celebrando acuerdos también revela un vínculo frío. El tablero queda en punto muerto.",
+    "temas_calientes": [],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Himno provincial",
+                "Identidad local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Celebración de efeméride sin posicionamiento político.",
+            "frase_fuerte": "Hoy celebramos con orgullo el día nuestro Himno Provincial"
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Control unificado",
+                "Obras"
+            ],
+            "postura_politica": "Gestión provincial que muestra capacidad de inversión sin confrontar con Nación. Busca capitalizar la obra como logro propio.",
+            "frase_fuerte": "Hoy se publicó el llamado a licitación para construir el nuevo Control Unificado Mendoza–San Juan"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Turismo",
+                "Fiesta del Inmigrante",
+                "Promoción"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Promoción de evento turístico como herramienta de desarrollo, sin mención a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ciberseguridad",
+                "Prevención"
+            ],
+            "postura_politica": "Gestión provincial en seguridad digital. Muestra iniciativa sin depender de Nación, reafirmando autonomía.",
+            "frase_fuerte": "EN NEUQUÉN LA SEGURIDAD EVOLUCIONA PARA VOS"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Campo",
+                "Expo Rural",
+                "Inversión"
+            ],
+            "postura_politica": "Apoyo al sector productivo con obras provinciales. Mensaje de confianza en el interior, sin referencias a Nación.",
+            "frase_fuerte": "este gobierno provincial cree, acompaña y va a defender siempre al campo y a la industria"
+        }
+    ]
+}
