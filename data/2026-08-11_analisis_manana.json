@@ -1,0 +1,140 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal actual y de la última hora de ayer revela un panorama tensionado por la fuerte crítica política del gobernador Claudio Vidal (Santa Cruz) al 'kirchnerismo' por el abandono de puertos, contrastando con una agenda predominantemente enfocada en la gestión provincial. Los gobernadores Axel Kicillof (Buenos Aires), Leandro Zdero (Chaco), Ricardo Quintela (La Rioja), Marcelo Orrego (San Juan), Claudio Poggi (San Luis), Gustavo Melella (Tierra del Fuego) y Osvaldo Jaldo (Tucumán) destacaron inversiones en infraestructura, salud, modernización estatal y fomento productivo. Sobresale la cooperación federal de San Juan en gestión vial y el compromiso de San Luis con la inversión privada. La prioridad común se mantiene en la mejora de la calidad de vida de los ciudadanos a través de la gestión pública y la atracción de inversiones.",
+    "analisis_profundo": "La actividad tuitera de los gobernadores en las últimas horas de ayer y la mañana de hoy dibuja una agenda federal con un marcado contraste entre la gestión local y una notable tensión política en algunos frentes. El gobernador Claudio Vidal (Santa Cruz) optó por un tono confrontativo, atacando directamente al 'kirchnerismo' por el presunto abandono de los puertos provinciales y anunciando una millonaria inversión para su recuperación. Esta postura señala una persistente polarización política y la capitalización de la gestión de obras para reafirmar diferencias con administraciones pasadas. En el resto del espectro, la narrativa se centró en la gestión provincial y la promoción de iniciativas locales. Axel Kicillof (Buenos Aires) se dedicó a la entrega de equipos educativos y obras de infraestructura, reforzando la articulación con los municipios. Leandro Zdero (Chaco) subrayó importantes inversiones en salud pública y la firma de convenios para el desarrollo materno-infantil. Ricardo Quintela (La Rioja) destacó obras deportivas y celebró un aniversario departamental, en una línea de gestión y reafirmación identitaria. En un plano de cooperación federal, Marcelo Orrego (San Juan) anunció un convenio con la Nación para la gestión de rutas nacionales, posicionando a su provincia como un actor clave en la infraestructura vial que beneficia la producción y el turismo. Claudio Poggi (San Luis) puso el foco en la modernización de la administración pública y en atraer inversiones privadas, aunque también visibilizó la preocupación empresarial por la 'elevada litigiosidad laboral', un tema sensible para el clima de negocios. Finalmente, Gustavo Melella (Tierra del Fuego) resaltó el trabajo conjunto con el Senasa para impulsar la acuicultura, y Osvaldo Jaldo (Tucumán) priorizó la seguridad ciudadana con reuniones de la Plana Mayor de la Policía. La jornada refleja, en general, un esfuerzo por demostrar capacidad de gestión y progreso local, con la salvedad de la punzante crítica política desde Santa Cruz que tiñe el clima general de tensión.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Desarrollo Local",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Salud Pública y Bienestar Social",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Fomento a la Inversión Privada y Producción",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Seguridad y Gestión de Fuerzas",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Crítica Política a Administraciones Anteriores",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "EL KIRCHNERISMO ABANDONÓ NUESTROS PUERTOS POR MÁS DE 30 AÑOS. HOY DESTINAMOS $12.821 MILLONES PARA RECUPERAR EL PUERTO DESEADO",
+        "por_que_es_clave": "Este tweet es clave por su contundente crítica política directa a una fuerza partidaria históricamente influyente en la provincia y a nivel nacional, el 'kirchnerismo', vinculándola explícitamente al 'abandono' de infraestructura estratégica. El anuncio de una inversión millonaria para revertir esta situación en Puerto Deseado no solo es una declaración de gestión, sino también una reafirmación de identidad política y una clara diferenciación con el pasado, estableciendo un tono confrontativo en la agenda federal del día.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura local",
+                "Medio ambiente",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Enfocado en la gestión de programas provinciales, la articulación con los municipios y la inversión social para mejorar las condiciones de vida de los bonaerenses.",
+            "frase_fuerte": "En el Gobierno de la Provincia seguimos trabajando junto a los municipios para construir mejores condiciones de vida y más oportunidades para las y los bonaerenses."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Inversión",
+                "Cooperación internacional",
+                "Protección de la infancia"
+            ],
+            "postura_politica": "Prioriza la inversión en salud, la eficiencia en la distribución de recursos y la colaboración con organismos internacionales para el bienestar social, especialmente en salud materno-infantil.",
+            "frase_fuerte": "Más de $8.200 millones invertidos mensualmente en la salud de los chaqueños."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Seguridad",
+                "Gestión municipal",
+                "Aniversarios provinciales"
+            ],
+            "postura_politica": "Se centra en la mejora de infraestructuras deportivas locales y la celebración de la identidad provincial, buscando generar un impacto positivo en la comunidad a través de la inversión pública y la colaboración municipal.",
+            "frase_fuerte": "Hay obras que mejoran un espacio y también las posibilidades de quienes lo disfrutan."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Federalismo",
+                "Gestión de rutas nacionales",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Promueve la colaboración con el gobierno nacional para la gestión de infraestructura vial estratégica, buscando potenciar la producción, minería y turismo en la provincia.",
+            "frase_fuerte": "San Juan empieza una nueva etapa para la gestión integral de sus caminos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Modernización del Estado",
+                "Inversión privada",
+                "Desarrollo industrial",
+                "Problemática laboral"
+            ],
+            "postura_politica": "Fomenta la inversión privada y la modernización de la administración pública, al tiempo que reconoce y se compromete a abordar desafíos como la 'elevada litigiosidad laboral' para mejorar el clima de negocios provincial.",
+            "frase_fuerte": "Recibimos la inquietud empresaria de la elevada litigiosidad laboral (en comparación con otras Pcias), situación que aún no terminamos de resolver definitivamente en la Pcia. Nos vamos a ocupar del tema."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Infraestructura portuaria",
+                "Crítica política",
+                "Inversión pública",
+                "Seguridad rural",
+                "Equipamiento de fuerzas de seguridad"
+            ],
+            "postura_politica": "Adopta una postura fuertemente crítica hacia la administración anterior ('kirchnerismo'), contrastando su inacción con las inversiones y acciones de su gestión para recuperar y equipar los recursos provinciales, incluyendo la seguridad.",
+            "frase_fuerte": "EL KIRCHNERISMO ABANDONÓ NUESTROS PUERTOS POR MÁS DE 30 AÑOS. HOY DESTINAMOS $12.821 MILLONES PARA RECUPERAR EL PUERTO DESEADO"
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Desarrollo productivo (acuicultura)",
+                "Cooperación inter-institucional"
+            ],
+            "postura_politica": "Enfocado en el desarrollo económico provincial a través de la acuicultura, destacando la importancia del trabajo conjunto con organismos nacionales para generar nuevas oportunidades.",
+            "frase_fuerte": "María Beatriz “Pilu” Giraudo, presidenta de @SenasaAR cuenta la importancia del trabajo conjunto que estamos llevando adelante para fortalecer la acuicultura y generar nuevas oportunidades productivas en Tierra del Fuego."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Operativos de prevención",
+                "Sistema penitenciario",
+                "Planificación de eventos"
+            ],
+            "postura_politica": "Reafirma la seguridad como eje prioritario de su gestión, enfatizando la coordinación entre fuerzas y la planificación para garantizar la tranquilidad de los tucumanos.",
+            "frase_fuerte": "La seguridad es una prioridad de nuestra gestión y por eso mantenemos un seguimiento permanente del trabajo que realizan las fuerzas en toda la provincia."
+        }
+    ]
+}
