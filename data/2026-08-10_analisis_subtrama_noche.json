@@ -1,0 +1,208 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Kicillof intensifica su ofensiva contra Milei con datos de mora y caída salarial, mientras gobernadores de Córdoba y Mendoza apuestan a la inversión privada y otros como San Juan y Tucumán firman acuerdos con Nación. La jornada muestra una fragmentación entre confrontación y gestión local.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: Axel Kicillof (Buenos Aires) vuelve a cargar contra la Casa Rosada con un hilo de datos económicos que buscan instalar la idea de un gobierno nacional que hunde a las familias. La mora quintuplicada, la caída del salario real y el derrumbe del turismo bonaerense son los proyectiles que lanza para desgastar a Javier Milei. No es un reclamo fiscal, es una operación política: construir la candidatura presidencial sobre las ruinas del ajuste. \n\nActo 2 — Los Alineamientos: En las antípodas, Martín Llaryora (Córdoba) y Alfredo Cornejo (Mendoza) exhiben un modelo de gestión que atrae inversiones sin confrontar con Nación. Llaryora anuncia la llegada de Mercado Libre con 91 millones de dólares y 2000 empleos; Cornejo recibe a una delegación de Estados Unidos y licita obras viales. Marcelo Orrego (San Juan) firma un convenio para gestionar rutas nacionales, mostrando cooperación. Son los socios estratégicos del oficialismo, mientras que Kicillof queda como el paria que busca capitalizar el descontento. \n\nActo 3 — La Micro-política: Gobernadores de provincias periféricas se refugian en la agenda de cabotaje. Gustavo Sáenz (Salta) entrega viviendas y móviles policiales; Osvaldo Jaldo (Tucumán) inaugura escuelas y rutas; Claudio Poggi (San Luis) avanza con escrituras y viviendas. No hay mención a la macroeconomía ni a Nación, lo que sugiere una estrategia de supervivencia: mostrar gestión propia para no quedar pegados al ajuste. \n\nActo 4 — Saldo Presidencial: La Casa Rosada enfrenta un día de señales mixtas. Por un lado, la ofensiva de Kicillof le recuerda que el principal rival no está en el Congreso sino en la provincia más grande. Por otro, la cooperación de San Juan y la inversión en Córdoba y Mendoza le dan oxígeno. El tablero muestra que el federalismo se juega en dos canchas: la de la confrontación y la de la gestión silenciosa.",
+    "temas_calientes": [
+        {
+            "tema": "Kicillof intensifica crítica económica contra Milei",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Inversiones privadas en Córdoba y Mendoza",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Seguridad y prevención en CABA, Neuquén y Santa Cruz",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Entrega de viviendas y escrituras en Salta y San Luis",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Acuerdos de infraestructura con Nación (San Juan, Tucumán)",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Carli_Bianco)",
+        "texto": "Brindamos una conferencia de prensa junto al ministro @CostaAugusto9 para repasar la realidad económica de la Argentina y la provincia de Buenos Aires. ✅ Los números son contundentes: la mora de las familias se quintuplicó en menos de dos años, pasando del 2,5% en octubre de 2024 al 12,8% en mayo de 2026. Hoy Argentina es el país con más mora de toda América Latina. ✅ No es casualidad: los salarios registrados cayeron 8,7% desde noviembre de 2023, el salario mínimo se derrumbó 40% y los servicios pasaron de representar el 6% del salario a llevarse el 15%. ✅ El problema no es la gente. El responsable del endeudamiento de las familias es el presidente Milei, que con su política económica pisó los ingresos, disparó las tarifas y encareció el crédito. ✅ La crisis generalizada de la actividad económica también golpea a la industria del turismo bonaerense: en estas vacaciones de invierno recibimos un 11,5% menos de turistas que el año pasado, con el peor registro desde la pandemia. ✅ No cambiaron los atractivos que la provincia de Buenos Aires tiene para ofrecer, lo que cambió es la política económica y la ausencia de iniciativas del Gobierno nacional para el sector turístico.",
+        "por_que_es_clave": "Kicillof utiliza datos duros para responsabilizar directamente a Milei de la crisis, posicionándose como el principal opositor y candidato presidencial. Es un golpe directo al relato oficial de recuperación.",
+        "pregunta_openarg": "¿Puede Kicillof capitalizar el descontento social para ganar la presidencia en 2027 o su discurso choca con el hartazgo hacia la casta política?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "crisis económica",
+                "mora",
+                "salarios",
+                "turismo",
+                "viviendas",
+                "salud"
+            ],
+            "postura_politica": "Oposición frontal a Milei. Usa datos para construir relato de fracaso nacional y reivindicar su gestión provincial como alternativa.",
+            "frase_fuerte": "El responsable del endeudamiento de las familias es el presidente Milei."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "propiedades recuperadas"
+            ],
+            "postura_politica": "Muestra eficacia en seguridad y orden, sin confrontar con Nación. Refuerza su perfil de gestión PRO.",
+            "frase_fuerte": "901 propiedades recuperadas y devueltas a sus dueños. #GestiónPRO"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "inversión privada",
+                "empleo",
+                "Mercado Libre"
+            ],
+            "postura_politica": "Proactivo en atraer inversiones, mostrando a Córdoba como polo de desarrollo. No menciona a Nación, pero su mensaje es de autonomía productiva.",
+            "frase_fuerte": "Mercado Libre abrirá en Córdoba el primer centro de almacenamiento del interior del país."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "producción local",
+                "empresa familiar"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a mostrar apoyo a emprendedores.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "himno provincial",
+                "identidad"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Sin relevancia federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "inversión extranjera",
+                "minería",
+                "energía",
+                "infraestructura vial"
+            ],
+            "postura_politica": "Apertura al mundo y cooperación con Nación en obras. Se posiciona como gestor moderno y confiable.",
+            "frase_fuerte": "Recibí a una delegación institucional y empresarial de Estados Unidos para fortalecer vínculos y presentar las oportunidades que hoy ofrece Mendoza."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "fiestas populares",
+                "turismo",
+                "deporte"
+            ],
+            "postura_politica": "Agenda local de promoción turística y cultural. Sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "seguridad",
+                "ciberseguridad",
+                "prevención"
+            ],
+            "postura_politica": "Enfoque en seguridad ciudadana y modernización. No hay conflicto con Nación.",
+            "frase_fuerte": "En la prevención siempre existe una gran solución."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "viviendas",
+                "seguridad vial",
+                "inversión"
+            ],
+            "postura_politica": "Gestión con recursos provinciales, mostrando capacidad de ejecución. Sin confrontación.",
+            "frase_fuerte": "Hoy, 138 familias salteñas recibieron las llaves de su nuevo hogar."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "rutas nacionales",
+                "infraestructura",
+                "acuerdo con Nación"
+            ],
+            "postura_politica": "Cooperación con Nación para gestionar rutas. Muestra diálogo y gestión conjunta.",
+            "frase_fuerte": "Firmamos un convenio que nos permitirá gestionar rutas nacionales fundamentales para nuestra provincia."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "viviendas",
+                "escrituras",
+                "seguridad"
+            ],
+            "postura_politica": "Agenda local de vivienda y seguridad. Sin referencia nacional.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "seguridad",
+                "diálogo con fuerzas"
+            ],
+            "postura_politica": "Inicia ronda de diálogo con fuerzas de seguridad. Gestión local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "infraestructura deportiva",
+                "expo rural",
+                "campo"
+            ],
+            "postura_politica": "Muestra obras y apoyo al campo. Se posiciona como gestor eficiente, sin conflicto.",
+            "frase_fuerte": "Ayer inauguramos la 90° Expo Rural de #Reconquista con un mensaje muy claro: este gobierno provincial cree, acompaña y va a defender siempre al campo y a la industria."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "formación juvenil",
+                "programa social"
+            ],
+            "postura_politica": "Agenda local de capacitación. Sin relevancia federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "acuicultura",
+                "vialidad provincial"
+            ],
+            "postura_politica": "Gestión local en producción y obras. Sin confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "educación",
+                "infraestructura vial",
+                "escuelas"
+            ],
+            "postura_politica": "Inaugura obras con recursos provinciales. Muestra gestión sin mencionar a Nación.",
+            "frase_fuerte": "Hoy cumplimos con una obra muy esperada: inauguramos el nuevo edificio de la Escuela N° 120 Gobernación de los Andes."
+        }
+    ]
+}
