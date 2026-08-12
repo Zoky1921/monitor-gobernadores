@@ -1,0 +1,117 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Kicillof convoca a movilización federal contra el ajuste, mientras Macri muestra mano dura en La Carbonilla. Passalacqua articula la cumbre del Norte Grande, en un día de bajo perfil para el resto de los gobernadores.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada se define por dos movimientos opuestos. Kicillof, desde Buenos Aires, redobla la apuesta opositora con una convocatoria explícita a la movilización contra el ajuste de Milei, utilizando el reclamo por el impuesto a los combustibles y la paralización de obras como munición política. En simultáneo, Macri despliega un operativo de saturación en la villa La Carbonilla, marcando territorio con la narrativa de la 'mano dura' y el orden, buscando capitalizar el descontento con la inseguridad y diferenciarse de la gestión nacional.\n\nActo 2 — Los Alineamientos: Passalacqua se posiciona como anfitrión del bloque del Norte Grande, una señal de articulación federal que, aunque no declara abiertamente una postura anti-Nación, construye poder territorial en un contexto de repliegue nacional. Pullaro, desde Santa Fe, invierte en una flota de aviones hidrantes, mostrando capacidad de gestión autónoma en seguridad, sin mencionar a Nación pero marcando distancia. Figueroa, en Neuquén, y Torres, en Chubut, se refugian en la gestión de viviendas e infraestructura, evitando el conflicto directo.\n\nActo 3 — La Micro-política: Jalil, Zdero y los gobernadores periféricos se limitan a efemérides y anuncios de gestión local, sin impacto federal. El silencio de los pesos pesados como Llaryora, Valdés o Frigerio es revelador: optan por no exponerse en una jornada donde la polarización Kicillof-Macri domina la escena, buscando no quemar puentes con Nación mientras gestionan sus agendas locales.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es mixta. La movilización de Kicillof no logra una adhesión masiva de otros gobernadores, lo que sugiere que el peronismo aún no unifica su estrategia. Sin embargo, la ausencia de críticas directas desde provincias clave como Córdoba o Santa Fe indica que la estrategia de ajuste aún no genera un frente opositor sólido. Macri, por su parte, refuerza su perfil propio, pero sin entrar en conflicto directo con Nación, manteniendo un equilibrio que le permite capitalizar la agenda de seguridad sin romper la gobernabilidad.",
+    "temas_calientes": [
+        {
+            "tema": "Movilización federal contra el ajuste de Milei",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Mano dura en villas: operativo La Carbonilla",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Coordinación del Norte Grande",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Inversión en seguridad provincial (aviones hidrantes)",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @RCSalvarezza)",
+        "texto": "CIENCIA Y TECNOLOGÍA EN LUCHA CONTRA EL AJUSTE DE MILEI \n\n📢 Movilización Federal   \n\nVeni con tu camiseta para defender a la Argentina 🇦🇷\n\n 🗓️  12 de Agosto \n⌚ 16 horas\n\n📍En el obelisco, plazas, centros y universidadades de todo el país. https://t.co/zZpUEMmO5I",
+        "por_que_es_clave": "Kicillof transforma una convocatoria sectorial en un acto político de alto voltaje, buscando capitalizar el descontento social y posicionarse como líder de la oposición extra-muros del Congreso, en un momento de baja actividad legislativa.",
+        "pregunta_openarg": "¿Cuánto poder de convocatoria real tiene Kicillof para sostener una movilización federal sostenida, o se trata de un gesto testimonial sin capacidad de torcer el rumbo del ajuste?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "movilización federal",
+                "ajuste de Milei",
+                "congreso productivo bonaerense"
+            ],
+            "postura_politica": "Oposición activa y confrontación directa. Utiliza la convocatoria a la movilización para articular un frente político contra el ajuste nacional, mientras que la agenda de gestión provincial (Congreso Productivo) busca mostrar un modelo alternativo.",
+            "frase_fuerte": "CIENCIA Y TECNOLOGÍA EN LUCHA CONTRA EL AJUSTE DE MILEI"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "orden urbano",
+                "seguridad",
+                "villas",
+                "La Carbonilla"
+            ],
+            "postura_politica": "Afirmación de autoridad y mano dura. El operativo en La Carbonilla es un mensaje claro a su electorado y a la oposición: no hay zonas liberadas. Se diferencia de gestiones anteriores y de la narrativa nacional sin mencionarla explícitamente.",
+            "frase_fuerte": "Acá no hay zonas liberadas. No hay lugares donde la ley es opcional."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "homenaje fúnebre"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "formación profesional",
+                "educación técnica"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "obra pública",
+                "conducto pluvial",
+                "infraestructura hídrica"
+            ],
+            "postura_politica": "Gestión local con inversión provincial. Evita mencionar a Nación, mostrando autonomía en la resolución de problemas históricos.",
+            "frase_fuerte": "PARA QUE LA HISTORIA NO SE REPITA"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "encuentro de gobernadores",
+                "federalismo"
+            ],
+            "postura_politica": "Articulación federal. Se posiciona como anfitrión de un bloque regional, lo que sugiere construcción de poder territorial y posible coordinación política en temas clave.",
+            "frase_fuerte": "Ya está todo listo para recibir a los gobernadores del Norte Grande."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "vivienda",
+                "Neuquén Habita",
+                "Cutral Co"
+            ],
+            "postura_politica": "Gestión local de vivienda. Sin mención a Nación, muestra capacidad de ejecución provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "seguridad",
+                "aviones hidrantes",
+                "inversión provincial"
+            ],
+            "postura_politica": "Gestión autónoma en seguridad. Inversión significativa sin mencionar a Nación, marcando capacidad de gestión propia y diferenciación implícita.",
+            "frase_fuerte": "Por primera vez en nuestra historia, Santa Fe tiene su propia flota de aviones hidrantes para combatir el fuego."
+        }
+    ]
+}

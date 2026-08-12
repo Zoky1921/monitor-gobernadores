@@ -1,0 +1,121 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se tensa ante la abierta confrontación del gobernador Axel Kicillof (Buenos Aires) con el Gobierno nacional, convocando a una movilización federal contra el ajuste. En la Ciudad Autónoma de Buenos Aires, Jorge Macri (CABA) refuerza su agenda de seguridad y orden urbano con operativos de 'mano dura' en barrios vulnerables. Otros gobernadores se enfocan en la gestión local, destacando inversiones en infraestructura, vivienda y formación laboral. Hugo Passalacqua (Misiones) promueve el diálogo regional, mientras Maximiliano Pullaro (Santa Fe) invierte en la capacidad de respuesta provincial frente a emergencias. El clima se define por la polarización entre la gestión autónoma provincial y la crítica directa a las políticas nacionales.",
+    "analisis_profundo": "La agenda de los gobernadores se polariza hoy, con un claro eje de confrontación y otro de gestión interna. Axel Kicillof (Buenos Aires) encabeza la ofensiva contra el Gobierno nacional, retuiteando una convocatoria a una 'Movilización Federal' contra el ajuste de Milei en ciencia y tecnología. Esta acción subraya la creciente tensión entre la principal provincia opositora y la administración central, anticipando un día de protestas con fuerte contenido político y una defensa explícita del 'Estado presente' en áreas estratégicas. Por otro lado, Jorge Macri (CABA) monopoliza su comunicación en la implementación de una política de 'orden en La Carbonilla', impidiendo el ingreso de materiales para construcciones no autorizadas. Su narrativa se enfoca en restaurar la 'ley y el orden' en zonas percibidas como liberadas, generando un eco de apoyo en su base, aunque potencialmente divisivo. Las numerosas republicaciones de medios y usuarios que alaban su 'mano dura' confirman la intencionalidad política de la medida.\n\nEn el plano de la gestión provincial, la mayoría de los mandatarios se centran en iniciativas de desarrollo local. Rolando Figueroa (Neuquén) impulsa un plan de vivienda con cofinanciamiento municipal, buscando mejorar la calidad de vida de las familias. Leandro Zdero (Chaco) enfatiza la formación profesional y el desarrollo productivo, vinculando la educación con el mundo laboral. Nacho Torres (Chubut) destaca una inversión millonaria en infraestructura pluvial para prevenir inundaciones, aprendiendo de experiencias pasadas. Maximiliano Pullaro (Santa Fe) subraya la importancia de la capacidad de respuesta provincial al adquirir una flota de aviones hidrantes, reforzando la autonomía y preparación ante emergencias. En el ámbito interprovincial, Hugo Passalacqua (Misiones) se posiciona como articulador al ser anfitrión de la reunión de gobernadores del Norte Grande, promoviendo el diálogo y la búsqueda de soluciones conjuntas a desafíos regionales. Esta diversidad de enfoques refleja tanto la disparidad de recursos y prioridades como la constante necesidad de las provincias de diferenciarse y autogestionarse en un contexto federal complejo.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación Federal y Crítica al Modelo Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad Urbana y Control Territorial",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Infraestructura Pública y Vivienda",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Fomento Productivo, Empleo y Capacitación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Coordinación Regional y Gestión de Emergencias",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @RCSalvarezza)",
+        "texto": "CIENCIA Y TECNOLOGÍA EN LUCHA CONTRA EL AJUSTE DE MILEI \n\n📢 Movilización Federal   \n\nVení con tu camiseta para defender a la Argentina 🇦🇷\n\n 🗓️  12 de Agosto \n⌚ 16 horas\n\n📍En el obelisco, plazas, centros y universidadades de todo el país. https://t.co/zZpUEMO5I",
+        "por_que_es_clave": "Este retuit, publicado en el día de hoy, representa la declaración más directa y confrontacional contra el Gobierno nacional. La convocatoria a una 'Movilización Federal' contra el ajuste en ciencia y tecnología, especialmente por parte del gobernador de la provincia de Buenos Aires, marca una escalada en la tensión federal y busca capitalizar el descontento en un sector sensible. Es un llamado a la acción que intenta unificar la oposición provincial frente a las políticas económicas de la Nación.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Confrontación Federal",
+                "Ajuste Económico",
+                "Ciencia y Tecnología",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Adopta una postura de fuerte oposición al Gobierno nacional, convocando a la movilización contra el ajuste en áreas clave. Simultáneamente, promueve una agenda de desarrollo productivo local para su provincia, mostrando una gestión activa en contrapunto con las políticas centrales.",
+            "frase_fuerte": "CIENCIA Y TECNOLOGÍA EN LUCHA CONTRA EL AJUSTE DE MILEI"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad Urbana",
+                "Orden Público",
+                "Desarrollo Urbano",
+                "Control Territorial"
+            ],
+            "postura_politica": "Mantiene una política de 'mano dura' y reafirmación de la autoridad en la Ciudad, enfocándose en el control de construcciones ilegales en barrios populares. Su discurso y los numerosos retuits asociados refuerzan su compromiso con la 'ley y el orden', buscando un fuerte impacto en la opinión pública local.",
+            "frase_fuerte": "Orden en La Carbonilla Acá no hay zonas liberadas. No hay lugares donde la ley es opcional. Se terminó el ingreso de materiales para que la villa siga creciendo. La ley y el orden rigen en cada metro cuadrado de la Ciudad."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "Formación Profesional",
+                "Desarrollo Laboral"
+            ],
+            "postura_politica": "Impulsa activamente la formación en oficios para más de 1.700 chaqueños, buscando vincular la educación con el mundo laboral. Su enfoque es generar oportunidades y desarrollo para la provincia a través de la capacitación y el esfuerzo de su gente.",
+            "frase_fuerte": "Acompañamos una educación vinculada al mundo laboral para cambiar la matriz del Chaco y recuperar, de la mano del esfuerzo, el crecimiento y desarrollo de la provincia. 💪🏼"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Obras Públicas",
+                "Prevención de Desastres"
+            ],
+            "postura_politica": "Demuestra un compromiso con la resolución de problemas históricos de infraestructura, priorizando la prevención de desastres como inundaciones. La inversión en un conducto pluvial de descarga al mar resalta una visión a largo plazo para proteger a su población y evitar repetir errores del pasado.",
+            "frase_fuerte": "Por eso, junto al Municipio tomamos la decisión de avanzar con una obra que durante demasiado tiempo se postergó: el nuevo Conducto Pluvial de Descarga al Mar, con una inversión de más de $15.800 millones para ampliar la capacidad de desagüe y dar una respuesta concreta a un problema histórico de la ciudad."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Relaciones Interprovinciales",
+                "Integración Regional",
+                "Diálogo Federal"
+            ],
+            "postura_politica": "Asume un rol de liderazgo y promoción del diálogo regional al ser anfitrión de la reunión de gobernadores del Norte Grande. Su mensaje enfatiza la importancia de la cooperación y el trabajo conjunto para el crecimiento y las nuevas oportunidades de la región.",
+            "frase_fuerte": "Ya está todo listo para recibir a los gobernadores del Norte Grande. Es un placer ser la provincia anfitriona de un encuentro que nos reúne para compartir experiencias, pensar soluciones y poner sobre la mesa los desafíos comunes de nuestra región."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Desarrollo Local",
+                "Calidad de Vida"
+            ],
+            "postura_politica": "Impulsa el programa 'Neuquén Habita', enfocado en la construcción de viviendas con cofinanciamiento municipal, buscando garantizar el acceso a la casa propia. Su gestión se orienta a 'ordenar para redistribuir' y mejorar la calidad de vida a través de soluciones habitacionales.",
+            "frase_fuerte": "MÁS VIVIENDAS PARA LOS NEUQUINOS Seguimos avanzando con Neuquén Habita. Firmamos el convenio de cofinanciamiento 60/40 con el municipio para construir 49 viviendas en Cutral Co, primera etapa de un proyecto que prevé 150 hogares para la localidad."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Emergencia y Prevención",
+                "Seguridad Territorial",
+                "Infraestructura"
+            ],
+            "postura_politica": "Demuestra una fuerte voluntad de equipar la provincia para enfrentar emergencias, destacando la adquisición de una flota de aviones hidrantes. Su enfoque es la prevención y la protección del territorio y los ciudadanos, priorizando la capacidad de respuesta provincial.",
+            "frase_fuerte": "Por primera vez en nuestra historia, Santa Fe tiene su propia flota de aviones hidrantes para combatir el fuego. Son recursos importantísimos para cuidar nuestro territorio y proteger a los santafesinos: en solo 10 segundos de vuelo rasante, cada avión carga 3.000 litros de agua y vuelve enseguida a la acción."
+        }
+    ]
+}
