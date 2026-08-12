@@ -1,0 +1,248 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una clara polarización de discursos: mientras gobernadores como Axel Kicillof (Buenos Aires), Ricardo Quintela (La Rioja) y Gustavo Melella (Tierra del Fuego) emitieron duras críticas a las políticas económicas nacionales, señalando el impacto negativo en la industria, el empleo y la distribución de fondos, otros como Raúl Jalil (Catamarca), Marcelo Orrego (San Juan) y Elías Suárez (Santiago del Estero) se centraron en la promoción de inversiones, la estabilidad fiscal y el desarrollo productivo provincial. Predominaron los anuncios de gestión local en infraestructura, salud y educación, buscando resolver problemas estructurales y mejorar servicios con fondos propios, evidenciando una fuerte reafirmación de la autonomía provincial frente a un contexto nacional complejo. La retórica confrontativa sobre el modelo económico convive con la búsqueda de previsibilidad y oportunidades de crecimiento desde las provincias.",
+    "analisis_profundo": "El escenario político federal se presenta tenso, con varios gobernadores intensificando sus críticas al gobierno nacional. Axel Kicillof (Buenos Aires) cuestionó directamente la retención de fondos por impuesto a los combustibles y la parálisis de obras, atribuyendo el superávit fiscal a un costo social inaceptable. Ricardo Quintela (La Rioja) complementó esta crítica, denunciando un modelo económico que beneficia a las 'energéticas y el poder financiero' a expensas de la generación de empleo y la matriz productiva local, al tiempo que reafirmó la importancia de una minería responsable. En la misma línea, Gustavo Melella (Tierra del Fuego) expresó preocupación por el impacto de las importaciones en la industria local y la defensa del empleo, posicionando al trabajador como una 'variable de ajuste' injusta. Claudio Vidal (Santa Cruz) también cargó contra gestiones pasadas, a las que acusó de 'desaprovechar' recursos provinciales, comprometiéndose a revertir la situación con inversión en infraestructura portuaria y equipamiento de seguridad. \n\nEn contraste, un grupo de gobernadores adoptó una postura más propositiva, enfocada en la atracción de inversiones y la construcción de confianza. Raúl Jalil (Catamarca) celebró el liderazgo exportador de su provincia y su participación en el ciclo 'Democracia y Desarrollo' para impulsar la inversión y una agenda federal común. Marcelo Orrego (San Juan) enfatizó la necesidad de 'reglas claras, estabilidad fiscal y seguridad jurídica' para atraer capitales, destacando el rol de las provincias en la generación de cambios. Elías Suárez (Santiago del Estero) promovió su provincia como un destino atractivo para las PyMEs con una baja tasa de Ingresos Brutos y destacó la mejora en el salario docente. Martín Llaryora (Córdoba) sostuvo que el superávit fiscal debe orientarse a la producción y el trabajo, en lugar de ser un fin en sí mismo. \n\nAdicionalmente, la gestión local en áreas clave como infraestructura, salud y vivienda fue un denominador común. Leandro Zdero (Chaco) detalló inversiones en salud y programas de primera infancia, mientras que Ignacio Torres (Chubut) anunció una obra pluvial millonaria para prevenir inundaciones históricas. Jorge Macri (CABA) se centró en el ordenamiento urbano y la terminación del ingreso de materiales en villas. Claudio Poggi (San Luis) firmó un Plan Maestro de Energía a largo plazo y destacó inversiones industriales. Osvaldo Jaldo (Tucumán) informó sobre el fortalecimiento de la salud pública, la articulación interprovincial para el turismo religioso y la planificación de operativos de seguridad. Rolando Figueroa (Neuquén) reforzó la identidad provincial y la inversión en servicios esenciales y complejos para adultos mayores. La diversidad de enfoques, desde la confrontación directa hasta la búsqueda de cooperación y el énfasis en la gestión propia, subraya la complejidad de la dinámica federal actual y la creciente autonomía de las agendas provinciales.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación por el modelo económico nacional y fondos federales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Impulso a la inversión privada y desarrollo productivo provincial",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@DrMarceloOrrego",
+                "@EliasSuarezSDE",
+                "@claudiojpoggi",
+                "@MartinLlaryora",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Gestión local de infraestructura y servicios esenciales",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@LeandroZdero",
+                "@jorgemacri",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Defensa de la industria y el empleo local",
+            "gobernadores_involucrados": [
+                "@gustavomelella",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Articulación interprovincial y federalismo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@MartinLlaryora",
+                "@DrMarceloOrrego",
+                "@OsvaldoJaldo",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "¿Dónde están los fondos del impuesto a los combustibles que por ley deben destinarse a mejorar nuestras rutas? En la timba, en la especulación financiera, en cualquier lado menos en donde realmente tienen que estar. Es fácil hablar de superávit fiscal cuando se logra a costa de los intereses y las necesidades del pueblo.",
+        "por_que_es_clave": "Este tweet de Axel Kicillof (Buenos Aires) es clave porque realiza una crítica directa y frontal al gobierno nacional sobre la malversación de fondos federales y el costo social del superávit fiscal, encapsulando una de las principales tensiones del día en la relación Nación-Provincias.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al Gobierno Nacional",
+                "Fondos federales",
+                "Obra pública educativa",
+                "Gestión local"
+            ],
+            "postura_politica": "Crítica acérrima al gobierno nacional por la retención de fondos y la parálisis de obras, defendiendo la inversión pública provincial como motor de desarrollo y solución a problemas desatendidos. Posiciona a la provincia como protectora de los intereses populares frente a políticas nacionales.",
+            "frase_fuerte": "¿Dónde están los fondos del impuesto a los combustibles que por ley deben destinarse a mejorar nuestras rutas? En la timba, en la especulación financiera, en cualquier lado menos en donde realmente tienen que estar. Es fácil hablar de superávit fiscal cuando se logra a costa de los intereses y las necesidades del pueblo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Ordenamiento urbano",
+                "Seguridad",
+                "Control de ocupaciones"
+            ],
+            "postura_politica": "Enfocado en la gestión de orden y control en la ciudad, con un enfoque práctico en la resolución de problemas urbanos como el ingreso ilegal de materiales a villas.",
+            "frase_fuerte": "AHORA en La Carbonilla. Se terminó el ingreso de materiales a la villa."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Exportaciones",
+                "Inversiones",
+                "Federalismo",
+                "Articulación con provincias"
+            ],
+            "postura_politica": "Destaca el liderazgo exportador de su provincia y la capacidad de atraer inversiones, buscando la previsibilidad y la seguridad jurídica para el sector privado. Participa activamente en foros federales para construir una agenda común de desarrollo.",
+            "frase_fuerte": "Catamarca lideró este año el crecimiento exportador del país. Es un resultado que nos llena de orgullo, pero sobre todo confirma que tenemos una provincia con capacidad para producir, atraer inversiones y generar nuevas oportunidades."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Salud",
+                "Cooperación internacional",
+                "Formación profesional"
+            ],
+            "postura_politica": "Promueve la formación, el emprendedurismo y la inversión en salud, demostrando una gestión enfocada en el bienestar social y la atracción de capitales con apoyo de organismos internacionales.",
+            "frase_fuerte": "Más de $8.200 millones invertidos mensualmente en la salud de los chaqueños."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Prevención de desastres",
+                "Obras públicas"
+            ],
+            "postura_politica": "Se enfoca en la resolución de problemas históricos de infraestructura, priorizando obras que prevengan futuras tragedias y mejoren la calidad de vida de los ciudadanos con fondos provinciales.",
+            "frase_fuerte": "Hay obras que no se ven cuando están terminadas, pero cambian para siempre la vida de los vecinos."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Política fiscal",
+                "Inversión productiva"
+            ],
+            "postura_politica": "Aboga por un superávit fiscal que sea una herramienta al servicio de la producción y el trabajo, promoviendo un modelo de desarrollo basado en la inversión y la generación de riqueza.",
+            "frase_fuerte": "el superávit fiscal es necesario, pero no puede ser un fin en sí mismo. La verdadera discusión es para qué se utiliza y qué modelo de desarrollo ayuda a construir."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Ganadería"
+            ],
+            "postura_politica": "Resalta el potencial productivo de la provincia, especialmente en ganadería, y la importancia de acompañar al sector para generar empleo y desarrollo.",
+            "frase_fuerte": "Corrientes tiene un gran futuro, y debemos seguir acompañando al sector productivo, que genera trabajo y desarrollo en toda la provincia."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Crítica a la política económica nacional",
+                "Modelo extractivista",
+                "Desarrollo productivo",
+                "Vivienda",
+                "Infraestructura"
+            ],
+            "postura_politica": "Acusa al gobierno nacional de favorecer a las 'energéticas y el poder financiero' a costa del empleo y la producción local, abogando por un modelo de desarrollo inclusivo que valore los recursos sin saqueo y combata la macrocefalia portuaria.",
+            "frase_fuerte": "Hoy los grandes ganadores del gobierno de Milei son las energéticas y el poder financiero. El crecimiento económico, de haberlo, es sin generación de empleo, en el contexto de un industricidio."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo económico",
+                "Atracción de inversiones"
+            ],
+            "postura_politica": "Se centra en la planificación y ejecución de obras de infraestructura como motor para el crecimiento económico, la atracción de inversiones y la generación de empleo, destacando una provincia con una agenda clara.",
+            "frase_fuerte": "La infraestructura no es un fin en sí mismo. Es una herramienta para que Mendoza pueda crecer y aprovechar las oportunidades que tenemos por delante."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Educación",
+                "Desarrollo agropecuario",
+                "Innovación"
+            ],
+            "postura_politica": "Promueve la innovación en el sector agropecuario a través de la formación de nuevas generaciones, resaltando la importancia de la educación práctica y el trabajo en la tierra.",
+            "frase_fuerte": "La nueva generación del agro no se queda en el aula, también pone las manos en la tierra y prueba nuevas ideas."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Identidad provincial",
+                "Vivienda",
+                "Servicios esenciales",
+                "Bienestar para adultos mayores"
+            ],
+            "postura_politica": "Enfocado en la gestión local para garantizar servicios básicos y vivienda a sus ciudadanos, incluyendo programas innovadores para adultos mayores. Reafirma una identidad 'neuquina' por encima de divisiones políticas.",
+            "frase_fuerte": "Nosotros no somos oficialistas ni tampoco somos oposición, somos neuquinos."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Inversiones",
+                "RIGI",
+                "Infraestructura",
+                "Gestión con Nación"
+            ],
+            "postura_politica": "Enfatiza la importancia de generar confianza y estabilidad jurídica para atraer inversiones, como el RIGI, y fortalecer la infraestructura provincial a través de acuerdos con el gobierno nacional.",
+            "frase_fuerte": "Generar confianza es fundamental para que lleguen inversiones, se desarrollen proyectos y se genere más trabajo."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Planificación energética",
+                "Modernización estatal",
+                "Inversión industrial",
+                "Empleo"
+            ],
+            "postura_politica": "Impulsa políticas de Estado a largo plazo para el desarrollo energético, moderniza la gestión pública y apoya la inversión privada en la industria, buscando resolver problemas como la litigiosidad laboral.",
+            "frase_fuerte": "Firmé el Proyecto de Ley “PLAN MAESTRO DE ENERGÍA 2026-2036 PARA EL DESARROLLO HUMANO Y ECONÓMICO SUSTENTABLE DE LA PCIA DE SAN LUIS”. Será una Política de Estado."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Crítica a gestión anterior",
+                "Recuperación de obra pública",
+                "Inversión",
+                "Seguridad"
+            ],
+            "postura_politica": "Critica duramente la 'corrupción' y el 'abandono' de la gestión kirchnerista, prometiendo revertir la situación con inversión propia en infraestructura portuaria, obra pública y equipamiento para las fuerzas de seguridad.",
+            "frase_fuerte": "DURANTE 30 AÑOS DESAPROVECHARON LOS RECURSOS DE SANTA CRUZ. HOY NOSOTROS LOS INVERTIMOS EN DESARROLLO Y TRABAJO"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "PyMEs",
+                "Política fiscal",
+                "Educación",
+                "Salarios docentes"
+            ],
+            "postura_politica": "Destaca la gestión económica provincial a través de una política fiscal competitiva y la mejora del salario docente, promoviendo la inversión y la formación para el desarrollo local.",
+            "frase_fuerte": "Santiago del Estero es una de las únicas dos provincias del país donde el salario docente mejoró notablemente, registrando un incremento real del 6,6%."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Industria",
+                "Empleo",
+                "Impacto de importaciones",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Manifiesta preocupación por el impacto de las políticas nacionales en la industria y el empleo local, defendiendo la necesidad de consensos para proteger el sector y priorizar al trabajador.",
+            "frase_fuerte": "La variable de ajuste no puede ser siempre el trabajador."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Articulación interprovincial",
+                "Seguridad",
+                "Turismo religioso"
+            ],
+            "postura_politica": "Prioriza el fortalecimiento de la salud pública con inversión tecnológica, promueve la articulación con otras provincias para el desarrollo turístico-religioso y mantiene un seguimiento constante de la seguridad provincial.",
+            "frase_fuerte": "La seguridad es una prioridad de nuestra gestión y por eso mantenemos un seguimiento permanente del trabajo que realizan las fuerzas en toda la provincia."
+        }
+    ]
+}
