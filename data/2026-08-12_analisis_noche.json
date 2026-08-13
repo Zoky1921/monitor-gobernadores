@@ -1,0 +1,263 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal de hoy (12/08/2026) se caracterizó por una marcada dualidad. Por un lado, la 24ª Asamblea de Gobernadores del Norte Grande en Misiones reunió a varios mandatarios provinciales con autoridades nacionales, buscando una voz unificada para abordar desafíos regionales en infraestructura, energía y prevención del fenómeno 'El Niño'. Este espacio de diálogo mostró la voluntad de articulación interprovincial frente a necesidades comunes. Sin embargo, el clima político general se mantuvo tenso. Axel Kicillof (Buenos Aires) lanzó críticas directas y contundentes al gobierno nacional por su 'modelo de ajuste' y sus impactos económicos y sociales. Jorge Macri (CABA), por su parte, reforzó su discurso de 'ley y orden' con acciones de seguridad, generando debates sobre control territorial. Otros gobernadores priorizaron la defensa de recursos y la gestión local, evidenciando la complejidad de las dinámicas federales.",
+    "analisis_profundo": "La agenda federal de hoy estuvo claramente dividida entre la colaboración regional y la confrontación directa. La 24ª Asamblea de Gobernadores del Norte Grande, anfitrionada por Hugo Passalacqua (Misiones) y con la participación de Raúl Jalil (Catamarca), Leandro Zdero (Chaco), Carlos Sadir (Jujuy), Gustavo Sáenz (Salta), Elías Suárez (Santiago del Estero) y Osvaldo Jaldo (Tucumán), se posicionó como un bloque unificado. Estos gobernadores buscaron establecer una estrategia común en infraestructura, logística, energía (incluyendo tarifas equitativas y el Gasoducto del Norte) y preparación ante 'El Niño', lo que sugiere una serie de demandas y expectativas no completamente satisfechas por el gobierno central. Elías Suárez (Santiago del Estero), por ejemplo, subrayó la necesidad de interacción permanente en prevención climática y tarifas energéticas justas, mientras que Osvaldo Jaldo (Tucumán) enfatizó la urgencia de la Reversión del Gasoducto del Norte. Passalacqua (Misiones) también impulsó la reducción del IVA para la mandioca, buscando reducir asimetrías. Esto denota una reafirmación de intereses provinciales colectivos. Por el contrario, Axel Kicillof (Buenos Aires) mantuvo una postura de oposición férrea, denunciando la pérdida de empleo, el cierre de empresas y el desfinanciamiento de la ciencia y la educación, y convocando al peronismo a enfrentar el 'modelo de ajuste'. Este discurso marca una clara grieta política con la administración nacional. En el ámbito de la seguridad, Jorge Macri (CABA) intensificó su retórica de 'ley y orden' con operativos en 'La Carbonilla', una postura que, si bien local, puede generar fricciones interjurisdiccionales, especialmente por sus referencias a la procedencia de la delincuencia. En un tono más de afirmación de autonomía económica, Sergio Ziliotto (La Pampa) destacó la soberanía provincial sobre el yacimiento El Medanito, enfatizando reglas claras y participación estatal. Claudio Vidal (Santa Cruz), por su parte, se enfocó en la inversión transparente en infraestructura deportiva, contrastando fuertemente con la 'corrupción' de administraciones anteriores. Rolando Figueroa (Neuquén) resaltó programas de vivienda y deporte comunitario, mientras que Martín Llaryora (Córdoba) promovió la innovación AgTech y la inversión productiva del superávit. Alberto Weretilneck (Río Negro) mostró una gestión activa y coordinada ante el temporal de nieve en Bariloche, destacando la respuesta provincial a emergencias. En conjunto, la jornada expuso una compleja interacción federal, con alianzas regionales estratégicas conviviendo con fuertes expresiones de crítica y autonomía provincial, manteniendo un equilibrio tenso en el tablero político nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo y Coordinación del Norte Grande",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@carlossadirjuy",
+                "@passalacquaok",
+                "@GustavoSaenzOK",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Crítica a las Políticas Económicas Nacionales y Defensa del Empleo",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Urbano",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Soberanía sobre Recursos Naturales y Desarrollo Productivo",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@passalacquaok",
+                "@MartinLlaryora",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Gestión de Infraestructura y Servicios Públicos Locales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Estamos viviendo momentos muy complejos, todos los días se pierden puestos de trabajo y cierran industrias y comercios. El peronismo tiene que estar a la altura y no ser solo un instrumento electoral, sino también de participación para enfrentar este modelo de ajuste. Eso buscamos con nuestra campaña de afiliación: abrir los brazos y convocar a los que estén dispuestos a enfrentar con coraje lo que nos están haciendo",
+        "por_que_es_clave": "Este tweet del gobernador (Buenos Aires) es clave porque representa una crítica directa y frontal al modelo económico del gobierno nacional, articulando una postura de oposición política. Va más allá de la gestión local y llama a la acción política del peronismo, marcando un fuerte contraste en el escenario federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al Gobierno Nacional",
+                "Impacto Económico Negativo",
+                "Defensa de la Ciencia y Educación",
+                "Peronismo y Ajuste",
+                "Infraestructura Local"
+            ],
+            "postura_politica": "Adopta una postura de oposición frontal al gobierno nacional, criticando duramente sus políticas de ajuste económico y sus consecuencias sociales (pérdida de empleo, cierre de empresas). Se posiciona como defensor de la ciencia, la educación y los intereses provinciales, instando al peronismo a ser un actor de resistencia y participación más allá de lo electoral. Muestra fuerte gestión en infraestructura local a pesar del contexto.",
+            "frase_fuerte": "El peronismo tiene que estar a la altura y no ser solo un instrumento electoral, sino también de participación para enfrentar este modelo de ajuste."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad Ciudadana",
+                "Ley y Orden",
+                "Control de Barrios Populares",
+                "Combate a la Delincuencia"
+            ],
+            "postura_politica": "Refuerza una línea de 'mano dura' en seguridad y control territorial, particularmente en villas y asentamientos. Su discurso enfatiza la necesidad de imponer la 'ley y el orden' en cada rincón de la ciudad, con operativos para frenar construcciones no autorizadas y delincuencia. Hay un subtexto de tensión con el conurbano por la procedencia de delincuentes.",
+            "frase_fuerte": "Acá no hay zonas liberadas. No hay lugares donde la ley es opcional. Se terminó el ingreso de materiales para que la villa siga creciendo."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Articulación Federal",
+                "Norte Grande",
+                "Infraestructura Regional",
+                "Estrategia Energética",
+                "Fenómeno El Niño"
+            ],
+            "postura_politica": "Participa activamente en la agenda del Norte Grande, promoviendo el diálogo y el trabajo conjunto entre provincias y con la Nación para impulsar el desarrollo regional. Se enfoca en la competitividad económica de la región y la defensa de los intereses provinciales a través de la articulación federal.",
+            "frase_fuerte": "Creo firmemente que la articulación federal es el camino para potenciar la competitividad de nuestras economías y defender los intereses de nuestras provincias."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Norte Grande",
+                "Diálogo Federal",
+                "Formación Profesional",
+                "Desarrollo Provincial"
+            ],
+            "postura_politica": "Presente en la Asamblea del Norte Grande, aboga por el diálogo y el trabajo coordinado para abordar los desafíos comunes de la región. Complementa esta visión con un enfoque en la formación de oficios para transformar la matriz productiva y generar crecimiento y desarrollo en su provincia.",
+            "frase_fuerte": "Compartimos una jornada de diálogo, y trabajo conjunto para poner en común las necesidades y desafíos de toda la zona 🇦🇷."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Gestión Local",
+                "Participación Vecinal",
+                "Respuesta a la Comunidad"
+            ],
+            "postura_politica": "Enfatiza la cercanía con los vecinos y la importancia de escuchar sus necesidades para una gestión efectiva. Prioriza la respuesta directa a las comunidades y la resolución de problemas locales, mostrando un enfoque de gobierno orientado al territorio.",
+            "frase_fuerte": "Nadie conoce mejor lo que pasa en un barrio que sus propios vecinos: por eso nos sentamos con vecinalistas de Comodoro Rivadavia para escuchar de primera mano qué necesita cada comunidad y seguir trabajando juntos."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Innovación Agropecuaria (AgTech)",
+                "Inclusión de Personas con Discapacidad",
+                "Infraestructura Vial",
+                "Generación de Empleo",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Impulsa a Córdoba como polo de innovación AgTech y reafirma el compromiso con la inversión en infraestructura vial para la conectividad y el turismo. Destaca el apoyo a instituciones que trabajan con personas con discapacidad y subraya que el superávit fiscal debe orientarse a la producción y el empleo, con una visión de crecimiento con inclusión.",
+            "frase_fuerte": "No tengo dudas de que nuestra capital alterna avanza para convertirse en una de las grandes ciudades #AgTech de la Argentina y en una referencia internacional en tecnología aplicada al campo."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Aniversarios Locales",
+                "Historia y Cultura Provincial",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "Utiliza los aniversarios de localidades como una oportunidad para reafirmar la identidad, la historia y la cultura provincial. Proyecta un futuro de desarrollo para sus municipios, manteniendo un enfoque positivo en el crecimiento local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Norte Grande",
+                "Diálogo Federal",
+                "Agenda Regional"
+            ],
+            "postura_politica": "Participa en la Asamblea del Norte Grande, buscando la coordinación con otras provincias y la Nación en la defensa de intereses regionales. Se alinea con la estrategia de un bloque unificado para abordar problemáticas comunes.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Soberanía Energética",
+                "Recursos Naturales",
+                "Inversión Privada",
+                "Participación Estatal",
+                "Desarrollo Económico"
+            ],
+            "postura_politica": "Defiende la soberanía provincial sobre los recursos naturales y promueve un modelo de inversión en el sector hidrocarburífero con reglas claras y fuerte participación estatal a través de Pampetrol. Destaca la seguridad jurídica y la previsibilidad fiscal para atraer capitales, priorizando el beneficio y el trabajo provincial.",
+            "frase_fuerte": "Por el ejercicio soberano sobre nuestros recursos naturales. En esta licitación, la Provincia mantiene una participación directa del Estado, a través de Pampetrol SAPEM, del 20% de la concesión, adicional a la percepción de regalías."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Norte Grande",
+                "Estrategia Energética Regional",
+                "Reducción de Impuestos (Mandioca)",
+                "Diálogo Interprovincial"
+            ],
+            "postura_politica": "Anfitrión de la Asamblea del Norte Grande, promueve la unidad regional para defender los intereses comunes ante el gobierno central. Subraya la necesidad de una estrategia energética adaptada a la región y apoya la reducción del IVA en productos locales clave, buscando reducir asimetrías y fomentar la producción.",
+            "frase_fuerte": "Nuestro norte es claro: crecer juntos. Hoy, en Misiones, recibimos a las provincias del Norte Grande para reafirmar una convicción: cuando el norte habla con una sola voz, el país escucha."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Deporte Comunitario",
+                "Regionalización a través del Deporte",
+                "Vivienda Social",
+                "Infraestructura Urbana"
+            ],
+            "postura_politica": "Impulsa programas de deporte a nivel regional para fomentar la integración y el desarrollo local. Continúa con planes de vivienda que incluyen co-financiamiento municipal, enfocándose en la mejora de la calidad de vida y la planificación urbana para el futuro.",
+            "frase_fuerte": "Ordenar para redistribuir también es construir futuro y mejorar la calidad de vida de nuestra gente en cada localidad."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Emergencia Climática (Nieve)",
+                "Salud Pública",
+                "Coordinación Provincial-Municipal",
+                "Logística y Asistencia"
+            ],
+            "postura_politica": "Muestra una gestión proactiva y coordinada frente a la emergencia por nevadas, destacando la operatividad de los servicios de salud y la movilización de recursos (sal para calles) con apoyo público-privado. Enfatiza la presencia provincial y el trabajo conjunto con los municipios para dar respuestas rápidas.",
+            "frase_fuerte": "El temporal todavía exige mucha precaución. Evitemos circular si no es necesario, usemos cadenas o cubiertas adecuadas, tengamos especial cuidado con el hielo y la nieve y mantengamos siempre ventilados los hogares para prevenir intoxicaciones por monóxido de carbono."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Norte Grande",
+                "Estrategia Energética Regional",
+                "Infraestructura Regional",
+                "Fenómeno El Niño"
+            ],
+            "postura_politica": "Participa en la Asamblea del Norte Grande, centrado en la coordinación regional para temas estratégicos como la energía, el gas y la infraestructura, así como la prevención del fenómeno El Niño. Apoya la articulación federal para impulsar las economías y el desarrollo de la región.",
+            "frase_fuerte": "Seguimos articulando una agenda federal que nos permita defender los intereses del Norte Grande, impulsar nuestras economías y generar más oportunidades de desarrollo."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Acuerdos Nación-Provincia",
+                "Infraestructura Vial",
+                "Inversión Industrial",
+                "Programas Sociales (Adultos Mayores)"
+            ],
+            "postura_politica": "Destaca los logros en infraestructura vial mediante acuerdos con el gobierno nacional, aunque con ejecución y traspaso de jurisdicción provincial, mostrando pragmatismo. Celebra inversiones privadas en la provincia y la reactivación de plantas industriales, además de promover programas sociales para adultos mayores.",
+            "frase_fuerte": "Luego de un acuerdo con el Gobierno Nacional a partir de una reunión que mantuve hace exactamente un mes con el Jefe de Gabinete @diegosantilli HOY INICIAMOS LA OBRA PUBLICA VIAL de puesta en valor integral (...) La Obra se ejecutará con recursos provinciales y existe un preacuerdo en donde el Gobierno Nacional traspasará la Jurisdicción de la Ruta a la Jurisdicción Provincial"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Inversión Deportiva",
+                "Crítica a Gestión Anterior",
+                "Transparencia en Recursos",
+                "Desarrollo y Empleo"
+            ],
+            "postura_politica": "Promueve la inversión en infraestructura deportiva y critica abiertamente la 'corrupción' y el 'abandono' de la gestión kirchnerista anterior. Reafirma el uso transparente de los recursos provinciales para generar obra pública, empleo y desarrollo, buscando un cambio de rumbo para la provincia.",
+            "frase_fuerte": "Durante 30 años desaprovecharon los recursos de Santa Cruz. Hoy nosotros los invertimos en desarrollo y trabajo"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Talento Local",
+                "Lucha contra Incendios",
+                "Seguridad Territorial",
+                "Inversión en Equipamiento"
+            ],
+            "postura_politica": "Resalta el talento y la capacidad productiva de los santafesinos, utilizando ejemplos locales. Demuestra una gestión activa en la adquisición de equipos para la protección del territorio (aviones hidrantes), priorizando la anticipación y la preparación para la seguridad de los ciudadanos.",
+            "frase_fuerte": "Por primera vez en nuestra historia, Santa Fe tiene su propia flota de aviones hidrantes para combatir el fuego."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Norte Grande",
+                "Fenómeno El Niño",
+                "Estrategia Energética Regional",
+                "Tarifas Equitativas",
+                "Obras Hídricas"
+            ],
+            "postura_politica": "Participa activamente en la Asamblea del Norte Grande, enfocándose en la coordinación regional para la prevención del fenómeno El Niño y la necesidad de una estrategia energética con tarifas equitativas. Subraya la importancia de obras hídricas y la interacción interprovincial en la gestión de riesgos climáticos.",
+            "frase_fuerte": "Remarqué la importancia de sostener una interacción permanente entre los distintos organismos nacionales y provinciales de alerta y prevención climática, para avanzar en la planificación conjunta de su abordaje."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Norte Grande",
+                "Agenda Federal",
+                "Infraestructura Regional",
+                "Abastecimiento de Gas",
+                "Obra Pública"
+            ],
+            "postura_politica": "Participa en la Asamblea del Norte Grande, defendiendo la necesidad de acelerar obras clave como la Reversión del Gasoducto del Norte para el desarrollo industrial y económico de su provincia y la región. Enfatiza la importancia del federalismo y la integración para construir las condiciones de crecimiento.",
+            "frase_fuerte": "Para Tucumán, el abastecimiento de gas es un tema central. Nuestra industria necesita contar con energía suficiente y a costos competitivos para sostener la producción, el empleo y el acceso a los mercados."
+        }
+    ]
+}
