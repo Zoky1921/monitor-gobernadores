@@ -1,0 +1,129 @@
+{
+    "clima_general": "DILUIDO",
+    "resumen_ejecutivo": "La agenda de los gobernadores hoy se focalizó en la gestión provincial con énfasis en la reactivación de obra pública y programas de desarrollo local. Axel Kicillof (Buenos Aires) criticó al Gobierno Nacional por la paralización de obras, destacando la acción provincial para retomarlas. Otros mandatarios como Martín Llaryora (Córdoba) y Leandro Zdero (Chaco) impulsaron la innovación productiva, la atracción de inversiones y la entrega de viviendas. La promoción económica, la integración regional y el apoyo al consumo local también marcaron la jornada, con un tono general centrado en la autonomía y la capacidad de gestión de las provincias frente a los desafíos.",
+    "analisis_profundo": "La dinámica federal hoy se presenta con un marcado acento en la gestión autónoma de las provincias, a menudo en contraposición o complementariedad a las acciones del Gobierno Nacional. Axel Kicillof (Buenos Aires) lideró el mensaje crítico, señalando directamente al Ejecutivo nacional por el freno a la obra pública y la subsiguiente reactivación de proyectos por parte de la provincia, como la Avenida Cariboni. Esta postura subraya la capacidad y voluntad de las administraciones provinciales para mantener el pulso de la inversión en infraestructura clave, aun en un contexto de restricción fiscal a nivel nacional.\n\nEn el plano del desarrollo productivo y la atracción de inversiones, Martín Llaryora (Córdoba) proyectó a su provincia como un polo agro-tecnológico de referencia internacional, mientras que Carlos Sadir (Jujuy) promovió activamente la ExpoJuy 2026 en Buenos Aires para fomentar rondas de negocios y vinculación. Rolando Figueroa (Neuquén) destacó la oportunidad de Vaca Muerta para la integración energética con Chile y la región, mostrando una visión de desarrollo que trasciende las fronteras nacionales.\n\nLa gestión social y el apoyo al consumo local también fueron pilares de la jornada. Leandro Zdero (Chaco) celebró la entrega transparente de viviendas, y Hugo Passalacqua (Misiones) anunció un programa de descuentos para el Día del Niño, evidenciando un esfuerzo por dinamizar las economías domésticas y la atención a las necesidades directas de los ciudadanos. La reafirmación de la identidad y la cultura local, como en el mensaje de Gustavo Valdés (Corrientes) por el aniversario de Ituzaingó, complementa esta agenda centrada en lo provincial. En conjunto, los tweets dibujan un escenario donde las provincias buscan soluciones y oportunidades desde su propia órbita de acción, adaptándose y respondiendo a las demandas de sus electorados con un enfoque pragmático y de proximidad.",
+    "temas_calientes": [
+        {
+            "tema": "Autonomia Provincial y Obra Publica",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo e Inversion",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@carlossadirjuy",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Programas Sociales y Habitacionales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Fomento al Consumo y Comercio Local",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Identidad y Desarrollo Territorial",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Andreswatsonok)",
+        "texto": "AVANZA LA OBRA DE AVENIDA CARIBONI 🚧 Recorrí los trabajos sobre avenida Cariboni, una obra que reactivamos junto al gobernador @Kicillofok tras meses de paralización por la decisión del Gobierno Nacional de frenar la obra pública.",
+        "por_que_es_clave": "Este tweet destaca la crítica directa del gobernador Axel Kicillof (Buenos Aires) al Gobierno Nacional por la paralización de obras públicas, reafirmando la decisión provincial de reactivar proyectos esenciales. Refleja una tensión fiscal y de gestión entre la provincia y la Nación, mostrando la postura de la provincia como defensora de la inversión en infraestructura local.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Obra Pública",
+                "Relación Nación-Provincias",
+                "Gestión local"
+            ],
+            "postura_politica": "Crítico con la política de obra pública del Gobierno Nacional, enfatizando la capacidad y decisión provincial para retomar proyectos esenciales que fueron paralizados. Posiciona a la provincia como un actor clave en la continuidad de la gestión y la inversión territorial.",
+            "frase_fuerte": "una obra que reactivamos junto al gobernador @Kicillofok tras meses de paralización por la decisión del Gobierno Nacional de frenar la obra pública."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Política social",
+                "Transparencia",
+                "Gestión local"
+            ],
+            "postura_politica": "Enfocado en la gestión social transparente, con la entrega de viviendas a través de sorteos públicos. Busca transmitir una imagen de cercanía y efectividad en la resolución de problemas directos para los ciudadanos.",
+            "frase_fuerte": "Nos llena de alegría ver la emoción de las familias de Puerto Tirol que hoy acceden a su vivienda propia a través de un sorteo público y transparente."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Gestión territorial",
+                "Desarrollo productivo",
+                "Innovación",
+                "Empleo",
+                "Federalismo interno"
+            ],
+            "postura_politica": "Proyecta a Córdoba como un referente en el desarrollo territorial y la innovación, especialmente en el sector agro-tecnológico. Subraya la importancia del diálogo, la presencia en el interior y la generación de empleo calificado mediante la articulación público-privada.",
+            "frase_fuerte": "No tengo dudas de que nuestra capital alterna avanza para convertirse en una de las grandes ciudades #AgTech de la Argentina y en una referencia internacional en tecnología aplicada al campo."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Cultura",
+                "Gestión territorial",
+                "Identidad provincial"
+            ],
+            "postura_politica": "Enfocado en la celebración de la identidad y la historia local, destacando el potencial de desarrollo de sus municipios. Refuerza un mensaje de orgullo provincial y acompañamiento a las comunidades en su proyección futura.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Promoción económica",
+                "Inversión",
+                "Vínculos empresariales",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Promueve activamente la provincia a nivel nacional para atraer inversiones y fomentar el comercio exterior. Muestra una agenda pro-negocios y de desarrollo productivo regional, buscando posicionar a Jujuy como un destino atractivo para los negocios.",
+            "frase_fuerte": "Estuvimos en Buenos Aires presentando la ExpoJuy 2026 junto a la Cámara de Comercio Exterior de Jujuy. En octubre, vamos a tener 4 jornadas intensivas de rondas de negocios y vinculación."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Fomento al consumo",
+                "Programas económicos",
+                "Comercio local",
+                "Política social"
+            ],
+            "postura_politica": "Implementa medidas de apoyo al consumo y al comercio local, buscando dinamizar la economía provincial en fechas especiales. Refleja un gobierno presente en la economía familiar y en la promoción de la actividad comercial interna.",
+            "frase_fuerte": "Informo que, los días viernes 14 y sábado 15 de agosto estará vigente el programa “AHORA NIÑO” para los rubros jugueterías, indumentaria, zapaterías, librerías, artículos deportivos, ópticas y regalos, con tarjetas de crédito del Banco Macro, en cuotas sin interés y con reintegros."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Integración regional",
+                "Energía (Vaca Muerta)",
+                "Inversión extranjera",
+                "Educación",
+                "Infraestructura"
+            ],
+            "postura_politica": "Proyecta a Neuquén como un actor clave en la integración energética regional a través de Vaca Muerta. Demuestra un enfoque en la construcción de confianza y la inversión para el desarrollo, priorizando también la infraestructura educativa como base para el crecimiento futuro.",
+            "frase_fuerte": "Vaca Muerta nos abre una enorme oportunidad para construir una verdadera integración energética con Chile y con toda la región."
+        }
+    ]
+}

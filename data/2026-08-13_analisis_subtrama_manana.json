@@ -1,0 +1,126 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada muestra una tensión latente entre el discurso de gestión provincial y la crítica a la Nación. Kicillofok reactiva obras paralizadas por Nación, mientras Llaryora exhibe un modelo cordobés autónomo. El resto de los gobernadores se refugia en agenda local, sin posicionamiento federal explícito.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El motor de la jornada es la disputa por la obra pública. Kicillofok, con su retuit sobre la Avenida Cariboni, no celebra una inauguración, sino que denuncia la paralización nacional y se presenta como salvador de la infraestructura bonaerense. Es un ataque directo a la Casa Rosada, que busca capitalizar el descontento local. Llaryora, por su parte, no critica a Nación directamente, pero su insistencia en el superávit fiscal como herramienta productiva es una respuesta implícita al ajuste nacional. Ambas son caras de la misma moneda: la necesidad de marcar autonomía en un contexto de asfixia fiscal.\n\nActo 2 — Los Alineamientos: Los socios estratégicos del oficialismo nacional, como Jalil o Cornejo, aparecen ausentes en la jornada, mientras que los gobernadores peronistas y radicales se muestran en modo de gestión local. El silencio de los gobernadores del Norte Grande, que ayer se reunieron en Misiones, es llamativo: no hay tweets de ellos hoy, lo que sugiere una estrategia coordinada de low profile tras la asamblea. Llaryora, en cambio, se posiciona como el ‘modelo alternativo’ de gestión, con Córdoba como faro de productividad.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas como Zdero (Chaco), Sadir (Jujuy) o Passalacqua (Misiones) se limitan a anunciar programas locales (viviendas, ferias, beneficios). Son gestos de supervivencia: muestran gestión para justificar su poder local, pero evitan cualquier roce con Nación. El silencio de los patagónicos (Weretilneck, Figueroa, Torres) es revelador: quizás están en modo de espera, midiendo el impacto del temporal en Bariloche o la licitación de Vaca Muerta.\n\nActo 4 — Saldo Presidencial: Para Milei, el día es ambiguo. La ausencia de críticas frontales desde la mayoría de las provincias es una victoria pírrica, porque la oposición (Kicillofok) encuentra en la obra pública un caballo de batalla. Llaryora, aunque no es oposición, erosiona el relato del ajuste con su modelo de superávit productivo. El Gobierno nacional necesita que los gobernadores peronistas se alineen o se callen, pero hoy la balanza se inclina levemente hacia la autonomía provincial.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la paralización de obra pública por Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Exhibición de modelo productivo provincial autónomo",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Entrega de viviendas y gestión habitacional local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Promoción de eventos y programas provinciales (ExpoJuy, Ahora Niño)",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Defensa de la industria y la energía (IMPSA, Vaca Muerta)",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Andreswatsonok)",
+        "texto": "AVANZA LA OBRA DE AVENIDA CARIBONI 🚧\n\nRecorrí los trabajos sobre avenida Cariboni, una obra que reactivamos junto al gobernador @Kicillofok tras meses de paralización por la decisión del Gobierno Nacional de frenar la obra pública.",
+        "por_que_es_clave": "Kicillofok utiliza la reactivación de una obra local para denunciar el abandono nacional y posicionarse como gestor eficaz frente al ajuste, enviando un mensaje directo a la Casa Rosada.",
+        "pregunta_openarg": "¿Cuántas obras públicas provinciales fueron reactivadas con fondos propios luego de la paralización nacional, y cuál es el costo fiscal de esa decisión?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Obra pública",
+                "conflicto con Nación",
+                "gestión provincial"
+            ],
+            "postura_politica": "Critica abiertamente al Gobierno Nacional por paralizar la obra pública y se presenta como el que reactiva las obras. Es un dardo directo a Nación, reclamando recursos y mostrando eficacia provincial.",
+            "frase_fuerte": "tras meses de paralización por la decisión del Gobierno Nacional de frenar la obra pública"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Vivienda",
+                "gestión social"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a mostrar la entrega de viviendas mediante sorteo, sin menciones a Nación ni a conflictos. Es un posteo de gestión pura.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Recorrida provincial",
+                "AgTech",
+                "inversión privada",
+                "superávit fiscal"
+            ],
+            "postura_politica": "Refuerza su modelo de gestión autónoma y productiva, destacando inversiones privadas y el superávit como herramienta de desarrollo. Implícitamente, se diferencia del ajuste nacional y se posiciona como alternativa de gestión.",
+            "frase_fuerte": "El superávit fiscal es necesario, pero no puede ser un fin en sí mismo. La verdadera discusión es para qué se utiliza"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Efeméride local",
+                "cultura"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Un saludo por el aniversario de Ituzaingó, sin contenido político relevante.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "ExpoJuy",
+                "comercio exterior"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Promociona un evento provincial de comercio exterior, sin referencias a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Industria",
+                "IMPSA",
+                "exportaciones"
+            ],
+            "postura_politica": "Defiende la industria local (IMPSA) como un éxito de gestión provincial, destacando la capacidad de competir internacionalmente. Es un mensaje de autonomía productiva, sin confrontación directa con Nación.",
+            "frase_fuerte": "Valió la pena sostener a IMPSA cuando muchos la daban por perdida"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Programa Ahora Niño",
+                "consumo local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Anuncia un programa de beneficios para el consumo, típica gestión de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "integración energética",
+                "escuela",
+                "infraestructura educativa"
+            ],
+            "postura_politica": "Doble mensaje: por un lado, promueve la integración energética con Chile y el desarrollo de Vaca Muerta como motor regional; por otro, muestra obra pública educativa local. No hay crítica a Nación, sino posicionamiento como provincia clave en recursos estratégicos.",
+            "frase_fuerte": "Vaca Muerta nos abre una enorme oportunidad para construir una verdadera integración energética con Chile"
+        }
+    ]
+}
