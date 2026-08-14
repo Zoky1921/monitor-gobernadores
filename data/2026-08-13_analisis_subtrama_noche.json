@@ -1,0 +1,207 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada exhibe una grieta entre gobernadores que apuestan a la inversión energética (Figueroa, Cornejo) y quienes redoblan la confrontación política (Kicillof). La mayoría se refugia en la gestión local, mientras el Norte Grande y la Región Centro ensayan coordinación. El silencio de varios pesos pesados (Jalil, Frigerio, Pullaro) sugiere cálculo electoral.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante es la disputa por el modelo económico. Mientras el Gobierno nacional impulsa el RIGI y la megainversión de Argentina LNG en Neuquén, Axel Kicillof (Buenos Aires) redobla su ofensiva discursiva, calificando al ajuste de 'tragedia' y construyendo su candidatura presidencial con el Movimiento Derecho al Futuro. La omisión de la macroeconomía en los tuits de gestión de otros gobernadores es, en sí misma, un mensaje de repliegue o supervivencia.\n\nActo 2 — Los Alineamientos: Se perfilan tres bloques. El primero, de alineamiento explícito con la Casa Rosada: Rolando Figueroa (Neuquén) y Alfredo Cornejo (Mendoza) celebran inversiones y reglas claras, con Figueroa reclamando mayor compensación fiscal. El segundo, de oposición frontal: Kicillof, apoyado por el peronismo de La Rioja (Quintela) y Santiago del Estero (Suárez), aunque estos últimos con tono más institucional. El tercero, de ambigüedad calculada: gobernadores como Leandro Zdero (Chaco) y Claudio Poggi (San Luis) alternan gestión local con gestos de diálogo nacional, sin definiciones duras.\n\nActo 3 — La Micro-política: Las provincias periféricas se refugian en la agenda de cabotaje. Nacho Torres (Chubut) promociona el MEF, Gustavo Valdés (Corrientes) celebra un aniversario, y Hugo Passalacqua (Misiones) lanza un programa de consumo. Son gestos de supervivencia: muestran gestión para disimular la asfixia fiscal. La excepción es Sergio Ziliotto (La Pampa), que combina prevención climática con una licitación petrolera, marcando soberanía sobre sus recursos.\n\nActo 4 — Saldo Presidencial: El balance para la Casa Rosada es mixto. La inversión de USD 51.000 millones en Neuquén es un triunfo político, pero la persistente oposición de Buenos Aires y la falta de adhesión explícita de gobernadores clave (como los de la Región Centro) indican que el capital político de Milei sigue siendo frágil. La jornada deja la sensación de un país que negocia mientras se prepara para la batalla electoral de 2027.",
+    "temas_calientes": [
+        {
+            "tema": "Megainversión en Vaca Muerta y RIGI",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Oposición política y construcción electoral de Kicillof",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Seguridad y justicia: leyes de reiterancia y control territorial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Infraestructura y gestión local como refugio político",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@NachoTorresCH",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Coordinación regional: Norte Grande y Región Centro",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "NEUQUÉN ES PROTAGONISTA DE LA MAYOR INVERSIÓN DE LA HISTORIA ARGENTINA \n\nArgentina LNG solicitó su adhesión al RIGI para desarrollar una inversión de USD 51.000 millones. Detrás de ese número hay algo mucho más grande: la posibilidad de que Neuquén vuelva a ponerse de pie y, con sus recursos, ayude a poner de pie a toda la Argentina.\n\nTenemos un desafío generacional. Vaca Muerta nos da una oportunidad que no podemos desaprovechar: producir, exportar, generar trabajo y desarrollo para que nuestros recursos se transformen en bienestar para los neuquinos y en crecimiento para todo el país. Esta puede ser la última gran oportunidad que tenemos. Tenemos que estar a la altura.\n\nEsto significa más trabajo para los neuquinos, más oportunidades para nuestras familias, más desarrollo para nuestras comunidades y más recursos para que Neuquén siga creciendo.",
+        "por_que_es_clave": "Figueroa se posiciona como el gobernador que capitaliza el RIGI y la inversión privada, reclamando al mismo tiempo mayor compensación fiscal. Es un mensaje doble: apoyo al modelo nacional pero presión por recursos. La frase 'última gran oportunidad' es un guiño a la urgencia y un recordatorio de que el éxito de Vaca Muerta es también una apuesta política.",
+        "pregunta_openarg": "¿Es la inversión de USD 51.000 millones en Vaca Muerta la última oportunidad para el desarrollo argentino o una nueva forma de extractivismo sin beneficios locales?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Presentación de libro",
+                "Construcción política opositora",
+                "Ciencia y educación",
+                "Obra pública provincial"
+            ],
+            "postura_politica": "Kicillof intensifica su perfil presidencial. Retuitea mensajes que califican a Milei de 'tragedia' y promueve su libro como plataforma ideológica. La omisión de la macroeconomía en sus tuits de gestión es deliberada: busca mostrar que su provincia gestiona a pesar del ajuste nacional.",
+            "frase_fuerte": "Frente a la tragedia que significa Milei para el pueblo argentino, estamos construyendo una fuerza política amplia, de abajo hacia arriba, que organice la esperanza que encarna @Kicillofok."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Lucha contra el narcotráfico",
+                "Cooperación internacional",
+                "Control territorial"
+            ],
+            "postura_politica": "Macri refuerza su perfil de mano dura con un convenio con la UNODC. Es un mensaje a la Nación: la Ciudad se toma la seguridad en serio, mientras el gobierno nacional mira para otro lado. La omisión de cualquier referencia a Nación es un gesto de autonomía.",
+            "frase_fuerte": "Garantizar la ley y el orden es una prioridad de esta gestión."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Ley de Reiterancia",
+                "Viviendas",
+                "Asociación de Sordos"
+            ],
+            "postura_politica": "Zdero propone una ley de reiterancia para terminar con la puerta giratoria, apelando a la agenda de seguridad. Pregunta retóricamente por qué la oposición no la trata, buscando desgastar al peronismo local. Las viviendas y el saludo a la asociación son gestión blanda.",
+            "frase_fuerte": "Propusimos la 'Ley de Reiterancia', para poner FIN A LA PUERTA GIRATORIA. ¿Por qué la oposición no quiere tratarla?"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Patrimonio paleontológico",
+                "Gestión cultural"
+            ],
+            "postura_politica": "Torres promociona el MEF Invita, un evento de divulgación científica. Es agenda local sin impacto federal, un refugio en la gestión cultural para evitar posicionarse sobre temas nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Robótica educativa",
+                "AgTech",
+                "Infraestructura hídrica",
+                "Inversión privada"
+            ],
+            "postura_politica": "Llaryora muestra una Córdoba pujante, con inversiones en tecnología e infraestructura. La ausencia de crítica a Nación es calculada: se alinea con el discurso productivista pero sin confrontar. La mención al superávit fiscal en el ciclo Democracia y Desarrollo es un guiño al oficialismo.",
+            "frase_fuerte": "El superávit fiscal es necesario, pero no puede ser un fin en sí mismo. La verdadera discusión es para qué se utiliza."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Aniversario de Ituzaingó"
+            ],
+            "postura_politica": "Valdés se limita a una efeméride local. Es un gesto de baja intensidad política, probablemente para evitar ruido en un contexto de tensión.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "ExpoJuy 2026",
+                "Rondas de negocios"
+            ],
+            "postura_politica": "Sadir promociona un evento comercial. Es gestión local sin carga política, aunque la presencia en Buenos Aires sugiere búsqueda de inversiones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Prevención de El Niño",
+                "Licitación petrolera",
+                "Jubilaciones"
+            ],
+            "postura_politica": "Ziliotto combina gestión climática con una licitación de hidrocarburos que reafirma la soberanía provincial. La defensa de la caja previsional es un dardo a Nación. Es un gobernador que marca perfil propio, ni oficialista ni opositor.",
+            "frase_fuerte": "En La Pampa, las jubilaciones se defienden. La jubilación mínima provincial es la más alta del país y más que duplica la mínima nacional."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Entrega de herbicidas",
+                "Producción local"
+            ],
+            "postura_politica": "Quintela apoya a pequeños productores con insumos. Es gestión de cercanía, pero sin confrontación directa con Nación. Su silencio sobre la macroeconomía es un repliegue táctico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Agenda energética",
+                "IMPSA",
+                "Infraestructura"
+            ],
+            "postura_politica": "Cornejo se posiciona como un gobernador pro-inversión, destacando la recuperación de IMPSA y la participación en foros energéticos. Su alineamiento con el RIGI es claro, pero sin mencionar explícitamente a Milei.",
+            "frase_fuerte": "Valió la pena sostener a IMPSA cuando muchos la daban por perdida. Hoy vuelve a competir en los mercados internacionales."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Metal Misión 2026",
+                "Programa Ahora Niño"
+            ],
+            "postura_politica": "Passalacqua lanza una ronda de negocios para la industria metalmecánica y un programa de consumo. Es gestión local con un guiño a la producción, pero sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Inversión LNG",
+                "Integración con Chile",
+                "Educación",
+                "Viviendas"
+            ],
+            "postura_politica": "Figueroa es el gran ganador del día: anuncia la mayor inversión de la historia argentina y reclama mayor compensación fiscal. Su discurso es de orgullo provincial pero también de presión a Nación. La integración con Chile y la agenda educativa refuerzan su perfil de gestión.",
+            "frase_fuerte": "Esta puede ser la última gran oportunidad que tenemos. Tenemos que estar a la altura."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Programa Hora Más",
+                "Proyecto audiovisual",
+                "Obra pública"
+            ],
+            "postura_politica": "Poggi se reúne con la ministra Pettovello para ampliar el programa Hora Más, mostrando gestión conjunta con Nación. También participa de un acto cultural. Es un gobernador que busca equilibrio: diálogo con Nación sin perder perfil propio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Programa Construir Santa Cruz",
+                "Viviendas"
+            ],
+            "postura_politica": "Vidal lanza un registro habitacional para diagnosticar necesidades. Es gestión técnica, sin contenido político. La omisión de Nación sugiere que evita el conflicto.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Encuentro con cardenal",
+                "Semana Social"
+            ],
+            "postura_politica": "Suárez recibe al cardenal Bokalic y aborda temas de pastoral social. Es un gesto de perfil bajo, alejado de la confrontación. La omisión de temas fiscales es deliberada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Reapertura del Mercado de la Ciudad",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Jaldo inaugura un mercado renovado en San Miguel de Tucumán. Es gestión local, sin referencias a Nación. Busca mostrar obra pública en un contexto de ajuste.",
+            "frase_fuerte": null
+        }
+    ]
+}

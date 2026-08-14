@@ -1,0 +1,200 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una clara polarización discursiva. Mientras varios gobernadores se enfocaron en la gestión local, la inversión productiva y el desarrollo de infraestructura, la tensión con el gobierno nacional fue palpable. Axel Kicillof (Buenos Aires) arremetió con duras críticas a las políticas de ajuste y la \"tragedia\" que, a su juicio, representa la administración de Milei, abogando por la construcción de una alternativa. En contraste, Rolando Figueroa (Neuquén) celebró una inversión energética histórica ligada al RIGI, posicionando a su provincia como un motor clave para el país. Temas como la seguridad ciudadana y la promoción de economías regionales también dominaron la agenda, evidenciando un panorama federal donde los actores subnacionales buscan consolidar su autonomía y capacidad de gestión frente a un contexto nacional complejo.",
+    "analisis_profundo": "El 13 de agosto de 2026 reflejó una compleja dinámica federal, donde la agenda provincial estuvo marcada por la gestión interna y la proyección económica, en un entorno de fuerte confrontación política con el gobierno central. Axel Kicillof (Buenos Aires) asumió un rol protagónico en la oposición, articulando un discurso crítico hacia la política nacional. Sus publicaciones denunciaron la \"tragedia\" que Milei representa, criticando el \"ajuste\" y la \"crueldad\" de medidas como el posible cobro de servicios de salud a extranjeros, argumentando su inconstitucionalidad. Kicillof (Buenos Aires) también se posicionó en la construcción de una \"fuerza política amplia\" y destacó la reactivación de obras públicas paralizadas por Nación, como la Avenida Cariboni, reafirmando un proyecto federalista con tintes nacionales.\n\nEn un polo opuesto, gobernadores como Rolando Figueroa (Neuquén) y Alfredo Cornejo (Mendoza) capitalizaron la narrativa de las inversiones y el desarrollo energético. Figueroa (Neuquén) celebró la adhesión de Argentina LNG al Régimen de Incentivo a las Grandes Inversiones (RIGI) por USD 51.000 millones en Vaca Muerta, proyectando a Neuquén (Neuquén) como un \"protagonista\" y \"motor del desarrollo\" para toda Argentina, aunque señalando la desproporción en la distribución de recursos que la provincia aporta. Cornejo (Mendoza), por su parte, expuso en el AmCham Energy Forum, destacando las herramientas provinciales para atraer inversión en energía, minería y agroindustria, y la capacidad de IMPSA de competir internacionalmente, subrayando la importancia de reglas claras.\n\nLa seguridad ciudadana fue un punto convergente. Jorge Macri (Ciudad Autónoma de Buenos Aires) enfatizó la lucha contra el narcotráfico mediante la cooperación con la UNODC. Leandro Zdero (Chaco) propuso una \"Ley de Reiterancia\" para acabar con la \"puerta giratoria\" de la justicia, mostrando una postura firme ante la delincuencia. Otros gobernadores se centraron en acciones de gobierno. Martín Llaryora (Córdoba) destacó la inversión en educación con la Copa Robótica Educabot y sus recorridos por el interior. Sergio Ziliotto (La Pampa) convocó a intendentes para coordinar la prevención ante el fenómeno de El Niño. Ricardo Quintela (La Rioja) apoyó a productores de comino, y Claudio Poggi (San Luis) anunció la incorporación de escuelas a programas nacionales. Osvaldo Jaldo (Tucumán) celebró la reapertura del Mercado de la Ciudad y Claudio Vidal (Santa Cruz) lanzó un programa para diagnosticar las necesidades habitacionales. Elías Suárez (Santiago del Estero) sostuvo un encuentro con líderes religiosos para dialogar sobre temas sociales y educativos. El ambiente general, si bien muestra activas gestiones provinciales, se ve teñido por las fricciones y el marcado contraste de visiones con el gobierno federal, anticipando una continuidad de la tensión política y económica.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica y Construcción de Alternativa al Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Fomento de Inversiones y Desarrollo Energético",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Seguridad Ciudadana y Lucha contra el Delito",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Federalismo y Autonomía Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Educación e Innovación Provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "NEUQUÉN ES PROTAGONISTA DE LA MAYOR INVERSIÓN DE LA HISTORIA ARGENTINA Argentina LNG solicitó su adhesión al RIGI para desarrollar una inversión de USD 51.000 millones. Detrás de ese número hay algo mucho más grande: la posibilidad de que Neuquén vuelva a ponerse de pie y, con sus recursos, ayude a poner de pie a toda la Argentina. Tenemos un desafío generacional. Vaca Muerta nos da una oportunidad que no podemos desaprovechar: producir, exportar, generar trabajo y desarrollo para que nuestros recursos se transformen en bienestar para los neuquinos y en crecimiento para todo el país. Esta puede ser la última gran oportunidad que tenemos. Tenemos que estar a la altura.",
+        "por_que_es_clave": "Este tweet es clave porque destaca una inversión histórica ligada al RIGI y Vaca Muerta, posicionando a Neuquén (Neuquén) como un motor económico nacional y delineando una visión estratégica que conecta el desarrollo provincial con la recuperación económica del país. Subraya la oportunidad generacional que representan estos recursos y la necesidad de aprovecharlos.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al Gobierno Nacional",
+                "Construcción de alternativa política",
+                "Federalismo",
+                "Salud Pública",
+                "Obra Pública"
+            ],
+            "postura_politica": "Líder opositor con fuerte discurso anti-ajuste y defensor de políticas sociales y federales. Posiciona a su provincia (Buenos Aires) como baluarte frente a las políticas nacionales y se proyecta como referente de una construcción política alternativa.",
+            "frase_fuerte": "En el fondo es una bomba de humo para que discutamos su infinita crueldad y deshumanización, y no discutamos del dolor y sufrimiento que produce su ajuste."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el narcotráfico",
+                "Cooperación internacional"
+            ],
+            "postura_politica": "Prioriza la seguridad ciudadana y el orden, buscando herramientas internacionales para fortalecer la capacidad policial en el combate del crimen organizado en su provincia (Ciudad Autónoma de Buenos Aires).",
+            "frase_fuerte": "'Garantizar la ley y el orden es una prioridad de esta gestión.'"
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Seguridad",
+                "Legislación",
+                "Vivienda social"
+            ],
+            "postura_politica": "Impulsa medidas de 'mano dura' contra la delincuencia como la Ley de Reiterancia y se enfoca en la gestión de vivienda para familias, buscando mejorar la calidad de vida y el orden social en su provincia (Chaco).",
+            "frase_fuerte": "Propusimos la 'Ley de Reiterancia', para poner FIN A LA PUERTA GIRATORIA."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Cultura",
+                "Educación",
+                "Turismo",
+                "Patrimonio paleontológico"
+            ],
+            "postura_politica": "Promueve el valor de la ciencia y el patrimonio cultural como motor de curiosidad y orgullo provincial (Chubut), ligándolo al desarrollo turístico y educativo.",
+            "frase_fuerte": "'Nuestra provincia tiene uno de los patrimonios paleontológicos más importantes del mundo, y qué mejor manera de conocerlo que despertando la curiosidad de los más chicos.'"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación",
+                "Innovación",
+                "Desarrollo productivo",
+                "Gestión gubernamental"
+            ],
+            "postura_politica": "Fomenta la participación juvenil en tecnología, dinamiza la economía regional a través de eventos agro-tecnológicos y destaca su cercanía con el interior provincial (Córdoba) mediante recorridos y nombramientos.",
+            "frase_fuerte": "NUESTROS JÓVENES CONSTRUYEN EL FUTURO CON ROBÓTICA E INNOVACIÓN"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Prevención de desastres naturales",
+                "Gestión ambiental",
+                "Coordinación interjurisdiccional"
+            ],
+            "postura_politica": "Muestra un enfoque proactivo en la gestión de riesgos climáticos, convocando a actores locales para coordinar estrategias de prevención ante el fenómeno de El Niño en su provincia (La Pampa).",
+            "frase_fuerte": "Convocamos a todos los intendentes y jefes comunales para organizar la prevención y la respuesta ante los posibles efectos del fenómeno climático El Niño."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Producción agraria",
+                "Economías regionales",
+                "Inversión provincial"
+            ],
+            "postura_politica": "Apoya directamente a los productores locales a través de subsidios y herramientas, buscando fortalecer las economías regionales y la identidad productiva de la provincia (La Rioja).",
+            "frase_fuerte": "En Bañado de Los Pantanos seguimos acompañando a quienes hacen producir nuestra tierra."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Energía",
+                "Inversiones",
+                "Industria",
+                "Desarrollo económico",
+                "Competitividad"
+            ],
+            "postura_politica": "Posiciona a Mendoza (Mendoza) como un polo de inversión, especialmente en el sector energético, destacando la importancia de reglas claras y la capacidad de la provincia para generar empleo y diversificar su economía.",
+            "frase_fuerte": "La energía no es solo un recurso. Es una oportunidad para que Mendoza produzca más, exporte más y siga creciendo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Industria metalmecánica",
+                "Fomento económico",
+                "Programas de consumo"
+            ],
+            "postura_politica": "Promueve el desarrollo industrial y comercial de Misiones (Misiones) a través de rondas de negocios y programas de incentivo al consumo, buscando generar oportunidades y crecimiento local.",
+            "frase_fuerte": "Tenemos capacidad, talento y muchas ganas de crecer. Y también seguimos planteando algo fundamental, necesitamos energía confiable y condiciones más justas para que nuestra industria pueda desarrollarse."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inversiones energéticas",
+                "RIGI",
+                "Federalismo",
+                "Relaciones internacionales",
+                "Educación"
+            ],
+            "postura_politica": "Presenta a Neuquén (Neuquén) como un motor económico clave para el país, impulsando grandes inversiones en energía (Vaca Muerta), reclamando un trato justo en la distribución de recursos y fortaleciendo la integración regional. Invierte en educación.",
+            "frase_fuerte": "NEUQUÉN ES PROTAGONISTA DE LA MAYOR INVERSIÓN DE LA HISTORIA ARGENTINA"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Cultura",
+                "Obra pública",
+                "Relaciones con Nación"
+            ],
+            "postura_politica": "Enfocado en la mejora educativa, colaborando con programas nacionales y promoviendo la cultura y la historia local. Destaca acuerdos con el gobierno nacional para obras viales en su provincia (San Luis).",
+            "frase_fuerte": "CABA - Me recibió en audiencia la Ministra de Capital Humano de la Nación @SPettovelloOK y acordamos formalizar la semana próxima la incorporación de otras 84 escuelas primarias de la Provincia de San Luis al Programa Nacional HORA MÁS. Bien ! "
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Diagnóstico habitacional"
+            ],
+            "postura_politica": "Lanza un programa para diagnosticar y responder a las necesidades de vivienda en su provincia (Santa Cruz), mostrando un compromiso con la gestión de programas sociales.",
+            "frase_fuerte": "CONSTRUIR SANTA CRUZ: QUEREMOS CONOCER LA REALIDAD HABITACIONAL DE CADA FAMILIA"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Diálogo social",
+                "Educación",
+                "Prevención de adicciones"
+            ],
+            "postura_politica": "Busca fortalecer el diálogo con instituciones religiosas y sociales para abordar temas de educación y prevención, promoviendo el bien común y el compromiso social en su provincia (Santiago del Estero).",
+            "frase_fuerte": "Recibí al cardenal Vicente Bokalic Iglic y al hermano Cristian Viscardi, con quienes mantuvimos un encuentro de diálogo y reflexión sobre distintos temas de interés para nuestra provincia."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Urbanismo",
+                "Desarrollo económico local",
+                "Puesta en valor de patrimonio"
+            ],
+            "postura_politica": "Impulsa proyectos de revitalización urbana y fomento comercial, destacando la importancia de las inversiones y la articulación para dinamizar la economía local en su provincia (Tucumán).",
+            "frase_fuerte": "Recuperar un edificio histórico y volver a ponerlo al servicio de los tucumanos es una forma concreta de seguir transformando nuestra ciudad."
+        }
+    ]
+}
