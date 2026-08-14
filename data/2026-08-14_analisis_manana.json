@@ -1,0 +1,183 @@
+{
+    "clima_general": "VARIADO",
+    "resumen_ejecutivo": "La jornada exhibe una agenda provincial centrada en la gestión local, obras de infraestructura y desarrollo económico, con un marcado énfasis en la autonomía y la defensa de los intereses regionales frente al escenario nacional. Gobernadores como Axel Kicillof (Buenos Aires) y Claudio Poggi (San Luis) priorizan la entrega de viviendas y la presencia territorial, mientras Jorge Macri (CABA) endurece su postura en seguridad urbana. Ricardo Quintela (La Rioja) y Rolando Figueroa (Neuquén) articulan visiones críticas del centralismo y reclamos por los recursos provinciales, con Alberto Weretilneck (Río Negro) también demandando por rutas nacionales. La cooperación interprovincial emerge como estrategia clave, evidenciada por Raúl Jalil (Catamarca) al firmar convenios regionales.",
+    "analisis_profundo": "La dinámica política federal de hoy, 14 de agosto de 2026, refleja una consolidación de agendas provinciales que priorizan la gestión local y el desarrollo endógeno en un contexto nacional de incertidumbre. Se observa un 'efecto terono' predominante, donde los gobernadores acentúan su rol como garantes de estabilidad y progreso en sus jurisdicciones.\nAxel Kicillof (Buenos Aires) focaliza en la política habitacional, destacando la entrega de viviendas como un pilar de su 'modelo de gestión con el pueblo en el centro'. Similarmente, Claudio Poggi (San Luis) intensifica su 'GIRA INSTITUCIONAL', mezclando visitas a industrias y escuelas con la emotiva entrega de llaves de viviendas, subrayando la cercanía y la respuesta a necesidades básicas.\nEn contraste, la Ciudad de Buenos Aires, bajo Jorge Macri, refuerza su política de 'ley y orden' con acciones contundentes en la urbanización de villas, un mensaje claro de mano dura y control territorial que se ha vuelto una constante en su gestión.\nLa dimensión del desarrollo productivo y energético cobra gran relevancia. Rolando Figueroa (Neuquén) posiciona a Vaca Muerta como un motor nacional, destacando la adhesión al RIGI y la contribución de la provincia al superávit del país, a la vez que prioriza el acceso al gas para sus propios habitantes, revirtiendo una 'injusticia histórica'. Su homólogo de Río Negro, Alberto Weretilneck (Río Negro), refuerza esta visión patagónica, impulsando un 'hub exportador' de energía y reclamando a la Nación por el estado de las rutas nacionales, articulando una clara defensa de la infraestructura regional como clave para la producción.\nRicardo Quintela (La Rioja) se distancia de un 'modelo de ajuste' nacional, abogando por la 'reconfiguración del entramado productivo nacional' y la revalorización de los recursos provinciales para la inclusión. Esta postura crítica del centralismo se complementa con inversiones en sus economías regionales, como el apoyo a productores de comino.\nLa cooperación interprovincial se manifiesta en la firma de un 'convenio histórico' entre Raúl Jalil (Catamarca) y Santiago del Estero para una obra estratégica, una señal de búsqueda de soluciones regionales ante posibles falencias nacionales. Gustavo Valdés (Corrientes) se centra en el fortalecimiento del Banco de Corrientes como herramienta de desarrollo.\nEn resumen, la jornada muestra un tablero federal donde la gestión provincial se autoproclama solucionadora de problemas, con un fuerte componente de defensa de los intereses locales y regionales, y una mezcla de pragmatismo en las obras y retórica crítica hacia el modelo nacional centralista.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Obra Publica",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@gustavomelella",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Economico y Productivo Regional",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok",
+                "@QuintelaRicardo",
+                "@gustavomelella",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Federalismo y Reclamo de Autonomia",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y Control Urbano",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Servicios Publicos y Calidad de Vida",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "En La Carbonilla no se construye un metro cuadrado más. Clausuramos dos corralones que abastecían a la villa. Ley y orden.",
+        "por_que_es_clave": "Este tweet es clave porque subraya una política de 'mano dura' y control territorial en zonas urbanas, marcando una postura firme y directa del gobierno de CABA en un tema sensible como la expansión de asentamientos informales.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Gestion Local",
+                "Politica Social"
+            ],
+            "postura_politica": "Se enfoca en la gestión de políticas sociales, destacando la entrega de viviendas como ejemplo de un modelo de gestión que prioriza a los ciudadanos. Su postura es de reafirmación de la gestión local.",
+            "frase_fuerte": "Seguimos adelante con un modelo de gestión que pone al pueblo en el centro de las prioridades, y esto es un ejemplo de ello."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Control Urbano",
+                "Viviendas Precarias"
+            ],
+            "postura_politica": "Demuestra una firmeza en su política de 'ley y orden' mediante acciones directas en barrios populares. Su postura es de autoridad y control urbano estricto.",
+            "frase_fuerte": "En La Carbonilla no se construye un metro cuadrado más. Clausuramos dos corralones que abastecían a la villa. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Integracion Regional",
+                "Obra Publica",
+                "Federalismo"
+            ],
+            "postura_politica": "Resalta la importancia de la cooperación interprovincial con Santiago del Estero para llevar adelante obras estratégicas. Su postura es de fomento a la integración regional y la suma de esfuerzos.",
+            "frase_fuerte": "Cooperar y sumar esfuerzos es el camino para hacer crecer a nuestra región."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Desarrollo Economico",
+                "Finanzas Provinciales"
+            ],
+            "postura_politica": "Conmemora el aniversario del Banco de Corrientes, enfatizando su rol en el desarrollo económico provincial y el apoyo a diversos actores productivos. Su postura es de apoyo al desarrollo local a través de instrumentos financieros propios.",
+            "frase_fuerte": "Desde 1950 el BanCo se consolida, expande y moderniza para apuntalar el desarrollo, y seguirá haciéndolo."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Identidad Provincial",
+                "Cultura",
+                "Desarrollo Productivo",
+                "Federalismo",
+                "Economia"
+            ],
+            "postura_politica": "Celebra el Día de la Bandera de La Rioja, vinculando el símbolo provincial con la identidad y la historia local. También critica el modelo productivo nacional y defiende la inversión provincial en economías regionales. Su postura es de defensa de la autonomía provincial y el desarrollo productivo federal.",
+            "frase_fuerte": "Hay que pensar en la necesidad de avanzar en la reconfiguración del entramado productivo nacional y desandar la macrocefalia del puerto; pensar un país con oportunidades de trabajo para todos, con futuro en cada lugar."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Gestion Local",
+                "Obra Publica",
+                "Vivienda",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Anuncia una gira institucional con visitas a industrias, escuelas, obras viales y entrega de viviendas, resaltando su cercanía con el interior provincial. Su postura es de gestión activa y presencia territorial.",
+            "frase_fuerte": "Bien cerquita del interior de nuestra Pcia !!"
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Energia",
+                "Obra Publica",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Destaca el trabajo de empresas fueguinas en la construcción de una nueva central termoeléctrica, subrayando el desarrollo energético y el empleo local. Su postura es de impulso a la infraestructura estratégica y la generación de oportunidades para los fueguinos.",
+            "frase_fuerte": "Trabajo fueguino que construye futuro."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquen)",
+            "temas_mencionados": [
+                "Energia",
+                "Servicios Publicos",
+                "Inversiones",
+                "Desarrollo Economico",
+                "Federalismo"
+            ],
+            "postura_politica": "Prioriza el acceso al gas para los neuquinos y posiciona a la provincia como protagonista de la inversión en Vaca Muerta, enfatizando su contribución al país. Su postura es de defensa de los recursos provinciales para el desarrollo local y nacional.",
+            "frase_fuerte": "Esta puede ser la última gran oportunidad que tenemos. Tenemos que estar a la altura."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Rio Negro)",
+            "temas_mencionados": [
+                "Gestion Publica",
+                "Servicios",
+                "Empleo",
+                "Formacion",
+                "Salud Publica",
+                "Emergencia Climatica",
+                "Coordinacion Estatal",
+                "Seguridad",
+                "Turismo",
+                "Infraestructura Vial",
+                "Economia Regional",
+                "Justicia",
+                "Sistema Penitenciario",
+                "Inversion Privada",
+                "Exportacion",
+                "Conectividad",
+                "Educacion"
+            ],
+            "postura_politica": "Aborda una amplia agenda que incluye programas de cercanía, capacitación para el empleo energético, estadísticas de salud, respuesta a emergencias climáticas, reclamos por rutas nacionales y grandes obras de infraestructura. Su postura es de gestión integral, previsión y defensa de los intereses rionegrinos.",
+            "frase_fuerte": "No alcanza con detener al que delinque. Tiene que quedar preso y cumplir su condena."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Comercio Exterior",
+                "Desarrollo Productivo",
+                "Mineria"
+            ],
+            "postura_politica": "Posiciona estratégicamente a la provincia como un nodo clave para la exportación minera nacional a través de sus puertos, reforzando la visión de Santa Fe como motor productivo de Argentina.",
+            "frase_fuerte": "Así, Santa Fe se prepara para ser protagonista del desarrollo productivo de la Argentina que viene."
+        }
+    ]
+}

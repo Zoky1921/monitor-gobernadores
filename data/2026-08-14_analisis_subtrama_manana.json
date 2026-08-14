@@ -1,0 +1,156 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por el anuncio de una inversión histórica en LNG desde Neuquén, que posiciona a la provincia como eje energético nacional, mientras que desde CABA se refuerza la agenda de seguridad y orden. Gobernadores periféricos se refugian en la gestión local, pero emerge una tensión latente por la distribución de recursos y el rol del Estado nacional.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La megainversión de USD 51.000 millones anunciada por Rolo Figueroa (Neuquén) para el proyecto Argentina LNG, adherido al RIGI, redefine el tablero fiscal. No es solo un número: es la confirmación de que Vaca Muerta es la llave del modelo económico nacional, pero también una advertencia: Neuquén exige que el esfuerzo se traduzca en bienestar local. La tensión entre la necesidad de inversiones y el reclamo de federalismo fiscal queda expuesta.\n\nActo 2 — Los Alineamientos: Figueroa se alinea con la Casa Rosada al impulsar el RIGI, pero su discurso tiene un dejo de autonomía: 'Esta puede ser la última gran oportunidad'. En la vereda opuesta, Jorge Macri (CABA) profundiza su perfil de mano dura, marcando distancia de cualquier permisividad. Weretilneck (Río Negro) juega en ambos tableros: reclama por rutas nacionales abandonadas mientras muestra logros de gestión. Kicillof (Buenos Aires) elude el conflicto directo y se refugia en la gestión de viviendas, pero su retuit es un guiño a su modelo alternativo.\n\nActo 3 — La Micro-política: Raúl Jalil (Catamarca) y Elías Suárez (Santiago del Estero) firman un convenio de obra estratégica, reforzando la cooperación regional sin confrontar con Nación. Claudio Poggi (San Luis) y Gustavo Valdés (Corrientes) se limitan a la agenda local, sin peso federal. Maximiliano Pullaro (Santa Fe) apuesta a la integración con Chile, buscando posicionar a Rosario como nodo logístico minero. Gustavo Melella (Tierra del Fuego) destaca el empleo local en la obra termoeléctrica, un gesto de gestión eficiente.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día es positivo: la inversión en LNG valida el RIGI y la estrategia energética. Sin embargo, la sombra del reclamo federalista persiste. Los gobernadores no se sublevan, pero marcan la cancha: quieren ser parte del reparto. El silencio de los peronistas no Kicillof (como Jaldo, Zdero) es elocuente: esperan el momento de negociar.",
+    "temas_calientes": [
+        {
+            "tema": "Megainversión en LNG y RIGI desde Neuquén",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden urbano en CABA",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Cooperación interprovincial en el Norte",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Reclamo por infraestructura nacional desde Río Negro",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión provincial como respuesta al ajuste",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "NEUQUÉN ES PROTAGONISTA DE LA MAYOR INVERSIÓN DE LA HISTORIA ARGENTINA \n\nArgentina LNG solicitó su adhesión al RIGI para desarrollar una inversión de USD 51.000 millones. Detrás de ese número hay algo mucho más grande: la posibilidad de que Neuquén vuelva a ponerse de pie y, con sus recursos, ayude a poner de pie a toda la Argentina.\n\nTenemos un desafío generacional. Vaca Muerta nos da una oportunidad que no podemos desaprovecar: producir, exportar, generar trabajo y desarrollo para que nuestros recursos se transformen en bienestar para los neuquinos y en crecimiento para todo el país. Esta puede ser la última gran oportunidad que tenemos. Tenemos que estar a la altura.\n\nEsto significa más trabajo para los neuquinos, más oportunidades para nuestras familias, más desarrollo para nuestras comunidades y más recursos para que Neuquén siga creciendo.",
+        "por_que_es_clave": "El gobernador de Neuquén se posiciona como el principal impulsor del RIGI y la megainversión en LNG, alineándose con la estrategia nacional de atracción de capitales, pero también reclamando que los beneficios queden en la provincia. Es un mensaje de poder: Neuquén es el motor energético del país y no está dispuesto a ser subestimado.",
+        "pregunta_openarg": "¿Está dispuesto el Gobierno nacional a garantizar que las provincias productoras de recursos energéticos reciban una parte justa de las ganancias de megainversiones como la de Argentina LNG, o el RIGI terminará siendo un nuevo mecanismo de concentración en el puerto?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (RT de @magariovero)",
+            "temas_mencionados": [
+                "vivienda",
+                "gestión provincial",
+                "modelo alternativo"
+            ],
+            "postura_politica": "Muestra gestión propia como respuesta al ajuste nacional. El retuit refuerza la idea de que la provincia sigue invirtiendo mientras Nación se retira.",
+            "frase_fuerte": "Seguimos adelante con un modelo de gestión que pone al pueblo en el centro de las prioridades"
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "seguridad",
+                "orden urbano",
+                "villas"
+            ],
+            "postura_politica": "Mano dura, diferenciación de otras jurisdicciones. Mensaje a la oposición y a Nación: en CABA no hay zonas liberadas.",
+            "frase_fuerte": "Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "cooperación interprovincial",
+                "obra estratégica"
+            ],
+            "postura_politica": "Construcción de alianzas regionales, federalismo positivo. Sin conflicto con Nación.",
+            "frase_fuerte": "Cooperar y sumar esfuerzos es el camino para hacer crecer a nuestra región."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "efeméride",
+                "banca pública"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "símbolos provinciales",
+                "tecnología humanista",
+                "apoyo a productores"
+            ],
+            "postura_politica": "Refuerzo identitario y crítica velada al tecnocratismo. Bajo perfil federal.",
+            "frase_fuerte": "¿Qué sentido tiene la tecnología si en el camino nos olvidamos de las personas?"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "gas para neuquinos",
+                "inversión LNG",
+                "RIGI",
+                "desarrollo energético"
+            ],
+            "postura_politica": "Fuerte defensa de los recursos provinciales y alineamiento con la estrategia nacional de atracción de inversiones. Mensaje de que Neuquén es clave para el país.",
+            "frase_fuerte": "Esta puede ser la última gran oportunidad que tenemos. Tenemos que estar a la altura."
+        },
+        {
+            "gobernador": "@WeretilneckOK (RT de @Weretilneck)",
+            "temas_mencionados": [
+                "gestión cercana",
+                "reclamo por rutas nacionales",
+                "obra de agua",
+                "seguridad",
+                "energía (VMOS)",
+                "conectividad aérea"
+            ],
+            "postura_politica": "Gobernador activo, reclama a Nación por infraestructura, pero también muestra logros. Equilibrio entre gestión y demanda federal.",
+            "frase_fuerte": "Esta situación necesita una solución. Los rionegrinos no pueden seguir esperando."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "gira institucional",
+                "viviendas"
+            ],
+            "postura_politica": "Gestión local sin conflicto. Bajo perfil federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "integración con Chile",
+                "puertos",
+                "minería"
+            ],
+            "postura_politica": "Proyección internacional, posicionamiento de Santa Fe como nodo logístico. Mensaje de desarrollo productivo.",
+            "frase_fuerte": "Con obras estratégicas queremos que los puertos de Rosario sean un nodo clave para la salida de la producción minera de nuestro país."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "encuentro con cardenal",
+                "diálogo institucional"
+            ],
+            "postura_politica": "Gestión protocolar sin peso federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (RT de @findelmundoar)",
+            "temas_mencionados": [
+                "obra termoeléctrica",
+                "empleo local"
+            ],
+            "postura_politica": "Gestión energética, muestra de avance. Bajo perfil federal.",
+            "frase_fuerte": null
+        }
+    ]
+}
