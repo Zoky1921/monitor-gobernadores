@@ -1,0 +1,298 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Kicillof intensifica su confrontación directa con Nación, acusando abandono en salud y educación, mientras otros gobernadores como Jalil y Orrego optan por la cooperación fiscal y la gestión de inversiones. La jornada refleja una fractura en el federalismo: unos eligen el choque, otros la negociación pragmática.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada está dominada por la escalada retórica de Axel Kicillof (Buenos Aires), quien en una seguidilla de tuits acusa al Gobierno nacional de 'desentenderse' del sistema de salud y de paralizar obras. Su mensaje es claro: la provincia se hace cargo donde Nación se retira, y el ajuste fiscal nacional se paga con derechos. No es una queja; es una construcción de relato para posicionarse como el verdadero garante del Estado de bienestar frente a un Milei que, según él, solo mira los números.\n\nActo 2 — Los Alineamientos: En la vereda opuesta, Raúl Jalil (Catamarca) y Marcelo Orrego (San Juan) reciben a ministros nacionales y firman convenios de cooperación. Jalil incluso retuitea a Luis Caputo, mostrando sintonía con la política de orden fiscal. Son los 'provincias modelo' que buscan beneficios concretos a cambio de lealtad. Mientras tanto, Jorge Macri (CABA) refuerza su perfil de mano dura con operativos en villas, un guiño a la base del oficialismo nacional. La Región Centro y el Norte Grande se reúnen, pero sin posiciones unificadas: unos negocian, otros resisten.\n\nActo 3 — La Micro-política: Gobernadores periféricos como Gildo Insfrán (Formosa) y Claudio Poggi (San Luis) se refugian en la agenda local: aumentos salariales, visitas a fábricas, entrega de escrituras. No hay mención a Nación, lo que sugiere un repliegue estratégico para evitar desgaste. En cambio, Ignacio Torres (Chubut) y Rolando Figueroa (Neuquén) combinan gestión provincial con reclamos implícitos: Torres destaca obras propias ante el abandono nacional, Figueroa reivindica el aporte neuquino al superávit nacional, dejando entrever una demanda de mayor compensación.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día es agridulce. Por un lado, logra mostrar gobernadores dialoguistas que firman acuerdos (Jalil, Orrego, Zdero). Por otro, Kicillof consigue instalar la narrativa del ajuste que duele, justo cuando el Gobierno necesita mostrar cohesión federal. El silencio de otros pesos pesados como Gustavo Sáenz (Salta) o Osvaldo Jaldo (Tucumán) en la ventana analizada sugiere que no todos están dispuestos a subirse al ring hoy. La pulseada fiscal sigue abierta.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación directa de Kicillof contra Nación por salud y obra pública",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Cooperación fiscal y recepción de ministros nacionales en provincias del interior",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@DrMarceloOrrego",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Seguridad y mano dura como posicionamiento político",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Inversiones y desarrollo productivo con perfil exportador",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Gestión local y refugio en agenda de cabotaje",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@claudiojpoggi",
+                "@gustavovaldesok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "San Vicente fortalece su sistema de salud con una nueva sala de tomografía en el hospital 'Ramón Carrillo', una ambulancia de alta complejidad y una nueva base operativa del SAME que inauguramos para ampliar el sistema de atención de emergencias.\n\nTodo esto hoy vale mucho más porque lo hacemos mientras el Gobierno nacional se desentiende de sus obligaciones y abandona por completo el sistema de salud en todo el país.",
+        "por_que_es_clave": "Kicillof no solo inaugura; marca territorio. Cada obra propia es un reproche directo a la gestión nacional. La frase 'se desentiende' es una declaración de guerra política en un año electoral, buscando capitalizar el descontento social.",
+        "pregunta_openarg": "¿Hasta qué punto la estrategia de Kicillof de confrontar a Nación en cada acto de gestión puede erosionar la imagen del Gobierno nacional en la provincia más poblada del país?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "salud pública",
+                "educación",
+                "obra pública",
+                "vivienda",
+                "crítica al Gobierno nacional"
+            ],
+            "postura_politica": "Oposición frontal. Cada tuit es un acto de campaña: muestra gestión provincial mientras denuncia abandono nacional. Busca posicionarse como el verdadero defensor del Estado de bienestar.",
+            "frase_fuerte": "Todo esto hoy vale mucho más porque lo hacemos mientras el Gobierno nacional se desentiende de sus obligaciones y abandona por completo el sistema de salud en todo el país."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "orden urbano",
+                "lucha contra el narcotráfico"
+            ],
+            "postura_politica": "Alineado con el discurso de mano dura del oficialismo nacional. Los operativos en villas son un guiño a la base de Milei y una diferenciación con el conurbano bonaerense.",
+            "frase_fuerte": "Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "cooperación con Nación",
+                "Norte Grande",
+                "inversiones",
+                "exportaciones"
+            ],
+            "postura_politica": "Cooperación pragmática. Recibe a ministros nacionales y firma convenios, mostrando sintonía con la política de orden fiscal. Busca beneficios concretos para su provincia.",
+            "frase_fuerte": "El diálogo constante con el Gobierno Nacional y la suma de esfuerzos son la clave para dar respuestas concretas."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "obra pública",
+                "deporte",
+                "Norte Grande"
+            ],
+            "postura_politica": "Cooperación regional con perfil bajo. Participa en la Asamblea del Norte Grande y firma convenios, pero sin confrontar con Nación. Su agenda es local y de gestión.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "seguridad",
+                "obra pública",
+                "producción",
+                "defensa de recursos provinciales"
+            ],
+            "postura_politica": "Reclamo implícito. Destaca obras propias y equipamiento policial, sugiriendo que la provincia se hace cargo donde Nación no llega. También defiende la unidad provincial por encima de partidos.",
+            "frase_fuerte": "En Chubut la usura tiene los días contados."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "inversiones",
+                "infraestructura",
+                "bomberos",
+                "educación tecnológica"
+            ],
+            "postura_politica": "Gestión productiva y alejada de la confrontación. Muestra una provincia que invierte y atrae capitales, sin mencionar a Nación. Es un modelo de autonomía pragmática.",
+            "frase_fuerte": "El superávit fiscal es necesario, pero no puede ser un fin en sí mismo."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "aniversarios",
+                "producción ganadera",
+                "banca pública"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a efemérides y promoción de la producción provincial. Evita cualquier posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "partido justicialista",
+                "salud pública",
+                "aumento salarial"
+            ],
+            "postura_politica": "Refugio en la gestión local y partidaria. Anuncia aumento salarial y conmemora aniversarios, sin mencionar a Nación. Es un repliegue estratégico.",
+            "frase_fuerte": "El partido es nuestra herramienta electoral como movimiento nacional y popular."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "comercio exterior",
+                "defensa de la producción local"
+            ],
+            "postura_politica": "Cooperación regional con defensa de intereses locales. Participa en asambleas y recibe a embajadores, pero también se opone a medidas nacionales que afectan a su provincia (bananas).",
+            "frase_fuerte": "Defender nuestra producción es ejercer el federalismo en el Norte profundo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "obra pública",
+                "vivienda",
+                "prevención climática",
+                "defensa de recursos hídricos"
+            ],
+            "postura_politica": "Gestión con reclamo de fondo. Inaugura obras y anuncia inversiones, pero también reaviva la lucha por el río Atuel, un conflicto histórico con Mendoza y la Corte Suprema.",
+            "frase_fuerte": "El Atuel también es pampeano. Es un ícono de nuestra lucha: defender nuestros ríos, defender las Malvinas, defender nuestra tierra."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "obra pública",
+                "cultura",
+                "defensa de la soberanía",
+                "homenajes"
+            ],
+            "postura_politica": "Nacionalismo popular. Mezcla gestión local con reivindicaciones históricas y críticas al modelo extractivista. Se posiciona como defensor de la soberanía y la memoria.",
+            "frase_fuerte": "La soberanía no se negocia. Defender nuestras tierras es defender el trabajo, los recursos y el futuro de la Argentina."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "energía",
+                "inversiones",
+                "infraestructura",
+                "relaciones internacionales"
+            ],
+            "postura_politica": "Alineamiento técnico con Nación. Presenta a Mendoza como provincia ordenada que atrae inversiones. Participa en foros y recibe a funcionarios nacionales, sin confrontación.",
+            "frase_fuerte": "La energía no es solo un recurso. Es una oportunidad para que Mendoza produzca más, exporte más y siga creciendo."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "integración regional",
+                "fiestas populares"
+            ],
+            "postura_politica": "Anfitrión del Norte Grande. Promueve la integración regional y la cooperación con Brasil, pero sin entrar en conflicto con Nación. Su agenda es de gestión y promoción turística.",
+            "frase_fuerte": "Cuando el norte habla con una sola voz, el país escucha."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "inversiones",
+                "salud",
+                "vivienda",
+                "aporte fiscal"
+            ],
+            "postura_politica": "Reclamo de mayor compensación. Destaca el aporte de Neuquén al superávit nacional y la necesidad de que ese esfuerzo se traduzca en beneficios para la provincia. Es un socio crítico.",
+            "frase_fuerte": "De cada 100 dólares de petróleo, a Neuquén le quedan 13, mientras 27 van a la nación y al resto de las provincias."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "gestión territorial",
+                "salud",
+                "seguridad",
+                "infraestructura",
+                "Vaca Muerta Offshore"
+            ],
+            "postura_politica": "Gestión activa con perfil federal. Muestra obras y servicios en toda la provincia, destacando la presencia del Estado. También impulsa proyectos energéticos estratégicos como VMOS.",
+            "frase_fuerte": "Río Negro está en marcha."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "minería",
+                "inversiones",
+                "infraestructura",
+                "cooperación con Nación"
+            ],
+            "postura_politica": "Alineamiento pro-inversión. Firma acuerdos con Nación y empresas mineras, destacando la seguridad jurídica. Es un ejemplo de gobernador que negocia beneficios para su provincia.",
+            "frase_fuerte": "Generar confianza es fundamental para que lleguen inversiones, se desarrollen proyectos y se genere más trabajo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "vivienda",
+                "industria",
+                "obra pública"
+            ],
+            "postura_politica": "Gestión local intensa. Recorre localidades, inaugura obras y visita fábricas. No hay mención a Nación, lo que sugiere un repliegue en la agenda de cabotaje.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "vivienda",
+                "deporte",
+                "alumbrado público",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Oposición al kirchnerismo local. Aprovecha para marcar diferencias con la gestión anterior, pero sin confrontar con Nación actual. Su agenda es de reparación y gestión.",
+            "frase_fuerte": "Durante 30 años desaprovecharon los recursos de Santa Cruz. Hoy nosotros los invertimos en desarrollo y trabajo."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "infraestructura deportiva",
+                "Juegos Suramericanos",
+                "producción",
+                "homenajes"
+            ],
+            "postura_politica": "Gestión de alto perfil. Se enfoca en obras para los Juegos Suramericanos y en la promoción de la provincia como polo productivo. Evita la confrontación directa con Nación.",
+            "frase_fuerte": "Santa Fe es imparable."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "obra hídrica",
+                "educación",
+                "conectividad aérea"
+            ],
+            "postura_politica": "Cooperación regional con gestión. Participa en asambleas y anuncia obras junto a Nación y otras provincias. Su perfil es de diálogo y gestión, sin conflictos.",
+            "frase_fuerte": "Los gobernadores tenemos la obligación de gestionar obras estratégicas para el desarrollo, siempre manteniendo el orden administrativo y el equilibrio presupuestario."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "energía",
+                "industria",
+                "conectividad aérea",
+                "defensa del empleo"
+            ],
+            "postura_politica": "Defensa de la industria local. Advierte sobre el impacto de las importaciones en el empleo fueguino, pero sin atacar directamente a Nación. Busca consensos.",
+            "frase_fuerte": "La variable de ajuste no puede ser siempre el trabajador."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis.",
+            "frase_fuerte": null
+        }
+    ]
+}
