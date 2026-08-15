@@ -1,0 +1,79 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Los seis gobernadores con actividad en la ventana de análisis (Zdero, Torres, Llaryora, Ziliotto, Poggi, Jaldo) se refugiaron en agenda local de gestión, omitiendo cualquier posicionamiento sobre la macroeconomía o la relación con Nación. Un apagón político coordinado de bajo voltaje que sugiere repliegue táctico o simple falta de conflictos urgentes.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada transcurrió sin roces fiscales ni institucionales. Ni un solo gobernador mencionó coparticipación, deuda provincial o reclamo al Gobierno nacional. El silencio, lejos de ser inocuo, revela una estrategia de supervivencia: en un contexto de ajuste y desfinanciamiento, mostrar obra propia sin mencionar a Nación es un modo de marcar autonomía sin entrar en confrontación directa. La ausencia de críticas abiertas también puede leerse como una tregua implícita con la Casa Rosada, al menos por 24 horas.\n\nActo 2 — Los Alineamientos: No hay alineamientos visibles porque no hubo temas que los generaran. Los gobernadores peronistas (Ziliotto, Jaldo, Torres) y los de sellos provinciales (Poggi, Zdero, Llaryora) coincidieron en un mismo patrón: inaugurar, firmar convenios, recorrer barrios. La diferenciación partidaria se diluye ante la necesidad de mostrar gestión en un escenario de restricción fiscal. Nadie se posicionó como socio ni como opositor: todos eligieron el terreno seguro del cabotaje.\n\nActo 3 — La Micro-política: Los gestos de supervivencia provincial se concentraron en obras de baja escala: un microestadio en Chaco (Zdero), un aniversario de pueblo en Chubut (Torres), fondos para bomberos en Córdoba (Llaryora), viviendas en La Pampa (Ziliotto), visitas a fábricas en San Luis (Poggi) y pavimento en Tucumán (Jaldo). Ninguno de estos anuncios compromete recursos nacionales ni genera rosca política. Son reflejos de una gestión que se repliega sobre lo propio porque no hay oxígeno para disputar la agenda federal.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, una jornada sin fuego es una pequeña victoria. Los gobernadores evitaron alimentar el relato de abandono o ajuste despiadado. Sin embargo, la falta de menciones a Nación también puede interpretarse como un desgaste del vínculo federal: las provincias ya no esperan nada del centro y actúan como entidades autónomas. El capital político de Milei no se fortalece, pero tampoco se erosiona. Es un empate en cero, favorable al oficialismo en tiempos de tormenta.",
+    "temas_calientes": [
+        {
+            "tema": "Foco exclusivo en gestión local y obras provinciales sin mención a la Nación",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@OsvaldoJaldo (Tucumán)",
+        "texto": "𝗔𝗹𝗱𝗲𝗿𝗲𝘁𝗲𝘀 | Seguimos transformando los barrios y generando oportunidades para nuestra gente. 🏘️ Volvimos a esta querida ciudad para acompañar una transformación que impacta directamente en la vida cotidiana de cientos de familias. En el histórico barrio 25 de Mayo inauguramos 40 cuadras con pavimento rígido y articulado, cordón cuneta, nuevas veredas y 97 columnas de alumbrado con tecnología LED.",
+        "por_que_es_clave": "Es el posteo más extenso de la jornada y concentra el gesto típico de un gobernador que necesita mostrar gestión en un contexto de ajuste. Al no mencionar a Nación, Jaldo envía un mensaje de autonomía y eficiencia provincial, aunque la obra sea de baja escala. La omisión de cualquier referencia a la macroeconomía revela un cálculo: no hablar del conflicto para no agravarlo.",
+        "pregunta_openarg": "¿El silencio de los gobernadores sobre el ajuste nacional es una tregua táctica o una señal de que el federalismo se ha vuelto una ficción donde cada provincia sobrevive por su cuenta?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Firma de convenio para microestadio deportivo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Zdero prioriza mostrarse cerca del deporte y la comunidad, sin roces ni guiños a Nación. Un gesto de gestión de bajo riesgo que no altera el tablero.",
+            "frase_fuerte": "Firmamos el convenio para hacer realidad el sueño del nuevo microestadio del Club Villa Libertad."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Aniversario de Gaiman y homenaje a intendente fallecido"
+            ],
+            "postura_politica": "Gestión protocolar aislada. La mención al fallecido Darío James es emotiva pero no contiene posicionamiento político. Torres elige el refugio de la agenda local y evita cualquier declaración sobre la crisis provincial o nacional.",
+            "frase_fuerte": "GAIMAN CUMPLE 152 AÑOS, CON DARÍO SIEMPRE PRESENTE"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Entrega de fondos a bomberos voluntarios"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Llaryora muestra capacidad de inversión provincial en un área sensible como la seguridad civil. No hay mensaje contra Nación ni a favor, solo gestión pura. Un movimiento que busca posicionar a Córdoba como provincia ordenada pero sin ruido político.",
+            "frase_fuerte": "CON MÁS RECURSOS ACOMPAÑAMOS A NUESTROS BOMBEROS"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Inauguración de JIN y viviendas, compromiso con hogar de adultos mayores"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Ziliotto destaca inversiones en calidad de vida en tiempos difíciles, pero sin mencionar el desfinanciamiento nacional. Es un mensaje de eficiencia provincial que implícitamente contrasta con el ajuste, pero sin confrontación directa.",
+            "frase_fuerte": "En tiempos difíciles, con menos recursos, en La Pampa no aflojamos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Visita a fábrica de edulcorantes Hileret",
+                "Inicio de refacciones en escuela",
+                "Programa Escritura Tu Casa",
+                "Entrega de tubi a escuelas",
+                "Visita a fábrica Tubos Argentinos"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Poggi se muestra activo en el interior provincial, visitando industrias y entregando escrituras. No hay mención a la Nación ni a la macro. Es un gobernador enfocado en la microgestión como estrategia de supervivencia.",
+            "frase_fuerte": "Un lujo de Empresa. 100 Empleados directos. Muy bien !!"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Inauguración de pavimento y alumbrado en Alderetes",
+                "Remodelación de club deportivo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Jaldo postea una obra concreta y destaca la gestión provincial frente a la escasez de recursos nacionales. La omisión de críticas directas sugiere un equilibrio calculado: mostrar presencia sin romper con Nación.",
+            "frase_fuerte": "En momentos en que los recursos nacionales escasean, en Tucumán decidimos no detener la gestión."
+        }
+    ]
+}
