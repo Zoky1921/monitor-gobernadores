@@ -1,0 +1,76 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron su agenda reciente en la gestión provincial con un fuerte énfasis en la cercanía territorial y la implementación de programas locales. Jorge Macri (CABA) destacó la recuperación de una vivienda usurpada, reafirmando su postura de 'ley y orden'. Nacho Torres (Chubut) promovió la inversión en infraestructura deportiva y oportunidades para jóvenes. Gildo Insfrán (Formosa) puso en valor las políticas públicas para las infancias en su provincia. Por su parte, Claudio Vidal (Santa Cruz) criticó el abandono de gobiernos anteriores y subrayó la presencia del Estado en cada localidad. La jornada muestra una marcada orientación hacia la resolución de problemas específicos y la reafirmación de la autonomía provincial.",
+    "analisis_profundo": "La actividad de los gobernadores en las últimas horas revela una concentración estratégica en la consolidación de la gestión a nivel provincial, priorizando la visibilidad de acciones concretas y el contraste con percepciones de inacción pasada. Jorge Macri (CABA) utilizó el caso de la recuperación de una vivienda para proyectar una imagen de firmeza en seguridad y orden, un eje central de su administración. Su mensaje, 'Se terminó la impunidad de los okupas. Recuperamos una propiedad usurpada durante 24 años. Ley y orden', busca generar un impacto directo en la percepción ciudadana sobre la capacidad de su gobierno para restaurar la autoridad.\n\nEn la Patagonia, Nacho Torres (Chubut) se dedicó a la promoción del deporte y la inversión en infraestructura juvenil a través del 'Plan Galina', una narrativa de apoyo y desarrollo local. Paralelamente, Claudio Vidal (Santa Cruz) adoptó un tono más confrontativo al señalar el 'abandono de gobiernos que poco le interesaba el bienestar de los vecinos' al lanzar el programa 'Viva Barrio'. Esta declaración, aunque no explícitamente dirigida al gobierno nacional actual, sí marca una distinción y resalta la propia iniciativa provincial en la entrega de servicios, sugiriendo una recuperación de la presencia estatal tras un período de desatención.\n\nGildo Insfrán (Formosa), por su parte, aprovechó la conmemoración del Día de las Infancias para reforzar el papel de su gobierno en la garantía de derechos y oportunidades para los niños, utilizando un lenguaje que enfatiza la responsabilidad del Estado en el bienestar integral. La ausencia de temáticas de confrontación interprovincial o con el gobierno central en los tweets analizados indica que la agenda inmediata de los gobernadores se centró en demostrar capacidad de gestión y cercanía con sus electores, buscando consolidar legitimidad a través de resultados tangibles en sus jurisdicciones. El clima político, por tanto, se mantiene en un registro de moderada autonomía y autoreafirmación provincial, sin escalar a tensiones explícitas con otros niveles de gobierno.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y Orden Urbano",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo Social y Oportunidades Locales",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@insfran_gildo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Crítica a la Gestión Anterior/Reafirmación de Gobernanza Provincial",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@insfran_gildo",
+        "texto": "DÍA DE LAS INFANCIAS Celebramos el Día de las Infancias reafirmando el compromiso de seguir acompañando a cada niña y niño formoseño, promoviendo su bienestar, cuidado y desarrollo integral. A través de políticas públicas que ponen a las infancias en el centro, en Formosa generamos acciones para garantizar derechos y continuar ampliando las oportunidades en todo el territorio provincial. ¡Muy feliz día! #TodosUnidos #Formosa",
+        "por_que_es_clave": "Este tweet, publicado en el Día de las Infancias, es clave porque Gildo Insfrán (Formosa) utiliza una efeméride socialmente relevante para reafirmar el compromiso de su gestión con políticas públicas que priorizan la niñez y el desarrollo integral, proyectando una imagen de Estado presente y garante de derechos en su provincia.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad Ciudadana",
+                "Orden Urbano",
+                "Recuperación de Propiedades"
+            ],
+            "postura_politica": "Firmeza en la aplicación de la ley y el orden para resolver problemas de usurpación y criminalidad. Enfatiza una gestión activa y resolutiva ante problemáticas de larga data.",
+            "frase_fuerte": "Se terminó la impunidad de los okupas. Recuperamos una propiedad usurpada durante 24 años. Ley y orden."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura Juvenil",
+                "Oportunidades de Desarrollo"
+            ],
+            "postura_politica": "Impulsa el desarrollo local a través de la inversión en infraestructura deportiva y la creación de oportunidades para los jóvenes, enmarcado en el 'Plan Galina' como una estrategia integral de crecimiento.",
+            "frase_fuerte": "Esto también es el Plan Galina: invertir en deporte, generar oportunidades y darles a nuestros jóvenes las herramientas para que puedan crecer, superarse y cumplir sus sueños acá, en Chubut."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Políticas de Infancia",
+                "Bienestar Social",
+                "Derechos y Oportunidades"
+            ],
+            "postura_politica": "Reafirma el rol del Estado provincial en la protección y promoción de los derechos de la infancia, destacando la implementación de políticas públicas centradas en el desarrollo integral de niños y niñas.",
+            "frase_fuerte": "A través de políticas públicas que ponen a las infancias en el centro, en Formosa generamos acciones para garantizar derechos y continuar ampliando las oportunidades en todo el territorio provincial."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Desarrollo Local",
+                "Servicios Comunitarios",
+                "Crítica a Gestiones Anteriores"
+            ],
+            "postura_politica": "Se posiciona como una gestión que revierte años de 'abandono' en las localidades, acercando el gobierno a los vecinos y recuperando la presencia del Estado en los barrios para ofrecer servicios y actividades.",
+            "frase_fuerte": "Durante muchos años, localidades de Santa Cruz quedaron relegadas y sintieron el abandono de gobiernos que poco le interesaba el bienestar de los vecinos. Nosotros decidimos cambiar esa realidad."
+        }
+    ]
+}

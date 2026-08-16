@@ -1,0 +1,62 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de baja intensidad política, con pocos gobernadores activos en redes. Predominan saludos por el Día de las Infancias y anuncios locales de gestión. No hay señales de disputa fiscal o alineamiento federal. La mayoría de los mandatarios optó por el silencio, refugiándose en agendas de cabotaje.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada del 16 de agosto transcurrió sin tensiones visibles entre Nación y provincias. El silencio de los gobernadores de provincias centrales (Buenos Aires, Córdoba, Santa Fe) y de aquellos con mayores recursos fiscales (Neuquén, Mendoza) sugiere una pausa calculada en la confrontación. No hay reclamos de coparticipación, deuda ni obras nacionales paralizadas en la agenda tuitera. La ausencia de críticas a la Casa Rosada puede interpretarse como una tregua táctica o una falta de urgencia en el corto plazo.\n\nActo 2 — Los Alineamientos: Los pocos gobernadores que publicaron se concentraron en temas locales sin posicionamiento federal. Jorge Macri (CABA) reforzó su perfil de 'ley y orden' con la recuperación de una vivienda usurpada, un mensaje dirigido a su base electoral y a la seguridad urbana, pero sin confrontar con Nación. Ignacio Torres (Chubut) mostró obras de infraestructura deportiva, enmarcadas en su 'Plan Galina', un gesto de autonomía provincial. Gildo Insfrán (Formosa), Hugo Passalacqua (Misiones) y Claudio Vidal (Santa Cruz) se limitaron a efemérides o programas locales, sin menciones a la macroeconomía.\n\nActo 3 — La Micro-política: La gestión de cabotaje domina la escena. Torres y Vidal capitalizan proyectos propios para marcar presencia territorial, mientras Insfrán y Passalacqua optan por saludos protocolares que no generan ruido político. Claudio Vidal, desde Santa Cruz, aprovechó para criticar al kirchnerismo por el abandono de la provincia, pero sin aludir al gobierno nacional actual. Es un repliegue hacia la agenda local, evitando roces con Nación.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día es favorable por la ausencia de críticas directas. Sin embargo, el silencio de los gobernadores peronistas y de los radicales alineados con el oficialismo nacional podría ser una señal de descontento soterrado, que no se traduce en tweets pero sí en un cálculo político de esperar el momento adecuado para presionar. El capital político del presidente Milei no se ve afectado hoy, pero la falta de apoyo explícito desde las provincias también es un dato.",
+    "temas_calientes": [],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Se terminó la impunidad de los okupas. Recuperamos una propiedad usurpada durante 24 años. Ley y orden.",
+        "por_que_es_clave": "Es el único tweet con contenido político explícito de la jornada. Refuerza la imagen de 'mano dura' de Macri en CABA, en contraste con la inseguridad del conurbano, y apela a su base electoral sin mencionar a la Nación.",
+        "pregunta_openarg": "¿La estrategia de 'ley y orden' de Jorge Macri es una respuesta a la inseguridad o una herramienta de posicionamiento político frente a las elecciones de 2027?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "usurpación",
+                "ley y orden"
+            ],
+            "postura_politica": "Refuerza su perfil de seguridad y control territorial, sin confrontar con Nación. Es un mensaje a su electorado y a la oposición, mostrando gestión en un tema sensible.",
+            "frase_fuerte": "Se terminó la impunidad de los okupas."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "deporte",
+                "infraestructura",
+                "atletismo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Muestra obras de su 'Plan Galina' para capitalizar gestión propia, sin mencionar a Nación.",
+            "frase_fuerte": "UNA PISTA PARA SOÑAR EN GRANDE"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Día de las Infancias",
+                "niñez"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Saludo protocolar sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Día de las Infancias",
+                "niñez"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Saludo protocolar sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "programa social",
+                "gestión local",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Agenda local con crítica al pasado kirchnerista, pero sin confrontar al gobierno actual. Refuerza su narrativa de cambio de rumbo.",
+            "frase_fuerte": "Durante muchos años, localidades de Santa Cruz quedaron relegadas y sintieron el abandono de gobiernos que poco le interesaba el bienestar de los vecinos."
+        }
+    ]
+}
