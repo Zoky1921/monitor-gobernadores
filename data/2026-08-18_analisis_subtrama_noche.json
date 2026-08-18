@@ -1,0 +1,190 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada combina la coordinación federal de la Mesa del Litio con el reclamo chaqueño por subsidios energéticos, mientras Axel Kicillof intensifica su perfil opositor y Jorge Macri refuerza su agenda de seguridad. El Norte Grande negocia recursos; el peronismo bonaerense marca distancia.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal domina la escena. Leandro Zdero (Chaco) celebra el consenso para redefinir subsidios en zonas cálidas, un reclamo histórico que expone la asimetría energética entre el Norte y el AMBA. Simultáneamente, Axel Kicillof (Buenos Aires) acusa al Gobierno nacional de desarticular áreas productivas y desfinanciar ciencia, en un claro posicionamiento electoral. La Casa Rosada enfrenta un doble frente: provincias que exigen más recursos y un gobernador que capitaliza el descontento.\n\nActo 2 — Los Alineamientos: La Mesa del Litio reúne a Raúl Jalil (Catamarca), Carlos Sadir (Jujuy) y Gustavo Sáenz (Salta) en una muestra de coordinación regional para atraer inversiones mineras. Se alinean con el discurso de seguridad jurídica y desarrollo local, sin confrontar abiertamente con Nación. En contraste, Kicillof se posiciona como el líder de la resistencia peronista, mientras Jorge Macri (CABA) se consolida como el ejecutor de la mano dura, sin mencionar al Gobierno nacional. Martín Llaryora (Córdoba) y Rolando Figueroa (Neuquén) se enfocan en gestión local, evitando roces.\n\nActo 3 — La Micro-política: Gobernadores de provincias periféricas como Claudio Poggi (San Luis) y Claudio Vidal (Santa Cruz) se refugian en la agenda de cabotaje: reforma constitucional, viviendas y obras de infraestructura. Hugo Passalacqua (Misiones) recibe a funcionarios nacionales para agilizar pasos fronterizos, mostrando una diplomacia pragmática. Ignacio Torres (Chubut) premia a estudiantes, en una jugada de bajo perfil. El silencio de mandatarios como Gustavo Valdés (Corrientes) o Gerardo Zamora (Santiago del Estero) sugiere que evitan posicionamientos en una jornada sin grandes definiciones.\n\nActo 4 — Saldo Presidencial: El Gobierno nacional logró mantener la cohesión en la Mesa del Litio y avanzar en el reclamo chaqueño, pero la ofensiva de Kicillof le resta capital político en la provincia más grande. La ausencia de críticas directas de otros gobernadores peronistas indica que la estrategia de confrontación es aún individual. La Casa Rosada necesita consolidar acuerdos fiscales antes de que el malestar se generalice.",
+    "temas_calientes": [
+        {
+            "tema": "Mesa del Litio y minería: coordinación regional para atraer inversiones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@carlossadirjuy",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Subsidios energéticos para zonas cálidas: reclamo histórico del Norte",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Confrontación con Nación: Kicillof critica el ajuste y se posiciona como alternativa",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad y mano dura: Macri refuerza su perfil de ley y orden",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Infraestructura provincial: obras y gestión local como refugio político",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Presentamos el Consejo Provincial de la Economía del Conocimiento junto a @CostaAugusto9 y @ArielSujarchuk para consolidar una agenda estratégica junto a diversos sectores en materia de innovación, desarrollo productivo y generación de empleo de calidad.\n\nEn un contexto de grandes transformaciones tecnológicas a nivel global, acá tenemos un Gobierno nacional que desarticula áreas enteras, destruye nuestras capacidades productivas y desfinancia el sistema científico y tecnológico nacional.\n\nNuestro país merece, por sus recursos y su historia, un protagonismo que no va a tener si el Estado se destruye y deserta. Por eso es necesario trabajar junto al sector privado, las universidades y los trabajadores por una economía del conocimiento al servicio del desarrollo de la provincia y de la Argentina.",
+        "por_que_es_clave": "Kicillof utiliza un anuncio de gestión provincial para lanzar una crítica directa al Gobierno nacional, posicionándose como el defensor del Estado y la ciencia frente al ajuste. Es un movimiento de cara a las elecciones de 2027.",
+        "pregunta_openarg": "¿Puede Kicillof capitalizar el descontento con el ajuste nacional para construir una candidatura presidencial sin el respaldo explícito de otros gobernadores peronistas?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Economía del conocimiento",
+                "Crítica al Gobierno nacional",
+                "Presentación de libro"
+            ],
+            "postura_politica": "Oposición frontal. Usa la gestión provincial como plataforma para denunciar el ajuste nacional y posicionarse como alternativa. El libro en Chaco es un gesto de construcción federal.",
+            "frase_fuerte": "acá tenemos un Gobierno nacional que desarticula áreas enteras, destruye nuestras capacidades productivas y desfinancia el sistema científico y tecnológico nacional."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Emergencia celulares robados",
+                "Ley y orden"
+            ],
+            "postura_politica": "Refuerza su perfil de mano dura sin mencionar a Nación. La medida es local pero busca diferenciarse del conurbano y consolidar su base electoral.",
+            "frase_fuerte": "Se terminó la mafia de los celulares robados."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Mesa del Litio",
+                "Minería",
+                "Proveedores locales",
+                "Exportaciones"
+            ],
+            "postura_politica": "Coordinación regional con perfil bajo. Busca atraer inversiones sin confrontar, destacando la seguridad jurídica. Se alinea con el discurso productivista.",
+            "frase_fuerte": "Argentina tiene una oportunidad histórica y el Norte argentino tiene un enorme potencial para ser protagonista."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Subsidios energéticos",
+                "Zonas cálidas",
+                "Federalismo"
+            ],
+            "postura_politica": "Reclamo histórico que presenta como logro propio. Marca perfil federal y de gestión, sin atacar directamente a Nación pero exigiendo recursos.",
+            "frase_fuerte": "Después de años de reclamarlo, el Norte empieza a ser escuchado."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Educación",
+                "Reconocimiento a estudiantes",
+                "Becas"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada. Busca generar imagen de cercanía con la juventud.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obras de agua",
+                "Educación",
+                "Infraestructura",
+                "Velada patria"
+            ],
+            "postura_politica": "Refugio en la gestión local. Evita posicionamientos nacionales. La agenda de obras y educación es su fuerte, con un discurso de igualdad territorial.",
+            "frase_fuerte": "Abrir una canilla y contar con agua no debería ser una preocupación."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Homenaje a San Martín"
+            ],
+            "postura_politica": "RT de la UCR. Sin contenido propio. Gestión protocolar aislada. No hay señales de agenda federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Minería",
+                "Relaciones internacionales",
+                "Mesa del Litio"
+            ],
+            "postura_politica": "Coordinación regional y apertura a inversiones. Se alinea con Jalil y Sáenz en la promoción minera. Perfil técnico y productivista.",
+            "frase_fuerte": "Como país tenemos la oportunidad de transformar nuestro potencial minero en inversión, crecimiento económico y trabajo para nuestras provincias."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Comercio exterior",
+                "Pasos fronterizos",
+                "Agenda con Nación"
+            ],
+            "postura_politica": "Diplomacia pragmática. Recibe a funcionarios nacionales para gestionar mejoras. Evita confrontación y busca resultados concretos.",
+            "frase_fuerte": "Constructiva jornada de trabajo junto al secretario de Coordinación de Producción."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Viviendas",
+                "Gas",
+                "Salud"
+            ],
+            "postura_politica": "Gestión local intensa. Destaca obras reactivadas con fondos provinciales. Sin menciones a Nación, pero implícitamente marca autonomía.",
+            "frase_fuerte": "Estamos revirtiendo una injusticia histórica."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Mesa del Litio",
+                "Minería",
+                "Proveedores locales"
+            ],
+            "postura_politica": "Coordinación regional. Mismo discurso que Jalil y Sadir. Busca posicionar a Salta como destino minero con reglas claras.",
+            "frase_fuerte": "El desafío no es solamente producir, sino generar valor en nuestras provincias."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Reforma constitucional",
+                "Seguridad",
+                "Educación",
+                "Viviendas"
+            ],
+            "postura_politica": "Agenda local de reformas y obras. Sin impacto federal. Busca mostrar gestión y orden.",
+            "frase_fuerte": "El eje transversal de la Reforma será una mayor INSTITUCIONALIDAD para el San Luis de los próximos años."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Obras cloacales",
+                "Crítica al kirchnerismo",
+                "Viviendas"
+            ],
+            "postura_politica": "Refugio en la gestión y crítica al gobierno anterior. Sin menciones a la gestión nacional actual. Perfil de oposición local.",
+            "frase_fuerte": "Durante 30 años usaron a la provincia para sus negocios. Se terminó la Santa Cruz para unos pocos."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Cooperación con Ecuador"
+            ],
+            "postura_politica": "Diplomacia provincial. Busca abrir mercados y vínculos. Sin confrontación con Nación.",
+            "frase_fuerte": "Creemos en la importancia de construir vínculos con otras regiones y países para abrir nuevos caminos."
+        }
+    ]
+}

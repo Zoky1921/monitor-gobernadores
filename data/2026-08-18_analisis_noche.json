@@ -1,0 +1,213 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores de Argentina marcan una jornada de alta actividad con un claro eje en la gestión provincial y fuertes señales de tensión con el gobierno nacional. Desde Buenos Aires, Axel Kicillof (Buenos Aires) criticó el desfinanciamiento federal en áreas clave como la economía del conocimiento. En paralelo, en Santa Cruz, Claudio Vidal (Santa Cruz) profundizó su narrativa anti-kirchnerista, denunciando el uso de la provincia para 'negocios'. El Norte Grande, con Raúl Jalil (Catamarca), Carlos Sadir (Jujuy) y Gustavo Sáenz (Salta), refuerza su agenda minera y de desarrollo regional, mientras Leandro Zdero (Chaco) celebra avances en subsidios energéticos para la región. Las gestiones locales priorizan infraestructura, seguridad y educación, como se observa en CABA con Jorge Macri (CABA) y en Córdoba con Martín Llaryora (Córdoba).",
+    "analisis_profundo": "La jornada del 18 de agosto de 2026 revela una intensificación en la agenda de gestión provincial, marcada por un notable contraste con las políticas nacionales y una fuerte consolidación de bloques regionales. Axel Kicillof (Buenos Aires) utilizó la presentación de su Consejo de la Economía del Conocimiento para lanzar una crítica contundente al gobierno central, acusándolo de desarticular áreas estratégicas y desfinanciar el sistema científico y tecnológico. Este tipo de declaración eleva la confrontación ideológica y la defensa de un modelo de Estado más interventor en la economía.\n\nEn el Sur, Claudio Vidal (Santa Cruz) redobló su ofensiva contra la gestión anterior, identificada con el kirchnerismo, a la que acusó de usar la provincia para 'negocios' y corrupción. Sus anuncios de inversión en infraestructura, saneamiento y producción hidropónica se enmarcan en una narrativa de 'recuperación' provincial, contrastando directamente con un pasado de 'abandono'. Esta postura no solo es de gestión, sino que refuerza una identidad política que busca diferenciarse del modelo anterior y del actual gobierno nacional.\n\nEl Norte Grande continúa exhibiendo una notable cohesión. Gobernadores como Raúl Jalil (Catamarca), Carlos Sadir (Jujuy) y Gustavo Sáenz (Salta) se reunieron en el CFI para avanzar en la Mesa del Litio y discutir el fomento a proveedores locales, la seguridad jurídica y la atracción de inversiones mineras. Este bloque regional subraya su potencial como motor económico del país, reclamando un protagonismo que perciben subrepresentado. Leandro Zdero (Chaco) se sumó a este espíritu federal al celebrar el consenso para nuevos subsidios energéticos para las zonas cálidas, presentándolo como un logro de la articulación regional.\n\nEn materia de seguridad, Jorge Macri (CABA) lanzó una política de 'emergencia' para combatir la mafia de celulares robados, prometiendo 'ley y orden' y restricciones a los comercios de reparación. Claudio Poggi (San Luis), por su parte, impulsó una reforma constitucional para 'mayor institucionalidad' y anunció mejoras significativas en el sistema de seguridad y comunicación policial. Ambas acciones reflejan una preocupación creciente por el orden y la seguridad, aunque con enfoques distintos en su ejecución.\n\nFinalmente, la inversión en infraestructura y desarrollo de capital humano se mantiene como un pilar en varias provincias. Martín Llaryora (Córdoba) destacó su 'Plan de Igualdad Territorial' con obras de agua potable, viviendas y apoyo a la educación universitaria. Ignacio Torres (Chubut) promovió becas para estudiantes, buscando retener talento local. Hugo Passalacqua (Misiones) enfocó su gestión en agilizar pasos fronterizos y potenciar el comercio exterior. Osvaldo Jaldo (Tucumán) recibió a la embajadora de Ecuador para explorar nuevas oportunidades productivas y de comercio. La diversidad de estas iniciativas muestra un fuerte enfoque en la autonomía provincial para impulsar el crecimiento y mejorar la calidad de vida, a menudo supliendo o diferenciándose de la acción del gobierno central. El panorama es de provincias que buscan afirmarse y crecer, en un entorno de desafíos económicos y redefinición de roles federales.",
+    "temas_calientes": [
+        {
+            "tema": "Tensión Federal y Crítica al Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Regional y Minería",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@carlossadirjuy",
+                "@GustavoSaenzOK",
+                "@passalacquaok",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Fortalecimiento Institucional",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Calidad de Vida",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Educación y Formación para el Futuro",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "DURANTE 30 AÑOS USARON A LA PROVINCIA PARA SUS NEGOCIOS. SE TERMINÓ LA SANTA CRUZ PARA UNOS POCOS. En 2023 los santacruceños decidimos cambiar el rumbo: dejar de utilizar los recursos de la provincia para hacer política y recuperar espacios, invertir en producción y poner los recursos del Estado al servicio de quienes quieren trabajar y salir adelante. Ellos hicieron de Santa Cruz su negocio. Nosotros estamos haciendo de Santa Cruz una provincia que produzca. No vamos a volver atrás. Santa Cruz Puede y Tiene Rumbo",
+        "por_que_es_clave": "Este post destaca una narrativa fuerte de cambio político y anticorrupción, estableciendo un contraste tajante con administraciones anteriores y prometiendo una gestión enfocada en la producción. Su tono es directo y confrontativo, resonando en la polarización federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Economía del Conocimiento",
+                "Crítica a políticas nacionales",
+                "Generación de empleo"
+            ],
+            "postura_politica": "Se posiciona como defensor del desarrollo productivo y científico nacional frente a una supuesta desarticulación por parte del Gobierno central. Promueve la articulación público-privada-universitaria.",
+            "frase_fuerte": "acá tenemos un Gobierno nacional que desarticula áreas enteras, destruye nuestras capacidades productivas y desfinancia el sistema científico y tecnológico nacional."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el delito",
+                "Ley y orden"
+            ],
+            "postura_politica": "Manifiesta una postura de firmeza y mano dura contra el crimen organizado, específicamente en el ámbito del robo de celulares, buscando erradicar la cadena de comercialización ilegal.",
+            "frase_fuerte": "Se terminó la mafia de los celulares robados. Declaramos la emergencia para caerles con todo el peso de la ley."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Minería",
+                "Mesa del Litio",
+                "Desarrollo de PyMEs",
+                "Federalismo"
+            ],
+            "postura_politica": "Proactiva en el fomento de la minería, especialmente del litio, buscando la inserción de PyMEs locales y atrayendo inversiones bajo reglas claras. Enfatiza el potencial del Norte argentino.",
+            "frase_fuerte": "Como lo venimos haciendo en Jujuy, los proveedores locales mineros tienen trabajo, tienen un rol y un espacio en constante crecimiento en la minería, respaldados en reglas claras y seguridad jurídica."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Subsidios energéticos",
+                "Desarrollo regional",
+                "Norte Grande"
+            ],
+            "postura_politica": "Celebra el consenso alcanzado en un reclamo histórico del Norte, posicionándose como promotor del federalismo y defensor de los intereses de las zonas cálidas en materia energética.",
+            "frase_fuerte": "Un reclamo histórico del Norte empieza a convertirse en realidad. Logramos el consenso para avanzar en una nueva definición de los subsidios energéticos para las zonas cálidas y muy cálidas."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Educación",
+                "Apoyo a la juventud",
+                "Becas de estudio",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Compromiso con la retención del talento joven en la provincia, otorgando becas y reconocimientos para que puedan desarrollarse localmente.",
+            "frase_fuerte": "distinguimos a los mejores promedios de la provincia y los acompañamos con becas, para que puedan seguir estudiando acá, en Chubut, cerca de sus familias y sin tener que irse lejos para cumplir sus sueños."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Educación",
+                "Desarrollo territorial",
+                "Acceso a servicios básicos",
+                "Inversión privada"
+            ],
+            "postura_politica": "Exhibe una gestión activa en el interior provincial, priorizando obras de infraestructura (agua), fomento de la educación universitaria y el impulso a la inversión con un enfoque de 'Igualdad Territorial'.",
+            "frase_fuerte": "Seguimos llevando adelante el Plan de #IgualdadTerritorial, que contempla financiamiento de #infraestructura, una fuerte apuesta por la #educación e incentivos económicos y fiscales para promover la inversión privada, tanto en el noroeste como del sur-sur provincial."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Conmemoración histórica",
+                "Valores patrióticos",
+                "Libertad",
+                "Vocación de servicio"
+            ],
+            "postura_politica": "En el marco de la conmemoración de San Martín, refuerza los valores de libertad, compromiso y servicio como pilares para la construcción de una nación soberana y federal.",
+            "frase_fuerte": "San Martín entendió que la libertad no se declama: se conquista con coraje, compromiso y una profunda vocación de servicio."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Minería sustentable",
+                "Energías renovables",
+                "Desarrollo tecnológico",
+                "Relaciones internacionales",
+                "Inversión"
+            ],
+            "postura_politica": "Proactiva en la búsqueda de inversiones extranjeras y el desarrollo de la minería y energías renovables, posicionando a Jujuy como un actor clave en la transformación económica del país.",
+            "frase_fuerte": "Recibí en Jujuy a una delegación del Estado de Utah, Estados Unidos, con quienes dialogamos sobre distintos temas de interés que compartimos como la minería sustentable, las energías renovables y el desarrollo tecnológico.."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Comercio exterior",
+                "Agilización fronteriza",
+                "Sistema portuario",
+                "Competitividad provincial"
+            ],
+            "postura_politica": "Impulsa una agenda de fortalecimiento del comercio exterior y la logística provincial, buscando la coordinación de esfuerzos con el gobierno nacional para mejorar la competitividad de Misiones.",
+            "frase_fuerte": "avanzamos en una agenda clave para Misiones: agilización de los pasos fronterizos, impulso al comercio exterior y consolidación de nuestro sistema portuario."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Vivienda",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Destaca la inversión provincial en obras de gran envergadura en la capital y soluciones habitacionales en el interior, evidenciando un modelo de gestión enfocado en el crecimiento y la mejora de la calidad de vida.",
+            "frase_fuerte": "Inauguramos junto a Mariano Gaido la avenida Crouzeilles, la obra municipal más importante del país en la actualidad."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Minería",
+                "Norte argentino",
+                "Desarrollo regional",
+                "Inversión"
+            ],
+            "postura_politica": "Subraya la 'oportunidad histórica' del Norte argentino en minería, promoviendo la generación de valor, trabajo y seguridad jurídica para atraer inversiones que beneficien a la gente.",
+            "frase_fuerte": "Argentina tiene una oportunidad histórica y el Norte argentino tiene un enorme potencial para ser protagonista."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Reforma constitucional",
+                "Seguridad pública",
+                "Innovación educativa",
+                "Institucionalidad"
+            ],
+            "postura_politica": "Impulsa una reforma parcial de la Constitución para reforzar la institucionalidad y moderniza los sistemas de seguridad y educación, con un enfoque en la mejora y superación del 'abandono' pasado.",
+            "frase_fuerte": "Hoy el SENADO PROVINCIAL dió media sanción al Proyecto de Ley que declara la Necesidad de la Reforma Parcial de nuestra Constitución Provincial."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Lucha contra la corrupción",
+                "Producción",
+                "Desarrollo económico",
+                "Crítica a anteriores gestiones"
+            ],
+            "postura_politica": "Fuerte retórica anti-kirchnerista, denunciando la corrupción pasada y destacando una gestión de 'cambio de rumbo' centrada en la inversión, la producción y la transparencia para el bienestar provincial.",
+            "frase_fuerte": "DURANTE 30 AÑOS USARON A LA PROVINCIA PARA SUS NEGOCIOS. SE TERMINÓ LA SANTA CRUZ PARA UNOS POCOS."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Comercio exterior",
+                "Producción",
+                "Turismo",
+                "Economía del conocimiento"
+            ],
+            "postura_politica": "Activa en la búsqueda de cooperación internacional para diversificar la matriz productiva y promover el comercio exterior, destacando el potencial de Tucumán en diversos sectores.",
+            "frase_fuerte": "Recibimos a la embajadora de Ecuador en Argentina, Diana Salazar Méndez, para fortalecer los vínculos entre Tucumán y Ecuador y avanzar en una agenda de trabajo que nos permita generar nuevas oportunidades para nuestra provincia."
+        }
+    ]
+}
