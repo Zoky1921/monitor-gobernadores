@@ -1,0 +1,76 @@
+{
+    "clima_general": "CALMADO",
+    "resumen_ejecutivo": "La jornada estuvo marcada por la conmemoración del paso a la inmortalidad del General San Martín, con gobernadores emitiendo mensajes que resaltaron la libertad, la unidad y la soberanía. Martín Llaryora (Córdoba) y Hugo Passalacqua (Misiones) vincularon el legado sanmartiniano con valores de gestión y la defensa de las autonomías provinciales. Gustavo Valdés (Corrientes) reforzó los principios de coraje y compromiso. Fuera de esta agenda patria, Raúl Jalil (Catamarca) celebró un hito en la producción local, destacando el 'mejor alfajor del mundo' catamarqueño, lo que subraya el orgullo provincial y la apuesta al desarrollo productivo.",
+    "analisis_profundo": "La actividad en la plataforma X de los gobernadores que cumplen el filtro temporal se centró mayoritariamente en la conmemoración del 17 de agosto, día del paso a la inmortalidad del General San Martín. Los mensajes, si bien comparten un tono patrio, revelan matices en su interpretación y vinculación con la gestión provincial.\nMartín Llaryora (Córdoba) utilizó la figura de San Martín para realzar el valor de la 'grandeza colectiva' y la 'libertad', participando en una 'Velada Patria' en Villa Tulumba y destacando el 'desarrollo y crecimiento para la región', combinando el patriotismo con el progreso local, mostrando un liderazgo arraigado en la cultura cordobesa.\nHugo Passalacqua (Misiones) adoptó una perspectiva más crítica en su homenaje, señalando la necesidad de 'romper las cadenas del absolutismo' y asegurar una 'libertad para todos', una frase que, en el contexto de las dinámicas federales, puede interpretarse como una velada reivindicación de la autonomía provincial frente a posibles centralismos.\nGustavo Valdés (Corrientes) se sumó a la conmemoración republicana, retuiteando a la UCR Nacional y enfatizando que la libertad 'se conquista con coraje, compromiso y una profunda vocación de servicio', un mensaje en línea con los valores de su espacio político.\nAparte de la agenda sanmartiniana, Raúl Jalil (Catamarca) desvió la atención hacia un logro de la economía regional, celebrando el 'mejor alfajor del mundo catamarqueño'. Este anuncio de perfil bajo, pero de alto impacto local, destaca la capacidad productiva y el orgullo provincial, reafirmando el papel de las economías regionales en la agenda de los gobernadores.\nLa jornada refleja una agenda conmemorativa dominante, utilizada para proyectar valores de liderazgo, identidad provincial y, en algunos casos, reafirmar posturas sobre el federalismo, pero sin generar frentes de conflicto abierto.",
+    "temas_calientes": [
+        {
+            "tema": "Conmemoración Sanmartiniana y Valores Patrios",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Orgullo Local",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Reivindicación Federal y Autonomía",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Desarrollo productivo local",
+                "Promoción provincial"
+            ],
+            "postura_politica": "Orgulloso de la producción local, destaca logros que benefician la imagen provincial a nivel internacional. Su mensaje subraya la importancia de las economías regionales en la proyección de la provincia.",
+            "frase_fuerte": "¡El mejor alfajor del mundo es catamarqueño!"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Conmemoración patria",
+                "Cultura",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Lidera activamente la conmemoración de San Martín, conectando los valores históricos con la promoción del desarrollo y la identidad cultural de Córdoba. Demuestra una gestión que integra lo simbólico con lo tangible.",
+            "frase_fuerte": "Hay noches culturales que nos recuerdan quiénes somos y qué valores queremos defender."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Conmemoración patria",
+                "Valores de libertad",
+                "Compromiso político"
+            ],
+            "postura_politica": "A través de un retuit, refuerza los ideales de San Martín, enfatizando el coraje y el servicio como pilares fundamentales para la libertad, alineándose con una visión más republicana.",
+            "frase_fuerte": "San Martín entendió que la libertad no se declama: se conquista con coraje, compromiso y una profunda vocación de servicio."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Conmemoración patria",
+                "Libertad",
+                "Federalismo",
+                "Críticas al centralismo"
+            ],
+            "postura_politica": "Interpreta el legado sanmartiniano como una llamada a 'romper las cadenas del absolutismo', lo que sugiere una posición crítica y defensora de la autonomía provincial frente a poderes centralizados.",
+            "frase_fuerte": "San Martín nos dejó una enseñanza que sigue tan vigente como entonces, hay que romper las cadenas del absolutismo y no permitir que nadie se crea dueño de todo."
+        }
+    ]
+}

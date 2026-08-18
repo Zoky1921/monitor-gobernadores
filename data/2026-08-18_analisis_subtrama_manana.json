@@ -1,0 +1,48 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de homenajes protocolares a San Martín sin posicionamiento político contra la Nación. Los gobernadores optaron por refugiarse en la agenda de cabotaje o en la conmemoración patriótica, evitando cualquier conflicto fiscal o institucional.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La fecha del 17 de agosto, tradicionalmente usada para reivindicar gestas independentistas, fue aprovechada por los pocos gobernadores que tuiteron para rendir homenaje al General San Martín sin deslizar crítica alguna al gobierno nacional. No hubo disputa fiscal, reclamo de coparticipación ni cuestionamiento al ajuste. El silencio de los mandatarios de provincias centrales (Buenos Aires, CABA, Córdoba, Santa Fe) fue ensordecedor, revelando una calculada elusión de la agenda pública en un día de alta carga simbólica.\n\nActo 2 — Los Alineamientos: Los cuatro gobernadores que rompieron el silencio —Raúl Jalil (Catamarca), Martín Llaryora (Córdoba), Gustavo Valdés (Corrientes) y Hugo Passalacqua (Misiones)— lo hicieron desde el perfil bajo y la gestión de cabotaje. Ninguno buscó confrontar ni alinearse explícitamente con la Casa Rosada. El acto de Llaryora en Villa Tulumba y el retweet de Valdés desde la UCR subrayan una ambigüedad calculada: honrar al prócer sin mojarse en el debate federal.\n\nActo 3 — La Micro-política: En provincias periféricas, la conmemoración patriótica se fusionó con la agenda local. Jalil celebró el triunfo de un alfajor catamarqueño en un campeonato mundial, un gesto de orgullo regional que diluye cualquier pretensión de posicionamiento nacional. Passalacqua, desde Misiones, reiteró valores de libertad pero sin mencionar la actualidad política. Son gestos de supervivencia: ocupar el espacio con contenido blando para no tener que definirse.\n\nActo 4 — Saldo Presidencial: La Casa Rosada puede leer la jornada como un empate técnico. No recibió críticas abiertas, pero tampoco respaldos explícitos. La ausencia de los gobernadores más pesados (Kicillof, Macri, Pullaro) en la conversación pública sugiere un repliegue estratégico. El capital político del oficialismo no se fortalece, pero tampoco se erosiona. En tiempos de tensión fiscal, a veces callar es la jugada más segura.",
+    "temas_calientes": [],
+    "tweet_destacado": {
+        "usuario": "@gustavovaldesok (RT de @UCRNacional)",
+        "texto": "San Martín entendió que la libertad no se declama: se conquista con coraje, compromiso y una profunda vocación de servicio. A 176 años de su paso a la inmortalidad, honramos su legado y su ejemplo de entrega a la construcción de una Nación libre, soberana y unida.",
+        "por_que_es_clave": "Es el único tuit que, desde un partido aliado al Gobierno nacional (UCR), refuerza la narrativa de 'libertad' sin confrontar. Pero al no mencionar la gestión actual, se queda en un plano abstracto, evitando comprometerse con el ajuste.",
+        "pregunta_openarg": "¿Puede un gobernador homenajear a San Martín sin tomar posición sobre la libertad económica que pregona el Gobierno, o ese silencio ya es una toma de posición?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Alfajor mundial",
+                "Orgullo provincial"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Celebra un logro productivo regional, evitando cualquier mención a la Nación o a conflictos fiscales.",
+            "frase_fuerte": "¡El mejor alfajor del mundo es catamarqueño!"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Homenaje a San Martín",
+                "Velada Patria"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Conmemora al Libertador con énfasis en la libertad y la grandeza colectiva, sin vinculación con la coyuntura nacional.",
+            "frase_fuerte": "Hay noches culturales que nos recuerdan quiénes somos y qué valores queremos defender."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Homenaje a San Martín"
+            ],
+            "postura_politica": "Alineamiento abstracto desde el radicalismo. Retuitea un mensaje de la UCR que reivindica la libertad, pero sin referencia al gobierno de Milei.",
+            "frase_fuerte": "San Martín entendió que la libertad no se declama: se conquista con coraje, compromiso y una profunda vocación de servicio."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Homenaje a San Martín"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Mensaje genérico sobre la libertad y el legado de San Martín, sin conexión con la agenda nacional.",
+            "frase_fuerte": "La libertad que defendió fue una libertad para todos, y ese legado tenemos que cuidarlo cada día."
+        }
+    ]
+}
