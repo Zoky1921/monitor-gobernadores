@@ -1,0 +1,266 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una clara polarización en la relación Nación-provincias. Mientras gobernadores como Axel Kicillof (Buenos Aires) y Gildo Insfrán (Formosa) intensificaron sus críticas a las políticas económicas nacionales, señalando un 'plan injusto e inhumano' y un 'abandono' a los trabajadores, otros como Rolando Figueroa (Neuquén), Raúl Jalil (Catamarca) y Gustavo Sáenz (Salta) destacaron acuerdos con el gobierno central en subsidios energéticos y compensación de deudas, subrayando la importancia del diálogo. La mayoría de los mandatarios, sin embargo, se enfocaron en la gestión local, priorizando obras de infraestructura, seguridad con tecnología avanzada y la promoción de economías regionales y educación ante un contexto macroeconómico desafiante.",
+    "analisis_profundo": "La agenda política de los gobernadores reveló el 19 de agosto de 2026 una compleja dinámica federal, oscilando entre la confrontación directa con el gobierno nacional y un marcado énfasis en la gestión autónoma y la cooperación regional. Por un lado, Axel Kicillof (Buenos Aires) lanzó una crítica contundente contra el 'plan económico' del presidente Javier Milei, calificándolo de 'injusto e inhumano' y acusándolo de castigar al sistema productivo. En la misma línea, Gildo Insfrán (Formosa) convocó a la unidad del movimiento obrero frente a la 'situación cada vez más difícil de los trabajadores argentinos' por las políticas nacionales. Claudio Vidal (Santa Cruz) también arremetió contra la gestión anterior por el 'abandono' y la utilización de recursos para 'negocios', reafirmando el compromiso de su provincia con la producción y el trabajo local.\n\nPor otro lado, se observaron claras señales de diálogo y acuerdos con el gobierno central. Rolando Figueroa (Neuquén) no solo celebró la confirmación del mantenimiento del régimen de zonas frías para la Patagonia por parte del ministro Diego Santilli, sino que también pactó con Luis Caputo (Economía) un régimen de extinción de obligaciones recíprocas. Raúl Jalil (Catamarca) y Gustavo Sáenz (Salta) destacaron un consenso regional con Nación sobre los subsidios energéticos para zonas cálidas, reconociéndolo como un acto de 'federalismo'. Leandro Zdero (Chaco) también se sumó a este reconocimiento. Esta dualidad evidencia una necesidad pragmática de las provincias de negociar con la Nación en temas cruciales, a la vez que mantienen sus posturas políticas diferenciadas.\n\nEn el ámbito de la gestión, la inversión en infraestructura y desarrollo productivo fue un eje transversal. Martín Llaryora (Córdoba) detalló inversiones en agua potable y el fortalecimiento de parques industriales y educación tecnológica, mientras que Alfredo Cornejo (Mendoza) impulsó proyectos innovadores en salud pública digital y seguridad con reconocimiento facial. Ricardo Quintela (La Rioja) destacó obras hídricas y el legado de la educación obrera. Hugo Passalacqua (Misiones) informó sobre nuevas obras de agua potable. Osvaldo Jaldo (Tucumán) y Leandro Zdero (Chaco) también se enfocaron en obras de infraestructura local para mejorar la calidad de vida de sus habitantes, a menudo remarcando la financiación provincial frente a la paralización de fondos nacionales.\n\nLa economía del conocimiento y la minería emergieron como motores de desarrollo. Nacho Torres (Chubut) promovió la educación en Inteligencia Artificial y programación, mientras que Marcelo Orrego (San Juan) celebró la aprobación de un acuerdo minero con Vicuña, proyectando nuevos recursos y empleo para la provincia. Raúl Jalil (Catamarca) cerró un convenio con Utah (EE. UU.) para potenciar su sector minero y energético. La seguridad, tanto urbana como energética, y la búsqueda de autoabastecimiento o control sobre los recursos naturales (como Vaca Muerta en Neuquén) también marcaron la agenda. El clima político general, aunque con focos de cooperación, se percibe como 'Tenso' por las fuertes críticas al modelo nacional y la defensa de las autonomías provinciales.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a Políticas Económicas Nacionales y Defensa del Federalismo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@insfran_gildo",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Acuerdos con el Gobierno Nacional y Diálogo Interjurisdiccional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@RaulJalil_ok",
+                "@GustavoSaenzOK",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Servicios Públicos (Provincial)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Regional, Minería y Nuevas Tecnologías",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@DrMarceloOrrego",
+                "@NachoTorresCH",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad Pública y Modernización Tecnológica",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@alfredocornejo",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "El problema de la Argentina tiene nombre y apellido: Javier Milei y su plan económico. Su modelo se está llevando puesto al sistema productivo, a los salarios y a las familias, que terminan endeudándose a tasas descontroladas para pagar los servicios, los remedios o la comida. Llegar al extremo de poner en riesgo la supervivencia diaria es el resultado de una política injusta e inhumana.",
+        "por_que_es_clave": "Es la crítica más directa y contundente al plan económico nacional por parte de un gobernador de peso, articulando el impacto social y productivo con una fuerte condena moral ('injusta e inhumana'), marcando una clara línea de oposición federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al gobierno nacional",
+                "Federalismo",
+                "Producción local",
+                "Seguridad",
+                "Educación",
+                "Salud",
+                "Denuncia de fake news"
+            ],
+            "postura_politica": "Fuerte oposición a las políticas económicas nacionales, defensa de la producción y los salarios, promoción de un federalismo basado en la cooperación municipal y la atención a las necesidades locales. Denuncia la manipulación mediática.",
+            "frase_fuerte": "El problema de la Argentina tiene nombre y apellido: Javier Milei y su plan económico. Su modelo se está llevando puesto al sistema productivo, a los salarios y a las familias."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y Orden",
+                "Lucha contra el crimen organizado (celulares robados)"
+            ],
+            "postura_politica": "Línea dura en seguridad, priorizando la acción policial y la erradicación de actividades ilícitas mediante operativos directos y legislación estricta.",
+            "frase_fuerte": "Reitero por si a estos mafiosos no les quedó claro: o dejan de vender celulares robados o no vamos a dejar ni un local en pie. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería (litio, cobre)",
+                "Energía geotérmica",
+                "Cooperación internacional (EE.UU.)",
+                "Desarrollo de PyMEs",
+                "Subsidios energéticos",
+                "Federalismo",
+                "Economía regional"
+            ],
+            "postura_politica": "Impulsa la provincia (Catamarca) como polo minero y energético con proyección internacional, buscando inversiones y desarrollo local. Articula con otros gobernadores del Norte Grande para reclamar al gobierno nacional políticas federales en energía.",
+            "frase_fuerte": "Esta alianza nos permitirá intercambiar conocimientos en litio, cobre y energía geotérmica, abrir nuevas puertas para la formación y la investigación, vincular a las PyMEs locales con el mercado internacional y atraer inversiones que generen más empleo local."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura local (pavimento, agua)",
+                "Obras en clubes deportivos",
+                "Subsidios energéticos",
+                "Federalismo"
+            ],
+            "postura_politica": "Se enfoca en la gestión de obras públicas municipales para mejorar la calidad de vida y el desarrollo comunitario. Destaca el logro regional en subsidios energéticos como un avance federal.",
+            "frase_fuerte": "Un reclamo histórico que desde el Norte empieza a convertirse en realidad. Logramos el consenso para avanzar en una nueva definición de los subsidios energéticos para las zonas cálidas y muy cálidas."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Educación tecnológica (IA, programación)",
+                "Becas estudiantiles",
+                "Desarrollo deportivo juvenil"
+            ],
+            "postura_politica": "Apuesta por la modernización educativa para preparar a los jóvenes para el futuro laboral y por el fomento del deporte como herramienta de desarrollo y retención de talento.",
+            "frase_fuerte": "El desafío no es resistirnos a los cambios, sino darles a nuestros chicos las herramientas necesarias para que sean protagonistas de su propio futuro."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación tecnológica (robótica, computadoras)",
+                "Infraestructura hídrica (agua potable)",
+                "Desarrollo industrial y económico regional",
+                "Inversión en el noroeste provincial"
+            ],
+            "postura_politica": "Foco en el Plan de Igualdad Territorial, priorizando la inversión en tecnología educativa y obras de infraestructura esencial en el interior para generar igualdad de oportunidades y desarrollo.",
+            "frase_fuerte": "La escuela con la tecnología también iguala. Sabemos que no todas las familias pueden adquirir una netbook para sus hijos, y no por eso se tienen que quedar atrás en la educación."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Situación económica nacional",
+                "Derechos laborales",
+                "Unidad sindical",
+                "Producción",
+                "Bienestar social"
+            ],
+            "postura_politica": "Crítica explícita a las políticas económicas nacionales por su impacto negativo en los trabajadores y la producción. Aboga por la unidad del 'campo nacional y popular' para revertir la situación.",
+            "frase_fuerte": "Es importante la unidad del movimiento obrero organizado y de todo el campo nacional y popular para lograr una Patria con más empleo, producción y bienestar para el pueblo argentino."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Minería (acuerdo Vicuña)",
+                "Recursos provinciales",
+                "Desarrollo económico",
+                "Aprobación legislativa"
+            ],
+            "postura_politica": "Defiende y promueve la inversión minera, celebrando la aprobación de un acuerdo clave que asegura recursos para obras provinciales, posicionando a San Juan en un camino de desarrollo y progreso.",
+            "frase_fuerte": "Celebro que la Cámara de Diputados de la Provincia haya aprobado el acuerdo con Vicuña que envié para su ratificación. Esto se traducirá en recursos para las obras que San Juan necesita, antes de que el proyecto comience a producir."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Seguridad (actuación policial, división canes, protocolos de emergencia)",
+                "Infraestructura urbana (repavimentación, luminarias)",
+                "Servicios públicos (gas natural)",
+                "Educación (congreso de IA)",
+                "Olimpiadas deportivas de empleados públicos"
+            ],
+            "postura_politica": "Enfatiza la eficiencia y rapidez en la respuesta de las fuerzas de seguridad y el impulso de obras de servicios y modernización en la provincia (San Luis), además de promover la formación y el bienestar.",
+            "frase_fuerte": "Inauguramos el gas natural en dos Barrios de JUANA KOSLAY, Barrio Los Fresnos y Barrio Virgen de Fátima. 53 familias que acceden a este nuevo servicio."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Obras hídricas (agua potable, riego)",
+                "Desarrollo productivo local",
+                "Educación obrera",
+                "Peronismo"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura esencial y el apoyo a la producción local (La Rioja). Resalta el valor histórico de la educación obrera y el peronismo en la construcción de la Nación.",
+            "frase_fuerte": "Avanzamos con una obra hídrica clave para Santo Domingo y Campanas, que permitirá mejorar el abastecimiento de agua potable y fortalecer también el acceso al agua para riego y producción."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud pública (adicciones, transformación digital, telemedicina, HCE)",
+                "Seguridad (reconocimiento facial, videovigilancia, protección de la privacidad)",
+                "Financiación internacional (BID)"
+            ],
+            "postura_politica": "Lidera con políticas innovadoras en salud y seguridad (Mendoza), utilizando tecnología y buscando financiamiento externo para modernizar los servicios públicos y mejorar la calidad de vida de los mendocinos.",
+            "frase_fuerte": "Mendoza es la primera provincia del país en reglamentar integralmente el uso del reconocimiento facial dentro del Sistema Provincial de Videovigilancia, con un marco legal que garantiza controles, validación humana, debidos procesos y protección de la privacidad."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Obras de agua potable",
+                "Servicios públicos locales"
+            ],
+            "postura_politica": "Se enfoca en la gestión de infraestructura básica para el bienestar de las comunidades (Misiones), asegurando el acceso a servicios esenciales como el agua potable.",
+            "frase_fuerte": "En San Antonio, una nueva obra de agua potable va a beneficiar a unas 500 familias."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Seguridad (fuerzas de seguridad, crítica a gestión anterior)",
+                "Producción y trabajo",
+                "Desarrollo económico local",
+                "Infraestructura cloacal"
+            ],
+            "postura_politica": "Fuertes críticas a la 'humillación' y 'negocios' de gobiernos anteriores, priorizando el apoyo a las fuerzas de seguridad y el impulso de la producción y el trabajo local (Santa Cruz) con inversión en infraestructura esencial.",
+            "frase_fuerte": "ELLOS HICIERON NEGOCIOS. NOSOTROS QUEREMOS PRODUCCIÓN Y TRABAJO"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Deportes (velódromo, Juegos Suramericanos)",
+                "Infraestructura deportiva",
+                "Legado",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Promueve la inversión en infraestructura deportiva de primer nivel para eventos internacionales (Santa Fe), buscando un legado que impulse el deporte y el desarrollo en la provincia.",
+            "frase_fuerte": "Qué orgullo y qué emoción escuchar a campeones olímpicos valorar el nuevo velódromo de #Rafaela que hoy inauguramos 💪🏾"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Salud pública (hospitales, infraestructura)",
+                "Viviendas sociales",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Compromiso con la mejora y ampliación de los servicios de salud e infraestructura hospitalaria en el interior de la provincia (Santiago del Estero), complementado con la entrega de viviendas sociales.",
+            "frase_fuerte": "𝗕𝗘𝗟𝗧𝗥Á𝗡 𝗬𝗔 𝗧𝗜𝗘𝗡𝗘 𝗨𝗡 𝗛𝗢𝗦𝗣𝗜𝗧𝗔𝗟 𝗧𝗢𝗧𝗔𝗟𝗠𝗘𝗡𝗧𝗘 𝗥𝗘𝗡𝗢𝗩𝗔𝗗𝗢 🏥"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Recursos naturales (Vaca Muerta, participación provincial)",
+                "Relación Nación-provincias (subsidios, deudas, reformas)",
+                "Desarrollo económico post-Vaca Muerta",
+                "Producción local",
+                "Alivio financiero"
+            ],
+            "postura_politica": "Aboga por la autonomía y participación activa de la provincia (Neuquén) en sus recursos estratégicos. Mantiene un diálogo con el gobierno nacional buscando acuerdos, mientras define una agenda económica propia que incluye apoyo a las familias y diversificación productiva.",
+            "frase_fuerte": "El ministro @diegosantilli nos confirmó durante la reunión que mantuvimos hoy que el régimen de zonas frías para la Patagonia se mantendrá como hasta ahora."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Subsidios energéticos",
+                "Federalismo",
+                "Acuerdo con Nación"
+            ],
+            "postura_politica": "Destaca el logro de un consenso regional con el gobierno nacional para obtener subsidios energéticos más justos para las zonas cálidas (Salta), lo cual interpreta como un avance federal y una respuesta a un reclamo histórico.",
+            "frase_fuerte": "Un reclamo histórico que desde el Norte venimos sosteniendo, empieza a tener respuesta. Esto es federalismo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obras de infraestructura (puentes, pavimento, plazas)",
+                "Inversión provincial",
+                "Gestión pese a dificultades nacionales"
+            ],
+            "postura_politica": "Enfatiza la continuidad de la gestión y la inversión en obras públicas con recursos provinciales (Tucumán), a pesar de las dificultades económicas nacionales, buscando mejorar la calidad de vida en el interior de la provincia.",
+            "frase_fuerte": "A pesar de las dificultades que atraviesa el país, en Tucumán no detenemos la gestión. Administramos responsablemente los recursos provinciales y los transformamos en infraestructura, equipamiento y mejores servicios."
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por el acuerdo entre el Norte Grande y Nación para redefinir subsidios energéticos en zonas cálidas, un triunfo de la gestión federal de gobernadores periféricos. En paralelo, Axel Kicillof intensificó su embestida contra Javier Milei, mientras que gobernadores de provincias centrales como Jorge Macri y Alfredo Cornejo reforzaron su perfil de seguridad y orden. La Casa Rosada capitaliza el diálogo con provincias productivas como Neuquén, pero enfrenta la resistencia del principal distrito opositor.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal y simbólica del día se concentró en el acuerdo sobre subsidios energéticos para zonas cálidas, un reclamo histórico del Norte Grande que finalmente obtuvo respuesta del Gobierno nacional. Gobernadores como Gustavo Sáenz, Raúl Jalil y Leandro Zdero celebraron el avance como un ejercicio de federalismo, mientras que Axel Kicillof, desde Buenos Aires, redobló su ofensiva contra Javier Milei, acusándolo de llevar adelante un modelo económico 'injusto e inhumano'. La Casa Rosada, por su parte, logró destrabar una negociación clave con provincias periféricas, pero el frente interno con la provincia más poblada sigue escalando.\n\nActo 2 — Los Alineamientos: Los socios estratégicos del oficialismo se visibilizaron en la figura de Rolando Figueroa (Neuquén), quien mantuvo reuniones con Diego Santilli y Luis Caputo para avanzar en compensaciones de deudas y mantener el régimen de zonas frías. Marcelo Orrego (San Juan) celebró la aprobación del acuerdo con Vicuña, un guiño a la minería. En la vereda opuesta, los gobernadores del Norte Grande actuaron como bloque negociador, mientras que Kicillof se posicionó como el principal antagonista, utilizando su visita a Chaco para tejer alianzas con el peronismo del interior. Jorge Macri (CABA) y Alfredo Cornejo (Mendoza) se mantuvieron en una línea de gestión autónoma, reforzando su perfil de 'orden' sin confrontar directamente con Nación.\n\nActo 3 — La Micro-política: Las provincias periféricas se refugiaron en la gestión local. Claudio Poggi (San Luis) inauguró obras de repavimentación y gas, mientras que Nacho Torres (Chubut) apostó a la educación tecnológica. Gildo Insfrán (Formosa) se reunió con sindicalistas para criticar las políticas nacionales, pero sin propuestas concretas. Hugo Passalacqua (Misiones) y Osvaldo Jaldo (Tucumán) se limitaron a inaugurar obras de agua y rutas, evitando cualquier roce con la Casa Rosada. Claudio Vidal (Santa Cruz) mantuvo su discurso de confrontación contra el kirchnerismo local, pero sin mencionar a Milei.\n\nActo 4 — Saldo Presidencial: El Gobierno nacional logró un avance significativo al cerrar el acuerdo energético con el Norte, lo que le permite mostrar gestión federal. Sin embargo, la ofensiva de Kicillof y la ausencia de gobernadores radicales o de la UCR en la agenda del día (como Gustavo Valdés o Maximiliano Pullaro, quien solo apareció con un acto deportivo) dejan un saldo mixto. La Casa Rosada consolida su relación con provincias productivas como Neuquén y San Juan, pero la grieta con Buenos Aires se profundiza, y el silencio de Córdoba (Llaryora se enfocó en obras) sugiere una espera estratégica.",
+    "temas_calientes": [
+        {
+            "tema": "Acuerdo sobre subsidios energéticos para zonas cálidas",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Ofensiva de Axel Kicillof contra Javier Milei",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden en CABA y Mendoza",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Gestión de infraestructura y obra pública provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@NachoTorresCH",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Minería y energía en Neuquén y San Juan",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@DrMarceloOrrego"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "El problema de la Argentina tiene nombre y apellido: Javier Milei y su plan económico. Su modelo se está llevando puesto al sistema productivo, a los salarios y a las familias, que terminan endeudándose a tasas descontroladas para pagar los servicios, los remedios o la comida. Llegar al extremo de poner en riesgo la supervivencia diaria es el resultado de una política injusta e inhumana.",
+        "por_que_es_klave": "Kicillof rompe el protocolo y personaliza el conflicto con Milei, marcando el inicio de una campaña electoral anticipada. El tweet busca unificar al peronismo bonaerense y nacional en torno a la figura del gobernador como líder opositor.",
+        "pregunta_openarg": "¿Puede Kicillof capitalizar el descontento social para desplazar a Milei en 2027, o su estrategia de confrontación directa lo aísla del electorado moderado?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "ataque a Milei",
+                "gestión en Chaco",
+                "denuncia a Clarín"
+            ],
+            "postura_politica": "Kicillof se posiciona como el principal antagonista de Milei, utilizando su visita a Chaco para tejer alianzas peronistas y denunciar al oficialismo nacional. Su mensaje es claro: él es la alternativa al ajuste.",
+            "frase_fuerte": "El problema de la Argentina tiene nombre y apellido: Javier Milei y su plan económico."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "celulares robados"
+            ],
+            "postura_politica": "Macri refuerza su perfil de 'ley y orden' con operativos concretos, sin mencionar a Nación. Busca diferenciarse del caos del conurbano y consolidar su gestión autónoma.",
+            "frase_fuerte": "Reventamos 10 cuevas de celulares robados en Once."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "minería",
+                "subsidios energía",
+                "cooperación internacional"
+            ],
+            "postura_politica": "Jalil se muestra como un gobernador pragmático que negocia con Nación y busca inversiones extranjeras. Su apoyo al acuerdo energético lo alinea con el Norte Grande, pero sin confrontar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "subsidios energía",
+                "obras públicas"
+            ],
+            "postura_politica": "Zdero celebra el acuerdo energético como un logro federal, pero su agenda local de obras muestra un perfil de gestión más que de confrontación.",
+            "frase_fuerte": "Un reclamo histórico del Norte empieza a convertirse en realidad."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "educación tecnológica",
+                "deporte",
+                "reconocimiento a estudiantes"
+            ],
+            "postura_politica": "Torres apuesta a la modernización educativa y al deporte como herramientas de gestión, evitando temas nacionales. Su perfil es de bajo conflicto.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "educación",
+                "infraestructura hídrica",
+                "desarrollo productivo"
+            ],
+            "postura_politica": "Llaryora se enfoca en la gestión provincial con obras y tecnología, sin mencionar a Nación. Es un silencio estratégico que sugiere autonomía y espera.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "reunión sindical",
+                "crítica a políticas nacionales"
+            ],
+            "postura_politica": "Insfrán se reúne con sindicalistas para criticar a Milei, pero sin propuestas concretas. Su postura es de resistencia peronista tradicional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "obras hídricas",
+                "homenaje a Perón"
+            ],
+            "postura_politica": "Quintela se limita a la gestión local y a un guiño histórico al peronismo, sin confrontar con Nación. Su perfil es de bajo perfil.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "adicciones",
+                "reconocimiento facial",
+                "salud digital"
+            ],
+            "postura_politica": "Cornejo refuerza su perfil de gestión moderna en seguridad y salud, sin mencionar a Nación. Busca posicionarse como un gobernador eficiente y autónomo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "obra de agua potable"
+            ],
+            "postura_politica": "Passalacqua se enfoca en una obra local, sin contenido federal. Su postura es de gestión aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "negociación con Nación",
+                "alivio financiero"
+            ],
+            "postura_politica": "Figueroa se muestra como un gobernador que negocia directamente con la Casa Rosada, obteniendo concesiones en zonas frías y compensaciones. Su perfil es de aliado pragmático.",
+            "frase_fuerte": "El diálogo, el trabajo conjunto y la búsqueda de consensos son el camino para seguir transformando a Neuquén y la Argentina."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "subsidios energía",
+                "federalismo"
+            ],
+            "postura_politica": "Saenz celebra el acuerdo energético como un triunfo del Norte Grande, posicionándose como un gobernador que negocia y obtiene resultados.",
+            "frase_fuerte": "Esto es federalismo. Reconocer nuestras diferencias y dar respuestas concretas a nuestra gente."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "minería",
+                "acuerdo con Vicuña"
+            ],
+            "postura_politica": "Orrego celebra la aprobación del acuerdo minero, alineándose con el oficialismo en la promoción de inversiones. Su postura es de apoyo a la agenda productiva nacional.",
+            "frase_fuerte": "Celebro que la Cámara de Diputados de la Provincia haya aprobado el acuerdo con Vicuña."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "obras públicas",
+                "seguridad",
+                "educación"
+            ],
+            "postura_politica": "Poggi se enfoca en una agenda variada de gestión local, desde obras hasta seguridad, sin contenido federal. Su perfil es de administrador.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "crítica al kirchnerismo",
+                "producción"
+            ],
+            "postura_politica": "Vidal mantiene su discurso de confrontación contra el kirchnerismo local, pero sin mencionar a Milei. Busca diferenciarse del pasado, pero sin alinearse explícitamente con Nación.",
+            "frase_fuerte": "DURANTE 30 AÑOS HUMILLARON Y LE DIERON LA ESPALDA A NUESTRAS FUERZAS. HOY NOSOTROS LAS ESCUCHAMOS"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "deporte",
+                "infraestructura"
+            ],
+            "postura_politica": "Pullaro inaugura un velódromo, mostrando gestión deportiva. No hay contenido político federal. Su postura es de bajo perfil.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "salud",
+                "infraestructura hospitalaria"
+            ],
+            "postura_politica": "Suarez se enfoca en la inauguración de un hospital renovado, sin contenido federal. Su postura es de gestión local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "obras públicas",
+                "infraestructura rural"
+            ],
+            "postura_politica": "Jaldo se limita a inaugurar obras en el interior, evitando temas nacionales. Su postura es de gestión aislada.",
+            "frase_fuerte": null
+        }
+    ]
+}
