@@ -1,0 +1,219 @@
+{
+    "clima_general": "CAUTELOSO",
+    "resumen_ejecutivo": "Los gobernadores se concentran en la gestión provincial y la respuesta directa a las demandas ciudadanas. Destacan anuncios de inversiones en infraestructura, servicios básicos y desarrollo productivo, con un énfasis particular en la minería y la agroindustria. Los mandatarios del Norte Argentino celebran un acuerdo con el Gobierno nacional sobre subsidios energéticos, lo que alivia una tensión histórica. Sin embargo, persisten críticas a las políticas nacionales por su impacto en trabajadores y economías regionales, con llamados a la unidad frente a la desarticulación económica. La seguridad y el alivio financiero familiar también ocupan un lugar central en la agenda de varios gobernadores.",
+    "analisis_profundo": "La agenda de los gobernadores muestra una fuerte impronta de gestión provincial, priorizando la implementación de políticas que impactan directamente en la calidad de vida de sus ciudadanos. Esta tendencia es visible en la vasta cantidad de anuncios de obras de infraestructura y servicios esenciales: Martín Llaryora (Córdoba) impulsa la ampliación de parques industriales y sistemas de agua potable en Cruz del Eje y Chuña, mientras Leandro Zdero (Chaco) y Claudio Vidal (Santa Cruz) destacan inversiones en clubes y sistemas cloacales, respectivamente. Osvaldo Jaldo (Tucumán) y Elías Suárez (Santiago del Estero) también reportan avances significativos en puentes, plazas y viviendas sociales, subrayando la continuidad de la inversión provincial ante un contexto nacional complejo.\n\nEn el ámbito de las relaciones federales, se observa un punto de acuerdo importante. Gobernadores como Raúl Jalil (Catamarca), Leandro Zdero (Chaco) y Gustavo Sáenz (Salta) celebran un entendimiento con el Gobierno nacional para una nueva definición de subsidios energéticos en zonas cálidas. Este logro, enmarcado como una reivindicación histórica del federalismo, sugiere una capacidad de negociación y adaptación en la relación Nación-provincias, a pesar de las diferencias políticas. La minería sigue siendo un motor económico clave para el Norte, con Raúl Jalil (Catamarca) y Carlos Sadir (Jujuy) destacando el potencial de inversión y la necesidad de seguridad jurídica.\n\nNo obstante, la jornada no está exenta de confrontación. Gildo Insfrán (Formosa) emite una crítica directa al gobierno nacional por la difícil situación de los trabajadores, haciendo un llamado a la 'unidad del movimiento obrero organizado y de todo el campo nacional y popular' para defender el empleo y la producción. Claudio Vidal (Santa Cruz) también marca una fuerte distancia con las 'negocios' de gestiones pasadas, enfocándose en la producción local. Ricardo Quintela (La Rioja) reivindica el legado peronista de la educación y el trabajo como pilares de soberanía.\n\nEn cuanto a la seguridad, Jorge Macri (CABA) comunica acciones contundentes contra la 'mafia de los celulares' y Claudio Poggi (San Luis) resalta la eficiencia de los protocolos policiales. Rolando Figueroa (Neuquén) presenta un programa de alivio financiero para familias, demostrando un uso estratégico del ordenamiento fiscal para la redistribución y el apoyo social. En síntesis, la jornada refleja un panorama donde las provincias se afirman en su capacidad de gestión y autonomía, navegando entre la búsqueda de acuerdos y la defensa de sus intereses frente a las políticas nacionales.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y Servicios Básicos",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Minería",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@carlossadirjuy",
+                "@ClaudioVidalSer",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Federalismo y Subsidios Energéticos",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Apoyo a Familias y Empleo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@insfran_gildo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Crítica y Posicionamiento frente al Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@insfran_gildo",
+                "@ClaudioVidalSer",
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@insfran_gildo",
+        "texto": "REUNIÓN CON REFERENTES SINDICALES Esta tarde mantuvimos una reunión en Casa de Gobierno junto a Héctor Daer, Horacio Arreceygor, Ariel Ledesma, Adrian Bellomi, Pedro Borgoni, Hilario Martínez, Vicente García Insfrán y Hugo Jara. Conversamos sobre la situación cada vez más difícil de los trabajadores argentinos a partir de las políticas implementadas por el gobierno nacional. Es importante la unidad del movimiento obrero organizado y de todo el campo nacional y popular para lograr una Patria con más empleo, producción y bienestar para el pueblo argentino. #TodosUnidos #Formosa",
+        "por_que_es_clave": "El gobernador Gildo Insfrán (Formosa) utiliza un encuentro sindical para lanzar una crítica directa y contundente al gobierno nacional, denunciando el deterioro de la situación de los trabajadores. Su llamado explícito a la 'unidad del movimiento obrero organizado y de todo el campo nacional y popular' posiciona a Formosa en una postura de fuerte resistencia y búsqueda de articulación política frente a las políticas centrales, señalando una escalada de la tensión federal y posibles coordinaciones opositoras.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Delincuencia organizada"
+            ],
+            "postura_politica": "El gobernador Jorge Macri (CABA) mantiene una postura de mano dura y tolerancia cero contra la delincuencia. Enfoca su gestión en medidas concretas para desarticular organizaciones criminales, como la 'mafia de los celulares', buscando restaurar la 'Ley y orden' en la Ciudad.",
+            "frase_fuerte": "Con esta medida se logra intervenir de manera eficaz y golpear al 'corazón' de la mafia de los celulares."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería",
+                "Inversión y crecimiento económico",
+                "Subsidios energéticos",
+                "Relaciones internacionales",
+                "Infraestructura provincial"
+            ],
+            "postura_politica": "El gobernador Raúl Jalil (Catamarca) se posiciona como un promotor activo del desarrollo minero y la inversión para sus provincias. Destaca el logro federal en subsidios energéticos para zonas cálidas y fomenta la cooperación internacional, mostrando una gestión orientada al crecimiento y la defensa de los intereses regionales.",
+            "frase_fuerte": "Como país tenemos la oportunidad de transformar nuestro potencial minero en inversión, crecimiento económico y trabajo para nuestras provincias."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura local",
+                "Subsidios energéticos",
+                "Federalismo"
+            ],
+            "postura_politica": "El gobernador Leandro Zdero (Chaco) se enfoca en la gestión de obras comunitarias y el bienestar local. Se presenta como un defensor de los intereses regionales, celebrando el consenso para subsidios energéticos como un logro del Norte escuchado por Nación, fortaleciendo el federalismo.",
+            "frase_fuerte": "Nos sentimos promotores y protagonistas de esta trascendente decisión que beneficiará a miles de chaqueños."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Educación",
+                "Becas",
+                "Reconocimiento al esfuerzo"
+            ],
+            "postura_politica": "El gobernador Nacho Torres (Chubut) prioriza el apoyo a la educación y el reconocimiento al esfuerzo de los jóvenes. Busca retener el talento en la provincia ofreciendo becas para que los estudiantes puedan continuar sus estudios cerca de sus familias, apostando al desarrollo del capital humano local.",
+            "frase_fuerte": "distinguimos a los mejores promedios de la provincia y los acompañamos con becas, para que puedan seguir estudiando acá, en Chubut, cerca de sus familias y sin tener que irse lejos para cumplir sus sueños."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Infraestructura hídrica",
+                "Igualdad territorial",
+                "Generación de empleo"
+            ],
+            "postura_politica": "El gobernador Martín Llaryora (Córdoba) impulsa una fuerte agenda de desarrollo productivo y expansión de servicios básicos, con inversiones significativas en infraestructura hídrica y parques industriales. Su gestión busca generar 'igualdad territorial' y oportunidades en el interior provincial, destacando el compromiso con el futuro de Córdoba.",
+            "frase_fuerte": "No pensamos solo en las necesidades de hoy: trabajamos para construir el futuro de #CruzDelEje y de todo el norte cordobés, aprovechando su potencial para generar #desarrollo, #empleo y nuevas oportunidades."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Situación de los trabajadores",
+                "Crítica al gobierno nacional",
+                "Unidad sindical y política"
+            ],
+            "postura_politica": "El gobernador Gildo Insfrán (Formosa) asume una postura confrontativa frente al gobierno nacional, criticando sus políticas por el deterioro de la situación laboral. Llama a la unidad del movimiento obrero y el 'campo nacional y popular' para defender el empleo y el bienestar, posicionándose como un referente opositor.",
+            "frase_fuerte": "Es importante la unidad del movimiento obrero organizado y de todo el campo nacional y popular para lograr una Patria con más empleo, producción y bienestar para el pueblo argentino."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Minería sustentable",
+                "Energías renovables",
+                "Desarrollo tecnológico",
+                "Inversión",
+                "Seguridad jurídica"
+            ],
+            "postura_politica": "El gobernador Carlos Sadir (Jujuy) promueve la minería sustentable y las energías renovables como ejes de crecimiento provincial. Busca activamente la inversión extranjera y la cooperación tecnológica, enfatizando la importancia de reglas claras y seguridad jurídica para el desarrollo de los proveedores locales.",
+            "frase_fuerte": "Como lo venimos haciendo en Jujuy, los proveedores locales mineros tienen trabajo, tienen un rol y un espacio en constante crecimiento en la minería, respaldados en reglas claras y seguridad jurídica."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Educación y trabajo",
+                "Legado peronista",
+                "Soberanía nacional"
+            ],
+            "postura_politica": "El gobernador Ricardo Quintela (La Rioja) reivindica el legado del peronismo y el rol de la educación como herramienta de ascenso social y desarrollo. Conecta estos principios con la soberanía nacional, reafirmando una visión de país donde el conocimiento y el trabajo son pilares para el progreso de la Patria.",
+            "frase_fuerte": "Perón entendió algo fundamental: el conocimiento no podía ser privilegio de unos pocos. También debía estar al alcance de quienes todos los días hacen crecer la Argentina con su trabajo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Comercio exterior",
+                "Agilización fronteriza",
+                "Sistema portuario",
+                "Competitividad provincial"
+            ],
+            "postura_politica": "El gobernador Hugo Passalacqua (Misiones) demuestra una gestión activa para potenciar la economía provincial mediante el impulso del comercio exterior y la mejora de la infraestructura portuaria. Busca la coordinación con el gobierno nacional para agilizar los pasos fronterizos y generar empleo genuino, fortaleciendo la competitividad de Misiones.",
+            "frase_fuerte": "avanzamos en una agenda clave para Misiones: agilización de los pasos fronterizos, impulso al comercio exterior y consolidación de nuestro sistema portuario."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Alivio financiero",
+                "Economía familiar",
+                "Orden estatal",
+                "Redistribución"
+            ],
+            "postura_politica": "El gobernador Rolando Figueroa (Neuquén) prioriza el bienestar económico de las familias, impulsando un programa de alivio financiero para deudores. Su enfoque es 'ordenar para redistribuir', utilizando la solvencia del Estado para generar soluciones concretas y acompañar a los neuquinos, con incentivos a bancos privados para colaborar.",
+            "frase_fuerte": "Nosotros ordenamos para redistribuir y solucionar los problemas de los neuquinos."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Subsidios energéticos",
+                "Federalismo",
+                "Defensa de intereses regionales"
+            ],
+            "postura_politica": "El gobernador Gustavo Sáenz (Salta) celebra un acuerdo con el Gobierno nacional sobre subsidios energéticos para las zonas cálidas, presentándolo como un triunfo del federalismo. Se posiciona como un defensor de los intereses del Norte argentino, buscando respuestas concretas y justas para su gente.",
+            "frase_fuerte": "Esto es federalismo. Reconocer nuestras diferencias y dar respuestas concretas a nuestra gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Seguridad",
+                "Protocolos de emergencia",
+                "Educación",
+                "Infraestructura"
+            ],
+            "postura_politica": "El gobernador Claudio Poggi (San Luis) enfatiza la eficiencia y coordinación de los protocolos de seguridad y justicia ante situaciones de emergencia. Complementa su agenda con anuncios sobre desarrollo educativo y avances en la provisión de servicios básicos como el gas natural, mostrando una gestión integral y orientada a la institucionalidad.",
+            "frase_fuerte": "todos los protocolos actuaron de modo coordinado y con rapidez. Eso también es parte de lo que sucedió anoche."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Producción local",
+                "Crítica a gestiones anteriores",
+                "Inversión en obras públicas",
+                "Desarrollo"
+            ],
+            "postura_politica": "El gobernador Claudio Vidal (Santa Cruz) marca una fuerte diferenciación con gestiones anteriores, a las que acusa de priorizar 'negocios' sobre el bienestar provincial. Su administración se enfoca en impulsar la producción local, la inversión en infraestructura clave (como obras cloacales) y la transparencia para generar empleo y que la riqueza quede en Santa Cruz.",
+            "frase_fuerte": "ELLOS HICIERON NEGOCIOS. NOSOTROS QUEREMOS PRODUCCIÓN Y TRABAJO"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Salud",
+                "Viviendas sociales",
+                "Desarrollo familiar"
+            ],
+            "postura_politica": "El gobernador Gerardo Zamora (Santiago del Estero) a través de su vicegobernador Elías Suárez (Santiago del Estero) prioriza la inversión en salud y vivienda, como pilares fundamentales para el desarrollo y bienestar familiar. Su gestión se enfoca en dar respuestas concretas a las necesidades básicas de la población, impulsando el acceso a servicios y una vivienda digna.",
+            "frase_fuerte": "Más salud y desarrollo para las familias del Depto. #Robles"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo productivo",
+                "Gestión provincial autónoma",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "El gobernador Osvaldo Jaldo (Tucumán) muestra una gestión activa y resolutiva en obras de infraestructura para el interior profundo de la provincia, enfatizando la inversión provincial y la continuidad de la gestión a pesar de las dificultades nacionales. Además, busca fortalecer los vínculos internacionales para generar nuevas oportunidades para Tucumán.",
+            "frase_fuerte": "A pesar de las dificultades que atraviesa el país, en Tucumán no detenemos la gestión. Administramos responsablemente los recursos provinciales y los transformamos en infraestructura, equipamiento y mejores servicios."
+        }
+    ]
+}
