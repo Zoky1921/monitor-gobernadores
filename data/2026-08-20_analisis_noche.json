@@ -1,0 +1,236 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron su agenda en la gestión provincial y la crítica a las políticas nacionales, marcando un clima de tensión federal. Axel Kicillof (Buenos Aires) arremetió duramente contra el modelo económico de Milei y el creciente endeudamiento familiar, cuestionando el federalismo. Ricardo Quintela (La Rioja) anunció un DNU para proteger el salario y frenar la usura, exhibiendo su autonomía. Claudio Vidal (Santa Cruz) y Jorge Macri (Ciudad Autónoma de Buenos Aires) destacaron obras y operativos de seguridad, respectivamente, con referencias a gestiones pasadas y eficiencia local. En el Norte Grande, Raúl Jalil (Catamarca), Carlos Sadir (Jujuy) y Gustavo Sáenz (Salta) participaron del Council of the Americas, promoviendo la inversión minera. Otros mandatarios como Leandro Zdero (Chaco), Hugo Passalacqua (Misiones), Rolando Figueroa (Neuquén) y Gerardo Zamora (Santiago del Estero) se centraron en infraestructura, educación y desarrollo regional, subrayando la importancia de la inversión y la autonomía provincial.",
+    "analisis_profundo": "La jornada reflejó una marcada divergencia entre la gestión provincial y la crítica a las políticas nacionales, delineando un escenario federal complejo. Axel Kicillof (Buenos Aires) se posicionó como el principal detractor del gobierno central, con múltiples publicaciones que señalan una 'profunda crisis' y un 'fracaso' del rumbo económico, enfatizando el endeudamiento de las familias y la dilapidación del potencial nacional por las decisiones de Milei. Su crítica abarcó también el desprecio por el federalismo y la resignación de soberanía, buscando cohesionar a los 'sectores golpeados' para construir una 'alternativa'. Por su parte, Ricardo Quintela (La Rioja) mostró una postura defensiva y proactiva frente a la situación económica, anunciando un DNU para proteger salarios y limitar la usura, una medida de fuerte impacto local y de marcado contrapunto con la narrativa liberal nacional.\n\nEn contraste, la agenda de Jorge Macri (Ciudad Autónoma de Buenos Aires) se mantuvo firmemente anclada en la gestión de seguridad y eficiencia administrativa. Sus operativos contra las 'cuevas' de celulares robados en la Villa 31, sumados a la liberación del monopolio de la VTV, proyectan una imagen de 'ley y orden' que, aunque local, sintoniza con ciertos discursos de la administración central. Claudio Vidal (Santa Cruz) adoptó una retórica similar, responsabilizando al 'kirchnerismo' por años de abandono y destacando su propia gestión en la expansión del gas natural y la inversión en servicios, reforzando la idea de 'Santa Cruz Puede y Tiene Rumbo'.\n\nLos gobernadores del Norte Grande, como Raúl Jalil (Catamarca), Carlos Sadir (Jujuy) y Gustavo Sáenz (Salta), utilizaron el foro del Council of the Americas para promover la inversión minera, subrayando la 'seguridad jurídica' y las 'reglas claras' como atractivos, y enfatizando que el desarrollo minero debe traducirse en empleo y valor agregado local. Esta agenda productiva, si bien busca capitales externos, también exige condiciones favorables a nivel federal. Otros mandatarios, como Leandro Zdero (Chaco), Hugo Passalacqua (Misiones), Rolando Figueroa (Neuquén) y Gerardo Zamora (Santiago del Estero), se enfocaron en la gestión interna. Zdero destacó la inversión en salud, Passalacqua en educación e industria audiovisual, Figueroa en infraestructura deportiva y la participación de Neuquén en Vaca Muerta, y Zamora en la formación docente y despedidas institucionales. La tónica general es de autonomía y esfuerzo provincial ante un contexto nacional desafiante o al que se opone, lo que mantiene una tensión subyacente en la dinámica federal.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la política económica nacional y defensa del federalismo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Inversión y Desarrollo Productivo (Minería/Energía)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@carlossadirjuy",
+                "@GustavoSaenzOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Gestión y desarrollo de infraestructura y servicios locales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Reforma administrativa y combate a la 'vieja política'",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "A nadie le puede ir bien con un Estado que empeora la vida de la gente con cada una de sus decisiones, que desprecia el federalismo y resigna soberanía. Con la fuerza de todos los sectores golpeados por este modelo de crueldad vamos a demostrar que un futuro distinto para la Argentina es posible.",
+        "por_que_es_clave": "Este tweet del gobernador de Buenos Aires, Axel Kicillof, es clave porque encapsula una crítica frontal y abarcadora al gobierno nacional, vinculando directamente las políticas económicas con el deterioro de la vida de la gente, el desprecio al federalismo y la resignación de soberanía. Además, propone una movilización colectiva para construir una 'alternativa', posicionándose como líder de la oposición.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crisis económica",
+                "endeudamiento familiar",
+                "federalismo",
+                "soberanía",
+                "políticas públicas (Milei)",
+                "peronismo",
+                "educación",
+                "ciencia y tecnología"
+            ],
+            "postura_politica": "Crítica contundente al gobierno nacional y su política económica, a la que califica de fracaso y cruel, con impacto directo en el federalismo y la soberanía. Promueve la unidad peronista y la búsqueda de una alternativa.",
+            "frase_fuerte": "A nadie le puede ir bien con un Estado que empeora la vida de la gente con cada una de sus decisiones, que desprecia el federalismo y resigna soberanía."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "operativos contra el delito",
+                "eficiencia administrativa",
+                "fin de monopolios"
+            ],
+            "postura_politica": "Demuestra una gestión proactiva y de 'mano dura' en seguridad, con foco en el orden y la eliminación de prácticas monopólicas para modernizar la administración.",
+            "frase_fuerte": "Reventamos 21 cuevas de celulares robados en dos días. Ahora en la Villa 31. Se terminó la joda. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Promoción cultural",
+                "turismo",
+                "industrias culturales",
+                "CFI",
+                "Expo Catamarca",
+                "desarrollo productivo"
+            ],
+            "postura_politica": "Enfocado en el desarrollo económico y la promoción de la provincia a través de inversiones culturales y turísticas, destacando el rol del CFI para una agenda activa.",
+            "frase_fuerte": "Junto a Ignacio Lamothe, del @CFI_Argentina firmamos un convenio para potenciar nuestras industrias culturales y la promoción del turismo en Catamarca, a través de una importante inversión que nos permitirá mantener una agenda activa durante este 2026."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Sistema sanitario",
+                "equipamiento hospitalario",
+                "desarrollo deportivo",
+                "obras públicas locales"
+            ],
+            "postura_politica": "Compromiso con la mejora de la infraestructura y servicios de salud, así como el apoyo al deporte y las obras locales para la comunidad.",
+            "frase_fuerte": "A esto apostamos, un sistema sanitario más cerca de los chaqueños. En el Hospital Félix Pértile de San Martín sumamos un nuevo Banco de Sangre y equipamiento de última generación."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación superior",
+                "ciencia y desarrollo",
+                "innovación",
+                "universidades"
+            ],
+            "postura_politica": "Reconoce el papel de las universidades como motor de desarrollo y valora el aporte de la educación, la innovación y la formación humanista en la provincia.",
+            "frase_fuerte": "Fue un honor acompañar a la Universidad Católica de Córdoba (@UCCoficial), en su celebración por los 70 años de trayectoria académica, una institución que es parte de la historia y del presente de nuestra provincia."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Gestión legislativa",
+                "responsabilidad institucional",
+                "defensa de intereses provinciales",
+                "asuntos judiciales y culturales"
+            ],
+            "postura_politica": "Afirma el compromiso con la institucionalidad y la respuesta a las demandas locales a través del trabajo parlamentario, priorizando los intereses de Corrientes.",
+            "frase_fuerte": "Cumpliendo con la responsabilidad institucional, la agenda de hoy se centró en temas judiciales y culturales."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Minería",
+                "inversión extranjera",
+                "desarrollo económico regional",
+                "Council of the Americas"
+            ],
+            "postura_politica": "Promueve la minería como motor de crecimiento y empleo en la provincia, participando en foros internacionales para atraer inversiones.",
+            "frase_fuerte": "Junto al gobernador de Salta @GustavoSaenzOK y referentes de la industria minera internacional, participamos de la 23° edición del Council of the Americas @ASCOA , organizada junto a la Cámara Argentina de Comercio y Servicios @CACteinforma"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Educación superior",
+                "universidad pública",
+                "desarrollo provincial",
+                "diálogo institucional"
+            ],
+            "postura_politica": "Destaca la importancia de la colaboración con la universidad pública como pilar para el desarrollo de la provincia y el bienestar de su gente.",
+            "frase_fuerte": "Nos reunimos con el rector de nuestra Universidad Nacional de La Pampa, Francisco Marull, en el marco de su nueva responsabilidad al frente de la UNLPam."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Economía familiar",
+                "protección salarial",
+                "usura",
+                "endeudamiento",
+                "innovación",
+                "conocimiento",
+                "desarrollo provincial"
+            ],
+            "postura_politica": "Medida contundente a nivel provincial para contrarrestar efectos económicos negativos, sumado a una visión de futuro basada en la innovación y el talento local.",
+            "frase_fuerte": "Quiero contarles sobre una decisión fundamental que tomamos para cuidar la economía y la tranquilidad de cada familia riojana. ​Voy a firmar un Decreto de Necesidad y Urgencia para cuidar el salario, ponerle un límite a la usura y frenar el endeudamiento desmedido."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Educación",
+                "innovación",
+                "industria audiovisual",
+                "promoción cultural y turística"
+            ],
+            "postura_politica": "Impulsa la educación innovadora y la industria audiovisual como motores de desarrollo, empleo y visibilidad de la identidad misionera.",
+            "frase_fuerte": "Recorrimos el rodaje de No lo grites, una producción que eligió a Misiones como escenario y que también puso en valor el talento de nuestros trabajadores audiovisuales."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "inversión en Vaca Muerta",
+                "regalías",
+                "desarrollo regional",
+                "impacto social del desarrollo energético"
+            ],
+            "postura_politica": "Enfatiza la inversión provincial en deporte y el desarrollo de Vaca Muerta, reclamando una mayor contribución del gobierno central y buscando que los beneficios impacten directamente en la población neuquina.",
+            "frase_fuerte": "Con el 13% que recibe Neuquén por cada barril de petróleo tiene que generar toda la infraestructura para que el circulo sea virtuoso, mientras el gobierno central recibe un 17 y otro 10 se va al resto de las provincias a través de la coparticipación."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Minería sustentable",
+                "inversión",
+                "desarrollo local",
+                "empleo",
+                "pymes",
+                "Council of the Americas"
+            ],
+            "postura_politica": "Promueve a Salta como un destino clave para la inversión minera, destacando la seguridad jurídica y la búsqueda de un impacto positivo en el empleo y las pymes locales.",
+            "frase_fuerte": "El crecimiento de la minería tiene que ser también el crecimiento de Salta y su gente."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Gas natural",
+                "infraestructura",
+                "producción",
+                "empleo",
+                "críticas a gestión anterior (kirchnerismo)"
+            ],
+            "postura_politica": "Enfocado en resolver problemas históricos de infraestructura (gas), criticando el abandono de la gestión anterior y destacando el nuevo rumbo de producción y empleo de la provincia.",
+            "frase_fuerte": "UNA DÉCADA ESPERANDO PARA PODER PRENDER UNA HORNALLA. HOY NOS HACEMOS CARGO"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Transición ministerial",
+                "educación",
+                "formación docente",
+                "concurso de cargos",
+                "gestión pública"
+            ],
+            "postura_politica": "Se centra en la institucionalidad, reconociendo la trayectoria de ex funcionarios y apostando por la profesionalización de la carrera docente para fortalecer el sistema educativo provincial.",
+            "frase_fuerte": "Con enorme satisfacción y alegría ha dado comienzo la segunda etapa de oposición para el Concurso de Cargos Directivos titulares de los Niveles Inicial, Primario y Secundario, correspondiente a su primera instancia consistente en el Trayecto Formativo Pedagógico Administrativo-Normativo en el marco del Concurso de Títulos, Antecedentes y Oposición convocado por el Consejo General de Educación, y destinado a los docentes aspirantes clasificados para el mismo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "iluminación",
+                "desarrollo local",
+                "obras públicas"
+            ],
+            "postura_politica": "Destaca la inversión provincial en obras de infraestructura para mejorar la seguridad, circulación y actividad comercial, reafirmando el compromiso con el desarrollo del interior.",
+            "frase_fuerte": "Seguimos fortaleciendo el interior tucumano con obras que generan desarrollo, brindan seguridad y mejoran la vida de nuestra gente."
+        }
+    ]
+}
