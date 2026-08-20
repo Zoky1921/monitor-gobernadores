@@ -1,0 +1,78 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jorge Macri protagoniza la jornada con un operativo de alto impacto contra la venta de celulares robados en Once, reforzando su perfil de orden y seguridad. El resto de los gobernadores se mantiene en una agenda de gestión local, sin posicionamientos federales ni confrontación con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada carece de un enfrentamiento directo entre Nación y provincias. El único destello de tensión proviene de la Ciudad de Buenos Aires, donde Jorge Macri ejecuta un operativo de alto perfil contra la mafia de los celulares robados, reafirmando su autonomía y su narrativa de orden. El resto de los mandatarios provinciales evita cualquier roce con la Casa Rosada, refugiándose en una agenda de gestión local.\n\nActo 2 — Los Alineamientos: Macri se posiciona como el único gobernador con agenda propia, utilizando la seguridad como herramienta de construcción política. Los demás, como Kicillof, Jalil, Zdero, Llaryora y Jaldo, optan por un perfil bajo, sin alinearse ni confrontar con el gobierno nacional. La ausencia de menciones a Nación sugiere una estrategia de repliegue territorial.\n\nActo 3 — La Micro-política: Kicillof presenta su libro en Chaco, reforzando su imagen de intelectual peronista. Jalil y Jaldo muestran obras de infraestructura, mientras que Zdero y Llaryora se limitan a eventos protocolares. Son gestos de supervivencia política en un contexto de ajuste, donde cada gobernador busca mostrar gestión sin abrir frentes nacionales.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable en términos de ausencia de críticas. Sin embargo, la iniciativa de Macri en seguridad le otorga un protagonismo que podría erosionar el capital político del oficialismo en la ciudad. El silencio del resto de las provincias esconde una espera calculada a que la macroeconomía mejore o empeore.",
+    "temas_calientes": [
+        {
+            "tema": "Operativo contra celulares robados en Once",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @BalboaMilei)",
+        "texto": "✅️ Impecable operativo contra la mafia de los celulares robados en el barrio de Once.",
+        "por_que_es_clave": "Macri utiliza la acción directa para capitalizar la agenda de seguridad, diferenciándose de la gestión nacional y posicionándose como garante del orden en CABA.",
+        "pregunta_openarg": "¿El operativo de Macri en Once es una medida de seguridad genuina o una jugada política para desviar la atención de otros problemas?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "presentación de libro",
+                "universidad pública"
+            ],
+            "postura_politica": "Agenda cultural sin incidencia federal. Se muestra en actividad pero evita confrontar a Nación.",
+            "frase_fuerte": "Es un verdadero orgullo terminar esta jornada en Chaco junto a los pibes y pibas en la @unneargentina, compartiendo 'De Smith a Keynes'."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "operativo contra celulares robados"
+            ],
+            "postura_politica": "Refuerza su perfil de orden y ley, con un operativo de alto impacto mediático. Busca capitalizar la inseguridad como eje de su gestión.",
+            "frase_fuerte": "O dejan de vender celulares robados o no vamos a dejar ni un local en pie."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "industrias culturales",
+                "turismo",
+                "CFI"
+            ],
+            "postura_politica": "Gestión local de promoción económica, sin referencias a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "club deportivo",
+                "obra local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "70 años UCC",
+                "educación",
+                "universidad"
+            ],
+            "postura_politica": "Agenda universitaria local, sin posicionamiento político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "obras públicas",
+                "iluminación",
+                "pavimentación"
+            ],
+            "postura_politica": "Gestión de obras en el interior, sin mencionar a Nación.",
+            "frase_fuerte": null
+        }
+    ]
+}
