@@ -1,0 +1,133 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "El panorama político federal de la jornada se muestra tenso, marcado por la confrontación explícita entre el Jefe de Gobierno Jorge Macri (Ciudad Autónoma de Buenos Aires) y el Gobernador Axel Kicillof (Buenos Aires) a raíz de la desregulación de la Verificación Técnica Vehicular (VTV) en CABA, con críticas directas hacia la gestión bonaerense. A esta dinámica se suma la enérgica preocupación de Hugo Passalacqua (Misiones) ante la posible imposición de un nuevo peaje nacional, lo que configura un escenario de defensa del federalismo. En contraste, otros gobernadores como Osvaldo Jaldo (Tucumán), Raúl Jalil (Catamarca), Maximiliano Pullaro (Santa Fe), Claudio Poggi (San Luis) y Elías Suárez (Santiago del Estero) priorizan la comunicación de obras de infraestructura, servicios públicos y promoción económica local, buscando resaltar la gestión provincial y la cercanía con la ciudadanía.",
+    "analisis_profundo": "La jornada política federal exhibe una polarización significativa, con gobernadores asumiendo posturas bien definidas frente a decisiones nacionales y provinciales. Jorge Macri (Ciudad Autónoma de Buenos Aires) lidera la ofensiva de la gestión, celebrando la desregulación de la Verificación Técnica Vehicular (VTV) y la eficacia de los operativos de seguridad contra el robo de celulares. La medida de la VTV no solo es presentada como un logro de su gobierno sino que es utilizada para marcar una distancia con la gestión de Axel Kicillof (Buenos Aires), a quien usuarios retuiteados por Macri acusan de mantener 'el curro'. Esta narrativa refuerza la tensión entre CABA y la provincia de Buenos Aires, proyectando la Ciudad como un polo de libertad y desregulación frente a un modelo más intervencionista. La repetición de retweets sobre estos temas indica un intento deliberado de consolidar esta percepción. Por otro lado, Hugo Passalacqua (Misiones) interpela directamente al Gobierno nacional por la intención de imponer un nuevo peaje en la Ruta Nacional 12, argumentando que representa una carga 'inaceptable' para la economía provincial en un contexto ya 'difícil'. Esta declaración subraya la preocupación por el impacto de políticas nacionales en las economías regionales y la defensa del federalismo. En contraste con estas tensiones, una mayoría de gobernadores se enfoca en la gestión local y la inversión pública. Osvaldo Jaldo (Tucumán) y Raúl Jalil (Catamarca) destacan la inauguración de obras viales, mejoras en servicios de salud e infraestructura social, con Jaldo enfatizando la continuidad de la inversión provincial 'aun en un contexto nacional complejo'. Claudio Poggi (San Luis) detalla diversas acciones en Villa Mercedes, desde educación y salud hasta infraestructura vial, buscando visibilizar una gestión cercana y activa. Maximiliano Pullaro (Santa Fe) promociona eventos productivos como la Expo Venado, buscando resaltar la fortaleza de la producción santafesina. Finalmente, Elías Suárez (Santiago del Estero) retuitea sobre la recepción a veteranos de Malvinas, manteniendo una agenda social y patriótica. La divergencia entre la confrontación y la gestión directa ilustra las distintas estrategias de posicionamiento de los liderazgos provinciales en el actual escenario político.",
+    "temas_calientes": [
+        {
+            "tema": "Desregulación de servicios y crítica a monopolios (VTV)",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad ciudadana y 'mano dura'",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Federalismo y tensiones con el Gobierno nacional (peajes, obras, contexto económico)",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@OsvaldoJaldo",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Gestión local y obra pública provincial (salud, infraestructura vial, educación)",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo",
+                "@RaulJalil_ok",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Promoción económica y productiva regional",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@passalacquaok",
+        "texto": "Quiero expresar mi profunda preocupación ante la noticia de que el Gobierno nacional pretende instalar un nuevo peaje sobre la Ruta Nacional 12 en Misiones. En un contexto difícil para todo el país, resulta inaceptable imponer una traba más a quienes trabajan, estudian, comercian y producen. Las rutas son las arterias del desarrollo de las provincias. Los misioneros y los argentinos necesitamos obras, mantenimiento e inversión vial, no nuevas cargas que castiguen aún más el bolsillo de las familias. Como gobernador hago un llamado a la reflexión a las autoridades nacionales competentes y solicito que se revea cualquier medida en este sentido.",
+        "por_que_es_clave": "Este tweet representa una confrontación directa y pública de un gobernador (Misiones) contra una política del Gobierno nacional que afecta directamente a su provincia y a sus ciudadanos, exacerbando la tensión federal sobre la distribución de cargas económicas en un contexto de crisis.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Política de Juventudes"
+            ],
+            "postura_politica": "Anuncia un encuentro político para debatir y construir propuestas con jóvenes en San Martín, mostrando un enfoque en la movilización de la base militante y la construcción de futuro desde la perspectiva peronista.",
+            "frase_fuerte": "Una jornada para escuchar, debatir y construir propuestas junto a los pibes y pibas."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Desregulación de la VTV",
+                "Seguridad Ciudadana",
+                "Críticas a la gestión bonaerense"
+            ],
+            "postura_politica": "Refuerza su agenda de 'Ley y Orden' con operativos exitosos contra el crimen. Celebra la desregulación de la VTV como un fin de monopolios, posicionando a CABA como un distrito que favorece la libertad económica y contrastándola con la Provincia de Buenos Aires.",
+            "frase_fuerte": "'Reventamos 21 cuevas de celulares robados en dos días': tras declarar la emergencia por robos de teléfonos móviles, Jorge Macri compartió imágenes de un operativo en la Villa 31."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Salud",
+                "Infraestructura Vial",
+                "Descentralización"
+            ],
+            "postura_politica": "Retransmite el mensaje de su colega Osvaldo Jaldo (Tucumán), mostrando un enfoque en la gestión de obras y servicios públicos a nivel municipal, reforzando la importancia de un Estado presente y la colaboración interprovincial en el Norte Grande.",
+            "frase_fuerte": "Aun en un contexto nacional complejo, en Tucumán seguimos gestionando e invirtiendo en infraestructura y servicios esenciales."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Cargas Impositivas",
+                "Federalismo",
+                "Economía Provincial"
+            ],
+            "postura_politica": "Adopta una postura crítica y defensiva frente a una posible medida nacional (nuevo peaje en Ruta 12), enfatizando el impacto negativo en la economía y la producción misionera, y solicitando una revisión de la política nacional.",
+            "frase_fuerte": "Quiero expresar mi profunda preocupación ante la noticia de que el Gobierno nacional pretende instalar un nuevo peaje sobre la Ruta Nacional 12 en Misiones."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Salud",
+                "Infraestructura Local",
+                "Gestión Cercana"
+            ],
+            "postura_politica": "Detalla una serie de actividades de gestión local en Villa Mercedes, enfocándose en la mejora de infraestructuras educativas y de salud, y el contacto directo con los vecinos, subrayando la eficiencia y el progreso de la administración provincial.",
+            "frase_fuerte": "Y sobre todo las cosas, 'escuchar' a los vecinos mercedinos. Bien cerca. Como todos los jueves."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Producción Agrícola",
+                "Eventos Regionales",
+                "Economía Local"
+            ],
+            "postura_politica": "Destaca la participación en la Expo Venado, celebrando la producción santafesina y el dinamismo económico local, reafirmando el apoyo a la actividad productiva.",
+            "frase_fuerte": "Que viva la producción santafesina 💪💪💪💪"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Salud Pública",
+                "Infraestructura Vial",
+                "Gestión Municipal"
+            ],
+            "postura_politica": "Enfocado en la gestión local, resalta la inauguración de obras de infraestructura vial y una nueva filial de salud en Las Talitas, enfatizando la inversión provincial y la presencia del Estado para mejorar la calidad de vida 'aun en un contexto nacional complejo'.",
+            "frase_fuerte": "Aun en un contexto nacional complejo, en Tucumán seguimos gestionando e invirtiendo en infraestructura y servicios esenciales."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Malvinas",
+                "Veteranos de Guerra",
+                "Agenda Social"
+            ],
+            "postura_politica": "Retuitea sobre la recepción de una delegación de veteranos de Malvinas, destacando el vínculo patriótico y la importancia de la memoria en la agenda provincial, a través de la comunicación oficial del Gobierno de Santiago del Estero.",
+            "frase_fuerte": "El gobernador @EliasSuarezSDE recibió en Casa de Gobierno a la delegación del Centro de Veteranos de Guerra de Malvinas de La Matanza (Buenos Aires), encabezada por su presidente, Ramón Robles.🇦🇷"
+        }
+    ]
+}
