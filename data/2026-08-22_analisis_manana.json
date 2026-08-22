@@ -1,0 +1,132 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La agenda de los gobernadores se centró en la gestión subnacional, con un fuerte impulso a obras públicas, programas de vivienda, salud y educación. Jorge Macri (Ciudad Autónoma de Buenos Aires) enfatizó la seguridad y la crítica a la 'izquierda'. Claudio Poggi (San Luis) reportó múltiples entregas de viviendas y avances en servicios sociales. Martín Llaryora (Córdoba) destacó la inversión en el interior para mitigar la crisis. Maximiliano Pullaro (Santa Fe) planteó la necesidad de eliminar retenciones nacionales en un evento con el Presidente, defendiendo al sector productivo. Leandro Zdero (Chaco) celebró el crecimiento exportador, mientras que Hugo Passalacqua (Misiones) valoró el rol de las mujeres en la política y Osvaldo Jaldo (Tucumán) y Elías Suárez (Santiago del Estero) continuaron con anuncios de infraestructura y cohesión social respectivamente, en un contexto nacional complejo.",
+    "analisis_profundo": "La actividad de los gobernadores revela una jornada dominada por el pragmatismo de la gestión local y provincial. Se observa una marcada inclinación hacia la ejecución y el anuncio de obras públicas esenciales, como se evidencia en los múltiples reportes de Claudio Poggi (San Luis) sobre la entrega de viviendas y la mejora de infraestructuras sanitarias y educativas. Este enfoque de 'Estado presente' es compartido por Martín Llaryora (Córdoba), quien detalló inversiones en el departamento Unión para amortiguar el impacto de la situación económica actual, y por Osvaldo Jaldo (Tucumán), quien inauguró infraestructura vial y un centro de salud, subrayando la continuidad de la gestión a pesar de un 'contexto nacional complejo'.\n\nEl gobernador Jorge Macri (Ciudad Autónoma de Buenos Aires) mantuvo su línea de seguridad y orden, retuiteando mensajes que refuerzan su posición y critican a la oposición. Esta estrategia busca consolidar su imagen de liderazgo en la capital.\n\nLeandro Zdero (Chaco) celebró el crecimiento de las exportaciones chaqueñas, posicionando a su provincia como un referente en el Nordeste argentino y destacando la importancia del desarrollo económico.\n\nHugo Passalacqua (Misiones) abordó la relevancia de la participación femenina en la política, expresando el deseo de ver más mujeres liderando intendencias, lo que sugiere una agenda de género en la provincia.\n\nMaximiliano Pullaro (Santa Fe) marcó una postura más crítica hacia el Gobierno nacional, aunque en un tono formal, al exigir la eliminación de las retenciones en un evento que contó con la presencia del Presidente. Esto lo sitúa como un defensor clave del sector agroexportador y productivo de su región. Su participación en la Expo Venado refuerza su cercanía con la producción santafesina.\n\nElías Suárez (Santiago del Estero) optó por un mensaje de cohesión social y memoria, al recibir a veteranos de Malvinas, utilizando esta causa como un elemento unificador. En conjunto, los mandatarios exhiben una fuerte autonomía en sus agendas de gestión, buscando soluciones a nivel provincial y defendiendo los intereses locales, con diversas aproximaciones al diálogo o la crítica hacia el Gobierno federal.",
+    "temas_calientes": [
+        {
+            "tema": "Inversión en Obra Pública y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Defensa de Economías Regionales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Vivienda y Acceso a la Propiedad",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Público",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Rol de la Mujer en Política y Desarrollo Social",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad ciudadana",
+                "Crítica política"
+            ],
+            "postura_politica": "Reafirma su política de 'Ley y orden' en la Ciudad Autónoma de Buenos Aires, utilizando retweets para consolidar su mensaje. Critica a 'la izquierda argentina', buscando diferenciación ideológica y apoyo para su gestión en seguridad.",
+            "frase_fuerte": "Ley y orden para que no salgas a la calle con miedo."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Exportaciones"
+            ],
+            "postura_politica": "Celebra el crecimiento de las exportaciones chaqueñas, presentándolo como un indicador de éxito de su gestión y un camino para el desarrollo provincial. Proyecta una imagen de liderazgo económico en la región NEA.",
+            "frase_fuerte": "Las exportaciones chaqueñas crecieron y marcaron el mayor crecimiento del NEA. Es el camino! 💪🏼"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obra pública",
+                "Desarrollo local",
+                "Impacto de la crisis económica",
+                "Coordinación municipal",
+                "Vivienda",
+                "Servicios esenciales"
+            ],
+            "postura_politica": "Enfocado en la gestión territorial e inversión en el interior de Córdoba para mitigar la crisis económica. Promueve la colaboración con los gobiernos locales para asegurar respuestas concretas a los ciudadanos.",
+            "frase_fuerte": "Atravesamos un momento económico muy difícil. Por eso trabajamos todos los días, junto a los gobiernos locales y las instituciones, para amortiguar el impacto de la crisis y no dejar a ningún cordobés solo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Participación femenina",
+                "Liderazgo político"
+            ],
+            "postura_politica": "Resalta la capacidad y el compromiso de las mujeres en la política, expresando el anhelo de ver más intendencias misioneras lideradas por ellas. Impulsa una agenda de inclusión y empoderamiento femenino en su provincia.",
+            "frase_fuerte": "Las mujeres tienen una capacidad de percepción muy particular, son más trabajadoras y, cuando son aguerridas, lo son de verdad. Esa valentía las acerca mucho más a los problemas de la gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Salud pública",
+                "Educación"
+            ],
+            "postura_politica": "Muestra una gestión activa con resultados tangibles en vivienda, salud y educación en San Luis. Enfatiza el compromiso con el bienestar de las familias a través de programas sociales y mejoras en los servicios públicos.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse !!!"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Economía regional",
+                "Impuestos nacionales",
+                "Retenciones",
+                "Infraestructura productiva",
+                "Eventos productivos"
+            ],
+            "postura_politica": "Defiende activamente al sector productivo de Santa Fe, reclamando por la eliminación de las retenciones nacionales en un evento con el Presidente. Posiciona a su provincia como motor del desarrollo nacional a través de la inversión en infraestructura.",
+            "frase_fuerte": "el camino es trabajar juntos por una ley en el Congreso que termine de una vez por todas con las retenciones."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Causa Malvinas",
+                "Historia nacional"
+            ],
+            "postura_politica": "A través de un retweet, Elías Suárez (Santiago del Estero) utiliza la causa Malvinas como un símbolo de unidad y patriotismo, reforzando la identidad provincial y nacional al reconocer a los veteranos de guerra.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra pública",
+                "Salud",
+                "Infraestructura vial",
+                "Desarrollo local",
+                "Estado presente"
+            ],
+            "postura_politica": "Demuestra un gobierno de Tucumán activo y comprometido con el desarrollo del interior provincial a través de la inversión en obras y servicios. Destaca la capacidad de gestión local 'aun en un contexto nacional complejo' para dar respuestas concretas a la comunidad.",
+            "frase_fuerte": "Aun en un contexto nacional complejo, en Tucumán seguimos gestionando e invirtiendo en infraestructura y servicios esenciales."
+        }
+    ]
+}

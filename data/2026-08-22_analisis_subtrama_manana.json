@@ -1,0 +1,100 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada muestra un gobernador (Pullaro) alineándose con Milei en el reclamo de eliminación de retenciones, mientras otros (Llaryora, Poggi, Zdero) se refugian en la gestión local. Jorge Macri refuerza su perfil de seguridad. Passalacqua lanza un mensaje de género sin impacto federal.",
+    "analisis_profundo": "Primer acto: Pullaro (Santa Fe) capitaliza el aniversario de la Bolsa de Rosario para posicionarse como interlocutor productivo frente a Milei. Su reclamo contra las retenciones es un guiño al campo, pero también una señal de que necesita que Nación afloje la presión fiscal para sostener su propia gestión. La foto con Milei no es casual: busca oxígeno político y recursos.\n\nSegundo acto: Llaryora (Córdoba) y Poggi (San Luis) se sumergen en la agenda de cabotaje. Inauguraciones, viviendas, salud. Es un repliegue estratégico: evitan confrontar con Nación y muestran gestión para compensar el ajuste. Zdero (Chaco) hace lo mismo con exportaciones, pero su tweet es un dato frío sin confrontación.\n\nTercer acto: Jorge Macri (CABA) redobla la apuesta por 'Ley y Orden', un clásico PRO que busca diferenciarse del caos bonaerense. No menciona a Nación, pero su silencio es un guiño: la Ciudad se gestiona sola.\n\nCuarto acto: Passalacqua (Misiones) elige un tuit sobre mujeres, sin anclaje en la macro. Es un refugio en lo social, una forma de no mojarse en la pelea fiscal.\n\nIronía del silencio: Ningún gobernador de provincias centrales (Buenos Aires, Córdoba, Santa Fe) critica abiertamente a Milei. Pullaro negocia, Llaryora se esconde. La Casa Rosada respira aliviada: no hay frente unificado.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamo por eliminación de retenciones y encuentro con Milei",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestión local y obras públicas como refugio político",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Seguridad y discurso de ley y orden",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Exportaciones provinciales como señal de autonomía",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Para ser verdaderamente competitivos, necesitamos que el enorme esfuerzo que hace nuestra región vuelva en desarrollo. Hoy, el 94% de los impuestos que pagan nuestros productores son de carácter nacional; por eso, el camino es trabajar juntos por una ley en el Congreso que termine de una vez por todas con las retenciones. Esta postura la reafirmamos en el 142° aniversario de la Bolsa de Comercio de #Rosario, compartiendo un encuentro junto al presidente de la Nación, @JMilei, el intendente, @pablojavkin y más autoridades. Desde nuestra gestión en la provincia, demostramos con hechos concretos nuestro acompañamiento al sector: invertimos en los últimos 30 meses lo mismo que se invirtió en los últimos 8 años en infraestructura productiva. Gobernar también es impulsar el desarrollo y generar empleo 💪🏽",
+        "por_que_es_clave": "Pullaro se muestra como el gobernador productivo que negocia con Milei, pero su reclamo de retenciones es una presión velada: si Nación no cede, el costo político lo pagará el oficialismo. La foto con Milei es un gesto de alineamiento táctico, no ideológico.",
+        "pregunta_openarg": "¿Cuánto está dispuesto a ceder Milei en retenciones para mantener la gobernabilidad con los gobernadores productivos?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y orden"
+            ],
+            "postura_politica": "Refuerza su perfil de gestión dura contra el delito, sin mencionar a Nación. Es un mensaje a los votantes porteños: acá hay orden, a diferencia de la provincia. Silencio sobre la macroeconomía.",
+            "frase_fuerte": "Ley y orden para que no salgas a la calle con miedo. #GestiónPRO"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Exportaciones",
+                "Crecimiento económico"
+            ],
+            "postura_politica": "Destaca el crecimiento exportador chaqueño como logro propio, sin atribuirlo a Nación. Es un intento de mostrar gestión positiva en medio del ajuste nacional. No hay crítica ni apoyo explícito.",
+            "frase_fuerte": "Las exportaciones chaqueñas crecieron y marcaron el mayor crecimiento del NEA. Es el camino! 💪🏼"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura",
+                "Gestión local"
+            ],
+            "postura_politica": "Se refugia en la agenda territorial: recorre localidades, inaugura obras. Evita cualquier mención a la Nación o a la crisis. Es un repliegue estratégico para mostrar que Córdoba se sostiene sola.",
+            "frase_fuerte": "En Córdoba podemos pensar distinto y construir en conjunto para llevar infraestructura y servicios a cada localidad de la provincia."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Salud",
+                "Educación",
+                "Gestión local"
+            ],
+            "postura_politica": "Puro anuncio de obras: viviendas, centros de salud, expo educativa. Sin posicionamiento nacional. Es un gobernador que evita el debate federal y se concentra en la gestión municipalista.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse !!!"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Retenciones",
+                "Encuentro con Milei",
+                "Infraestructura productiva"
+            ],
+            "postura_politica": "Jugada de doble filo: se muestra junto a Milei pero reclama menos impuestos. Quiere ser el puente entre el campo y la Casa Rosada. Su inversión en infraestructura es un argumento para pedir más recursos.",
+            "frase_fuerte": "El 94% de los impuestos que pagan nuestros productores son de carácter nacional; por eso, el camino es trabajar juntos por una ley en el Congreso que termine de una vez por todas con las retenciones."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Mujeres",
+                "Género",
+                "Participación política"
+            ],
+            "postura_politica": "Mensaje desvinculado de la coyuntura económica. Es un refugio en lo social, sin riesgo político. No menciona a Nación ni a otros gobernadores. Bajo impacto federal.",
+            "frase_fuerte": "Las mujeres tienen una capacidad de percepción muy particular, son más trabajadoras y, cuando son aguerridas, lo son de verdad."
+        }
+    ]
+}
