@@ -1,0 +1,68 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La agenda de los gobernadores se centró en la gestión provincial y el desarrollo económico regional. Martín Llaryora (Córdoba) enfatizó el apoyo al sector agropecuario y reiteró el reclamo por la eliminación de retenciones para impulsar el crecimiento local. Ignacio Torres (Chubut) destacó la entrega de viviendas, reforzando el compromiso con las soluciones habitacionales. Rolando Figueroa (Neuquén) puso en valor el buen desempeño económico de su provincia, atribuyéndolo a un modelo de inversión y oportunidades. Predominó la comunicación de logros y acciones internas, con una única demanda federal explícita.",
+    "analisis_profundo": "La actividad tuitera reciente de los gobernadores revela una clara inclinación hacia la consolidación de la gestión provincial y el fomento del desarrollo económico a nivel subnacional. Martín Llaryora (Córdoba) participó en la exposición de Canals, donde articuló el apoyo al sector agropecuario, subrayando que 'al campo no hay que enfrentarlo, hay que acompañarlo'. Este enfoque productivo se complementa con una firme demanda federal: la eliminación de las retenciones, buscando que los recursos generados se reinviertan en la provincia para potenciar el empleo y el desarrollo del interior. Su postura fiscal es coherente con los intereses de las provincias productoras. \n\nEn la Patagonia, Ignacio Torres (Chubut) destacó un logro social significativo con la entrega de viviendas en Río Mayo, una acción que resalta el compromiso de su administración con la resolución de necesidades básicas y la mejora de la calidad de vida de las familias. Esta iniciativa de infraestructura social busca generar arraigo y bienestar directo en las comunidades. Por su parte, Rolando Figueroa (Neuquén) celebró el liderazgo económico de su provincia, afirmando que 'Neuquén encabeza las ventas de supermercados y se mantiene entre las provincias que más crecen'. Figueroa (Neuquén) vincula este crecimiento sostenido a un 'modelo neuquino' propio, basado en la generación de empleo, inversión y oportunidades, proyectando una imagen de autonomía y eficiencia en la gestión económica.\n\nEl panorama general indica una agenda enfocada en el fortalecimiento de las capacidades provinciales. Si bien no se observa una coordinación interprovincial explícita en los tweets analizados, la coincidencia en temas de desarrollo económico y gestión interna sugiere una consolidación de agendas provinciales frente a un contexto nacional complejo. La única fricción identificable es el persistente reclamo de Llaryora (Córdoba) sobre las retenciones, lo que mantiene un elemento de tensión fiscal en la dinámica federal, pero en un tono centrado en el desarrollo productivo más que en la confrontación directa. El clima político, en este período, se percibe como moderado, marcado por la reafirmación de las fortalezas y prioridades de cada provincia.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo Económico Regional y Productivo",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Vivienda Social",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Federalismo Fiscal y Retenciones",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "NEUQUÉN, SIEMPRE EN VERDE Los datos hablan por sí solos: Neuquén encabeza las ventas de supermercados y se mantiene entre las provincias que más crecen. No es casualidad. Es el resultado de un modelo neuquino que genera empleo, inversión y oportunidades en toda la provincia.",
+        "por_que_es_clave": "Este tweet es clave al ser el único publicado en el día de hoy, marcando el tono de la agenda. Destaca el éxito económico de Neuquén (Neuquén) y lo presenta como resultado de un modelo de gestión provincial propio, reforzando la idea de capacidad autónoma para generar crecimiento y empleo. Implícitamente, contrasta con el panorama nacional, proyectando una imagen de fortaleza y estabilidad regional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Desarrollo local",
+                "Bienestar familiar"
+            ],
+            "postura_politica": "Muestra una gestión activa en la resolución de necesidades básicas, enfatizando el compromiso de su gobierno (Chubut) con las familias y la construcción de hogares. Se posiciona como un gobierno que cumple sus promesas y busca el arraigo a través de soluciones habitacionales concretas.",
+            "frase_fuerte": "Hay pocas cosas más lindas que recibir las llaves de tu casa, abrir la puerta por primera vez y saber que ahí vas a ver crecer a tus hijos, compartir momentos que quedan para siempre y construir un verdadero hogar."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo agropecuario",
+                "Empleo",
+                "Inversión",
+                "Retenciones",
+                "Articulación público-privada"
+            ],
+            "postura_politica": "Defiende el rol del campo como motor económico y productivo de la provincia (Córdoba), promoviendo su acompañamiento en lugar de confrontación. Reafirma la demanda de eliminar las retenciones para reinvertir en la producción y el desarrollo interior, marcando una postura fiscal clara frente al gobierno nacional.",
+            "frase_fuerte": "al campo no hay que enfrentarlo, hay que acompañarlo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Crecimiento económico",
+                "Empleo",
+                "Inversión",
+                "Modelo provincial"
+            ],
+            "postura_politica": "Proyecta una imagen de liderazgo y solidez económica para Neuquén (Neuquén), basada en un modelo de gestión que atrae inversión y genera oportunidades. La referencia a 'Neuquén, siempre en verde' busca consolidar una marca provincial de estabilidad y prosperidad, destacando su capacidad autónoma de desarrollo.",
+            "frase_fuerte": "NEUQUÉN, SIEMPRE EN VERDE Los datos hablan por sí solos: Neuquén encabeza las ventas de supermercados y se mantiene entre las provincias que más crecen. No es casualidad. Es el resultado de un modelo neuquino que genera empleo, inversión y oportunidades en toda la provincia."
+        }
+    ]
+}
