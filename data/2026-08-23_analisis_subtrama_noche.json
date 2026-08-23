@@ -1,0 +1,179 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por la confrontación directa de Kicillof contra el ajuste nacional en salud, mientras gobernadores del interior como Sáenz y Zdero capitalizan acuerdos por subsidios energéticos. Figueroa y Weretilneck exhiben datos de crecimiento para posicionar a sus provincias como modelos de gestión. La seguridad y la obra pública dominan la agenda de Macri, Pullaro y Poggi.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal domina la jornada. Kicillof (Buenos Aires) dispara contra el ajuste de Milei en salud, utilizando la inauguración de un hospital en La Plata como ariete simbólico: 'Esto vale mucho más en este contexto tan complicado donde el Gobierno nacional lleva adelante un ajuste feroz y abandona por completo el sistema de salud'. El gobernador bonaerense no solo marca territorio, sino que intenta capitalizar el descontento social como plataforma para su proyecto presidencial. En paralelo, Vidal (Santa Cruz) redobla su ofensiva contra el kirchnerismo, pero su crítica al 'abandono' de obras funciona como coartada para justificar la falta de resultados propios.\n\nActo 2 — Los Alineamientos: Se consolidan dos bloques. Por un lado, los gobernadores que negocian con Nación: Sáenz (Salta) y Zdero (Chaco) celebran el acuerdo por subsidios energéticos para zonas cálidas como un triunfo federal, aunque el cálculo detrás es mostrar gestión ante la falta de obras nacionales. Figueroa (Neuquén) y Weretilneck (Río Negro) se posicionan como aliados estratégicos del oficialismo: el neuquino destaca la reunión con Caputo y Santilli para compensar deudas, mientras el rionegrino exhibe datos de empleo y ventas para demostrar que su modelo funciona. Por otro lado, Pullaro (Santa Fe) mantiene una ambigüedad calculada: pide eliminar retenciones pero comparte escenario con Milei en Rosario.\n\nActo 3 — La Micro-política: Los gobernadores periféricos se refugian en la agenda local. Poggi (San Luis) entrega viviendas y promueve una reforma constitucional, sin mencionar a Nación. Llaryora (Córdoba) recorre el interior con obras de agua y educación, reforzando su marca de gestión. Torres (Chubut) defiende los recursos provinciales (Futaleufú) y anuncia obras de gas, en una jugada que busca diferenciarse del centralismo porteño. Frigerio (Entre Ríos) coordina la prevención de El Niño y baja impuestos al turismo, mostrando eficiencia administrativa.\n\nActo 4 — Saldo Presidencial: Milei enfrenta un escenario de desgaste controlado. Kicillof le disputa el relato en Buenos Aires, pero los gobernadores del interior que más necesitan de la Nación (Sáenz, Zdero) optan por el diálogo. Figueroa y Weretilneck le dan oxígeno al mostrar resultados económicos. La Casa Rosada logró contener el conflicto energético con el Norte, pero la ofensiva de Kicillof anticipa una campaña electoral centrada en el ajuste. El oficialismo necesita que los datos macroeconómicos se traduzcan en mejoras concretas para las provincias antes de que el descontento se organice.",
+    "temas_calientes": [
+        {
+            "tema": "Ajuste nacional y abandono de la salud pública",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Acuerdo por subsidios energéticos para zonas cálidas",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Crecimiento económico y exportaciones provinciales",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Obra pública y gestión local como refugio político",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Esto vale mucho más en este contexto tan complicado donde el Gobierno nacional lleva adelante un ajuste feroz y abandona por completo el sistema de salud en todo el país.",
+        "por_que_es_clave": "Kicillof utiliza la inauguración de un hospital para tender un puente simbólico entre su gestión y el descontento social, posicionándose como la alternativa al ajuste de Milei. El tuit es un misil directo a la Casa Rosada en un tema sensible como la salud.",
+        "pregunta_openarg": "¿Puede Kicillof capitalizar el descontento por el ajuste para construir una candidatura presidencial viable sin el respaldo explícito del kirchnerismo duro?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "salud pública",
+                "ajuste nacional",
+                "gestión provincial"
+            ],
+            "postura_politica": "Oposición frontal al gobierno de Milei. Utiliza la obra pública provincial como ariete para denunciar el ajuste nacional y posicionarse como defensor de los derechos sociales. El silencio sobre la macroeconomía es estratégico: no menciona la inflación ni el endeudamiento para no contaminar su relato.",
+            "frase_fuerte": "Esto vale mucho más en este contexto tan complicado donde el Gobierno nacional lleva adelante un ajuste feroz y abandona por completo el sistema de salud en todo el país."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "narcotráfico",
+                "desregulación VTV"
+            ],
+            "postura_politica": "Alineado con el oficialismo nacional en materia de seguridad y desregulación. Su perfil bajo en lo fiscal sugiere que evita confrontar con Nación para no comprometer los recursos de CABA. La omisión de la macroeconomía revela un cálculo de supervivencia: no hablar de ajuste para no quedar pegado a las críticas.",
+            "frase_fuerte": "17 narcos detenidos en Constitución. 8.700 dosis secuestradas de cocaína y pasta base. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "subsidios energéticos",
+                "gestión local",
+                "exportaciones"
+            ],
+            "postura_politica": "Negociación pragmática con Nación. Celebra el acuerdo por zonas cálidas como un logro federal, pero su énfasis en obras locales (pavimento, hospitales) busca demostrar capacidad de gestión propia ante la falta de recursos nacionales. El silencio sobre la deuda provincial es revelador.",
+            "frase_fuerte": "Un reclamo histórico del Norte empieza a convertirse en realidad. Logramos el consenso para avanzar en una nueva definición de los subsidios energéticos para las zonas cálidas."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "recursos naturales",
+                "energía",
+                "gestión provincial"
+            ],
+            "postura_politica": "Defensa de la autonomía provincial sobre los recursos. La mesa de trabajo con Nación por Futaleufú es una jugada para evitar el conflicto judicial, pero su discurso deja claro que Chubut no cederá su potestad. El resto de su agenda (viviendas, deporte) busca mostrar gestión en un contexto de ajuste.",
+            "frase_fuerte": "La Constitución es clara: los recursos naturales pertenecen a las provincias. Futaleufú genera energía a partir de un recurso que es nuestro, el agua."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obra pública",
+                "educación",
+                "salud",
+                "campo"
+            ],
+            "postura_politica": "Refugio en la agenda de cabotaje. Sin mencionar a Nación, Llaryora recorre el interior cordobés inaugurando obras de agua, salud y educación. Es una estrategia de supervivencia: mostrar gestión propia para no quedar pegado al ajuste nacional. La omisión de la macroeconomía es total.",
+            "frase_fuerte": "Gobernar es estar cerca, escuchar y hacer. Recorrer Córdoba de este a oeste y de norte a sur es una forma de gobernar."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "prevención El Niño",
+                "turismo",
+                "salud",
+                "gestión"
+            ],
+            "postura_politica": "Perfil técnico y de gestión. Coordina la reunión de emergencias y anuncia baja de impuestos al turismo, mostrando eficiencia. Su acuerdo con ANSES por la deuda previsional es un guiño a Nación: negocia pero sin confrontar. El silencio sobre el ajuste es calculado.",
+            "frase_fuerte": "Bajamos un 20% Ingresos Brutos al turismo. Menos impuestos para que haya más inversión y más empleo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "inversiones",
+                "seguridad",
+                "gestión"
+            ],
+            "postura_politica": "Alineamiento estratégico con Nación. Figueroa se reúne con Caputo y Santilli para acordar compensaciones, y destaca el crecimiento de Neuquén como modelo. Su discurso pro-inversión y seguridad jurídica lo posiciona como un gobernador amigo del oficialismo, pero su reclamo por infraestructura revela tensiones latentes.",
+            "frase_fuerte": "Neuquén encabeza las ventas de supermercados y se mantiene entre las provincias que más crecen. No es casualidad."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "economía",
+                "empleo",
+                "energía",
+                "gestión"
+            ],
+            "postura_politica": "Exhibicionismo de resultados. Weretilneck retuitea múltiples logros de gestión (empleo, ventas, obra pública) para posicionar a Río Negro como un oasis en la crisis. Su alineamiento con Figueroa en la Norpatagonia sugiere un bloque regional que negocia con Nación desde una posición de fuerza.",
+            "frase_fuerte": "Río Negro y Neuquén fueron dos de las apenas cuatro provincias del país que lograron crecer en ventas de supermercados."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "federalismo",
+                "minería",
+                "subsidios energéticos",
+                "gestión"
+            ],
+            "postura_politica": "Reclamo federal con tono institucional. Sáenz celebra el acuerdo por zonas cálidas como un triunfo del Norte Grande, pero su discurso en la Expo Rural es una crítica velada al centralismo. Su apoyo a la minería con 'licencia social' busca equilibrar desarrollo y cuidado ambiental.",
+            "frase_fuerte": "El Norte Grande no pide dádivas ni privilegios. Reclama lo que le corresponde por justicia histórica."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "viviendas",
+                "salud",
+                "educación",
+                "reforma constitucional"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Poggi entrega viviendas, inaugura centros de salud y promueve una reforma constitucional, pero evita cualquier mención a Nación. Es un repliegue estratégico: gobernar sin confrontar, acumulando gestión para las próximas elecciones.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "kirchnerismo",
+                "obra pública",
+                "gestión",
+                "viviendas"
+            ],
+            "postura_politica": "Oposición al kirchnerismo como eje de campaña. Vidal culpa a los gobiernos anteriores por el atraso y se presenta como el gestor que 'se hace cargo'. Su discurso es monotemático: todo lo malo es culpa del kirchnerismo, todo lo bueno es mérito propio. La omisión de la gestión de Milei es total.",
+            "frase_fuerte": "30 AÑOS EXPULSANDO A LOS SANTACRUCEÑOS. HOY SANTA CRUZ SE HACE CARGO."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "deporte",
+                "infraestructura",
+                "campo",
+                "seguridad"
+            ],
+            "postura_politica": "Ambivalencia calculada. Pullaro inaugura estadios para los Juegos Suramericanos y recorre el interior, pero también comparte escenario con Milei en la Bolsa de Rosario para pedir la eliminación de retenciones. Su perfil es de gestión y diálogo, sin confrontar abiertamente con Nación.",
+            "frase_fuerte": "Para ser verdaderamente competitivos, necesitamos que el enorme esfuerzo que hace nuestra región vuelva en desarrollo."
+        }
+    ]
+}
