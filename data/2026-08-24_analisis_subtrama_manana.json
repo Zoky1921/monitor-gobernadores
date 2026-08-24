@@ -1,0 +1,111 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por el fuerte embate del gobernador de Chubut contra el garantismo judicial, mientras que Salta y San Juan reafirmaron reclamos federales por recursos y competitividad. Neuquén exhibió datos económicos positivos, y Mendoza y Misiones se limitaron a efemérides locales. El silencio de los gobernadores del centro del país sugiere un repliegue táctico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día no es fiscal sino institucional. Ignacio Torres (Chubut) lanzó una andanada contra el 'garantismo berreta' de un sector de la Justicia, en un mensaje que trasciende lo local para interpelar al sistema judicial federal. La pregunta que flota es si este ataque busca disciplinar a los jueces o construir una plataforma de cara a la negociación por recursos. \n\nActo 2 — Los Alineamientos: Gustavo Sáenz (Salta) y Marcelo Orrego (San Juan) se posicionaron en el mismo carril: ambos reclamaron un federalismo más equitativo, ya sea por subsidios energéticos o por acceso a mercados internacionales. Rolando Figueroa (Neuquén) reforzó la narrativa del éxito provincial con datos de ventas, un gesto de autonomía que no confronta directamente con Nación pero que marca distancia. \n\nActo 3 — La Micro-política: Los gobernadores de Mendoza, Misiones y Santa Cruz optaron por la agenda de cabotaje. Alfredo Cornejo celebró el Día del Padre local, Hugo Passalacqua un aniversario comunal y Claudio Vidal una efeméride departamental. Son gestos de supervivencia política en provincias donde la gestión de lo cotidiano es el único capital disponible. \n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día deja señales mixtas. La ausencia de críticas directas al ajuste nacional es un alivio, pero la ofensiva de Torres contra la Justicia y los reclamos federales de Sáenz y Orrego indican que la paciencia de los gobernadores no es infinita. El silencio de los pesos pesados (Buenos Aires, Córdoba, Santa Fe) es el dato más elocuente: una tregua armada.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al garantismo judicial y reclamo de mano dura",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Reclamo federal por subsidios energéticos y competitividad regional",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Exhibición de datos económicos provinciales positivos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Agenda local y efemérides sin impacto federal",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH",
+        "texto": "BASTA DE GARANTISMO BERRETA\n\nHay que terminar de una vez por todas con el garantismo berreta de un sector de la Justicia que parece estar más preocupado por los delincuentes que por los derechos de los chubutenses de bien.\n\nSon los mismos jueces que muchas veces ponen trabas para autorizar un allanamiento, que dificultan que podamos sacarles los celulares a los presos para terminar con las estafas desde las cárceles y que ahora pretenden decirnos cuánta carne roja tiene que comer por día un delincuente.\n\nA ese sector de la Justicia que todavía insiste con una mirada ideologizada que tanto daño le hizo al país, quiero que le quede bien claro: en Chubut, los delincuentes ya no tienen coronita.",
+        "por_que_es_clave": "Torres lanza un mensaje de máxima dureza contra el Poder Judicial, en un tono que busca capitalizar el hartazgo social y posicionarlo como el gobernador más confrontativo con la 'casta judicial'. La referencia a 'coronita' es un guiño directo al electorado de derecha.",
+        "pregunta_openarg": "¿El ataque de Torres a la Justicia es una estrategia para desviar la atención de los problemas fiscales de Chubut o una genuina cruzada contra la impunidad?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Garantismo judicial",
+                "Seguridad",
+                "Justicia"
+            ],
+            "postura_politica": "Torres se posiciona como el paladín de la mano dura, enfrentando a un sector de la Justicia al que acusa de ser complaciente con los delincuentes. El mensaje es un guiño a la agenda de seguridad nacional y una forma de marcar perfil propio dentro del PRO.",
+            "frase_fuerte": "en Chubut, los delincuentes ya no tienen coronita."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Efeméride local",
+                "Día del Padre"
+            ],
+            "postura_politica": "Cornejo se limita a una celebración simbólica del Día del Padre mendocino, sin ningún contenido político o económico. Es un gesto de gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Aniversario local",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Passalacqua celebra el aniversario de General Urquiza con un mensaje de reconocimiento a pioneros y trabajadores municipales. Sin impacto federal, es pura agenda de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Economía provincial",
+                "Ventas en supermercados",
+                "Crecimiento"
+            ],
+            "postura_politica": "Figueroa destaca que Neuquén lidera las ventas en supermercados y es una de las provincias que más crece. Es un mensaje de autosuficiencia y buena gestión, que implícitamente contrasta con el contexto nacional de ajuste.",
+            "frase_fuerte": "No es casualidad. Es el resultado de un modelo neuquino que genera empleo, inversión y oportunidades en toda la provincia."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Expo Rural",
+                "Producción",
+                "Norte Grande"
+            ],
+            "postura_politica": "Sáenz reafirma su compromiso con los productores y reclama un federalismo real, con distribución equitativa de recursos. El mensaje está dirigido a Nación, exigiendo igualdad de oportunidades para el Norte.",
+            "frase_fuerte": "El Norte Grande no pide dádivas ni privilegios. Reclama lo que le corresponde por justicia histórica."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Uva de mesa",
+                "Exportaciones",
+                "Genética",
+                "Mercados internacionales"
+            ],
+            "postura_politica": "Orrego anuncia un avance para que los productores sanjuaninos accedan a nuevas variedades de uva de mesa y recuperen mercados internacionales. Es un mensaje de gestión proactiva y búsqueda de competitividad, sin confrontar con Nación.",
+            "frase_fuerte": "Queremos que las uvas de mesa de San Juan vuelvan al mundo."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Aniversario local",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Vidal celebra el aniversario de Piedra Buena con un mensaje de obras y servicios, destacando que están resolviendo necesidades postergadas. Es un gesto de gestión local sin proyección federal.",
+            "frase_fuerte": null
+        }
+    ]
+}
