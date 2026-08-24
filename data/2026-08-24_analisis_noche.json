@@ -1,0 +1,212 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada del 24 de agosto de 2026 estuvo marcada por una profunda impronta de gestión provincial y tensiones explícitas con el gobierno nacional. Gobernadores como Axel Kicillof (Buenos Aires) y Osvaldo Jaldo (Tucumán) criticaron duramente el 'achicamiento' o 'retiro' de la Nación en áreas clave como infraestructura y vivienda, destacando la acción provincial con recursos propios. Ignacio Torres (Chubut) elevó el tono contra un 'garantismo berreta' judicial y defendió recursos provinciales. Claudio Vidal (Santa Cruz) mantuvo una línea confrontativa con la gestión anterior por obras abandonadas. En contraste, Neuquén, Salta, San Luis y San Juan enfocaron sus agendas en desarrollo productivo, atracción de inversiones y colaboración regional. La prevención frente a 'El Niño' también fue un tema relevante en Mendoza.",
+    "analisis_profundo": "La agenda provincial en las últimas horas del 23 y durante el 24 de agosto de 2026 revela una clara polarización en el tablero federal. Axel Kicillof (Buenos Aires) articuló una fuerte crítica al gobierno nacional, acusándolo de 'perjudicar y asfixiar' a la provincia por el retraso en el traspaso de corredores viales clave. Simultáneamente, resaltó la consolidación de la banca pública bonaerense frente al 'achicamiento' de los bancos privados. Esta línea de confrontación fue secundada por Osvaldo Jaldo (Tucumán), quien lamentó el 'retiro' del gobierno nacional de políticas esenciales y subrayó el esfuerzo provincial para reactivar viviendas del programa Procrear con fondos propios. Ambos mandatarios posicionan a sus provincias como bastiones de resistencia y gestión frente a una percibida desatención federal.\n\nIgnacio Torres (Chubut) adoptó un rol combativo, arremetiendo contra un 'garantismo berreta' en la Justicia y defendiendo la soberanía provincial sobre recursos naturales, como la concesión de Futaleufú. Su postura también incluyó un fuerte apoyo a los jubilados, anunciando programas locales para complementar las mínimas nacionales, lo que implica una crítica indirecta a la política previsional federal. Claudio Vidal (Santa Cruz) mantuvo una agenda interna de fuerte contraste, atacando sin rodeos al 'kirchnerismo' por el abandono de obras y la corrupción, presentándose como el garante de la finalización de proyectos pendientes y la recuperación provincial. Este discurso polarizador resalta las heridas políticas y la necesidad de diferenciar gestiones en territorios históricamente afines a una fuerza política.\n\nEn el ámbito del desarrollo económico, Rolando Figueroa (Neuquén) organizó el 'Neuquén Day' para atraer inversiones a Vaca Muerta, enfatizando la seguridad jurídica y la infraestructura necesaria para el crecimiento. Gustavo Sáenz (Salta) mantuvo un equilibrio, colaborando con la ministra Sandra Pettovello en el lanzamiento de servicios móviles, pero sin dejar de reivindicar un 'federalismo real' para el Norte Grande. Marcelo Orrego (San Juan) se centró en la reintroducción de la uva de mesa en mercados internacionales con nuevas genéticas. Claudio Poggi (San Luis) destacó la inversión industrial y la generación de empleo. La seguridad ciudadana fue prioritario para Jorge Macri (Ciudad Autónoma de Buenos Aires), quien reportó la recuperación de un edificio usurpado y la aplicación de 'ley y orden'. Finalmente, Alfredo Cornejo (Mendoza) abordó la preparación y coordinación municipal ante el fenómeno de El Niño, reflejando una preocupación compartida sobre los desafíos climáticos.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación con el Gobierno Nacional y Defensa de la Soberanía Provincial/Federalismo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Gestión Local y Obras Públicas Prioritarias (incluyendo viviendas y servicios)",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo, Inversiones y Atracción de Capitales (Minero/Energético/Agro)",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Seguridad y Justicia",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Prevención de Riesgos Climáticos (Fenómeno El Niño)",
+            "gobernadores_involucrados": [
+                "@alfredocornejo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @gkatopodis)",
+        "texto": "A Milei y Caputo no les interesa lo que sucede con los 12 millones de bonaerenses que necesitan esa autopista, ni el progreso de nuestras comunidades. Es muy raro que quieran gobernar la Provincia que perjudican y asfixian todos los días.",
+        "por_que_es_clave": "El gobernador de la provincia más grande del país acusa directamente al Presidente y al Ministro de Economía de perjudicar y asfixiar a los bonaerenses, en el marco de un reclamo de traspaso de corredores viales clave. Esto eleva la tensión federal y subraya un conflicto por la inversión en infraestructura y la descentralización de responsabilidades.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Financiamiento municipal",
+                "Infraestructura vial",
+                "Confrontación con el gobierno nacional"
+            ],
+            "postura_politica": "Fuerte crítica a la inacción y hostilidad del gobierno nacional hacia Buenos Aires. Destaca la solidez de la banca pública provincial y la gestión local frente al 'achicamiento' y 'asfixia' federal. Demanda el traspaso de obras viales estratégicas.",
+            "frase_fuerte": "A Milei y Caputo no les interesa lo que sucede con los 12 millones de bonaerenses que necesitan esa autopista, ni el progreso de nuestras comunidades. Es muy raro que quieran gobernar la Provincia que perjudican y asfixian todos los días."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Recuperación de espacios públicos",
+                "Ley y orden"
+            ],
+            "postura_politica": "Centrado en la gestión de seguridad local, destacando el éxito en la recuperación de un edificio usurpado y la aplicación de políticas de 'ley y orden'.",
+            "frase_fuerte": "Este edificio estuvo usurpado durante 30 años en pleno Núñez. Lo recuperamos y le devolvimos la tranquilidad al barrio. Ley y orden."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Educación",
+                "Equipamiento escolar"
+            ],
+            "postura_politica": "Enfoque en la gestión educativa, cumpliendo compromisos de equipamiento en instituciones escolares y reconociendo el trabajo docente.",
+            "frase_fuerte": "Compromiso asumido, y cumplido!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Jubilaciones",
+                "Justicia",
+                "Seguridad",
+                "Soberanía de recursos"
+            ],
+            "postura_politica": "Denuncia la situación de los jubilados nacionales y anuncia apoyo provincial. Critica fuertemente el 'garantismo berreta' de un sector de la justicia y reafirma la defensa de los recursos provinciales frente a Nación.",
+            "frase_fuerte": "EN CHUBUT NO HAY JUBILADOS DE PRIMERA Y JUBILADOS DE SEGUNDA"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obras hídricas",
+                "Prevención de inundaciones",
+                "Desarrollo"
+            ],
+            "postura_politica": "Enfatiza la importancia de la obra pública para el cuidado de la gente y la preparación de la provincia para el futuro, con foco en la limpieza y sistematización de canales.",
+            "frase_fuerte": "HACER OBRAS ES CUIDAR A NUESTRA GENTE Y PREPARAR A CÓRDOBA PARA EL FUTURO"
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Aniversarios municipales",
+                "Apoyo a la gestión local"
+            ],
+            "postura_politica": "Celebra el aniversario del municipio capitalino, resaltando el valor del trabajo municipal en la construcción de una ciudad mejor y la cercanía con los vecinos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Prevención climática",
+                "Coordinación municipal",
+                "Efemérides"
+            ],
+            "postura_politica": "Destaca la coordinación entre municipios y organismos provinciales para la prevención del fenómeno de El Niño, haciendo un llamado a la responsabilidad ciudadana. También participa en celebraciones locales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Economía local",
+                "Programas de consumo"
+            ],
+            "postura_politica": "Promueve programas de descuentos y beneficios ('Ahora') para el consumo local, buscando sostener el empleo y la circulación de dinero en la provincia. Celebra aniversarios locales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inversión",
+                "Vaca Muerta",
+                "Desarrollo regional",
+                "Educación",
+                "Seguridad"
+            ],
+            "postura_politica": "Promueve a Neuquén como motor de desarrollo y exportación, destacando la atracción de inversiones internacionales en energía y la colaboración con Río Negro. Impulsa becas y la lucha contra el narcotráfico. Enfatiza la planificación a largo plazo.",
+            "frase_fuerte": "NEUQUÉN Y RÍO NEGRO, JUNTOS PARA PLANIFICAR EL FUTURO"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Servicios móviles",
+                "Colaboración Nación-Provincia",
+                "Federalismo"
+            ],
+            "postura_politica": "Demuestra capacidad de gestión conjunta con el gobierno nacional para llevar servicios a municipios, pero también reafirma la necesidad de un 'federalismo real' para el Norte Grande, defendiendo los intereses provinciales.",
+            "frase_fuerte": "Trabajamos juntos, Nación, Provincia y municipios, para brindar respuestas y llevar soluciones concretas a los salteños. Nuestra responsabilidad es con nuestra gente. Primero los salteños."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Producción agrícola",
+                "Mercados internacionales"
+            ],
+            "postura_politica": "Orientado a la recuperación de la producción de uva de mesa para exportación, buscando nuevas variedades genéticas y estrategias para competir globalmente.",
+            "frase_fuerte": "Queremos que las uvas de mesa de San Juan vuelvan al mundo 🍇🌎"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Empleo"
+            ],
+            "postura_politica": "Promueve la inversión y la creación de empleo a través de visitas a empresas locales que se instalan o modernizan en la provincia, destacando su impacto en la generación de puestos de trabajo.",
+            "frase_fuerte": "NASCHEL - Visité la Fábrica PLASTIMET dedicada a la fabricación de tubos flexibles de PVC con diferentes destinos (agro, gas, minería, entre otros). 50 empleados directos y trabajando en los tres turnos diarios."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Vivienda",
+                "Crítica a gestión anterior",
+                "Corrupción"
+            ],
+            "postura_politica": "Fuerte confrontación con la administración Kirchnerista por el abandono de obras y la corrupción. Se posiciona como el gobernador que 'se hace cargo' y finaliza las viviendas prometidas, enfrentando la oposición local.",
+            "frase_fuerte": "LOS QUE DEJARON A 40 FAMILIAS SIN HOGAR Y SAQUEARON LA PROVINCIA NO NOS VAN A VENIR A DECIR COMO HACER LAS COSAS"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Deportes",
+                "Salud",
+                "Infraestructura"
+            ],
+            "postura_politica": "Enfoque en la gestión de infraestructura deportiva para los Juegos Suramericanos y la inauguración de centros de salud, buscando fortalecer el bienestar y la integración a nivel local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obra pública",
+                "Salud",
+                "Educación",
+                "Confrontación con gobierno nacional"
+            ],
+            "postura_politica": "Critica el retiro del gobierno nacional de políticas esenciales y reafirma el compromiso provincial con la salud, educación y obra pública con recursos propios. Destaca la reactivación de viviendas paralizadas y la fortaleza del peronismo local.",
+            "frase_fuerte": "Mientras el Gobierno nacional se retira y deja de lado políticas públicas esenciales, en Tucumán elegimos no abandonar a nuestra gente."
+        }
+    ]
+}
