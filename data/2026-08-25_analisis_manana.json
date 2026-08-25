@@ -1,0 +1,185 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de las últimas horas se polarizó entre la celebración de la gestión local y la crítica al impacto de la política nacional. Gobernadores como Jorge Macri (Ciudad Autónoma de Buenos Aires) y Claudio Poggi (San Luis) destacaron logros en recuperación de propiedades y planes de vivienda, respectivamente, enfatizando la 'Ley y orden' y la inversión social. Rogelio Frigerio (Entre Ríos) y Rolando Figueroa (Neuquén) impulsaron el desarrollo productivo y la infraestructura estratégica. En contraste, Nacho Torres (Chubut) intervino en la cobertura de medicamentos para jubilados nacionales, mientras Arabela Carreras (Río Negro) y Claudio Vidal (Santa Cruz) avanzaron en el traspaso de obras y el reequipamiento policial, respectivamente, no sin señalar el abandono de la Nación o gestiones anteriores. La dinámica marca una fuerte reafirmación de autonomía provincial y una gestión orientada a resultados frente a un contexto nacional percibido como adverso.",
+    "analisis_profundo": "La jornada política federal reciente exhibe un patrón dual: una enérgica reafirmación de la capacidad de gestión provincial y un sutil, pero persistente, posicionamiento frente a la administración nacional. Jorge Macri (Ciudad Autónoma de Buenos Aires) utilizó una serie de retweets para proyectar una imagen de 'Ley y orden' y respeto por la propiedad privada, celebrando el desalojo de un edificio usurpado por 30 años. Esta acción, respaldada por cifras de propiedades recuperadas, busca consolidar su liderazgo en seguridad y eficacia. En una línea similar de concreción y cercanía, Claudio Poggi (San Luis) exhibió una prolífica agenda de anuncios de viviendas, infraestructura educativa y vial, y apoyo a la industria local, destacando la resolución de necesidades históricas y la generación de empleo en el interior provincial.\n\nDesde el ámbito económico-productivo, Rogelio Frigerio (Entre Ríos) enfatizó la reactivación del transporte fluvial, presentándolo como una ventaja estratégica desaprovechada históricamente, que ahora impulsa el comercio y la creación de trabajo. Leandro Zdero (Chaco) se sumó a esta visión, celebrando la inversión hotelera internacional como resultado de reglas claras y previsibilidad. Este enfoque de 'puertas abiertas' a la inversión privada y el desarrollo endógeno se contrapone, por momentos, con las tensiones sobre la política económica federal.\n\nEl matiz crítico hacia la Nación fue explícito en varios casos. Nacho Torres (Chubut) anunció un programa provincial de ayuda a jubilados nacionales para la compra de medicamentos, una iniciativa que implícitamente subraya las deficiencias del sistema de salud a nivel federal (PAMI). Claudio Vidal (Santa Cruz), por su parte, reequipó a la policía provincial, utilizando una retórica combativa que culpó al 'kirchnerismo' por el abandono y la postergación de las fuerzas de seguridad, marcando una clara ruptura con el pasado. Arabela Carreras (Río Negro) y Rolando Figueroa (Neuquén) coordinaron esfuerzos en el 'Neuquén Day' y anunciaron el traspaso de rutas nacionales y del Tren del Valle a administración provincial, en un proceso que, si bien cuenta con apoyo de Nación, es presentado como una victoria provincial frente a décadas de 'abandono' de obras nacionales. La implementación del Código Procesal Penal Federal en Misiones, con la presencia de autoridades nacionales, representa un punto de encuentro en la agenda judicial, aunque la provincia también anunció la acreditación de haberes con recursos propios. En resumen, el federalismo argentino se manifiesta hoy en una tensión entre la autonomía provincial fortalecida y la adaptación a un esquema nacional que genera tanto críticas como oportunidades de negociación.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de Infraestructura y Obras Públicas",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad, Ley y Orden",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Fomento a la Inversión y Desarrollo Productivo",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@frigeriorogelio",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Autonomía Provincial y Reclamos Federales",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@WeretilneckOK",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales y Calidad de Vida",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@claudiojpoggi",
+        "texto": "CONCARAN - Realizamos, junto a los preadjudicatarios, una visita de avance de obra del Barrio 20 VIVIENDAS en la Localidad de Concaran. Dios mediante, el 12 de Setiembre estarán finalizadas las mismas y se les entregara las llaves a los nuevos propietarios. La VIVIENDA volvió a San Luis y volvió para quedarse !!",
+        "por_que_es_clave": "Destaca la concreción de una política social fundamental, el acceso a la vivienda propia, y el compromiso de la gestión provincial con resultados tangibles, usando una frase potente que simboliza la recuperación de un derecho.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad Ciudadana",
+                "Propiedad Privada",
+                "Gestión Urbana"
+            ],
+            "postura_politica": "Demuestra una postura firme en la aplicación de la ley y el orden, celebrando la recuperación de propiedades usurpadas como un éxito de su gestión. Enfoca en la decisión política como clave para la resolución de problemas arraigados.",
+            "frase_fuerte": "La usurpación de un inmueble no solo perjudica al propietario; también al barrio, porque se instala el mal en la cuadra: hay droga, inseguridad, trata, talleres textiles con trabajo esclavo, de todo."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Desarrollo Económico",
+                "Inversión Privada",
+                "Generación de Empleo"
+            ],
+            "postura_politica": "Se enfoca en la atracción de inversiones internacionales y la generación de trabajo, promoviendo un ambiente de previsibilidad y reglas claras como estrategia para cambiar la matriz productiva de la provincia.",
+            "frase_fuerte": "Cuando hay reglas claras y previsibilidad para quien invierte, los resultados llegan."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Adultos Mayores",
+                "Asistencia Social"
+            ],
+            "postura_politica": "Adopta una postura de defensa y apoyo a los jubilados nacionales, supliendo con recursos provinciales las deficiencias percibidas en el sistema nacional (PAMI), lo que refuerza su imagen de protector de los ciudadanos de Chubut.",
+            "frase_fuerte": "Porque acá no hay jubilados de primera o de segunda: hay chubutenses que trabajaron toda su vida y merecen que los acompañemos cuando más lo necesitan."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura Hídrica",
+                "Infraestructura Vial",
+                "Desarrollo Local",
+                "Cooperación Intermunicipal"
+            ],
+            "postura_politica": "Demuestra una gestión activa en obras públicas esenciales, destacando la cooperación entre localidades para resolver problemas históricos y mejorar la calidad de vida, bajo la consigna de 'Hacer para Crecer'.",
+            "frase_fuerte": "Cuando impulsamos el @EnteMetropolCba, lo hicimos convencidos de que la articulación entre localidades nos permite llevar obras donde más se necesitan."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Infraestructura Logística",
+                "Comercio Exterior"
+            ],
+            "postura_politica": "Resalta la importancia estratégica del transporte fluvial para el desarrollo económico provincial, enfatizando la eficiencia de la gestión actual en potenciar un recurso desaprovechado y mejorar la competitividad.",
+            "frase_fuerte": "Hoy, 9 de cada 10 toneladas de granos que se transportan por cabotaje fluvial pasan por puertos entrerrianos."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Inclusión Social",
+                "Discapacidad",
+                "Salud Pública"
+            ],
+            "postura_politica": "Muestra un fuerte compromiso con la inclusión y la garantía de derechos para personas con discapacidad, a través de la entrega de elementos ortopédicos y el trabajo articulado con organizaciones de la sociedad civil.",
+            "frase_fuerte": "Detrás de cada elemento hay mucho más que una ayuda. Hay autonomía, dignidad y nuevas oportunidades para cada persona y su familia."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Administración Pública",
+                "Justicia Federal",
+                "Infraestructura Hídrica"
+            ],
+            "postura_politica": "Destaca la gestión provincial en el cumplimiento de obligaciones salariales y la cooperación con el poder judicial nacional para la implementación de reformas, reafirmando la importancia del federalismo en una provincia fronteriza.",
+            "frase_fuerte": "Para una provincia de frontera como la nuestra, todo lo federal tiene una importancia enorme."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Desarrollo Regional",
+                "Transformación Productiva",
+                "Federalismo"
+            ],
+            "postura_politica": "Proyecta una imagen de liderazgo en la transformación y crecimiento de Neuquén, posicionando a la provincia como un motor clave para el desarrollo nacional y destacando la importancia de la planificación a largo plazo y la sustentabilidad social.",
+            "frase_fuerte": "No es un desafío sectorial ni partidario: es generacional. Estamos convencidos de que si Neuquén crece le va a ir bien a la Argentina, y que uno de los capítulos más importantes de la transformación del país se va a escribir desde nuestra provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Transporte Ferroviario",
+                "Desarrollo Regional",
+                "Federalismo"
+            ],
+            "postura_politica": "Celebra el traspaso de rutas nacionales y el Tren del Valle a gestión provincial como un logro histórico de autonomía y respuesta al 'abandono' nacional, enfatizando la planificación integrada con Neuquén para el desarrollo de la Norpatagonia.",
+            "frase_fuerte": "Sabemos que décadas de abandono no se resuelven de un día para otro. Pero dejamos de esperar respuestas y empezamos a construirlas nosotros mismos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda Social",
+                "Educación",
+                "Seguridad Pública",
+                "Desarrollo Industrial"
+            ],
+            "postura_politica": "Presenta una gestión enfocada en soluciones concretas a nivel local, con programas de vivienda, inversión en infraestructura educativa, reconocimiento a fuerzas de seguridad y apoyo a la industria, mostrando cercanía y efectividad en la mejora de la calidad de vida.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Seguridad Pública",
+                "Gestión de Gobierno",
+                "Crítica a Oposiciones"
+            ],
+            "postura_politica": "Adopta una postura confrontativa con el pasado ('kirchnerismo'), destacando el reequipamiento policial como un cumplimiento de promesas y una ruptura con la negligencia anterior, reafirmando su compromiso con la provincia.",
+            "frase_fuerte": "NOSOTROS SÍ TENEMOS PALABRA: MÁS EQUIPAMIENTO PARA NUESTRA POLICÍA"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura Deportiva",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "Enfoca en la inversión en deporte y el apoyo a clubes locales en el marco de los Juegos Suramericanos, proyectando una imagen de liderazgo en la construcción de un legado duradero para la provincia y la formación de jóvenes.",
+            "frase_fuerte": "el verdadero legado que queremos dejar tiene que sentirse en el día a día de las instituciones de cada localidad."
+        }
+    ]
+}
