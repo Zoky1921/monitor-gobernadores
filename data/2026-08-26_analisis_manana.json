@@ -1,0 +1,92 @@
+{
+    "clima_general": "GESTIÓN",
+    "resumen_ejecutivo": "La agenda de los gobernadores se centra en la gestión local y el desarrollo productivo. @NachoTorresCH (Chubut) y @passalacquaok (Misiones) avanzan en la entrega de títulos de propiedad, consolidando la seguridad jurídica de la vivienda. @MartinLlaryora (Córdoba) impulsa un proyecto de ley para aliviar la deuda familiar, señalando indirectamente la presión económica nacional. En el ámbito productivo, @Rolo_Figueroa (Neuquén) proyecta la industrialización de Vaca Muerta para generar empleo y valor agregado, mientras @GustavoSaenzOK (Salta) destaca la mejora de la infraestructura aeroportuaria. El panorama general es de un fuerte enfoque en obras y soluciones provinciales directas a la ciudadanía.",
+    "analisis_profundo": "La jornada federal se distingue por una marcada orientación hacia la gestión provincial, donde los gobernadores exhiben un compromiso con la concreción de obras y el desarrollo socioeconómico de sus jurisdicciones. La cuestión habitacional ocupa un lugar prominente: @NachoTorresCH (Chubut) celebra la entrega de títulos de propiedad, proporcionando seguridad jurídica a las familias, una acción que es replicada por @passalacquaok (Misiones) al destacar la política de respaldo a los hogares misioneros. Estas iniciativas no solo satisfacen demandas básicas sino que refuerzan el rol del Estado provincial como garante de derechos y estabilizador social. \n\nEn el plano económico, @MartinLlaryora (Córdoba) presenta un 'Proyecto de Ley Alivio Cordobés', una medida audaz para refinanciar deudas familiares y reducir tasas. Si bien la propuesta se enmarca en una solución provincial, su justificación ('el sistema financiero actual se volvió imposible') resalta las consecuencias de la coyuntura económica nacional en la vida cotidiana de los ciudadanos, posicionando a Córdoba con una agenda defensiva y proactiva frente a las presiones externas. \n\nEl desarrollo productivo se consolida como un eje estratégico, especialmente en provincias con recursos naturales abundantes. @Rolo_Figueroa (Neuquén) articula una visión de 'provincia industrial', buscando ir más allá de la extracción de Vaca Muerta para agregar valor en origen y generar empleo, un modelo que busca transformar la matriz productiva regional y nacional. En este mismo sentido de infraestructura y desarrollo, @GustavoSaenzOK (Salta) subraya la inauguración de la nueva terminal del aeropuerto internacional, una inversión clave para potenciar el turismo y la conectividad, fundamentales para la economía del Norte. En suma, la jornada refleja a gobernadores concentrados en la operatividad, la inversión en servicios esenciales y la búsqueda de autonomía económica y social, evidenciando una gestión pragmática y orientada a resultados concretos para sus habitantes.",
+    "temas_calientes": [
+        {
+            "tema": "Vivienda y Seguridad Jurídica",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Alivio Financiero Provincial ante la crisis",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Industrialización de Recursos Naturales y Generación de Empleo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Infraestructura de Conectividad y Fomento del Turismo",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "NEUQUÉN SE ESTÁ TRANSFORMANDO EN UNA PROVINCIA INDUSTRIAL Participamos de la @industrias_expo, porque queremos que Neuquén sea protagonista de la transformación productiva de la Argentina. Vaca Muerta nos permite dar un paso más: no solo extraer petróleo y gas, sino industrializar nuestros recursos, agregar valor en origen, generar empleo y abrir nuevas oportunidades para los neuquinos.",
+        "por_que_es_clave": "El gobernador Figueroa (Neuquén) presenta una visión estratégica audaz para el desarrollo productivo, proyectando a la provincia como un motor industrial clave para el país, más allá de la mera extracción de recursos. Su enfoque en la industrialización de Vaca Muerta y la generación de valor agregado marca un rumbo de crecimiento regional con impacto nacional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad Jurídica"
+            ],
+            "postura_politica": "Centra su gestión en la resolución de demandas históricas en materia de vivienda, enfatizando la entrega de títulos de propiedad como un acto de justicia social y fomento del arraigo, fortaleciendo el patrimonio familiar.",
+            "frase_fuerte": "No es solamente un papel: es la tranquilidad de saber que todo aquello por lo que lucharon durante tanto tiempo también queda para sus hijos y sus nietos."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Economía provincial",
+                "Deuda familiar",
+                "Consumo",
+                "Asistencia financiera"
+            ],
+            "postura_politica": "Adopta una postura proactiva e intervencionista ante la crisis económica, proponiendo una ley de 'Alivio Cordobés' para proteger a las familias del endeudamiento y estimular la economía local, resaltando la autonomía provincial frente a la coyuntura nacional.",
+            "frase_fuerte": "Aliviar la deuda familiar no es un gasto, es la mejor inversión para ayudar a activar el consumo y con este conservar el empleo de miles de cordobeses."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad Jurídica",
+                "Gestión Social"
+            ],
+            "postura_politica": "Refuerza el compromiso de su gobierno con la seguridad jurídica de la vivienda a través de la entrega de títulos de propiedad, destacando el impacto positivo en la vida de las familias y la consolidación de sus hogares.",
+            "frase_fuerte": "Un título de propiedad es más que un papel. Es la certeza de que un hogar, construido con esfuerzo, hoy cuenta con el respaldo que merece."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Desarrollo Industrial",
+                "Vaca Muerta",
+                "Empleo",
+                "Valor Agregado"
+            ],
+            "postura_politica": "Proyecta a Neuquén como un polo industrial clave para el país, impulsando la industrialización de los recursos de Vaca Muerta para generar empleo y valor agregado, demostrando una visión estratégica de crecimiento provincial y nacional.",
+            "frase_fuerte": "Vaca Muerta nos permite dar un paso más: no solo extraer petróleo y gas, sino industrializar nuestros recursos, agregar valor en origen, generar empleo y abrir nuevas oportunidades para los neuquinos."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Turismo",
+                "Conectividad"
+            ],
+            "postura_politica": "Destaca la inversión en infraestructura clave como el nuevo aeropuerto internacional para potenciar la conectividad y el turismo provincial, mostrando una gestión enfocada en el desarrollo económico y la proyección regional.",
+            "frase_fuerte": "El Gobernador de Salta, @GustavoSaenzOK, inaugurará la nueva terminal del Aeropuerto Internacional Martín Miguel de Güemes."
+        }
+    ]
+}
