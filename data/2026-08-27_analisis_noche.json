@@ -1,0 +1,249 @@
+{
+    "clima_general": "DEMANDANTE",
+    "resumen_ejecutivo": "La jornada política federal estuvo marcada por una combinación de gestión provincial activa y claras demandas a la Nación. Gobernadores como Axel Kicillof (Buenos Aires) articularon una crítica al modelo económico nacional, mientras que Martín Llaryora (Córdoba) y Maximiliano Pullaro (Santa Fe) se reunieron con el Jefe de Gabinete para insistir en temas urgentes como infraestructura vial, costos energéticos y régimen de zonas frías, evidenciando tensiones persistentes. Simultáneamente, múltiples provincias (CABA, Catamarca, Chaco, Chubut, Formosa, La Pampa, La Rioja, Mendoza, Misiones, Neuquén, Salta, San Luis, Santa Cruz, Santiago del Estero, Tierra del Fuego) reportaron sobre el avance de obras locales, programas sociales y fomento a la producción, subrayando el esfuerzo propio y la búsqueda de soluciones ante un complejo panorama económico. El foco principal reside en la autonomía de gestión y la defensa de los intereses regionales.",
+    "analisis_profundo": "La dinámica federal de hoy refleja un panorama donde las provincias, bajo el liderazgo de sus gobernadores, buscan consolidar agendas propias y articular demandas ante un contexto nacional complejo. La reunión en Casa Rosada de Martín Llaryora (Córdoba) y Maximiliano Pullaro (Santa Fe) con el Jefe de Gabinete, Diego Santilli, para abordar la red vial, el costo energético y el régimen de zonas frías de la Región Centro, es un indicador de la presión sostenida desde los territorios para obtener respuestas concretas. Si bien el diálogo existe, el énfasis en que 'no pueden esperar más' denota una postura firme.\n\nEn el plano económico-estratégico, el gobernador Axel Kicillof (Buenos Aires) emitió una declaración con una fuerte carga política, llamando a una 'estrategia nacional de desarrollo' para evitar la 'dilapidación' de recursos estratégicos, lo que puede interpretarse como una crítica directa a la orientación económica actual del gobierno central. En la misma línea, Gustavo Melella (Tierra del Fuego) anunció medidas provinciales para aliviar el endeudamiento familiar, asumiendo una responsabilidad local frente a problemas que tienen un trasfondo nacional. Por su parte, Raúl Jalil (Catamarca) y Gustavo Sáenz (Salta) destacaron la minería (especialmente litio) como motor de empleo e inversión, buscando atraer capitales con marcos de seguridad jurídica y previsibilidad, mostrando la apuesta regional por sectores productivos clave.\n\nLa gestión local fue el eje central para la mayoría de los gobernadores. Jorge Macri (CABA) presentó medidas específicas para beneficiar a jubilados y facilitar el acceso a créditos hipotecarios. Leandro Zdero (Chaco) y Ignacio Torres (Chubut) mostraron avances en infraestructura vial y urbana con fondos propios. Sergio Ziliotto (La Pampa) y Ricardo Quintela (La Rioja) detallaron inversiones en salud y obra pública. Alfredo Cornejo (Mendoza) reforzó políticas de seguridad y justicia, mientras Hugo Passalacqua (Misiones) celebró un logro legislativo federal en beneficio de productores y salud, y presentó la adquisición de equipamiento médico avanzado. Rolando Figueroa (Neuquén) promovió la integración energética y comercial con Chile. Finalmente, Claudio Poggi (San Luis), Claudio Vidal (Santa Cruz) y Elías Suárez (Santiago del Estero) exhibieron una variada agenda de gestión que incluyó seguridad, vivienda, apoyo al sector privado, educación e inclusión social, a menudo con un discurso que resalta la capacidad de sus administraciones frente a desafíos o en contraste con gestiones pasadas. Este despliegue de gestión provincial consolida la imagen de gobiernos subnacionales activos y resolutivos.",
+    "temas_calientes": [
+        {
+            "tema": "Demandas Federales y Financiamiento Inter-jurisdiccional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Obra Pública Provincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@GustavoSaenzOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales, Salud y Educación",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@AlfredoCornejoMza",
+                "@passalacquaok",
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Integración Regional y Cooperación Internacional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Argentina tiene recursos naturales estratégicos, industria, ciencia, tecnología y capacidades que no podemos entregar al mejor postor ni dejar que se dilapiden. Tenemos que construir una estrategia nacional de desarrollo que ponga todo ese potencial al servicio de nuestros intereses.",
+        "por_que_es_clave": "Esta declaración marca una postura ideológica y estratégica fuerte sobre el modelo económico nacional, criticando la posible 'dilapidación' de recursos y abogando por un desarrollo con enfoque en los intereses propios del país, en un contexto de debates sobre privatizaciones y control estatal.",
+        "pregunta_openarg": "¿Cómo se alinea esta visión de desarrollo nacional con las capacidades productivas y de inversión de las provincias en un contexto de escasez de recursos federales?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Desarrollo Nacional",
+                "Soberanía Económica",
+                "Participación Política"
+            ],
+            "postura_politica": "Defiende una estrategia nacional de desarrollo que proteja los recursos estratégicos y rechaza su entrega a 'mejores postores', señalando una fuerte crítica a políticas de apertura económica. Promueve la organización y debate interno en su espacio político.",
+            "frase_fuerte": "Argentina tiene recursos naturales estratégicos, industria, ciencia, tecnología y capacidades que no podemos entregar al mejor postor ni dejar que se dilapiden."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Créditos Hipotecarios",
+                "Beneficios para Jubilados",
+                "Gestión Financiera"
+            ],
+            "postura_politica": "Centrado en la gestión local, busca soluciones concretas para la clase media y jubilados a través de políticas bancarias y de transporte, enfatizando el acceso y la simplificación de trámites.",
+            "frase_fuerte": "Modificamos la Carta Orgánica del Banco Ciudad para que, como mínimo, el 25% del remanente de sus utilidades se destine a créditos hipotecarios."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería",
+                "Desarrollo Industrial",
+                "Empleo Local"
+            ],
+            "postura_politica": "Impulsa el desarrollo minero e industrial como motor de crecimiento y generación de empleo, promoviendo la inversión y el fortalecimiento de proveedores locales en el marco de un congreso.",
+            "frase_fuerte": "La minería ya genera más de 6.000 empleos directos e indirectos y las inversiones abren nuevas oportunidades para nuestros trabajadores, PyMEs y proveedores locales."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Obra Pública"
+            ],
+            "postura_politica": "Resalta el avance de la obra pública en infraestructura vial y urbana, enfatizando la recuperación de kilómetros y el impacto directo en la calidad de vida de las familias y la conectividad provincial.",
+            "frase_fuerte": "La obra de la Ruta Provincial N° 13 está cada vez más cerca de concretarse. Ya son más de 400 km recuperados en la provincia y ¡vamos por más!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura Urbana",
+                "Obra Pública",
+                "Gestión Responsable"
+            ],
+            "postura_politica": "Destaca la finalización de obras de pavimentación con fondos propios, ligando la 'administración con responsabilidad' a la mejora de la calidad de vida de los vecinos.",
+            "frase_fuerte": "Porque cuando se administra con responsabilidad, la plata de los contribuyentes vuelve en obras concretas que mejoran la calidad de vida de los vecinos."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Federalismo",
+                "Infraestructura Regional",
+                "Alivio Económico",
+                "Salud Pública",
+                "Desarrollo Energético"
+            ],
+            "postura_politica": "Se muestra como un articulador federal, elevando demandas conjuntas a Nación, mientras implementa políticas locales para aliviar el endeudamiento de familias, expandir la infraestructura de gas natural y acercar servicios de salud.",
+            "frase_fuerte": "En #Córdoba, el trabajo conjunto y coordinado entre el sector público y el sector privado siempre ofrece soluciones y demuestra el compromiso que tenemos para resolver los problemas que afectan a los cordobeses."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Juventud",
+                "Educación",
+                "Participación Estudiantil"
+            ],
+            "postura_politica": "Enfatiza el acompañamiento a la organización estudiantil y la generación de espacios de participación para los jóvenes, fortaleciendo la comunidad educativa.",
+            "frase_fuerte": "En Formosa seguiremos promoviendo y acompañando la organización estudiantil, generando espacios de encuentro y escucha que fortalezcan la participación de las juventudes en cada rincón de nuestro territorio provincial."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Inversión en Infraestructura",
+                "Equidad Territorial"
+            ],
+            "postura_politica": "Destaca la inversión en un nuevo hospital de alta complejidad en el oeste provincial, buscando garantizar el acceso a salud de calidad para todos los pampeanos, independientemente de su ubicación.",
+            "frase_fuerte": "INVERTIR EN SALUD ES CUIDAR A LA GENTE, ES HACER POLÍTICA PENSANDO EN EL PUEBLO"
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Infraestructura",
+                "Salud"
+            ],
+            "postura_politica": "Pone en valor el esfuerzo provincial en la finalización de obras clave de infraestructura y salud, incluso en un contexto económico adverso, asegurando que la obra pública beneficie a cada comunidad.",
+            "frase_fuerte": "En un contexto económico difícil, seguimos haciendo el esfuerzo para que la obra pública llegue a cada comunidad y esté al servicio de nuestra gente."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Seguridad y Justicia",
+                "Violencia de Género",
+                "Políticas Públicas"
+            ],
+            "postura_politica": "Resalta la importancia de encuentros sobre violencia de género para fortalecer políticas públicas, enfatizando la necesidad de herramientas tecnológicas y coordinación para la prevención y asistencia a víctimas.",
+            "frase_fuerte": "Sabemos que no alcanza con las leyes si el Estado no cuenta con herramientas para aplicarlas."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Apoyo a Economías Regionales",
+                "Salud",
+                "Legislación Nacional"
+            ],
+            "postura_politica": "Celebra un logro legislativo a nivel nacional (reducción de IVA para fécula de mandioca) que beneficia a productores locales y celíacos, evidenciando el trabajo de su bloque federal y la inversión en equipamiento médico.",
+            "frase_fuerte": "Es un paso histórico que corrige una asimetría de años y pone en igualdad de condiciones a nuestra producción frente a la harina de trigo, beneficiando a más de 10.000 familias productoras y cooperativas misioneras."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Integración Regional",
+                "Desarrollo Energético",
+                "Comercio Internacional"
+            ],
+            "postura_politica": "Impulsa la integración con la Región del Biobío (Chile) en áreas comerciales, energéticas y logísticas, posicionando a la provincia como una plataforma de desarrollo binacional a partir de recursos como Vaca Muerta.",
+            "frase_fuerte": "El objetivo es claro: transformar los acuerdos en acciones concretas, con responsables y plazos, y seguir avanzando en la integración energética y a través del paso internacional Pichachén."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Minería",
+                "Inversión Extranjera",
+                "Desarrollo Sustentable"
+            ],
+            "postura_politica": "Fomenta la inversión extranjera en proyectos de litio, destacando el potencial de Salta y la necesidad de una minería sustentable que genere empleo local y beneficie a la comunidad.",
+            "frase_fuerte": "El crecimiento de la minería tiene que ser también el crecimiento de Salta y su gente, generando empleo local, fortaleciendo a nuestros proveedores y creando nuevas oportunidades."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Federalismo",
+                "Infraestructura Regional",
+                "Costos Energéticos"
+            ],
+            "postura_politica": "Participa en la reunión de la Región Centro con el Jefe de Gabinete para plantear demandas urgentes sobre infraestructura vial, energía y régimen de zonas frías, priorizando el bienestar de los santafesinos.",
+            "frase_fuerte": "Nuestra prioridad es y va a ser siempre cuidar el esfuerzo de los santafesinos."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Seguridad Pública",
+                "Vivienda",
+                "Obra Pública",
+                "Desarrollo Económico Local"
+            ],
+            "postura_politica": "Exhibe una intensa actividad de gestión local, enfocada en el fortalecimiento de las fuerzas de seguridad, la concreción de viviendas y la estimulación del sector privado y emprendedor, con múltiples inauguraciones y anuncios.",
+            "frase_fuerte": "Más VIVIENDAS, más TRABAJO, más CONCRECIÓN DE SUEÑOS !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Inclusión Social",
+                "Educación",
+                "Alianzas Público-Privadas"
+            ],
+            "postura_politica": "Demuestra cercanía con la comunidad a través de gestos concretos de apoyo a la infancia y critica el legado del 'kirchnerismo' en educación, promoviendo la colaboración entre el sector público y privado para construir futuro.",
+            "frase_fuerte": "30 AÑOS DÁNDOLE LA ESPALDA A LA EDUCACIÓN Y LOS CHICOS. HOY TRABAJAMOS CON EL SECTOR PRIVADO PARA CONSTRUIR FUTURO"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Educación",
+                "Vivienda Social",
+                "Infraestructura Educativa"
+            ],
+            "postura_politica": "Prioriza la educación y la vivienda social con inauguraciones simultáneas de escuelas y hogares, enfatizando la igualdad de oportunidades y la importancia de docentes arraigados en sus comunidades.",
+            "frase_fuerte": "Cada obra educativa representa mucho más que un edificio: significa generar mejores condiciones para aprender y enseñar, y garantizar que nuestros niños y jóvenes tengan las mismas oportunidades, sin importar dónde vivan."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Crisis Económica",
+                "Alivio Financiero",
+                "Rol de la Banca Pública"
+            ],
+            "postura_politica": "Aborda el endeudamiento familiar con medidas concretas del Banco de Tierra del Fuego (tasas bajas, plazos largos), posicionando a la banca pública como un actor clave en el acompañamiento a las familias en un contexto económico difícil.",
+            "frase_fuerte": "Un banco público tiene que estar para acompañar el desarrollo, pero también para estar al lado de nuestra gente cuando más lo necesita."
+        }
+    ]
+}
