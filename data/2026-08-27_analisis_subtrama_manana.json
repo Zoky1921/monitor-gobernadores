@@ -1,0 +1,92 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de bajo voltaje federal. La mayoría de los gobernadores se refugió en agenda local de obras y actos protocolares. La única señal con proyección nacional provino de Rolando Figueroa (Neuquén), quien avanzó en la integración energética con Chile, marcando autonomía en la gestión de recursos estratégicos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registró enfrentamientos directos con la Casa Rosada ni disputas fiscales abiertas. El silencio de los pesos pesados (Kicillof, Jalil, Valdés, Sáenz) sugiere un repliegue táctico: evitan dar blancos en un contexto de ajuste y esperan el momento para capitalizar descontento. La ausencia de menciones a la coparticipación o al Fondo Hídrico es elocuente.\n\nActo 2 — Los Alineamientos: Rolando Figueroa se posiciona como el único jugador con agenda de largo plazo, articulando con Chile y el Biobío en torno a Vaca Muerta y los puertos. Es un gesto de autonomía que refuerza su perfil de gobernador 'productivo' y desmarca a Neuquén de la rosca nacional. El resto de los mandatarios con actividad (Zdero, Llaryora, Insfrán, Poggi, Vidal, Pullaro) optaron por la gestión de cabotaje: pavimento, salud, ascensos policiales, reuniones con pymes. No hay alineamientos explícitos con Nación ni oposición frontal.\n\nActo 3 — La Micro-política: Claudio Vidal (Santa Cruz) aprovechó para seguir golpeando al kirchnerismo local con la entrega de zapatillas, pero sin mencionar a Milei. Es una jugada de reafirmación identitaria en su provincia, sin eco federal. Claudio Poggi (San Luis) multiplicó actos menores (ascensos, visitas a talleres, inauguración de plaza) que refuerzan su imagen de gestión territorial pero no alteran el tablero nacional. Maximiliano Pullaro (Santa Fe) reportó una reunión de planificación provincial, sin referencias a la Nación.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es neutra. No hubo críticas ni apoyos explícitos. El silencio de los gobernadores peronistas y aliados puede leerse como una tregua táctica, pero también como desinterés en confrontar mientras no haya nuevos recortes. El único movimiento con peso estratégico es el de Figueroa, que refuerza la narrativa de que las provincias con recursos pueden avanzar solas, sin esperar a Nación.",
+    "temas_calientes": [
+        {
+            "tema": "Integración energética y productiva con Chile (Neuquén-Biobío)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "NEUQUÉN Y BIOBÍO CONSTRUYEN SU FUTURO EN COMÚN \n\nEn Concepción nos reunimos con el expresidente de Chile @EduardoFrei_, el presidente de la Región del Biobío, @sgiacamang , y la ministra de Energía de Chile, @ximerincon. El trabajo conjunto se fortalece en cada encuentro.\n\nPichachén, Vaca Muerta, energía, producción y los puertos del Biobío nos abren una enorme oportunidad para transformar nuestra frontera en una plataforma de desarrollo para la integración de ambos países.",
+        "por_que_es_clave": "Figueroa despliega una diplomacia provincial autónoma, vinculando Vaca Muerta con puertos chilenos. Es un mensaje a Nación: Neuquén no espera; construye su propia ruta de exportación y desarrollo. La mención a Pichachén (paso fronterizo) refuerza la idea de corredor bioceánico sin depender de la Casa Rosada.",
+        "pregunta_openarg": "¿Hasta qué punto la diplomacia provincial de Figueroa con Chile es un desafío a la política exterior de Milei o una simple gestión de infraestructura compartida?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "pavimento urbano",
+                "obra pública local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Muestra gestión en Margarita Belén, pero evita cualquier referencia a Nación o a la crisis fiscal.",
+            "frase_fuerte": "Avanza el último tramo del pavimento urbano que estamos haciendo en Margarita Belén"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "salud pública",
+                "mamógrafos móviles",
+                "prevención"
+            ],
+            "postura_politica": "Gestión protocolar aislada. El programa Apross + Cerca es una política sanitaria provincial sin confrontación con Nación.",
+            "frase_fuerte": "10.831 mamografías realizadas en más de 75 localidades"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "reunión con estudiantes",
+                "participación juvenil"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Reunión con referentes estudiantiles de delegaciones zonales, refuerza su base territorial.",
+            "frase_fuerte": "Recibimos en Casa de Gobierno a referentes estudiantiles de las distintas Delegaciones Zonales"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "integración con Chile",
+                "Vaca Muerta",
+                "energía",
+                "puertos"
+            ],
+            "postura_politica": "Posicionamiento estratégico autónomo. Figueroa se muestra como gestor de una agenda internacional propia, despegándose de la rosca nacional y proyectando a Neuquén como plataforma de desarrollo regional.",
+            "frase_fuerte": "Pichachén, Vaca Muerta, energía, producción y los puertos del Biobío nos abren una enorme oportunidad para transformar nuestra frontera en una plataforma de desarrollo"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "ascensos policiales",
+                "reunión con pymes",
+                "visita a carpintería",
+                "inauguración de plaza",
+                "boxeador campeón"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Múltiples actos de gestión territorial y reconocimiento, sin menciones a Nación ni a temas fiscales.",
+            "frase_fuerte": "Emotivo acto de 'ASCENSOS' para más de 500 Agentes de la Policía de la Provincia"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "educación",
+                "donación de zapatillas",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Reafirmación identitaria contra el kirchnerismo local. Vidal utiliza la donación para marcar diferencias con la gestión anterior, pero sin atacar al gobierno nacional actual.",
+            "frase_fuerte": "30 AÑOS DÁNDOLE LA ESPALDA A LA EDUCACIÓN Y LOS CHICOS. HOY TRABAJAMOS CON EL SECTOR PRIVADO PARA CONSTRUIR FUTURO"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "reunión de planificación",
+                "seguridad",
+                "orden provincial"
+            ],
+            "postura_politica": "Gestión provincial sin impacto federal. Reunión con ministros provinciales para planificar desafíos, sin referencias a Nación.",
+            "frase_fuerte": "Planificar, coordinar y anticipar es nuestro método para recuperar la paz y el orden en nuestra provincia"
+        }
+    ]
+}

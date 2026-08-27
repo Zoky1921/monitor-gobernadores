@@ -1,0 +1,121 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda reciente de los gobernadores muestra un fuerte contraste entre la gestión local y las persistentes tensiones políticas. Rolando Figueroa (Neuquén) impulsó la integración estratégica con Chile en áreas clave como energía y producción. Martín Llaryora (Córdoba), Gildo Insfrán (Formosa) y Claudio Poggi (San Luis) se enfocaron en la mejora de servicios públicos, participación juvenil y fomento económico local y seguridad. Maximiliano Pullaro (Santa Fe) priorizó la planificación de seguridad provincial, mientras Leandro Zdero (Chaco) destacó obras viales. No obstante, Claudio Vidal (Santa Cruz) introdujo una marcada crítica al 'kirchnerismo' por el abandono educativo, señalando una profunda tensión ideológica y partidaria persistente en el escenario federal.",
+    "analisis_profundo": "El panorama federal reciente revela una doble dinámica: por un lado, una concentración de los gobernadores en la gestión directa de sus provincias y el desarrollo regional, y por otro, la persistencia de una profunda polarización ideológica reflejada en críticas directas al legado del 'kirchnerismo'.\n\nRolando Figueroa (Neuquén) se proyectó como un actor de integración regional, destacando una reunión con autoridades chilenas para fortalecer la conexión con Biobío. Esta iniciativa estratégica se centra en aprovechar recursos como Vaca Muerta y los puertos del Pacífico, apuntando a una plataforma de desarrollo binacional que subraya una visión de política exterior subnacional.\n\nEn el plano de la gestión social, Martín Llaryora (Córdoba) enfatizó la expansión de servicios de salud con el programa 'Apross + Cerca', promoviendo la prevención y el acceso a mamografías en el interior provincial, consolidando el rol del Estado cordobés en la salud pública. Gildo Insfrán (Formosa) se centró en la participación juvenil, dialogando con referentes estudiantiles para fortalecer la organización y el compromiso de los jóvenes en su comunidad. Leandro Zdero (Chaco) reportó avances en obras de infraestructura vial, enfocándose en el impacto directo en las familias y el comercio local.\n\nClaudio Poggi (San Luis) mostró una intensa actividad local, abarcando desde el apoyo a las fuerzas policiales con ascensos, hasta el fomento de la actividad económica con reuniones con pymes y emprendedores, y la mejora de infraestructuras urbanas como plazas.\n\nNo obstante, Claudio Vidal (Santa Cruz) introdujo un elemento de fuerte tensión política al denunciar que '30 años dándole la espalda a la educación y los chicos' bajo el 'kirchnerismo' reemplazaron 'el mérito y el esfuerzo por el modelo de la dependencia y servidumbre', con consecuencias a nivel nacional. Su tweet enfatiza el cambio de rumbo en Santa Cruz desde 2023 y la colaboración con el sector privado para reparar 'tres décadas de destrucción'. Esta declaración, lejos de la neutralidad, posiciona su gestión en una clara confrontación con el modelo político anterior y resalta una fractura ideológica que permea el debate federal.\n\nMaximiliano Pullaro (Santa Fe) mantuvo su agenda centrada en la seguridad, celebrando una reunión de trabajo en Buenos Aires con sus ministros para planificar y anticipar desafíos provinciales, reforzando la autonomía y la coordinación interna en un tema prioritario para su provincia.\n\nEl conjunto de mensajes evidencia una diversidad en las prioridades, con un fuerte acento en la acción local y regional, pero también una clara señal de confrontación política en algunas jurisdicciones, particularmente en Santa Cruz, lo que sugiere un clima político subyacente de 'TENSO'.",
+    "temas_calientes": [
+        {
+            "tema": "Críticas al legado del 'kirchnerismo' y polarización política",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Integración regional y desarrollo binacional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Gestión de la seguridad provincial",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Salud pública y bienestar social",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@insfran_gildo"
+            ]
+        },
+        {
+            "tema": "Desarrollo económico local e infraestructura",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@LeandroZdero"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Prevención",
+                "Descentralización de Servicios"
+            ],
+            "postura_politica": "Su postura destaca el rol activo del Estado provincial en la garantía de derechos sociales básicos, como la salud. Se enfoca en programas de prevención y acceso a servicios médicos para el interior, demostrando una gestión orientada a resultados concretos y la cercanía con la población.",
+            "frase_fuerte": "La detección temprana puede hacer una enorme diferencia frente al cáncer de mama. Por eso, llevar estos estudios directamente a nuestras localidades significa eliminar distancias y facilitar el acceso a un control fundamental, especialmente para quienes viven lejos de los grandes centros urbanos."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Infraestructura Urbana",
+                "Gestión Local"
+            ],
+            "postura_politica": "El gobernador demuestra un compromiso con la ejecución de obras públicas que impactan directamente en la calidad de vida de los ciudadanos. Sus mensajes resaltan la concreción de proyectos de infraestructura vial a nivel municipal, mostrando una gestión enfocada en respuestas reales desde el gobierno provincial.",
+            "frase_fuerte": "Avanza el último tramo del pavimento urbano que estamos haciendo en Margarita Belén, y son los propios chaqueños quienes cuentan lo que esta obra provincial significa para las familias, comercios e instituciones. Más obras que se hacen realidad desde el Gobierno Provincial. ¡Seguimos!"
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Participación Juvenil",
+                "Educación",
+                "Desarrollo Social"
+            ],
+            "postura_politica": "Reafirma su compromiso con la juventud y la construcción colectiva, promoviendo espacios de organización y participación estudiantil. Su gestión busca fortalecer el protagonismo de los jóvenes en la comunidad educativa y en la provincia.",
+            "frase_fuerte": "En Formosa seguiremos promoviendo y acompañando la organización estudiantil, generando espacios de encuentro y escucha que fortalezcan la participación de las juventudes en cada rincón de nuestro territorio provincial."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Integración Regional",
+                "Desarrollo Energético",
+                "Vaca Muerta",
+                "Relaciones Internacionales"
+            ],
+            "postura_politica": "Proyecta a Neuquén como un polo de desarrollo binacional, enfocado en la energía y la producción a través de la integración con Chile. Destaca el potencial de Vaca Muerta y la logística portuaria, buscando transformar la frontera en una plataforma de crecimiento mutuo.",
+            "frase_fuerte": "Pichachén, Vaca Muerta, energía, producción y los puertos del Biobío nos abren una enorme oportunidad para transformar nuestra frontera en una plataforma de desarrollo para la integración de ambos países."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Seguridad Pública",
+                "Desarrollo Económico Local",
+                "Infraestructura Urbana",
+                "Apoyo a Emprendedores"
+            ],
+            "postura_politica": "Su gestión se caracteriza por la cercanía con la comunidad y el fomento de la actividad económica local, a través de la articulación público-privada. Muestra un fuerte respaldo a las fuerzas de seguridad y un compromiso con la mejora de espacios públicos y el apoyo a emprendedores.",
+            "frase_fuerte": "La articulación 'pública - privada' es el camino para alentar la inversión y empleo !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Críticas a la Gestión Anterior",
+                "Educación",
+                "Colaboración Público-Privada",
+                "Cambio de Rumbo"
+            ],
+            "postura_politica": "Adopta una postura de fuerte confrontación con el 'kirchnerismo', responsabilizándolo por el deterioro educativo y la 'dependencia'. Se posiciona como impulsor de un 'cambio de rumbo' desde 2023, enfatizando la colaboración público-privada para reconstruir la provincia y poner el futuro como prioridad, a pesar de los '30 años de destrucción'.",
+            "frase_fuerte": "30 AÑOS DÁNDOLE LA ESPALDA A LA EDUCACIÓN Y LOS CHICOS. HOY TRABAJAMOS CON EL SECTOR PRIVADO PARA CONSTRUIR FUTURO. En Santa Cruz el kirchnerismo abandonó las escuelas y reemplazó el mérito y el esfuerzo por el modelo de la dependencia y servidumbre, que también trasladó al resto del país."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad Provincial",
+                "Planificación Estratégica"
+            ],
+            "postura_politica": "Prioriza la seguridad en Santa Fe, enfocándose en la planificación y anticipación de desafíos. Su reunión en Buenos Aires con ministros de su gabinete refuerza una estrategia de gestión activa y coordinada para abordar las problemáticas internas de la provincia.",
+            "frase_fuerte": "Planificar, coordinar y anticipar es nuestro método para recuperar la paz y el orden en nuestra provincia"
+        }
+    ]
+}
