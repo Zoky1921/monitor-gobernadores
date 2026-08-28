@@ -1,0 +1,422 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de alta tensión fiscal y política. Buenos Aires, Entre Ríos y Catamarca protagonizan reclamos de recursos y traspaso de obras, mientras La Pampa y Mendoza debaten reforma tributaria federal. Chubut y Santa Cruz escenifican su propia guerra cultural contra el garantismo y el kirchnerismo. El oficialismo nacional no es mencionado por varios gobernadores, lo que sugiere repliegue estratégico o apagón político coordinado.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El día estuvo marcado por una ofensiva coordinada de provincias centrales y federales contra la asfixia fiscal de Nación. Axel Kicillof (Buenos Aires) aprovechó un anuncio de gestión para acusar al Gobierno nacional de negar el cambio climático y paralizar la obra pública, reclamando la devolución del Fondo Hídrico y los ATN. En paralelo, Rogelio Frigerio (Entre Ríos) y Maximiliano Pullaro (Santa Fe) se reunieron con el jefe de Gabinete Diego Santilli para exigir mejoras en la red vial y el régimen de zonas frías, dejando claro que la Región Centro negocia como bloque. El gobernador de Catamarca, Raúl Jalil, mantuvo un perfil dialoguista al recibir a Caputo y Santilli, pero también fue parte de un conversatorio sobre reforma fiscal donde se pidió discutir coparticipación, lo que revela una agenda de fondo: las provincias quieren redefinir el reparto de recursos.\n\nActo 2 — Los Alineamientos: Se configuran dos polos. Por un lado, los gobernadores que buscan acuerdos con Nación sin romper el vínculo: Jalil (Catamarca), Gustavo Sáenz (Salta), Carlos Sadir (Jujuy) y Claudio Poggi (San Luis) mantienen reuniones con funcionarios nacionales o empresarios, priorizando la gestión local. Por otro lado, los que marcan distancia o confrontación directa: Kicillof (Buenos Aires) es el más explícito, pero también se suman Ignacio Torres (Chubut) criticando al 'garantismo berreta' y Claudio Vidal (Santa Cruz) culpando al kirchnerismo del abandono provincial. En el medio, Sergio Ziliotto (La Pampa) y Alfredo Cornejo (Mendoza) participan de debates sobre reforma fiscal, posicionándose como voceros de un federalismo serio y técnico, sin llegar a la ruptura.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas o con baja conflictividad directa con Nación se refugiaron en la agenda local. Gildo Insfrán (Formosa) y Osvaldo Jaldo (Tucumán) optaron por reuniones internas y entrega de viviendas. Leandro Zdero (Chaco) destacó avances en niñez y obra pública, sin mencionar a Nación. Jorge Macri (CABA) se centró en desalojos y gestión de seguridad, con un guiño al electorado PRO. Estos silencios no son neutrales: son una forma de evitar desgastarse en una pelea que no les reporta rédito inmediato, o bien, de negarle oxígeno al relato nacional.\n\nActo 4 — Saldo Presidencial: El Gobierno nacional enfrenta un escenario donde las provincias más grandes y las productivas (Región Centro, Buenos Aires) le exigen respuestas concretas. La reunión de Frigerio, Pullaro y Llaryora con Santilli muestra que la administración busca contener el fuego, pero el reclamo por coparticipación, energía y obras viales es un misil a la línea de flotación del ajuste. El silencio de provincias periféricas no es una victoria, sino una tregua momentánea. Si la Casa Rosada no logra traducir estos encuentros en resultados, la fragmentación del tablero federal podría acelerarse. Por ahora, el capital político presidencial está erosionándose en el diálogo con gobernadores que ya no se conforman con promesas.",
+    "temas_calientes": [
+        {
+            "tema": "Reforma fiscal federal y coparticipación",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Reclamo de obras viales y traspaso de rutas nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@maxipullaro",
+                "@frigeriorogelio",
+                "@MartinLlaryora",
+                "@DrMarceloOrrego",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Conflicto con Nación por fondos hídricos y climáticos",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Crítica al garantismo judicial y al kirchnerismo provincial",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Minería como motor de desarrollo provincial",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@GustavoSaenzOK",
+                "@alfredocornejo",
+                "@DrMarceloOrrego"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "El fenómeno del Súper Niño puede tener manifestaciones muy graves y afectar a gran parte del territorio bonaerense, por eso anunciamos la creación de una mesa interministerial para coordinar al Estado provincial con los 135 municipios, desarrollar planes de contingencia y fortalecer nuestra capacidad de respuesta con una inversión de más de $2,3 billones.\n\nMientras todos los países trabajan para enfrentar estos fenómenos, el Gobierno nacional niega el cambio climático, paraliza la obra pública y elimina herramientas fundamentales para mitigar sus consecuencias.\n\nEn paralelo a la coordinación con los municipios y otras provincias, vamos a seguir reclamando que nos devuelvan los recursos del Fondo Hídrico y los Aportes del Tesoro Nacional que tienen que ser utilizados para realizar las obras necesarias y afrontar situaciones de emergencia.\n\nDesde @BAProvincia vamos a seguir haciendo lo que corresponde: planificar, invertir y trabajar junto a cada municipio para cuidar a los bonaerenses, fortaleciendo las políticas y haciendo las obras que sean necesarias para enfrentar los desafíos que plantea este escenario.",
+        "por_que_es_clave": "Kicillof utiliza un anuncio de gestión para lanzar una andanada directa contra Nación, acusándola de negacionismo climático y de asfixia financiera. No solo reclama fondos, sino que se posiciona como el verdadero gestor frente a un Estado ausente. Es una jugada de doble filo: refuerza su perfil opositor y su candidatura presidencial futura, pero también deja expuesto que sin recursos nacionales la provincia no puede afrontar la emergencia sola.",
+        "pregunta_openarg": "¿Cuánto de la inversión anunciada por Kicillof ($2,3 billones) corresponde realmente a fondos provinciales y cuánto a recursos que debería haber girado Nación pero que no llegaron?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Fenómeno El Niño",
+                "Mesa interministerial",
+                "Reclamo de Fondo Hídrico",
+                "Obra pública",
+                "Crítica al gobierno nacional",
+                "Gestión pública",
+                "Viviendas",
+                "Escrituras",
+                "Desarrollo nacional",
+                "Movimiento MDF",
+                "Deuda provincial",
+                "Seguridad"
+            ],
+            "postura_politica": "Kicillof se consolida como el principal antagonista de Nación. No solo gestiona, sino que politiza cada anuncio para marcar diferencias con Milei. Su mensaje es claro: 'Nación abandona, Provincia responde'. Cada tuit es un ladrillo para su candidatura presidencial.",
+            "frase_fuerte": "Mientras todos los países trabajan para enfrentar estos fenómenos, el Gobierno nacional niega el cambio climático, paraliza la obra pública y elimina herramientas fundamentales para mitigar sus consecuencias."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Gestión PRO",
+                "Seguridad",
+                "Desalojos",
+                "Propiedad privada",
+                "Educación",
+                "Subtes",
+                "Créditos hipotecarios",
+                "Traspaso de competencias"
+            ],
+            "postura_politica": "Macri se mantiene en su carril: gestión PRO pura, sin conflicto con Nación. Los desalojos y la seguridad son su caballito de batalla para marcar perfil y diferenciarse del 'garantismo'. No menciona a Milei, pero su accionar se alinea con el discurso de 'orden' de la Casa Rosada.",
+            "frase_fuerte": "Durante años se instaló la idea de que romper, ensuciar o no cumplir las reglas daba lo mismo. Siempre había un 'otro' que se hacía cargo."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Reforma fiscal",
+                "Coparticipación",
+                "Minería",
+                "Litio",
+                "Energía",
+                "Industria",
+                "Exportaciones",
+                "Relación con Nación",
+                "Obras hídricas",
+                "Turismo",
+                "Cultura"
+            ],
+            "postura_politica": "Jalil juega en la liga de los gobernadores dialoguistas que buscan rédito en la gestión. Participa en foros de reforma fiscal para posicionarse como un federalista serio, pero al mismo tiempo recibe a Caputo y a funcionarios nacionales para no romper lazos. Su agenda es productivista y de bajo conflicto.",
+            "frase_fuerte": "Creo firmemente que la articulación federal es el camino para potenciar la competitividad de nuestras economías y defender los intereses de nuestras provincias."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Niñez",
+                "UNICEF",
+                "Obra pública",
+                "Rutas",
+                "Seguridad",
+                "Ley de Reiterancia",
+                "Cooperación internacional",
+                "Exportaciones",
+                "Educación"
+            ],
+            "postura_politica": "Zdero se enfoca en gestión local y en mostrar resultados concretos, sin mencionar a Nación. El único guiño político es la aprobación de la Ley de Reiterancia, que le permite pegarle al 'garantismo'. Su silencio sobre Nación sugiere que prefiere no desgastarse en una peleta que no controla.",
+            "frase_fuerte": "Se resistieron. No todos, pero a algunos les costó mucho terminar con la puerta giratoria. Intentaron confundir, mintieron y pusieron excusas para seguir del lado de los delincuentes."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Obra hídrica",
+                "Acueducto",
+                "Energía",
+                "Niñez y educación (UNICEF)",
+                "Pavimentación",
+                "Viviendas",
+                "Crítica al garantismo",
+                "Recursos naturales",
+                "Deporte",
+                "Gas natural"
+            ],
+            "postura_politica": "Torres combina gestión con un discurso duro contra la justicia garantista y a favor de los recursos provinciales. Su reclamo sobre Futaleufú es una advertencia a Nación: Chubut no regalará su energía. Es un perfil de gobernador combativo pero con agenda propia.",
+            "frase_fuerte": "Hay que terminar de una vez por todas con el garantismo berreta de un sector de la Justicia que parece estar más preocupado por los delincuentes que por los derechos de los chubutenses de bien."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial",
+                "Educación",
+                "Gas natural",
+                "Salud",
+                "Alivio fiscal",
+                "Reunión Región Centro",
+                "Desarrollo productivo",
+                "Viviendas"
+            ],
+            "postura_politica": "Llaryora se muestra como el gestor incansable de Córdoba. La reunión con Santilli junto a Pullaro y Frigerio confirma que la Región Centro actúa como un lobby coordinado para arrancarle recursos a Nación. Su propuesta de 'Alivio Cordobés' es una jugada de alta política para posicionarse como el gobernador que ayuda a las familias en crisis.",
+            "frase_fuerte": "Un lugar donde no se puede llegar, es un lugar donde es difícil invertir, y cuando hay caminos, infraestructura y condiciones, llegan las inversiones."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Legislatura provincial",
+                "Justicia",
+                "Cultura",
+                "Aniversarios",
+                "Agro",
+                "Policía",
+                "Efemérides"
+            ],
+            "postura_politica": "Valdés mantiene un perfil bajo, de gestión local y agenda institucional. Sin menciones a Nación ni posicionamientos federales. Es un ejemplo de 'refugio en la agenda de cabotaje'.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Reunión Región Centro",
+                "Infraestructura vial",
+                "Puertos",
+                "Turismo",
+                "Salud",
+                "Prevención de El Niño",
+                "Acuerdo con ANSES",
+                "Industria"
+            ],
+            "postura_politica": "Frigerio es el gobernador que asumió la presidencia de la Región Centro y busca convertirla en un bloque de presión. Su reunión con Santilli es la punta de lanza de una estrategia coordinada. Su discurso es técnico y de reclamo institucional, pero con un objetivo claro: más recursos para Entre Ríos.",
+            "frase_fuerte": "Si la Nación y las provincias tiramos para el mismo lado, la Región Centro puede ser protagonista del crecimiento que la Argentina necesita."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Reuniones con estudiantes",
+                "Sindicatos",
+                "Aniversario de San Martín",
+                "Infancias",
+                "Aumento salarial",
+                "Partido Justicialista",
+                "Salud"
+            ],
+            "postura_politica": "Insfrán se mantiene en su territorio: gestión local, encuentros con sindicatos y su partido. No hay mención a Nación ni a la macroeconomía. Es un gobernador que opera en su propio ecosistema, ajeno a la dinámica nacional.",
+            "frase_fuerte": "Es importante la unidad del movimiento obrero organizado y de todo el campo nacional y popular para lograr una Patria con más empleo, producción y bienestar para el pueblo argentino."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Minería",
+                "Litio",
+                "Energía",
+                "Rugby",
+                "ExpoJuy",
+                "Relación con Nación",
+                "Norte Grande",
+                "Control fitosanitario"
+            ],
+            "postura_politica": "Sadir apuesta fuerte a la minería como motor de desarrollo. Su perfil es dialoguista con Nación (recibe a funcionarios), pero firme en la defensa de la producción local (control de bananas). Participa del Norte Grande, pero sin el tono confrontativo de otros gobernadores.",
+            "frase_fuerte": "Como país tenemos la oportunidad de transformar nuestro potencial minero en inversión, crecimiento económico y trabajo para nuestras provincias."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Reforma fiscal",
+                "Coparticipación",
+                "Salud",
+                "Viviendas",
+                "Río Atuel",
+                "Jubilaciones",
+                "Endeudamiento",
+                "El Niño"
+            ],
+            "postura_politica": "Ziliotto se posiciona como un federalista combativo. Su reclamo por el Río Atuel es una causa histórica que lo une con su electorado. Su participación en el conversatorio fiscal demuestra que busca ser protagonista en la discusión de recursos. Crítico de Nación pero con un tono institucional.",
+            "frase_fuerte": "No pedimos privilegios. Exigimos que se cumplan los fallos y que nos devuelvan el río que nos pertenece."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Energía",
+                "Viviendas",
+                "Infraestructura",
+                "Inclusión",
+                "Digitalización",
+                "Deporte",
+                "Aniversario Capital"
+            ],
+            "postura_politica": "Quintela hace gestión local, con entregas de viviendas y obras. No hay menciones a Nación ni a la macroeconomía. Su perfil es de bajo conflicto, enfocado en el territorio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Reforma fiscal",
+                "Minería",
+                "Seguridad",
+                "Reconocimiento facial",
+                "Salud digital",
+                "Infraestructura",
+                "Energía",
+                "Justicia"
+            ],
+            "postura_politica": "Cornejo es el gobernador modernizador. Apuesta a la tecnología y a la minería, con un discurso de orden y gestión. Su participación en el debate fiscal es clave para posicionarse como un referente de una oposición constructiva pero firme. Recibe a inversores y funcionarios nacionales sin conflictos.",
+            "frase_fuerte": "El sector privado necesita un Estado que acompañe, que facilite y que genere condiciones para invertir, producir y generar empleo."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Media sanción IVA mandioca",
+                "Argentina Federal (bloque)",
+                "Salud",
+                "Títulos de propiedad",
+                "Agua potable",
+                "Turismo",
+                "Gestión provincial",
+                "Relación con Nación"
+            ],
+            "postura_politica": "Passalacqua celebra un logro legislativo (reducción de IVA a la mandioca) y la creación del bloque 'Argentina Federal'. Esto lo posiciona como un armador político que busca construir poder legislativo para defender los intereses provinciales. Su tono es de gestión y de construcción de alianzas.",
+            "frase_fuerte": "Cuando todos tiramos para el mismo lado, los resultados llegan."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Planificación provincial",
+                "CAF",
+                "Relaciones internacionales (Chile)",
+                "Indicadores económicos",
+                "Producción industrial",
+                "Neuquén Day",
+                "Becas",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Figueroa proyecta a Neuquén como el motor de la Argentina. Su agenda es internacional y de planificación de largo plazo. No hay conflicto con Nación porque la provincia tiene sus propios recursos. Su perfil es de un gobernador que mira hacia adelante y hacia afuera.",
+            "frase_fuerte": "Estamos convencidos de que si Neuquén crece le va a ir bien a la Argentina, y que uno de los capítulos más importantes de la transformación del país se va a escribir desde nuestra provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Traspaso de rutas nacionales",
+                "Tren del Valle",
+                "Supermercados (crecimiento)",
+                "Turismo",
+                "Salud",
+                "Minería",
+                "Infraestructura",
+                "Relación con Neuquén"
+            ],
+            "postura_politica": "Weretilneck celebra el traspaso de rutas y el tren como una victoria de la gestión. Su discurso es de 'hacerse cargo' de lo que Nación abandonó. Junto a Neuquén, conforma un polo de desarrollo. Su tono es de satisfacción por los logros, sin confrontación directa.",
+            "frase_fuerte": "Dejamos de esperar respuestas y empezamos a construirlas nosotros mismos. Sabemos que falta, pero tenemos un plan y tenemos rumbo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Minería",
+                "Litio",
+                "Aeropuerto",
+                "Expo Rural",
+                "Norte Grande",
+                "Subsidios energéticos",
+                "Viviendas",
+                "Seguridad",
+                "Tracción a sangre"
+            ],
+            "postura_politica": "Sáenz se mueve en la agenda productiva y de reclamo federal. Participa del Norte Grande y exige subsidios energéticos diferenciados. Su perfil es de reclamo institucional pero sin romper con Nación. La inauguración del aeropuerto es un hito de gestión.",
+            "frase_fuerte": "El Norte Grande no pide dádivas ni privilegios. Reclama lo que le corresponde por justicia histórica."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Acuerdo con Vicuña (minería)",
+                "Rutas nacionales",
+                "Relaciones financieras internacionales",
+                "Educación (Pruebas Aprender)",
+                "Minería",
+                "Energía solar",
+                "Límites con La Rioja"
+            ],
+            "postura_politica": "Orrego celebra el acuerdo minero por USD 250 millones como un hito de su gestión. Se muestra como un gobernador que atrae inversiones y defiende el territorio. Su advertencia a Quintela sobre los límites es un gesto de firmeza, pero dentro de la cancha institucional.",
+            "frase_fuerte": "No vamos a permitir que se ponga en duda lo nuestro: el territorio, los recursos, el futuro y símbolos como Ischigualasto."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Viviendas",
+                "Ascensos policiales",
+                "Escrituras",
+                "Obra pública",
+                "Aniversario de San Luis",
+                "Apoyo a emprendedores"
+            ],
+            "postura_politica": "Poggi se enfoca en gestión de seguridad y viviendas, sin mencionar a Nación. Su agenda es localista y de bajo perfil federal. No hay conflicto ni alineamiento explícito.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Represas (fondos liberados)",
+                "Gestión social",
+                "Viviendas",
+                "Crítica al kirchnerismo",
+                "Salud",
+                "Obra pública",
+                "Gas natural",
+                "Producción hidropónica"
+            ],
+            "postura_politica": "Vidal Ser se posiciona como el gestor que termina lo que el kirchnerismo abandonó. Su discurso es de ruptura con el pasado y de eficiencia. La liberación de fondos para represas es su triunfo del día. Es el anti-kirchnerismo en acción.",
+            "frase_fuerte": "30 años dándole la espalda a la educación y los chicos. Hoy trabajamos con el sector privado para construir futuro."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Juegos Panamericanos Jr. 2029",
+                "Obras (muelle, centro salud, velódromo)",
+                "Reunión Región Centro con Santilli",
+                "Retenciones",
+                "Seguridad",
+                "Producción",
+                "Puertos"
+            ],
+            "postura_politica": "Pullaro es el gobernador que combina gestión deportiva con presión política. La sede de los Panamericanos es un logro de imagen, pero la reunión con Santilli es el verdadero termómetro: Santa Fe exige respuestas. Su reclamo por retenciones es una búsqueda de rédito electoral en el interior productivo.",
+            "frase_fuerte": "Nuestra prioridad es y va a ser siempre cuidar el esfuerzo de los santafesinos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Prevención El Niño",
+                "Inauguración de escuelas",
+                "Policía",
+                "Economía provincial",
+                "Salud",
+                "Educación",
+                "Norte Grande",
+                "Acueducto con Catamarca"
+            ],
+            "postura_politica": "Suárez es el gobernador de la gestión silenciosa. Inaugura obras, participa del Norte Grande, pero sin estridencias. Su reclamo por tarifas energéticas diferenciales es un punto de contacto con la agenda regional. No hay conflicto abierto con Nación.",
+            "frase_fuerte": "Ratifico y sostengo que la vanguardia de la educación deben ser los docentes, quienes deben liderar la educación en nuestra provincia."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Medidas de alivio y desendeudamiento",
+                "Banco provincial",
+                "Industria",
+                "Acuicultura",
+                "Energía (usina Ushuaia)",
+                "Turismo"
+            ],
+            "postura_politica": "Melella se enfoca en el alivio para las familias fueguinas y en la obra energética. Su reclamo por la defensa de la industria local es su principal posicionamiento federal. No hay menciones a la Casa Rosada, pero su defensa del empleo industrial es un mensaje implícito.",
+            "frase_fuerte": "La variable de ajuste no puede ser siempre el trabajador."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Reunión con intendentes",
+                "Viviendas (Procrear)",
+                "Obra pública",
+                "Salud",
+                "Justicia",
+                "Seguridad",
+                "Norte Grande",
+                "Educación"
+            ],
+            "postura_politica": "Jaldo mantiene una intensa agenda de gestión local, con reuniones, entrega de viviendas y obras. Su participación en el Norte Grande es para defender los intereses tucumanos. No hay confrontación directa con Nación, pero su reclamo por el gasoducto es una presión soterrada.",
+            "frase_fuerte": "Mientras el Gobierno nacional se retira y deja de lado políticas públicas esenciales, en Tucumán elegimos no abandonar a nuestra gente."
+        }
+    ]
+}
