@@ -1,0 +1,102 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "Los gobernadores concentraron su agenda en la gestión provincial y el fortalecimiento institucional. Se destacaron anuncios sobre infraestructura educativa en Córdoba y mejoras en los indicadores de niñez, salud y educación en Chubut y Chaco, con un claro énfasis en la inversión de recursos propios y los resultados positivos de sus políticas sociales. La finalización de obras urbanas en Santa Fe y el avance judicial y de acuerdos internacionales en Santiago del Estero completaron un panorama de gestión orientada al desarrollo local. Asimismo, el gobernador de Catamarca instó a una reflexión sobre cambios hacia un país más federal, marcando una velada expectativa sobre el rol de la Nación.",
+    "analisis_profundo": "La jornada reflejó una marcada prioridad en la gestión provincial y el logro de objetivos internos, en un contexto donde los gobernadores buscan consolidar sus administraciones. Se observa una tendencia a subrayar la eficacia de la administración de recursos propios y la inversión en áreas clave como educación e infraestructura, en un esfuerzo por demostrar autonomía y resultados tangibles.\n\nEl gobernador @NachoTorresCH (Chubut) presentó un informe contundente de mejora en indicadores de niñez, salud y educación, atribuyendo el éxito a la 'administración con responsabilidad' y al ordenamiento de cuentas, marcando un contraste implícito con gestiones anteriores a las que calificó de 'crisis educativa'. En una línea similar, @LeandroZdero (Chaco) celebró el reconocimiento de @unicefargentina por los avances en niñez y adolescencia, reforzando la narrativa de un progreso social impulsado desde la provincia y consolidando su compromiso con estas áreas.\n\nLa inversión en infraestructura educativa fue un eje central para @MartinLlaryora (Córdoba), quien detalló la construcción de una nueva escuela de formación profesional, enfatizando el compromiso con la igualdad de oportunidades a través de obras y la colaboración con los municipios. Por su parte, @maxipullaro (Santa Fe) destacó la finalización exitosa de la puesta en valor del muelle de La Fluvial en Rosario, un proyecto que simboliza la capacidad de gestión y transformación urbana, y que busca revitalizar un espacio clave para la comunidad.\n\nEn el ámbito judicial e internacional, @EliasSuarezSDE (Santiago del Estero) informó sobre la aprobación de 67 pliegos judiciales y cinco acuerdos internacionales en el Senado provincial, incluyendo tratados de libre comercio y extradición, posicionando a la provincia en una dinámica institucional activa y abierta al exterior. Este enfoque demuestra la capacidad de las provincias para mantener una agenda robusta más allá de las dinámicas nacionales.\n\nFinalmente, @RaulJalil_ok (Catamarca) participó en un encuentro empresarial y planteó la necesidad de 'verdaderos cambios hacia un país más federal'. Aunque la postura es de diálogo y colaboración con organizaciones, la mención implícita de una transformación necesaria en la estructura federal indica una tensión subyacente o una demanda de mayor autonomía y recursos para las provincias. Esta observación, aunque no explícitamente confrontativa, sugiere una agenda federal pendiente de discusión que los gobernadores mantienen en el radar. En conjunto, los tweets dibujan un mapa de provincias enfocadas en la consolidación interna y la búsqueda de su propio camino de desarrollo, con una expectativa latente sobre la configuración del federalismo.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión y Mejora de Indicadores Sociales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Obras Públicas",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento Institucional y Federalismo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Federalismo",
+                "Diálogo Interprovincial",
+                "Desarrollo a Largo Plazo"
+            ],
+            "postura_politica": "Demuestra una postura colaborativa y de búsqueda de consenso a largo plazo para el desarrollo nacional y provincial. Aboga por 'verdaderos cambios hacia un país más federal', sugiriendo la necesidad de una reconfiguración federal.",
+            "frase_fuerte": "reflexionar sobre los verdaderos cambios hacia un país más federal"
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Niñez y Adolescencia",
+                "Políticas Sociales",
+                "Reconocimiento Institucional"
+            ],
+            "postura_politica": "Adopta una postura de celebración por el reconocimiento de UNICEF, proyectando una imagen de gestión eficiente y enfocada en el bienestar social. Refuerza el compromiso de su administración con la infancia.",
+            "frase_fuerte": "@unicefargentina destaca a Chaco como la provincia con el mayor avance en el Índice Provincial de Niñez y adolescencia."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Gestión Provincial",
+                "Educación",
+                "Salud",
+                "Niñez",
+                "Responsabilidad Fiscal"
+            ],
+            "postura_politica": "Presenta una fuerte narrativa de cambio y mejora desde su asunción, contrastando con una 'crisis educativa' previa. Enfatiza el éxito de su administración en el ordenamiento de cuentas y la inversión responsable para mejorar la calidad de vida.",
+            "frase_fuerte": "DE ESTAR ÚLTIMOS EN LOS INDICADORES DE NIÑEZ A SER UNA DE LAS MEJORES PROVINCIAS DEL PAÍS"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura Educativa",
+                "Desarrollo Local",
+                "Oportunidades"
+            ],
+            "postura_politica": "Se enfoca en la concreción de obras de infraestructura educativa como pilar para el desarrollo y la igualdad de oportunidades en la provincia, destacando la colaboración con los municipios.",
+            "frase_fuerte": "FORTALECER LA EDUCACIÓN ES PRIORIDAD"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Desarrollo Urbano",
+                "Gestión Eficiente",
+                "Impacto Social"
+            ],
+            "postura_politica": "Celebra la finalización de una obra emblemática en Rosario, proyectando una imagen de gestión concreta y efectiva que transforma la realidad de la ciudad a través de la planificación y el esfuerzo.",
+            "frase_fuerte": "Hoy este espacio vuelve a mirar al Paraná, y ver a la gente adueñarse otra vez de la costanera es la prueba más clara de que Rosario está cambiando para siempre."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Justicia",
+                "Institucionalidad",
+                "Acuerdos Internacionales",
+                "Fortalecimiento Judicial"
+            ],
+            "postura_politica": "Destaca el compromiso de su gestión con el fortalecimiento de las instituciones judiciales y la proyección internacional de la provincia a través de acuerdos estratégicos. Subraya el normal funcionamiento institucional.",
+            "frase_fuerte": "el Senado aprobó 67 pliegos judiciales, entre ellos la designación de la primera Defensora Pública de Víctima con asiento en Santiago del Estero, y dio media sanción a cinco acuerdos internacionales"
+        }
+    ]
+}
