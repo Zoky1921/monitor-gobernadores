@@ -1,129 +1,129 @@
 {
-    "clima_general": "TENSION",
-    "resumen_ejecutivo": "La jornada muestra a gobernadores de distintos signos políticos refugiados en la gestión local, con obras financiadas con recursos propios. El gesto más fuerte es de Weretilneck (Río Negro), que anuncia la toma de rutas nacionales ante el abandono de Nación. El resto evita confrontar, pero la omisión de la macroeconomía es un mensaje de autonomía forzada.",
-    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante de la jornada es la creciente autonomía provincial frente al repliegue del Estado nacional. El tweet de Alberto Weretilneck (Río Negro) es la señal más clara: después de décadas de reclamos, su provincia asumirá la gestión de las rutas 22 y 151 y del Tren del Valle. No es un pedido, es una decisión unilateral que expone la fatiga de esperar respuestas de la Casa Rosada. El lenguaje es quirúrgico: 'dejamos de esperar respuestas y empezamos a construirlas nosotros mismos'. Es un acto de soberanía administrativa que otros gobernadores replican en sordina.\n\nActo 2 — Los Alineamientos: Los socios estratégicos del oficialismo nacional (Jorge Macri en CABA, Alfredo Cornejo en Mendoza, Maximiliano Pullaro en Santa Fe) optan por la agenda de gestión pura: viviendas, prevención climática, urbanismo. No mencionan a Nación, pero tampoco la atacan. Es una ambigüedad calculada: muestran eficiencia sin confrontar. En la vereda peronista, Martín Llaryora (Córdoba) y Osvaldo Jaldo (Tucumán) también se refugian en lo local, aunque Jaldo insinúa que 'mientras el Gobierno nacional se retira, en Tucumán sostenemos la obra pública'. Es un dardo velado. Rolo Figueroa (Neuquén) se posiciona como el gran ganador de la jornada: su provincia es sede de un evento de CAF y avanza en rutas con YPF, mostrando que Vaca Muerta le da espalda financiera.\n\nActo 3 — La Micro-política: Leandro Zdero (Chaco) y Osvaldo Jaldo (Tucumán) son los exponentes de la gestión de cabotaje con recursos propios. Zdero pavimenta en Barranqueras después de 'medio siglo de espera' y lo hace con fondos provinciales. Es un mensaje doble: 'nosotros hacemos lo que Nación no hizo'. En el mismo sentido, Jaldo entrega viviendas en Monteros y destaca que la obra se financia con recursos provinciales. Son gestos de supervivencia política en provincias periféricas que necesitan mostrar resultados para no perder capital electoral.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es un termómetro de desgaste. Ningún gobernador la defiende explícitamente, pero tampoco la ataca de frente. El silencio sobre la macroeconomía es ensordecedor: ni una mención a la inflación, al ajuste o a la coparticipación. Es un repliegue táctico de los mandatarios, que prefieren mostrar obras a discutir números. El capital político de Milei no se fortalece ni se debilita en el día, pero la tendencia es clara: los gobernadores se están acostumbrando a gobernar sin Nación.",
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de gestión local sin confrontación directa con Nación. Gobernadores de provincias centrales y periféricas se enfocan en obra pública, vivienda y prevención climática, evitando posicionamientos fiscales o críticas abiertas. El silencio sobre la macroeconomía sugiere repliegue estratégico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada transcurre sin tensiones fiscales ni institucionales visibles. Los gobernadores optan por una agenda de cabotaje, priorizando anuncios de obra pública y gestión local. La omisión de la macroeconomía es un mensaje en sí mismo: en un contexto de ajuste nacional, mostrar gestión propia es una forma de marcar autonomía y supervivencia política.\n\nActo 2 — Los Alineamientos: No se observan alineamientos explícitos con Nación ni bloques opositores coordinados. Cada gobernador opera en su territorio, sin articular mensajes comunes. La excepción es Jorge Macri (CABA), que retuitea el plan de acción de la Ciudad ante El Niño, contrastando con la narrativa de abandono nacional que otros gobernadores (como Kicillof) suelen utilizar. Sin embargo, Macri evita mencionar a Nación, manteniendo un perfil técnico.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Zdero, Jaldo) y centrales (Llaryora, Cornejo, Figueroa, Weretilneck, Pullaro) se concentran en obras locales: pavimento, viviendas, cultura, rutas. Weretilneck destaca al anunciar la asunción de rutas nacionales, un movimiento que reivindica la capacidad provincial frente al abandono histórico de Nación. Figueroa posiciona a Neuquén como polo de inversión con la visita de CAF. Cornejo subraya que Mendoza sigue construyendo viviendas pese al contexto adverso.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable en términos de ausencia de críticas directas. Sin embargo, la proliferación de anuncios de obra pública provincial refuerza la percepción de que las provincias se hacen cargo de lo que Nación no resuelve. El silencio de los gobernadores no es pasividad, sino una estrategia de desgaste: dejan que la gestión hable por sí misma, mientras esperan el momento de cobrar políticamente.",
     "temas_calientes": [
         {
-            "tema": "Autonomía provincial en infraestructura vial",
-            "gobernadores_involucrados": [
-                "@WeretilneckOK",
-                "@LeandroZdero",
-                "@Rolo_Figueroa"
-            ]
-        },
-        {
-            "tema": "Gestión de vivienda social con recursos propios",
-            "gobernadores_involucrados": [
-                "@alfredocornejo",
-                "@OsvaldoJaldo",
-                "@maxipullaro"
-            ]
-        },
-        {
-            "tema": "Prevención ante fenómenos climáticos",
+            "tema": "Prevención ante el fenómeno El Niño",
             "gobernadores_involucrados": [
                 "@jorgemacri"
             ]
         },
         {
-            "tema": "Cultura comunitaria e inclusión",
+            "tema": "Obra pública provincial con recursos propios",
             "gobernadores_involucrados": [
-                "@MartinLlaryora"
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
             ]
         },
         {
-            "tema": "Inversiones y desarrollo regional",
+            "tema": "Vivienda social como política de Estado",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Infraestructura vial estratégica",
             "gobernadores_involucrados": [
                 "@Rolo_Figueroa",
-                "@WeretilneckOK"
+                "@WeretilneckOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Confianza internacional en provincias",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
             ]
         }
     ],
     "tweet_destacado": {
-        "usuario": "@WeretilneckOK",
+        "usuario": "@WeretilneckOK (RT de @Weretilneck)",
         "texto": "UNA DECISIÓN DE ESTA MAGNITUD EXIGE TRANSPARENCIA, DIÁLOGO Y CONSENSO\n\nHoy nos reunimos en Cipolletti con intendentes e intendentas de las localidades atravesadas por las rutas 22 y 151 para explicar, con absoluta claridad, cómo será el proceso para que Río Negro asuma progresivamente estas rutas y la operación del Tren del Valle.\n\nAntes de hablar de obras, plazos o financiamiento, rendimos homenaje a las más de 200 personas que perdieron la vida en estas rutas durante los últimos años. Detrás de cada número hay una persona, una familia y una historia que quedó truncada. Ellos también explican por qué decidimos hacernos cargo.\n\nQueremos hacer las cosas bien. Por eso cada paso tiene que ser conocido, explicado y construido con acuerdos. No vamos a decidir desde un escritorio ni de espaldas a las comunidades. Las prioridades tienen que surgir del trabajo conjunto entre la Provincia, los municipios, los trabajadores, el sector productivo y quienes viven todos los días esta realidad.",
-        "por_que_es_clave": "Weretilneck no solo anuncia la toma de rutas nacionales, sino que lo hace con un discurso de transparencia y homenaje a las víctimas, lo que refuerza la idea de que Nación abandonó su responsabilidad. Es un golpe de efecto político que posiciona a Río Negro como gestora eficiente frente a un Estado nacional ausente.",
-        "pregunta_openarg": "¿Cuánto tiempo puede sostenerse el modelo de provincias que financian obras sin coparticipación adicional, y qué pasará cuando los recursos propios se agoten?"
+        "por_que_es_clave": "Weretilneck formaliza la asunción de rutas nacionales, un movimiento que transfiere poder de Nación a la provincia y expone décadas de abandono federal. La mención a las 200 víctimas es un recordatorio político de la deuda nacional.",
+        "pregunta_openarg": "¿Hasta qué punto la asunción de rutas nacionales por parte de las provincias es una solución o una muestra del fracaso del federalismo fiscal?"
     },
     "analisis_por_gobernador": [
         {
             "gobernador": "@jorgemacri (CABA)",
             "temas_mencionados": [
                 "Prevención climática",
-                "Plan de Acción ante El Niño"
+                "Gestión local"
             ],
-            "postura_politica": "Muestra gestión proactiva sin mencionar a Nación. Es un gesto de eficiencia que contrasta con las críticas de otros gobernadores sobre el abandono nacional. Se posiciona como un administrador ordenado, en línea con el discurso PRO.",
-            "frase_fuerte": "El Gobierno de la Ciudad activa un Plan de Acción para anticiparse a los escenarios que pueda generar un fenómeno climático como el Súper Niño."
+            "postura_politica": "Macri retuitea el plan de acción de la Ciudad ante El Niño, mostrando eficiencia técnica y contrastando con la narrativa de abandono nacional que otros gobernadores usan. Evita mencionar a Nación, manteniendo un perfil de gestión autónoma.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@LeandroZdero (Chaco)",
             "temas_mencionados": [
-                "Obra pública provincial",
-                "Pavimentación",
-                "Apoyo a productores"
+                "Obra pública",
+                "Pavimento",
+                "Pequeños productores"
             ],
-            "postura_politica": "Enfatiza que la obra se hace 'con recursos propios de la provincia', un mensaje implícito de que Nación no aporta. Se muestra como gestor eficiente en un contexto de restricciones.",
-            "frase_fuerte": "Medio siglo de espera que empieza a quedar atrás en Barranqueras. Con recursos propios de la provincia, avanzamos en la etapa final del pavimento sobre la Av. Las Piedras."
+            "postura_politica": "Zdero destaca obras con recursos provinciales, subrayando la capacidad de gestión propia. La frase 'medio siglo de espera' implica crítica implícita a gestiones anteriores, pero sin atacar a Nación directamente.",
+            "frase_fuerte": "Medio siglo de espera que empieza a quedar atrás en Barranqueras."
         },
         {
             "gobernador": "@MartinLlaryora (Córdoba)",
             "temas_mencionados": [
                 "Cultura comunitaria",
-                "Inclusión",
-                "Apoyo a organizaciones"
+                "Inversión social"
             ],
-            "postura_politica": "Agenda local sin impacto federal. Se refugia en la gestión cultural y social, evitando cualquier roce con Nación. Es un gesto de neutralidad calculada.",
-            "frase_fuerte": "La cultura es el pan del alma! Vivimos un hermoso tarde junto a diferentes organizaciones del Encuentro de Cultura Comunitaria #Córdoba."
+            "postura_politica": "Llaryora apoya espacios culturales con refuerzo económico, mostrando un Estado presente en áreas no esenciales. Es una jugada de perfil bajo, sin confrontación.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@alfredocornejo (Mendoza)",
             "temas_mencionados": [
                 "Vivienda social",
-                "Urbanización"
+                "Obra pública"
             ],
-            "postura_politica": "Gestión local de vivienda. No hay mención a Nación. Se posiciona como un gobernador que cumple con obras, sin confrontación.",
-            "frase_fuerte": "50 familias de Luján de Cuyo recibieron las llaves de su casa propia a través del programa IPV Mi Casa."
+            "postura_politica": "Cornejo subraya que Mendoza sigue construyendo viviendas pese al contexto nacional adverso, posicionándose como excepción y marcando distancia de la parálisis nacional.",
+            "frase_fuerte": "Mendoza es de las pocas provincias que continúan construyendo viviendas sociales."
         },
         {
             "gobernador": "@Rolo_Figueroa (Neuquén)",
             "temas_mencionados": [
-                "Inversiones",
+                "Inversión internacional",
                 "Infraestructura vial",
-                "Desarrollo regional"
+                "Desarrollo provincial"
             ],
-            "postura_politica": "Muestra a Neuquén como polo de desarrollo, con CAF eligiendo la provincia y avances en rutas con YPF. Es un mensaje de fortaleza económica y autonomía, sin necesidad de confrontar con Nación.",
-            "frase_fuerte": "CAF eligió Neuquén para celebrar 25 años de vínculo con la Argentina."
+            "postura_politica": "Figueroa aprovecha la visita de CAF para posicionar a Neuquén como polo de desarrollo y confianza internacional. La obra de la Ruta 7 refuerza la narrativa de crecimiento autónomo.",
+            "frase_fuerte": "En poco tiempo, la provincia contará con más de 1000 km de rutas nuevas en construcción."
         },
         {
             "gobernador": "@WeretilneckOK (Río Negro)",
             "temas_mencionados": [
                 "Rutas nacionales",
                 "Tren del Valle",
-                "Autonomía provincial",
-                "Seguridad vial"
+                "Gestión provincial"
             ],
-            "postura_politica": "El más confrontativo de la jornada. Anuncia que Río Negro asume rutas nacionales ante el abandono de Nación. Es un acto de soberanía administrativa que busca capitalizar el hartazgo ciudadano y posicionarse como gestor eficiente.",
-            "frase_fuerte": "No vamos a decidir desde un escritorio ni de espaldas a las comunidades."
+            "postura_politica": "Weretilneck anuncia la asunción de rutas nacionales, un movimiento de poder que expone el abandono de Nación y reivindica la capacidad provincial. El homenaje a las víctimas es un golpe político calculado.",
+            "frase_fuerte": "Antes de hablar de obras, plazos o financiamiento, rendimos homenaje a las más de 200 personas que perdieron la vida en estas rutas."
         },
         {
             "gobernador": "@maxipullaro (Santa Fe)",
             "temas_mencionados": [
-                "Urbanismo",
                 "Obra pública",
-                "Integración barrial"
+                "Urbanismo"
             ],
-            "postura_politica": "Gestión local sin referencias nacionales. Se muestra como un gobernador que transforma la ciudad con obras concretas, en línea con su perfil de gestión.",
-            "frase_fuerte": "Vamos a transformar el barrio Centenario de Santa Fe."
+            "postura_politica": "Pullaro anuncia la extensión de un bulevar, una obra local que mejora la conectividad. Sin confrontación, refuerza la imagen de gestión eficiente.",
+            "frase_fuerte": "primer paso histórico para la futura Costanera del Salado."
         },
         {
             "gobernador": "@OsvaldoJaldo (Tucumán)",
             "temas_mencionados": [
                 "Vivienda social",
-                "Aniversario local",
-                "Gestión provincial"
+                "Aniversario local"
             ],
-            "postura_politica": "Entrega viviendas con inversión provincial. No menciona a Nación, pero el contexto de ajuste nacional hace que el mensaje implícito sea de autosuficiencia. Se refugia en la agenda local.",
-            "frase_fuerte": "Con una inversión provincial superior a los $2.500 millones, construimos viviendas completas y cumplimos el plazo previsto de 12 meses."
+            "postura_politica": "Jaldo entrega viviendas en el marco de un aniversario, combinando gestión social con celebración local. Sin mención a Nación, mantiene perfil bajo.",
+            "frase_fuerte": null
         }
     ]
 }

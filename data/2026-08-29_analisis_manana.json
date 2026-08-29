@@ -1,52 +1,48 @@
 {
-    "clima_general": "MODERADO",
-    "resumen_ejecutivo": "La jornada federal se caracterizó por un marcado énfasis en la gestión provincial y la obra pública, con gobernadores anunciando inversiones en infraestructura vial, redes de gas, viviendas sociales y programas culturales. Destaca la proactividad de las provincias para asumir responsabilidades y asegurar financiamiento, incluso para proyectos antes de órbita nacional o con apoyo de organismos internacionales. La tónica general es de reafirmación de la autonomía y capacidad de resolución local frente a los desafíos, con un fuerte foco en la mejora de la calidad de vida y el desarrollo productivo en sus territorios. No se observan fricciones directas con el Gobierno nacional en los mensajes relevantes, sino un perfil de gestión pragmática.",
-    "analisis_profundo": "El análisis de los mensajes de los gobernadores en las últimas horas revela una agenda federal dominada por la acción y la inversión en el ámbito provincial, con un claro compromiso con la gestión de cercanía y la resolución de problemas estructurales. El gobernador Jorge Macri (Ciudad Autónoma de Buenos Aires) destaca la activación de un plan proactivo de acción ante el fenómeno 'Súper Niño', mostrando una preocupación por la prevención y la coordinación inter-áreas en la gestión de emergencias, una postura preventiva ante desafíos climáticos. Leandro Zdero (Chaco) subraya el avance en obras de pavimentación con recursos propios, enfatizando la finalización de proyectos largamente esperados y el apoyo directo a pequeños productores, una clara señal de autonomía y foco en el desarrollo económico local. Martín Llaryora (Córdoba) refuerza su compromiso con la cultura comunitaria y la inclusión social a través de inversiones económicas en espacios artísticos, conectando el arte con la transformación de realidades y la generación de oportunidades para jóvenes. Por su parte, Alfredo Cornejo (Mendoza) destaca la entrega de viviendas sociales, posicionando a Mendoza (Mendoza) como una de las pocas provincias que mantiene este tipo de inversión en un contexto complejo. Rolando Figueroa (Neuquén) celebra el reconocimiento internacional de la CAF, que eligió a Neuquén (Neuquén) para conmemorar 25 años de vínculo con Argentina, y anuncia la continuidad de obras viales estratégicas, señalando el fuerte posicionamiento de la provincia como polo de desarrollo y socio confiable. Alberto Weretilneck (Río Negro) exhibe una intensa actividad, informando sobre la asunción de rutas nacionales y el Tren del Valle, licitaciones de gas natural en varias localidades, obras de infraestructura en Bariloche, y un significativo financiamiento internacional para el proyecto de GNL en su provincia. Este despliegue refleja una estrategia de recuperación de la capacidad de gestión provincial y un fuerte dinamismo en la atracción de inversiones. Maximiliano Pullaro (Santa Fe) anuncia la transformación de un barrio céntrico, con obras de urbanización que buscan integrar y mejorar la accesibilidad, mientras Osvaldo Jaldo (Tucumán) celebra la entrega de viviendas sociales, destacando la inversión y el cumplimiento de plazos con recursos provinciales. En conjunto, la jornada muestra a los gobernadores volcados a una agenda de gestión pragmática, con una fuerte impronta de liderazgo provincial en la ejecución de obras y programas que buscan mejorar directamente la calidad de vida de sus ciudadanos, a menudo con recursos y decisiones autónomas, y en algunos casos, con la búsqueda activa de financiamiento internacional.",
+    "clima_general": "CONSTRUCTIVO",
+    "resumen_ejecutivo": "La agenda de los gobernadores en las últimas horas de ayer y la madrugada de hoy se centró en la gestión local y la concreción de obras. Jorge Macri (CABA) se focalizó en la prevención ante el 'Súper Niño'. Leandro Zdero (Chaco) y Maximiliano Pullaro (Santa Fe) destacaron proyectos viales y apoyo a la producción. Martín Llaryora (Córdoba) invirtió en cultura comunitaria. Alfredo Cornejo (Mendoza) y Osvaldo Jaldo (Tucumán) entregaron viviendas. Sobresale Alberto Weretilneck (Río Negro) con múltiples anuncios de infraestructura, incluyendo la asunción de rutas nacionales y grandes inversiones en gas natural licuado (GNL). Rolando Figueroa (Neuquén) también enfatizó obras viales y alianzas de financiamiento, consolidando una narrativa de proactividad provincial y búsqueda de soluciones estratégicas.",
+    "analisis_profundo": "La actividad de los gobernadores en la ventana temporal de análisis revela un fuerte compromiso con la gestión provincial, priorizando la ejecución de obras de infraestructura y programas sociales. Se observa una marcada inclinación hacia la resolución de problemas locales con recursos y capacidad propia, o a través de alianzas estratégicas. Jorge Macri (Ciudad Autónoma de Buenos Aires) comunica la activación de un plan de acción para anticipar el impacto del fenómeno del 'Súper Niño', mostrando una gestión preventiva en la capital. Leandro Zdero (Chaco) subraya la finalización de pavimentación con fondos provinciales y el apoyo directo a pequeños productores, enfocándose en el desarrollo económico territorial. Martín Llaryora (Córdoba) refuerza el sector cultural comunitario con aportes económicos, destacando el valor de la cultura como herramienta de inclusión. Alfredo Cornejo (Mendoza) continúa con la entrega de viviendas, una política habitacional sostenida en un contexto complejo. Osvaldo Jaldo (Tucumán) también celebra la entrega de hogares, resaltando el compromiso con las familias en los aniversarios municipales.\n\nEl gobernador Alberto Weretilneck (Río Negro) despliega una ambiciosa agenda, anunciando la asunción progresiva de las rutas nacionales 22 y 151, la operación del Tren del Valle, importantes obras de gas natural para cientos de familias, la ampliación de cloacas en El Bolsón y un 'Banco de Desafíos' para la innovación. Su comunicación resalta la concreción del proyecto de GNL con una inversión de USD 900 millones, posicionando a Río Negro como un actor clave en la transformación energética. Rolando Figueroa (Neuquén) también se enfoca en la infraestructura vial, destacando el inicio de un nuevo tramo de la Ruta 7 y la importancia de la relación con la CAF para el desarrollo. Maximiliano Pullaro (Santa Fe) anuncia una transformación urbana significativa con la extensión del bulevar Tacca. La tónica general es de gobernadores que se hacen cargo, planifican y ejecutan, buscando fortalecer el desarrollo productivo y la calidad de vida en sus provincias.",
     "temas_calientes": [
         {
-            "tema": "Obra Pública y Vivienda Social: Inversión en infraestructura clave (vialidad, servicios, urbanización) y entrega de viviendas, destacando la gestión y financiación provincial.",
+            "tema": "Infraestructura Vial y Urbana",
             "gobernadores_involucrados": [
                 "@LeandroZdero",
-                "@MartinLlaryora",
-                "@alfredocornejo",
                 "@Rolo_Figueroa",
                 "@WeretilneckOK",
-                "@maxipullaro",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Vivienda Social y Calidad de Vida",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
                 "@OsvaldoJaldo"
             ]
         },
         {
-            "tema": "Desarrollo Productivo y Social: Apoyo a sectores económicos, fomento de la cultura comunitaria y programas de inclusión, buscando mejorar el bienestar general.",
+            "tema": "Desarrollo Energético y Servicios Básicos",
             "gobernadores_involucrados": [
-                "@LeandroZdero",
-                "@MartinLlaryora",
                 "@WeretilneckOK"
             ]
         },
         {
-            "tema": "Consolidación de la Autonomía y Capacidad de Gestión Provincial: Toma de control sobre servicios e infraestructuras estratégicas, obtención de financiamiento externo y planificación a largo plazo.",
+            "tema": "Financiamiento y Alianzas Estratégicas",
             "gobernadores_involucrados": [
                 "@Rolo_Figueroa",
                 "@WeretilneckOK"
             ]
         },
         {
-            "tema": "Prevención y Gestión de Riesgos Climáticos: Planificación para eventos como el 'Súper Niño', evidenciando una preocupación latente por la adaptación.",
+            "tema": "Prevención y Gestión Ambiental",
             "gobernadores_involucrados": [
                 "@jorgemacri"
-            ]
-        },
-        {
-            "tema": "Transparencia y Eficiencia en la Administración Pública: Rendición de cuentas y uso responsable de los recursos para garantizar el cumplimiento de compromisos y la previsibilidad.",
-            "gobernadores_involucrados": [
-                "@WeretilneckOK"
             ]
         }
     ],
     "tweet_destacado": {
         "usuario": "@Rolo_Figueroa (RT de @chrisasinelli)",
         "texto": "CAF eligió Neuquén para celebrar 25 años de vínculo con la Argentina",
-        "por_que_es_clave": "Este tweet destaca el reconocimiento internacional a la gestión provincial y su capacidad para atraer inversiones, consolidando a Neuquén (Neuquén) como un actor clave en el desarrollo federal y en la articulación con organismos multilaterales, evidenciando una visión estratégica a largo plazo para la provincia.",
+        "por_que_es_clave": "Este posteo, el único publicado hoy, destaca la capacidad de la provincia de Neuquén para atraer eventos de organismos internacionales de financiamiento, subrayando su rol como polo de desarrollo estratégico y socio confiable para inversiones que impulsan el progreso regional.",
         "pregunta_openarg": null,
         "verificacion_openarg": null
     },
@@ -54,96 +50,77 @@
         {
             "gobernador": "@jorgemacri",
             "temas_mencionados": [
-                "Prevención Fenómeno El Niño",
-                "Gestión de Emergencias",
-                "Coordinación inter-áreas",
-                "Monitoreo en tiempo real"
+                "Prevención de desastres naturales",
+                "Coordinación de emergencias"
             ],
-            "postura_politica": "Su postura es proactiva y preventiva, enfocada en la gestión coordinada y la anticipación ante posibles eventos climáticos. Destaca el esfuerzo de la Ciudad (Ciudad Autónoma de Buenos Aires) en la planificación de respuestas frente a escenarios complejos.",
+            "postura_politica": "Demuestra una gestión proactiva y organizada en la Ciudad Autónoma de Buenos Aires, priorizando la seguridad y la salud de los ciudadanos ante el posible impacto del fenómeno 'El Niño' mediante un plan integral de acción.",
             "frase_fuerte": "El Gobierno de la Ciudad activa un Plan de Acción para anticiparse a los escenarios que pueda generar un fenómeno climático como el Súper Niño."
         },
         {
             "gobernador": "@LeandroZdero",
             "temas_mencionados": [
-                "Obra Pública (pavimentación)",
-                "Inversión provincial",
-                "Mejora de infraestructura local",
-                "Apoyo a pequeños productores",
-                "Desarrollo económico local"
+                "Infraestructura vial",
+                "Apoyo a pequeños productores"
             ],
-            "postura_politica": "Se enfoca en la gestión local, el cumplimiento de promesas de infraestructura con recursos propios y el apoyo directo a los sectores productivos. Su mensaje resalta una administración eficiente y cercana a las necesidades de los chaqueños (Chaco).",
-            "frase_fuerte": "Acompañar sin intermediarios y codo a codo a los pequeños productores es la mejor forma de respaldar su esfuerzo diario."
+            "postura_politica": "Enfocado en la concreción de obras con recursos propios en Chaco y en el respaldo directo a los pequeños productores, su gestión busca fortalecer el desarrollo local y mejorar la calidad de vida a través de acciones concretas.",
+            "frase_fuerte": "Medio siglo de espera que empieza a quedar atrás en Barranqueras. Con recursos propios de la provincia, avanzamos en la etapa final del pavimento sobre la Av. Las Piedras."
         },
         {
             "gobernador": "@MartinLlaryora",
             "temas_mencionados": [
-                "Cultura Comunitaria",
-                "Inversión en Cultura",
-                "Inclusión Social",
-                "Desarrollo Juvenil"
+                "Cultura comunitaria",
+                "Inclusión social"
             ],
-            "postura_politica": "Promueve la cultura como herramienta de inclusión y transformación social, destinando recursos económicos para fortalecer organizaciones de base. Su gestión prioriza el desarrollo juvenil y comunitario a través del arte en Córdoba (Córdoba).",
+            "postura_politica": "Impulsa la cultura en Córdoba como una herramienta transformadora y de inclusión, asignando recursos para fortalecer espacios comunitarios y talentos locales, reafirmando el compromiso provincial con el desarrollo social.",
             "frase_fuerte": "El arte y la cultura son herramientas de #inclusión que transforman realidades, generan oportunidades y fortalecen a nuestras comunidades."
         },
         {
             "gobernador": "@alfredocornejo",
             "temas_mencionados": [
-                "Vivienda Social",
-                "Obra Pública",
-                "Contexto económico complejo",
-                "Continuidad de políticas públicas"
+                "Vivienda social",
+                "Urbanización"
             ],
-            "postura_politica": "Demuestra un fuerte compromiso con la política de vivienda social, resaltando que Mendoza (Mendoza) mantiene la construcción de hogares propios a pesar de un contexto económico adverso. Enfatiza la continuidad de estas políticas como una aspiración clave de las familias.",
+            "postura_politica": "Mantiene una política activa de vivienda en Mendoza, entregando hogares y destacando la continuidad de programas habitacionales incluso en un 'contexto complejo', lo que subraya un enfoque en la estabilidad y el cumplimiento de promesas.",
             "frase_fuerte": "En un contexto complejo, Mendoza es de las pocas provincias que continúan construyendo viviendas sociales."
         },
         {
             "gobernador": "@Rolo_Figueroa",
             "temas_mencionados": [
-                "Financiamiento internacional (CAF)",
-                "Reconocimiento provincial",
-                "Relaciones internacionales",
-                "Obra Pública (infraestructura vial)",
-                "Desarrollo regional",
-                "Inversión en rutas"
+                "Infraestructura vial",
+                "Desarrollo productivo",
+                "Financiamiento internacional"
             ],
-            "postura_politica": "Se posiciona como un líder que logra atraer reconocimiento y financiamiento internacional para Neuquén (Neuquén), consolidando su provincia como un polo de desarrollo. Muestra una gestión enfocada en obras de infraestructura clave para la conectividad y el futuro regional, proyectando un crecimiento significativo.",
-            "frase_fuerte": "En poco tiempo, la provincia contará con más de 1000 km de rutas nuevas en construcción."
+            "postura_politica": "Proyecta una visión de transformación para Neuquén, priorizando obras de infraestructura vial y la búsqueda de alianzas estratégicas con organismos como CAF para impulsar un crecimiento a largo plazo y preparar la provincia para el futuro.",
+            "frase_fuerte": "COMIENZA EL SEGUNDO TRAMO DE LA RUTA 7 EN CORTADERAS"
         },
         {
             "gobernador": "@WeretilneckOK",
             "temas_mencionados": [
                 "Infraestructura vial",
-                "Tren del Valle",
-                "Obras de gas natural",
-                "Urbanización",
-                "Gestión de financiamiento internacional",
-                "Energía (GNL)",
-                "Desarrollo del conocimiento",
-                "Pago de sueldos"
+                "Servicios básicos (gas, cloacas)",
+                "Desarrollo energético (GNL)",
+                "Asunción de responsabilidades nacionales"
             ],
-            "postura_politica": "Su gestión en Río Negro (Río Negro) se caracteriza por un control activo sobre infraestructuras y servicios antes nacionales, la búsqueda y obtención de financiamiento externo (CAF, FONPLATA) para obras estratégicas, y un fuerte enfoque en la modernización y desarrollo. Transmite un mensaje de 'rumbo' y 'trabajo en marcha' para enfrentar desafíos y garantizar la previsibilidad, incluyendo el pago de salarios estatales.",
+            "postura_politica": "Demuestra un liderazgo en Río Negro al asumir el control de rutas nacionales y servicios ferroviarios, además de impulsar grandes proyectos energéticos con financiamiento internacional. Su discurso enfatiza la transparencia y la resolución de problemas históricos con una gestión proactiva.",
             "frase_fuerte": "USD 900 MILLONES PARA HACER REALIDAD EL GNL EN RÍO NEGRO"
         },
         {
             "gobernador": "@maxipullaro",
             "temas_mencionados": [
-                "Obra Pública (urbanización, vialidad)",
-                "Desarrollo Urbano",
-                "Integración barrial"
+                "Desarrollo urbano",
+                "Infraestructura vial"
             ],
-            "postura_politica": "Prioriza la gestión de obra pública urbana con un enfoque en la transformación de barrios y la mejora de la calidad de vida de los vecinos. Demuestra coordinación con los municipios para el desarrollo de proyectos de infraestructura en Santa Fe (Santa Fe).",
-            "frase_fuerte": "Esta obra le va a cambiar la vida a todo este sector de la ciudad, integrando los barrios y mejorando la accesibilidad de los vecinos 💪🏽"
+            "postura_politica": "Enfocado en la transformación urbana de Santa Fe, anuncia obras significativas que buscan integrar barrios y mejorar la conectividad, reflejando un compromiso con el desarrollo de la capital provincial y la calidad de vida de sus habitantes.",
+            "frase_fuerte": "Vamos a transformar el barrio Centenario de Santa Fe. Junto al municipio, anunciamos la extensión del bulevar Tacca hasta la rotonda frente al Fonavi San Jerónimo, dando el primer paso histórico para la futura Costanera del Salado."
         },
         {
             "gobernador": "@OsvaldoJaldo",
             "temas_mencionados": [
-                "Vivienda Social",
-                "Obra Pública",
-                "Inversión provincial",
-                "Desarrollo local"
+                "Vivienda social",
+                "Desarrollo urbano"
             ],
-            "postura_politica": "Muestra un fuerte compromiso con la entrega de viviendas sociales, destacando la inversión y el cumplimiento de plazos con recursos provinciales. Reafirma una gestión enfocada en resolver las necesidades básicas y el bienestar de los tucumanos (Tucumán).",
-            "frase_fuerte": "Con una inversión provincial superior a los $2.500 millones, construimos viviendas completas y cumplimos el plazo previsto de 12 meses."
+            "postura_politica": "Celebra la entrega de viviendas en Tucumán como un logro de justicia social, reafirmando el compromiso provincial con la política habitacional y la colaboración con los municipios para concretar proyectos que mejoran la vida de las familias.",
+            "frase_fuerte": "compartimos la alegría inmensa de 24 familias a las que entregamos las llaves de sus nuevos hogares."
         }
     ]
 }
