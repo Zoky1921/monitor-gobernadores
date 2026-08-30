@@ -1,0 +1,149 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Solo una decena de gobernadores tuiteó en la ventana horaria, mayormente con mensajes de gestión local o saludos protocolares. La excepción es Sergio Ziliotto (La Pampa), quien confrontó explícitamente el ajuste nacional al defender la inversión pública. El resto evita posicionamientos federales, reflejando una jornada de repliegue estratégico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada carece de un eje fiscal o institucional dominante. El único destello de tensión proviene de La Pampa, donde Sergio Ziliotto aprovechó el aniversario de la policía provincial para contraponer el modelo de 'Estado presente' local al 'achique' que pregona Nación. Es una crítica oblicua, sin mencionar a Milei por su nombre, pero que deja clara la fractura entre las provincias que sostienen el gasto social y la Casa Rosada. \n\nActo 2 — Los Alineamientos: Los gobernadores que hablaron se alinean en dos grupos: los que exhiben orgullo provincial (Neuquén con sus exportaciones, Chaco con obras escolares, Jujuy con un evento deportivo) sin rozar a Nación, y los que se refugian en la agenda de cabotaje (San Luis con un saludo, Misiones con un pésame). El peronismo federal, salvo Ziliotto, optó por el silencio o la gestión muda. \n\nActo 3 — La Micro-política: En Chubut, Ignacio Torres celebró la interna de la UCR como un gesto de fortalecimiento de su espacio, en línea con su perfil opositor pero sin proyectar conflicto nacional. Córdoba reivindicó el Camino de Brochero como patrimonio cultural, una jugada que combina identidad religiosa con promoción turística, sin costo fiscal. \n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable en términos de desgaste: ningún gobernador de peso (Buenos Aires, CABA, Santa Fe) se manifestó con carga crítica. El único alerta lo da Ziliotto, pero su voz tiene peso moderado en el tablero federal. El Gobierno nacional puede leer el día como una ventana de calma, aunque la acumulación de silencios podría ser el preludio de una coordinación opositora.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al ajuste nacional y defensa de la inversión pública",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Promoción de logros provinciales (exportaciones, infraestructura)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@LeandroZdero",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Eventos culturales, deportivos y turísticos",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Política partidaria interna",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Agenda protocolar y saludos",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "140 AÑOS Policía de La Pampa. En cada ciudad, pueblo y paraje de La Pampa hay mujeres y hombres que todos los días asumen la responsabilidad de trabajar por la seguridad de nuestra gente. Desde el Estado nos corresponde brindarles formación permanente, mejores herramientas, tecnología y el acompañamiento necesario para que puedan desarrollar su tarea de la mejor manera. Mientras desde tribunas nacionales se insiste con que la única respuesta es achicar el Estado, en La Pampa elegimos otro camino: invertir, estar presentes y fortalecer las políticas públicas. Porque también se hace política cuando se cuida a nuestra gente.",
+        "por_que_es_clave": "Ziliotto utiliza un acto protocolar para marcar distancia con el discurso de ajuste de la Casa Rosada. No menciona a Milei, pero el contraste es explícito: 'achicar el Estado' vs. 'invertir y estar presentes'. Es una declaración de principios que refuerza su identidad peronista y lo posiciona como referente de las provincias que resisten el recorte, sin escalar a una confrontación directa.",
+        "pregunta_openarg": "¿El silencio de los gobernadores del peronismo federal (Kicillof, Jalil, Quintela) ante el discurso de Ziliotto obedece a una coordinación opositora o a la conveniencia de no desgastarse en una pulseada que aún no tiene fecha?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "educación",
+                "infraestructura escolar",
+                "gestión provincial"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Muestra obra pública escolar con recursos provinciales, evitando cualquier referencia a Nación.",
+            "frase_fuerte": "Abrimos las puertas de los nuevos espacios de la U.E.G.P. N.º 22 'Nuestra Señora de Fátima' en Quitilipi, conmemorando sus 70 años."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "política partidaria",
+                "UCR",
+                "liderazgo"
+            ],
+            "postura_politica": "Refuerzo de alianzas internas sin posicionamiento federal. Celebra la elección de un aliado en la UCR provincial, apuntalando su frente político.",
+            "frase_fuerte": "Quiero felicitar a @gerardomerinotw, que fue elegido presidente de la UCR Chubut y asume una enorme responsabilidad: seguir construyendo un radicalismo moderno."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "cultura",
+                "turismo religioso",
+                "legislación nacional"
+            ],
+            "postura_politica": "Promoción de agenda cultural y turística sin confrontación. Agradece al Congreso por declarar patrimonio al Camino de Brochero, pero no vincula el logro a ninguna gestión nacional.",
+            "frase_fuerte": "Es una gran alegría que @DiputadosAR días atrás haya convertido en ley la declaración que reconoce al #CaminoDeBrochero como Patrimonio Cultural Inmaterial de la República Argentina."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "deporte",
+                "turismo",
+                "relaciones internacionales"
+            ],
+            "postura_politica": "Promoción de eventos deportivos como vidriera provincial. Sin mención a Nación, enfatiza la capacidad de Jujuy para atraer espectáculos de primer nivel.",
+            "frase_fuerte": "Una vez más trajimos a nuestra tierra deporte de primer nivel, espectáculo y turismo con el partido entre Los Pumas y Australia."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "seguridad",
+                "policía",
+                "inversión pública",
+                "crítica al ajuste"
+            ],
+            "postura_politica": "Defensa de la inversión pública y crítica al achicamiento del Estado nacional. Es el único que confronta directamente el discurso de ajuste, reivindicando un modelo de gestión provincial presente.",
+            "frase_fuerte": "Mientras desde tribunas nacionales se insiste con que la única respuesta es achicar el Estado, en La Pampa elegimos otro camino: invertir, estar presentes y fortalecer las políticas públicas."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "duelo",
+                "saludo",
+                "gestión protocolar"
+            ],
+            "postura_politica": "Agenda protocolar sin posicionamiento político. Se limita a un pésame y un saludo dominical, sin ningún contenido de disputa federal.",
+            "frase_fuerte": "Con pesar y respeto despedimos a Gloria Llamosas, histórica dirigente radical posadeña."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "exportaciones",
+                "orgullo provincial",
+                "capacitación"
+            ],
+            "postura_politica": "Exhibición de logros provinciales sin confrontación. Destaca que Neuquén es la tercera provincia exportadora, atribuyendo el éxito al esfuerzo local y a Vaca Muerta, sin mencionar políticas nacionales.",
+            "frase_fuerte": "NEUQUÉN YA ES LA TERCERA PROVINCIA EXPORTADORA DEL PAÍS"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "saludo",
+                "domingo"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Su único mensaje es un saludo genérico, sin contenido político.",
+            "frase_fuerte": "Feliz domingo queridas familias Sanluiseños !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "producción",
+                "laboratorio",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Crítica al pasado kirchnerista sin referencia al gobierno actual. La recuperación del laboratorio de lanas es un mojón de gestión, pero el destinatario de la crítica es el anterior oficialismo provincial, no Nación.",
+            "frase_fuerte": "NO SE INVERTÍA DESDE 2012: RECUPERAMOS EL LABORATORIO DE LANAS PARA VOLVER A PRODUCIR"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "gestión provincial",
+                "recorrida",
+                "interior"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Narra una gira por localidades del noroeste santafesino, mostrando obras y contacto con la gente, sin pronunciamientos nacionales.",
+            "frase_fuerte": "El viernes recorrimos el noroeste santafesino, visitando #ColoniaAna, #VillaTrinidad, #ColoniaRosa, #Monigotes y #Sunchales."
+        }
+    ]
+}
