@@ -1,0 +1,214 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por la preparación ante el fenómeno de El Niño y la consolidación de agendas locales. Kicillof utilizó la amenaza climática para reforzar su movimiento político y criticar al Gobierno nacional, mientras que gobernadores de la Región Centro coordinaron con Nación. El deporte (Las Leonas) sirvió como unificador, pero la disputa fiscal subyace.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La sombra de El Niño y la disputa por los recursos. Kicillof, aunque hoy no tuiteó directamente sobre el tema, su estrategia de los días previos resuena. Hoy se enfoca en su movimiento político, pero el mensaje es claro: la Provincia no se rinde y exige recursos. El Niño es el caballo de Troya para reclamar fondos y marcar distancia con Nación.\n\nActo 2 — Los Alineamientos: Pullaro, Llaryora y Frigerio (aunque Frigerio no tuiteó hoy) se reunieron con Santilli, mostrando una Región Centro articulada. Jalil y Ziliotto participaron en conversatorios fiscales. Kicillof queda aislado en su confrontación, mientras el interior busca acuerdos.\n\nActo 3 — La Micro-política: La mayoría de los gobernadores se refugiaron en la gestión local: obras, viviendas, prevención. Es un repliegue táctico para mostrar eficiencia mientras la Nación ajusta. Zdero, Torres, Figueroa y otros exhiben obras propias, marcando autonomía.\n\nActo 4 — Saldo Presidencial: La Casa Rosada logra mantener canales abiertos con el interior, pero la presión de Buenos Aires es constante. El Niño puede ser un catalizador de conflictos si los recursos no llegan. El deporte unifica, pero la tensión fiscal persiste.",
+    "temas_calientes": [
+        {
+            "tema": "Festejos por el título de Las Leonas",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@carlossadirjuy",
+                "@DrMarceloOrrego",
+                "@OsvaldoJaldo",
+                "@Rolo_Figueroa",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Obras de infraestructura y gestión local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Prevención ante fenómenos climáticos",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Consolidación de movimientos políticos provinciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Promoción turística y deportiva",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "En #SantaClaraDelMar compartimos un nuevo plenario del @MOVIMIENTODAF con más de mil compañeros y compañeras de la Quinta Sección. Una región potente, de producción, turismo, trabajo, puertos, ciencia y tecnología que, como el resto de la provincia y del país, necesita que la economía se reactive y que los salarios vuelvan a alcanzar.",
+        "por_que_es_clave": "Kicillof utiliza un evento de su movimiento político para marcar agenda y criticar la política económica nacional, posicionándose como alternativa.",
+        "pregunta_openarg": "¿Puede Kicillof capitalizar el descontento social para construir una alternativa electoral sin romper con el peronismo tradicional?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "movimiento político",
+                "reactivación económica",
+                "plenario DAF"
+            ],
+            "postura_politica": "Construye su propio movimiento (DAF) como plataforma de oposición, evitando confrontación directa hoy pero marcando agenda económica.",
+            "frase_fuerte": "necesita que la economía se reactive y que los salarios vuelvan a alcanzar"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "prevención climática",
+                "plan de acción El Niño"
+            ],
+            "postura_politica": "Muestra gestión y coordinación ante emergencias, sin confrontar con Nación. Refuerza perfil técnico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "apoyo a productores",
+                "obra pública",
+                "pavimento"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en gestión territorial y pequeñas obras.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "política interna",
+                "UCR Chubut"
+            ],
+            "postura_politica": "Celebra la elección de un aliado interno, fortaleciendo su espacio político provincial.",
+            "frase_fuerte": "seguir construyendo un radicalismo moderno, abierto al diálogo y comprometido con el futuro de nuestra provincia"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "patrimonio cultural",
+                "deporte",
+                "cultura comunitaria"
+            ],
+            "postura_politica": "Promueve la identidad cordobesa y el deporte, evitando temas fiscales. Refuerza perfil de gestión cultural.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "deporte internacional",
+                "relaciones diplomáticas"
+            ],
+            "postura_politica": "Usa el rugby y la visita de la embajadora para posicionar a Jujuy como sede de eventos, sin contenido político nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "infraestructura vial",
+                "iluminación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Muestra obra pública con recursos propios.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "vivienda social",
+                "IPV"
+            ],
+            "postura_politica": "Agenda local. Destaca que Mendoza sigue construyendo viviendas en contexto complejo, implícitamente contrasta con Nación.",
+            "frase_fuerte": "Mendoza es de las pocas provincias que continúan construyendo viviendas sociales"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "emergencia climática",
+                "asistencia"
+            ],
+            "postura_politica": "Gestión de crisis. Muestra capacidad de respuesta ante El Niño, sin confrontar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "exportaciones",
+                "deporte",
+                "capacitación",
+                "infraestructura",
+                "relaciones internacionales"
+            ],
+            "postura_politica": "Exhibe el éxito económico de Vaca Muerta y la planificación a largo plazo. Se posiciona como provincia pujante y aliada del desarrollo.",
+            "frase_fuerte": "Neuquén ya es la tercera provincia exportadora del país"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "rutas",
+                "gas",
+                "infraestructura",
+                "planificación"
+            ],
+            "postura_politica": "Agenda local de obras y gestión. Muestra que se hace cargo de rutas nacionales, marcando autonomía.",
+            "frase_fuerte": "Sabemos que falta, pero tenemos rumbo. Río Negro está en marcha."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "deporte",
+                "Las Leonas"
+            ],
+            "postura_politica": "Celebración deportiva sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "producción",
+                "recuperación de laboratorio",
+                "expo infantil"
+            ],
+            "postura_politica": "Agenda local. Critica implícitamente al kirchnerismo por abandono, pero sin mencionar a Nación actual.",
+            "frase_fuerte": "No se invertía desde 2012: recuperamos el laboratorio de lanas para volver a producir"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "infraestructura deportiva",
+                "urbanismo"
+            ],
+            "postura_politica": "Muestra obras para los Juegos Suramericanos, reforzando perfil de gestión y proyección internacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "deporte",
+                "Las Leonas"
+            ],
+            "postura_politica": "Celebración deportiva sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "deporte",
+                "homenaje histórico",
+                "vivienda"
+            ],
+            "postura_politica": "Combina celebración deportiva con acto histórico y entrega de viviendas. Refuerza perfil de gestión y federalismo.",
+            "frase_fuerte": "Alberdi nos dejó un legado que sigue teniendo plena vigencia. La defensa del federalismo..."
+        }
+    ]
+}
