@@ -1,0 +1,153 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada combina crítica directa de Kicillofok al Gobierno nacional por la morosidad récord, con una movilización de gobernadores de distintas provincias que refuerzan su gestión local invirtiendo en seguridad, obra pública y exportaciones, mientras evitan pronunciarse sobre el ajuste. La Casa Rosada enfrenta un malestar silencioso pero palpable en el interior.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La denuncia de Kicillofok sobre la morosidad récord de 6 millones de argentinos se erige como el golpe más directo a la política económica de Milei. Al retuitear un informe crítico, el gobernador bonaerense no solo marca la cancha sino que instala el tema en la agenda federal, forzando a la Nación a dar explicaciones. En paralelo, Ziliotto defiende la inversión policial pampeana con una sutil crítica al achicamiento del Estado, y Figueroa celebra el liderazgo exportador de Neuquén como un éxito propio, omitiendo el rol nacional. \n\n Acto 2 — Los Alineamientos: Se consolidan dos bloques: los que apuestan a la gestión local como escudo (Zdero, Torres, Llaryora, Poggi, VidalSer) y los que usan logros provinciales para disputar poder simbólico (Figueroa con Vaca Muerta, Saenz con litio pero sin tweets hoy). Kicillofok queda como la voz opositora más frontal, mientras que otros como Sadir se refugian en eventos turísticos para evitar el debate fiscal. \n\n Acto 3 — La Micro-política: Las provincias periféricas (La Pampa, Chaco, San Luis, Santa Cruz) se concentran en obras de infraestructura, ascensos policiales y efemérides. Es un repliegue hacia la agenda de cabotaje, señal de que no quieren exponerse en la grieta nacional. Sin embargo, VidalSer aprovecha para culpar al kirchnerismo del abandono, mostrando una estrategia de polarización interna sin mencionar a Nación. \n\n Acto 4 — Saldo Presidencial: La Casa Rosada no recibe apoyo explícito de ningún gobernador en la jornada. El silencio de los aliados naturales (Macri, Cornejo, Jalil) es elocuente. El capital político del oficialismo se erosiona con la crítica Kicillof y la omisión de los demás. El gobierno nacional deberá monitorear si la morosidad se convierte en un estigma de gestión.",
+    "temas_calientes": [
+        {
+            "tema": "Morosidad récord y crítica a la política económica nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Inversión en seguridad provincial con cuestionamiento al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Exportaciones y energía: Neuquén como locomotora provincial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Obra pública y gestión local como refugio político",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Eventos deportivos y turismo como agenda de cabotaje",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @PabloJ_LopezOK)",
+        "texto": "Con bancos y billeteras virtuales: la morosidad de las familias es récord absoluto [...] Demasiadas señales de alarma que el Gobierno nacional debe atender",
+        "por_que_es_clave": "Kicillofok utiliza datos concretos para golpear el relato oficial de recuperación económica, posicionándose como la figura opositora que denuncia el costo social del ajuste.",
+        "pregunta_openarg": "¿Puede el gobierno nacional sostener su programa económico si la morosidad sigue escalando y afecta a 6 millones de argentinos?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "morosidad",
+                "crítica al gobierno nacional"
+            ],
+            "postura_politica": "Ofensiva: usa un informe de morosidad para responsabilizar al Gobierno nacional y marcar agenda federal. Oposición directa.",
+            "frase_fuerte": "Demasiadas señales de alarma que el Gobierno nacional debe atender"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "deporte",
+                "educación",
+                "obra pública"
+            ],
+            "postura_politica": "Agenda local sin impacto federal: inauguraciones menores sin posicionamiento nacional. Refugio en gestión de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "obra pública",
+                "política partidaria"
+            ],
+            "postura_politica": "Doble intención: anuncia obras del Plan Galina (gestión) y felicita a nuevo presidente de UCR Chubut (posicionamiento político interno). Sin referencia a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "becas",
+                "consumo local",
+                "cultura",
+                "deporte"
+            ],
+            "postura_politica": "Agenda múltiple pero toda local: anuncia becas digitales, programa de consumo, celebra patrimonio y logros deportivos. Evita cualquier mención a la Nación. Apuesta a 'hacer' para mostrar gestión.",
+            "frase_fuerte": "En CÓRDOBA, EL FUTURO NO SE PROMETE: SE CONSTRUYE."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "deporte",
+                "turismo"
+            ],
+            "postura_politica": "Promoción turística: recibe a Los Pumas y Wallabies. Bajo peso político. Evita conflicto.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "seguridad",
+                "crítica al ajuste nacional"
+            ],
+            "postura_politica": "Crítica sutil: al celebrar 140 años de la Policía, destaca invertir 'mientras desde tribunas nacionales se insiste con achicar el Estado'. Defensa del gasto público provincial.",
+            "frase_fuerte": "Mientras desde tribunas nacionales se insiste con que la única respuesta es achicar el Estado, en La Pampa elegimos otro camino: invertir, estar presentes y fortalecer las políticas públicas."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "homenaje",
+                "saludo dominical"
+            ],
+            "postura_politica": "Bajo peso: despide a una dirigente radical y un saludo. Sin contenido político federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "exportaciones",
+                "Vaca Muerta",
+                "deporte",
+                "capacitación"
+            ],
+            "postura_politica": "Posicionamiento fuerte: destaca que Neuquén es tercera provincia exportadora, atribuyéndolo al esfuerzo local. Usa Vaca Muerta como bandera. No menciona a Nación. También celebra triunfo deportivo.",
+            "frase_fuerte": "Nuestra Cuenca tiene la fuerza para transformar a Neuquén y también para poner de pie a la Argentina."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "saludo dominical"
+            ],
+            "postura_politica": "Agenda protocolar aislada: simple saludo sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "recuperación de laboratorio",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Crítica interna: recupera el laboratorio de lanas y culpa al kirchnerismo por el abandono. Sin mencionar a Nación actual. Se posiciona como gestor que repara el pasado.",
+            "frase_fuerte": "Ellos dejaron caer lo que Santa Cruz tenía. Nosotros lo estamos poniendo de pie para producir y generar trabajo."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "recorrido provincial"
+            ],
+            "postura_politica": "Agenda local: muestra visita a localidades con obras. Bajo impacto federal.",
+            "frase_fuerte": null
+        }
+    ]
+}

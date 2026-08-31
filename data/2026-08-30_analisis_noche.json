@@ -1,0 +1,130 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores provinciales intensifican su agenda de gestión local, destacando inversiones en infraestructura y servicios, mientras algunos elevan críticas directas a las políticas económicas nacionales. Axel Kicillof (Buenos Aires) alerta sobre la morosidad familiar y la inacción del gobierno central, mientras Martín Llaryora (Córdoba) implementa planes de alivio crediticio y fomento del consumo. Sergio Ziliotto (La Pampa) defiende la inversión pública en seguridad y el rol del Estado. Otros mandatarios, como Ignacio Torres (Chubut), Leandro Zdero (Chaco) y Maximiliano Pullaro (Santa Fe), se concentran en el desarrollo de obras y la proyección de sus regiones, consolidando una marcada autonomía provincial.",
+    "analisis_profundo": "La actividad de los gobernadores en las últimas horas subraya una estrategia de gestión proactiva y, en varios casos, un marcado distanciamiento o crítica hacia el Gobierno nacional, especialmente en temas económicos y sociales. Axel Kicillof (Buenos Aires) se posiciona como una voz de alarma frente a la situación económica, retuiteando una crítica directa a la inacción nacional ante la morosidad familiar récord, un punto de alta sensibilidad social que implícitamente responsabiliza al ejecutivo central por el deterioro de las condiciones. Esta es una clara postura de oposición que busca capitalizar el descontento social.\n\nEn una línea similar, pero con un enfoque propositivo, Martín Llaryora (Córdoba) demuestra una estrategia de contención económica local. Sus anuncios sobre el 'Alivio Cordobés' y el 'Córdoba Impulsa' buscan dinamizar el consumo y reestructurar deudas, presentándose como un actor que 'no se queda de brazos cruzados' frente a la crisis, un mensaje con clara resonancia política. Su énfasis en la capacitación digital también apunta a la resiliencia económica a largo plazo de la provincia.\n\nSergio Ziliotto (La Pampa) refuerza la narrativa de un Estado provincial robusto y presente, destacando la inversión en seguridad y el fortalecimiento de políticas públicas. Su mensaje contrasta explícitamente con la visión nacional de 'achicar el Estado', lo que genera una tensión sobre el modelo de gestión pública. Este tipo de discurso busca consolidar el apoyo popular a las políticas provinciales como alternativa a las directrices nacionales.\n\nPor otro lado, Ignacio Torres (Chubut) impulsa el 'Plan Galina' con importantes inversiones en infraestructura en Puerto Madryn y consolida la Unión Cívica Radical (UCR) a nivel provincial. Leandro Zdero (Chaco) exhibe inversiones en deporte y educación, subrayando la continuidad de la gestión chaqueña en áreas clave. Maximiliano Pullaro (Santa Fe) se enfoca en la expansión de infraestructura deportiva y el fomento del deporte en su provincia, proyectando a Rosario como sede de eventos internacionales. Estos gobernadores buscan consolidar una imagen de liderazgo eficiente y concentrado en las necesidades de sus provincias, a menudo presentando sus logros como resultado de la 'responsabilidad' y el 'cambio de rumbo' de sus gestiones. Claudio Vidal (Santa Cruz) se alinea con una retórica de 'recuperación' y crítica a gestiones anteriores, ejemplificada en la reactivación de un laboratorio de lanas, marcando una clara ruptura con el pasado. Hugo Passalacqua (Misiones) mantuvo una agenda más institucional, expresando condolencias. En general, la jornada se caracteriza por una afirmación de la autonomía provincial en la gestión de crisis y desarrollo, con una retórica que, en algunos casos, se opone directamente a las políticas o narrativas del Gobierno nacional. El foco está puesto en la infraestructura, la economía local, el empleo y la educación como pilares para el crecimiento autónomo de las provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la política económica y defensa del Estado",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Inversión y obras de infraestructura provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo y apoyo a sectores regionales",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educación y capacitación para el futuro laboral",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Consolidación política interna y gestión partidaria",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @PabloJ_LopezOK)",
+        "texto": "Con bancos y billeteras virtuales: la morosidad de las familias es récord absoluto. El salto de la mora en los últimos 2 años es exponencial, ya supera el 15% del crédito total y afecta a 6 millones de argentinos. Demasiadas señales de alarma que el Gobierno nacional debe atender",
+        "por_que_es_clave": "El tweet representa una crítica directa y contundente a la gestión económica del Gobierno nacional, señalando una problemática social de gran envergadura como la morosidad récord. La mención explícita a la 'inacción' del gobierno central intensifica la tensión federal y posiciona a la provincia de Buenos Aires como una voz de alerta y oposición.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crisis económica",
+                "Morosidad familiar",
+                "Crítica al Gobierno nacional"
+            ],
+            "postura_politica": "Señala la gravedad de la morosidad familiar como síntoma de la crisis económica, exigiendo intervención del Gobierno nacional y marcando una postura de oposición y alerta social.",
+            "frase_fuerte": "Demasiadas señales de alarma que el Gobierno nacional debe atender"
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Educación",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Resalta la inversión provincial en infraestructura deportiva y educativa, como pilares para el desarrollo local y la mejora de la calidad de vida en el Chaco.",
+            "frase_fuerte": "Son más de 100 familias chaqueñas que van a volver a contar con un lugar en condiciones para el deporte, la recreación y el encuentro."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Desarrollo de Puerto Madryn",
+                "Política partidaria (UCR)"
+            ],
+            "postura_politica": "Anuncia importantes obras de infraestructura en Puerto Madryn bajo el 'Plan Galina' y felicita la consolidación de la UCR provincial, mostrando un fuerte compromiso con la gestión local y la fortaleza partidaria.",
+            "frase_fuerte": "Son más de $7.000 millones que vuelven a los vecinos en infraestructura concreta, acompañando con planificación el desarrollo de una de las ciudades que más ha crecido en toda nuestra provincia."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Crisis económica local",
+                "Alivio de deudas",
+                "Fomento del consumo",
+                "Capacitación digital"
+            ],
+            "postura_politica": "Presenta programas para mitigar la crisis económica local mediante el alivio crediticio y el fomento del consumo, además de promover la capacitación en nuevas tecnologías. Subraya la proactividad provincial frente a la inacción nacional.",
+            "frase_fuerte": "EN CÓRDOBA, EL FUTURO NO SE PROMETE: SE CONSTRUYE."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Seguridad provincial",
+                "Inversión pública",
+                "Rol del Estado"
+            ],
+            "postura_politica": "Defiende un Estado presente e inversor en seguridad y políticas públicas, contrastando con la narrativa de achicamiento estatal, y reafirma el compromiso con una policía profesional y respetuosa de los derechos humanos.",
+            "frase_fuerte": "Mientras desde tribunas nacionales se insiste con que la única respuesta es achicar el Estado, en La Pampa elegimos otro camino: invertir, estar presentes y fortalecer las políticas públicas."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Condolencias"
+            ],
+            "postura_politica": "Expresa pesar por el fallecimiento de una dirigente radical, demostrando una postura de respeto institucional y transversal, sin contenido político directo en la agenda federal.",
+            "frase_fuerte": "Con pesar y respeto despedimos a Gloria Llamosas, histórica dirigente radical posadeña."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Recuperación de infraestructura",
+                "Crítica a gestiones anteriores"
+            ],
+            "postura_politica": "Destaca la recuperación de un laboratorio de lanas abandonado, enmarcando su gestión en un 'cambio de rumbo' y criticando duramente a las gestiones anteriores por el abandono de infraestructura productiva.",
+            "frase_fuerte": "Mientras el kirchnerismo se llenaba la boca hablando de producción, una herramienta fundamental para nuestros productores, se venía abajo sin recibir la inversión que necesitaba."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Eventos internacionales",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Enfocado en la promoción de su provincia a través de la inauguración de grandes obras deportivas y la ambición de convertir a Santa Fe en la capital del deporte argentino, con miras a eventos internacionales.",
+            "frase_fuerte": "El Invencible Santa Fe ya es una realidad! Inauguramos este impresionante estadio multipropósito en el CARD que va a recibir a los Juegos Suramericanos 2026."
+        }
+    ]
+}
