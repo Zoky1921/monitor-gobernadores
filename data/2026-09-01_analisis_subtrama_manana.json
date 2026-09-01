@@ -1,0 +1,196 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Axel Kicillof abre la jornada con una denuncia explosiva sobre el atentado a CFK y su detención, acusando al gobierno de un plan de disciplinamiento. El resto de los gobernadores se repliega en gestión local, con excepción de Llaryora (visita papal) y Figueroa-Weretilneck (inversiones energéticas). La Casa Rosada enfrenta una oposición radicalizada en Buenos Aires mientras otros sostienen canales de diálogo.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: Kicillof eligió el primer día de septiembre para reactivar el fantasma del atentado a Cristina Kirchner y vincularlo directamente con su situación judicial actual. Al afirmar que «son dos caras de una misma moneda: un plan para disciplinar al campo popular», el gobernador bonaerense no solo denuncia impunidad, sino que traza una línea de continuidad entre el ataque de 2022 y la detención de la ex presidenta. Es una maniobra de máxima tensión: pone al gobierno nacional en la incómoda posición de tener que responder por una investigación judicial que no avanza y por una detención que el propio oficialismo defiende como legal.\n\nActo 2 — Los Alineamientos: Mientras Kicillof quema puentes, otros mandatarios optan por una agenda de cooperación selectiva. Martín Llaryora recibe a la delegación del Vaticano para la visita del Papa León XIV, capitalizando un evento de alto prestigio. Rolando Figueroa y Alberto Weretilneck promocionan Neuquén y Río Negro como destinos de inversión energética, en sintonía con el discurso de seguridad jurídica que pregonan desde Nación. Maximiliano Pullaro celebra la baja de homicidios en Rosario, reivindicando su método de gestión y contrastando con el pasado de violencia. Son gestos que refuerzan la idea de que el federalismo puede funcionar sin confrontación, pero también delatan que cada gobernador busca su propio oxígeno.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas o de menor peso político se concentran en obras y anuncios locales. Quintela en La Rioja, Zdero en Chaco, Passalacqua en Misiones, Poggi en San Luis y Jaldo en Tucumán despliegan un festival de inauguraciones y programas. No hay mención a la macroeconomía ni al ajuste nacional: es el refugio en la agenda de cabotaje, una estrategia de supervivencia que evita mojarse en la disputa central. Jalil y Cornejo, en cambio, se mueven en escenarios multisectoriales (reforma fiscal, economías regionales) que los posicionan como interlocutores técnicos sin romper con el oficialismo.\n\nActo 4 — Saldo Presidencial: La jornada deja a la Casa Rosada con un capital político mixto. Por un lado, la crítica de Kicillof es un recordatorio de que el kirchnerismo duro no negociará tregua. Por otro, la mayoría de los gobernadores opta por no escalar el conflicto, lo que sugiere que el poder de fuego del peronismo está concentrado en Buenos Aires. El gobierno puede leer esto como una oportunidad para aislar a Kicillof, pero también como una advertencia de que la grieta judicial sigue abierta y puede ensancharse en cualquier momento.",
+    "temas_calientes": [
+        {
+            "tema": "Kicillof denuncia impunidad en caso CFK y ataca al gobierno nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Llaryora prepara la visita papal a Córdoba como evento de alto perfil",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Figueroa y Weretilneck promocionan inversiones en Vaca Muerta y energía",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Pullaro destaca mejora en seguridad y reducción del delito en Santa Fe",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Jalil anuncia medidas de alivio económico local con cooperación del Banco Nación",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Es realmente grave que a cuatro años del intento de asesinato a @CFKArgentina la investigación no haya arrojado ningún resultado sobre los autores intelectuales. Hoy Cristina continúa injustamente detenida y el intento de asesinato que sufrió sigue impune. Son dos caras de una misma moneda: un plan para disciplinar al campo popular y amedrentar a todos los que quieran representar a nuestro pueblo. Seguimos exigiendo que se haga justicia.",
+        "por_que_es_clave": "Kicillof vincula el atentado a CFK con su detención actual, acusando al gobierno de un plan para disciplinar a la oposición. Es una escalada retórica que busca movilizar al peronismo y posicionarlo como víctima de una persecución judicial y política, en vísperas de un año electoral.",
+        "pregunta_openarg": "¿Puede el gobierno nacional sostener la narrativa de que la detención de CFK es independiente del caso del atentado, mientras Kicillof los unifica como parte de un mismo plan de disciplinamiento?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "intento de asesinato a CFK",
+                "justicia",
+                "detención de CFK"
+            ],
+            "postura_politica": "Acusa al gobierno nacional de orquestar un plan contra el campo popular al no resolver el atentado y mantener detenida a CFK. Posicionamiento de víctima y resistencia.",
+            "frase_fuerte": "un plan para disciplinar al campo popular y amedrentar a todos los que quieran representar a nuestro pueblo"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Fórmula 1",
+                "Autódromo",
+                "Messi",
+                "gestión urbana"
+            ],
+            "postura_politica": "Muestra gestión proactiva en deportes y orden, evitando conflicto con Nación. Se enfoca en logros locales y emociones populares. Sin confrontación.",
+            "frase_fuerte": "Seguimos trabajando para traer la Fórmula 1 a la Ciudad."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "economía familiar",
+                "Marcatón",
+                "descuentos",
+                "Banco Nación"
+            ],
+            "postura_politica": "Anuncia medidas de alivio económico local en coordinación con el Banco Nación. Muestra cooperación con el gobierno nacional y gestión propia, sin crítica.",
+            "frase_fuerte": "Seguir cuidando la economía de las familias catamarqueñas es nuestra prioridad."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Ruta 30",
+                "obras viales",
+                "avance 76%"
+            ],
+            "postura_politica": "Resalta avance de obra provincial, mostrando gestión autónoma. Omite mención a Nación.",
+            "frase_fuerte": "Seguimos avanzando en la Ruta 30, que ya alcanza un 76% de avance."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "producción",
+                "parques industriales",
+                "inversiones"
+            ],
+            "postura_politica": "Anuncia nuevo ministro de Producción y plan para parques industriales. Enfoque en desarrollo productivo local, con reglas claras. Sin referencia a Nación.",
+            "frase_fuerte": "Para que una provincia crezca no alcanza con tener recursos y potencial: hace falta planificación, reglas claras y una agenda de desarrollo."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "visita del Papa",
+                "Vaticano",
+                "organización"
+            ],
+            "postura_politica": "Se posiciona como anfitrión de la visita papal, un evento de alto perfil que realza la imagen de Córdoba y su gestión. Busca capitalizar el prestigio religioso.",
+            "frase_fuerte": "Es un verdadero honor que el equipo responsable de sus viajes internacionales esté en Córdoba trabajando junto a nuestras autoridades."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "plan de trabajo urbano",
+                "iluminación",
+                "bacheo",
+                "prevención lluvias"
+            ],
+            "postura_politica": "Anuncia plan de obras en la capital, con enfoque en gestión municipal y prevención. Muestra presencia estatal. Sin referencia a Nación.",
+            "frase_fuerte": "Vamos a iniciar un plan de trabajo urbano integral para mejorar la ciudad de La Rioja."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "economías regionales",
+                "innovación",
+                "desafíos"
+            ],
+            "postura_politica": "Participa en encuentro sobre economías regionales, promoviendo competitividad y colaboración público-privada. Mensaje constructivo, sin confrontación.",
+            "frase_fuerte": "Fortalecer la competitividad, impulsar la innovación, mejorar la infraestructura y generar mejores condiciones para quienes producen e invierten son parte del camino."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "salud",
+                "equipamiento",
+                "cáncer",
+                "prevención"
+            ],
+            "postura_politica": "Entrega equipamiento a institución de lucha contra el cáncer. Gestión social local, sin contenido político federal.",
+            "frase_fuerte": "Hicimos entrega de equipamiento para acompañar el trabajo que la institución realiza desde hace más de cuatro décadas."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "inversiones energéticas",
+                "Continental Resources",
+                "Vaca Muerta",
+                "exportaciones"
+            ],
+            "postura_politica": "Promociona Neuquén como destino de inversiones internacionales, destacando seguridad jurídica. Se alinea con la narrativa de desarrollo energético del gobierno nacional, pero reivindica el rol provincial.",
+            "frase_fuerte": "Su llegada demuestra que la seguridad y la previsibilidad generan confianza y atraen nuevos actores."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "aniversario de Roca",
+                "inversiones",
+                "obras",
+                "ruta 22",
+                "energía"
+            ],
+            "postura_politica": "Reivindica obras provinciales y asunción de rutas nacionales, mostrando autonomía y gestión. Mensaje de 'hacerse cargo' donde Nación no llega.",
+            "frase_fuerte": "Río Negro va a asumir la gestión operativa de estos corredores y poner en marcha un plan para recuperar 305 kilómetros."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "inteligencia artificial",
+                "diplomatura docentes"
+            ],
+            "postura_politica": "Celebra egresados de diplomatura en IA para docentes, mostrando modernización educativa. Sin contenido político federal.",
+            "frase_fuerte": "Primeros 370 Directivos y Docentes del Sistema Educativo Provincial que egresaron hoy de la DIPLOMATURA en 'INTELIGENCIA ARTIFICIAL y ENSEÑANZA e INNOVACIÓN'."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "seguridad",
+                "policía",
+                "aniversario",
+                "reducción del delito"
+            ],
+            "postura_politica": "Destaca mejora en seguridad y recuperación de la policía, contrastando con el pasado. Refuerza su imagen de 'provincia invencible' y gestión eficaz.",
+            "frase_fuerte": "Santa Fe dejó de ser la provincia más violenta para transformarse en la provincia más segura."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "obras",
+                "Monteagudo",
+                "pavimento",
+                "alumbrado",
+                "prevención lluvias"
+            ],
+            "postura_politica": "Inaugura obras en comuna, enfocado en gestión local y respuesta a necesidades. Muestra Estado presente.",
+            "frase_fuerte": "Seguimos recorriendo cada rincón de Tucumán para llevar respuestas concretas y obras que transforman la vida de nuestra gente."
+        }
+    ]
+}

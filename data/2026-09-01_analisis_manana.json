@@ -1,0 +1,229 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal actual se polariza claramente. Axel Kicillof (Buenos Aires) eleva el tono confrontativo al vincular la impunidad del atentado a Cristina Fernández de Kirchner y su detención con un 'plan para disciplinar al campo popular', marcando una fuerte crítica política y judicial. En contraste, la mayoría de los gobernadores se concentran en la gestión interna. Destacan Jorge Macri (Ciudad de Buenos Aires) con la promoción de la Fórmula 1, Raúl Jalil (Catamarca) con programas de alivio económico, Leandro Zdero (Chaco) y Nacho Torres (Chubut) en infraestructura y atracción de inversiones. Martín Llaryora (Córdoba) se enfoca en la próxima visita papal. Ricardo Quintela (La Rioja) impulsa obras urbanas. Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) promueven la inversión energética. Maximiliano Pullaro (Santa Fe) celebra logros en seguridad, mientras Claudio Poggi (San Luis) y Gustavo Melella (Tierra del Fuego) avanzan en educación e infraestructura hídrica, respectivamente. La agenda muestra un marcado énfasis en la autonomía y la capacidad de gestión provincial.",
+    "analisis_profundo": "La dinámica federal de hoy exhibe una notable divergencia en las prioridades políticas de los gobernadores. Un sector, liderado por Axel Kicillof (Buenos Aires), adopta una postura de confrontación directa al denunciar la falta de avances en la investigación del intento de asesinato de Cristina Fernández de Kirchner y su 'detención injusta', calificando la situación como un 'plan para disciplinar' a las fuerzas populares. Este posicionamiento es el más agudo de la jornada y genera un clima de tensión política y judicial con implicaciones a nivel nacional, reafirmando una grieta ideológica. En este contexto, Kicillof (Buenos Aires) reitera la exigencia de justicia y la defensa de la representación popular. \n\nPor otro lado, una amplia mayoría de gobernadores ha optado por un enfoque pragmático y de gestión, priorizando el desarrollo provincial y la atracción de inversiones. Jorge Macri (Ciudad de Buenos Aires) destaca la búsqueda de la Fórmula 1, una iniciativa con perfil internacional que busca posicionar a la capital. Raúl Jalil (Catamarca) responde a la coyuntura económica con un programa provincial de subsidios y descuentos, demostrando un compromiso directo con el poder adquisitivo de sus ciudadanos. Leandro Zdero (Chaco) y Nacho Torres (Chubut) enfocan sus esfuerzos en obras de infraestructura y la creación de un ambiente favorable para la inversión productiva, con Torres (Chubut) reforzando su equipo ministerial y Zdero (Chaco) celebrando el financiamiento de obras. \n\nMartín Llaryora (Córdoba) subraya la trascendencia de la visita papal, un evento que posiciona a su provincia en la escena global. Ricardo Quintela (La Rioja) se concentra en la mejora de la infraestructura urbana y el apoyo a la comunidad estudiantil. Rolando Figueroa (Neuquén) realiza gestiones en Washington D.C. para atraer inversiones a Vaca Muerta, enfatizando la seguridad jurídica y la capacidad energética de su provincia. Alberto Weretilneck (Río Negro) muestra una intensa actividad, asumiendo el control de rutas nacionales, impulsando la minería y el sector petrolero, y reafirmando el rol de Río Negro como 'protagonista de la salida de la energía argentina al mundo'. Claudio Poggi (San Luis) se enfoca en la innovación educativa a través de la inteligencia artificial. Maximiliano Pullaro (Santa Fe) celebra avances en la reducción del delito y la preparación para eventos deportivos internacionales, asociando la seguridad con el desarrollo. Gustavo Melella (Tierra del Fuego) informa sobre el incremento de la producción de agua potable. Osvaldo Jaldo (Tucumán) destaca obras viales y de alumbrado, ligándolas directamente a la mejora de la seguridad y la conectividad. La jornada, por tanto, se define por una marcada polarización entre la crítica política de alto voltaje y una agenda predominantemente orientada a la gestión y el desarrollo endógeno de las provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Polarización política y judicial (caso CFK)",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Desarrollo energético e inversión (Vaca Muerta, minería, oleoductos)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Infraestructura y obras públicas (vial, hídrica, educativa)",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@gustavomelella",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Economías regionales y apoyo productivo/comercial",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Seguridad y Justicia provincial",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Es realmente grave que a cuatro años del intento de asesinato a @CFKArgentina la investigación no haya arrojado ningún resultado sobre los autores intelectuales. Hoy Cristina continúa injustamente detenida y el intento de asesinato que sufrió sigue impune. Son dos caras de una misma moneda: un plan para disciplinar al campo popular y amedrentar a todos los que quieran representar a nuestro pueblo. Seguimos exigiendo que se haga justicia.",
+        "por_que_es_clave": "Aborda un tema de alta sensibilidad política y judicial a nivel nacional, vinculando la impunidad de un intento de magnicidio con la detención de una figura central del peronismo y un supuesto 'plan' de disciplinamiento. Su naturaleza acusatoria y la referencia a figuras nacionales le otorgan un peso político significativo, destacando una clara confrontación ideológica.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Justicia",
+                "Sistema Judicial",
+                "Derechos Humanos",
+                "Polarización Política"
+            ],
+            "postura_politica": "Crítica explícita a la investigación judicial sobre el atentado a CFK y su detención, interpretándolo como parte de un plan de persecución política. Demuestra una postura de defensa al 'campo popular' y exige justicia, marcando una fuerte tensión con otros poderes.",
+            "frase_fuerte": "Hoy Cristina continúa injustamente detenida y el intento de asesinato que sufrió sigue impune. Son dos caras de una misma moneda: un plan para disciplinar al campo popular y amedrentar a todos los que quieran representar a nuestro pueblo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Deporte",
+                "Turismo",
+                "Infraestructura",
+                "Eventos Internacionales"
+            ],
+            "postura_politica": "Proactiva en la gestión de eventos internacionales y la mejora de infraestructura para atraer turismo y generar desarrollo económico local. Enfocado en la proyección de la Ciudad de Buenos Aires a nivel global.",
+            "frase_fuerte": "Seguimos trabajando para traer la Fórmula 1 a la Ciudad."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Economía Provincial",
+                "Programas Sociales",
+                "Apoyo al Consumo",
+                "Salud"
+            ],
+            "postura_politica": "Centrado en el bienestar económico de las familias a través de programas de beneficios y descuentos, buscando mitigar el impacto de la situación económica nacional. Destaca la colaboración interinstitucional con el Banco Nación y el sector privado.",
+            "frase_fuerte": "Seguir cuidando la economía de las familias catamarqueñas es nuestra prioridad."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obras Públicas",
+                "Infraestructura Vial",
+                "Financiamiento Internacional",
+                "Desarrollo Provincial"
+            ],
+            "postura_politica": "Enfoque en la ejecución de obras de infraestructura vial y la consecución de financiamiento para el desarrollo provincial. Muestra un compromiso con la mejora de la conectividad y el impulso económico, mencionando el apoyo de Nación y Fonplata.",
+            "frase_fuerte": "Más obras estratégicas para el desarrollo de la provincia. 🫱🏻‍🫲🏽Junto a Fonplata y Nación, consolidamos un financiamiento histórico."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Producción",
+                "Inversión",
+                "Empleo",
+                "Desarrollo Económico",
+                "Infraestructura Industrial"
+            ],
+            "postura_politica": "Liderazgo en la promoción de la inversión y la producción, con un fuerte énfasis en la creación de empleo y el fortalecimiento de la infraestructura industrial. Busca transformar el potencial provincial en desarrollo concreto y con reglas claras.",
+            "frase_fuerte": "El desafío ahora es claro: transformar el enorme potencial de nuestra provincia en inversiones concretas, desarrollo y más trabajo para todos los chubutenses."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Relaciones Internacionales",
+                "Turismo Religioso",
+                "Eventos Internacionales",
+                "Gestión Provincial"
+            ],
+            "postura_politica": "Destaca la importancia de Córdoba como sede de eventos internacionales de alto impacto, como la visita papal, buscando posicionar a la provincia a nivel global y fortalecer su proyección internacional.",
+            "frase_fuerte": "Es un verdadero honor que el equipo responsable de sus viajes internacionales esté en Córdoba trabajando junto a nuestras autoridades para definir la agenda oficial de un acontecimiento que marcará la historia de nuestra provincia."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Infraestructura Urbana",
+                "Servicios Públicos",
+                "Educación",
+                "Juventud",
+                "Comunidad"
+            ],
+            "postura_politica": "Concentrado en la mejora de la calidad de vida urbana a través de obras de infraestructura y en el apoyo a la juventud mediante espacios educativos y de contención. Destaca la coordinación con municipios para dar respuestas a la gente.",
+            "frase_fuerte": "Este trabajo forma parte de una planificación que estamos llevando adelante junto a los 18 municipios de la provincia, porque cuando trabajamos de manera coordinada podemos dar mejores respuestas a las necesidades de la gente."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Economías Regionales",
+                "Inversión",
+                "Competitividad",
+                "Infraestructura",
+                "Desarrollo Económico"
+            ],
+            "postura_politica": "Aboga por un enfoque en las economías regionales como motor de crecimiento, enfatizando la necesidad de innovación, infraestructura y condiciones favorables para la inversión y el empleo, siendo clave para el país.",
+            "frase_fuerte": "Las economías regionales son una pieza clave para el crecimiento de Mendoza y del país."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Prevención",
+                "Apoyo Institucional",
+                "Comunidad"
+            ],
+            "postura_politica": "Subraya el apoyo a instituciones de salud y prevención, resaltando la importancia del trabajo comunitario y voluntario para el bienestar de la población en temas críticos como la lucha contra el cáncer de piel.",
+            "frase_fuerte": "Su tarea es fundamental para la comunidad de Alem y la zona centro, especialmente en la prevención del cáncer de piel."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inversión Extranjera",
+                "Vaca Muerta",
+                "Energía",
+                "Seguridad Jurídica",
+                "Empleo",
+                "Desarrollo Económico"
+            ],
+            "postura_politica": "Promoción activa de Neuquén como destino de inversiones internacionales, especialmente en el sector energético (Vaca Muerta), destacando la transparencia, seguridad jurídica y capacidad instalada como pilares de confianza para la llegada de capitales.",
+            "frase_fuerte": "La transparencia, seguridad jurídica y capacidad instalada que ofrece la Cuenca Neuquina son los pilares de la confianza que permite la llegada de nuevas inversiones."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Energía",
+                "Minería",
+                "Educación",
+                "Servicios Públicos",
+                "Federalismo"
+            ],
+            "postura_politica": "Enfoque integral en el desarrollo provincial, asumiendo competencias nacionales (rutas), impulsando proyectos energéticos y mineros, y mejorando servicios públicos y educativos. Enfatiza la capacidad de la provincia para generar su propio desarrollo y defender sus recursos, posicionando a Río Negro como protagonista energético.",
+            "frase_fuerte": "Río Negro dejó de ser una provincia de paso. Hoy somos protagonistas de la salida de la energía argentina al mundo."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Tecnología",
+                "Inteligencia Artificial",
+                "Innovación"
+            ],
+            "postura_politica": "Compromiso con la modernización educativa a través de la incorporación de nuevas tecnologías como la Inteligencia Artificial para potenciar la enseñanza y formación de docentes en San Luis.",
+            "frase_fuerte": "La IA al servicio del DOCENTE para potenciar la enseñanza !!!"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el Narcotráfico",
+                "Policía",
+                "Deporte",
+                "Eventos Deportivos Internacionales",
+                "Obra Pública"
+            ],
+            "postura_politica": "Destaca logros significativos en la reducción del delito y el fortalecimiento de la fuerza policial en Santa Fe. Promueve la provincia como sede de grandes eventos deportivos, vinculando la seguridad recuperada con el desarrollo y la proyección positiva de la región.",
+            "frase_fuerte": "Santa Fe dejó de ser la provincia más violenta para transformarse en la provincia más segura."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Infraestructura Hídrica",
+                "Servicios Básicos",
+                "Planificación",
+                "Calidad de Vida"
+            ],
+            "postura_politica": "Prioriza la inversión y planificación en infraestructura esencial como el agua potable para mejorar directamente la calidad de vida de las familias, destacando la gestión provincial como clave para el avance.",
+            "frase_fuerte": "Son obras y decisiones que mejoran la calidad de vida de las familias y que muestran que cuando hay inversión y planificación, se puede avanzar."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obras Públicas",
+                "Infraestructura Urbana",
+                "Seguridad Vial",
+                "Conectividad",
+                "Prevención de Emergencias"
+            ],
+            "postura_politica": "Enfocado en la ejecución de obras que transforman la vida cotidiana de los tucumanos, mejorando la seguridad, conectividad y previniendo emergencias. Reafirma la presencia de un Estado que administra responsablemente los recursos y los convierte en bienestar.",
+            "frase_fuerte": "Como decía el general Perón, la única verdad es la realidad. Por eso no recorremos nuestros pueblos llevando promesas: llegamos con obras, equipamiento y soluciones concretas."
+        }
+    ]
+}
