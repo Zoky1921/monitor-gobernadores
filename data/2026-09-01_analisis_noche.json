@@ -1,0 +1,282 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores focalizaron su agenda en la gestión local, pero la jornada estuvo marcada por una creciente tensión federal. Varios mandatarios, como Axel Kicillof (Buenos Aires), Gildo Insfrán (Formosa), Sergio Ziliotto (La Pampa) y Osvaldo Jaldo (Tucumán), criticaron abiertamente al Gobierno nacional por el abandono de obras o el desfinanciamiento en áreas clave. Alberto Weretilneck (Río Negro) anunció que su provincia asumirá la gestión de rutas nacionales, un acto de federalismo de 'hechos'. Se destacaron inversiones en infraestructura, salud y programas de apoyo económico, con Rolando Figueroa (Neuquén) impulsando inversiones en Vaca Muerta y Maximiliano Pullaro (Santa Fe) promoviendo la internacionalización de pymes. La visita del Papa León XIV a Argentina también movilizó la agenda de Kicillof (Buenos Aires) y Martín Llaryora (Córdoba).",
+    "analisis_profundo": "La agenda de los gobernadores evidenció una clara dualidad entre la intensa gestión provincial y un palpable incremento en las tensiones con el Gobierno nacional. En el ámbito local, la prioridad fue la inversión en infraestructura y el desarrollo económico. Rolando Figueroa (Neuquén) destacó su misión en Washington para asegurar inversiones en Vaca Muerta, enfatizando la 'seguridad jurídica' como pilar provincial. Ignacio Torres (Chubut) enfocó su mensaje en el impulso a parques industriales y la producción. Maximiliano Pullaro (Santa Fe) organizó el Santa Fe Business Forum para conectar pymes con mercados globales, mientras Alfredo Cornejo (Mendoza) debatió estrategias para las economías regionales. Ricardo Quintela (La Rioja) y Claudio Poggi (San Luis) también concentraron esfuerzos en obras urbanas y fomento industrial, respectivamente. \n\nEl 'Clima General' se tornó 'Tenso' debido a las recurrentes críticas al Gobierno central. Axel Kicillof (Buenos Aires) denunció el abandono nacional de proyectos de vivienda y reclamó por la situación judicial de CFK. Gildo Insfrán (Formosa) y Sergio Ziliotto (La Pampa) cuestionaron directamente el desfinanciamiento nacional en salud y obra pública, respectivamente, presentando las inversiones provinciales como un contrapunto. Osvaldo Jaldo (Tucumán) señaló la paralización de obras energéticas de alcance nacional. En un acto de fuerte autonomía, Alberto Weretilneck (Río Negro) anunció que su provincia se 'hará cargo' de la gestión de rutas nacionales 'abandonadas'. Esta tendencia de las provincias a asumir responsabilidades federales ante la inacción central refuerza la idea de un federalismo reactivo. Martín Llaryora (Córdoba) mantuvo un perfil de gestión en seguridad, incluyendo la duplicación de fiscalías antinarcotráfico, y avanzó en la organización de la visita papal, un tema compartido con Kicillof (Buenos Aires). La amplitud de temas abordados subraya la complejidad de la gestión subnacional, que abarca desde la macroeconomía hasta la política internacional y la seguridad interna.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación Nación-Provincia por Obras y Recursos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Impulso a Inversiones y Desarrollo Productivo",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Gestión de Infraestructura y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Educación y Capital Humano",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Visita del Papa León XIV",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@WeretilneckOK",
+        "texto": "RÍO NEGRO SE HACE CARGO Crecen nuestras ciudades, la producción y la actividad energética. Pero las rutas nacionales 22 y 151 no acompañaron ese crecimiento y durante años sufrieron abandono y falta de mantenimiento. Por eso dejamos de esperar. Río Negro va a asumir la gestión operativa de estos corredores y poner en marcha un plan para recuperar 305 kilómetros. Más seguridad, mejores rutas y la infraestructura que necesita una provincia que sigue creciendo. Sabemos que falta, pero tenemos un plan y un rumbo claro.",
+        "por_que_es_clave": "El gobernador de Río Negro (Río Negro) anuncia que su provincia asumirá la gestión operativa de rutas nacionales 'abandonadas' por el Gobierno central. Esta acción representa una fuerte afirmación de autonomía provincial y una respuesta directa a la percibida inacción nacional, subrayando el concepto de 'federalismo de hechos'. La decisión tiene un impacto significativo en la infraestructura y la seguridad vial de la provincia, así como en las relaciones Nación-Provincias.",
+        "pregunta_openarg": "¿Qué implicancias tiene esta medida unilateral de Río Negro (Río Negro) para la dinámica de la obra pública y la infraestructura a nivel federal en el mediano plazo?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Turismo/Deporte",
+                "Inversión",
+                "Obra pública"
+            ],
+            "postura_politica": "El gobernador de la Ciudad Autónoma de Buenos Aires (Ciudad Autónoma de Buenos Aires) se enfoca en la gestión de grandes proyectos de infraestructura con impacto turístico y económico, buscando posicionar a su distrito a nivel internacional con eventos de alto perfil. Muestra una postura pro-inversión y de desarrollo.",
+            "frase_fuerte": "Seguimos trabajando para traer la Fórmula 1 a la Ciudad."
+        },
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Relaciones institucionales",
+                "Vivienda",
+                "Obra pública",
+                "Política nacional",
+                "Justicia"
+            ],
+            "postura_politica": "El gobernador de Buenos Aires (Buenos Aires) articula la gestión provincial con eventos de alto perfil como la visita papal, mientras mantiene una postura crítica hacia el Gobierno nacional, denunciando el abandono de obras y reclamando por cuestiones políticas y judiciales a nivel federal.",
+            "frase_fuerte": "Hoy Cristina continúa injustamente detenida y el intento de asesinato que sufrió sigue impune."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Obra pública",
+                "Clima",
+                "Economía",
+                "Salud",
+                "Bienestar social"
+            ],
+            "postura_politica": "El gobernador de Catamarca (Catamarca) demuestra una gestión activa en desarrollo local y bienestar social, con énfasis en programas económicos de apoyo a familias y transparencia en la minería. Coordina con otras provincias en obras estratégicas y prevención climática.",
+            "frase_fuerte": "Seguir cuidando la economía de las familias catamarqueñas es nuestra prioridad; por eso, anunciamos la renovación del programa Marcatón hasta el 31 de diciembre y lanzamos la nueva línea Marcatón Medicamentos."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura",
+                "Educación",
+                "Juventud",
+                "Financiamiento"
+            ],
+            "postura_politica": "El gobernador del Chaco (Chaco) se enfoca en la reactivación de obras de infraestructura vial y educativa, priorizando la terminalidad educativa y el financiamiento estratégico, en un discurso que valora el mérito y el desarrollo provincial.",
+            "frase_fuerte": "El mérito tiene premio y la terminalidad educativa, un nuevo respaldo. 📚"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Producción",
+                "Inversión",
+                "Economía",
+                "Desarrollo industrial"
+            ],
+            "postura_politica": "El gobernador de Chubut (Chubut) centra su discurso en la atracción de inversiones y el desarrollo productivo, buscando generar valor agregado a los recursos provinciales mediante la planificación y el establecimiento de reglas claras, sumando al sector privado.",
+            "frase_fuerte": "El desafío ahora es claro: transformar el enorme potencial de nuestra provincia en inversiones concretas, desarrollo y más trabajo para todos los chubutenses."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Turismo/Deporte",
+                "Seguridad",
+                "Lucha contra el narcotráfico",
+                "Relaciones institucionales",
+                "Eventos"
+            ],
+            "postura_politica": "El gobernador de Córdoba (Córdoba) presenta una gestión que combina la promoción de grandes eventos internacionales con una fuerte postura en seguridad y lucha contra el narcotráfico, destacando la inversión y la decisión política local.",
+            "frase_fuerte": "CÓRDOBA, TERRITORIO HOSTIL PARA EL NARCOTRÁFICO"
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Salud",
+                "Obra pública",
+                "Confrontación Nación-Provincia"
+            ],
+            "postura_politica": "El gobernador de Formosa (Formosa) reafirma el rol del Estado provincial como inversor en salud pública y proveedor de servicios esenciales, contraponiéndolo directamente al desfinanciamiento y la retirada del Gobierno nacional, enfatizando el compromiso con la equidad territorial.",
+            "frase_fuerte": "En momentos en que el gobierno nacional desfinancia al sistema sanitario, el Estado provincial continúa realizando inversiones que fortalecen la salud pública en nuestra provincia, brindando mejores condiciones para garantizar un servicio eficiente, de calidad y con equidad territorial para todos los formoseños y formoseñas."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Salud",
+                "Obra pública",
+                "Confrontación Nación-Provincia"
+            ],
+            "postura_politica": "El gobernador de La Pampa (La Pampa) subraya la inversión provincial en salud y obra pública, específicamente en salud mental, marcando un contraste explícito con la política de recortes del Gobierno nacional, y defendiendo la presencia del Estado como pilar de la igualdad de oportunidades.",
+            "frase_fuerte": "Desde el Gobierno nacional recortan la obra pública y la inversión en salud. En La Pampa creemos que un Estado eficiente es el que está presente donde se lo necesita."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Obra pública",
+                "Gestión municipal",
+                "Educación",
+                "Juventud"
+            ],
+            "postura_politica": "El gobernador de La Rioja (La Rioja) muestra una gestión orientada a la mejora urbana y el fortalecimiento de espacios comunitarios y educativos, trabajando en coordinación con los municipios para dar respuestas directas a las necesidades de la gente.",
+            "frase_fuerte": "¡Qué gran alegría inaugurar este nuevo patio en el comedor estudiantil!"
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Economía regional",
+                "Innovación",
+                "Inversión",
+                "Empleo",
+                "Desarrollo"
+            ],
+            "postura_politica": "El gobernador de Mendoza (Mendoza) aboga por fortalecer las economías regionales a través de la innovación, la mejora de la infraestructura y la generación de condiciones favorables para la inversión y el empleo, entendiendo estos pilares como clave para el desarrollo provincial y nacional.",
+            "frase_fuerte": "Las economías regionales son una pieza clave para el crecimiento de Mendoza y del país."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Producción",
+                "Innovación",
+                "Educación",
+                "Relaciones internacionales",
+                "Sociedad civil",
+                "Salud"
+            ],
+            "postura_politica": "El gobernador de Misiones (Misiones) resalta la innovación educativa, la cooperación regional e internacional, y el apoyo a instituciones de la sociedad civil en temas de salud, mostrando una gestión diversa y enfocada en el desarrollo humano y la colaboración.",
+            "frase_fuerte": "Hoy compartimos con pastores y referentes de Argentina, Brasil y Paraguay, en el marco de la Cumbre Trinacional por la Paz y la Reconciliación."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Energía",
+                "Inversión",
+                "Infraestructura",
+                "Desarrollo",
+                "Relaciones internacionales",
+                "Marco legal"
+            ],
+            "postura_politica": "El gobernador de Neuquén (Neuquén) posiciona a su provincia como un destino clave para la inversión energética en Vaca Muerta, promoviendo la seguridad jurídica y la planificación estratégica como elementos que generan confianza en inversores internacionales. Busca diversificar la matriz productiva con turismo y gestionar infraestructura.",
+            "frase_fuerte": "PARA NEUQUÉN LA SEGURIDAD JURÍDICA ES POLÍTICA DE ESTADO"
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Transporte",
+                "Obra pública",
+                "Educación",
+                "Servicios públicos",
+                "Infraestructura vial",
+                "Minería",
+                "Energía",
+                "Modernización del Estado",
+                "Ciencia y tecnología",
+                "Federalismo"
+            ],
+            "postura_politica": "El gobernador de Río Negro (Río Negro) adopta una postura de 'hacerse cargo' de responsabilidades, como la gestión de rutas nacionales, y de fuerte impulso a obras de infraestructura y desarrollo productivo (energía, minería), becas y modernización de servicios, destacando el rol protagónico de la provincia.",
+            "frase_fuerte": "RÍO NEGRO SE HACE CARGO"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Obra pública",
+                "Gestión municipal",
+                "Industria",
+                "Minería",
+                "Empleo",
+                "Educación",
+                "Innovación"
+            ],
+            "postura_politica": "El gobernador de San Luis (San Luis) se enfoca en la gestión local con inauguración de obras urbanas y fomento a la industria y el empleo, destacando la incorporación de la inteligencia artificial en la educación y la valorización de los recursos naturales.",
+            "frase_fuerte": "La IA al servicio del DOCENTE para potenciar la enseñanza !!!"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Economía",
+                "Inversión",
+                "Desarrollo",
+                "Seguridad",
+                "Lucha contra el narcotráfico"
+            ],
+            "postura_politica": "El gobernador de Santa Fe (Santa Fe) promueve a su provincia como un hub de negocios internacional y una 'provincia invencible' que recuperó la seguridad, lo que permite el impulso a pymes y la atracción de inversiones. Destaca logros en la lucha contra el narcotráfico.",
+            "frase_fuerte": "¡Día 2 de Santa Fe Business Forum! 💪🏽 Reunimos a más de 40 fondos de inversión, 250 startups e inversores de 9 países con un objetivo clarísimo: generar negocios que impulsen el desarrollo y el crecimiento de Santa Fe."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra pública",
+                "Servicios públicos",
+                "Energía",
+                "Confrontación Nación-Provincia",
+                "Clima",
+                "Gestión municipal"
+            ],
+            "postura_politica": "El gobernador de Tucumán (Tucumán) resalta la ejecución de obras de infraestructura y servicios esenciales, incluyendo proyectos energéticos y prevención climática, marcando una diferencia con el 'abandono' nacional y la paralización de obras, reafirmando el compromiso provincial.",
+            "frase_fuerte": "Valoramos especialmente que una obra que permaneció paralizada durante años haya podido retomar su ejecución."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Servicios públicos",
+                "Obra pública"
+            ],
+            "postura_politica": "El gobernador de Tierra del Fuego (Tierra del Fuego) destaca las inversiones en servicios básicos como el agua potable, reafirmando el compromiso con el desarrollo provincial y el bienestar de las familias.",
+            "frase_fuerte": "En Tolhuin, aumentamos más de un 65% la producción de agua potable, pasamos de 3 a 8 estaciones de bombeo y logramos incrementar más de un 35% las conexiones domiciliarias."
+        }
+    ]
+}
