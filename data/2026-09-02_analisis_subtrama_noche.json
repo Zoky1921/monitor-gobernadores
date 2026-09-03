@@ -1,0 +1,347 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "El día de la industria expone la grieta: Kicillof acusa a Milei de desindustrialización mientras Macri celebra la calificación AAA de CABA. La Región Centro coordina alivios fiscales, mientras el Norte Grande y otras provincias se refugian en gestión local y efemérides. La ausencia de alusiones a la macro en la mayoría de los gobernadores sugiere repliegue estratégico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada del 2 de septiembre, Día de la Industria, funciona como catalizador de la tensión ya latente entre el gobierno nacional y el principal distrito opositor. Axel Kicillof (Buenos Aires) no solo participa, sino que carga con toda la artillería: acusa al gobierno de un plan sistemático de desindustrialización, de primarización de la matriz productiva y de concentración de la actividad en detrimento de las pymes. Su posteo de las 23:07 es un misil directo a la Casa Rosada, que busca capitalizar el malestar industrial y posicionar al peronismo como el único defensor del trabajo y la producción nacional. En la vereda opuesta, Jorge Macri (CABA) celebra la calificación AAA de Standard & Poor's, atribuyéndola a la confianza generada por la política macroeconómica nacional. Es la postal de dos modelos en pugna: el intervencionismo provincial vs. el orden fiscal pro-mercado.\n\nActo 2 — Los Alineamientos: La Región Centro se consolida como un bloque de gobernadores con agenda propia y pragmática. Martín Llaryora (Córdoba), Maximiliano Pullaro (Santa Fe) y Rogelio Frigerio (Entre Ríos) acuerdan medidas conjuntas de alivio financiero para industrias ante el costo de la energía. No confrontan directamente con Nación, pero su accionar coordinado sugiere una diplomacia fiscal que busca compensar el repliegue nacional. En el mismo sentido, Raúl Jalil (Catamarca) y otros gobernadores del Norte Grande se reúnen en la asamblea regional, priorizando la gestión de recursos y la prevención climática. El silencio de la mayoría de los periféricos sobre la macroeconomía es elocuente: evitan pronunciarse sobre el conflicto central, optando por una agenda de gestión local que los proteja de los costos electorales de la polarización.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Chaco, Chubut, La Pampa, etc.) se refugian en la agenda de cabotaje: inauguraciones de rutas, viviendas, equipamiento policial, y reconocimientos. Ignacio Torres (Chubut) refuerza su perfil de gestión con un nuevo ministro de Producción y obras de infraestructura. Claudio Vidal (Santa Cruz) continúa su narrativa de 'hacerse cargo' de lo que el kirchnerismo dejó abandonado, capitalizando el descontento local. El Día de la Industria en estas provincias se convierte en un acto de fe en la producción local, sin atacar ni defender a Nación. La excepción es Sergio Ziliotto (La Pampa), que se suma al reclamo de reforma fiscal federal y a la crítica a la política de ajuste, pero sin el tono incendiario de Kicillof.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día deja una señal mixta. La calificación AAA de CABA es un guiño de confianza, pero la artillería de Kicillof y la coordinación de la Región Centro indican que los gobernadores no están dispuestos a ceder el espacio político sin costo. El silencio de la mayoría es una tregua tácita, pero la tensión fiscal y la disputa por el relato industrial están servidas. El gobierno nacional logra que algunos gobernadores (Macri, Orrego, Cornejo) lo acompañen, pero el núcleo duro opositor se mantiene firme y la periferia se mantiene en la ambigüedad calculada.",
+    "temas_calientes": [
+        {
+            "tema": "Día de la Industria: disputa por el relato productivo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@RaulJalil_ok",
+                "@ZiliottoSergio",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Calificación crediticia y confianza fiscal",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Coordinación regional para alivio industrial (Región Centro)",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@MartinLlaryora",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Prevención ante El Niño y obras hídricas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@frigeriorogelio",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro",
+                "@GustavoSaenzOK",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La Argentina está viviendo las consecuencias de un plan sistemático de desindustrialización por un Gobierno nacional que quiere cambiar de raíz la matriz productiva y construir un país primarizado.\n\nNo hay que confundirse, el problema no es la industria, los trabajadores ni las empresas que están quebrando: el problema se llama Javier Milei.",
+        "por_que_es_clave": "Es un ataque frontal y personalizado contra el presidente, que busca unificar a la oposición y al movimiento obrero en torno a la defensa de la industria, y que marca el tono de confrontación para el día.",
+        "pregunta_openarg": "¿La caída de la actividad industrial es consecuencia de un plan deliberado de desindustrialización o de un ajuste macroeconómico necesario?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Desindustrialización",
+                "Crítica a Milei",
+                "Biocombustibles",
+                "Relaciones internacionales",
+                "El Niño",
+                "Vivienda",
+                "Seguridad"
+            ],
+            "postura_politica": "Abandona la gestión provincial para lanzar una ofensiva política nacional: acusa al gobierno de desindustrializar y primarizar el país, buscando liderar la oposición y movilizar al peronismo. Su agenda de gestión (reuniones con embajadores, prevención climática) es instrumentalizada para mostrar un Estado presente frente a la ausencia nacional.",
+            "frase_fuerte": "el problema se llama Javier Milei."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Calificación crediticia",
+                "Seguridad",
+                "Autódromo",
+                "Fórmula 1",
+                "Educación",
+                "VTV"
+            ],
+            "postura_politica": "Alineado con el gobierno nacional, celebra la calificación AAA y la atribuye al orden macroeconómico. Su gestión en seguridad ('ley y orden') y en infraestructura (autódromo) refuerzan su perfil de gestión eficiente, desmarcándose de la polémica industrial.",
+            "frase_fuerte": "Este es un nuevo reconocimiento al orden de nuestras cuentas y al compromiso con las obligaciones financieras."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Día de la Industria",
+                "Relaciones internacionales",
+                "Minería",
+                "Exportaciones",
+                "Norte Grande"
+            ],
+            "postura_politica": "Perfil bajo y gestión pragmática: destaca el crecimiento exportador y la minería sin confrontar con Nación. Participa en la Región Norte Grande y se reúne con embajadores, mostrando una agenda de desarrollo económico que no roza la macro.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obras viales",
+                "Educación",
+                "Seguridad",
+                "Ley de Reiterancia",
+                "Producción"
+            ],
+            "postura_politica": "Agenda local y de gestión: inaugura rutas, lanza incentivos educativos y celebra la aprobación de la Ley de Reiterancia. No hay mención a Nación, excepto en el financiamiento histórico con Fonplata, donde se muestra como gestor eficaz. Postura de repliegue territorial.",
+            "frase_fuerte": "Se resistieron. No todos, pero a algunos les costó mucho terminar con la puerta giratoria."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Producción",
+                "Obras",
+                "Seguridad",
+                "Justicia",
+                "Educación",
+                "Gas"
+            ],
+            "postura_politica": "Gobernador de gestión con perfil técnico: elimina impuestos para pymes, pone en marcha obras clave (acueducto, gas) y celebra la mejora en indicadores de niñez. Evita confrontación, pero critica al 'garantismo berreta' de la justicia, alineándose con el discurso de orden.",
+            "frase_fuerte": "Basta de garantismo berreta."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Día de la Industria",
+                "Promoción industrial",
+                "Seguridad",
+                "Narcotráfico",
+                "Córdoba Impulsa",
+                "Región Centro"
+            ],
+            "postura_politica": "Activo en la agenda regional y local: anuncia Ingresos Brutos Cero para pymes, se reúne con la Región Centro y con la FIA para el rally. Muestra un Estado provincial dinámico que compensa la inacción nacional, pero sin atacar directamente al gobierno.",
+            "frase_fuerte": "Córdoba crecerá con industria, nunca sin industria, aún menos contra la industria."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [],
+            "postura_politica": "Agenda local sin impacto federal",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Industria",
+                "Energía",
+                "Jubilaciones",
+                "Región Centro",
+                "El Niño",
+                "Puertos",
+                "Salud"
+            ],
+            "postura_politica": "Gobernador de la Región Centro que coordina alivios industriales y baja impuestos. Se muestra gestor eficiente (elimina jubilaciones de privilegio, recupera obra social). Su línea es de cooperación regional y defensa de los intereses provinciales, con un tono de gestión ordenada.",
+            "frase_fuerte": "SE TERMINARON POR LEY LAS JUBILACIONES DE PRIVILEGIO EN ENTRE RÍOS"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Salud",
+                "Infancia",
+                "Salarios",
+                "Justicialismo"
+            ],
+            "postura_politica": "Perfil peronista tradicional: inaugura obras de salud, anuncia aumento salarial y se reúne con sindicalistas y el PJ. Crítica implícita al gobierno nacional al mencionar el desfinanciamiento de la salud pública. Agenda de gestión local con fuerte contenido político.",
+            "frase_fuerte": "En momentos en que el gobierno nacional desfinancia al sistema sanitario, el Estado provincial continúa realizando inversiones"
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [],
+            "postura_politica": "Agenda local sin impacto federal",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Industria",
+                "Salud mental",
+                "El Niño",
+                "Federalismo fiscal",
+                "Jubilaciones",
+                "Deuda Nación"
+            ],
+            "postura_politica": "Se posiciona como defensor del federalismo y crítico del ajuste: cuestiona la política económica de Nación, defiende la industria y reclama por la deuda previsional. Su tono es de oposición moderada, pero con claros dardos hacia el gobierno central.",
+            "frase_fuerte": "Sin industria no hay desarrollo"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Industria",
+                "El Niño",
+                "Vivienda",
+                "Obras",
+                "Energía",
+                "Justicia"
+            ],
+            "postura_politica": "Gobernador peronista que combina gestión local con crítica a Nación: denuncia el abandono de obras nacionales y se presenta como querellante en la causa del SisVial. Su agenda es de presencia estatal y defensa de los recursos provinciales.",
+            "frase_fuerte": "El federalismo se defiende con hechos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Turismo",
+                "Minería",
+                "Reforma fiscal",
+                "El Niño",
+                "Salud mental",
+                "Seguridad"
+            ],
+            "postura_politica": "Alineado con el gobierno nacional en la macro, pero con agenda propia: promueve inversiones mineras, moderniza aeropuertos y presenta reformas. Su tono es de gestión y diálogo, sin confrontación. Se reúne con el presidente del BCRA para mostrar confianza.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Educación",
+                "Ciencia",
+                "Relaciones internacionales",
+                "IVA mandioca",
+                "El Niño"
+            ],
+            "postura_politica": "Gobernador de gestión y perfil bajo: destaca logros de estudiantes, inaugura aulas y celebra la media sanción del IVA reducido para la mandioca. No hay crítica explícita a Nación, sino una agenda de cooperación (trinacional, visitas de embajadores).",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "Inversiones",
+                "Infraestructura",
+                "Relaciones internacionales",
+                "Deporte"
+            ],
+            "postura_politica": "Gobernador de la principal provincia petrolera: se muestra como anfitrión de inversiones internacionales (Continental Resources, BID), promueve la seguridad jurídica y la previsibilidad. Su agenda es de desarrollo energético, sin conflicto con Nación, pero con una clara visión de autonomía provincial.",
+            "frase_fuerte": "NEUQUÉN GENERA CONFIANZA EN LOS INVERSORES INTERNACIONALES"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Empleo",
+                "Salud",
+                "Becas",
+                "Obras",
+                "Ferrocarril",
+                "Petróleo",
+                "Minería"
+            ],
+            "postura_politica": "Perfil de gestión y pragmatismo: destaca la llegada de becas, obras de infraestructura y la asunción de rutas nacionales. Su lema 'Sabemos que falta, pero tenemos rumbo' sugiere una administración ordenada, sin confrontación con Nación, pero con reclamos sordos.",
+            "frase_fuerte": "Río Negro dejó de ser una provincia de paso. Hoy somos protagonistas de la salida de la energía argentina al mundo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Minería",
+                "Aeropuerto",
+                "Federalismo",
+                "Norte Grande",
+                "Vivienda"
+            ],
+            "postura_politica": "Gobernador peronista con agenda de gestión y reclamo federal: refuerza seguridad, impulsa minería, inaugura aeropuerto y reclama un federalismo real. Su tono es de reclamo institucional más que de confrontación directa.",
+            "frase_fuerte": "Necesitamos un federalismo real, que se demuestre en la distribución equitativa de los recursos"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Automovilismo",
+                "Minería",
+                "Acuerdo con Vicuña",
+                "Energía",
+                "Obras viales"
+            ],
+            "postura_politica": "Gobernador alineado con el gobierno nacional: celebra el acuerdo con Vicuña por USD 250 millones, firma convenio para gestionar rutas nacionales y participa en eventos internacionales. Su agenda es de apertura a inversiones y gestión de infraestructura.",
+            "frase_fuerte": "UN HECHO HISTÓRICO PARA SAN JUAN: firmamos un acuerdo con Vicuña por USD 250 millones"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Reforma constitucional",
+                "Industria",
+                "Educación",
+                "Obras",
+                "Policía"
+            ],
+            "postura_politica": "Gobernador de gestión local: sanciona reforma constitucional, celebra el Día de la Industria con empresarios y entrega ascensos policiales. No hay mención a Nación. Agenda protocolar y de administración provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obras",
+                "Gas",
+                "Policía",
+                "Crítica al kirchnerismo"
+            ],
+            "postura_politica": "Gobernador de oposición al kirchnerismo: su discurso se centra en 'hacerse cargo' de lo que el kirchnerismo dejó abandonado. No menciona a Nación, pero sí critica a la gestión anterior de su provincia. Agenda de gestión y promesas de cambio.",
+            "frase_fuerte": "Durante 30 años le robaron el gas a los santacruceños. Hoy nos hacemos cargo"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Juegos Suramericanos",
+                "Seguridad",
+                "Industria",
+                "Región Centro",
+                "Deporte",
+                "Infraestructura"
+            ],
+            "postura_politica": "Gobernador de la Región Centro con perfil de gestión exitosa: destaca la caída de homicidios en Rosario, la inauguración de infraestructura para los Juegos y la coordinación con Córdoba y Entre Ríos. Su tono es de orgullo provincial y eficacia, sin necesidad de confrontar.",
+            "frase_fuerte": "Santa Fe dejó de ser la provincia más violenta para transformarse en la provincia más segura."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Ciencia y tecnología",
+                "Educación",
+                "Obras",
+                "Salud",
+                "Norte Grande"
+            ],
+            "postura_politica": "Gobernador de gestión y perfil bajo: inaugura ferias de ciencia, escuelas y hospitales, y participa en la asamblea del Norte Grande. No hay crítica a Nación, solo gestión local y regional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Industria",
+                "Agua",
+                "Alivio financiero",
+                "Energía",
+                "Soberanía"
+            ],
+            "postura_politica": "Gobernador peronista que defiende la industria fueguina y la soberanía: celebra el Día de la Industria, anuncia medidas de alivio y destaca obras energéticas. Su tono es de gestión y defensa del empleo, con una veta de reclamo por la apertura de importaciones.",
+            "frase_fuerte": "Producir es generar trabajo, sostener hogares, crear oportunidades y defender nuestra tierra"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obras",
+                "Energía",
+                "Vivienda",
+                "Política",
+                "Norte Grande"
+            ],
+            "postura_politica": "Gobernador peronista con fuerte presencia territorial: inaugura obras, supervisa líneas de alta tensión, entrega viviendas y se reúne con dirigentes. Su agenda es de gestión y armado político, con un perfil de peronismo unido y diálogo, sin confrontación abierta con Nación.",
+            "frase_fuerte": null
+        }
+    ]
+}
