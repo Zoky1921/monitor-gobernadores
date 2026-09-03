@@ -1,0 +1,196 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Axel Kicillof (Buenos Aires) lanza un ataque directo contra Javier Milei por desindustrialización, mientras Jorge Macri (CABA) refuerza su perfil de 'ley y orden' y Raúl Jalil (Catamarca) firma un acuerdo con Nación. La jornada muestra una fractura entre gobernadores opositores y pragmáticos, con la mayoría refugiándose en la gestión local.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada estuvo dominada por el ataque de Axel Kicillof al gobierno nacional, acusándolo de un plan sistemático de desindustrialización y señalando directamente a Javier Milei como el problema. Este posicionamiento busca capitalizar el malestar industrial y posicionar a Buenos Aires como bastión de resistencia. Simultáneamente, otros gobernadores como Jorge Macri refuerzan su perfil de seguridad, mientras que Raúl Jalil y Rogelio Frigerio muestran cooperación con Nación, evidenciando una fractura en el bloque federal.\n\nActo 2 — Los Alineamientos: Kicillof se consolida como el principal opositor, mientras que Jalil y Frigerio representan el pragmatismo de provincias que negocian beneficios concretos. Macri se alinea con la agenda de seguridad nacional, pero sin confrontar directamente. Los gobernadores periféricos como Gildo Insfrán y Claudio VidalSer critican al gobierno nacional desde sus propias trincheras, pero sin la potencia de Kicillof.\n\nActo 3 — La Micro-política: La mayoría de los gobernadores se refugian en la gestión local: obras, inauguraciones, reuniones. Es un repliegue estratégico ante la incertidumbre macro. Claudio Poggi impulsa una reforma constitucional en San Luis, un movimiento de largo plazo que busca fortalecer su institucionalidad.\n\nActo 4 — Saldo Presidencial: La Casa Rosada gana aliados tácticos (Jalil, Frigerio) pero enfrenta una oposición cada vez más vocal desde Buenos Aires. La fragmentación de los gobernadores juega a favor del gobierno, que puede negociar bilateralmente, pero la persistencia del discurso de Kicillof puede erosionar su capital político en el mediano plazo.",
+    "temas_calientes": [
+        {
+            "tema": "Ataque frontal a la gestión de Milei por desindustrialización",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Refuerzo de la seguridad y el orden urbano",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Acuerdos estratégicos con Nación para desarrollo productivo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Gestión de obras provinciales como respuesta al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Crítica al legado kirchnerista y reivindicación de gestión propia",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@insfran_gildo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La Argentina está viviendo las consecuencias de un plan sistemático de desindustrialización por un Gobierno nacional que quiere cambiar de raíz la matriz productiva y construir un país primarizado. No hay que confundirse, el problema no es la industria, los trabajadores ni las empresas que están quebrando: el problema se llama Javier Milei.",
+        "por_que_es_clave": "Es una declaración de guerra política directa, sin ambigüedades, que busca posicionar a Kicillof como el principal antagonista de Milei en el ámbito provincial, movilizando a su base y marcando agenda nacional.",
+        "pregunta_openarg": "¿Puede Kicillof capitalizar el descontento industrial para construir una alternativa electoral viable en 2027, o su discurso queda encapsulado en la provincia de Buenos Aires?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "desindustrialización",
+                "ataque a Milei",
+                "defensa de la industria",
+                "reunión con FOETRA"
+            ],
+            "postura_politica": "Oposición frontal al gobierno nacional. Se presenta como defensor del trabajo y la industria, acusando a Milei de desindustrialización planificada.",
+            "frase_fuerte": "el problema se llama Javier Milei"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "orden urbano",
+                "prohibición de construcción en Villa 31",
+                "clausura de cuevas de celulares"
+            ],
+            "postura_politica": "Firmeza en seguridad, diferenciándose de la gestión de Kicillof en PBA. Refuerza su perfil de 'ley y orden'.",
+            "frase_fuerte": "Está totalmente prohibido construir en la Villa 31. Que quede claro: no vamos a permitir que esto siga creciendo. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "acuerdo con Milei",
+                "Zona Franca",
+                "cooperación Nación-provincia",
+                "turismo"
+            ],
+            "postura_politica": "Alineamiento pragmático con el gobierno nacional. Busca beneficios concretos para su provincia mediante acuerdos.",
+            "frase_fuerte": "firmamos un acuerdo histórico para nuestra provincia: la creación de la Zona Franca en Tinogasta"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "obra pública provincial",
+                "pavimentación"
+            ],
+            "postura_politica": "Gestión local sin confrontación nacional. Se enfoca en obras.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "infraestructura",
+                "obra pública",
+                "desarrollo"
+            ],
+            "postura_politica": "Gestión provincial con énfasis en obras, sin mencionar a Nación. Refuerza su modelo cordobés.",
+            "frase_fuerte": "EN #CÓRDOBA, EL FUTURO NO SE PROMETE, SE CONSTRUYE"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "alianza política",
+                "fortalecimiento partidario"
+            ],
+            "postura_politica": "Interna política provincial, alejado de la agenda nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "defensa de intereses provinciales",
+                "relocalización de planta",
+                "alivio industrial",
+                "cooperación regional"
+            ],
+            "postura_politica": "Gestión proactiva en temas ambientales y económicos, con cooperación regional y diálogo con Nación.",
+            "frase_fuerte": "DEFENDIMOS LOS INTERESES DE ENTRE RÍOS: LOGRAMOS QUE SE RELOCALICE LA PLANTA DE COMBUSTIBLES SINTÉTICOS DE PAYSANDÚ"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "inauguraciones",
+                "crítica al gobierno nacional",
+                "defensa de la gestión provincial"
+            ],
+            "postura_politica": "Peronismo opositor, critica al gobierno nacional pero enfatiza su propia gestión.",
+            "frase_fuerte": "A pesar de las condiciones negativas que impone este gobierno nacional, nosotros vamos a seguir avanzando."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "obras municipales",
+                "reuniones con intendentes",
+                "salud"
+            ],
+            "postura_politica": "Gestión localista, sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "turismo",
+                "conectividad aérea",
+                "desarrollo"
+            ],
+            "postura_politica": "Promoción de Mendoza como destino, sin confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "inversiones",
+                "obras",
+                "servicios",
+                "empleo"
+            ],
+            "postura_politica": "Gestión provincial con foco en desarrollo, sin mencionar a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "seguridad",
+                "control limítrofe",
+                "reforma constitucional",
+                "obra pública"
+            ],
+            "postura_politica": "Gestión con énfasis en seguridad y modernización del Estado. Reforma constitucional como tema propio.",
+            "frase_fuerte": "Hoy se sancionó la Ley Provincial que Declara la Necesidad de la Reforma Parcial de la Constitución Provincial."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "vivienda",
+                "crítica al kirchnerismo",
+                "gestión propia"
+            ],
+            "postura_politica": "Oposición al kirchnerismo, reivindicación de su gestión como cambio de rumbo.",
+            "frase_fuerte": "30 AÑOS DE PROMESAS VACÍAS Y NEGOCIOS. HOY LAS VIVIENDAS LLEGAN A LAS FAMILIAS. El kirchnerismo hizo de la política de vivienda un negocio."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "obras",
+                "infraestructura",
+                "peronismo unido"
+            ],
+            "postura_politica": "Gestión provincial con perfil peronista, unidad partidaria, obras.",
+            "frase_fuerte": null
+        }
+    ]
+}
