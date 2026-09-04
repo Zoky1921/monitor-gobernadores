@@ -1,0 +1,352 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "La jornada estuvo dominada por un fuerte posicionamiento soberanista en torno a Malvinas, con Kicillofok y Melella marcando distancia crítica del giro nacionalista tardío de Milei, mientras Jalil y Sáenz reforzaron la agenda minera y energética como eje de disputa fiscal. La Región Centro coordinó alivios industriales para enfrentar el ajuste nacional.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El eje Malvinas irrumpió con inusitada fuerza. Kicillofok lanzó una andanada contra el gobierno nacional por su 'oportunismo' y 'admiración thatcheriana', reclamando que la defensa de la soberanía no es un eslogan sino una política de Estado. Melella, desde Tierra del Fuego, acompañó el cambio de postura pero exigió participación fueguina y acciones concretas, no anuncios. Jalil, en cambio, celebró el giro como un acto de defensa de los recursos, alineándose con la Casa Rosada y mostrando que el peronismo federal no es monolítico. La tensión fiscal subyacente quedó expuesta: mientras Nación busca capitalizar la causa Malvinas, los gobernadores la usan para medir fuerzas y marcan cancha.\n\nActo 2 — Los Alineamientos: Se consolidó un bloque de gobernadores productivos (Frigerio, Pullaro, Llaryora) que coordinan medidas para mitigar el impacto del ajuste eléctrico en la industria, en una señal de autonomía regional que desafía la política energética nacional. Jalil, Cornejo, Sadir y Orrego conforman otro núcleo alrededor de la minería y los minerales críticos, con fuerte lobby en foros internacionales, buscando blindar sus economías ante la coparticipación magra. Kicillofok, en soledad combativa, se erige como el principal antagonista del relato oficial, usando la gestión bonaerense como trinchera y la agenda social como ariete.\n\nActo 3 — La Micro-política: Los gobernadores periféricos (Zdero, Insfrán, Quintela, Vidal) se refugiaron en la gestión local y la entrega de obras, evitando pronunciarse sobre la macroeconomía. Torres en Chubut y Passalacqua en Misiones mantuvieron un perfil bajo, con anuncios de infraestructura y educación, en una estrategia de supervivencia frente al desfinanciamiento. La omisión de la crisis nacional es, en sí misma, un mensaje: 'no nos sumamos al coro opositor ni al oficialista; gestionamos lo que podemos'.\n\nActo 4 — Saldo Presidencial: Milei capitaliza momentáneamente el giro en Malvinas, pero la exigencia de hechos concretos y la desconfianza de los gobernadores peronistas limitan el rédito. La Casa Rosada gana un respiro en el frente externo, pero pierde control de la agenda fiscal interna, donde las provincias avanzan con acuerdos bilaterales y regionales que erosionan su poder de negociación. El balance es de tensión contenida: la guerra declarada por Kicillofok no escala al resto del peronismo, pero el tablero muestra una oposición dispersa y una gobernabilidad frágil.",
+    "temas_calientes": [
+        {
+            "tema": "Malvinas y soberanía: giro nacionalista de Milei vs. crítica opositora",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@gustavomelella",
+                "@RaulJalil_ok",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Alivio industrial en la Región Centro: diferimiento de cargos eléctricos",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@maxipullaro",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Minería y minerales críticos: foros internacionales y atracción de inversiones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@carlossadirjuy",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público: clausuras, cárceles y control territorial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Gestión de obras y viviendas como refugio frente al ajuste",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@insfran_gildo",
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Carli_Bianco)",
+        "texto": "267 días tardó el fan de Thatcher en cumplir la ley. Ahora lo hace de manera oportunista. ... La defensa de nuestra soberanía en el Atlántico Sur exige responsabilidad e inteligencia estratégica.",
+        "por_que_es_clave": "Kicillofok no solo critica el anuncio de Milei sobre Malvinas, sino que lo enmarca en una contradicción profunda: elogiar a Thatcher, recibir a Boris Johnson y ahora querer liderar la causa. Es un intento de deslegitimar cualquier rédito político que el gobierno nacional intente obtener del tema, y al mismo tiempo posicionarse como el verdadero defensor de la soberanía.",
+        "pregunta_openarg": "¿Es compatible la admiración por Margaret Thatcher con una política de defensa de la soberanía en Malvinas, o se trata de un mero cálculo electoral?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Malvinas",
+                "soberanía",
+                "crítica a Milei",
+                "inversiones extranjeras",
+                "industria",
+                "desindustrialización"
+            ],
+            "postura_politica": "Kicillofok se consolida como el principal antagonista del oficialismo nacional. Su retweet de Bianco sobre Malvinas es un torpedo directo a la línea de flotación del discurso patriótico de Milei, y su hilo sobre desindustrialización busca mostrar que el ajuste no es un fenómeno natural sino una decisión política. Además, refuerza su perfil de gestión con reuniones sobre agua, telecomunicaciones y visitas papales.",
+            "frase_fuerte": "'No hay que confundirse, el problema no es la industria, los trabajadores ni las empresas que están quebrando: el problema se llama Javier Milei.'"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "ley y orden",
+                "clausuras de cuevas de celulares",
+                "educación",
+                "sala de 3 obligatoria"
+            ],
+            "postura_politica": "Macri se enfoca en la agenda de seguridad y gestión urbana, sin mencionar a Nación. Su postura de 'ley y orden' es una marca de su gestión, y la aprobación de la obligatoriedad de sala de 3 busca marcar un hito educativo. Evita conflictos con la Casa Rosada, pero su silencio sobre temas fiscales sugiere que prefiere no desgastarse en esa disputa.",
+            "frase_fuerte": "'Está totalmente prohibido construir en la Villa 31. Que quede claro: no vamos a permitir que esto siga creciendo. Ley y orden.'"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Malvinas",
+                "minería",
+                "litio",
+                "zona franca",
+                "acuerdo con Nación",
+                "economía del conocimiento"
+            ],
+            "postura_politica": "Jalil se muestra como un gobernador pragmático que celebra el giro de Milei en Malvinas y firma acuerdos con Nación (zona franca, minería). Su postura es de colaboración crítica: valora los avances pero reclama más. Es el peronista que tiende puentes con el oficialismo sin romper con su base.",
+            "frase_fuerte": "'Durante mi formación en el Ejército aprendí que la soberanía no se declama, se ejerce y se defiende con una presencia efectiva del Estado.'"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "obras viales",
+                "educación",
+                "seguridad",
+                "cooperación internacional"
+            ],
+            "postura_politica": "Zdero se mantiene en una agenda de gestión pura, con anuncios de pavimento, becas y seguridad. Evita cualquier pronunciamiento sobre la macroeconomía o la relación con Nación. Su perfil es de un gobernador que busca consolidar su gestión sin ruido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "deporte",
+                "cultura del trabajo",
+                "parques industriales",
+                "obra pública",
+                "jubilados"
+            ],
+            "postura_politica": "Torres combina un discurso de esfuerzo y mérito con anuncios de gestión. Crítico del garantismo judicial pero sin atacar directamente a Nación. Su agenda es local, con énfasis en infraestructura y acompañamiento social.",
+            "frase_fuerte": "'En Chubut, los delincuentes ya no tienen coronita.'"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "industria",
+                "alivio fiscal",
+                "educación",
+                "seguridad",
+                "narcotráfico",
+                "visita papal"
+            ],
+            "postura_politica": "Llaryora se posiciona como el gestor del 'modelo cordobés', con anuncios de promoción industrial y lucha contra el narcotráfico. La coordinación con Frigerio y Pullaro en el alivio eléctrico muestra un bloque regional que opera al margen de Nación. Su perfil es de un gobernador proactivo que busca liderar la agenda federal desde las provincias.",
+            "frase_fuerte": "'En Córdoba defendemos a quienes producen y trabajan con medidas concretas.'"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "conservación",
+                "política",
+                "puerto",
+                "producción"
+            ],
+            "postura_politica": "Valdés mantiene una agenda de baja intensidad, con temas locales como la conservación de felinos y la política provincial. No hay menciones a Nación ni a temas fiscales. Su perfil es de un gobernador que opera en un segundo plano.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "alivio industrial",
+                "coordinación regional",
+                "jubilaciones de privilegio",
+                "energía",
+                "infraestructura"
+            ],
+            "postura_politica": "Frigerio es el articulador de la Región Centro, logrando acuerdos concretos con Córdoba y Santa Fe para mitigar costos energéticos. Su eliminación de jubilaciones de privilegio refuerza su perfil de ajuste interno. Se muestra como un gobernador eficiente que negocia con Nación pero también actúa por su cuenta.",
+            "frase_fuerte": "'Pusimos fin a más de 60 años de pensiones vitalicias para gobernadores y vicegobernadores.'"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "educación",
+                "salud",
+                "juventud",
+                "aumento salarial"
+            ],
+            "postura_politica": "Insfrán se mantiene en una línea de gestión peronista clásica, con inauguraciones y aumento salarial. Critica al gobierno nacional por el desfinanciamiento, pero sin agresividad. Su postura es de resistencia silenciosa, mostrando que Formosa sigue funcionando a pesar de todo.",
+            "frase_fuerte": "'Sin los agravios tan propios del Presidente ni con la mirada permanente hacia el extranjero.'"
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "minería",
+                "litio",
+                "turismo",
+                "cooperación internacional",
+                "deporte"
+            ],
+            "postura_politica": "Sadir se enfoca en la promoción de Jujuy como destino minero y turístico. Su participación en el foro de minerales críticos lo alinea con la agenda de inversiones. Sin conflictos visibles con Nación, su postura es de colaboración para atraer capitales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "reforma fiscal",
+                "coparticipación",
+                "salud",
+                "infraestructura",
+                "jubilaciones"
+            ],
+            "postura_politica": "Ziliotto se posiciona como un defensor del federalismo y la reforma fiscal integral. Critica el ajuste nacional pero propone soluciones técnicas. Su agenda incluye cooperación con Buenos Aires y obras propias, mostrando un perfil de gobernador técnico-político.",
+            "frase_fuerte": "'La reforma debe ser integral: discutir la coparticipación y definir con claridad qué responsabilidades y recursos corresponden a Nación, provincias y municipios.'"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "obra pública",
+                "deporte",
+                "salud",
+                "vivienda",
+                "energía"
+            ],
+            "postura_politica": "Quintela mantiene una agenda de gestión intensa, con inauguraciones y reuniones con intendentes. Su reclamo por el fondo SisVial muestra una disputa judicial con Nación, pero en general evita el confrontacionismo directo. Su perfil es de un gobernador que administra la crisis.",
+            "frase_fuerte": "'El federalismo se defiende con hechos.'"
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "minería",
+                "cobre",
+                "turismo",
+                "inversiones",
+                "reforma fiscal",
+                "seguridad"
+            ],
+            "postura_politica": "Cornejo se presenta como un gestor moderno que atrae inversiones y mejora la infraestructura. Su participación en foros mineros y su llamado a una reforma fiscal lo posicionan como un referente del diálogo productivo. No hay enfrentamiento directo con Nación, pero sí una exigencia de reglas claras.",
+            "frase_fuerte": "'Si queremos más inversión, más empleo y más exportaciones, tenemos que construir un sistema impositivo con reglas claras y mejores incentivos.'"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "economía del conocimiento",
+                "educación",
+                "turismo",
+                "código procesal penal",
+                "cooperación internacional"
+            ],
+            "postura_politica": "Passalacqua mantiene un perfil bajo, con anuncios de gestión educativa y económica. Su agenda incluye la reducción del IVA a la fécula de mandioca, un logro legislativo. Sin críticas directas a Nación, su postura es de construcción de consensos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "inversiones",
+                "seguridad jurídica",
+                "licitaciones",
+                "infraestructura",
+                "obras con BID"
+            ],
+            "postura_politica": "Figueroa es el embajador de Vaca Muerta en el mundo. Su viaje a Washington y Houston muestra una estrategia de promoción internacional. Se alinea con Nación en la agenda energética, pero exige planificación y previsibilidad. Su postura es de un gobernador que busca maximizar los recursos provinciales.",
+            "frase_fuerte": "'En Neuquén, la seguridad jurídica es una política de Estado que trasciende las gestiones.'"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "obras",
+                "servicios",
+                "empleo",
+                "becas",
+                "transporte",
+                "ferrocarril"
+            ],
+            "postura_politica": "Weretilneck se enfoca en la gestión local, con anuncios de viviendas, becas y asunción de rutas nacionales. Su postura es de un gobernador que resuelve problemas concretos sin hacer oposición. La frase 'sabemos que falta, pero tenemos rumbo' es su lema.",
+            "frase_fuerte": "'Sabemos que falta, pero tenemos claro el rumbo.'"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "minería",
+                "litio",
+                "seguridad",
+                "aeropuerto",
+                "subsidios energéticos",
+                "Norte Grande"
+            ],
+            "postura_politica": "Sáenz combina una fuerte agenda minera con reclamos de federalismo energético. Su postura es de defensa de los intereses del Norte, pero con diálogo con Nación. Logró avances en subsidios a zonas cálidas. Se muestra como un gestor que negocia y obtiene resultados.",
+            "frase_fuerte": "'El Norte Grande no pide dádivas ni privilegios. Reclama lo que le corresponde por justicia histórica.'"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "minería",
+                "cobre",
+                "inversiones",
+                "acuerdo con Vicuña",
+                "infraestructura",
+                "educación"
+            ],
+            "postura_politica": "Orrego celebra el acuerdo histórico con Vicuña por USD 250 millones y promueve la minería como motor de desarrollo. Su postura es de un gobernador que gestiona inversiones y defiende la seguridad jurídica. Sin roces con Nación, se alinea con la agenda productiva.",
+            "frase_fuerte": "'Un acuerdo sin precedentes que refleja una visión de largo plazo.'"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "obras",
+                "industria",
+                "educación",
+                "reforma constitucional",
+                "seguridad"
+            ],
+            "postura_politica": "Poggi mantiene una agenda de gestión local, con inauguraciones y reforma constitucional. Sin menciones a Nación, su postura es de un gobernador que opera en su propio carril.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "viviendas",
+                "obras",
+                "crítica al kirchnerismo",
+                "represas",
+                "seguridad"
+            ],
+            "postura_politica": "Vidal Ser utiliza un discurso de ruptura con el pasado kirchnerista, destacando que 'Santa Cruz puede y tiene rumbo'. Su agenda se centra en terminar obras abandonadas y mostrar gestión. No menciona a Nación directamente, pero su crítica al kirchnerismo lo alinea con el oficialismo nacional.",
+            "frase_fuerte": "'30 años de promesas vacías y negocios. Hoy las viviendas llegan a las familias.'"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "seguridad",
+                "cárcel",
+                "Juegos Suramericanos",
+                "industria",
+                "cooperación regional",
+                "homenaje a Messi"
+            ],
+            "postura_politica": "Pullaro se consolida como el gobernador de la 'provincia invencible', mostrando resultados en seguridad y coordinación regional. Su alianza con Frigerio y Llaryora refuerza un bloque de poder alternativo. Su postura es de liderazgo regional sin confrontación directa con Nación.",
+            "frase_fuerte": "'Santa Fe dejó de ser la provincia más violenta para transformarse en la provincia más segura.'"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Malvinas",
+                "educación",
+                "salud",
+                "obras",
+                "congresos"
+            ],
+            "postura_politica": "Suárez se suma al consenso de Malvinas pero sin profundizar. Su agenda es predominantemente de gestión: inauguraciones escolares, hospitales y ferias de ciencia. Su postura es de un gobernador que evita el conflicto.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Malvinas",
+                "soberanía",
+                "industria",
+                "energía",
+                "alivio financiero"
+            ],
+            "postura_politica": "Melella celebra el giro nacionalista pero exige participación fueguina y acciones concretas. Su postura es de apoyo condicionado, marcando la cancha para que la provincia no quede afuera de las decisiones sobre el Atlántico Sur. También atiende la agenda local de industria y energía.",
+            "frase_fuerte": "'No puede existir una política nacional sobre Malvinas que se construya sin Tierra del Fuego.'"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "economía del conocimiento",
+                "obras",
+                "energía",
+                "cultura",
+                "homenaje a Alberdi"
+            ],
+            "postura_politica": "Jaldo mantiene una agenda de gestión intensa, con inauguraciones y reuniones políticas. Su postura es de un peronista que busca unidad interna y diálogo con todos los sectores. Sin críticas directas a Nación, se enfoca en la obra pública y la articulación provincial.",
+            "frase_fuerte": "'En momentos difíciles para el país, administramos responsablemente los recursos.'"
+        }
+    ]
+}
