@@ -1,0 +1,129 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal de hoy y última hora de ayer estuvo marcada por un contraste discursivo significativo. Mientras Axel Kicillof (Buenos Aires) adoptó un tono de abierta confrontación, criticando duramente la gestión nacional en materia de soberanía y economía, y llamando a la revitalización del peronismo como alternativa, otros gobernadores como Raúl Jalil (Catamarca) y Hugo Passalacqua (Misiones) buscaron mostrar un perfil más colaborativo. Ambos participaron en la Convención Anual del IAEF, destacando el rol provincial en la transformación competitiva y la oportunidad que ofrecen leyes como el RIGI. Paralelamente, Leandro Zdero (Chaco), Ignacio Torres (Chubut), Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro) se concentraron en la gestión provincial, anunciando obras de infraestructura, programas educativos y apoyos a sectores productivos, lo que denota una fuerte agenda sub-nacional enfocada en resolver demandas locales.",
+    "analisis_profundo": "La agenda tuitera de los gobernadores presenta un mosaico de posturas frente al contexto nacional, donde la polarización política convive con una robusta gestión sub-nacional. El gobernador Axel Kicillof (Buenos Aires) emerge como la figura más confrontativa, utilizando sus plataformas para lanzar críticas directas al Gobierno nacional. Su análisis sobre la 'inautenticidad' presidencial en el discurso sobre Malvinas y la defensa de la industria bonaerense frente a un modelo 'primarizador' subraya una estrategia de oposición explícita, buscando consolidar al peronismo como una alternativa política de peso. Su llamado a la afiliación al Partido Justicialista refuerza esta intención de movilización y reconfiguración del mapa político.\n\nEn contraposición, gobernadores como Raúl Jalil (Catamarca) y Hugo Passalacqua (Misiones) mostraron un enfoque más pragmático y colaborativo, participando en la Convención Anual del IAEF junto a otros mandatarios. Destacaron el papel de las provincias en la transformación competitiva del país y, en el caso de Jalil (Catamarca), la importancia de herramientas como el RIGI para atraer inversiones, posicionando a sus provincias como motores de desarrollo regional. La mención de 'no hay grieta' por parte de Passalacqua (Misiones) sugiere una búsqueda de consensos o al menos una diplomacia activa con el poder central y entre pares, especialmente en temas económicos.\n\nLos demás gobernadores analizados –Leandro Zdero (Chaco), Ignacio Torres (Chubut), Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro)– mantuvieron una agenda fuertemente arraigada en la gestión local y provincial. Los anuncios de Zdero (Chaco) sobre pavimentación, salud visual y apoyo educativo; las inversiones de Torres (Chubut) en clubes deportivos; los créditos para productores de Llaryora (Córdoba); y las múltiples obras de infraestructura, desarrollo tecnológico (INVAP) y fomento educativo de Weretilneck (Río Negro), evidencian una concentración en problemáticas y soluciones concretas para sus ciudadanos. Esta dinámica revela cómo, a pesar de las tensiones con Nación, la mayoría de los líderes provinciales priorizan la demostración de capacidad de gestión y el cumplimiento de la agenda propia, procurando blindar sus territorios de la conflictividad macro. La diversidad de temas abordados, desde la promoción industrial hasta la educación y la salud, pinta un panorama de provincias activas, buscando soluciones endógenas y aprovechando oportunidades de desarrollo.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación Política y Crítica al Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Federalismo Económico y Fomento de Inversiones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@passalacquaok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Servicios Públicos Provinciales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Educación y Desarrollo de Capital Humano",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Desarrollo Social y Comunitario",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Tenemos el desafío de revitalizar el Partido Justicialista, abrirlo a la participación y construir una alternativa frente a un gobierno que cada vez le hace más difícil la vida a los argentinos.",
+        "por_que_es_clave": "El gobernador de Buenos Aires (Buenos Aires) establece una clara hoja de ruta política para su espacio, posicionando al peronismo como la principal fuerza opositora y alternativa al Gobierno nacional, lo que marca la agenda política del día.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al gobierno nacional",
+                "Soberanía (Malvinas)",
+                "Defensa de la industria",
+                "Fortalecimiento del peronismo"
+            ],
+            "postura_politica": "Líder opositor frontal al gobierno nacional, busca consolidar al peronismo como alternativa y defiende un modelo de estado industrializador frente a la 'primarización'. Su crítica a Milei sobre Malvinas es profunda.",
+            "frase_fuerte": "El mismo Milei que ayer se llenaba la boca hablando de Malvinas es el que expresó públicamente su admiración por Margaret Thatcher."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Desarrollo minero",
+                "Industria",
+                "Turismo",
+                "Federalismo económico",
+                "RIGI",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Pragmatismo económico y atracción de inversiones, destacando el rol de leyes nacionales como el RIGI para el desarrollo provincial. Aboga por la colaboración interprovincial.",
+            "frase_fuerte": "Y cómo leyes como el RIGI nos permiten elevar el nivel de inversión en la provincia, ayudar a la Nación a estabilizar la macroeconomía, transformar año a año nuestra matriz productiva y consolidar un país más competitivo y federal."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obras públicas (pavimentación)",
+                "Programas sociales (salud visual)",
+                "Educación (incentivo a estudiantes)"
+            ],
+            "postura_politica": "Enfoque en gestión local, mejora de infraestructura básica y programas de impacto social directo. Énfasis en el apoyo a la juventud y la educación.",
+            "frase_fuerte": "¡Escuchar sus proyectos y nuevas metas nos motiva! 🎓 Lanzamos +FUTURO para que más estudiantes chaqueños terminen la secundaria, sigan creciendo y sumen herramientas para el nuevo mundo."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Inversión en clubes deportivos",
+                "Desarrollo social",
+                "Infraestructura local"
+            ],
+            "postura_politica": "Impulso al deporte y a las instituciones como herramientas de inclusión social y comunitaria. Foco en obras que impactan directamente en la calidad de vida local.",
+            "frase_fuerte": "Porque los clubes son mucho más que lugares para practicar deporte: son espacios de contención que educan en valores, construyen comunidad y forman mejores personas."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Apoyo al sector productivo",
+                "Créditos",
+                "Economía regional",
+                "Generación de empleo"
+            ],
+            "postura_politica": "Foco en el respaldo financiero y estratégico a la producción local, especialmente en el sector agroindustrial, para fomentar el empleo y el crecimiento económico provincial.",
+            "frase_fuerte": "Sabemos que hoy acceder al crédito es difícil. Por eso estamos al lado de quienes producen, invierten y confían en #Córdoba y su gente, porque cuando el sector productivo vende, genera #empleo y sostiene puestos de trabajo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Diálogo federal",
+                "Federalismo económico",
+                "Cooperación interprovincial",
+                "Actividad económica"
+            ],
+            "postura_politica": "Busca la interacción y el diálogo con el gobierno nacional y otras provincias en foros económicos. Destaca la importancia de una agenda común 'sin grieta' para el desarrollo provincial.",
+            "frase_fuerte": "No hay grieta cuando se trata de trabajar por nuestras provincias y por nuestra gente."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura (rutas, agua, gas)",
+                "Desarrollo tecnológico (INVAP)",
+                "Educación técnica",
+                "Vinculación universidad-desarrollo"
+            ],
+            "postura_politica": "Promueve el desarrollo integral de la provincia a través de la inversión en infraestructura clave, el fortalecimiento de la ciencia y tecnología (INVAP) y la educación orientada al futuro.",
+            "frase_fuerte": "INVAP trasciende gobiernos y generaciones. Es ciencia, salud, energía, defensa, tecnología espacial y conocimiento convertido en soluciones concretas para la Argentina y el mundo."
+        }
+    ]
+}
