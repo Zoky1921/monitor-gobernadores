@@ -1,0 +1,330 @@
+{
+    "clima_general": "DIVERGENTE",
+    "resumen_ejecutivo": "La jornada federal exhibe una profunda división en la agenda política, con gobernadores como Axel Kicillof (Buenos Aires), Sergio Ziliotto (La Pampa) y Claudio Vidal (Santa Cruz) arremetiendo duramente contra el gobierno nacional por temas que van desde la soberanía de Malvinas y la paralización de la obra pública hasta la crisis económica y el 'industricidio'. En contraste, otros mandatarios como Raúl Jalil (Catamarca), Carlos Sadir (Jujuy), Marcelo Orrego (San Juan), Rogelio Frigerio (Entre Ríos), Alfredo Cornejo (Mendoza), Elías Suárez (Santiago del Estero) y Gustavo Melella (Tierra del Fuego) se enfocan en la promoción minera, energética y el desarrollo regional, con algunos incluso respaldando la nueva posición de la Nación sobre Malvinas o articulando trabajos con el gabinete nacional. La gestión local, la inversión en infraestructura y la educación son prioridades transversales, pero el tono nacional es marcadamente conflictivo.",
+    "analisis_profundo": "La agenda de los gobernadores en esta jornada se caracteriza por una marcada divergencia en la relación con el gobierno nacional, aunque con puntos de encuentro en la gestión interna. Un eje central de tensión es la política nacional, especialmente la relacionada con la soberanía de Malvinas y la gestión económica. Axel Kicillof (Buenos Aires) lanzó una crítica frontal y extensa al presidente por su 'actuación' sobre Malvinas, descalificando su patriotismo y acusándolo de destruir la industria, ciencia y obra pública, así como de subordinar intereses argentinos a extranjeros. En esta línea, Kicillof (Buenos Aires) también denunció el avance de la explotación petrolera ilegítima en Malvinas y la demora del gobierno nacional en aplicar sanciones. Sergio Ziliotto (La Pampa) se sumó a la crítica económica, alertando sobre un 'industricidio' nacional y la pérdida de poder adquisitivo, reafirmando el rol del Estado provincial frente al 'retiro' nacional en políticas de infancia. Claudio Vidal (Santa Cruz) también contrastó su gestión con décadas de 'kirchnerismo' en la provincia, reclamando por obras de vivienda y empleo local.\n\nPor otro lado, varios gobernadores del Norte y Cuyo participaron activamente en foros sobre minerales críticos (Raúl Jalil de Catamarca, Carlos Sadir de Jujuy, Marcelo Orrego de San Juan, Alfredo Cornejo de Mendoza), destacando el potencial de sus provincias para atraer inversiones con seguridad jurídica y reglas claras, y algunos, como Jalil (Catamarca), Cornejo (Mendoza), Elías Suárez (Santiago del Estero) y Gustavo Melella (Tierra del Fuego), elogiaron el cambio de posición del gobierno nacional respecto a Malvinas y la Base Naval Integrada. Esta postura muestra una disposición al diálogo y a la cooperación en áreas estratégicas, aunque Melella (Tierra del Fuego) enfatizó la necesidad de participación provincial efectiva en las decisiones sobre el Atlántico Sur.\n\nLa inversión en infraestructura local y el fomento de la educación y el empleo son temas recurrentes en todas las provincias. Jorge Macri (CABA) destacó la ley de obligatoriedad de sala de 3 años, y Rolando Figueroa (Neuquén) la generación de empleo y la conversión de planes sociales. Martín Llaryora (Córdoba) anunció importantes créditos para productores y la desanexación de escuelas. Rogelio Frigerio (Entre Ríos) resaltó la asistencia financiera conjunta con Córdoba y Santa Fe para el sector industrial energético, además de la relocalización de una planta de combustibles sintéticos en Uruguay que beneficia a Entre Ríos. Gildo Insfrán (Formosa) enfatizó el rol del Estado provincial en salud y educación a pesar del desfinanciamiento nacional. Maximiliano Pullaro (Santa Fe) se centró en la seguridad, la inauguración de una cárcel moderna y la organización de eventos deportivos internacionales, resaltando la recuperación de la paz y el orden.\n\nEn síntesis, la jornada revela un escenario federal complejo, con claras líneas de confrontación ideológica y económica con el poder central, equilibradas por esfuerzos provinciales autónomos y alianzas regionales para abordar desafíos clave y promover el desarrollo local, a la vez que algunos buscan alinear ciertas agendas con la Nación.",
+    "temas_calientes": [
+        {
+            "tema": "Soberanía de Malvinas y Política Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@EliasSuarezSDE",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Desarrollo Minero y Recursos Críticos",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@carlossadirjuy",
+                "@DrMarceloOrrego",
+                "@alfredocornejo",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Impacto de Políticas Económicas Nacionales y Resistencia Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@ClaudioVidalSer",
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@maxipullaro",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Gestión y Obra Pública Local/Regional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo",
+                "@ZiliottoSergio",
+                "@frigeriorogelio",
+                "@EliasSuarezSDE",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Seguridad y Justicia",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro",
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "LA PATRIA NO SE VENDE NI SE ACTÚA Anoche vi al Presidente hablando de Malvinas, hablando de soberanía, llamando a la unidad nacional y terminando con un “Viva la Patria”. Por un momento pensé que era inteligencia artificial. Durante mucho tiempo nos dijeron que Milei era así, que podía gustar o no, pero que por lo menos era auténtico. Pocas veces vi algo tan poco auténtico como el Milei de anoche. Ese patriotismo no le salió del corazón, le salió de un libreto. Ojalá me equivoque. Ojalá haya cambiado y finalmente haya comprendido que la Argentina necesita defender su soberanía, sus recursos y sus intereses nacionales. Nosotros no vamos a cuestionar a nadie por decir que las Malvinas son argentinas. Al contrario. Ayer anunció que finalmente iba a aplicar las sanciones que ya tenía a disposición pero nunca aplicó y que iba a construir una base en Ushuaia pero que él mismo paró como toda obra pública. Pero el problema no es lo que Milei dijo durante quince minutos anoche. El problema es lo que hizo durante tres años. Nunca tuvimos un Presidente tan enemigo de la unidad nacional, tan indiferente a nuestros intereses nacionales y tan dispuesto a subordinar las decisiones argentinas a intereses extranjeros. El mismo Milei que ayer se llenaba la boca hablando de Malvinas es el que expresó públicamente su admiración por Margaret Thatcher. El que habla de soberanía es el que impulsó la extranjerización de nuestras tierras. El que ayer pidió unidad nacional lleva tres años insultando, agrediendo y dividiendo a los argentinos. El que ayer dijo “Viva la Patria” es el mismo que está destruyendo la industria nacional, desfinanciando la ciencia argentina y las universidades, el mismo que abandonó la infraestructura y detuvo la construcción de obra pública para el desarrollo, la integración nacional y la generación de trabajo argentino. La soberanía se defiende todos los días y, hasta acá, los únicos intereses nacionales que defendió este gobierno son los de Estados Unidos. Celebro que Milei ayer haya dicho “Viva la Patria”. Pero la patria no necesita un eslogan nuevo, necesita un Presidente que la defienda. PD: Le mando una foto de mi actividad de hoy. Es en Ascasubi, Villarino, una pequeña localidad de nuestro sur bonaerense, esa patria que usted no conoce ni recorre. Quiso la casualidad que hoy me tocara inaugurar la Escuela N° 323. Un número cargado de significado: 323 fueron los argentinos que murieron en el hundimiento del Crucero General Belgrano, ordenado por su admirada Margaret Thatcher. Y quiso también la casualidad que los chicos eligieran “Héroes de Malvinas” como nombre para su escuela. La patria no se actúa. La patria se hace gobernando en favor de nuestro pueblo. Ojalá antes de terminar su mandato lo veamos al menos inaugurar una escuela, un camino, un hospital.",
+        "por_que_es_clave": "Este tweet es clave por su ataque directo y extenso al Presidente por su supuesta inconsistencia en el discurso sobre Malvinas y la soberanía nacional frente a sus acciones de gobierno en economía, educación, ciencia y obra pública. Polariza la discusión federal y marca una clara línea de oposición desde una provincia central.",
+        "pregunta_openarg": "¿Cómo impacta la retórica confrontativa del gobernador de Buenos Aires en la búsqueda de consensos federales sobre políticas de Estado, especialmente en temas sensibles como Malvinas y el desarrollo productivo?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Soberanía de Malvinas",
+                "Crítica a políticas nacionales",
+                "Gestión local",
+                "Inversiones productivas"
+            ],
+            "postura_politica": "Fuerte confrontación con el gobierno nacional, acusándolo de hipocresía en el tema Malvinas y de políticas destructivas para el país. Resalta la gestión provincial como alternativa de defensa de la soberanía y desarrollo.",
+            "frase_fuerte": "La patria no se actúa. La patria se hace gobernando en favor de nuestro pueblo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Educación",
+                "Justicia y Seguridad"
+            ],
+            "postura_politica": "Enfoque en la gestión educativa y el fortalecimiento de la justicia y seguridad en la Ciudad. Destaca el consenso político para avanzar en temas clave como la educación temprana.",
+            "frase_fuerte": "La sala de 3 años pasa a ser obligatoria en toda la Ciudad de Buenos Aires. Los primeros años son fundamentales para el desarrollo y el aprendizaje."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Economía del conocimiento",
+                "Minería (minerales críticos, inversiones)",
+                "Defensa de la soberanía (Malvinas)",
+                "Diálogo internacional"
+            ],
+            "postura_politica": "Activo promotor del desarrollo minero y la economía del conocimiento en su provincia, buscando inversiones y articulación regional. Muestra una postura de respaldo cauteloso al cambio de enfoque del gobierno nacional sobre Malvinas.",
+            "frase_fuerte": "Durante mi formación en el Ejército aprendí que la soberanía no se declama, se ejerce y se defiende con una presencia efectiva del Estado."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Educación",
+                "Salud",
+                "Infraestructura social"
+            ],
+            "postura_politica": "Enfoque en programas de desarrollo social y educativo para la juventud, buscando la terminalidad educativa y el reconocimiento del mérito.",
+            "frase_fuerte": "¡Escuchar sus proyectos y nuevas metas nos motiva! Lanzamos +FUTURO para que más estudiantes chaqueños terminen la secundaria, sigan creciendo y sumen herramientas para el nuevo mundo."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura deportiva",
+                "Salud",
+                "Desarrollo comunitario",
+                "Inclusión social"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura de salud y deporte para mejorar la calidad de vida y la inclusión, transformando deudas en obras y consolidando el deporte como herramienta social.",
+            "frase_fuerte": "RAWSON: UNA OBRA QUE PONE FIN A 13 AÑOS DE DÉFICIT ENERGÉTICO EN EL HOSPITAL"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Economía regional",
+                "Educación",
+                "Infraestructura urbana",
+                "Medios de comunicación"
+            ],
+            "postura_politica": "Enfoque en el fomento productivo y la inversión en capital humano e infraestructura. Destaca el rol activo del Estado provincial en la promoción del desarrollo y la lucha contra la deserción escolar.",
+            "frase_fuerte": "ACOMPAÑAMOS A QUIENES PRODUCEN Y GENERAN TRABAJO"
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Deportes",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Expresa optimismo y felicitaciones por eventos deportivos que proyectan la capacidad regional, valorando el trabajo conjunto y la resiliencia.",
+            "frase_fuerte": "Los Juegos Suramericanos 2026 serán en #SantaFe y demuestran la capacidad y resiliencia de los santafesinos al trabajar unidos por este evento que tendrá gran impacto social, recordándonos a los argentinos qué podemos lograr si soñamos en grande."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Desregulación energética",
+                "Política ambiental",
+                "Eliminación de privilegios políticos"
+            ],
+            "postura_politica": "Promueve la competitividad industrial y la defensa de los intereses provinciales en foros regionales e internacionales. Destaca el compromiso con la transparencia y la eliminación de privilegios en la política.",
+            "frase_fuerte": "ALIVIO PARA EL SECTOR INDUSTRIAL. Con los gobernadores @maxipullaro y @MartinLlaryora acordamos una medida conjunta para seguir acompañando a quienes producen, invierten y generan trabajo en la región."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Juventud",
+                "Salud",
+                "Educación",
+                "Conectividad",
+                "Críticas a políticas nacionales"
+            ],
+            "postura_politica": "Reafirma el rol del Estado provincial como garante de derechos en salud, educación y conectividad, en contraposición al gobierno nacional. Fomenta la participación juvenil y la unidad del peronismo.",
+            "frase_fuerte": "A pesar de las condiciones negativas que impone este gobierno nacional, nosotros vamos a seguir avanzando. Sin los agravios tan propios del Presidente ni con la mirada permanente hacia el extranjero."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Turismo",
+                "Minería (minerales críticos)"
+            ],
+            "postura_politica": "Impulsa el desarrollo turístico y minero de la provincia, buscando atraer inversiones y generar oportunidades. Participa activamente en foros internacionales para posicionar a Jujuy.",
+            "frase_fuerte": "Vuelven los vuelos de JetSmart a Jujuy. Es una alegría enorme porque sumar más vuelos significa más opciones de días, horarios y mejores precios para que los jujeños puedan viajar y para que el turismo siga creciendo como lo viene haciendo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Protección de la infancia",
+                "Educación superior",
+                "Política previsional",
+                "Desarrollo industrial"
+            ],
+            "postura_politica": "Defensor del rol activo del Estado provincial en la protección social, la educación pública y el fomento industrial, contrastando con las políticas de ajuste y 'retiro' del gobierno nacional.",
+            "frase_fuerte": "Frente al retiro del Gobierno nacional de distintas políticas de protección de la infancia, en La Pampa elegimos sostener y fortalecer la presencia del Estado."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Reforma fiscal",
+                "Minería (desarrollo, cobre, inversión)",
+                "Soberanía de Malvinas",
+                "Foros económicos"
+            ],
+            "postura_politica": "Aboga por una reforma fiscal integral y promueve la inversión en minería como motor de desarrollo, destacando la seguridad jurídica provincial. Expresa apoyo a la postura del gobierno nacional sobre Malvinas.",
+            "frase_fuerte": "La estabilidad macroeconómica es una condición indispensable para crecer, pero no alcanza. Argentina necesita una reforma fiscal integral que abarque el sistema impositivo, el gasto público, la distribución de los recursos y la coparticipación."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Economía",
+                "Foros empresariales"
+            ],
+            "postura_politica": "Promueve el diálogo y el intercambio de ideas en foros económicos para la toma de decisiones que beneficien a las pymes, empresas y ciudadanos, enfatizando la importancia de las provincias.",
+            "frase_fuerte": "No hay grieta cuando se trata de trabajar por nuestras provincias y por nuestra gente."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Empleo",
+                "Exportaciones",
+                "Energía (Vaca Muerta, inversiones)",
+                "Eliminación de privilegios",
+                "Obras estratégicas"
+            ],
+            "postura_politica": "Impulsa la diversificación económica a través de las exportaciones y la inversión en Vaca Muerta. Defiende la seguridad jurídica como pilar para el desarrollo y promueve la eliminación de privilegios políticos.",
+            "frase_fuerte": "Neuquén exporta más, y gracias a eso genera más trabajo y depende menos de la asistencia de Nación."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Ciencia y tecnología",
+                "Educación técnica",
+                "Desarrollo universitario",
+                "Plan Director de Agua",
+                "Inversiones"
+            ],
+            "postura_politica": "Enfocado en la planificación a largo plazo y la inversión en infraestructura clave (rutas, agua, educación, tecnología) para acompañar el crecimiento y generar oportunidades, aprovechando recursos de Vaca Muerta.",
+            "frase_fuerte": "50 AÑOS, UN MISMO ORGULLO: INVAP. Una empresa pública rionegrina que nació acá y hoy lleva el talento rionegrino al mundo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Minería",
+                "Desarrollo inmobiliario",
+                "Seguridad"
+            ],
+            "postura_politica": "Consolida a Salta como provincia minera, promoviendo inversiones con reglas claras y beneficio local. Prioriza la seguridad como política de Estado, con inversión en equipamiento policial.",
+            "frase_fuerte": "Salta dejó de ser una provincia con minerales para convertirse definitivamente en una provincia minera."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Minería (minerales críticos, cobre)",
+                "Deporte motor"
+            ],
+            "postura_politica": "Posiciona a San Juan como actor clave en el desarrollo de minerales críticos a nivel nacional e internacional. Busca fortalecer la provincia como sede de grandes eventos deportivos.",
+            "frase_fuerte": "San Juan no solo se prepara para el futuro de los minerales críticos: ya es protagonista y está haciendo historia."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Apoyo a cooperativas",
+                "Salud pública",
+                "Vivienda",
+                "Desarrollo productivo",
+                "Seguridad",
+                "Educación"
+            ],
+            "postura_politica": "Prioriza la inversión en desarrollo productivo, vivienda, salud y seguridad, articulando lo público y privado para mejorar la competitividad y la calidad de vida. Promueve la modernización tecnológica en educación y seguridad.",
+            "frase_fuerte": "Más apoyos económicos para las COOPERATIVAS de la Pcia. Hoy nueve (9) Cooperativas recibieron la aprobación de sus proyectos de inversión y el consiguiente aporte económico del Gobierno Provincial."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obra pública (viviendas, deportiva)",
+                "Empleo",
+                "Crítica a gobiernos anteriores"
+            ],
+            "postura_politica": "Destaca la reactivación de obras abandonadas y la entrega de viviendas, contrastando fuertemente con la gestión previa. Enfatiza el control para garantizar que los beneficios de la provincia sean para los santacruceños.",
+            "frase_fuerte": "MÁS DE 20 AÑOS ESPERANDO. HOY TIENEN SU CASA. El kirchnerismo tuvo décadas para resolverlo y no lo hizo."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Productividad",
+                "Seguridad",
+                "Deportes"
+            ],
+            "postura_politica": "Centrado en la recuperación del orden y la seguridad, con inversión en infraestructura penitenciaria y policial. Proyecta a Santa Fe como capital deportiva y un polo productivo en la región, impulsando la internacionalización de pymes.",
+            "frase_fuerte": "La política de seguridad que tenemos en Santa Fe es clara y no se negocia. Estamos dejando atrás el garantismo que durante años protegió a quienes generaban violencia en nuestra provincia, en lugar de cuidar a los santafesinos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Soberanía de Malvinas",
+                "Salud",
+                "Ciencia y tecnología",
+                "Educación"
+            ],
+            "postura_politica": "Apoya el cambio de postura nacional sobre Malvinas, enfatizando la unidad nacional en este tema. Destaca las inversiones provinciales en salud, ciencia y educación.",
+            "frase_fuerte": "Las Malvinas son y serán siempre argentinas y el pueblo argentino nunca renunciará al reclamo de soberanía sobre nuestras islas."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Soberanía de Malvinas",
+                "Industria",
+                "Servicios públicos",
+                "Alivio financiero"
+            ],
+            "postura_politica": "Destaca la importancia de Tierra del Fuego en la causa Malvinas y la necesidad de participación provincial en la estrategia nacional. Promueve la industria local como pilar de soberanía y desarrollo, y ofrece alivio financiero a las familias.",
+            "frase_fuerte": "No puede existir una política nacional sobre Malvinas que se construya sin Tierra del Fuego. Por eso solicitaremos formalmente una mayor apertura al diálogo y la participación efectiva de nuestra Provincia en cada decisión que se adopte sobre las Islas y el Atlántico Sur."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Salud",
+                "Gestión municipal",
+                "Política interna",
+                "Cultura y deporte",
+                "Economía del conocimiento"
+            ],
+            "postura_politica": "Refuerza el compromiso con la salud pública y el bienestar de los trabajadores. Prioriza la obra pública y el desarrollo de la economía del conocimiento. Enfatiza la unidad peronista y la defensa de la historia provincial.",
+            "frase_fuerte": "Acompañar a quienes cuidan la salud de los tucumanos es reconocer su vocación, esfuerzo y compromiso cotidiano."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Ciencia y tecnología",
+                "Vivienda",
+                "Deporte",
+                "Infraestructura"
+            ],
+            "postura_politica": "Enfocado en el fomento de la ciencia, la tecnología y el deporte como herramientas de desarrollo e inclusión. Prioriza la entrega de viviendas y la inversión en infraestructura local, manteniendo la cercanía con los municipios.",
+            "frase_fuerte": "La ciencia y la tecnología también se aprenden haciendo y animándose a crear investigar y compartir ideas con los demás."
+        }
+    ]
+}
