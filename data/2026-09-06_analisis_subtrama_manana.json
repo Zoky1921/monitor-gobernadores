@@ -1,0 +1,104 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de repliegue estratégico. Los gobernadores evitan posicionamientos federales y se refugian en la gestión local de obras y servicios. Kicillof refuerza alianzas provinciales con la Iglesia y Córdoba, mientras el resto prioriza la agenda de cabotaje. Sin señales de conflicto directo con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada transcurre sin tensión fiscal ni institucional visible. Los gobernadores de provincias centrales optan por un silencio calculado, evitando confrontar con la Casa Rosada. Kicillof, que en días previos desplegó una ofensiva retórica contra Milei por Malvinas, hoy se limita a retuitear actos de gestión y alianzas eclesiásticas. El resto de los mandatarios provinciales se sumerge en la obra pública local, como si la macroeconomía no existiera. Este apagón político coordinado sugiere una estrategia de desgaste: no darle al Presidente el rédito de la reacción, pero tampoco legitimar su relato.\n\nActo 2 — Los Alineamientos: Cornejo (Mendoza) se posiciona como el gestor eficiente, destacando operativos de seguridad en eventos masivos, sin mencionar a Nación. Figueroa (Neuquén) y Weretilneck (Río Negro) exhiben el modelo energético como motor de desarrollo local, con obras financiadas por Vaca Muerta. Passalacqua (Misiones) saluda a los empleados públicos, un gesto de baja intensidad pero que refuerza el vínculo con el Estado provincial. No hay socios explícitos de Milei, pero tampoco opositores declarados. La ambigüedad es la moneda de cambio.\n\nActo 3 — La Micro-política: Zdero (Chaco) y Poggi (San Luis) se refugian en la gestión de pavimento y saludos dominicales. Son provincias periféricas que no pueden darse el lujo de confrontar; su supervivencia depende de la obra pública propia y de no irritar al poder central. Weretilneck, con múltiples anuncios de acueductos y escuelas, marca el ritmo de una gestión que busca capitalizar los recursos del VMOS sin hacer ruido político. La ausencia de menciones a la coparticipación o al ajuste nacional es elocuente: todos callan porque hablar sería exponer su fragilidad fiscal.\n\nActo 4 — Saldo Presidencial: Para Milei, esta jornada de silencio es un respiro táctico. Sin embargo, la falta de respaldo explícito de los gobernadores a su gestión, incluso en temas como Malvinas, revela que el capital político de la Casa Rosada sigue siendo bajo. Los mandatarios no le dan batalla, pero tampoco le ofrecen tregua. El tablero queda congelado, a la espera de la próxima crisis que obligue a definiciones.",
+    "temas_calientes": [
+        {
+            "tema": "Obra pública y gestión local como refugio político",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Articulación política y religiosa",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad y capacidad organizativa provincial",
+            "gobernadores_involucrados": [
+                "@alfredocornejo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "PICÚN LEUFÚ CRECE CON EL DESARROLLO NEUQUINO\n\nLos recursos de Vaca Muerta transforman la vida de todos los neuquinos. Por eso licitamos las redes de gas y cloacas del barrio Portal de las Rosas, una obra esperada durante años.\n\nEstamos reparando una deuda histórica con muchas localidades que por años quedaron relegadas respecto al acceso a los servicios y haciendo realidad un desarrollo de la provincia con equidad territorial.",
+        "por_que_es_clave": "Figueroa vincula directamente la obra pública provincial con la explotación de Vaca Muerta, enviando un mensaje de autonomía fiscal y desarrollo endógeno. Es una forma de decir que Neuquén no necesita a Nación para crecer, y que los recursos energéticos se traducen en beneficios concretos para la gente.",
+        "pregunta_openarg": "¿Puede Vaca Muerta sostener el desarrollo provincial sin depender de la coparticipación nacional, o es solo una ilusión de autonomía?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Semana Social",
+                "alianza con Llaryora",
+                "Banco Provincia",
+                "obra hídrica"
+            ],
+            "postura_politica": "Kicillof se muestra en modo bajo perfil, pero teje alianzas: su presencia junto a Llaryora y la Iglesia en Córdoba refuerza el armado peronista de cara al futuro. La defensa de la obra de agua en Villarino es un guiño a la gestión provincial frente al abandono nacional. No ataca a Milei hoy, pero el silencio es estratégico: deja que sus acciones hablen.",
+            "frase_fuerte": "Las inversiones petroleras son importantes y generan empleo. Pero eso no habilita a burlarse de una obra de agua que una comunidad esperaba hace más de 20 años."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "pavimento urbano",
+                "Resistencia"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Zdero se limita a mostrar gestión de obras viales, sin mencionar a Nación ni a otros actores. Es un refugio en la gestión de cabotaje para evitar conflictos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "eventos deportivos",
+                "seguridad",
+                "coordinación"
+            ],
+            "postura_politica": "Cornejo exhibe capacidad de gestión y orden, destacando el operativo de seguridad para dos eventos simultáneos. No hay crítica ni apoyo a Nación; es una demostración de eficiencia provincial que busca posicionar a Mendoza como plaza confiable.",
+            "frase_fuerte": "Que podamos recibir dos eventos de esta magnitud al mismo tiempo y hacerlo con organización y responsabilidad habla de una provincia que está preparada."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "empleados públicos",
+                "saludo dominical"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Passalacqua dedica el día a agradecer a los trabajadores estatales, un gesto de baja intensidad que refuerza su vínculo con la burocracia provincial pero sin contenido político federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "obra pública",
+                "gas y cloacas"
+            ],
+            "postura_politica": "Figueroa capitaliza el desarrollo energético para mostrar equidad territorial. La licitación de redes en Picún Leufú es un ejemplo de cómo los recursos de Vaca Muerta se traducen en obras. El mensaje implícito es que Neuquén es autosuficiente y no necesita depender de Nación.",
+            "frase_fuerte": "Los recursos de Vaca Muerta transforman la vida de todos los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "acueducto",
+                "SUM escolar",
+                "producción local",
+                "Bono VMOS"
+            ],
+            "postura_politica": "Weretilneck despliega una batería de anuncios de obras menores, todas financiadas con recursos provinciales (Bono VMOS). Es una demostración de gestión constante, sin confrontación, pero marcando que Río Negro se las arregla sola. La omisión de Nación es elocuente.",
+            "frase_fuerte": "El desarrollo de Río Negro tiene que volver a la gente en obras concretas. Ese es el rumbo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "saludo dominical"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Un saludo genérico a las familias, sin contenido político ni de gestión. Es el mínimo esfuerzo comunicacional.",
+            "frase_fuerte": null
+        }
+    ]
+}
