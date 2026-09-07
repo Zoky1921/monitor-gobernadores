@@ -559,7 +559,7 @@ TWEETS A ANALIZAR:
                         prompt_groq = prompt_institucional.replace(data_context, data_context_groq, 1)
 
                     groq_payload = {
-                        "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+                        "model": "openai/gpt-oss-120b",
                         "messages": [
                             {"role": "system", "content": "Return ONLY valid JSON. No markdown. No extra text."},
                             {"role": "user", "content": prompt_groq},
