@@ -1,0 +1,164 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Los gobernadores priorizan la gestión local y la preparación de eventos de alto perfil, evitando confrontaciones directas con la Nación. La agenda se centra en obras públicas, seguridad, y la organización de la visita del Papa León XIV, mientras que algunos gobernadores como Claudio Vidal Ser utilizan la jornada para criticar al kirchnerismo.",
+    "analisis_profundo": "La jornada transcurre sin un conflicto central con la Casa Rosada. Los gobernadores, lejos de escalar tensiones, se repliegan en sus agendas provinciales. La ausencia de un tema unificador revela una estrategia de consolidación de poder local antes que de confrontación nacional.\n\nLos alineamientos se dibujan en torno a eventos de alto perfil. Martín Llaryora se posiciona como anfitrión de la visita papal, capitalizando un gesto de proyección internacional. En contraste, Claudio Vidal Ser profundiza su perfil opositor al kirchnerismo, utilizando la entrega de viviendas como plataforma de crítica. Los gobernadores de la Región Centro (Llaryora, Pullaro, Frigerio) aunque Frigerio no tuiteó hoy, Pullaro muestra coordinación en seguridad y deportes.\n\nLa micro-política se manifiesta en obras de infraestructura y gestión cotidiana. Leandro Zdero promueve el turismo, Nacho Torres ofrece alivio financiero, y Gustavo Melella se enfoca en la primera infancia. Estas acciones, aunque de bajo impacto federal, construyen capital político local.\n\nPara el Gobierno nacional, la jornada es de relativa calma. Los gobernadores no lanzan ataques directos, pero tampoco celebran logros nacionales. La ausencia de menciones a la macroeconomía sugiere una pausa calculada en la disputa fiscal.",
+    "temas_calientes": [
+        {
+            "tema": "Obra pública e infraestructura provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@gustavomelella",
+                "@insfran_gildo",
+                "@QuintelaRicardo",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Seguridad y combate al delito",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@ClaudioVidalSer",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Eventos internacionales y religiosos",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Crítica al kirchnerismo",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Energía y desarrollo productivo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "EN OCTUBRE VAMOS A TENER EN MARCHA 1.000 KILÓMETROS DE RUTA\n\nEstamos planificando la infraestructura que Neuquén necesita para acompañar el desarrollo de Vaca Muerta. Con el prefinanciamiento de las principales operadoras, vamos a poner en marcha obras claves para la industria en ruta 7, 6, 17 y 51. Antes de fin de año vamos a tener iniciadas en toda la provincia las obras para más de 1000 km de rutas.\n\nEs un verdadero ganar-ganar: la Provincia recibe regalías de manera anticipada y las empresas cuentan con mejores caminos para producir y transportar. Más infraestructura, más producción y más desarrollo para todos los neuquinos.",
+        "por_que_es_clave": "Muestra la capacidad de Neuquén de autofinanciar obras estratégicas mediante acuerdos con el sector privado, consolidando su autonomía frente a Nación y posicionando a Vaca Muerta como motor de desarrollo.",
+        "pregunta_openarg": "¿La apuesta de Neuquén por la infraestructura vial con prefinanciamiento de Vaca Muerta es un modelo replicable para otras provincias?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "turismo",
+                "pesca deportiva"
+            ],
+            "postura_politica": "Promueve el turismo local como motor económico, evitando cualquier referencia a la Nación. Es un gesto de gestión autónoma en un contexto de ajuste.",
+            "frase_fuerte": "La Isla del Cerrito volvió a ser el punto de encuentro de miles de familias, pescadores y emprendedores en el Torneo Internacional de Pesca del Dorado con Devolución"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "alivio financiero",
+                "banca pública"
+            ],
+            "postura_politica": "Ofrece refinanciación de deudas como respuesta a la crisis económica, mostrando un Estado provincial activo frente a la falta de políticas nacionales.",
+            "frase_fuerte": "Si tenés deudas con tus tarjetas de crédito del Banco del Chubut, ahora podés refinanciarlas con las mejores condiciones del mercado"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "política local",
+                "empleo juvenil"
+            ],
+            "postura_politica": "Recibe al intendente electo de Marcos Juárez y lanza el Programa Primer Paso, reforzando su imagen de gestor que articula con municipios y genera oportunidades laborales.",
+            "frase_fuerte": "Me comprometí con los vecinos de Marcos Juárez a trabajar junto a quien ellos eligieran para conducir la ciudad"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "efeméride local"
+            ],
+            "postura_politica": "Saluda el aniversario de Villa Escolar, manteniendo un perfil bajo y de gestión protocolar sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "cultura",
+                "vivienda",
+                "federalismo"
+            ],
+            "postura_politica": "Inaugura un café literario, entrega viviendas y se reúne con un intendente mendocino, tejiendo redes políticas y mostrando gestión cultural y social.",
+            "frase_fuerte": "En Mendoza compartí una jornada de trabajo con el intendente de Maipú, con quien coincidimos en la importancia de construir una Argentina más federal"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "fiesta cultural",
+                "turismo"
+            ],
+            "postura_politica": "Recorre la Fiesta Nacional del Inmigrante, promoviendo la identidad cultural y el turismo como ejes de gestión.",
+            "frase_fuerte": "La Fiesta Nacional del Inmigrante es la síntesis de lo que somos como misioneros, pujanza, trabajo, cultura, gastronomía y, sobre todo, convivencia en paz"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "infraestructura vial",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Anuncia un ambicioso plan de rutas financiado con regalías anticipadas, mostrando autonomía y capacidad de gestión vinculada a los recursos energéticos.",
+            "frase_fuerte": "EN OCTUBRE VAMOS A TENER EN MARCHA 1.000 KILÓMETROS DE RUTA"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "gas",
+                "empleo",
+                "conectividad",
+                "pymes",
+                "ganadería",
+                "salud",
+                "rutas"
+            ],
+            "postura_politica": "Difunde múltiples logros de gestión a través de retuits, consolidando una imagen de gobierno eficiente y presente en todas las áreas.",
+            "frase_fuerte": "El gas llegó a Puente 83"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "vivienda",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Entrega viviendas y ataca duramente al kirchnerismo, posicionándose como la alternativa que resuelve lo que el anterior gobierno dejó pendiente.",
+            "frase_fuerte": "El kirchnerismo tuvo tiempo, recursos y más de tres décadas para dar respuestas. Detrás de tantos anuncios quedaron viviendas sin terminar y santacruceños esperando 15, 17 y hasta 20 años."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "deportes",
+                "eventos internacionales"
+            ],
+            "postura_politica": "Inaugura el estadio Invencible y la pista de BMX para los Juegos Suramericanos, mostrando capacidad organizativa y dejando infraestructura como legado.",
+            "frase_fuerte": "Santa Fe será la capital deportiva del país!!"
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "primera infancia",
+                "gestión social"
+            ],
+            "postura_politica": "Recorre un Centro de Desarrollo Infantil, enfatizando el acompañamiento a las familias en un contexto de crisis, sin mencionar a la Nación.",
+            "frase_fuerte": "Los Centros de Desarrollo Infantil tienen un objetivo muy claro: acompañar a nuestros niños y niñas desde sus primeros años"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "clima_general": "CALMO",
+    "resumen_ejecutivo": "Los gobernadores impulsaron una agenda de desarrollo con énfasis en infraestructura vial, vivienda digna, empleo juvenil y fortalecimiento cultural. En Neuquén se anunciaron mil kilómetros de rutas para octubre, mientras Río Negro retomó rutas nacionales y amplió la cobertura de gas. Córdoba lanzó el Programa Primer Paso para 15.000 jóvenes, y Santa Cruz denunció años de espera en vivienda, prometiendo soluciones inmediatas. La cultura y el turismo también fueron protagonistas: Chubut celebró un torneo de pesca, La Rioja inauguró un café literario y Misiones destacó la Fiesta Nacional del Inmigrante. En conjunto, la jornada mostró coordinación provincial sin tensiones evidentes.",
+    "analisis_profundo": "La jornada del 07/09/2026 reveló una estrategia coordinada entre las provincias para abordar desafíos estructurales sin generar fricciones visibles. En el norte, Neuquén ( @Rolo_Figueroa ) puso en la agenda la expansión de mil kilómetros de rutas, una medida que busca canalizar las regalías de Vaca Muerta y mejorar la conectividad productiva; la misma provincia avanzó en el asfaltado total de su capital, señalando una política de infraestructura urbana integral. Río Negro ( @WeretilneckOK ) complementó la visión con la recuperación de rutas nacionales (22 y 151) y la ampliación de la red de gas, reforzando la igualdad de condiciones en territorios aislados. Córdoba ( @MartinLlaryora ) enfocó su discurso en la generación de empleo juvenil mediante el Programa Primer Paso, alineado con la necesidad de absorber la fuerza laboral joven y reducir la informalidad. Chubut ( @LeandroZdero y @NachoTorresCH ) combinó turismo y alivio financiero: el torneo de pesca impulsó la economía local, mientras la refinanciación de deudas ofreció un respiro a familias endeudadas, evidenciando una política de apoyo al consumo. La vivienda emergió como tema crítico en Santa Cruz ( @ClaudioVidalSer ) y La Rioja ( @QuintelaRicardo ), donde se anunciaron entregas de hogares y se criticó la inacción previa, marcando un giro hacia la solución de déficit habitacional. La cultura y la identidad regional fueron celebradas en Formosa ( @insfran_gildo ), Misiones ( @passalacquaok ) y La Rioja ( @QuintelaRicardo ), con aniversarios, festivales y la apertura de un café literario, reforzando la cohesión social y el turismo interno. Finalmente, Tierra del Fuego ( @gustavomelella ) destacó la inversión en la primera infancia, subrayando la prioridad de la educación temprana. En conjunto, la agenda federal se centró en infraestructura, vivienda, empleo y cultura, con una atmósfera de colaboración y sin señales de conflicto abierto.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura y rutas estratégicas",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Vivienda digna y solución habitacional",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Empleo juvenil y desarrollo económico",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Cultura, turismo y patrimonio local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@insfran_gildo",
+                "@passalacquaok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Educación infantil y bienestar familiar",
+            "gobernadores_involucrados": [
+                "@gustavomelella",
+                "@insfran_gildo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "EN OCTUBRE VAMOS A TENER EN MARCHA 1.000 KILÓMETROS DE RUTA",
+        "por_que_es_clave": "Marca una apuesta decisiva por la conectividad vial para potenciar la producción y la integración de la provincia con el resto del país.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "turismo",
+                "desarrollo local"
+            ],
+            "postura_politica": "Enfatiza el impulso del turismo como motor económico provincial.",
+            "frase_fuerte": "La Isla del Cerrito volvió a ser el punto de encuentro de miles de familias, pescadores y emprendedores en el Torneo Internacional de Pesca del Dorado con Devolución"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "finanzas",
+                "refinanciamiento"
+            ],
+            "postura_politica": "Promueve medidas de alivio crediticio para familias vulnerables.",
+            "frase_fuerte": "Un año de gracia, una tasa fija del 25% durante los primeros 24 meses y hasta 72 cuotas"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "empleo juvenil",
+                "colaboración municipal"
+            ],
+            "postura_politica": "Impulsa programas de inserción laboral y alianzas con municipios.",
+            "frase_fuerte": "el Programa Primer Paso (#PPP), que abrirá las puertas del mercado laboral a 15.000 jóvenes de 16 a 25 años"
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "cultura",
+                "comunidad"
+            ],
+            "postura_politica": "Destaca la cohesión social y la celebración de hitos locales.",
+            "frase_fuerte": "Celebramos un nuevo aniversario de Villa Escolar, una comunidad que creció con el esfuerzo, el trabajo y la esperanza de su pueblo"
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "cultura",
+                "vivienda",
+                "federalismo"
+            ],
+            "postura_politica": "Fomenta la identidad cultural y la expansión de viviendas dignas.",
+            "frase_fuerte": "Entregamos las llaves de su vivienda a María Rosa, que junto a su familia empieza una nueva etapa"
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "inmigración",
+                "cultura"
+            ],
+            "postura_politica": "Resalta la diversidad y la historia inmigrante como pilar provincial.",
+            "frase_fuerte": "La Fiesta Nacional del Inmigrante es la síntesis de lo que somos como misioneros, pujanza, trabajo, cultura, gastronomía y, sobre todo, convivencia en paz"
+        }
+    ]
+}
