@@ -1,0 +1,95 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por un marcado contraste en la gestión de la obra pública, con el gobernador Kicillof (Buenos Aires) lanzando una crítica directa a la Nación por la paralización de proyectos, mientras su provincia continúa invirtiendo en infraestructura. Otros gobernadores, como Zdero (Chaco) y Weretilneck (Río Negro), se enfocaron en la ejecución de obras locales y servicios, destacando avances en rutas, agua y educación. Llaryora (Córdoba) celebró elecciones municipales, y Cornejo (Mendoza) resaltó la capacidad provincial para albergar eventos masivos con seguridad. La agenda muestra un énfasis general en la gestión local y el desarrollo productivo, con una nota de tensión en la relación Nación-provincias por los recursos para infraestructura.",
+    "analisis_profundo": "La dinámica federal de hoy se centró en la autonomía y capacidad de las provincias para ejecutar obra pública y sostener servicios esenciales, especialmente en contraposición a las políticas nacionales. Axel Kicillof (Buenos Aires) fue el más explícito en esta tensión, capitalizando la paralización de la obra pública por parte del gobierno nacional para destacar la inversión y el esfuerzo bonaerense en infraestructura hídrica y desarrollo productivo local. Su mensaje no solo subraya una divergencia en la política económica sino que también busca consolidar un relato de autogestión provincial. En la misma línea, aunque sin mención directa a la Nación, Leandro Zdero (Chaco) y Alberto Weretilneck (Río Negro) publicaron sobre el avance de rutas, acueductos y mejoras educativas, proyectando una imagen de gobiernos activos en el territorio. Weretilneck, de hecho, explicitó la decisión de Río Negro de 'sostener la obra pública' con fondos propios, una declaración que resuena en el contexto actual. Por su parte, Martín Llaryora (Córdoba) se mantuvo en la órbita de la política local, celebrando un proceso electoral municipal y destacando la importancia del diálogo post-elección, lo que muestra un foco en la estabilidad institucional interna. Alfredo Cornejo (Mendoza) enfatizó la capacidad de su provincia para gestionar grandes eventos deportivos con éxito, proyectando una imagen de orden y eficiencia. La jornada, por lo tanto, no solo expone las prioridades de gestión provincial –infraestructura, servicios, producción local– sino también la persistente tensión por el financiamiento y la responsabilidad de la obra pública a nivel federal. La actitud de las provincias frente a este escenario es de resiliencia y autoafirmación, buscando soluciones y destacando logros propios ante la ausencia o retracción de la inversión nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Obra Pública y Confrontación Federal",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@WeretilneckOK",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Economía Regional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Política Local y Procesos Democráticos",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Mientras Nación paraliza la obra pública, con @Kicillofok seguimos priorizando las obras que los y las bonaerenses necesitan para vivir mejor.",
+        "por_que_es_clave": "Esta declaración es de alto impacto político al confrontar directamente la política de paralización de la obra pública del gobierno nacional, contrastándola con la inversión provincial. Subraya la autonomía y la capacidad de gestión de la Provincia de Buenos Aires frente a la Nación, un punto central de la disputa federal actual.",
+        "pregunta_openarg": "¿Hasta qué punto la estrategia provincial de asumir obras frenadas por Nación puede alterar el equilibrio de poder en la discusión federal?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Confrontación Federal",
+                "Desarrollo Local",
+                "Economía Regional"
+            ],
+            "postura_politica": "Adopta una postura de crítica frontal hacia el gobierno nacional por el cese de la obra pública, mientras destaca la continuidad de la inversión y gestión provincial en áreas clave como infraestructura hídrica y fomento productivo. Se posiciona como defensor de la agenda local frente a la desatención federal, promoviendo la autonomía y la capacidad bonaerense.",
+            "frase_fuerte": "Mientras Nación paraliza la obra pública, con @Kicillofok seguimos priorizando las obras que los y las bonaerenses necesitan para vivir mejor."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Obras Públicas"
+            ],
+            "postura_politica": "Enfocado en la promoción de la infraestructura como motor de desarrollo y mejora de la calidad de vida. Destaca el avance de obras estratégicas, como la Ruta al Impenetrable y pavimentación urbana, proyectando una imagen de gestión activa y orientada a la concreción de proyectos largamente esperados para la provincia.",
+            "frase_fuerte": "Así avanza la Ruta al Impenetrable, una obra histórica que va a marcar un antes y un después para toda la región."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Elecciones Municipales",
+                "Democracia",
+                "Diálogo Político Local"
+            ],
+            "postura_politica": "Centrado en el ámbito local, celebra la finalización de un proceso electoral municipal en Marcos Juárez, enfatizando los valores democráticos del debate y la construcción de consensos. Reafirma su compromiso de trabajar con las autoridades electas, priorizando el desarrollo de la ciudad por encima de las diferencias políticas.",
+            "frase_fuerte": "La democracia se fortalece cuando podemos competir, debatir nuestras diferencias y, al día siguiente, empujar juntos los proyectos comunes."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Servicios Básicos",
+                "Educación",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Muestra una gestión enfocada en la continuidad de la obra pública y el mejoramiento de los servicios esenciales, como el acceso a agua y la infraestructura educativa. Destaca el uso de fondos provinciales para estas obras y la promoción de la diversificación productiva local, afirmando el rol activo del Estado rionegrino en el desarrollo.",
+            "frase_fuerte": "En Río Negro decidimos sostener la obra pública porque sabemos que resuelve problemas concretos y mejora la vida de nuestra gente."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Seguridad Pública",
+                "Organización de Eventos",
+                "Turismo"
+            ],
+            "postura_politica": "Resalta la capacidad de Mendoza para organizar y garantizar la seguridad en eventos masivos de gran convocatoria, como espectáculos deportivos. Proyecta una imagen de provincia preparada, eficiente y atractiva para el turismo y la realización de futuros encuentros de magnitud.",
+            "frase_fuerte": "Que podamos recibir dos eventos de esta magnitud al mismo tiempo y hacerlo con organización y responsabilidad habla de una provincia que está preparada."
+        }
+    ]
+}
