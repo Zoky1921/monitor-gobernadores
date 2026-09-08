@@ -1,0 +1,187 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de hoy exhibe una gestión provincial intensa, focalizada en infraestructura, desarrollo productivo y políticas sociales. Varios gobernadores impulsaron obras de gran envergadura como rutas y centros de salud, y programas de empleo juvenil, reafirmando la presencia estatal local. Sin embargo, persisten puntos de fricción con el ámbito federal, evidenciados por críticas a la parálisis de obras nacionales y al 'garantismo' judicial, particularmente en el ámbito de la seguridad. El desarrollo energético y la industria continúan siendo motores clave, pero las tensiones subyacentes entre jurisdicciones y poderes marcan el tono de la jornada.",
+    "analisis_profundo": "La actividad de los gobernadores en las últimas horas revela una fuerte concentración en la gestión provincial y la afirmación de la autonomía local frente a desafíos externos. La inversión en infraestructura emerge como un eje central, con el gobernador Martín Llaryora (Córdoba) detallando la pavimentación de la Ruta Provincial 10 para impulsar la economía regional. En un claro gesto de autosuficiencia, Osvaldo Jaldo (Tucumán) anunció la continuación de obras del Registro Civil con fondos provinciales, tras la parálisis del financiamiento nacional, un punto de tensión explícito con el gobierno central. Rolo Figueroa (Neuquén) destacó una inversión histórica en infraestructura diversa (vial, educativa, hospitalaria), enfatizando que la provincia avanza más allá de Vaca Muerta, aunque sin dejar de promover el potencial energético. Alberto Weretilneck (Río Negro) también exhibió una gestión robusta en obras hídricas y eléctricas, modernización de la seguridad y digitalización de trámites, proyectando una imagen de planificación a largo plazo. \n\nEl desarrollo económico se vincula estrechamente con la energía y la industria. Alfredo Cornejo (Mendoza) y Rolo Figueroa (Neuquén) participaron en un foro sobre 'Energía para el Desarrollo', subrayando el potencial de Vaca Muerta y el fomento de inversiones. Gustavo Sáenz (Salta) se centró en la defensa de la industria salteña como motor de empleo y desarrollo. En políticas sociales, Leandro Zdero (Chaco) lanzó el programa '+FUTURO' para la inserción laboral juvenil y Claudio Vidal (Santa Cruz) entregó zapatillas escolares, mientras Gildo Insfrán (Formosa) inauguró un centro de salud. Ricardo Quintela (La Rioja) priorizó el diálogo con trabajadores rurales y la inauguración de un centro cultural, manteniendo un perfil de gestión cercana a la comunidad. Gerardo Zamora (Santiago del Estero) promovió la cultura con el anuncio de la Feria Internacional del Libro.\n\nLas tensiones políticas fueron notables. Maximiliano Pullaro (Santa Fe) lanzó una crítica contundente contra el 'garantismo bobo' judicial tras la suspensión del régimen penal juvenil en Buenos Aires, posicionando a Santa Fe con una política de seguridad de mano dura. La mención de Osvaldo Jaldo (Tucumán) sobre la parálisis de obras nacionales subraya las dificultades persistentes en la relación fiscal y de gestión entre la Nación y las provincias. Estos puntos críticos elevan el clima político general, demostrando que las provincias están dispuestas a asumir un rol proactivo y a diferenciarse, incluso confrontar, cuando perciben afectaciones a sus intereses o a la agenda pública prioritaria.",
+    "temas_calientes": [
+        {
+            "tema": "Afirmación de la gestión provincial y crítica a la parálisis nacional",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo económico regional: energía, industria y minería",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura y obras públicas (vial, hídrica, salud, educativa)",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@insfran_gildo",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Políticas de seguridad y justicia",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Educación y empleo juvenil como pilares del desarrollo provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@ClaudioVidalSer",
+                "@WeretilneckOK",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Ayer una jueza de Lomas de Zamora suspendió la aplicación del nuevo régimen penal juvenil y le pide explicaciones al gobierno de su provincia. El garantismo bobo que no termina de entender la dimensión del problema y busca excusas para no actuar. Los jueces están para que las leyes se cumplan, y la ley es muy clara: no permitir que los delincuentes, de la edad que sea, se la lleven de arriba. Es muy grave lo que sucedió. Costó mucho dar ese debate, y en Santa Fe sabemos muy bien lo que pasa cuando los menores son impunes con la excusa de su edad. Roban y matan, y el Estado no puede hacer nada para frenarlos. Nos preparamos para aplicar la baja en la edad de punibilidad. Tenemos tobilleras electrónicas, institutos de menores y, para los casos más graves, tenemos módulos penitenciarios especializados. La ley se tiene que aplicar.",
+        "por_que_es_clave": "El gobernador (Santa Fe) emite una crítica directa y fuerte a una decisión judicial que afecta el régimen penal juvenil, un tema de alta sensibilidad social y con implicaciones en la política de seguridad a nivel federal. Su postura inflexible ante el delito de menores subraya una confrontación con el 'garantismo' y reafirma su línea de gestión en seguridad.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Obra pública",
+                "Federalismo"
+            ],
+            "postura_politica": "A través de retweets, el gobernador (Catamarca) valida la importancia de defender la industria y los recursos provinciales, al mismo tiempo que apoya la gestión de obra pública local como pilar del desarrollo y la presencia del Estado, incluso ante la falta de financiamiento nacional.",
+            "frase_fuerte": "Defender la industria salteña es defender el trabajo, la producción y el sustento de miles de familias."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Educación",
+                "Empleo juvenil",
+                "Infraestructura escolar"
+            ],
+            "postura_politica": "El gobernador (Chaco) se enfoca en políticas para impulsar a la juventud, conectando la educación con el mercado laboral a través del programa '+FUTURO'. Reafirma el compromiso con la mejora de la infraestructura escolar, destacando la importancia de invertir en educación para el desarrollo provincial.",
+            "frase_fuerte": "Con el programa +FUTURO, Impulsamos a los estudiantes chaqueños para que completen sus estudios y tengan un puente directo a nuevas oportunidades laborales."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Empleo juvenil",
+                "Desarrollo económico local"
+            ],
+            "postura_politica": "El gobernador (Córdoba) enfatiza la obra pública, como el pavimento de la Ruta Provincial 10, como un motor de progreso económico. Su relanzamiento del 'Programa Primer Paso' demuestra un compromiso continuo con la inserción laboral de jóvenes y el apoyo al sector productivo, incentivando la participación empresarial.",
+            "frase_fuerte": "Hacemos infraestructura porque es #progreso y desarrollo."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Bienestar social",
+                "Desarrollo local"
+            ],
+            "postura_politica": "El gobernador (Formosa) destaca la inversión en salud pública con la inauguración de un centro de salud integral, como una premisa central de su 'Modelo Formoseño'. Su agenda también incluye eventos de cohesión social y reconocimiento de sectores productivos, reflejando una gestión orientada a garantizar servicios y fortalecer la identidad provincial.",
+            "frase_fuerte": "De esta manera, el Modelo Formoseño cumple una de sus premisas centrales, garantizando el derecho a la salud en todo el territorio provincial, mediante políticas públicas integrales, inclusivas y equitativas."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Derechos laborales",
+                "Cultura",
+                "Obra pública"
+            ],
+            "postura_politica": "El gobernador (La Rioja) prioriza el diálogo con los trabajadores rurales para defender sus derechos y promueve la cultura con la inauguración de un centro histórico. Su gestión se orienta a fortalecer el movimiento obrero y a generar oportunidades a través de obras de impacto local, construyendo un futuro que valora el esfuerzo y la identidad del pueblo.",
+            "frase_fuerte": "El diálogo con los trabajadores y sus representantes es fundamental para construir un país que los incluya y valore su esfuerzo."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Desarrollo energético",
+                "Minería",
+                "Inversión privada"
+            ],
+            "postura_politica": "El gobernador (Mendoza) se consolida como un impulsor de la inversión en energía y minería, destacando el potencial de Vaca Muerta y el fomento de proyectos con proveedores locales. Participa activamente en foros internacionales, buscando generar las condiciones para que las inversiones se traduzcan en empleo y desarrollo provincial.",
+            "frase_fuerte": "El crecimiento de Vaca Muerta abre nuevas posibilidades para distintos puntos de Argentina y, en particular, para Mendoza, fortaleciendo a nuestros proveedores y ampliando la actividad productiva."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Obra pública",
+                "Desarrollo energético",
+                "Federalismo",
+                "Soberanía"
+            ],
+            "postura_politica": "El gobernador (Neuquén) enfatiza la mayor inversión histórica en obra pública, buscando un desarrollo provincial integral más allá de Vaca Muerta. Al mismo tiempo, posiciona a Neuquén como motor energético global y defiende la soberanía sobre las tierras, proyectando una provincia que gestiona con ambición y visión de futuro.",
+            "frase_fuerte": "Estamos haciendo la mayor inversión en obra pública de la historia de Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Seguridad",
+                "Digitalización",
+                "Salud",
+                "Educación",
+                "Vivienda"
+            ],
+            "postura_politica": "El gobernador (Río Negro) despliega una agenda de gestión integral, abarcando desde grandes obras de agua y energía hasta la modernización tecnológica en seguridad y trámites administrativos. Su enfoque en la planificación a largo plazo y la mejora continua de los servicios públicos refleja un compromiso con la calidad de vida y el fortalecimiento institucional de la provincia.",
+            "frase_fuerte": "No estamos pensando solamente en resolver los problemas de hoy: estamos planificando la ciudad que viene."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Empleo",
+                "Economía regional"
+            ],
+            "postura_politica": "El gobernador (Salta) reafirma su compromiso con la defensa de la industria salteña, que abarca el campo, la minería y la energía, como garantes del trabajo y el sustento de las familias. Su presencia en la inauguración de la Casa de la Industria subraya una clara alineación con el sector productivo provincial.",
+            "frase_fuerte": "Defender la industria salteña es defender el trabajo, la producción y el sustento de miles de familias."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia",
+                "Deporte"
+            ],
+            "postura_politica": "El gobernador (Santa Fe) adopta una postura enérgica en seguridad, criticando abiertamente la suspensión del régimen penal juvenil y el 'garantismo bobo'. Reafirma su voluntad de aplicar la ley y muestra un fuerte compromiso con la infraestructura deportiva provincial de cara a los Juegos Suramericanos.",
+            "frase_fuerte": "El garantismo bobo que no termina de entender la dimensión del problema y busca excusas para no actuar. Los jueces están para que las leyes se cumplan, y la ley es muy clara: no permitir que los delincuentes, de la edad que sea, se la lleven de arriba."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Cultura",
+                "Educación"
+            ],
+            "postura_politica": "El gobernador (Santiago del Estero) impulsa la cultura a través del anuncio de la Feria Internacional del Libro, proyectando a la provincia como un centro de encuentro, innovación y participación ciudadana. Esta iniciativa refuerza su valoración de la educación y la cultura como pilares para el desarrollo provincial.",
+            "frase_fuerte": "Me llena de alegría anunciar la 16° Feria Internacional del Libro en nuestra provincia, un espacio que es un orgullo porque reúne cultura, innovación y la participación de miles de santiagueños y visitantes de todas las edades."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra pública",
+                "Autonomía provincial",
+                "Federalismo",
+                "Estado presente"
+            ],
+            "postura_politica": "El gobernador (Tucumán) exhibe la capacidad provincial para continuar y financiar obras clave, como la restauración del Registro Civil, que habían sido paralizadas por falta de financiamiento nacional. Esta acción refuerza una imagen de autonomía y eficacia, destacando el 'Estado presente' y la búsqueda de equidad para el interior provincial.",
+            "frase_fuerte": "Los trabajos comenzaron con financiamiento nacional, pero quedaron paralizados durante aproximadamente nueve meses. Ante esta situación, solicitamos la transferencia de la obra y asumimos su continuidad con recursos provinciales, porque gobernar también es tomar decisiones y sostener las obras que Tucumán necesita."
+        }
+    ]
+}
