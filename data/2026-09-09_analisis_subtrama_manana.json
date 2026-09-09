@@ -1,0 +1,153 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por la celebración de logros educativos en Córdoba, que contrastan con el retroceso nacional, mientras gobernadores de distinto signo político exhibieron gestión local como respuesta al ajuste nacional. Sin embargo, la ausencia de debate fiscal directo sugiere una tregua táctica.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión principal de la jornada es la ausencia de conflicto fiscal directo, pero la competencia simbólica entre provincias y Nación se manifiesta en los logros educativos de Córdoba. Llaryora utiliza los resultados PISA para demostrar que su gestión supera el promedio nacional, en un contexto donde el gobierno central enfrenta críticas por el retroceso en educación. Esto establece un contraste que los gobernadores opositores aprovechan para erosionar la credibilidad del relato nacional.\n\nActo 2 — Los Alineamientos: Llaryora se posiciona como el líder de la gestión provincial exitosa, mientras que Figueroa, desde Neuquén, muestra un modelo de desarrollo basado en la asociación público-privada que depende de Vaca Muerta. Ambos son gobernadores de signo político diferente pero comparten una narrativa de eficiencia frente al Estado nacional. En la vereda opuesta, Vidal (Santa Cruz) arremete contra el kirchnerismo, alineándose con el discurso de cambio que impulsa la Casa Rosada, mientras que Macri (CABA) se mantiene en una agenda institucional neutral.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas como Quintela, Poggi, Zdero y Jaldo se refugian en la gestión de cabotaje: inauguraciones, programas educativos y reuniones locales. Evitan cuidadosamente cualquier mención a la macroeconomía o a Nación, lo que sugiere un cálculo de supervivencia: no quieren quedar atrapados en la polarización nacional mientras intentan sostener la gobernabilidad local con recursos propios.\n\nActo 4 — Saldo Presidencial: Para el gobierno nacional, la jornada no representa un daño inmediato, pero sí una acumulación de evidencias de que las provincias están construyendo relatos alternativos de éxito. La ausencia de críticas frontales a Milei es llamativa, pero los logros exhibidos por Córdoba y Neuquén son un recordatorio de que la recuperación económica aún no se traduce en mejoras educativas o de infraestructura en todo el país. El capital político de la Casa Rosada se erosiona lentamente, más por omisión que por ataque.",
+    "temas_calientes": [
+        {
+            "tema": "Resultados PISA y educación provincial como contraste nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura energética y vial con prefinanciamiento privado",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Obra pública e infraestructura como refugio de gestión local",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Confrontación simbólica con el kirchnerismo en provincias petroleras",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Agenda institucional y diplomática de bajo perfil",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "Quiero felicitar a nuestros estudiantes, docentes, directivos, padres y a toda la comunidad educativa de #Córdoba. Este logro es de ustedes, del esfuerzo de cada día, de enseñar, aprender, acompañar y nunca bajar los brazos.\n\nLos resultados de las pruebas #PISA2025 nos llenan de orgullo: Córdoba se ubica entre los tres mejores sistemas educativos de América Latina, detrás de Uruguay y Chile, y supera el promedio nacional en todas las áreas evaluadas: Ciencias, Lectura, Matemática y Aprendizaje en el Mundo Digital.\n\nEstos resultados se suman a los avances que ya habíamos alcanzado en las #PruebasAprender, donde nuestros estudiantes también son los mejores de las provincias argentinas.\n\nAdemás, mientras los resultados del país retrocedieron respecto de 2022, Córdoba mejoró en Ciencias y sostuvo sus desempeños en Lectura y Matemática.\n\nEsto nos emociona y nos confirma que las políticas educativas que venimos implementando son las correctas. Pero también nos desafía a seguir mejorando, porque sabemos que todavía queda mucho por hacer.\n\nSentimos un enorme orgullo cordobés por estos resultados. Un orgullo que nace del talento y el esfuerzo de nuestra gente y que nos compromete a seguir invirtiendo, innovando y trabajando juntos para que cada chico y cada joven pueda aprender, crecer y cumplir sus sueños.\n\n¡FELICITACIONES A TODA LA COMUNIDAD EDUCATIVA DE CÓRDOBA!\n\n#HacerParaCrecer",
+        "por_que_es_clave": "Llaryora utiliza los resultados PISA para posicionar a Córdoba como un modelo educativo que supera al promedio nacional, en un contexto de retroceso general. Es un mensaje de eficiencia provincial que erosiona el relato del gobierno nacional sobre la gestión educativa, sin necesidad de atacar directamente.",
+        "pregunta_openarg": "¿Puede un gobernador construir un relato de éxito provincial que opaque los resultados nacionales, y qué consecuencias políticas tiene para el oficialismo nacional?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Homenaje a periodista",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Macri se mantiene en una agenda institucional de bajo perfil, evitando confrontar directamente con Nación. El homenaje a Gelblung refuerza su vínculo con el periodismo tradicional, mientras que la reunión con Uruguay proyecta una imagen de gestión internacional, pero sin contenido federal conflictivo.",
+            "frase_fuerte": "Generoso, ácido, siempre hábil en la pregunta."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "Empleo juvenil"
+            ],
+            "postura_politica": "Zdero promueve un programa de incentivo educativo que busca retener estudiantes y vincularlos con el mundo laboral. En un contexto de ajuste nacional, esta iniciativa provincial busca mostrar capacidad de gestión propia, aunque sin mencionar a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación",
+                "Resultados PISA",
+                "Infraestructura escolar"
+            ],
+            "postura_politica": "Llaryora utiliza los resultados PISA 2025 para posicionar a Córdoba como modelo educativo en América Latina, contrastando implícitamente con el retroceso nacional. Es un mensaje de eficiencia provincial frente a la gestión nacional, sin ataque directo pero con clara intención de marcar territorio.",
+            "frase_fuerte": "Córdoba se ubica entre los tres mejores sistemas educativos de América Latina"
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Homenaje",
+                "Política provincial"
+            ],
+            "postura_politica": "Frigerio se limita a un gesto institucional de despedida a una diputada fallecida, sin contenido político federal. Refleja una jornada de bajo perfil para el gobernador entrerriano.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Efeméride",
+                "Derechos de la mujer"
+            ],
+            "postura_politica": "Ziliotto aprovecha una efeméride histórica para reivindicar la lucha de Evita y la paridad de género, alineándose con el peronismo y marcando distancia de la gestión nacional que no prioriza estos temas. Es un posicionamiento simbólico.",
+            "frase_fuerte": "Del voto a la paridad hay una sola historia: la de ampliar derechos."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Salud",
+                "Infraestructura",
+                "Gestión local"
+            ],
+            "postura_politica": "Quintela muestra una intensa actividad de gestión en el interior provincial, inaugurando centros de salud y obras de infraestructura. Sin mención a Nación, su mensaje es de autosuficiencia y presencia estatal en un contexto de recorte nacional.",
+            "frase_fuerte": "Creemos que la salud pública debe llegar a cada rincón de la provincia."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Cultura",
+                "Energía",
+                "Infraestructura",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Figueroa anuncia una inversión masiva en infraestructura vial con prefinanciamiento de empresas petroleras, mostrando un modelo de gestión asociativa entre provincia y sector privado. También lanza programas culturales. Es un mensaje de fortaleza y autonomía, destacando que Neuquén avanza con sus propios recursos.",
+            "frase_fuerte": "Estamos haciendo la mayor inversión en obra pública de la historia de Neuquén."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Innovación",
+                "Vivienda",
+                "Obra pública"
+            ],
+            "postura_politica": "Poggi despliega una nutrida agenda de gestión local, con foco en vivienda, tecnología y mejoras urbanas. Sin referencias nacionales, su mensaje es de eficiencia provincial y atención a las necesidades cotidianas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Petróleo",
+                "Trabajo",
+                "Crítica al kirchnerismo"
+            ],
+            "postura_politica": "Vidal aprovecha la puesta en marcha de un equipo perforador para criticar duramente a los gobiernos kirchneristas anteriores, acusándolos de destruir la provincia. Es un posicionamiento fuertemente antikirchnerista, alineado con el discurso de cambio y gestión responsable.",
+            "frase_fuerte": "El kirchnerismo no solo nos dejó una bomba de tiempo después de 30 años de destruir la provincia."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura",
+                "Eventos internacionales"
+            ],
+            "postura_politica": "Pullaro muestra el avance de los preparativos para los Juegos Suramericanos, destacando la capacidad organizativa de Santa Fe. Es un mensaje de orgullo provincial y eficiencia, sin contenido político partidario.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Política provincial",
+                "Libertad de prensa"
+            ],
+            "postura_politica": "Jaldo mantiene reuniones institucionales con legisladores y con ADEPA, mostrando apertura al diálogo y defensa de la libertad de prensa. Busca proyectar una imagen de gobernabilidad y consenso.",
+            "frase_fuerte": null
+        }
+    ]
+}

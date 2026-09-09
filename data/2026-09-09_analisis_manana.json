@@ -1,0 +1,146 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de hoy se centró en la gestión provincial y la afirmación de modelos propios. Martín Llaryora (Córdoba) destacó los logros educativos de su provincia en contraste con el retroceso nacional, mientras que Claudio Vidal (Santa Cruz) anunció la reactivación petrolera con fuerte crítica a la gestión kirchnerista. Rolando Figueroa (Neuquén) impulsó la infraestructura de Vaca Muerta con financiamiento privado anticipado, y Sergio Ziliotto (La Pampa) reafirmó el compromiso con la paridad de género. Otros gobernadores, como Jorge Macri (Ciudad Autónoma de Buenos Aires), Ricardo Quintela (La Rioja), Leandro Zdero (Chaco), Maxi Pullaro (Santa Fe) y Claudio Poggi (San Luis), se enfocaron en obras y programas de desarrollo local, reflejando prioridades diversas y la capacidad de gestión autónoma.",
+    "analisis_profundo": "La jornada del 9 de septiembre de 2026 subraya una profunda divergencia en las agendas provinciales, con un marcado énfasis en la autonomía y la capacidad de gestión local, a menudo en contraste directo con las políticas o el desempeño del Gobierno Nacional. Martín Llaryora (Córdoba) capitalizó los resultados de las pruebas PISA 2025 para posicionar a Córdoba como un referente educativo en la región, resaltando el progreso provincial frente a una 'caída nacional'. Esta declaración no solo celebra un logro sino que también establece una postura de diferenciación y crítica implícita al modelo educativo central.\n\nEn el ámbito energético, la dinámica federal muestra dos caras. Rolando Figueroa (Neuquén) ejemplifica una colaboración público-privada pragmática al acordar con empresas petroleras el prefinanciamiento de infraestructuras clave para Vaca Muerta mediante regalías anticipadas, subrayando la capacidad provincial de generar soluciones. En contraste, Claudio Vidal (Santa Cruz) utilizó el anuncio de reactivación petrolera para lanzar una fuerte crítica a la administración 'kirchnerista' anterior, culpándola del estancamiento y posicionando su gestión como la que 'escucha y defiende a los trabajadores' con acciones concretas como la reducción de regalías. Esto evidencia la polarización política que persiste a nivel subnacional.\n\nSergio Ziliotto (La Pampa) se centró en la conmemoración del sufragio femenino y el avance de la paridad de género en las candidaturas, alineándose con una agenda de ampliación de derechos y destacando la progresividad de las políticas pampeanas. Este enfoque en derechos sociales se observa también en Ricardo Quintela (La Rioja) con la inauguración de centros de salud y en Claudio Poggi (San Luis) con programas de vivienda, formación en IA para empleados públicos y entrega de bicicletas a estudiantes, lo que demuestra un Estado provincial activo en la provisión de servicios y la promoción de la innovación interna.\n\nEn síntesis, la jornada refleja un escenario donde las provincias no solo gestionan sus propias realidades y necesidades con recursos locales y creatividad financiera, sino que también reafirman identidades políticas y programáticas, sea a través de la distinción por logros (Córdoba), la crítica a modelos pasados (Santa Cruz) o la reafirmación de agendas progresistas (La Pampa). La infraestructura, la educación, la energía y las políticas sociales se consolidan como los pilares de la acción provincial, con un clima político que oscila entre la afirmación autónoma y la tensión con las narrativas y resultados nacionales.",
+    "temas_calientes": [
+        {
+            "tema": "Educación y Contraste con la Gestión Nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Impulso a la Producción y la Inversión Regional",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo de Infraestructura y Servicios Locales",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Promoción de Políticas de Género y Derechos",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Innovación en la Administración Pública",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "NOSOTROS SÍ ESCUCHAMOS Y DEFENDEMOS A LOS TRABAJADORES\n\nEl kirchnerismo no solo nos dejó una bomba de tiempo después de 30 años de destruir la provincia, con equipos parados y una economía débil, también le dio la espalda durante años a los laburantes, mientras hablaba de trabajo y de defenderlos.\n\nPero los santacruceños en 2023 elegimos otro camino: escuchar, trabajar codo a codo y, con mucho esfuerzo, volver a poner a Santa Cruz a producir, cueste lo que cueste.\n\nHoy, en Tres Picos, pusimos en marcha el primer equipo perforador propio de CGC. La reducción de tres puntos en las regalías acompañó esta inversión para generar más trabajo y más producción para los santacruceños.\n\nLos problemas no se resuelven desde un escritorio. Se resuelven poniendo el cuerpo.\n\nSanta Cruz puede y tiene rumbo.",
+        "por_que_es_clave": "El gobernador de Santa Cruz, Claudio Vidal, emite un mensaje altamente político y confrontativo, responsabilizando explícitamente a la administración 'kirchnerista' por el deterioro productivo de la provincia. Destaca su gestión como una que 'defiende a los trabajadores' y reactiva la actividad petrolera con medidas concretas como la reducción de regalías, marcando una clara ruptura con el pasado y afirmando un nuevo rumbo para Santa Cruz.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Relaciones Internacionales",
+                "Cooperación Urbana",
+                "Seguridad Urbana",
+                "Transformación Digital"
+            ],
+            "postura_politica": "Enfocado en la diplomacia subnacional, busca fortalecer lazos internacionales para el desarrollo urbano. Su encuentro con autoridades uruguayas subraya una agenda de cooperación en seguridad y tecnología, proyectando a CABA como un actor relevante en la región.",
+            "frase_fuerte": "Argentina y Uruguay tienen una amistad histórica. Seguimos fortaleciendo el vínculo y avanzamos en el trabajo conjunto entre nuestras ciudades en temas clave como seguridad urbana, transformación digital e innovación."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "Desarrollo Local",
+                "Juventud"
+            ],
+            "postura_politica": "Prioriza el apoyo a la educación y la juventud a través de programas que buscan incentivar la terminalidad escolar y conectar a los estudiantes con el mundo laboral, promoviendo el desarrollo y las oportunidades en la provincia.",
+            "frase_fuerte": "El programa +Futuro sigue llegando a cada rincón de la provincia! Gracias a los estudiantes de Villa Ángela por la energía que nos impulsa y la recepción a esta iniciativa que premia su esfuerzo y les acerca herramientas fundamentales."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación",
+                "Logros Provinciales",
+                "Contraste con Nación"
+            ],
+            "postura_politica": "Se posiciona como un líder en educación, utilizando los resultados de las pruebas PISA 2025 para destacar los logros de Córdoba y diferenciarse explícitamente del desempeño nacional. Afirma el orgullo cordobés y el éxito de sus políticas educativas.",
+            "frase_fuerte": "Los resultados de las pruebas #PISA2025 nos llenan de orgullo: Córdoba se ubica entre los tres mejores sistemas educativos de América Latina, detrás de Uruguay y Chile, y supera el promedio nacional en todas las áreas evaluadas: Ciencias, Lectura, Matemática y Aprendizaje en el Mundo Digital."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Derechos Sociales",
+                "Paridad de Género",
+                "Historia Política"
+            ],
+            "postura_politica": "Destaca el compromiso histórico de La Pampa con la ampliación de derechos, celebrando el sufragio femenino y la implementación de la paridad de género en candidaturas. Se muestra como un defensor de políticas progresistas que construyen una provincia más justa e inclusiva.",
+            "frase_fuerte": "Avanzamos con la paridad de género en las candidaturas provinciales y municipales para que la igualdad política no sea solo una declaración, sino una realidad en cada lugar donde se toman decisiones."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Infraestructura Local",
+                "Obra Pública"
+            ],
+            "postura_politica": "Enfocado en la expansión y mejora de los servicios públicos esenciales a nivel local, con la inauguración de un centro de salud y la iluminación de avenidas. Reafirma el compromiso con una salud pública gratuita y de calidad, y el desarrollo de infraestructura que transforma la vida de las comunidades.",
+            "frase_fuerte": "Creemos que la salud pública debe llegar a cada rincón de la provincia. Debe garantizarse el derecho de todos y todas al acceso a una salud pública, gratuita y de calidad, y trabajamos todos los días para hacer efectivo ese derecho fundamental."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura Energética",
+                "Desarrollo de Vaca Muerta",
+                "Cultura y Deporte",
+                "Financiamiento Provincial"
+            ],
+            "postura_politica": "Impulsa el desarrollo provincial a través de inversiones clave en infraestructura energética y vial, particularmente en la zona de Vaca Muerta, mediante acuerdos innovadores con el sector privado. También enfatiza la promoción cultural y deportiva como pilares de la identidad neuquina.",
+            "frase_fuerte": "El gobierno de Neuquén y trece empresas petroleras acordaron un esquema de financiamiento de US$ 154,5 millones para pavimentar, repavimentar y reparar rutas vinculadas con Vaca Muerta. Los fondos surgirán de adelantos de regalías, cánones y peajes por el uso de infraestructura provincial."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Producción Petrolera",
+                "Crítica Política",
+                "Empleo Local"
+            ],
+            "postura_politica": "Adopta una postura crítica y confrontativa hacia la anterior administración 'kirchnerista', atribuyéndole el estancamiento provincial. Anuncia la reactivación de la actividad petrolera con inversiones propias y reducción de regalías, presentándose como el garante del empleo y la producción en Santa Cruz.",
+            "frase_fuerte": "NOSOTROS SÍ ESCUCHAMOS Y DEFENDEMOS A LOS TRABAJADORES El kirchnerismo no solo nos dejó una bomba de tiempo después de 30 años de destruir la provincia, con equipos parados y una economía débil, también le dio la espalda durante años a los laburantes, mientras hablaba de trabajo y de defenderlos."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Infraestructura Deportiva",
+                "Juegos Suramericanos",
+                "Desarrollo Urbano"
+            ],
+            "postura_politica": "Destaca la preparación y las inversiones en infraestructura deportiva de Santa Fe para los Juegos Suramericanos 2026, lo que posiciona a la provincia como un centro deportivo regional. También resalta el desarrollo urbano y la reubicación de familias para mejorar la calidad de vida.",
+            "frase_fuerte": "Recorrimos los clubes de la ciudad de Santa Fe que también se pusieron a punto para recibir a los @suramericanos26. Sumamos dos nuevas canchas sintéticas, junto a otras intervenciones para que el legado que quede mejore la calidad deportiva de la ciudad."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Innovación Pública",
+                "Vivienda",
+                "Educación",
+                "Infraestructura Local"
+            ],
+            "postura_politica": "Demuestra una gestión activa en la modernización del Estado con capacitación en IA para empleados públicos. Prioriza la seguridad jurídica habitacional y la construcción de viviendas, además de implementar programas educativos y de infraestructura local para mejorar la calidad de vida de los ciudadanos.",
+            "frase_fuerte": "Compartí en la Sede de la ULP el lanzamiento de la CAPACITACIÓN EN INTELIGENCIA ARTIFICIAL para EMPLEADOS PÚBLICOS provinciales que va a dictar la Universidad Provincial de La Punta."
+        }
+    ]
+}
