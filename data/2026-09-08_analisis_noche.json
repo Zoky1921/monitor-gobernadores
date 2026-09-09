@@ -1,0 +1,306 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores han priorizado una agenda intensiva de gestión provincial, con inauguraciones de obras públicas en infraestructura y programas de desarrollo local. Axel Kicillof (Buenos Aires) y Claudio Vidal (Santa Cruz) han emitido críticas directas al modelo económico nacional, señalando caídas en la producción y la industria. Jorge Macri (CABA) y Maximiliano Pullaro (Santa Fe) han elevado el tono en materia de seguridad, con Pullaro desafiando el 'garantismo bobo' y Macri defendiendo una línea dura. Por su parte, Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) destacan el impulso a la matriz energética y la inversión privada. Se observa un fuerte énfasis en la autonomía y la defensa de los recursos provinciales, con algunos gobernadores uniendo fuerzas en temas estratégicos.",
+    "analisis_profundo": "La jornada política federal del 8 de septiembre de 2026 ha estado marcada por una clara tendencia de los gobernadores a consolidar y comunicar una gestión provincial proactiva y autónoma, en muchos casos, en abierta contraposición o crítica implícita/explícita a las políticas del gobierno nacional. El clima general se percibe como TENSO, debido a la polarización ideológica y las acusaciones mutuas entre el oficialismo nacional y algunos referentes provinciales.\n\nUn eje central es la obra pública y el desarrollo local, con gobernadores como Leandro Zdero (Chaco) inaugurando hospitales y centros deportivos, Martín Llaryora (Córdoba) entregando ambulancias y pavimentando rutas, y Ricardo Quintela (La Rioja) destacando obras de infraestructura cultural y energética. Estas acciones buscan demostrar un 'Estado presente' provincial ante lo que algunos perciben como un retiro o paralización de la obra pública nacional.\n\nLa economía y la producción también ocupan un lugar preponderante. Axel Kicillof (Buenos Aires) fue el más explícito en su crítica al 'modelo nacional' que, según él, genera una 'caída histórica en la construcción, la industria, el turismo y las economías regionales'. En la misma línea, Claudio Vidal (Santa Cruz) arremete contra la gestión anterior, atribuyéndole una 'bomba de tiempo', y se enfoca en la reactivación petrolera con reducción de regalías. Raúl Jalil (Catamarca) y Gustavo Sáenz (Salta) subrayan el potencial minero y la necesidad de 'reglas claras, previsibilidad y seguridad jurídica' para atraer inversiones, mientras que Rolando Figueroa (Neuquén) impulsa obras de infraestructura clave para Vaca Muerta, prefinanciadas por empresas. La Región Centro también muestra esfuerzos por aliviar el sector industrial con asistencia financiera.\n\nLa seguridad es otro punto de fuerte debate. Jorge Macri (CABA) mantiene una línea dura, criticando el 'garantismo' y defendiendo la plena aplicación del Régimen Penal Juvenil. Maximiliano Pullaro (Santa Fe) se muestra aún más incisivo al calificar el 'garantismo bobo' y aludir a la necesidad de aplicar la baja en la edad de punibilidad ante la impunidad de menores. Estas declaraciones evidencian una postura común entre gobernadores de la oposición frente a la problemática del delito.\n\nFinalmente, la salud y la educación continúan siendo áreas prioritarias de gestión provincial. Gildo Insfrán (Formosa) y Axel Kicillof (Buenos Aires) inauguraron centros de salud y programas de salud mental, destacando la inversión provincial frente al 'desfinanciamiento' nacional. Sergio Ziliotto (La Pampa) también destaca la importancia de la unidad peronista para construir una alternativa productiva e inclusiva, en un gesto de articulación política de cara a futuras contiendas electorales. El discurso de la autonomía provincial y la defensa de lo local frente a un gobierno central percibido como ajeno o perjudicial, articula gran parte de la agenda.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión y Obra Pública Provincial: Inversiones en infraestructura y servicios esenciales como motor de desarrollo local.",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@insfran_gildo",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Críticas al Modelo Nacional y Defensa del Federalismo: Cuestionamientos a políticas nacionales y reivindicación de autonomía provincial.",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@insfran_gildo",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Justicia Penal Juvenil: Debate sobre el garantismo y la necesidad de una mano dura contra el delito.",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Energético y Minero: Impulso a Vaca Muerta, minería crítica, inversiones y generación de empleo local.",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@NachoTorresCH",
+                "@carlossadirjuy",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Cultura y Educación: Promoción de eventos culturales, infraestructura educativa y programas de formación para jóvenes.",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@insfran_gildo",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Ayer una jueza de Lomas de Zamora suspendió la aplicación del nuevo régimen penal juvenil y le pide explicaciones al gobierno de su provincia. El garantismo bobo que no termina de entender la dimensión del problema y busca excusas para no actuar. Los jueces están para que las leyes se cumplan, y la ley es muy clara: no permitir que los delincuentes, de la edad que sea, se la lleven de arriba. Es muy grave lo que sucedió. Costó mucho dar ese debate, y en Santa Fe sabemos muy bien lo que pasa cuando los menores son impunes con la excusa de su edad. Roban y matan, y el Estado no puede hacer nada para frenarlos. Nos preparamos para aplicar la baja en la edad de punibilidad. Tenemos tobilleras electrónicas, institutos de menores y, para los casos más graves, tenemos módulos penitenciarios especializados. La ley se tiene que aplicar.",
+        "por_que_es_clave": "El gobernador de Santa Fe (Maximiliano Pullaro) emite una crítica directa y contundente a una decisión judicial sobre el régimen penal juvenil, tildando de 'garantismo bobo' cualquier obstáculo a la aplicación de leyes que endurezcan la respuesta al delito. Este posicionamiento lo alinea con una agenda de 'mano dura' en seguridad y lo confronta con un sector de la justicia, marcando un debate de alcance nacional sobre la política criminal y la autonomía provincial para implementarla.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Crítica Económica Nacional",
+                "Seguridad",
+                "Infraestructura"
+            ],
+            "postura_politica": "Fuertemente crítico del 'modelo nacional' al que atribuye la caída económica. Defiende la inversión y el 'Estado presente' provincial en salud, infraestructura y seguridad, contraponiéndolo a la 'motosierra'.",
+            "frase_fuerte": "Cuando recorremos la Provincia nos encontramos con una caída histórica en la construcción, la industria, el turismo y las economías regionales por un modelo nacional que está en contra del trabajo argentino."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia Penal Juvenil",
+                "Relaciones Internacionales",
+                "Innovación"
+            ],
+            "postura_politica": "Aboga por una postura de 'mano dura' en seguridad y por la plena aplicación del Régimen Penal Juvenil, criticando cualquier forma de garantismo. Muestra apertura internacional para cooperación en áreas clave para la ciudad.",
+            "frase_fuerte": "La edad no puede ser una excusa para matar, robar o destruir una familia."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería",
+                "Inversión",
+                "Empleo",
+                "Desarrollo Regional"
+            ],
+            "postura_politica": "Impulsa fuertemente la minería como motor de desarrollo, destacando inversiones millonarias y generación de empleo local. Respalda la industria salteña y la obra pública tucumana como ejemplos de desarrollo regional.",
+            "frase_fuerte": "La presentación del Informe de Impacto Ambiental de MARA es un nuevo paso para un proyecto estratégico que puede generar más empleo, proveedores y oportunidades para los catamarqueños."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Salud",
+                "Educación",
+                "Infraestructura",
+                "Deporte",
+                "Empleo"
+            ],
+            "postura_politica": "Enfocado en la gestión de infraestructura social y el desarrollo de programas para jóvenes. Su agenda subraya la puesta en pie de servicios esenciales como salud y educación.",
+            "frase_fuerte": "Con convicción, seguimos poniendo de pie a la salud!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Energía Renovable",
+                "Inversión",
+                "Empleo"
+            ],
+            "postura_politica": "Apuesta por las energías renovables como motor de desarrollo provincial, promoviendo la inversión para reducir costos y generar empleo local.",
+            "frase_fuerte": "En un territorio tan extenso como el nuestro, contar con energía donde más se la necesita fortalece la producción, genera nuevas oportunidades y permite llevar soluciones energéticas incluso a los lugares más alejados."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Financiamiento PYMEs",
+                "Salud Pública",
+                "Infraestructura Vial"
+            ],
+            "postura_politica": "Centrado en el apoyo al sector productivo a través de líneas de crédito. Invierte en infraestructura sanitaria y vial, buscando mejorar la calidad de vida y la competitividad regional.",
+            "frase_fuerte": "Gobernar también es crear las condiciones para que quienes producen puedan crecer, incorporar tecnología, innovar y abrir nuevas oportunidades."
+        },
+        {
+            "gobernador": "@insfran_gildo",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Infraestructura",
+                "Producción Agrícola",
+                "Crítica Nacional"
+            ],
+            "postura_politica": "Defiende el 'Modelo Formoseño' con fuerte inversión en salud pública y obras de infraestructura, contrastando con el 'desfinanciamiento' nacional. Destaca la producción agropecuaria y la defensa del federalismo.",
+            "frase_fuerte": "De esta manera, el Modelo Formoseño cumple una de sus premisas centrales, garantizando el derecho a la salud en todo el territorio provincial, mediante políticas públicas integrales, inclusivas y equitativas."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Minería",
+                "Inversión",
+                "Desarrollo"
+            ],
+            "postura_politica": "Promueve el potencial minero de la provincia para atraer inversiones y generar desarrollo, participando activamente en foros internacionales.",
+            "frase_fuerte": "Conté el presente y el potencial de la minería en nuestra provincia."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Política Nacional",
+                "Federalismo",
+                "Peronismo"
+            ],
+            "postura_politica": "Aboga por la unidad del peronismo y la construcción de una alternativa política 'soberana, productiva e inclusiva', en clara referencia a la situación nacional.",
+            "frase_fuerte": "Coincidimos en la necesidad de trabajar por la unidad del peronismo y en la construcción de una alternativa electoral capaz de ofrecerle a la Argentina un proyecto soberano, productivo e inclusivo."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Desarrollo Local",
+                "Diálogo Social",
+                "Derechos Laborales"
+            ],
+            "postura_politica": "Enfocado en obras que mejoran la calidad de vida en municipios y defiende los derechos de los trabajadores rurales, buscando un país más federal.",
+            "frase_fuerte": "El diálogo con los trabajadores y sus representantes es fundamental para construir un país que los incluya y valore su esfuerzo."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Inversión",
+                "Minería",
+                "Energía",
+                "Infraestructura",
+                "Federalismo",
+                "Política Nacional",
+                "Relaciones Internacionales"
+            ],
+            "postura_politica": "Promueve a Mendoza como destino de inversiones en minería y energía (Vaca Muerta), destacando su gestión en infraestructura vial con recursos propios. Reclama políticas de Estado con previsibilidad y una reforma fiscal integral.",
+            "frase_fuerte": "Argentina no genera confianza si cada gobierno que llega cambia las reglas de juego."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Cultura",
+                "Historia",
+                "Patrimonio Guaraní Jesuítico"
+            ],
+            "postura_politica": "Resalta la importancia de la historia y el patrimonio cultural guaraní jesuítico de Misiones, promoviendo su estudio y recuperación.",
+            "frase_fuerte": "Después de 250 años, vuelve a Misiones una pieza que es parte de nuestra historia: la imprenta guaraní jesuítica, construida hace más de tres siglos en nuestras antiguas reducciones."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Desarrollo Energético (Vaca Muerta)",
+                "Empleo",
+                "Federalismo",
+                "Soberanía"
+            ],
+            "postura_politica": "Enfatiza la inversión histórica en obra pública y el desarrollo de Vaca Muerta, con prefinanciamiento de empresas. Defiende la 'Neuquinidad' y la causa Malvinas, destacando que 'Neuquén no es solo Vaca Muerta'.",
+            "frase_fuerte": "#Neuquen no es solo #vacamuerta Estamos transformando la provincia."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Empleo",
+                "Formación",
+                "Energía",
+                "Infraestructura",
+                "Seguridad",
+                "Modernización del Estado"
+            ],
+            "postura_politica": "Destaca la generación de empleo privado, la formación de trabajadores para la nueva matriz productiva (vinculada a Vaca Muerta) y la inversión en infraestructura clave (energía, agua, seguridad), así como la modernización de la gestión pública.",
+            "frase_fuerte": "Río Negro está creciendo y necesita infraestructura preparada para lo que viene."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Política Nacional",
+                "Federalismo",
+                "Inversión",
+                "Industria",
+                "Empleo"
+            ],
+            "postura_politica": "Reclama reglas claras y políticas de Estado trascendentes para atraer inversiones y desarrollar el potencial minero e industrial. Exige un 'federalismo real' para que el Norte sea motor de Argentina.",
+            "frase_fuerte": "Argentina necesita reglas claras, previsibilidad y seguridad jurídica. Argentina no genera confianza si cada gobierno que llega cambia las reglas de juego."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obra Pública",
+                "Gestión Pública",
+                "Educación"
+            ],
+            "postura_politica": "Foco en la entrega de escrituras y viviendas, la mejora de infraestructura municipal y edilicia pública, y programas educativos/saludables para jóvenes, demostrando un 'Estado presente' en gestión local.",
+            "frase_fuerte": "De adjudicatarios a propietarios. Seguridad Jurídica !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Energía (petrolera)",
+                "Empleo",
+                "Industria",
+                "Crítica a Gestión Anterior",
+                "Educación"
+            ],
+            "postura_politica": "Enfatiza la reactivación de la actividad petrolera con medidas provinciales (reducción de regalías) y critica duramente la gestión kirchnerista por dejar una 'bomba de tiempo'. Subraya la defensa del trabajo santacruceño.",
+            "frase_fuerte": "El kirchnerismo no solo nos dejó una bomba de tiempo después de 30 años de destruir la provincia, con equipos parados y una economía débil, también le dio la espalda durante años a los laburantes, mientras hablaba de trabajo y de defenderlos."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia Penal Juvenil",
+                "Urbanismo",
+                "Deporte"
+            ],
+            "postura_politica": "Aboga por una política de seguridad de 'mano dura', criticando el 'garantismo bobo' y la suspensión del régimen penal juvenil. Destaca inversiones en urbanismo y preparación para los Juegos Suramericanos.",
+            "frase_fuerte": "El garantismo bobo que no termina de entender la dimensión del problema y busca excusas para no actuar."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Cultura",
+                "Educación"
+            ],
+            "postura_politica": "Promueve la cultura y la lectura a través de la organización de la Feria Internacional del Libro, destacándola como un 'ámbito de resistencia' y un espacio inclusivo.",
+            "frase_fuerte": "Porque la cultura es un espacio amplio, participativo e inclusivo, como así también un ámbito de resistencia."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Política Provincial",
+                "Obra Pública",
+                "Diálogo Social",
+                "Crítica Nacional"
+            ],
+            "postura_politica": "Enfocado en la construcción de un frente político para las próximas elecciones, la continuidad de obras (incluso las paralizadas por Nación) y el diálogo con distintos sectores.",
+            "frase_fuerte": "Los trabajos comenzaron con financiamiento nacional, pero quedaron paralizados durante aproximadamente nueve meses. Ante esta situación, solicitamos la transferencia de la obra y asumimos su continuidad con recursos provinciales, porque gobernar también es tomar decisiones y sostener las obras que Tucumán necesita."
+        }
+    ]
+}

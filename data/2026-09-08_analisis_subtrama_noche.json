@@ -1,0 +1,258 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por la confrontación entre el gobernador bonaerense Axel Kicillof y los mandatarios de CABA y Santa Fe en torno a la seguridad y el modelo económico. Mientras Kicillof denunció un 'modelo nacional que destruye el trabajo', Jorge Macri y Maximiliano Pullaro defendieron el endurecimiento penal y criticaron el garantismo. En paralelo, varios gobernadores del interior destacaron obras e inversiones en minería e infraestructura, mostrando autonomía frente al repliegue nacional.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada se define por la embestida de Axel Kicillof contra el modelo económico de Javier Milei, al que acusa de primarizar la producción y precarizar el trabajo. En simultáneo, Jorge Macri y Maximiliano Pullaro contraatacan en el terreno de la seguridad, vinculando al peronismo con el garantismo que, según ellos, protege a delincuentes menores de edad. Esta doble tensión —económica y penal— revela la estrategia del oficialismo nacional de polarizar con el kirchnerismo duro, mientras los gobernadores del interior buscan desmarcarse.\n\nActo 2 — Los Alineamientos: Los mandatarios de provincias mineras y energéticas (Jalil, Cornejo, Figueroa, Weretilneck) se alinean con la Casa Rosada al promover inversiones bajo el RIGI y destacar la seguridad jurídica. En contraste, Ziliotto y Quintela refuerzan su pertenencia al peronismo opositor, criticando el ajuste y defendiendo la obra pública. Pullaro y Macri, por su parte, se posicionan como los ejecutores de la mano dura que el electorado de centro-derecha demanda, mientras Llaryora y Frigerio (aunque sin tweets hoy) mantienen un perfil de gestión regional.\n\nActo 3 — La Micro-política: Gobernadores de provincias periféricas como Insfran, Poggi, Zdero y Passalacqua se refugian en la agenda local: inauguraciones de centros de salud, viviendas y rutas. Evitan cualquier mención a la macroeconomía o a la Nación, lo que sugiere un cálculo de supervivencia: no confrontar para no perder recursos, pero tampoco adherir al relato oficial. Es un silencio que habla de una apuesta por la gestión como escudo.\n\nActo 4 — Saldo Presidencial: Milei consolida su influencia en el arco minero-energético, pero la crítica de Kicillof y la tensión en seguridad le recuerdan que el conurbano y las provincias centrales siguen siendo un frente hostil. La Casa Rosada gana en el interior productivo, pero pierde en el debate sobre el ajuste y la seguridad. El capital político presidencial se sostiene en la expectativa de inversiones, pero se erosiona en la batalla cultural contra el peronismo.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación por seguridad y régimen penal juvenil",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Crítica al modelo económico nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Inversiones en minería y energía (RIGI, Vaca Muerta, litio)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Obra pública provincial como contraste al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@insfran_gildo",
+                "@claudiojpoggi",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Reuniones políticas y construcción de frentes electorales",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo",
+                "@ZiliottoSergio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Cuando recorremos la Provincia nos encontramos con una caída histórica en la construcción, la industria, el turismo y las economías regionales por un modelo nacional que está en contra del trabajo argentino. No es algo transitorio, es una política encaminada a construir un país primarizado en lo productivo, precarizado en lo laboral y dependiente en lo geopolítico.",
+        "por_que_es_clave": "Kicillof sintetiza la crítica central del peronismo al gobierno de Milei: acusarlo de destruir el empleo y la industria en favor de una economía primarizada. Es un posicionamiento directo que busca movilizar a la base peronista y marcar territorio frente a las elecciones de 2027.",
+        "pregunta_openarg": "¿Es el modelo de Milei realmente un proyecto de primarización o una transición necesaria hacia la competitividad?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "salud mental",
+                "crítica al modelo económico nacional",
+                "seguridad policial"
+            ],
+            "postura_politica": "Kicillof se posiciona como el principal antagonista del gobierno nacional. Su tweet sobre el modelo económico es una declaración de guerra ideológica, mientras que el anuncio sobre salud mental y policía busca mostrar gestión en contraste con el ajuste nacional.",
+            "frase_fuerte": "un modelo nacional que está en contra del trabajo argentino"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "régimen penal juvenil",
+                "seguridad",
+                "educación"
+            ],
+            "postura_politica": "Macri refuerza su perfil de mano dura, atacando directamente a Kicillof por el garantismo. Su tweet sobre el penal juvenil es una respuesta a la suspensión judicial en la provincia de Buenos Aires, buscando capitalizar el tema de la inseguridad.",
+            "frase_fuerte": "Kicillof y el garantismo parecen pensar distinto"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "minería",
+                "inversiones",
+                "industria"
+            ],
+            "postura_politica": "Jalil se alinea con la agenda nacional de minería y RIGI, destacando el proyecto MARA y la generación de empleo local. Su postura es de cooperación con Nación, evitando confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "obras públicas",
+                "salud",
+                "educación",
+                "turismo"
+            ],
+            "postura_politica": "Zdero se enfoca en gestión local sin mencionar a Nación. Es un repliegue estratégico: mostrar obras para compensar el ajuste nacional, pero sin confrontar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "energía renovable",
+                "viviendas",
+                "exención impositiva"
+            ],
+            "postura_politica": "Torres promueve políticas de alivio fiscal y energías limpias, buscando diferenciarse del gobierno nacional en lo social pero sin atacarlo directamente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "créditos pymes",
+                "salud",
+                "infraestructura vial"
+            ],
+            "postura_politica": "Llaryora mantiene un perfil de gestión eficiente, anunciando créditos y obras. No menciona a Nación, lo que sugiere una estrategia de autonomía pragmática.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "salud",
+                "aniversarios",
+                "agricultura",
+                "deporte"
+            ],
+            "postura_politica": "Insfran se refugia en la agenda local y efemérides. Su único guiño político es en la inauguración de Banco Payaguá, donde critica al gobierno nacional por desfinanciar la salud. Es una crítica velada pero clara.",
+            "frase_fuerte": "A pesar de las condiciones negativas que impone este gobierno nacional, nosotros vamos a seguir avanzando"
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "minería",
+                "turismo",
+                "foros internacionales"
+            ],
+            "postura_politica": "Sadir se posiciona como un gobernador pro-inversiones, participando en foros sobre minerales críticos. Su postura es de apertura al capital extranjero y alineamiento con la política minera nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "unidad peronista",
+                "capacitación",
+                "universidad pública"
+            ],
+            "postura_politica": "Ziliotto refuerza su pertenencia al peronismo opositor, reuniéndose con Sergio Uñac y defendiendo la universidad pública. Critica el ajuste nacional pero sin la virulencia de Kicillof.",
+            "frase_fuerte": "frente al retiro del Gobierno nacional de distintas políticas de protección de la infancia, en La Pampa elegimos sostener y fortalecer la presencia del Estado"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "reuniones políticas",
+                "obras",
+                "energía solar"
+            ],
+            "postura_politica": "Quintela mantiene un perfil bajo, con reuniones de gestión y obras locales. No hay confrontación directa con Nación, pero su pertenencia al peronismo es evidente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "relaciones internacionales",
+                "infraestructura",
+                "energía"
+            ],
+            "postura_politica": "Cornejo se muestra como un gobernador moderno y pro-inversiones, reuniéndose con embajadores y participando en foros. Su postura es de cooperación con Nación en materia minera y energética.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "cultura",
+                "historia",
+                "gastronomía"
+            ],
+            "postura_politica": "Passalacqua se enfoca en temas culturales y de identidad, evitando la política nacional. Es un refugio en la agenda blanda.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "obra pública",
+                "empleo"
+            ],
+            "postura_politica": "Figueroa es el principal exponente de la agenda energética, anunciando acuerdos con empresas para pavimentar rutas. Su postura es de total alineamiento con el gobierno nacional en la explotación de Vaca Muerta.",
+            "frase_fuerte": "Vaca Muerta no es un desafío sectorial ni partidario: es un desafío generacional"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "formación laboral",
+                "energía",
+                "seguridad",
+                "agua potable"
+            ],
+            "postura_politica": "Weretilneck se posiciona como un gestor eficiente, destacando obras y la llegada de inversiones vinculadas a Vaca Muerta. Su postura es de cooperación con Nación, pero con énfasis en el desarrollo local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "industria",
+                "minería",
+                "seguridad"
+            ],
+            "postura_politica": "Saenz defiende la industria salteña y la minería, alineándose con la política de RIGI. Su postura es de apoyo al gobierno nacional en materia de inversiones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "viviendas",
+                "obras",
+                "educación"
+            ],
+            "postura_politica": "Poggi se enfoca en gestión local, con inauguraciones y anuncios de viviendas. No hay posicionamiento nacional, lo que sugiere un perfil técnico y alejado de la confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "petróleo",
+                "viviendas",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Vidal se posiciona como el anti-kirchnerismo en Santa Cruz, criticando la gestión anterior y destacando la reactivación petrolera. Su postura es de alineamiento con el gobierno nacional en materia energética.",
+            "frase_fuerte": "El kirchnerismo tuvo tiempo, recursos y más de tres décadas para dar respuestas"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "seguridad",
+                "penal juvenil",
+                "Juegos Suramericanos"
+            ],
+            "postura_politica": "Pullaro refuerza su imagen de mano dura, atacando el garantismo y defendiendo el nuevo régimen penal juvenil. Su postura es de confrontación directa con el peronismo y la justicia garantista.",
+            "frase_fuerte": "El garantismo bobo que no termina de entender la dimensión del problema"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "cultura",
+                "feria del libro"
+            ],
+            "postura_politica": "Suarez se enfoca en la promoción cultural, evitando temas políticos. Es un refugio en la agenda blanda.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "reuniones políticas",
+                "obras",
+                "peronismo"
+            ],
+            "postura_politica": "Jaldo se muestra como el articulador del peronismo tucumano, reuniéndose con dirigentes y anunciando obras. Su postura es de construcción de poder interno, sin confrontar con Nación.",
+            "frase_fuerte": null
+        }
+    ]
+}
