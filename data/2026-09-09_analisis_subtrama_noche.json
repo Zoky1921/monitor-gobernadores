@@ -1,0 +1,190 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Kicillof profundiza alianza con Misiones y arremete contra Milei por su política económica; Macri lo cruza por seguridad y garantismo; Llaryora exhibe resultados educativos; Frigerio acuerda alivio energético con Córdoba y Santa Fe; Figueroa refuerza lucha contra narcotráfico. La jornada exhibe una fragmentación de agendas: mientras el kirchnerismo busca coaliciones territoriales, los gobernadores de la Región Centro coordinan medidas fiscales y los del interior se refugian en la gestión local.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada estuvo dominada por la ofensiva de Axel Kicillof contra el programa económico de Javier Milei, a quien acusa de 'destruir el trabajo y la producción'. El gobernador bonaerense no solo reforzó su perfil opositor, sino que concretó una alianza estratégica con Misiones, firmando convenios de cooperación que buscan contrarrestar el repliegue nacional. Este movimiento es una respuesta directa al discurso presidencial del 3 de septiembre sobre Malvinas, al que Kicillof calificó de 'poco auténtico'. La Casa Rosada recibe así un desafío doble: por un lado, la construcción de un eje provincial alternativo; por el otro, la denuncia de que su política económica es un 'industricidio'.\n\nActo 2 — Los Alineamientos: Del lado oficialista, Jorge Macri se posicionó como el antítesis del garantismo, reivindicando la aplicación del nuevo régimen penal juvenil en CABA y atacando a Kicillof por la suspensión judicial de la ley. Mientras tanto, los gobernadores de la Región Centro (Frigerio, Llaryora, Pullaro) mostraron coordinación en materia energética, anunciando alivio financiero para industrias. Llaryora capitalizó los resultados de PISA 2025, que ubican a Córdoba entre los mejores sistemas educativos de América Latina, un activo político que refuerza su imagen de gestión eficiente. En el extremo opuesto, Figueroa (Neuquén) exhibió una agenda de seguridad y obra pública, sin mencionar a Nación, pero con un guiño implícito a Vaca Muerta.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas optaron por el refugio en la agenda local. Quintela (La Rioja) inauguró centros de salud y parques solares; Poggi (San Luis) multiplicó anuncios de viviendas y obras menores; Vidal (Santa Cruz) insistió en la recuperación de la actividad petrolera con críticas al kirchnerismo. Estos gestos, aunque de bajo impacto federal, revelan una estrategia de supervivencia: mostrar gestión en un contexto de ajuste, sin asumir riesgos en el tablero nacional.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el balance es mixto. La ofensiva de Kicillof no encuentra réplica articulada desde el oficialismo más allá de Macri, y la alianza Buenos Aires-Misiones suma un frente de resistencia. Sin embargo, la coordinación de la Región Centro y los logros educativos de Córdoba ofrecen una narrativa de gestión que Milei podría aprovechar si logra capitalizar estos resultados. El silencio de varios gobernadores sobre la macroeconomía sugiere que esperan el desenlace de la pulseada fiscal antes de alinearse.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto Kicillof-Macri por seguridad y garantismo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Alianza estratégica Buenos Aires-Misiones",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Resultados educativos de Córdoba en pruebas PISA",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Alivio energético para la Región Centro",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Lucha contra el narcotráfico en Neuquén",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La política económica de Milei está destruyendo de norte a sur a la Argentina y nos trae un desierto en términos de trabajo, salario y producción. El problema no es el empresario al que le va mal, no es el laburante, es este proyecto económico que solo trae hambre y dependencia.",
+        "por_que_es_clave": "Kicillof utiliza un lenguaje de confrontación total contra el programa económico de Milei, buscando posicionarse como la voz del descontento social y productivo. El tweet es una declaración de guerra política en el inicio de la jornada, marcando la agenda opositora.",
+        "pregunta_openarg": "¿Puede la alianza Buenos Aires-Misiones sostener un frente de resistencia fiscal y política frente al ajuste nacional, o es solo una estrategia electoral de Kicillof?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "economía",
+                "crítica a Milei",
+                "cooperación con Misiones",
+                "federalismo"
+            ],
+            "postura_politica": "Ofensiva opositora total contra el Gobierno nacional, combinada con construcción de alianzas territoriales para mostrar un 'federalismo real' frente al 'repliegue' de Nación.",
+            "frase_fuerte": "La política económica de Milei está destruyendo de norte a sur a la Argentina y nos trae un desierto en términos de trabajo, salario y producción."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "garantismo",
+                "obras",
+                "relaciones internacionales"
+            ],
+            "postura_politica": "Se posiciona como el antítesis de Kicillof en seguridad, reivindicando la aplicación del régimen penal juvenil y mostrando gestión urbana. Busca capitalizar el voto de la 'gente de bien' y diferenciarse del kirchnerismo.",
+            "frase_fuerte": "La edad no puede ser una excusa para matar, robar o destruir una familia. Pero Kicillof y el garantismo parecen pensar distinto."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "educación",
+                "programa +Futuro"
+            ],
+            "postura_politica": "Agenda local de incentivo educativo, sin referencias a Nación. Gestión de bajo perfil con foco en la terminalidad escolar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "campo",
+                "apoyo al sector agropecuario"
+            ],
+            "postura_politica": "Felicita la reelección del presidente de la Sociedad Rural, alineándose con el sector productivo. Sin mención a la macroeconomía nacional, refuerza su perfil de gestión provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "educación",
+                "PISA",
+                "aniversarios",
+                "gestión local"
+            ],
+            "postura_politica": "Celebra los resultados educativos de Córdoba como un logro de gestión, posicionándose como un referente en políticas públicas efectivas. Evita confrontar con Nación y apuesta a la agenda positiva.",
+            "frase_fuerte": "Los resultados de las pruebas PISA 2025 nos llenan de orgullo: Córdoba se ubica entre los tres mejores sistemas educativos de América Latina."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "homenaje",
+                "gestión local"
+            ],
+            "postura_politica": "Único tweet de despedida a una funcionaria fallecida. Sin contenido político relevante en la jornada. Agenda protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "género",
+                "efeméride"
+            ],
+            "postura_politica": "Conmemora el Día del Sufragio Femenino con un mensaje sobre paridad, sin atacar a Nación. Gestión simbólica de bajo impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "obras",
+                "energía solar",
+                "salud",
+                "deporte"
+            ],
+            "postura_politica": "Múltiples anuncios de obras locales, mostrando gestión en medio de la crisis. Evita posicionarse sobre la macroeconomía nacional. Refugio en la agenda de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "cooperación con Buenos Aires",
+                "federalismo"
+            ],
+            "postura_politica": "Refuerza la alianza con Kicillof, firmando convenios de cooperación. Se posiciona como un actor clave en la construcción de un federalismo alternativo al oficialismo nacional.",
+            "frase_fuerte": "Hoy dimos un paso más en la agenda de trabajo que compartimos con la Provincia de Buenos Aires."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "narcotráfico",
+                "seguridad",
+                "infraestructura",
+                "cultura"
+            ],
+            "postura_politica": "Firme en la lucha contra el narcotráfico, con decomisos y equipamiento. Muestra gestión en obra pública y cultura. Sin mencionar a Nación, pero con un guiño a Vaca Muerta en el retweet sobre financiamiento de rutas.",
+            "frase_fuerte": "VAMOS A COMBATIR LA DROGA EN CADA RINCÓN DE LA PROVINCIA"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "obras",
+                "viviendas",
+                "educación",
+                "gestión local"
+            ],
+            "postura_politica": "Múltiples anuncios de obras y programas provinciales. Sin referencia a la coyuntura nacional. Agenda puramente local de baja intensidad política.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "obras",
+                "hidrocarburos",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Critica al kirchnerismo por abandono y celebra la reactivación petrolera con apoyo provincial. Se posiciona como gestor del cambio, pero sin alinearse con Milei explícitamente.",
+            "frase_fuerte": "El kirchnerismo nos dejó una bomba de tiempo después de 30 años de destruir la provincia."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "deporte",
+                "infraestructura",
+                "Juegos Suramericanos"
+            ],
+            "postura_politica": "Muestra avances en infraestructura deportiva de cara a los Juegos Suramericanos. Gestión positiva sin conflictos nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "política local",
+                "diálogo",
+                "gestión"
+            ],
+            "postura_politica": "Reuniones con legisladores y ADEPA, mostrando apertura al diálogo. Sin pronunciamientos sobre la agenda nacional. Gestión institucional de bajo perfil.",
+            "frase_fuerte": null
+        }
+    ]
+}
