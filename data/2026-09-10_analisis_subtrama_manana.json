@@ -1,0 +1,204 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Kicillof tensa la relación con Nación desde Misiones, firmando acuerdos con Passalacqua y retratando a Milei como gestor de un desierto económico. En paralelo, gobernadores de Región Centro coordinan alivio fiscal y energético, mientras los periféricos se refugian en gestión local. Macri contraataca con ley y orden en CABA.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La visita de Axel Kicillof a Misiones no fue una gira técnica; fue una cumbre de la resistencia federal. Al publicar que 'la política económica de Milei destruye de norte a sur' y firmar convenios estratégicos con Passalacqua, Kicillof despliega una narrativa de dos ejes: por un lado, retrata a la administración nacional como ausente y hostil a las economías regionales; por otro, construye un polo alternativo de poder provincial que desafía la centralidad del ajuste. La frase 'Las provincias somos la Nación' es un misil directo a la Casa Rosada, reclamando soberanía política sobre recursos y gestión. \n\n Acto 2 — Los Alineamientos: En la vereda opuesta, Jorge Macri profundiza su perfil de orden y gestión urbana: baja tasas hipotecarias, clausura villas y defiende el Régimen Penal Juvenil, diferenciándose nítidamente del garantismo que atribuye a Kicillof. La Región Centro (Santa Fe, Córdoba, Entre Ríos) coordina alivio financiero para industrias, mostrando pragmatismo autonomista sin ruptura explícita. Misiones, Buenos Aires, La Rioja y Catamarca (estos últimos a través del Norte Grande) se agrupan en un bloque de reclamo federal, mientras Neuquén, Chubut y San Luis se concentran en su propia agenda de obra pública y producción. \n\n Acto 3 — La Micro-política: Los gobernadores de provincias periféricas —Chaco, Formosa, Santiago del Estero, Tucumán— se repliegan en gestiones de rutina: anuncios de rutas, ferias del libro, centros de salud, prevención climática. No hay posicionamiento sobre la macro ni sobre Milei. Es un cálculo de supervivencia: callar para no exponerse en un escenario donde cualquier reclamo puede ser leído como deslealtad, pero cualquier apoyo como traición a su base. El silencio es un búnker. \n\n Acto 4 — Saldo Presidencial: El capital político de Milei sufre erosión pasiva. Kicillof logró instalar la agenda del 'abandono federal' sin que desde Nación haya una respuesta visible en la jornada. El Presidente no aparece en ningún tweet de gobernadores, ni para ser defendido ni atacado, salvo en la cuenta de Kicillof. Esa ausencia de reacción desde la Rosada —y la falta de gobernadores alineados explícitamente— sugiere que el relato del ajuste necesario está perdiendo la batalla narrativa en las provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Alianza Kicillof-Passalacqua como desafío federal a Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Región Centro: coordinación fiscal y energética entre provincias",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y régimen penal juvenil: Macri vs Kicillof",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Norte Grande: parlamento y reclamos de infraestructura",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@gustavovaldesok",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Gestión local y obras en provincias periféricas",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@insfran_gildo",
+                "@EliasSuarezSDE",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La política económica de Milei está destruyendo de norte a sur a la Argentina y nos trae un desierto en términos de trabajo, salario y producción. El problema no es el empresario al que le va mal, no es el laburante, es este proyecto económico que solo trae hambre y dependencia.",
+        "por_que_es_clave": "Kicillof abandona la sutileza y acusa directamente al presidente de generar un desierto, enmarcando su gira federal como un acto de resistencia. Es la declaración de guerra política más explícita del día, y marca el tono de la oposición peronista.",
+        "pregunta_openarg": "¿Puede una provincia como Buenos Aires sostener una estrategia de confrontación abierta con Nación sin que el costo fiscal recaiga sobre sus propios ciudadanos?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Crítica a política económica de Milei",
+                "Acuerdos con Misiones",
+                "Federalismo como resistencia"
+            ],
+            "postura_politica": "Lidera la oposición frontal al gobierno nacional, tejiendo alianzas provinciales para mostrar gobernabilidad alternativa. Su mensaje implícito: 'Yo gestiono lo que Nación abandona'.",
+            "frase_fuerte": "La política económica de Milei está destruyendo de norte a sur a la Argentina y nos trae un desierto"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Créditos hipotecarios",
+                "Clase media",
+                "Orden urbano"
+            ],
+            "postura_politica": "Se posiciona como la antítesis de Kicillof: orden, ley, y gestión eficiente. Sin mencionar a Nación, refuerza su perfil de gestión autónoma y diferenciada del conurbano.",
+            "frase_fuerte": "El Orden es también ordenar prioridades. La clase media fue olvidada durante demasiados años."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Prevención El Niño",
+                "Feria del libro",
+                "Ruta del Impenetrable"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se refugia en obras y cultura, evitando cualquier roce con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Campo",
+                "Elección Sociedad Rural"
+            ],
+            "postura_politica": "Alineamiento con el sector agropecuario y la dirigencia rural. Mensaje de apoyo al campo como motor, sin confrontar con Nación.",
+            "frase_fuerte": "Quiero felicitar a @NicolasPinoSRA por haber sido reelegido presidente de la @SociedadRural"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Resultados PISA",
+                "Infraestructura rural"
+            ],
+            "postura_politica": "Exhibe logros educativos provinciales para marcar distancia de la gestión nacional en educación. Sin mencionar a Milei, subraya que Córdoba avanza sola.",
+            "frase_fuerte": "Córdoba se ubica entre los tres mejores sistemas educativos de América Latina"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Parlamento del Norte Grande",
+                "Federalismo"
+            ],
+            "postura_politica": "Se suma a la agenda del Norte Grande, impulsando proyectos que fortalecen el reclamo federal de recursos e infraestructura. Voz colectiva, no individual.",
+            "frase_fuerte": "Buscamos fortalecer el federalismo a la vez que defender los intereses de las provincias del NEA y NOA"
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Campo",
+                "Sociedad Rural"
+            ],
+            "postura_politica": "Misma línea que Chubut: celebrar la reelección de Pino y poner al campo como prioridad. Evita cualquier referencia a la macro.",
+            "frase_fuerte": "El campo es uno de los grandes motores que va a sacar a la Argentina adelante."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Cooperación institucional con Policía Federal"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Reunión de bajo perfil con fuerzas federales, sin contenido político explícito.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Parlamento del Norte Grande",
+                "Cultura local",
+                "Universidad pública"
+            ],
+            "postura_politica": "Multiplica actividades del Norte Grande y reivindica la presencia del Estado en cultura y educación. Peronismo clásico sin ataques directos a Milei.",
+            "frase_fuerte": "Necesitamos que las problemáticas del Norte Grande formen parte de la agenda nacional."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Visita de Kicillof",
+                "Convenios",
+                "Prevención suicidio"
+            ],
+            "postura_politica": "Anfitrión de la cumbre antigrieta. Recibe a Kicillof, firma acuerdos y refuerza la idea de que las provincias deben asociarse frente a la ausencia nacional.",
+            "frase_fuerte": "Las provincias somos la Nación y, trabajando juntas, podemos seguir generando oportunidades para nuestra gente."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Orientación vocacional"
+            ],
+            "postura_politica": "Gestión local pura. Sin menciones nacionales. Se enfoca en programas habitacionales y educativos para mostrar gestión territorial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Convenio Multilateral"
+            ],
+            "postura_politica": "Agenda local de obras y eventos administrativos. Sin posicionamiento federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Infraestructura escolar"
+            ],
+            "postura_politica": "Conmemora tres años de gestión destacando la caída de homicidios. Se posiciona como el gobernador que venció al narcotráfico sin ayuda explícita de Nación.",
+            "frase_fuerte": "Con planificación, coraje y acción pudimos contener a las organizaciones criminales."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Academia de Ciencias",
+                "Agenda cultural"
+            ],
+            "postura_politica": "Difunde actividades institucionales ajenas a la disputa política. Sin señal de conflicto.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Subsidio gas",
+                "Conexión a red"
+            ],
+            "postura_politica": "Busca solucionar problemas energéticos locales con herramientas provinciales y privadas. Sin mención nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obras en El Naranjito",
+                "Prevención lluvias"
+            ],
+            "postura_politica": "Obras y gestión de riesgo. Perfil bajo, evitar polémicas.",
+            "frase_fuerte": null
+        }
+    ]
+}

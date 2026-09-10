@@ -1,0 +1,234 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracteriza por una marcada tensión, con el gobernador Axel Kicillof (Buenos Aires) lanzando una dura crítica a la política económica nacional, acusándola de 'destruir de norte a sur' el país y generar 'hambre y dependencia'. En contraste, otros mandatarios como Jorge Macri (CABA), Leandro Zdero (Chaco) y Rolando Figueroa (Neuquén) se concentran en la gestión local, destacando obras públicas, educación y políticas habitacionales. La cooperación interprovincial emerge como un eje central, ejemplificada por el encuentro entre Hugo Passalacqua (Misiones) y Kicillof (Buenos Aires), y la actividad del Parlamento del Norte Grande donde Ricardo Quintela (La Rioja) y Gustavo Valdés (Corrientes) abogan por una agenda federal unificada ante las problemáticas regionales. La defensa de los productores y la promoción del federalismo también resuenan en los discursos, con Rogelio Frigerio (Entre Ríos) apoyando al campo.",
+    "analisis_profundo": "El escenario político federal hoy se polariza entre la confrontación directa con el Gobierno nacional y una afirmación contundente de la gestión y autonomía provincial. Axel Kicillof (Buenos Aires) ha escalado su retórica, describiendo la política económica de Milei como devastadora, impactando negativamente en el trabajo, el salario y la producción, y calificándola de un proyecto que solo trae 'hambre y dependencia'. Esta postura resalta la profunda brecha entre la provincia más grande del país y la administración central, situando el debate económico en el centro de la agenda.\nEn contraposición, gobernadores de diversas extracciones políticas se enfocan en demostrar capacidad de gestión local. Jorge Macri (CABA) subraya el 'ordenar prioridades' y la 'justicia' en la reducción de tasas hipotecarias, mientras que Leandro Zdero (Chaco) aborda la prevención ante 'El Niño' y la infraestructura vial en el Impenetrable, y Rolando Figueroa (Neuquén) destaca la expansión habitacional y la Expo Vocacional. Estas acciones, aunque locales, proyectan una imagen de gobiernos provinciales resolviendo necesidades básicas y estratégicas de sus ciudadanos, a menudo sin mención explícita a la Nación o incluso en contraste tácito con una supuesta inacción central.\nLa cooperación regional y el fortalecimiento del federalismo son tendencias claras. El Parlamento del Norte Grande, con la participación activa de Ricardo Quintela (La Rioja) y Gustavo Valdés (Corrientes), se consolida como un espacio de defensa de intereses comunes del NEA y NOA, buscando una voz unificada en la agenda nacional. La visita de Kicillof (Buenos Aires) a Hugo Passalacqua (Misiones) y la firma de convenios de colaboración en áreas productivas y de seguridad refuerzan la idea de que 'Las provincias somos la Nación', enfatizando la capacidad de autogestión y la búsqueda de mercados sin dependencia de la Nación. Rogelio Frigerio (Entre Ríos) se alinea con el sector rural, felicitando la reelección de Nicolás Pino en la Sociedad Rural y abogando por la reducción de la presión tributaria al campo, posicionando a las provincias como motores económicos. Finalmente, Osvaldo Jaldo (Tucumán) y Claudio Poggi (San Luis) continúan con agendas de obras e inauguraciones en salud, educación y vivienda, consolidando una narrativa de Estado presente y resolutivo a nivel subnacional.",
+    "temas_calientes": [
+        {
+            "tema": "Críticas a la política económica nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Federalismo y Autonomía Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@passalacquaok",
+                "@gustavovaldesok",
+                "@QuintelaRicardo",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Gestión de Obras Públicas e Infraestructura",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Economías Regionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@frigeriorogelio",
+                "@gustavovaldesok",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Educación y Juventud",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Participamos del Parlamento del Norte Grande, junto a la vicegobernadora Tere Madera, y vicegobernadores, legisladoras y legisladores de las diez provincias que integran el Norte Grande para intercambiar miradas sobre la realidad de nuestra región y avanzar en una agenda común, con una perspectiva federal. Tenemos problemáticas y desafíos que nos atraviesan a todos. Por eso, necesitamos fortalecer el diálogo, construir consensos y trabajar unidos para defender los intereses de nuestras provincias. El federalismo se construye con gestión, con presencia y con una voz que se haga escuchar. Vamos a seguir trabajando juntos para que el Norte tenga el lugar que merece en la agenda nacional. 🇦🇷",
+        "por_que_es_clave": "Este post sintetiza la articulación federal de las provincias del Norte Grande, desafiando la centralidad de la agenda nacional y exigiendo atención a sus problemáticas. Subraya la necesidad de unidad y diálogo entre las provincias para defender sus intereses.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Crítica económica nacional",
+                "Federalismo",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Confrontativa con el gobierno nacional por su política económica destructiva, pero proactiva en la cooperación con otras provincias para impulsar el desarrollo regional.",
+            "frase_fuerte": "La política económica de Milei está destruyendo de norte a sur a la Argentina y nos trae un desierto en términos de trabajo, salario y producción. El problema no es el empresario al que le va mal, no es el laburante, es este proyecto económico que solo trae hambre y dependencia."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Vivienda",
+                "Economía",
+                "Orden y justicia"
+            ],
+            "postura_politica": "Enfocado en la gestión de la Ciudad, priorizando soluciones habitacionales para la clase media y defendiendo un modelo de 'orden y justicia' en la administración de recursos.",
+            "frase_fuerte": "El Orden es también ordenar prioridades. La clase media fue olvidada durante demasiados años. Hoy podemos bajar la tasa al 6,5% en los créditos hipotecarios del Banco Ciudad para primera vivienda. Lo logramos porque dejamos de regalar viviendas a unos pocos. Esto es ordenar y hacer justicia."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Prevención climática",
+                "Infraestructura",
+                "Cultura",
+                "Educación"
+            ],
+            "postura_politica": "Prioriza la gestión de emergencias climáticas y el desarrollo de infraestructura regional, incluyendo educación y promoción cultural, enfatizando el trabajo coordinado y la responsabilidad municipal.",
+            "frase_fuerte": "Reunidos junto al Gabinete y el Comité de Emergencia, analizamos el estado de situación y las acciones que se ejecutan en todo el territorio para fortalecer la prevención ante El Niño en el Chaco. Seguimos trabajando de manera coordinada y pedimos que cada municipio haga su parte. Cuidarnos es una responsabilidad compartida."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Desarrollo rural",
+                "Producción",
+                "Federalismo"
+            ],
+            "postura_politica": "Respalda la dirigencia rural y aboga por un modelo de desarrollo federal que potencie las inversiones y la previsibilidad en el campo chubutense.",
+            "frase_fuerte": "Quiero felicitar a @NicolasPinoSRA por haber sido reelegido presidente de la @SociedadRural: este respaldo reafirma una conducción comprometida con la producción y una mirada de desarrollo federal."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura",
+                "Producción agropecuaria"
+            ],
+            "postura_politica": "Destaca logros educativos a nivel internacional y la inversión en infraestructura vial como pilares para la producción y el crecimiento de la provincia, apoyando prácticas agropecuarias sustentables.",
+            "frase_fuerte": "Los resultados de las pruebas #PISA2025, que posicionan a #Córdoba entre los mejores sistemas educativos de América Latina, nos llenan de orgullo."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Norte Grande",
+                "Intereses provinciales"
+            ],
+            "postura_politica": "Activo en la defensa de los intereses de las provincias del Norte Grande, promoviendo proyectos que fortalezcan el federalismo y la autonomía regional.",
+            "frase_fuerte": "En la 59ª Sesión Plenaria del Parlamento del Norte Grande, en #LaRioja, #Corrientes presentó diferentes proyectos que mañana serán tratados en el plenario: con ellos buscamos fortalecer el federalismo a la vez que defender los intereses de las provincias del NEA y NOA."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Sector rural",
+                "Presión tributaria",
+                "Inversión"
+            ],
+            "postura_politica": "Aboga por una agenda de reducción de la presión tributaria al campo y la generación de condiciones para la inversión, considerando al sector rural como motor económico.",
+            "frase_fuerte": "Tenemos que continuar trabajando juntos en una agenda que es clave: bajar la presión tributaria, sacarle el pie de encima a quienes producen y generar mejores condiciones para invertir y crecer."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Cooperación institucional"
+            ],
+            "postura_politica": "Fomenta la cooperación con fuerzas federales para fortalecer la seguridad pública en la provincia, destacando el trabajo articulado interinstitucional.",
+            "frase_fuerte": "Durante el encuentro, dialogamos sobre el trabajo articulado y la importancia de continuar fortaleciendo la cooperación institucional para acompañar las acciones vinculadas a la seguridad pública en nuestra provincia."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Norte Grande",
+                "Cultura",
+                "Educación",
+                "Infraestructura"
+            ],
+            "postura_politica": "Lidera la defensa de los intereses del Norte Grande, buscando que sus problemáticas sean parte de la agenda nacional. Promueve la cultura y la educación pública como pilares del desarrollo provincial.",
+            "frase_fuerte": "Necesitamos fortalecer el diálogo, construir consensos y trabajar unidos para defender los intereses de nuestras provincias. El federalismo se construye con gestión, con presencia y con una voz que se haga escuchar."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Cooperación interprovincial",
+                "Producción",
+                "Federalismo",
+                "Salud (Prevención)"
+            ],
+            "postura_politica": "Impulsa la cooperación con la Provincia de Buenos Aires para abrir mercados a la producción misionera y fortalecer el federalismo, destacando la importancia de las provincias en la conformación de la Nación. También hace un llamado a la reflexión sobre la prevención del suicidio.",
+            "frase_fuerte": "Las provincias somos la Nación y, trabajando juntas, podemos seguir generando oportunidades para nuestra gente."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Desarrollo urbano",
+                "Educación"
+            ],
+            "postura_politica": "Enfocado en el crecimiento habitacional y la planificación urbana de la capital, junto con la promoción de oportunidades educativas para los jóvenes, bajo la premisa de la 'neuquinidad'.",
+            "frase_fuerte": "Neuquén Habita representa un cambio real en la calidad de vida de nuestra gente y confirma el desarrollo que impulsamos en toda la provincia, transformando la manera en que vivimos en nuestra provincia: la neuquinidad."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obras públicas",
+                "Desarrollo local",
+                "Federalismo fiscal"
+            ],
+            "postura_politica": "Proactivo en la construcción de viviendas y obras de infraestructura, buscando soluciones habitacionales para familias. También participa en foros de federalismo fiscal, enfatizando la importancia de San Luis como sede de eventos nacionales.",
+            "frase_fuerte": "La vivienda volvió a San Luis y volvió para quedarse."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Gestión de gobierno",
+                "Educación",
+                "Infraestructura"
+            ],
+            "postura_politica": "Reflexiona sobre los tres años de su gobierno, destacando la lucha contra el crimen organizado y reconociendo que, si bien hay mejoras, la situación aún no es óptima, manteniendo el compromiso de seguir trabajando por la tranquilidad de los santafesinos. Impulsa la inversión en infraestructura escolar.",
+            "frase_fuerte": "Estamos mejor, pero no estamos bien, y nuestra responsabilidad es no aflojar y trabajar para que los santafesinos definitivamente vivamos tranquilos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Respaldo institucional",
+                "Cultura"
+            ],
+            "postura_politica": "Demuestra apoyo a las instituciones civiles y profesionales, enmarcando la gestión en un equilibrio administrativo para el crecimiento futuro. Promueve la cultura a través del lanzamiento de la Feria del Libro.",
+            "frase_fuerte": "El gobernador expresó que las instituciones civiles y profesionales cuentan con el respaldo del Gobierno provincial, en el marco de un orden y equilibrio en la gestión administrativa orientados a generar un programa de crecimiento y desarrollo de cara al futuro de Sgo del Estero."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Servicios básicos",
+                "Subsidios",
+                "Infraestructura de gas"
+            ],
+            "postura_politica": "Prioriza soluciones de infraestructura para servicios esenciales, como la conectividad a la red de gas natural, buscando aliviar la carga económica de las familias fueguinas.",
+            "frase_fuerte": "Queremos que el costo de una obra no sea el impedimento para acceder a un servicio esencial más seguro para cada hogar fueguino."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura",
+                "Gestión local",
+                "Prevención de inundaciones"
+            ],
+            "postura_politica": "Enfocado en la gestión territorial y la obra pública, supervisando y ejecutando proyectos de infraestructura hídrica, deportiva y de iluminación en el interior, demostrando un Estado presente y articulado con gobiernos locales.",
+            "frase_fuerte": "En momentos difíciles para nuestro país, Tucumán no se detiene. Seguimos recorriendo el interior y llevando respuestas concretas a cada comunidad."
+        }
+    ]
+}
