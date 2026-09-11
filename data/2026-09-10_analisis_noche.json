@@ -1,0 +1,261 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores desplegaron una intensa actividad centrada en la gestión provincial y la reafirmación del federalismo. Axel Kicillof (Buenos Aires) y Ricardo Quintela (La Rioja) lideraron las críticas al ajuste nacional, defendiendo la inversión estatal en seguridad, salud y educación, y articulando en bloques regionales como el Norte Grande. La obra pública, abarcando desde infraestructura vial y viviendas hasta centros de salud y escuelas, fue un eje prioritario para la mayoría, con avances significativos reportados en Chaco, Córdoba, Neuquén, San Luis y Santa Fe. Paralelamente, hubo un fuerte énfasis en el fomento de economías regionales y la atracción de inversiones productivas en provincias como Catamarca, Chubut y Mendoza. La modernización de la gestión pública y la apuesta por la educación también destacaron en la agenda provincial, consolidando un panorama de asertividad local frente a un contexto nacional complejo y desafiante.",
+    "analisis_profundo": "La jornada política federal del 10 de septiembre de 2026 estuvo marcada por una clara reafirmación del rol proactivo de las provincias frente a la dinámica nacional. Se observa una doble vertiente: por un lado, una fuerte vocación por la gestión local y el desarrollo endógeno; por el otro, una persistente tensión con el Gobierno central, particularmente desde el sector más opositor.\n\nAxel Kicillof (Buenos Aires) se erigió como una de las voces más críticas, vinculando directamente las obras y servicios provinciales (seguridad, salud, educación) con el 'ajuste' del Presidente Milei, enfatizando la mayor relevancia de la acción provincial en este contexto. Su participación en Misiones junto a Hugo Passalacqua (Misiones) reforzó el mensaje de un federalismo solidario, donde las provincias se erigen como 'la Nación' ante la percibida inacción o perjuicio nacional. Passalacqua, a su vez, promovió el comercio local y la cooperación interprovincial como escudo ante las dificultades económicas.\n\nEl bloque del Norte Grande, con Gustavo Valdés (Corrientes) y Ricardo Quintela (La Rioja) a la cabeza, utilizó el Parlamento regional en La Rioja para consolidar una agenda federal común. Sus discusiones sobre producción, energía e infraestructura subrayan la necesidad de que las problemáticas del interior tengan un espacio prioritario en la discusión nacional, dada la disparidad histórica de recursos y oportunidades.\n\nLa obra pública se mantuvo como un motor fundamental de la gestión provincial. Gobernadores como Leandro Zdero (Chaco) y Maximiliano Pullaro (Santa Fe) destacaron avances en rutas y puentes, elementos cruciales para la conectividad y el desarrollo productivo. Claudio Poggi (San Luis) puso el foco en programas de vivienda y acceso a la propiedad, mientras que Osvaldo Jaldo (Tucumán) resaltó inversiones en infraestructura local para mejorar la calidad de vida. Incluso Jorge Macri (Ciudad Autónoma de Buenos Aires) subrayó la importancia de la política de vivienda en créditos hipotecarios.\n\nEn el ámbito económico, Raúl Jalil (Catamarca) impulsó la Expo Catamarca como plataforma de inversiones, mientras que Ignacio Torres (Chubut) celebró el liderazgo provincial en desembarques pesqueros y el Plan Galina para infraestructura. Alfredo Cornejo (Mendoza) destacó inversiones en vitivinicultura, y Rogelio Frigerio (Entre Ríos) celebró la inclusión de su provincia en la concesión de la Hidrovía Paraná-Paraguay, buscando atraer nuevas inversiones. Este énfasis en las economías regionales y la atracción de capitales subraya un intento de generar autonomía económica frente a la volatilidad macroeconómica.\n\nFinalmente, la educación y la modernización del Estado también figuraron prominentemente. Martín Llaryora (Córdoba) celebró los resultados en las pruebas PISA2025 y la inversión en infraestructura educativa, mientras que Rolando Figueroa (Neuquén) enfatizó la eliminación de jubilaciones de privilegio y el apoyo a soluciones habitacionales. Elías Suárez (Santiago del Estero) reiteró el respaldo a instituciones como clave para el desarrollo futuro. Estas acciones demuestran un esfuerzo concertado por fortalecer las capacidades estatales y asegurar el capital humano necesario para el crecimiento provincial. El panorama general es de una clara asertividad provincial, buscando soluciones y agendas propias en un contexto de relación tensa y desafío constante con el Gobierno nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la Política Económica Nacional y Defensa Federal",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@gustavovaldesok",
+                "@QuintelaRicardo",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Inversión en Obra Pública y Desarrollo Local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@maxipullaro",
+                "@RaulJalil_ok",
+                "@OsvaldoJaldo",
+                "@claudiojpoggi",
+                "@alfredocornejo",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Fomento de Economías Regionales y Sectores Productivos",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@NachoTorresCH",
+                "@passalacquaok",
+                "@alfredocornejo",
+                "@carlossadirjuy",
+                "@frigeriorogelio",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Modernización de la Gestión Pública y Políticas de Transparencia",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@frigeriorogelio",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Educación y Desarrollo de Capital Humano",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@QuintelaRicardo",
+                "@maxipullaro",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Fortalecemos la protección y la gestión de emergencias en Ezeiza con la inauguración de una subcomisaría en Tristán Suárez y nuevas ambulancias de alta complejidad que van a reforzar el nuevo Centro de Emergencias del municipio. También recorrimos el tramo final de la obra de la nueva Casa de la Provincia que muy pronto abrirá sus puertas para acerca los servicios del Estado bonaerense a más de 200 mil vecinos. Todo esto lo hacemos mientras Milei sigue ajustando en la seguridad, la salud y la educación y por eso tiene una relevancia mayor.",
+        "por_que_es_clave": "El gobernador de Buenos Aires, Axel Kicillof, utiliza una serie de inauguraciones y gestiones provinciales para lanzar una crítica directa al gobierno nacional, vinculando sus acciones de fortalecimiento de servicios públicos a la 'relevancia mayor' que adquieren frente al 'ajuste' de Milei en áreas clave. Esta declaración pone de manifiesto la tensión federal y la estrategia de algunos mandatarios de contrastar su gestión con la política de recorte del Ejecutivo nacional, marcando una clara diferencia de modelo.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Crítica a políticas nacionales",
+                "Obra pública",
+                "Seguridad",
+                "Salud",
+                "Federalismo",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Crítico al ajuste nacional del Presidente Milei, defiende la inversión estatal provincial en áreas clave como seguridad, salud y educación. Articula con otras provincias para fortalecer la autonomía regional y la gestión frente a las políticas centrales.",
+            "frase_fuerte": "Todo esto lo hacemos mientras Milei sigue ajustando en la seguridad, la salud y la educación y por eso tiene una relevancia mayor."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Política económica",
+                "Vivienda",
+                "Clase media"
+            ],
+            "postura_politica": "Enfocado en beneficios para la clase media a través de políticas de vivienda y créditos hipotecarios, presentando su gestión como un 'ordenar y hacer justicia' para este sector, que considera olvidado.",
+            "frase_fuerte": "El Orden es también ordenar prioridades. La clase media fue olvidada durante demasiados años."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Industria",
+                "Inversión",
+                "Empleo local"
+            ],
+            "postura_politica": "Impulsa la Expo Catamarca como un motor de desarrollo productivo y generación de empleo, enfatizando la colaboración público-privada y la atracción de inversiones para potenciar el comercio con el Pacífico.",
+            "frase_fuerte": "Esta Expo es el reflejo de lo que logramos cuando el sector público y el privado trabajan en conjunto: un espacio estratégico que genera rondas de negocios, atrae inversiones, potencia el comercio con el Pacífico y abre nuevas oportunidades de empleo para los catamarqueños."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial",
+                "Prevención de desastres naturales"
+            ],
+            "postura_politica": "Destaca el avance en obras de infraestructura vial para mejorar la conectividad y el día a día de las familias chaqueñas. También enfatiza la prevención y coordinación ante fenómenos climáticos como El Niño.",
+            "frase_fuerte": "En Chaco, las obras avanzan. Y la Ruta 13 es una de ellas. Decidimos hacerla y seguimos trabajando para concretarla y cambiar la vida de miles de chaqueños que la transitan."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Turismo",
+                "Infraestructura vial",
+                "Producción pesquera",
+                "Desarrollo económico regional"
+            ],
+            "postura_politica": "Prioriza el desarrollo del turismo y la infraestructura vial como ejes para el crecimiento y conectividad. Resalta el liderazgo provincial en producción pesquera y el acompañamiento a sectores productivos clave.",
+            "frase_fuerte": "PLAN GALINA: LA AUTOVÍA RAWSON-TRELEW CADA VEZ MÁS CERCA. Con @gerardomerinotw y @damianbiss encabezamos la apertura de sobres para la construcción de una obra estratégica que va a transformar la conectividad de todo el Valle: la Autovía Rawson-Trelew sobre la Ruta 25."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación",
+                "Obra pública",
+                "Desarrollo local",
+                "Gestión federal"
+            ],
+            "postura_politica": "Celebra los logros educativos en pruebas internacionales y resalta la inversión en infraestructura urbana y rural. Aboga por el trabajo conjunto con municipios y la construcción de consensos provinciales para el crecimiento, incluso en un contexto nacional difícil.",
+            "frase_fuerte": "Los resultados de las pruebas #PISA2025, que posicionan a #Córdoba entre los mejores sistemas educativos de América Latina, nos llenan de orgullo."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Parlamento del Norte Grande",
+                "Defensa de intereses provinciales",
+                "Producción",
+                "Energía",
+                "Infraestructura"
+            ],
+            "postura_politica": "Activo en la articulación regional a través del Parlamento del Norte Grande, buscando fortalecer el federalismo y promover proyectos que defiendan los intereses provinciales en materia de producción, energía e infraestructura para el NEA y NOA.",
+            "frase_fuerte": "Desde la delegación correntina logramos el respaldo unánime de los proyectos presentados, ratificando el compromiso con la producción, la energía y la infraestructura."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Infraestructura (hidrovía)",
+                "Economía del conocimiento",
+                "Apoyo al sector productivo"
+            ],
+            "postura_politica": "Afirma la participación de Entre Ríos en proyectos estratégicos de infraestructura como la Hidrovía Paraná-Paraguay y promueve la economía del conocimiento como motor de crecimiento. Destaca el apoyo a sectores productivos clave como el campo.",
+            "frase_fuerte": "ENTRE RÍOS COMIENZA A SER PARTE DE LA HIDROVÍA PARANÁ-PARAGUAY. Durante años, Entre Ríos tuvo sus puertos sobre una de las vías navegables más importantes del mundo, pero nunca formó parte de su concesión."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Regionalismo (Norte Grande)",
+                "Cultura",
+                "Educación pública"
+            ],
+            "postura_politica": "Impulsa el diálogo y la unidad del Norte Grande para que las problemáticas regionales formen parte de la agenda nacional. Enfocado en la defensa de la educación y cultura pública como pilares del desarrollo provincial.",
+            "frase_fuerte": "Necesitamos que las problemáticas del Norte Grande formen parte de la agenda nacional. Las desigualdades en infraestructura, salud, servicios y oportunidades no se resuelven de manera aislada, sino con unidad, diálogo y una mirada federal que nos permita defender los intereses de nuestras provincias."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Desarrollo comercial",
+                "Empleo",
+                "Cooperación interprovincial",
+                "Federalismo"
+            ],
+            "postura_politica": "Enfocado en estimular el consumo y el empleo local a través de iniciativas comerciales como el Black Friday. Promueve la cooperación con otras provincias para el desarrollo productivo, reafirmando el rol de las provincias como componentes esenciales de la Nación.",
+            "frase_fuerte": "Muy felices de recibir en Misiones al querido colega gobernador @Kicillofok. Seguimos fortaleciendo el trabajo entre nuestras provincias, compartiendo conocimiento y abriendo nuevas oportunidades para que la producción misionera llegue a más mercados."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Transparencia en la gestión",
+                "Vivienda",
+                "Obra pública",
+                "Desarrollo urbano",
+                "Educación juvenil"
+            ],
+            "postura_politica": "Destaca la eliminación de privilegios en la política y la inversión histórica en obra pública y vivienda. Promueve el desarrollo urbano planificado y la formación vocacional para jóvenes, afirmando un cambio en la gestión provincial.",
+            "frase_fuerte": "El 10 de diciembre de 2023 cuando asumimos dijimos que el cambio tenía que empezar por la política y para eso teníamos que dar el ejemplo. Por eso el primer proyecto de ley que enviamos a la legislatura fue para eliminar el régimen de jubilaciones de privilegio. Lo dijimos y lo cumplimos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Obra pública (vivienda, salud, clubes)",
+                "Seguridad jurídica (vivienda)",
+                "Colaboración interprovincial"
+            ],
+            "postura_politica": "Impulsa activamente programas de vivienda y urbanización, junto con la regularización de títulos de propiedad para brindar seguridad jurídica. Destaca la inversión en infraestructura de salud y deporte a nivel local, promoviendo el desarrollo territorial.",
+            "frase_fuerte": "El programa 'ESCRITURA TU CASA' llegó a familias de las Localidades de SANTA ROSA y MERLO !!! Tranquilidad familiar y seguridad jurídica con la vivienda propia. 👏"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Seguridad",
+                "Gestión de gobierno",
+                "Educación"
+            ],
+            "postura_politica": "Celebra logros en obra pública y en la lucha contra la delincuencia, destacando la reducción de la criminalidad como un éxito de su gestión. Reafirma el compromiso de trabajar por la tranquilidad de los santafesinos y la inversión en infraestructura educativa.",
+            "frase_fuerte": "Estamos mejor, pero no estamos bien, y nuestra responsabilidad es no aflojar y trabajar para que los santafesinos definitivamente vivamos tranquilos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Apoyo institucional",
+                "Gobernanza",
+                "Programas de crecimiento y desarrollo"
+            ],
+            "postura_politica": "Manifiesta respaldo a las instituciones civiles y profesionales, enmarcando la gestión provincial en un modelo de orden y equilibrio orientado al crecimiento y desarrollo futuro de Santiago del Estero.",
+            "frase_fuerte": "El gobernador expresó que las instituciones civiles y profesionales cuentan con el respaldo del Gobierno provincial, en el marco de un orden y equilibrio en la gestión administrativa orientados a generar un programa de crecimiento y desarrollo de cara al futuro de Sgo del Estero."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Inversión privada (vitivinicultura)"
+            ],
+            "postura_politica": "Promueve activamente la atracción de inversiones a sectores clave como la vitivinicultura, destacando la incorporación de tecnología, la generación de empleo y el posicionamiento de Mendoza como destino atractivo para inversiones a largo plazo.",
+            "frase_fuerte": "La decisión de @GrupoPenaflor de construir una nueva bodega de última generación en Tunuyán es una gran noticia. Fortalece a una actividad que forma parte de nuestra identidad y de nuestro desarrollo económico, como lo es la vitivinicultura, además de incorporar tecnología de vanguardia, generar empleo y reafirmar que Mendoza sigue siendo un lugar elegido para inversiones de largo plazo."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Infraestructura (servicios básicos)"
+            ],
+            "postura_politica": "Enfocado en aliviar la carga económica de las familias fueguinas mediante el sostenimiento de subsidios al gas envasado y la facilitación del acceso a la red de gas natural, presentando estas medidas como un esfuerzo provincial para mejorar la calidad de vida.",
+            "frase_fuerte": "Sostener el subsidio al gas envasado implica un enorme esfuerzo de la Provincia. Pero también queremos avanzar en soluciones que mejoren de manera permanente la vida de las familias."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Emprendedurismo"
+            ],
+            "postura_politica": "Apoya activamente el ecosistema emprendedor provincial, impulsando iniciativas como 'Experiencia Endeavor' para fomentar el crecimiento de proyectos y la generación de oportunidades en Jujuy.",
+            "frase_fuerte": "En Jujuy cada vez son más los que se animan a emprender y por eso seguimos presentes, acompañando su esfuerzo con apoyo concreto para que sus proyectos sigan creciendo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Desarrollo local",
+                "Gestión estatal"
+            ],
+            "postura_politica": "Enfatiza la continuidad de la obra pública en el interior provincial y la presencia activa del Estado para mejorar la calidad de vida de las comunidades. Destaca inversiones en infraestructura básica y espacios de esparcimiento, incluso en un contexto nacional difícil.",
+            "frase_fuerte": "En momentos difíciles para nuestro país, Tucumán no se detiene. Seguimos recorriendo el interior y llevando respuestas concretas a cada comunidad."
+        }
+    ]
+}
