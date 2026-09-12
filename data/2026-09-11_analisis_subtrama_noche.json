@@ -1,0 +1,83 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por la defensa de recursos provinciales (regalías de Los Nihuiles, conflicto Atuel), la cooperación interprovincial (Kicillof-Passalacqua, Región Centro) y el posicionamiento soberano en Malvinas. La agenda educativa del Día del Maestro fue utilizada por varios gobernadores para marcar diferencias con el ajuste nacional.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La disputa fiscal domina la jornada. Alfredo Cornejo (Mendoza) celebra la recuperación del 100% de las regalías de Los Nihuiles, un golpe directo a La Pampa y un mensaje a la Casa Rosada sobre la defensa de recursos estratégicos. Sergio Ziliotto (La Pampa) contraataca denunciando que Milei y Mendoza le roban el río y las regalías, escalando el conflicto interprovincial a un nivel de confrontación abierta. Este pulso por la coparticipación de recursos energéticos revela la fragilidad del federalismo fiscal bajo la gestión nacional.\n\nActo 2 — Los Alineamientos: Axel Kicillof (Buenos Aires) y Hugo Passalacqua (Misiones) consolidan un eje de cooperación federal con convenios en producción, seguridad y desarrollo agrario, presentándose como alternativa al repliegue nacional. En la Región Centro, Maximiliano Pullaro (Santa Fe), Rogelio Frigerio (Entre Ríos) y Martín Llaryora (Córdoba) acordaron medidas de alivio financiero para la industria, mostrando coordinación regional frente a la política energética nacional. Gustavo Melella (Tierra del Fuego) se alinea con el gobierno nacional en la reactivación de la Base Naval Integrada, pero exige participación fueguina en las decisiones sobre Malvinas.\n\nActo 3 — La Micro-política: Gobernadores de provincias periféricas como Claudio Poggi (San Luis), Leandro Zdero (Chaco) y Osvaldo Jaldo (Tucumán) se refugian en la gestión local: obras, viviendas, programas educativos y de transparencia. Evitan posicionarse sobre la macroeconomía, priorizando la agenda de cabotaje como estrategia de supervivencia. Raúl Jalil (Catamarca) anuncia elecciones concurrentes con las nacionales, un gesto de pragmatismo fiscal que reduce costos y evita roces con Nación.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no recibe críticas directas de los gobernadores más poderosos, pero la omisión de menciones positivas y la proliferación de agendas autónomas indican un repliegue del apoyo explícito. La defensa de recursos provinciales y la cooperación interprovincial sin mediación nacional erosionan el capital político del Ejecutivo. El único respaldo claro viene de Tierra del Fuego en la causa Malvinas, un tema de baja rentabilidad electoral inmediata.",
+    "temas_calientes": [
+        {
+            "tema": "Cooperación interprovincial y federalismo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@passalacquaok",
+                "@frigeriorogelio",
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Malvinas y soberanía",
+            "gobernadores_involucrados": [
+                "@gustavomelella",
+                "@alfredocornejo",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Educación y Día del Maestro",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@gustavovaldesok",
+                "@insfran_gildo",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Regalías y recursos provinciales",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Seguridad y justicia",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@alfredocornejo",
+        "texto": "Mendoza recibirá el 100% de las regalías de Los Nihuiles. Esta decisión reafirma un principio que sostuvimos desde el primer día, nuestros recursos estratégicos no se negocian. Defender el patrimonio de los mendocinos es una obligación de quienes tenemos la responsabilidad de gobernar. Mientras algunos ponían en duda ese camino, los hechos demuestran que actuar con firmeza, con argumentos y defendiendo los intereses de Mendoza fue la decisión correcta. Vamos a seguir haciendo valer los derechos de la provincia y defendiendo su patrimonio y su futuro cada vez que sea necesario.",
+        "por_que_es_clave": "Cornejo capitaliza un logro concreto en la disputa fiscal con La Pampa y envía una señal a Nación sobre la defensa intransigente de los recursos provinciales, en un contexto de ajuste y recorte de transferencias.",
+        "pregunta_openarg": "¿La recuperación de regalías por parte de Mendoza profundiza la grieta fiscal entre provincias o es un paso hacia un federalismo más equilibrado?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Plenario Federal 2026",
+                "Memoria y derechos humanos",
+                "Educación"
+            ],
+            "postura_politica": "Refuerza su rol de oposición al gobierno nacional, utilizando efemérides y actos políticos para marcar diferencias ideológicas y convocar a la militancia.",
+            "frase_fuerte": "Frente a los discursos reaccionarios, negacionistas y violentos, es imprescindible recordar a quienes dejaron su ejemplo de lucha por un país más inclusivo, pluralista y democrático."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Rosh Hashaná",
+                "Elecciones provinciales"
+            ],
+            "postura_politica": "Pragmatismo administrativo: unificar elecciones con las nacionales para ahorrar recursos, evitando confrontación con Nación y mostrando gestión eficiente.",
+            "frase_fuerte": "Hemos tomado la decisión de que las elecciones provinciales se realicen junto con las nacionales, y así se lo comunicamos al Gobierno nacional."
+        }
+    ]
+}
