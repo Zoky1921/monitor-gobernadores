@@ -1,163 +1,169 @@
 {
-    "clima_general": "TENSION",
-    "resumen_ejecutivo": "Ziliotto (La Pampa) judicializó el decreto que le quita regalías de Los Nihuiles, escalando el conflicto con Nación y Mendoza. El resto de gobernadores se mantiene en agenda local, con excepción de Pullaro (Santa Fe) que capitaliza los Juegos Suramericanos.",
-    "analisis_profundo": "Acto 1 — El Conflicto Central: La disputa por las regalías del río Atuel irrumpe como la única señal de tensión federal en una jornada dominada por la gestión local. Ziliotto, con una cautelar judicial, desafía al decreto presidencial que desvía esos recursos hacia Mendoza. El gobernador pampeano no solo defiende ingresos provinciales sino que marca un límite a la discrecionalidad de la Casa Rosada en materia de coparticipación. La pregunta que flota es si otros gobernadores perjudicados por el ajuste se sumarán a esta estrategia o si La Pampa quedará aislada.\n\nActo 2 — Los Alineamientos: Pullaro, Llaryora y los gobernadores de JxC evitan el conflicto fiscal y se refugian en agendas de alto impacto simbólico: los Juegos Suramericanos en Santa Fe y las efemérides locales. Los peronistas (Quintela, Insfran, Jaldo) también optan por la gestión de cabotaje, sin confrontar con Nación. Ziliotto queda como el único que planta batalla, lo que lo posiciona como posible referente opositor pero también como blanco de eventuales represalias.\n\nActo 3 — La Micro-política: Zdero, Torres, Saenz, Passalacqua, Figueroa, Suarez y el resto se concentran en obras, ferias y reconocimientos. Es un 'apagón político' coordinado que evita darle munición al relato nacional. La apatía federal es la estrategia dominante: gobernar sin mencionar a Milei, como si la Nación no existiera.\n\nActo 4 — Saldo Presidencial: Milei logra que la mayoría de los gobernadores no lo critiquen abiertamente, pero el conflicto con La Pampa demuestra que la paz fiscal es frágil. La judicialización del tema Atuel puede abrir una grieta que otros gobernadores con reclamos similares (como los del Norte Grande por subsidios energéticos) podrían aprovechar. La Casa Rosada gana tiempo, pero no resuelve las asimetrías estructurales.",
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "La jornada encuentra a los gobernadores mayoritariamente replegados en la gestión local, pero con un foco de tensión abierto en La Pampa, donde Sergio Ziliotto judicializa la pelea por las regalías del Atuel contra el decreto de Milei. En el extremo opuesto, Rolando Figueroa exhibe el superávit neuquino como un modelo de autonomía provincial que prescinde de la Nación. El resto del arco federal opta por efemérides y obras de bajo perfil, evitando mojarse en el debate fiscal nacional.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada encuentra su principal foco de tensión en el litigio por el Atuel. Sergio Ziliotto, con una jugada quirúrgica, llevó a la Justicia Federal el decreto de Javier Milei que otorga la totalidad de las regalías de Los Nihuiles a Mendoza. No se trata de una queja administrativa: es una declaración de guerra jurídica al modelo de ajuste que reasigna recursos estratégicos por decreto, sin pasar por el Congreso ni por las provincias damnificadas. Ziliotto apuesta a un fallo de la Corte que no solo lo beneficie a él, sino que siente un precedente letal para cualquier intento de la Casa Rosada de modificar la coparticipación de forma unilateral.\n\nActo 2 — Los Alineamientos: El dato político del día es la soledad de Alfredo Cornejo en este contrafrente. Nadie salió a respaldar públicamente el decreto de Milei ante la ofensiva pampeana. En el otro extremo, Rolando Figueroa juega una partida más sutil: exhibe los indicadores de Neuquén (superávit, empleo, industria) como la demostración fáctica de que la autonomía fiscal es posible. No necesita pelear en la Corte porque su modelo ya prescinde de la Nación. Es un alineamiento tácito con la postura de Ziliotto: el federalismo se defiende, no se mendiga.\n\nActo 3 — La Micro-política: Fuera del ring judicial, la mayoría de los gobernadores optan por un repliegue estratégico en la agenda de cabotaje. Maximiliano Pullaro y Martin Llaryora convierten sus provincias en vitrinas de éxito propio, evitando cualquier roce con Nación. Mientras tanto, el resto del arco (Chaco, Chubut, Formosa, La Rioja, Misiones, Salta, Santiago del Estero, Tucumán) se hunde en efemérides, obras menores y reconocimientos sin contenido político federal. Es un lunes de apatía federal calculada: nadie quiere exponerse en el debate de fondo, pero todos miran de reojo la pulseada del Atuel.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la noticia del día es la reactivación de una controversia que creían cerrada. El decreto de Milei, pensado como un guiño a Mendoza, se convirtió en un flanco judicial abierto. El repliegue general de los gobernadores, sin embargo, le deja un respiro: mientras no se forme un frente común, la estrategia de divide y reinarás se sostiene. Pero Ziliotto logró lo que buscaba: instalar el debate sobre los límites del poder presidencial en materia fiscal. El saldo es incierto, y el desenlace dependerá de los tiempos de la Justicia. Por ahora, La Pampa ganó la primera escaramuza en el tablero de la opinión pública.",
     "temas_calientes": [
         {
-            "tema": "Conflicto por regalías del río Atuel",
+            "tema": "Conflicto abierto de La Pampa contra el Decreto de Milei por las regalías del Atuel",
             "gobernadores_involucrados": [
                 "@ZiliottoSergio"
             ]
         },
         {
-            "tema": "Juegos Suramericanos 2026",
+            "tema": "Autonomía fiscal y energética de Neuquén como modelo autosuficiente",
             "gobernadores_involucrados": [
-                "@maxipullaro"
+                "@Rolo_Figueroa"
             ]
         },
         {
-            "tema": "Gestión local y obras públicas",
+            "tema": "Santa Fe se posiciona como sede internacional, Córdoba exhibe gestión educativa y local",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Repliegue general en agenda de gestión local y simbólica, sin posicionamiento nacional",
             "gobernadores_involucrados": [
                 "@LeandroZdero",
                 "@NachoTorresCH",
-                "@MartinLlaryora",
                 "@insfran_gildo",
                 "@QuintelaRicardo",
                 "@passalacquaok",
-                "@Rolo_Figueroa",
                 "@GustavoSaenzOK",
                 "@EliasSuarezSDE",
                 "@OsvaldoJaldo"
-            ]
-        },
-        {
-            "tema": "Economía del conocimiento e innovación",
-            "gobernadores_involucrados": [
-                "@MartinLlaryora",
-                "@EliasSuarezSDE"
-            ]
-        },
-        {
-            "tema": "Educación y reconocimiento docente",
-            "gobernadores_involucrados": [
-                "@OsvaldoJaldo",
-                "@passalacquaok"
             ]
         }
     ],
     "tweet_destacado": {
         "usuario": "@ZiliottoSergio",
-        "texto": "Río Atuel: sus regalías también son pampeanas. Hemos presentado ante la Justicia Federal una medida cautelar pidiendo la suspensión inmediata de los artículos del Decreto Presidencial Nº 982/2026 que vulneran nuestros derechos. Nos respaldan leyes, acuerdos y sentencias de la Corte Suprema de Justicia de la Nación: El río Atuel también es pampeano: los fallos de la CSJN de 1987, 2017 y 2020 establecen y ratifican su interprovincialidad. Así, la represa Los Nihuiles genera energía con agua pampeana. Sus regalías también son pampeanas: mediante Acuerdo del año 1992, firmado entre el Estado Nacional y las dos provincias y homologado por la CSJN, Mendoza se obliga a pagar regalías a La Pampa, calculadas según porcentajes fijados por Ley 15.336 y Decreto 1560/73. Ningún Decreto puede anular un acuerdo de partes. Lo dijimos, lo ratificamos. No abandonaremos ninguna lucha por lo que nos pertenece. Fieles a nuestra historia, defendemos La Pampa, todos los días, donde sea, ante quien sea.",
-        "por_que_es_clave": "Es la única confrontación directa con el Gobierno nacional en la jornada. Ziliotto judicializa el conflicto por regalías, poniendo en juego la estabilidad del acuerdo fiscal y marcando un límite a la discrecionalidad presidencial en la distribución de recursos coparticipables.",
-        "pregunta_openarg": "¿Puede un decreto presidencial modificar acuerdos interprovinciales homologados por la Corte Suprema sin generar una crisis de legalidad en el federalismo fiscal?"
+        "texto": "Río Atuel: sus regalías también son pampeanas.\n \nHemos presentado ante la Justicia Federal una medida cautelar pidiendo la suspensión inmediata de los artículos del Decreto Presidencial Nº 982/2026 que vulneran nuestros derechos.\n\nNos respaldan leyes, acuerdos y sentencias de la Corte Suprema de Justicia de la Nación:\n☑️ El río Atuel también es pampeano: los fallos de la CSJN de 1987, 2017 y 2020 establecen y ratifican su interprovincialidad.\n\n☑️ Así, la represa Los Nihuiles genera energía con agua pampeana.\n\n☑️ Sus regalías también son pampeanas: mediante Acuerdo del año 1992, firmado entre el Estado Nacional y las dos provincias y homologado por la CSJN, Mendoza se obliga a pagar regalías a La Pampa, calculadas según porcentajes fijados por Ley 15.336 y Decreto 1560/73. Ningún Decreto puede anular un acuerdo de partes.\n\nLo dijimos, lo ratificamos. No abandonaremos ninguna lucha por lo que nos pertenece.\n\nFieles a nuestra historia, defendemos La Pampa, todos los días, donde sea, ante quien sea.\n\n+info 👉 https://t.co/uI1noIW2WR",
+        "por_que_es_clave": "Es la declaración de guerra judicial contra el Decreto de Milei. Ziliotto no solo defiende una regalía, sino que cuestiona la base del federalismo fiscal del gobierno: la potestad presidencial de reasignar recursos estratégicos sin consenso provincial. El fallo de la Corte será un termómetro de la viabilidad del ajuste basado en la letra chica de las leyes de coparticipación y recursos hídricos.",
+        "pregunta_openarg": "¿Puede un decreto presidencial modificar la distribución de regalías hidroeléctricas fijada por ley y acordada entre provincias, o la Justicia reafirmará la autonomía provincial sobre los recursos naturales?"
     },
     "analisis_por_gobernador": [
         {
-            "gobernador": "@LeandroZdero (Chaco)",
-            "temas_mencionados": [
-                "feria artesanal",
-                "expo de yerba mate"
-            ],
-            "postura_politica": "Agenda local sin impacto federal. Se limita a promocionar eventos culturales y productivos, evitando cualquier mención a Nación o conflictos.",
-            "frase_fuerte": "¡Pura raíz y talento chaqueño!"
-        },
-        {
-            "gobernador": "@NachoTorresCH (Chubut)",
-            "temas_mencionados": [
-                "despedida a militante"
-            ],
-            "postura_politica": "Gestión protocolar aislada. Un tuit de condolencias sin contenido político relevante.",
-            "frase_fuerte": "Hoy despedimos a Martín Stornelli, un militante muy comprometido y, por sobre todas las cosas, una gran persona."
-        },
-        {
-            "gobernador": "@MartinLlaryora (Córdoba)",
-            "temas_mencionados": [
-                "aniversario de localidad",
-                "salud pública",
-                "Rosh Hashaná"
-            ],
-            "postura_politica": "Agenda local y gestión positiva. Evita confrontar con Nación y se enfoca en obras y reconocimientos, con el lema 'HacerParaCrecer'.",
-            "frase_fuerte": "En Córdoba se comprueba, una vez más, que podemos pensar distinto y trabajar juntos, sin importar el partido político al que pertenezca cada uno."
-        },
-        {
-            "gobernador": "@insfran_gildo (Formosa)",
-            "temas_mencionados": [
-                "aniversario de localidad"
-            ],
-            "postura_politica": "Agenda local sin impacto federal. Efeméride sin posicionamiento político.",
-            "frase_fuerte": "¡Feliz aniversario Buena Vista!"
-        },
-        {
             "gobernador": "@ZiliottoSergio (La Pampa)",
             "temas_mencionados": [
-                "regalías del Atuel",
-                "conflicto con Nación"
+                "Río Atuel",
+                "Regalías",
+                "Justicia Federal",
+                "Conflicto con Nación y Mendoza"
             ],
-            "postura_politica": "Conflicto abierto con el Gobierno nacional. Judicializa el decreto presidencial y defiende los derechos pampeanos, posicionándose como voz opositora.",
-            "frase_fuerte": "No abandonaremos ninguna lucha por lo que nos pertenece."
-        },
-        {
-            "gobernador": "@QuintelaRicardo (La Rioja)",
-            "temas_mencionados": [
-                "gestión de juegos de azar",
-                "entrega de viviendas"
-            ],
-            "postura_politica": "Agenda local con tintes de gestión social. Se enfoca en obras y controles, sin mencionar a Nación.",
-            "frase_fuerte": "En momentos donde vemos cómo crecen las facilidades de juego y, sobre todo, nuestras infancias y adolescencias están expuestas a las apuestas online, es importante destacar la importancia de organismos que se encarguen de controlar."
-        },
-        {
-            "gobernador": "@passalacquaok (Misiones)",
-            "temas_mencionados": [
-                "crédito para escuelas",
-                "gestión educativa"
-            ],
-            "postura_politica": "Gestión local sin conflicto. Anuncia una línea de crédito para infraestructura escolar, mostrando gestión sin roces con Nación.",
-            "frase_fuerte": "Para seguir mejorando la infraestructura de nuestras escuelas, establecimos junto al Banco Macro una línea de crédito para instituciones educativas."
+            "postura_politica": "Frente de guerra abierto contra el Gobierno Nacional y Mendoza. Ziliotto judicializa la disputa por el Atuel, desafiando frontalmente el decreto de Milei. Su jugada busca generar un precedente judicial que frene la reasignación de recursos estratégicos por decreto. Es el gobernador más confrontativo de la jornada.",
+            "frase_fuerte": "Río Atuel: sus regalías también son pampeanas. Hemos presentado ante la Justicia Federal una medida cautelar pidiendo la suspensión inmediata de los artículos del Decreto Presidencial Nº 982/2026 que vulneran nuestros derechos."
         },
         {
             "gobernador": "@Rolo_Figueroa (Neuquén)",
             "temas_mencionados": [
-                "conexión aérea",
-                "obras viales",
-                "industria"
+                "Industria neuquina",
+                "Empleo registrado",
+                "Superávit provincial",
+                "Modelo neuquino"
             ],
-            "postura_politica": "Gestión provincial con énfasis en crecimiento. Destaca la recuperación de servicios y la inversión, sin confrontar con Nación.",
-            "frase_fuerte": "Esto no sucede en el resto del país y estamos muy orgullosos de ser neuquinos y de hacer lo que estamos haciendo."
-        },
-        {
-            "gobernador": "@GustavoSaenzOK (Salta)",
-            "temas_mencionados": [
-                "feria de emprendedores"
-            ],
-            "postura_politica": "Agenda local sin impacto federal. Promociona un evento de emprendedurismo, evitando temas nacionales.",
-            "frase_fuerte": "Potencia nació para acompañar a nuestros emprendedores, darles un espacio para mostrar lo que hacen, crecer y generar nuevas oportunidades."
+            "postura_politica": "Exhibición de soberanía provincial y modelo de gestión propio. Figueroa utiliza datos de superávit y empleo para enviar un mensaje de autonomía a la Casa Rosada: no necesita pedir, Neuquén genera sus propios recursos. Es una postura de autosuficiencia que sirve como crítica silenciosa al ajuste nacional.",
+            "frase_fuerte": "Cerramos julio con un superávit financiero de $200 mil millones y más del 84% de nuestros ingresos corrientes generados en Neuquén."
         },
         {
             "gobernador": "@maxipullaro (Santa Fe)",
             "temas_mencionados": [
                 "Juegos Suramericanos",
-                "infraestructura deportiva"
+                "Deporte",
+                "Evento internacional"
             ],
-            "postura_politica": "Orgullo provincial y agenda de alto perfil. Capitaliza el evento deportivo para mostrar gestión y unidad, sin atacar a Nación.",
-            "frase_fuerte": "¡La provincia Invencible de Santa Fe hoy está de pie!"
+            "postura_politica": "Posicionamiento de Santa Fe como capital deportiva y administrativa eficiente. Pullaro utiliza la inauguración de los Juegos Suramericanos como vitrina internacional y desvía la atención del contexto de crisis. Es un gesto de orgullo provincial sin fisuras con Nación.",
+            "frase_fuerte": "La provincia Invencible de Santa Fe hoy está de pie! Inauguramos oficialmente los @suramericanos26, con miles de personas disfrutando un show único..."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Aniversario de Almafuerte",
+                "Salud pública",
+                "Campo cordobés",
+                "Educación"
+            ],
+            "postura_politica": "Refugio calculado en la gestión provincial. Llaryora destaca los logros educativos y de infraestructura de Córdoba, evitando cualquier mención a la macroeconomía o al gobierno nacional. Su mensaje es de éxito propio en un mar de crisis ajena.",
+            "frase_fuerte": "Quiero destacar que en #Córdoba se comprueba, una vez más, que podemos pensar distinto y trabajar juntos, sin importar el partido político al que pertenezca cada uno."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Expo de Yerba Mate",
+                "Artesanía Aborigen",
+                "Obras en SUM",
+                "Polideportivo"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Zdero se enfoca en ferias y obras locales, sin emitir señales hacia Nación. Es un gobernador de bajo perfil que evita el conflicto.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Política interna",
+                "Militancia",
+                "Duelo"
+            ],
+            "postura_politica": "Duelo interno de su espacio político. La despedida de Stornelli es un gesto de cohesión de la militancia, sin implicancias directas sobre la relación con Nación. Se mantiene fuera del radar del conflicto federal.",
+            "frase_fuerte": "Hoy despedimos a Martín Stornelli, un militante muy comprometido y, por sobre todas las cosas, una gran persona."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Aniversario de Buena Vista"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Pura efeméride local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "AJALAR",
+                "Juegos de azar",
+                "Gestión pública"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. El anuncio de la quiniela es gestión de bajo peso político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Crédito educativo",
+                "Banca pública",
+                "Educación"
+            ],
+            "postura_politica": "Gestión local focalizada en educación. Sin posicionamiento nacional. Passalacqua opera en el plano administrativo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Feria Potencia",
+                "Emprendedores",
+                "Festividad religiosa"
+            ],
+            "postura_politica": "Refugio en la agenda local y religiosa. Sáenz opta por la cohesión social a través de eventos populares, evitando el debate fiscal.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
             "temas_mencionados": [
-                "economía del conocimiento",
-                "software"
+                "Economía del conocimiento",
+                "Software",
+                "CESSI"
             ],
-            "postura_politica": "Promoción económica local. Recibe a referentes de la industria del software, mostrando apertura a inversiones sin conflicto federal.",
-            "frase_fuerte": "Recibió al presidente de la Cámara de la Industria Argentina del Software y Servicios Informáticos (CESSI)."
+            "postura_politica": "Apuesta a la modernización productiva. Suarez se reúne con el sector del software, mostrando una agenda de futuro ajena al conflicto político.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@OsvaldoJaldo (Tucumán)",
             "temas_mencionados": [
-                "reconocimiento a docentes",
-                "gestión educativa"
+                "Reconocimiento a docentes",
+                "Deporte provincial",
+                "Campeona mundial"
             ],
-            "postura_politica": "Agenda local con énfasis en educación. Reconoce a docentes y destaca políticas educativas, sin referencia a Nación.",
-            "frase_fuerte": "Reconocimos a 150 docentes tucumanos por su trayectoria, compromiso y dedicación."
+            "postura_politica": "Refugio en agenda local y simbólica. Los homenajes a docentes y deportistas son gestión de baja intensidad política.",
+            "frase_fuerte": null
         }
     ]
 }
