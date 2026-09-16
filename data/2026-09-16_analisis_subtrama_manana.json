@@ -1,0 +1,177 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "La jornada estuvo dominada por la ofensiva de La Pampa contra el decreto de Milei que le quitaba regalías del Atuel, logrando una cautelar judicial. Axel Kicillof (Buenos Aires) moviliza su armado político con el Movimiento DAF, mientras Martín Llaryora (Córdoba) se planta contra el recorte a discapacidad en el Presupuesto 2027. Otros gobernadores se refugian en obras locales y conmemoraciones por la Noche de los Lápices, evitando pronunciarse sobre la macro.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La disputa por las regalías del Río Atuel escaló a una confrontación directa entre La Pampa y la Casa Rosada. Sergio Ziliotto celebró una medida cautelar que frena el Decreto 982/26 del presidente Milei, que transfería el 100% de las regalías a Mendoza. Es la primera vez que un gobernador logra judicializar con éxito una decisión del Ejecutivo en esta materia, enviando una señal de que el ajuste fiscal también puede ser frenado en los tribunales. La respuesta de Alfredo Cornejo (Mendoza) llegó en horas previas, defendiendo el decreto y acusando a La Pampa de no invertir en sus recursos. La Corte Suprema vuelve a ser el campo de batalla del federalismo fiscal.\n\nActo 2 — Los Alineamientos: En el bando opositor, Kicillof redobla su apuesta por la construcción del Movimiento DAF, un armado que busca canalizar el descontento social y productivo con el Gobierno nacional. Llaryora, por su parte, utiliza la bandera de los derechos de las personas con discapacidad como ariete contra el ajuste presupuestario, desmarcándose del oficialismo pero sin romper con el diálogo institucional. En el otro extremo, Jorge Macri (CABA) refuerza su perfil internacional con una visita a Miami, mostrando su sintonía con la agenda económica del Gobierno. Rolando Figueroa (Neuquén) apuesta por la hoja de ruta energética de Vaca Muerta, sin confrontar con Nación pero marcando su propio liderazgo.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas optaron por la agenda de cabotaje para evitar quedar atrapados en el debate nacional. Leandro Zdero (Chaco) anunció un albergue deportivo, Ricardo Quintela (La Rioja) obras de rutas y viviendas, Maximiliano Pullaro (Santa Fe) recorrió obras en el norte provincial. Es la estrategia de la gestión sin ruido, que busca capitalizar el descontento con la Nación a partir de la presencia territorial. La excepción fue Ziliotto, que no se escondió. Los homenajes por la Noche de los Lápices, encabezados por Passalacqua (Misiones), Suárez (Santiago del Estero) y el propio Ziliotto, funcionaron como un recordatorio de los valores democráticos frente al discurso reaccionario del oficialismo.\n\nActo 4 — Saldo Presidencial: Milei pierde una batalla judicial que expone los límites de su ajuste fiscal y su capacidad de imponer la motosierra a las provincias. La decisión de la jueza de Santa Rosa reabre el debate sobre la coparticipación y la discrecionalidad de los decretos presidenciales. Sin embargo, el Gobierno nacional aún mantiene el control de la macroeconomía y las transferencias, lo que deja a los gobernadores rebeldes en una posición incómoda: resistir judicialmente es costoso, pero callar es inaceptable para su electorado. El tablero se reconfigura: la alianza de gobernadores peronistas aún no logra consolidar una estrategia común contra Milei, pero la grieta fiscal ya es un hecho.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto fiscal por regalías del Río Atuel entre La Pampa y Nación/Mendoza",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Presupuesto 2027 y recorte a discapacidad",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Construcción de alternativa política (Movimiento DAF)",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Memoria: 50 años de la Noche de los Lápices",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@passalacquaok",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Gestión de obras públicas y viviendas provinciales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@QuintelaRicardo",
+                "@ZiliottoSergio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "La Pampa seguirá cobrando regalías del Rio Atuel. Una vez más, luchar por lo que corresponde al pueblo pampeano da sus frutos. El Juzgado Federal de Santa Rosa dictó una medida cautelar que ordena la suspensión inmediata de los efectos de los artículos 3 y 4 del Decreto 982/26 del Presidente Milei. Agradezco a las y los dirigentes y a organizaciones sociales y partidos políticos que apoyaron esta lucha por nuestro río Atuel. Seguiremos defendiendo La Pampa. Cada día, donde sea, ante quien sea.",
+        "por_que_es_clave": "Es la primera derrota judicial contundente del plan fiscal de Milei contra una provincia. Ziliotto transforma una disputa técnica en una épica de resistencia provincial, consolidándose como uno de los opositores más combativos y exponiendo la fragilidad de los decretos presidenciales.",
+        "pregunta_openarg": "¿Hasta dónde puede sostener un gobernador periférico una resistencia judicial si la Nación decide cortarle todo financiamiento discrecional? ¿Es la cautelar una victoria pírrica o el inicio de una nueva judicialización federal?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Axel Kicillof, Buenos Aires)",
+            "temas_mencionados": [
+                "Organización política",
+                "Movimiento DAF"
+            ],
+            "postura_politica": "Oposición frontal al Gobierno nacional. Utiliza la red social para convocar a la construcción de una alternativa electoral y social, capitalizando el descontento en el principal distrito del país. El evento del 19 de septiembre busca consolidar la figura de Kicillof como referente del peronismo no-K.",
+            "frase_fuerte": "19.09 Organizar la esperanza"
+        },
+        {
+            "gobernador": "@jorgemacri (Jorge Macri, CABA)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Miami",
+                "Gestión urbana"
+            ],
+            "postura_politica": "Alineamiento con la política exterior del Gobierno nacional y perfil tecnocrático. Busca posicionar a CABA como un destino de inversiones, alejándose de las disputas políticas domésticas y reforzando su vínculo con Estados Unidos.",
+            "frase_fuerte": "Great to welcome Buenos Aires Mayor @jorgemacri to Miami-Dade"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Raúl Jalil, Catamarca)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Vivienda",
+                "Turismo",
+                "Deporte"
+            ],
+            "postura_politica": "Perfil de bajo conflicto. Se limita a retuitear a otros gobernadores (Figueroa, Jaldo) para mostrar unidad regional sin comprometerse con posturas nacionales. Su agenda es cooperativa y evita el enfrentamiento directo con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Leandro Zdero, Chaco)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Deporte"
+            ],
+            "postura_politica": "Gestión local sin impacto federal. El anuncio del albergue deportivo refuerza su perfil de gobernante dedicado a la obra pública, en sintonía con las necesidades provinciales. Evita pronunciarse sobre la coyuntura nacional.",
+            "frase_fuerte": "Anunciamos una obra histórica para el deporte chaqueño!"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Martín Llaryora, Córdoba)",
+            "temas_mencionados": [
+                "Discapacidad",
+                "Presupuesto nacional",
+                "Educación",
+                "Infraestructura",
+                "Visita del Papa",
+                "Homenaje De la Sota"
+            ],
+            "postura_politica": "Oposición selectiva al Gobierno nacional. Critica con dureza el recorte a discapacidad, pero al mismo tiempo promociona los logros educativos y de infraestructura de su gestión. Busca liderar la agenda federal opositora sin romper puentes.",
+            "frase_fuerte": "CON LA DISCAPACIDAD NO. ... El Gobierno nacional, a través de sus diputados, pretende derogar en el Presupuesto 2027 los artículos 5, 8, 9 y 14 de la Ley de Emergencia 27.793"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (Sergio Ziliotto, La Pampa)",
+            "temas_mencionados": [
+                "Regalías",
+                "Río Atuel",
+                "Conflicto fiscal",
+                "Memoria",
+                "Viviendas"
+            ],
+            "postura_politica": "Oposición directa y judicializada contra el presidente Milei. Su estrategia combina la defensa territorial con la movilización de recursos legales, consolidándose como la voz más crítica entre los gobernadores peronistas. Las conmemoraciones por la Noche de los Lápices reafirman su perfil democrático.",
+            "frase_fuerte": "El Juzgado Federal de Santa Rosa dictó una medida cautelar que ordena la suspensión inmediata de los efectos de los artículos 3 y 4 del Decreto 982/26 del Presidente Milei"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (Ricardo Quintela, La Rioja)",
+            "temas_mencionados": [
+                "Obras viales",
+                "Viviendas",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Crítica implícita al desfinanciamiento nacional. Al afirmar que 'en La Rioja nos hacemos cargo de las rutas', expone la falta de inversión de Nación y se presenta como gestor eficiente con recursos propios. Perfil bajo pero con dardo a la Casa Rosada.",
+            "frase_fuerte": "Frente a un Gobierno nacional que desfinancia y abandona las rutas nacionales, en La Rioja nos hacemos cargo de las rutas de la provincia"
+        },
+        {
+            "gobernador": "@alfredocornejo (Alfredo Cornejo, Mendoza)",
+            "temas_mencionados": [
+                "Sanidad agropecuaria",
+                "Cooperación con Chile",
+                "Pasos fronterizos"
+            ],
+            "postura_politica": "Perfil técnico y de gestión. Su tweet sobre la reunión con SENASA y SAG de Chile muestra su enfoque en la productividad y la facilitación del comercio. Elude la polémica directa con La Pampa en este post, aunque previamente se había manifestado sobre las regalías. Da la imagen de un gobernante que trabaja en problemas concretos.",
+            "frase_fuerte": "Abordamos temas clave para Mendoza, como la Mosca del Mediterráneo y Lobesia botrana, además de la necesidad de agilizar los pasos fronterizos"
+        },
+        {
+            "gobernador": "@passalacquaok (Hugo Passalacqua, Misiones)",
+            "temas_mencionados": [
+                "Memoria",
+                "Noche de los Lápices",
+                "Juventud"
+            ],
+            "postura_politica": "Perfil democrático y de defensa de derechos humanos. La conmemoración de los 50 años de la Noche de los Lápices lo alinea con la oposición en el marco de los discursos negacionistas del oficialismo, sin necesidad de mencionar a Nación explícitamente.",
+            "frase_fuerte": "Recordarlos es también reafirmar nuestro compromiso con la democracia, la libertad y una juventud que pueda siempre levantar su voz"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Rolando Figueroa, Neuquén)",
+            "temas_mencionados": [
+                "Energía",
+                "Vaca Muerta",
+                "Vivienda",
+                "Desarrollo"
+            ],
+            "postura_politica": "Gestión provincial autónoma. Su tweet sobre la hoja de ruta energética muestra un gobernante que mira al futuro con pragmatismo, sin confrontar con Nación pero sin subordinarse. La vivienda refuerza el perfil de obra pública. Se posiciona como un líder técnico.",
+            "frase_fuerte": "Vaca Muerta es necesaria, pero no suficiente"
+        },
+        {
+            "gobernador": "@maxipullaro (Maximiliano Pullaro, Santa Fe)",
+            "temas_mencionados": [
+                "Obras",
+                "Vivienda",
+                "Desarrollo del norte santafesino"
+            ],
+            "postura_politica": "Gestión provincial focalizada en el interior. La recorrida por el norte santafesino busca mostrar cercanía con las zonas postergadas, construyendo capital político propio. Evita cualquier mención a la política nacional.",
+            "frase_fuerte": "Qué alegría recorrer el norte santafesino y ver cómo las obras se traducen en la emoción de los vecinos"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Elías Suárez, Santiago del Estero)",
+            "temas_mencionados": [
+                "Memoria",
+                "Noche de los Lápices",
+                "Juventud"
+            ],
+            "postura_politica": "Alineamiento con el bloque opositor en la conmemoración de los 50 años. Su tweet es un reflejo de la agenda de derechos humanos, en sintonía con los gobernadores peronistas que buscan contrastar con el discurso oficialista.",
+            "frase_fuerte": "Su valentía nos guía, defender la voz de nuestra juventud es sostener viva nuestra democracia"
+        }
+    ]
+}
