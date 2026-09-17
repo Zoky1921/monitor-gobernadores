@@ -1,0 +1,173 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La jornada federal actualiza la tensión entre la gestión provincial y el impacto de las políticas nacionales. Axel Kicillof (Buenos Aires) destacó la inversión en salud, contrastándola con el 'ajuste y desfinanciamiento' nacional. Jorge Macri (Ciudad de Buenos Aires) impulsó alivio fiscal y simplificación para el sector productivo local. En tanto, Claudio Vidal (Santa Cruz) criticó duramente gestiones anteriores al avanzar con obras educativas. Ricardo Quintela (La Rioja) celebró una nueva ley de educación superior, y Claudio Poggi (San Luis) elevó un proyecto de desendeudamiento familiar. Rolando Figueroa (Neuquén) priorizó soluciones habitacionales. La seguridad y el diálogo federal se mantuvieron en agenda con Maximiliano Pullaro (Santa Fe) y Gustavo Sáenz (Salta) respectivamente.",
+    "analisis_profundo": "La agenda política federal del 17 de septiembre de 2026 se caracterizó por una clara reafirmación de las capacidades y prioridades de gestión provincial, a menudo en un marco de diferenciación, o incluso crítica, hacia el gobierno nacional. Axel Kicillof (Buenos Aires) utilizó la inauguración de infraestructura sanitaria para lanzar un mensaje político contundente, aludiendo a un 'contexto nacional de ajuste y desfinanciamiento' y posicionando la acción provincial como garante de derechos esenciales. Esta postura sugiere una continuidad en las tensiones preexistentes entre la Provincia de Buenos Aires y la administración central. Claudio Vidal (Santa Cruz) se sumó a esta línea de contraste, destacando la construcción de una escuela industrial largamente prometida y no concretada por 'el kirchnerismo', reforzando una narrativa de cambio y concreción de obras vitales para su provincia. \n\nEn la Ciudad de Buenos Aires, Jorge Macri (Ciudad de Buenos Aires) se enfocó en el desarrollo económico local, promoviendo la simplificación de trámites y el alivio fiscal. Su mensaje, aunque menos confrontativo, subraya una visión pro-inversión y de reducción de la burocracia. Otros gobernadores, como Ricardo Quintela (La Rioja), se concentraron en avanzar en políticas estructurales propias, como la sanción de una Ley Provincial de Educación Superior para potenciar la formación y adaptarse a las necesidades de su región. Rolando Figueroa (Neuquén) reafirmó su compromiso con la política habitacional, buscando revertir el retraso en la entrega de viviendas.\n\nEl plano social y económico también tuvo su espacio. Claudio Poggi (San Luis) anunció un aumento en las becas al mérito y la elevación de un proyecto de ley de 'desendeudamiento e impulso al consumo familiar', reflejando una preocupación por la situación económica de las familias. En materia de seguridad, Maximiliano Pullaro (Santa Fe) reiteró su lucha 'contra las mafias y el crimen organizado', marcando una prioridad inalterable de su gestión. Gustavo Sáenz (Salta) mantuvo el foco en la coordinación regional y el diálogo con el Senado para impulsar la agenda del Norte Grande, buscando un frente común para defender los intereses provinciales. Elías Suárez (Santiago del Estero) resaltó el potencial productivo en el marco de una exposición ganadera, enfatizando el desarrollo local. La jornada refleja una dinámica federal donde las provincias, más allá de la coyuntura nacional, buscan fortalecer sus capacidades y resolver sus problemáticas con una marcada autonomía y, en ocasiones, un tono crítico hacia el centro.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a políticas nacionales y defensa de la gestión provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Infraestructura, Obra Pública y Vivienda",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educación y Fomento del Talento",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Regional y Alivio Fiscal",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Seguridad y Diálogo Federal",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Más de 20 mil vecinos de Varela van a poder atenderse en el nuevo CAPS del barrio San Jorge y el distrito va a contar con dos nuevas ambulancias de alta complejidad. Seguimos ampliando el derecho a la salud en cada distrito y garantizando su acceso a quienes no pueden pagarle a un privado en un contexto nacional de ajuste y desfinanciamiento.",
+        "por_que_es_clave": "El gobernador Axel Kicillof (Buenos Aires) articula una política de gestión local en salud con una crítica directa a la política económica del gobierno nacional, resaltando la autonomía provincial frente al 'ajuste y desfinanciamiento'. Su postura es un claro posicionamiento en la dinámica federal actual.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Salud pública",
+                "Obra pública",
+                "Políticas nacionales de ajuste"
+            ],
+            "postura_politica": "Defiende activamente el rol del Estado provincial en la provisión de servicios esenciales como la salud y la vivienda, contrastando su gestión con las políticas de desfinanciamiento y ajuste del gobierno nacional. Reafirma la responsabilidad provincial en garantizar derechos y sostener la obra pública.",
+            "frase_fuerte": "Seguimos ampliando el derecho a la salud en cada distrito y garantizando su acceso a quienes no pueden pagarle a un privado en un contexto nacional de ajuste y desfinanciamiento."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Alivio fiscal",
+                "Simplificación administrativa",
+                "Generación de empleo"
+            ],
+            "postura_politica": "Impulsa medidas de alivio fiscal y simplificación burocrática en la Ciudad de Buenos Aires para fomentar la inversión, la producción y la creación de empleo. Su enfoque es pro-mercado y busca facilitar la actividad económica local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Gestión local",
+                "Servicios públicos",
+                "Programas sociales"
+            ],
+            "postura_politica": "Se enfoca en la acción concreta y la recuperación de servicios y espacios comunitarios. Destaca la presencia del Estado provincial para brindar soluciones directas a las comunidades, como la inauguración de un Registro Civil y la entrega de herramientas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Obra pública",
+                "Proyectos provinciales"
+            ],
+            "postura_politica": "Mantiene una postura de continuidad y progreso en la gestión de obras y proyectos para la provincia de Jujuy, con un mensaje general de acción y desarrollo local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Educación superior",
+                "Políticas educativas"
+            ],
+            "postura_politica": "Promueve la educación como un pilar fundamental para el desarrollo y la transformación provincial. Busca fortalecer la educación superior, ampliar las oportunidades de formación y alinearla con las necesidades regionales de La Rioja.",
+            "frase_fuerte": "La educación es un derecho y también es una herramienta para transformar la provincia."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Memoria",
+                "Derechos humanos",
+                "Juventud"
+            ],
+            "postura_politica": "Reafirma el compromiso de la provincia con la memoria histórica, en particular la conmemoración de La Noche de los Lápices, vinculando el pasado con el rol de la juventud y la defensa de los derechos en la democracia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obra pública",
+                "Arraigo"
+            ],
+            "postura_politica": "Prioriza la resolución de la problemática habitacional en Neuquén, enfatizando la recuperación de obras paralizadas y la entrega de viviendas como un medio para consolidar el arraigo de las familias en la provincia. Subraya el compromiso de su gestión con esta necesidad.",
+            "frase_fuerte": "Detrás de cada vivienda hay una familia y un proyecto de vida."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Federalismo",
+                "Agenda legislativa",
+                "Norte Grande"
+            ],
+            "postura_politica": "Aboga por el diálogo y la búsqueda de consensos entre las provincias y con el gobierno nacional. Su rol se centra en defender los intereses del Norte Argentino y coordinar acciones legislativas que respondan a las necesidades de la región.",
+            "frase_fuerte": "El diálogo y la búsqueda de consensos son fundamentales para avanzar en soluciones que respondan a las necesidades de nuestra gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Becas al mérito",
+                "Economía familiar",
+                "Programas deportivos"
+            ],
+            "postura_politica": "Enfocado en políticas de apoyo a la educación y el bienestar económico de las familias. Destaca el fomento del mérito académico y la implementación de programas para aliviar la carga financiera y estimular el consumo, además de promover el deporte infanto-juvenil.",
+            "frase_fuerte": "Hoy elevamos a la Legislatura Provincial un Proyecto de Ley de “DESENDEUDAMIENTO e IMPULSO AL CONSUMO FAMILIAR”."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura escolar",
+                "Crítica a gestiones anteriores"
+            ],
+            "postura_politica": "Se posiciona como un gestor de obras concretas, contrastando su accionar con la inacción y las promesas incumplidas de administraciones anteriores (el 'kirchnerismo'). Enfatiza la importancia de la educación técnica para el futuro laboral de Santa Cruz.",
+            "frase_fuerte": "La prometieron 14 años, tres licitaciones y el kirchnerismo nunca concretó la Industrial N° 8: hoy nosotros la estamos construyendo."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Crimen organizado",
+                "Ministerio Público de la Acusación"
+            ],
+            "postura_politica": "Mantiene una postura firme y prioritaria en la lucha contra el crimen organizado y las mafias. Resalta la colaboración con el Ministerio Público de la Acusación como eje central de su gobierno para garantizar la seguridad en Santa Fe.",
+            "frase_fuerte": "Seguimos esforzándonos para luchar contra las mafias y el crimen organizado. Este es un eje central de mi gobierno..."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Ganadería",
+                "Colaboración interinstitucional"
+            ],
+            "postura_politica": "Promueve el potencial productivo de Santiago del Estero, especialmente en el sector ganadero, a través de eventos como ExpoBra y la colaboración con organismos nacionales para fortalecer la trazabilidad y el desarrollo de la actividad.",
+            "frase_fuerte": null
+        }
+    ]
+}
