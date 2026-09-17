@@ -1,0 +1,314 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "Jornada marcada por la ofensiva de Kicillof contra el ajuste nacional, la cumbre del Norte Grande por el Presupuesto 2027, y la escalada de la disputa La Pampa-Mendoza por las regalías del Atuel. Jorge Macri refuerza el alineamiento PRO con Washington.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La agenda fiscal domina la jornada. Mientras Kicillof (Buenos Aires) despliega una batería de reclamos por los 28,4 billones de pesos perdidos y se reúne con intendentes del DAF para construir la alternativa a Milei, cuatro gobernadores del Norte Grande (Jalil, Jaldo, Valdés, Sáenz) negocian con el jefe de Gabinete Santilli los términos del Presupuesto 2027. La demanda de una compensación tarifaria por zona cálida revela la fragilidad de un federalismo donde el ajuste nacional se traslada a las provincias. Paralelamente, Ziliotto (La Pampa) obtiene una cautelar contra el decreto de Milei que le quita las regalías del Atuel, mientras Cornejo (Mendoza) celebra la decisión como un acto de justicia histórica. El choque entre ambas provincias expone la crudeza de la puja por recursos estratégicos.\n\nActo 2 — Los Alineamientos: El tablero se divide entre los gobernadores que buscan diferenciarse del ajuste y aquellos que se alinean con la Casa Rosada. Kicillof encabeza el bloque opositor, con el peronismo federal (Jalil, Jaldo) en una posición ambigua: negocian con Nación pero sin romper. Jorge Macri (CABA) se consolida como el principal aliado de Milei en el PRO, viajando a Washington para reunirse con el subsecretario de Estado Landau y promoviendo la agenda de 'ley y orden'. En el medio, gobernadores como Pullaro (Santa Fe) y Llaryora (Córdoba) se enfocan en la gestión local y evitan confrontar directamente, mientras Frigerio (Entre Ríos) y Figueroa (Neuquén) avanzan en acuerdos de infraestructura con Nación.\n\nActo 3 — La Micro-política: La mayoría de los gobernadores opta por el refugio en la agenda de cabotaje. Zdero (Chaco) inaugura obras y entrega viviendas; Torres (Chubut) celebra el aniversario de Rawson y promociona el turismo; Vidal (Santa Cruz) entrega zapatillas escolares; Poggi (San Luis) inaugura plazas y escuelas. Este apagón político coordinado busca deslegitimar el relato de ajuste nacional mostrando gestión propia. Sin embargo, la ausencia de menciones a la macroeconomía revela una estrategia de supervivencia: evitar el debate nacional para no quedar pegados a ninguno de los dos polos.\n\nActo 4 — Saldo Presidencial: Milei enfrenta un escenario complejo. La reunión del Norte Grande por el Presupuesto es una señal de que los gobernadores peronistas no darán cheques en blanco. La disputa Atuel suma un frente judicial. Pero el alineamiento de Macri y el silencio de la mayoría de los mandatarios provinciales le otorgan un respiro. El desafío es si podrá sostener el ajuste sin que el malestar se traduzca en una rebelión fiscal explícita.",
+    "temas_calientes": [
+        {
+            "tema": "Cumbre de gobernadores del Norte Grande con Jefe de Gabinete por Presupuesto 2027",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@OsvaldoJaldo",
+                "@JPValdesok",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Disputa La Pampa-Mendoza por regalías del río Atuel",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Visita de Jorge Macri a Washington y alineamiento con EE.UU.",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Kicillof y el Movimiento DAF: construcción de alternativa a Milei",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Conmemoración de los 50 años de la Noche de los Lápices",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@ZiliottoSergio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "La Pampa seguirá cobrando regalías del Rio Atuel. Una vez más, luchar por lo que corresponde al pueblo pampeano da sus frutos. El Juzgado Federal de Santa Rosa dictó una medida cautelar que ordena la suspensión inmediata de los efectos de los artículos 3 y 4 del Decreto 982/26 del Presidente Milei. Agradezco a las y los dirigentes y a organizaciones sociales y partidos políticos que apoyaron esta lucha por nuestro río Atuel. Seguiremos defendiendo La Pampa. Cada día, donde sea, ante quien sea.",
+        "por_que_es_clave": "Ziliotto logra una medida judicial que frena el decreto de Milei, demostrando que la resistencia legal es viable y marcando un precedente para otras provincias. Es un golpe directo al relato de 'orden fiscal' del gobierno nacional.",
+        "pregunta_openarg": "¿Puede el gobierno de Milei sostener su ajuste fiscal si los fallos judiciales empiezan a restituir partidas a las provincias una por una?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Noche de los Lápices",
+                "Movimiento DAF",
+                "recortes nacionales",
+                "violencia de género",
+                "economías regionales"
+            ],
+            "postura_politica": "Ofensiva total contra Milei. Usa la memoria histórica y la gestión provincial para construir un relato de resistencia. El DAF es su estructura para 2027.",
+            "frase_fuerte": "Mientras en nuestro país el Gobierno nacional desmantela las políticas públicas con perspectiva de género, en la Provincia seguimos trabajando"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "relaciones con EE.UU.",
+                "apoyo a Milei",
+                "gestión PRO",
+                "seguridad"
+            ],
+            "postura_politica": "Se consolida como el principal operador del PRO en el gobierno nacional. Su viaje a Washington busca proyectar una imagen de gestión internacional y certidumbre.",
+            "frase_fuerte": "La Argentina tiene hoy una oportunidad histórica de consolidar un camino de estabilidad, reformas, seguridad, menos impuestos y más libertad"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Presupuesto 2027",
+                "Norte Grande",
+                "minería",
+                "elecciones provinciales"
+            ],
+            "postura_politica": "Jugada doble: negocia con Nación pero sin romper con el peronismo. La decisión de unificar elecciones es un gesto de pragmatismo fiscal.",
+            "frase_fuerte": "Realizar dos elecciones implica destinar fondos que preferimos invertir en viviendas, rutas, escuelas y hospitales"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "obras",
+                "viviendas",
+                "educación",
+                "exportaciones"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en gestión de cabotaje para mostrar eficiencia en un contexto de ajuste.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "aniversario Rawson",
+                "turismo",
+                "Plan Galina",
+                "energía"
+            ],
+            "postura_politica": "Refugio en la agenda de cabotaje. Promociona obras e inversiones propias para marcar autonomía frente al repliegue nacional.",
+            "frase_fuerte": "Después de años de demoras, incumplimientos y postergaciones, estamos transformando el esfuerzo de los contribuyentes en obras concretas"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Noche de los Lápices",
+                "educación PISA",
+                "discapacidad",
+                "visita del Papa",
+                "industria"
+            ],
+            "postura_politica": "Equilibrista: condena el ajuste en discapacidad pero evita confrontar directamente con Nación. Apuesta a la gestión y al diálogo.",
+            "frase_fuerte": "Gobernar es resolver. Los cordobeses no esperamos el futuro: lo construimos"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "producción",
+                "fiesta popular"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Participa en la cumbre del Norte Grande pero sin posicionamiento fuerte.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "hidrovía",
+                "industria",
+                "jubilaciones de privilegio",
+                "Rosh Hashaná"
+            ],
+            "postura_politica": "Gestión con perfil reformista. Elimina jubilaciones de privilegio y negocia con la Región Centro para bajar costos energéticos.",
+            "frase_fuerte": "Se terminaron por ley las jubilaciones de privilegio en Entre Ríos. El cambio tiene que empezar por quienes tenemos la responsabilidad de hacerlo"
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "salud",
+                "aniversarios",
+                "Día del Maestro"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "minería",
+                "emprendedurismo",
+                "vuelos"
+            ],
+            "postura_politica": "Posicionamiento pro-inversión minera. Se alinea con el discurso de desarrollo productivo sin confrontar con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Atuel",
+                "viviendas",
+                "educación",
+                "salud mental"
+            ],
+            "postura_politica": "Ofensiva judicial contra Milei. La medida cautelar por el Atuel es un golpe directo al gobierno nacional.",
+            "frase_fuerte": "La Pampa seguirá cobrando regalías del Rio Atuel. Una vez más, luchar por lo que corresponde al pueblo pampeano da sus frutos"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "obras",
+                "viviendas",
+                "Norte Grande",
+                "cultura"
+            ],
+            "postura_politica": "Agenda local con perfil peronista. Participa en la cumbre del Norte Grande y muestra gestión para marcar presencia.",
+            "frase_fuerte": "Frente a un Gobierno nacional que desfinancia y abandona las rutas nacionales, en La Rioja nos hacemos cargo"
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Atuel",
+                "infraestructura vial",
+                "vitivinicultura",
+                "minería"
+            ],
+            "postura_politica": "Defensa firme de los recursos provinciales. Celebra el decreto de Milei que le otorga el 100% de las regalías y contrasta con la gestión de La Pampa.",
+            "frase_fuerte": "Mendoza recupera lo que legítimamente le pertenece, el 100% de las regalías hidroeléctricas de Los Nihuiles"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Noche de los Lápices",
+                "cooperación con Buenos Aires",
+                "educación",
+                "cultura"
+            ],
+            "postura_politica": "Alineamiento con Kicillof. La visita del gobernador bonaerense y los convenios firmados refuerzan un eje opositor.",
+            "frase_fuerte": "Las provincias somos la Nación y, trabajando juntas, podemos seguir generando oportunidades para nuestra gente"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "rutas",
+                "Copa Davis",
+                "energía"
+            ],
+            "postura_politica": "Posicionamiento pro-inversión y gestión. Negocia con Nación el traspaso de rutas y defiende la zona fría.",
+            "frase_fuerte": "Vaca Muerta es necesaria, pero no suficiente. Miramos hacia adelante con una estrategia que integra energía, sostenibilidad y nuevas oportunidades"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "producción",
+                "salud",
+                "viviendas",
+                "seguridad"
+            ],
+            "postura_politica": "Agenda local con énfasis en gestión. Evita confrontar con Nación y muestra resultados.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "minería",
+                "seguridad",
+                "emprendedurismo"
+            ],
+            "postura_politica": "Posicionamiento pro-inversión y seguridad jurídica. Participa en la cumbre del Norte Grande sin romper con Nación.",
+            "frase_fuerte": "Salta dejó de ser una provincia con minerales para convertirse definitivamente en una provincia minera"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "minería",
+                "ODESUR",
+                "acuerdo con Vicuña",
+                "educación"
+            ],
+            "postura_politica": "Posicionamiento pro-inversión y gestión. El acuerdo con Vicuña por 250 millones es un hito que busca mostrar capacidad de gestión.",
+            "frase_fuerte": "Un hecho histórico para San Juan: firmamos un acuerdo con Vicuña por USD 250 millones"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "viviendas",
+                "educación",
+                "obras"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "educación",
+                "viviendas",
+                "petróleo",
+                "gestión"
+            ],
+            "postura_politica": "Ofensiva contra el kirchnerismo local. Muestra gestión para marcar diferencia con el pasado.",
+            "frase_fuerte": "El kirchnerismo no solo robó y destruyó la provincia, sino que jugó con la ilusión de los santacruceños"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Juegos Suramericanos",
+                "seguridad",
+                "educación",
+                "obras"
+            ],
+            "postura_politica": "Agenda local con perfil de gestión. Los Juegos son su principal vitrina. Evita confrontar con Nación.",
+            "frase_fuerte": "La provincia Invencible de Santa Fe hoy está de pie"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "cultura",
+                "justicia",
+                "educación",
+                "Malvinas"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Malvinas",
+                "industria",
+                "energía",
+                "Base Naval"
+            ],
+            "postura_politica": "Posicionamiento en defensa de la soberanía. Acompaña el anuncio de la Base Naval Integrada pero pide participación.",
+            "frase_fuerte": "Las Malvinas fueron, son y serán argentinas. Y fueron, son y serán fueguinas"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "Presupuesto 2027",
+                "Ficha Limpia",
+                "docentes"
+            ],
+            "postura_politica": "Jugada doble: negocia con Nación pero construye unidad peronista. La implementación de Ficha Limpia es un gesto de institucionalidad.",
+            "frase_fuerte": "Nuestros representantes en el Congreso estudiarán cada artículo antes de definir su acompañamiento"
+        }
+    ]
+}
