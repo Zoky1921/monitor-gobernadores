@@ -1,0 +1,189 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores abordaron una agenda cargada de gestión local, mientras algunos reafirmaron su postura de defensa federal ante la Nación. Axel Kicillof (Buenos Aires) convocó a un plenario político para un 'modelo distinto' para Argentina. Ricardo Quintela (La Rioja) y Gustavo Melella (Tierra del Fuego) enfatizaron la necesidad de una agenda federal y la defensa de intereses provinciales en un 'difícil contexto'. Por su parte, Alfredo Cornejo (Mendoza) impulsó una nueva Ley de Hidrocarburos para atraer inversiones. Las provincias de Chaco y La Pampa, con Leandro Zdero y Sergio Ziliotto respectivamente, se centraron en planes de prevención por el fenómeno de El Niño. Rolo Figueroa (Neuquén) destacó indicadores económicos positivos y la proyección internacional de la provincia, mientras Jorge Macri (Ciudad Autónoma de Buenos Aires) implementó una política social restrictiva para deudores alimentarios. Maxi Pullaro (Santa Fe) celebró el éxito de los Juegos Suramericanos.",
+    "analisis_profundo": "La agenda de los gobernadores en las últimas 24-40 horas refleja una marcada priorización de la gestión provincial, con un tono subyacente de autonomía y, en algunos casos, crítica velada o abierta a la administración nacional. Axel Kicillof (Buenos Aires) se posiciona firmemente en la construcción de una alternativa política, convocando a un plenario federal del MOVIMIENTODAF para un 'modelo distinto para la Argentina', lo que subraya una estrategia de oposición y búsqueda de consolidación de un frente interno. De manera similar, Ricardo Quintela (La Rioja) reafirmó la importancia de una agenda federal que 'dé respuestas a la comunidad en este difícil contexto', indicando un reconocimiento de las dificultades económicas y sociales a nivel nacional. Por su parte, Gustavomelella (Tierra del Fuego) dialogó con el Jefe de Gabinete nacional para abordar prioridades de su provincia, incluyendo soberanía y situación financiera, pero sin resignar la firme postura fueguina sobre Malvinas. \n\nEn contraste, otros gobernadores se concentraron en el desarrollo económico y la infraestructura con una perspectiva más proactiva hacia la inversión. Alfredo Cornejo (Mendoza) avanzó con una nueva Ley de Hidrocarburos, buscando actualizar el marco normativo para atraer inversiones en Vaca Muerta y recuperar la producción convencional. Raúl Jalil (Catamarca) retuiteó al Ministro de Economía nacional, Luis Caputo, sobre inversiones mineras bajo el régimen RIGI, sugiriendo una colaboración estratégica en sectores clave. Rolo Figueroa (Neuquén) también enfatizó la buena performance económica de su provincia y la visibilidad internacional a través de eventos como la Copa Davis, vinculando el deporte a la promoción turística y de inversiones, más allá de los recursos hidrocarburíferos. \n\nLa gestión de obras públicas y servicios esenciales fue un pilar transversal. Claudio Poggi (San Luis) anunció licitaciones para pozos de agua y obras viales, además de avances en infraestructura universitaria. Martin Llaryora (Córdoba) promovió nuevas delimitaciones de radios urbanos y la inauguración de espacios verdes. Las preocupaciones climáticas también tomaron protagonismo, con Leandro Zdero (Chaco) y Sergio Ziliotto (La Pampa) detallando planes de prevención y articulación frente al fenómeno El Niño, destacando la necesidad de recursos propios para financiar estas acciones. Finalmente, Maxi Pullaro (Santa Fe) celebró el éxito masivo de los Juegos Suramericanos 2026, lo que refuerza una imagen de capacidad y liderazgo provincial. La variedad de posturas, desde la construcción de alternativas políticas hasta la colaboración en inversiones estratégicas y la gestión local con recursos propios, ilustra un federalismo activo pero tensionado por las realidades económicas y políticas del país.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo y Posicionamiento frente al Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@gustavomelella",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Obras Públicas",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Prevención y Gestión de Riesgos Climáticos (Fenómeno El Niño)",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales, Educación y Eventos de Proyección Provincial",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@passalacquaok",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "En la Ciudad, los deudores alimentarios no pueden entrar a estadios ni espectáculos masivos. Ahora, tampoco pueden hacer apuestas online. Es muy simple: si no cumplís con una obligación tan básica como alimentar a tus hijos, tenés consecuencias.",
+        "por_que_es_clave": "Representa una medida contundente de política pública con impacto social directo, ligando el incumplimiento de obligaciones familiares con restricciones en el ocio y el acceso a ciertos servicios, lo que puede sentar un precedente para la discusión de responsabilidades ciudadanas.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Organización Política",
+                "Modelo de País"
+            ],
+            "postura_politica": "Activamente moviliza bases y convoca a un plenario federal para construir una 'alternativa distinta' al modelo nacional, consolidándose como figura de oposición con visión de futuro.",
+            "frase_fuerte": "Mañana nos encontramos en Avellaneda en el Plenario Federal del @MOVIMIENTODAF para seguir construyendo entre todos y todas un modelo distinto para la Argentina 🇦🇷"
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Justicia Social",
+                "Derechos de la Niñez",
+                "Regulación del Juego"
+            ],
+            "postura_politica": "Impulsa políticas de orden y responsabilidad cívica, aplicando restricciones claras a los deudores alimentarios, fortaleciendo la aplicación de la ley a nivel local.",
+            "frase_fuerte": "Es muy simple: si no cumplís con una obligación tan básica como alimentar a tus hijos, tenés consecuencias."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Energía",
+                "Minería",
+                "Inversión Nacional"
+            ],
+            "postura_politica": "Exhibe una postura colaborativa con el gobierno nacional en el impulso de inversiones mineras y la agenda energética, destacando el Régimen de Incentivo a Grandes Inversiones (RIGI) y el proyecto de Ley de Biocombustibles.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Cambio Climático",
+                "Prevención",
+                "Gestión de Riesgos"
+            ],
+            "postura_politica": "Demuestra un enfoque proactivo en la gestión de riesgos climáticos, articulando esfuerzos con diversos sectores para la prevención ante el fenómeno de El Niño.",
+            "frase_fuerte": "Avanzamos en una jornada clave de trabajo, prevención, planificación y articulación con diversos sectores de la comunidad ante el fenómeno de El Niño."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo Urbano",
+                "Planificación Territorial",
+                "Infraestructura"
+            ],
+            "postura_politica": "Centrado en la mejora de la calidad de vida urbana a través de infraestructura y planificación, con un ojo en grandes eventos como la futura visita papal y la expansión de los radios urbanos.",
+            "frase_fuerte": "Dimos un paso muy importante para el crecimiento de 22 municipios y comunas de #Córdoba."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Cambio Climático",
+                "Producción Agropecuaria",
+                "Recursos Provinciales"
+            ],
+            "postura_politica": "Prioriza la protección de la producción y las familias pampeanas ante eventos climáticos, utilizando recursos propios para reforzar medidas preventivas y mantener la autonomía provincial.",
+            "frase_fuerte": "ALERTA CLIMÁTICA POR “EL NIÑO” Seguimos avanzando en acciones preventivas para cuidar a las familias y proteger la producción pampeana."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Agenda Social",
+                "Contexto Nacional"
+            ],
+            "postura_politica": "Mantiene un enfoque en la defensa de una agenda federal y el diálogo interprovincial para abordar las problemáticas generadas por el 'difícil contexto' nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Energía",
+                "Recursos Naturales",
+                "Inversión Privada",
+                "Legislación"
+            ],
+            "postura_politica": "Impulsa una modernización legislativa para el sector de hidrocarburos, buscando incentivar la inversión privada y el desarrollo productivo en un contexto de recursos estratégicos.",
+            "frase_fuerte": "Enviamos a la Legislatura una nueva Ley de Hidrocarburos para actualizar una normativa que tiene 20 años y adaptarla a la nueva realidad de la industria."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Educación Superior",
+                "Salud",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "Se enfoca en el desarrollo de la educación superior y la formación de profesionales locales para fortalecer sectores clave como la salud y las ciencias humanas, apostando por el capital humano de la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Economía Provincial",
+                "Turismo",
+                "Relaciones Internacionales",
+                "Salud",
+                "Educación"
+            ],
+            "postura_politica": "Destaca los sólidos indicadores económicos de Neuquén y busca proyectar la provincia a nivel internacional a través de eventos deportivos y la promoción de inversiones, mientras refuerza la inversión en servicios públicos esenciales.",
+            "frase_fuerte": "Neuquén sigue generando empleo y oportunidades mientras avanzamos en un modelo que pone el trabajo, la producción y el desarrollo en el centro. Ordenar para redistribuir e impulsar la iniciativa privada: la neuquinidad es entre todos."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Infraestructura Hídrica",
+                "Obras Públicas",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "Con una visión de crecimiento local, el gobernador prioriza la inversión en infraestructura esencial, como la perforación de pozos de agua y la conservación de rutas, para garantizar servicios básicos y desarrollo en sus municipios.",
+            "frase_fuerte": "El AGUA no será una restricción para el crecimiento de la Localidad."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Deporte",
+                "Turismo",
+                "Imagen Provincial"
+            ],
+            "postura_politica": "Celebra la exitosa organización de los Juegos Suramericanos 2026 como un hito que demuestra la capacidad de la provincia para eventos masivos y proyecta una imagen de Santa Fe 'invencible' y 'de pie'.",
+            "frase_fuerte": "Ya pasaron 1.800.000 personas por los @suramericanos26 Increíble."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Federalismo",
+                "Soberanía",
+                "Inversiones",
+                "Relación Nación-Provincias"
+            ],
+            "postura_politica": "Dialoga con la Jefatura de Gabinete nacional para defender los intereses estratégicos de su provincia en temas clave como soberanía, logística antártica e inversiones, manteniendo una firme postura sobre Malvinas.",
+            "frase_fuerte": "Dialogar no significa resignar posiciones: significa defender nuestros intereses y buscar soluciones para los fueguinos."
+        }
+    ]
+}

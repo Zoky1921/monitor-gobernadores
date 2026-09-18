@@ -1,0 +1,244 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada de baja tensión fiscal pero con movimientos en la periferia del poder: Kicillof convoca a su tropa, Melella negocia con Nación y Cornejo avanza en su agenda energética. La mayoría de los gobernadores se refugian en la gestión local, reflejando una 'apatía federal' calculada mientras esperan señales del Presupuesto 2027.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registra un choque frontal con la Casa Rosada, pero sí una pulseada subterránea. Mientras Kicillof (Buenos Aires) articula el armado opositor con su Plenario Federal, Melella (Tierra del Fuego) negocia en despachos oficiales la agenda de soberanía y finanzas. El Gobierno nacional, ausente en los tuits de la mayoría, respira por ahora. El verdadero campo de batalla es el Presupuesto 2027, y los gobernadores del Norte Grande ya marcaron la cancha con Jalil y Osvaldo Jaldo.\n\nActo 2 — Los Alineamientos: El bloque 'dialoguista' se consolida con Melella, Cornejo y Jalil, que apuestan a la gestión y la negociación técnica. Cornejo (Mendoza) impulsa su Ley de Hidrocarburos, un gesto de autonomía productiva que también es un mensaje a Nación: 'yo gestiono lo que vos no hacés'. Del otro lado, Kicillof y Quintela (La Rioja) tejen la red opositora, aunque Quintela se limita a reuniones partidarias. Pullaro (Santa Fe) y Llaryora (Córdoba) se muestran en modo 'éxito deportivo' y 'obra pública', respectivamente, evitando posicionarse en la grieta.\n\nActo 3 — La Micro-política: Figueroa (Neuquén) celebra datos de empleo y la Copa Davis, pero su silencio sobre la relación con Nación revela una estrategia de 'neutralidad rentable'. Poggi (San Luis) y Zdero (Chaco) se refugian en obras de infraestructura y gestión de riesgos climáticos, mostrando que en provincias periféricas la supervivencia pasa por la agenda local. Ziliotto (La Pampa) aprovecha para recordar su pelea por el Atuel, aunque sin escalar el conflicto.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no es protagonista en los tuits, pero su sombra planea. La ausencia de menciones directas a Milei en la mayoría de los posteos sugiere que los gobernadores prefieren no confrontar ni adherir abiertamente. El saldo es de una 'paz armada': Nación no es atacada frontalmente, pero tampoco es aliada. El verdadero termómetro será el debate del Presupuesto.",
+    "temas_calientes": [
+        {
+            "tema": "Armado opositor y construcción de alternativa",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Negociación federal y agenda de soberanía",
+            "gobernadores_involucrados": [
+                "@gustavomelella",
+                "@RaulJalil_ok",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Políticas energéticas y mineras provinciales",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Gestión de riesgos climáticos y obras locales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@ZiliottoSergio",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Grandes eventos deportivos y posicionamiento provincial",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@Rolo_Figueroa",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@gustavomelella (RT de sí mismo)",
+        "texto": "Me reuní con el jefe de Gabinete @diegosantilli para plantear la agenda y las prioridades de Tierra del Fuego, Antártida e Islas del Atlántico Sur. Hablamos de soberanía, Base Naval Integrada, Polo Logístico Antártico, Puerto de Ushuaia, inversiones, empleo y de la situación financiera de nuestra Provincia. El diálogo institucional es fundamental. Dialogar no significa resignar posiciones: significa defender nuestros intereses y buscar soluciones para los fueguinos.",
+        "por_que_es_clave": "Melella es el único gobernador que muestra una reunión directa con el jefe de Gabinete en la jornada, combinando reclamos de soberanía con necesidades fiscales. Es un ejemplo de 'diplomacia fiscal' donde la lealtad se negocia a cambio de recursos.",
+        "pregunta_openarg": "¿Puede el Gobierno nacional sostener su promesa de equilibrio fiscal si debe atender los reclamos de provincias estratégicas como Tierra del Fuego sin generar un efecto contagio en el resto?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Armado político opositor",
+                "Plenario Federal del Movimiento DAF"
+            ],
+            "postura_politica": "Marca territorio como líder de la oposición, convocando a un plenario para construir un modelo alternativo. El silencio sobre la macroeconomía sugiere que prefiere la organización territorial antes que el debate fiscal directo.",
+            "frase_fuerte": "Mañana nos encontramos en Avellaneda en el Plenario Federal del @MOVIMIENTODAF para seguir construyendo entre todos y todas un modelo distinto para la Argentina 🇦🇷"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Gestión de seguridad",
+                "Deudores alimentarios",
+                "Apuestas online"
+            ],
+            "postura_politica": "Refuerza su perfil de gestión en seguridad y control social, un tema de baja fricción federal. No menciona a Nación, lo que sugiere una estrategia de autonomía en temas locales.",
+            "frase_fuerte": "Es muy simple: si no cumplís con una obligación tan básica como alimentar a tus hijos, tenés consecuencias."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Ley de Biocombustibles",
+                "RIGI y minería",
+                "Norte Grande"
+            ],
+            "postura_politica": "Se posiciona como gestor de acuerdos federales, apoyando leyes clave para la economía regional y mostrando cercanía con el oficialismo en temas de inversión minera. Es un 'dialoguista' que busca recursos sin confrontar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Prevención climática",
+                "Fenómeno El Niño"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Su posteo sobre El Niño es gestión pura, sin mención a Nación. Refleja la prioridad de su provincia: evitar emergencias antes que posicionarse políticamente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Parque Papa León XIV",
+                "Radios urbanos",
+                "Bandera provincial"
+            ],
+            "postura_politica": "Muestra una agenda de gestión intensa y simbólica, destacando la visita papal y obras viales. Evita cualquier roce con Nación, pero su silencio es una forma de marcar distancia calculada.",
+            "frase_fuerte": "Tener una ciudad con más espacios verdes y más lugares de encuentro para las familias... significa más calidad de vida para los cordobeses."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Alerta climática El Niño",
+                "Prevención hídrica"
+            ],
+            "postura_politica": "Se enfoca en la gestión de riesgo climático, pero su historial de conflicto por el Atuel asoma en el silencio. Hoy prefiere mostrarse como gestor antes que como litigante.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Reunión con Andrés Larroque",
+                "Agenda federal"
+            ],
+            "postura_politica": "Teje alianzas con el peronismo bonaerense, mostrando que sigue en la construcción de un frente opositor. Su posteo es de bajo perfil, pero la reunión con Larroque indica continuidad en el armado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Ley de Hidrocarburos",
+                "Regalías",
+                "Inversiones"
+            ],
+            "postura_politica": "Marca agenda propia en energía, enviando una ley clave a la Legislatura. Es un gesto de autonomía y de posicionamiento como provincia productiva, sin necesidad de confrontar con Nación.",
+            "frase_fuerte": "Enviamos a la Legislatura una nueva Ley de Hidrocarburos para actualizar una normativa que tiene 20 años y adaptarla a la nueva realidad de la industria."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Educación",
+                "Universidad Católica"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Su visita a la UCAMI es gestión pura, sin ningún guiño político. Es un refugio en la agenda de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Empleo",
+                "Copa Davis",
+                "Educación en salud"
+            ],
+            "postura_politica": "Muestra una provincia en movimiento, con datos de empleo y eventos internacionales. Evita cualquier mención a Nación, lo que sugiere que prefiere capitalizar sus logros sin compartir créditos.",
+            "frase_fuerte": "Neuquén sigue generando empleo y oportunidades mientras avanzamos en un modelo que pone el trabajo, la producción y el desarrollo en el centro."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Obra de agua",
+                "Infraestructura"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Su posteo sobre perforación de agua es gestión pura, sin mención a Nación ni a otros temas federales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Juegos Suramericanos",
+                "Gestión deportiva"
+            ],
+            "postura_politica": "Capitaliza el éxito de los Juegos Suramericanos como un hito de gestión. No menciona a Nación, pero el evento es una vitrina que fortalece su perfil.",
+            "frase_fuerte": "Es un antes y un después para nuestra provincia, pero sobre todo para todos los santafesinos que con mucho esfuerzo y compromiso demostramos que podíamos vivir de otra manera."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Reunión con Jefe de Gabinete",
+                "Soberanía",
+                "Base Naval",
+                "Situación financiera"
+            ],
+            "postura_politica": "Es el gobernador que más directamente negocia con Nación, combinando reclamos de soberanía con necesidades fiscales. Su posteo es una señal de que busca recursos a cambio de lealtad.",
+            "frase_fuerte": "Dialogar no significa resignar posiciones: significa defender nuestros intereses y buscar soluciones para los fueguinos."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en el período analizado",
+            "frase_fuerte": null
+        }
+    ]
+}
