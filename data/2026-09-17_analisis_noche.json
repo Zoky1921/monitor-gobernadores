@@ -1,0 +1,235 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de hoy estuvo marcada por la confrontación directa del gobernador (Buenos Aires) con el Gobierno nacional por la privatización nuclear, que genera fricciones sobre el modelo de desarrollo del país. En contraste, se observó una fuerte actividad regional con gobernadores como el de Córdoba (Córdoba) y Santa Fe (Santa Fe) destacando la cooperación interprovincial en grandes eventos, y el de Salta (Salta) articulando los intereses del Norte Grande. Varios gobernadores, entre ellos San Luis (San Luis) y Santa Cruz (Santa Cruz), enfatizaron la gestión local y el impulso a obras de infraestructura y políticas sociales, a menudo con una narrativa de contraste con administraciones pasadas o el gobierno central, en un contexto de defensa de recursos y autonomía provincial.",
+    "analisis_profundo": "La jornada refleja un panorama político federal con claros focos de tensión y agendas provinciales autónomas. El gobernador (Buenos Aires) Axel Kicillof elevó el tono de confrontación con el Gobierno nacional al rechazar enérgicamente la privatización del sector nuclear, calificándola como un riesgo a la soberanía y la inversión histórica en ciencia e industria. Esta postura no solo marca una diferencia ideológica profunda, sino que también sugiere una posible articulación opositora en defensa de activos estratégicos nacionales.\n\nEn el polo opuesto, el gobernador (Catamarca) Raúl Jalil mostró su alineamiento con el Gobierno nacional al retuitear al Ministro de Economía, destacando las inversiones mineras bajo el Régimen de Incentivo a las Grandes Inversiones (RIGI) y las 'Rondas de Negocios RIGI'. Esta dualidad entre rechazo y apoyo a las políticas nacionales evidencia las fracturas en el espectro federal.\n\nLa coordinación regional emergió como un tema relevante. El gobernador (Salta) Gustavo Sáenz se reunió con senadores del Norte Grande para impulsar una agenda legislativa común, mientras que el gobernador (Córdoba) Martín Llaryora y el gobernador (Santa Fe) Maximiliano Pullaro celebraron la cooperación interprovincial en los Juegos Suramericanos 2026, destacando el impacto económico y la capacidad de gestión local y seguridad. El gobernador (Tierra del Fuego) Gustavo Melella, por su parte, mantuvo un encuentro con el Jefe de Gabinete nacional para abordar prioridades de su provincia, incluyendo temas de soberanía y desarrollo de infraestructura antártica, evidenciando un diálogo institucional, pero con firme defensa de la identidad fueguina.\n\nAsimismo, diversas provincias como Neuquén (Neuquén), San Luis (San Luis), Chaco (Chaco) y Mendoza (Mendoza) se centraron en la gestión de obras de infraestructura (vial, hídrica, educativa), programas sociales y económicos. Destaca la aprobación de la Ley de Educación Superior en La Rioja (La Rioja) y el proyecto de ley de 'Desendeudamiento e Impulso al Consumo Familiar' en San Luis (San Luis). Santa Cruz (Santa Cruz) utilizó sus avances en obras como la Escuela Industrial N° 8 para criticar duramente a la administración kirchnerista, reforzando una narrativa de cambio de rumbo. La agenda provincial, aunque diversa, denota una preocupación constante por el desarrollo económico, la creación de empleo y la mejora de la calidad de vida de sus ciudadanos, a menudo presentándose como una respuesta activa frente a un contexto nacional desafiante o al vacío de políticas centrales.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación y defensa del modelo económico nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Articulación regional y federalismo fiscal",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@GustavoSaenzOK",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Grandes eventos deportivos y desarrollo provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura y desarrollo productivo local",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@carlossadirjuy",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Educación y políticas de bienestar social",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@claudiojpoggi",
+                "@gustavomelella"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (Buenos Aires)",
+        "texto": "Nos reunimos con científicos y trabajadores del sector nuclear para manifestar nuestro enérgico rechazo frente al proceso de privatización que lleva adelante el Gobierno nacional. La paralización del proyecto de Central Argentina de Elementos Modulares, el avance de la privatización de la Nucleoeléctrica Argentina S.A. y el ajuste en la Comisión Nacional de Energía Atómica ponen en riesgo una inversión histórica en ciencia, tecnología, industria y trabajo argentino. En este 2° Encuentro de Política Nuclear y Soberanía Energética volvimos a coincidir en un punto central: el desarrollo nuclear que nuestro país construyó durante décadas es estratégico para el futuro de la Argentina. Nuestro compromiso es defenderlo.",
+        "por_que_es_clave": "El gobernador (Buenos Aires) se posiciona firmemente en contra de una política clave del Gobierno nacional, la privatización del sector nuclear, vinculándola a la pérdida de soberanía, ciencia, tecnología e industria argentina. Su llamado a la defensa del desarrollo nuclear nacional resalta una profunda tensión federal sobre el modelo económico y de desarrollo del país.",
+        "pregunta_openarg": "¿Esta postura de defensa de la soberanía energética nuclear por parte de Buenos Aires (Buenos Aires) podría articular a un nuevo bloque de gobernadores opositores frente al Gobierno nacional en temas estratégicos?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Modelo económico",
+                "Privatizaciones",
+                "Soberanía energética",
+                "Ciencia y tecnología",
+                "Industria"
+            ],
+            "postura_politica": "Abiertamente confrontativo con el Gobierno nacional, rechazando la privatización del sector nuclear y el ajuste. Se posiciona como defensor de la inversión histórica y la soberanía argentina en áreas estratégicas.",
+            "frase_fuerte": "Nos reunimos con científicos y trabajadores del sector nuclear para manifestar nuestro enérgico rechazo frente al proceso de privatización que lleva adelante el Gobierno nacional."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Economía local",
+                "Alivio fiscal",
+                "Reducción de burocracia",
+                "Generación de empleo"
+            ],
+            "postura_politica": "Enfocado en la gestión económica de su distrito, promoviendo políticas de estímulo a la producción y la inversión a través de la simplificación y el alivio fiscal, en línea con el discurso pro-mercado.",
+            "frase_fuerte": "Comparto mi columna de opinión en @Ambitocom sobre la importancia de simplificar trámites, reducir burocracia y avanzar con medidas de alivio fiscal para acompañar a quienes producen, invierten y generan empleo en la Ciudad de Buenos Aires."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Inversiones mineras (RIGI)",
+                "Desarrollo regional",
+                "Relaciones internacionales",
+                "Economías regionales",
+                "Federalismo"
+            ],
+            "postura_politica": "Destaca la atracción de inversiones mineras y el apoyo al régimen RIGI del Gobierno nacional, buscando potenciar las economías regionales a través de la cooperación internacional y la articulación regional con el Norte Grande.",
+            "frase_fuerte": "El objetivo de estas Rondas es el de conectar los proyectos RIGI de minería, industria e infraestructura con lo proveedores nacionales, a efectos de que tengan conocimiento del cronograma de inversiones y generación de nuevas oportunidades de negocios para sus empresas proveedoras de bienes o servicios."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Gestión local",
+                "Eventos culturales y deportivos",
+                "Infraestructura"
+            ],
+            "postura_politica": "Centrado en la gestión local, mostrando la presencia del Estado en eventos comunitarios y pequeñas obras de infraestructura para mejorar la calidad de vida en distintos puntos de la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo local",
+                "Acceso a servicios básicos ('Plan Galina')"
+            ],
+            "postura_politica": "Pone el foco en el desarrollo de infraestructura en pequeñas localidades para garantizar acceso a servicios esenciales como el gas, enmarcado en un plan provincial que busca igualar oportunidades en todo el territorio.",
+            "frase_fuerte": "anunciamos algo fundamental: la construcción de una planta de GLP para que todos los vecinos tengan acceso al gas por primera vez en su historia."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Integración regional",
+                "Seguridad",
+                "Infraestructura",
+                "Desarrollo urbano y rural",
+                "Políticas sociales"
+            ],
+            "postura_politica": "Muestra un fuerte perfil de gestión, destacando obras de infraestructura vial y sanitaria, programas de seguridad rural y de asistencia a familias vulnerables. Proyecta a Córdoba (Córdoba) como anfitriona de grandes eventos y celebra la cooperación interprovincial.",
+            "frase_fuerte": "La organización está espectacular y creo que es muy bueno para Santa Fe contar con esta posibilidad de realizar un evento masivo que muestra claramente cómo crece."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Prevención de adicciones",
+                "Educación superior",
+                "Desarrollo regional",
+                "Federalismo"
+            ],
+            "postura_politica": "Aboga por la salud y la educación como derechos fundamentales, impulsando una ley de educación superior y proyectos federales para la prevención de adicciones. Enfatiza la construcción de una Argentina más justa y solidaria.",
+            "frase_fuerte": "creemos firmemente que la salud no se negocia ni se posterga, es un derecho fundamental que debemos garantizar desde las políticas públicas."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Educación inicial",
+                "Infraestructura educativa",
+                "Reconocimiento al talento provincial"
+            ],
+            "postura_politica": "Prioriza la inversión en educación, particularmente en el nivel inicial, con la inauguración de nueva infraestructura. Resalta logros de mendocinos en el ámbito internacional como muestra del potencial local.",
+            "frase_fuerte": "Invertir en educación es saber interpretar lo que la sociedad necesita. Esa es una responsabilidad que asumimos todos los días y que vamos a seguir sosteniendo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Inversión privada",
+                "Empleo",
+                "Derechos humanos y memoria"
+            ],
+            "postura_politica": "Celebra las inversiones privadas que generan empleo y el crecimiento de la provincia. También enfatiza el compromiso con la memoria y los derechos humanos a través de la participación juvenil.",
+            "frase_fuerte": "En este contexto, cada nuevo puesto de trabajo vale muchísimo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo energético (Vaca Muerta, renovables)",
+                "Infraestructura vial",
+                "Vivienda",
+                "Cooperación internacional"
+            ],
+            "postura_politica": "Destaca la planificación para la transformación provincial mediante el 'Plan Vial' y la inversión en energía. Subraya la cooperación con organismos internacionales y la búsqueda de soluciones habitacionales.",
+            "frase_fuerte": "Queremos que Neuquén siga siendo una provincia que genera energía para el país, apuntando desde ya también a las energías renovables."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Regionalismo (Norte Grande)",
+                "Agenda legislativa nacional",
+                "Diálogo y consenso"
+            ],
+            "postura_politica": "Se enfoca en la articulación de los intereses del Norte Grande a nivel legislativo nacional, buscando consensos para avanzar en las prioridades de la región y defender sus necesidades frente al gobierno central.",
+            "frase_fuerte": "El diálogo y la búsqueda de consensos son fundamentales para avanzar en soluciones que respondan a las necesidades de nuestra gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Infraestructura (agua, rutas, universidad)",
+                "Desarrollo económico (desocupación, inversión, consumo)",
+                "Educación (becas, clubes)",
+                "Políticas sociales"
+            ],
+            "postura_politica": "Exhibe una intensa agenda de gestión enfocada en obras públicas, mejora de indicadores económicos como el empleo, impulso a la educación superior y programas sociales. Promueve la articulación público-privada para el desarrollo.",
+            "frase_fuerte": "El Indice de DESOCUPACIÓN en SAN LUIS en el segundo semestre del año 2026 ascendió al 2,6 %. Esto significa ser la tercera Provincia con el índice de desocupación más bajo del País."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura educativa",
+                "Gobernanza",
+                "Críticas a la gestión anterior"
+            ],
+            "postura_politica": "Resalta la concreción de obras esperadas por años, utilizando una fuerte narrativa de contraste con la gestión kirchnerista, a la que acusa de promesas incumplidas. Busca generar confianza y proyectar un nuevo rumbo para la provincia.",
+            "frase_fuerte": "LA PROMETIERON 14 AÑOS, TRES LICITACIONES Y EL KIRCHNERISMO NUNCA CONCRETÓ LA INDUSTRIAL N° 8: HOY NOSOTROS LA ESTAMOS CONSTRUYENDO."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el crimen organizado",
+                "Grandes eventos deportivos",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Celebra el éxito de los Juegos Suramericanos como muestra de la capacidad de su provincia y de la efectividad de su política de seguridad. Destaca la cooperación entre gobernadores y el legado de infraestructura.",
+            "frase_fuerte": "Es un antes y un después para nuestra provincia, pero sobre todo para todos los santafesinos que con mucho esfuerzo y compromiso demostramos que podíamos vivir de otra manera."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Desarrollo agropecuario",
+                "Ganadería",
+                "Ferias productivas",
+                "Cooperación interinstitucional"
+            ],
+            "postura_politica": "Subraya el potencial productivo de la provincia, especialmente en ganadería, y la importancia de eventos como ExpoBra para el crecimiento económico. Promueve la colaboración con organismos nacionales para fortalecer el sector.",
+            "frase_fuerte": "Esta edición de la EXPOBRA NOA 2026 es una oportunidad estratégica para mostrar el potencial productivo de Santiago del Estero."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Federalismo",
+                "Soberanía (Malvinas, Antártida)",
+                "Infraestructura estratégica (base naval, puerto)",
+                "Situación económica provincial"
+            ],
+            "postura_politica": "Defiende los intereses estratégicos de su provincia en relación con la soberanía sobre Malvinas y la Antártida, buscando el diálogo con el Gobierno nacional para asegurar inversiones en infraestructura clave y apoyo financiero.",
+            "frase_fuerte": "Sobre Malvinas, nuestra posición es clara: son parte de Tierra del Fuego y de nuestra identidad. La defensa de la soberanía argentina en el Atlántico Sur es irrenunciable."
+        }
+    ]
+}

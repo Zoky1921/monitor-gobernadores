@@ -1,0 +1,295 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por la disputa fiscal entre Nación y provincias, con el Norte Grande negociando el Presupuesto 2027 y compensaciones tarifarias, mientras La Pampa y Mendoza escalan su conflicto por las regalías del Atuel. Kicillof emerge como el principal antagonista al denunciar la privatización nuclear, mientras Macri consolida su alineamiento con la Casa Rosada desde Washington.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día es la pulseada por los recursos entre la Nación y las provincias. Por un lado, el Norte Grande (Jalil, Sáenz, Jaldo) se sienta con el jefe de Gabinete Santilli para reclamar un Presupuesto 2027 con distribución equitativa y una compensación tarifaria por zonas cálidas, un gesto que combina negociación con presión. Por otro, el conflicto interprovincial entre La Pampa y Mendoza por el río Atuel alcanza un nuevo pico: Ziliotto obtiene una cautelar contra el decreto de Milei que otorga el 100% de las regalías a Mendoza, mientras Cornejo defiende la medida como un acto de justicia histórica. Kicillof, por su parte, sube la apuesta al denunciar la privatización del sector nuclear, un tema de alto voltaje simbólico y estratégico.\n\nActo 2 — Los Alineamientos: Se delinean tres bloques claros. El primero, los aliados incondicionales de Milei: Macri (CABA) desde Washington, Figueroa (Neuquén) con su plan vial y energético, y Cornejo (Mendoza) defendiendo las regalías. El segundo, los opositores frontales: Kicillof (Buenos Aires) y Ziliotto (La Pampa), que judicializan y movilizan contra las políticas nacionales. El tercero, los gobernadores del Norte Grande (Jalil, Sáenz, Sadir) que negocian con la Nación sin romper, buscando obtener recursos sin quemar puentes. Llaryora (Córdoba) se ubica en una ambigüedad calculada: critica el ajuste en discapacidad y zona fría, pero evita una confrontación directa.\n\nActo 3 — La Micro-política: Las provincias periféricas optan por el refugio en la agenda local. Poggi (San Luis) muestra indicadores de desocupación y entrega de viviendas; Vidal (Santa Cruz) inaugura obras y critica al kirchnerismo; Passalacqua (Misiones) acompaña inversiones privadas. Estos gestos de gestión de cabotaje buscan demostrar eficiencia en un contexto de ajuste nacional, pero también revelan una estrategia de supervivencia: evitar el debate federal para no quedar expuestos.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada deja un saldo mixto. Por un lado, consolida el apoyo de gobernadores clave como Macri y Figueroa, y avanza en la agenda de desregulación energética y minera. Por otro, enfrenta focos de resistencia judicial (Atuel) y política (nuclear), y la persistente demanda del Norte Grande por un federalismo más equitativo. La pregunta que queda flotando es si Milei podrá sostener esta coalición heterogénea sin que las tensiones fiscales terminen erosionando su capital político.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto por regalías del río Atuel entre La Pampa y Mendoza",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Negociación del Presupuesto 2027 y compensaciones tarifarias del Norte Grande",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@GustavoSaenzOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Privatización del sector nuclear y soberanía energética",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Alineamiento internacional y apoyo a Milei desde CABA",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Gestión provincial como refugio ante el ajuste nacional",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Nos reunimos con científicos y trabajadores del sector nuclear para manifestar nuestro enérgico rechazo frente al proceso de privatización que lleva adelante el Gobierno nacional. La paralización del proyecto de Central Argentina de Elementos Modulares, el avance de la privatización de la Nucleoeléctrica Argentina S.A. y el ajuste en la Comisión Nacional de Energía Atómica ponen en riesgo una inversión histórica en ciencia, tecnología, industria y trabajo argentino.",
+        "por_que_es_clave": "Kicillof elige un tema de alto impacto simbólico y estratégico (la energía nuclear) para marcar distancia con Nación, posicionándose como defensor de la soberanía tecnológica y el desarrollo industrial, en contraposición al relato de ajuste y privatización de Milei.",
+        "pregunta_openarg": "¿La privatización del sector nuclear es una decisión técnica para ganar eficiencia o un riesgo para la soberanía energética y el desarrollo científico del país?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Privatización nuclear",
+                "Educación",
+                "Salud",
+                "Vivienda",
+                "Noche de los Lápices",
+                "Juventudes",
+                "Violencia de género",
+                "Economías regionales",
+                "Cooperación con Misiones"
+            ],
+            "postura_politica": "Oposición frontal a Milei. Denuncia el ajuste y la privatización, mientras muestra gestión provincial como alternativa. Teje alianzas con otros gobernadores peronistas (Passalacqua) y construye su propio movimiento (DAF).",
+            "frase_fuerte": "La paralización del proyecto de Central Argentina de Elementos Modulares, el avance de la privatización de la Nucleoeléctrica Argentina S.A. y el ajuste en la Comisión Nacional de Energía Atómica ponen en riesgo una inversión histórica en ciencia, tecnología, industria y trabajo argentino."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Relaciones con EE.UU.",
+                "Alivio fiscal",
+                "Gestión urbana",
+                "Apoyo a Milei"
+            ],
+            "postura_politica": "Alineamiento total con la Casa Rosada. Desde Washington, se muestra como un gestor moderno que busca inversiones y respalda el rumbo de Milei, consolidando su perfil de 'embajador' del cambio.",
+            "frase_fuerte": "Desde el PRO apoyamos con convicción este nuevo rumbo, y fortalecer nuestra relación con los Estados Unidos es una parte fundamental de ese camino."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "RIGI",
+                "Inversiones mineras",
+                "Relaciones internacionales",
+                "Presupuesto 2027",
+                "Norte Grande",
+                "Educación"
+            ],
+            "postura_politica": "Dialoguista con Nación. Apoya el RIGI y busca inversiones, pero negocia colectivamente con el Norte Grande para obtener compensaciones. Mantiene un perfil bajo en la confrontación.",
+            "frase_fuerte": "El diálogo entre la Nación y las provincias es fundamental para construir acuerdos que permitan avanzar con una agenda verdaderamente federal."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Eventos culturales",
+                "Obras públicas",
+                "Registro Civil",
+                "Deporte",
+                "Industria",
+                "Educación",
+                "Vivienda"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en gestión de cabotaje, evitando posicionamientos nacionales. Refugio en la obra pública como estrategia de supervivencia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Gas para pueblos",
+                "Equipamiento forestal",
+                "Aniversario de Rawson",
+                "Turismo",
+                "Vivienda",
+                "Energía renovable",
+                "Plan Galina"
+            ],
+            "postura_politica": "Gestión provincial activa con énfasis en obras de infraestructura (Plan Galina). Muestra autonomía frente a Nación, pero sin confrontación directa. Perfil técnico y local.",
+            "frase_fuerte": "Después de años de demoras, incumplimientos y postergaciones, estamos transformando el esfuerzo de los contribuyentes en obras concretas."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Juegos Suramericanos",
+                "Obras viales",
+                "Seguridad rural",
+                "Programa Hola Familia",
+                "Educación (PISA)",
+                "Noche de los Lápices",
+                "Discapacidad",
+                "Visita del Papa",
+                "Selección Argentina"
+            ],
+            "postura_politica": "Gestor eficiente con críticas puntuales a Nación (discapacidad, zona fría). Se posiciona como un líder provincial que resuelve, pero sin romper con la Casa Rosada. Ambivalencia calculada.",
+            "frase_fuerte": "Gobernar es resolver, y los cordobeses no esperamos el futuro, lo construimos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Conflicto por regalías del Atuel",
+                "Alerta climática El Niño",
+                "Vivienda",
+                "Educación",
+                "Industria",
+                "Salud mental",
+                "Cooperación con Buenos Aires"
+            ],
+            "postura_politica": "Oposición judicial y política a Milei y Mendoza. Defiende los derechos pampeanos sobre el Atuel con medidas cautelares y discurso de agravio. Se alinea con Kicillof en la cooperación interprovincial.",
+            "frase_fuerte": "No solo Mendoza nos robó un río. Ahora junto al Gobierno de Milei, que deroga el Decreto 1560/73, nos quitan sus regalías. ¡No nos quedaremos quietos!"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Prevención de adicciones",
+                "Educación superior",
+                "Obras viales",
+                "Vivienda",
+                "Deporte",
+                "Cultura",
+                "Norte Grande",
+                "Energía renovable",
+                "Salud"
+            ],
+            "postura_politica": "Peronismo de gestión. Defiende lo público y la educación, pero evita confrontación directa con Nación. Se enfoca en obras locales y articulación regional.",
+            "frase_fuerte": "Frente a un Gobierno nacional que desfinancia y abandona las rutas nacionales, en La Rioja nos hacemos cargo de las rutas de la provincia."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Regalías del Atuel",
+                "Educación inicial",
+                "Oftalmología",
+                "Congreso de Vialidad",
+                "Malla antigranizo",
+                "Sanidad agropecuaria",
+                "Seguridad",
+                "Inversiones vitivinícolas"
+            ],
+            "postura_politica": "Defensa firme de los intereses mendocinos. Celebra el decreto de Milei que le otorga el 100% de las regalías y critica a La Pampa por judicializar. Se muestra como un gestor que invierte y planifica.",
+            "frase_fuerte": "Mendoza recupera lo que legítimamente le pertenece, el 100% de las regalías hidroeléctricas de Los Nihuiles."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Inversión privada",
+                "Noche de los Lápices",
+                "Créditos de carbono",
+                "Educación",
+                "Deporte",
+                "Cooperación con Buenos Aires",
+                "Cultura"
+            ],
+            "postura_politica": "Peronismo moderado. Muestra gestión local y cooperación con Kicillof, pero sin confrontación directa con Nación. Se enfoca en temas ambientales y culturales.",
+            "frase_fuerte": "Las provincias somos la Nación y, trabajando juntas, podemos seguir generando oportunidades para nuestra gente."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Plan vial",
+                "Vivienda",
+                "Copa Davis",
+                "Energía",
+                "Zona fría",
+                "Justicia",
+                "Gas natural",
+                "Narcomenudeo",
+                "Banco Mundial"
+            ],
+            "postura_politica": "Gestor técnico y eficiente. Alineado con Nación en temas energéticos y de infraestructura. Negocia el traspaso de rutas y defiende la zona fría. Perfil de modernización.",
+            "frase_fuerte": "En cuatro años vamos a hacer lo que se hizo en toda la historia de la provincia en materia de rutas."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Norte Grande",
+                "Emprendedurismo",
+                "Fe religiosa",
+                "Obras viales",
+                "Industria",
+                "Minería",
+                "Seguridad",
+                "Aeropuerto",
+                "Expo Rural"
+            ],
+            "postura_politica": "Dialoguista con Nación. Defiende los intereses del Norte Grande y promueve la minería como motor de desarrollo. Evita confrontación, busca consensos.",
+            "frase_fuerte": "Salta dejó de ser una provincia con minerales para convertirse definitivamente en una provincia minera."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Obras viales",
+                "Educación universitaria",
+                "Vivienda",
+                "Desocupación",
+                "Becas",
+                "Desendeudamiento",
+                "Deporte",
+                "Cultos"
+            ],
+            "postura_politica": "Agenda local con énfasis en resultados cuantificables (desocupación 2,6%, viviendas por día). Evita posicionamientos nacionales. Refugio en la gestión.",
+            "frase_fuerte": "El Indice de DESOCUPACIÓN en SAN LUIS en el segundo semestre del año 2026 ascendió al 2,6 %. Esto significa ser la tercera Provincia con el índice de desocupación más bajo del País."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Obras escolares",
+                "Vivienda",
+                "Educación (zapatillas)",
+                "Petróleo",
+                "Minería",
+                "Crítica al kirchnerismo"
+            ],
+            "postura_politica": "Oposición al kirchnerismo provincial. Muestra gestión como antítesis del pasado, con énfasis en obras y recuperación de la actividad petrolera. Sin confrontación con Milei.",
+            "frase_fuerte": "El kirchnerismo no solo robó y destruyó la provincia, sino que jugó con la ilusión de los santacruceños."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Juegos Suramericanos",
+                "Lucha contra mafias",
+                "Obras viales",
+                "Vivienda",
+                "Educación",
+                "Seguridad",
+                "Infraestructura deportiva"
+            ],
+            "postura_politica": "Anfitrión de los Juegos Suramericanos, mostrando capacidad de gestión y seguridad. Evita confrontación con Nación, se enfoca en el evento y obras locales.",
+            "frase_fuerte": "Es un antes y un después para nuestra provincia, pero sobre todo para todos los santafesinos que con mucho esfuerzo y compromiso demostramos que podíamos vivir de otra manera."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "ExpoBra (ganadería)",
+                "Noche de los Lápices",
+                "Ciencia",
+                "Feria del Libro",
+                "Justicia",
+                "Educación",
+                "Malvinas"
+            ],
+            "postura_politica": "Gestión local con perfil productivo y cultural. Evita posicionamientos nacionales. Se enfoca en eventos y obras que muestren dinamismo provincial.",
+            "frase_fuerte": "Seguir acompañando a nuestros productores, poniendo todos nuestros esfuerzos para que tengan las mejores posibilidades de producir."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Reunión con jefe de Gabinete",
+                "Acuerdo salarial docente",
+                "Base Naval Integrada",
+                "Malvinas",
+                "Subsidio al gas",
+                "Industria",
+                "Usina termoeléctrica"
+            ],
+            "postura_politica": "Defensa de los intereses fueguinos con énfasis en soberanía, empleo e industria. Negocia con Nación pero sin subordinación. Perfil de reivindicación territorial.",
+            "frase_fuerte": "Las Malvinas fueron, son y serán argentinas. Y fueron, son y serán fueguinas."
+        }
+    ]
+}
