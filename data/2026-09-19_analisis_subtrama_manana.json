@@ -1,0 +1,117 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada muestra un repliegue de los gobernadores hacia agendas locales, con excepción de Gustavo Melella (Tierra del Fuego), quien sostuvo una reunión clave con el jefe de Gabinete para defender la soberanía y reclamar recursos. El resto optó por efemérides y gestión provincial, evitando roces con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día no es fiscal ni simbólica, sino geopolítica. Mientras la mayoría de los gobernadores se refugian en la agenda de cabotaje, Gustavo Melella (Tierra del Fuego) planta una bandera de soberanía en la mesa de la Casa Rosada. Su reunión con Diego Santilli no es un mero trámite: es un recordatorio de que el reclamo por Malvinas y la Base Naval Integrada sigue siendo moneda de cambio en la negociación presupuestaria. El silencio de los otros 23 gobernadores sobre este tema revela un cálculo de supervivencia: no exponerse en una disputa que no les reporta rédito inmediato.\n\nActo 2 — Los Alineamientos: Melella se posiciona como el único jugador en la cancha federal, aliado con los ministerios de Defensa y Relaciones Exteriores, pero sin respaldo explícito de sus pares. Los gobernadores de provincias centrales (Kicillof, Macri, Llaryora) optaron por el mutismo o la gestión local, lo que sugiere una tregua táctica con Nación. En cambio, los mandatarios periféricos (Zdero, Torres, Vidal) se dedicaron a inaugurar obras y celebrar efemérides, un clásico refugio cuando no se quiere confrontar ni alinear.\n\nActo 3 — La Micro-política: En provincias como Chaco, Chubut o Santa Cruz, la gestión de lo inmediato (viviendas, maquinaria, cultura) es la moneda de cambio para sostener legitimidad local mientras la macroeconomía aprieta. Alfredo Cornejo (Mendoza) aprovecha un reconocimiento turístico internacional para vender imagen de éxito, sin mencionar la disputa por regalías con La Pampa. Claudio Vidal (Santa Cruz) apoya a una institución social, un gesto que busca capitalizar el descontento con el kirchnerismo local. Son jugadas de supervivencia, no de poder.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el saldo es neutro. No hubo ofensiva coordinada de gobernadores, pero tampoco adhesiones entusiastas. La reunión con Melella es una concesión menor que no resuelve el conflicto de fondo por los recursos fueguinos. El verdadero desafío sigue siendo la negociación del Presupuesto 2027, donde el Norte Grande y la Región Centro ya marcaron posición. Por ahora, el silencio de los gobernadores es más una estrategia de espera que de apoyo.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamo federal de Tierra del Fuego por soberanía y presupuesto",
+            "gobernadores_involucrados": [
+                "@gustavomelella"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@gustavomelella",
+        "texto": "Me reuní con el jefe de Gabinete @diegosantilli para plantear la agenda y las prioridades de Tierra del Fuego, Antártida e Islas del Atlántico Sur. Hablamos de soberanía, Base Naval Integrada, Polo Logístico Antártico, Puerto de Ushuaia, inversiones, empleo y de la situación financiera de nuestra Provincia. El diálogo institucional es fundamental. Dialogar no significa resignar posiciones: significa defender nuestros intereses y buscar soluciones para los fueguinos. También planteamos la necesidad de mayor acompañamiento para sostener políticas públicas y recuperar empleo. Sobre Malvinas, nuestra posición es clara: son parte de Tierra del Fuego y de nuestra identidad. La defensa de la soberanía argentina en el Atlántico Sur es irrenunciable.",
+        "por_que_es_clave": "Melella utiliza la reunión con Santilli para poner sobre la mesa un tema estratégico que otros gobernadores evitan: la soberanía en el Atlántico Sur. Con ello busca presionar por recursos y visibilidad, diferenciándose de la pasividad de sus pares.",
+        "pregunta_openarg": "¿Puede Tierra del Fuego convertir su reclamo soberano en una moneda de cambio efectiva para obtener más fondos federales, o es solo un gesto testimonial?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Catamarca On-Chain",
+                "blockchain"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Promueve innovación tecnológica como herramienta de gestión, evitando posicionarse sobre temas nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Día de la Bandera del Chaco",
+                "maquinaria vial"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se refugia en efemérides y gestión de obras, sin confrontar con Nación.",
+            "frase_fuerte": "Cada 19 de septiembre nos convoca el símbolo que resume nuestra identidad, historia y orgullo."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "orgullo chubutense",
+                "Teatro Colón"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Celebra logros culturales y deportivos, sin mencionar la macroeconomía.",
+            "frase_fuerte": "ORGULLO CHUBUTENSE: DEL INTA AL TEATRO COLÓN"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "condolencias Eugenio Zanetti",
+                "parque solar"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Combina gestos culturales con anuncios de inversión energética, pero evita referencias a la disputa con Nación por biocombustibles o coparticipación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Día Nacional del Chamamé"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Efeméride cultural, sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "alerta climática El Niño"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Anuncia medidas preventivas, sin mencionar la disputa por regalías del Atuel con Mendoza y Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "hoteles reconocidos por Guía Michelin"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Destaca logros turísticos, evitando el conflicto abierto con La Pampa por regalías.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "escrituras",
+                "EPET 26"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Enfatiza gestión habitacional y educativa, sin aludir a la negociación por Vaca Muerta o regalías.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Ángeles Especiales"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Apoya a una institución social, buscando capitalizar la gestión local frente al legado kirchnerista.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "recorrida sur provincial",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Inaugura obras y entrega viviendas, sin referencias a los Juegos Suramericanos o la seguridad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "reunión con Santilli",
+                "soberanía",
+                "Base Naval Integrada"
+            ],
+            "postura_politica": "Defensa de intereses provinciales con diálogo institucional. Usa la reunión para reclamar recursos y visibilidad en temas de soberanía, diferenciándose del resto.",
+            "frase_fuerte": "Dialogar no significa resignar posiciones: significa defender nuestros intereses y buscar soluciones para los fueguinos."
+        }
+    ]
+}
