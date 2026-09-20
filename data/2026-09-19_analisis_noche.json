@@ -1,0 +1,164 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La jornada política federal se centró en la gestión provincial y el impulso de eventos y obras locales. Gobernadores como Axel Kicillof (Buenos Aires) consolidaron espacios políticos federales, mientras Martín Llaryora (Córdoba) y Maxi Pullaro (Santa Fe) destacaron logros en infraestructura y el impacto positivo de los Juegos Suramericanos. La Pampa (Sergio Ziliotto) avanzó en inclusión digital con participación público-privada, y Chaco (Leandro Zdero) inauguró obras educativas y viales. Mendoza (Alfredo Cornejo) celebró el reconocimiento turístico internacional, y Neuquén (Rolo Figueroa) enfatizó la eficiencia estatal. En general, se observa un enfoque en la concreción de proyectos y el fortalecimiento de la identidad regional, sin tensiones directas con el gobierno nacional, predominando una agenda de autoafirmación y desarrollo provincial.",
+    "analisis_profundo": "La agenda de los gobernadores hoy y a última hora de ayer (18/09/2026, post 20:00 hs GMT-3) se caracterizó por un marcado énfasis en la gestión local y el posicionamiento de las provincias como actores dinámicos, capaces de generar desarrollo y oportunidades. No se detectaron confrontaciones directas o críticas explícitas al gobierno nacional, lo que sugiere un clima político de relativa moderación a nivel federal, donde cada jurisdicción busca destacar sus propias realizaciones.\n\nAxel Kicillof (Buenos Aires) concentró su actividad en la consolidación de su espacio político, el MOVIMIENTODAF, con llamados a la participación federal para 'construir otro futuro', un mensaje con claras implicancias de proyección nacional desde una base provincial. Leandro Zdero (Chaco) y Claudio Vidal (Santa Cruz) se enfocaron en la visibilización de obras de infraestructura y apoyo social. Vidal (Santa Cruz) hizo un llamado a la responsabilidad social empresaria, sugiriendo la necesidad de apoyo privado para instituciones sociales en su provincia. Sergio Ziliotto (La Pampa) presentó un avance en inclusión digital 4G mediante un modelo de complementariedad público-privada, destacando la eficiencia estatal en la provisión de servicios esenciales.\n\nEn el ámbito de la promoción provincial y eventos, Martín Llaryora (Córdoba) hizo una fuerte apuesta por el turismo religioso con el Camino de Brochero y por la mejora de espacios públicos, además de un reconocimiento a la inversión en energía solar. Maxi Pullaro (Santa Fe) continuó capitalizando el éxito de los Juegos Suramericanos 2026, recibiendo incluso a figuras nacionales como Lionel Scaloni, lo que potencia la imagen de Santa Fe (Santa Fe) como sede de grandes eventos y resalta la capacidad de gestión provincial. Alfredo Cornejo (Mendoza) también celebró el reconocimiento internacional a la oferta turística y gastronómica de su provincia, consolidando su proyección global. Rolo Figueroa (Neuquén) puso el foco en la Copa Davis y en la regularización dominial de viviendas, apuntando a la eficiencia y seguridad jurídica. El gobernador de Corrientes (Gustavo Valdés), celebró el Día del Chamamé, afianzando la identidad cultural. Ignacio Torres (Chubut) también se sumó a la promoción de la identidad local. Claudio Poggi (San Luis) puso el foco en políticas sociales para adultos mayores.\n\nLa tendencia general es de gobernadores enfocados en sus propias gestiones, buscando legitimidad a través de la concreción de obras, la promoción de sus recursos y eventos, y la reafirmación de identidades provinciales. Este enfoque autónomo podría interpretarse como una estrategia para fortalecer el poder regional frente a la dinámica nacional, o simplemente como una dedicación a las responsabilidades inherentes a su cargo. El clima es de autoafirmación y progreso interno, más que de confrontación abierta.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de Obra Pública e Infraestructura",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@ZiliottoSergio",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Promoción y Desarrollo Provincial (Turismo, Eventos, Identidad)",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@gustavovaldesok",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Cohesión Social y Programas de Apoyo",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Federalismo y Gestión Autónoma",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Muchas gracias a todos y todas por venir a este encuentro federal del @MOVIMIENTODAF. Por venir de todas las provincias de la Argentina a participar, a debatir, a imaginar colectivamente otro futuro y sobre todo, a empezar a construirlo. Se respira algo nuevo, algo que está creciendo y se está organizando. ¡Las nuevas canciones se componen colectivamente y de abajo para arriba!",
+        "por_que_es_clave": "Este tweet de Axel Kicillof (Buenos Aires) es clave porque, bajo el pretexto de un encuentro de su movimiento, proyecta una construcción política 'federal' y 'colectiva' para un 'futuro distinto', lo que lo posiciona como un actor con ambiciones nacionales y de articulación provincial, más allá de la gestión bonaerense.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Movimiento político federal",
+                "Construcción de futuro",
+                "Organización política"
+            ],
+            "postura_politica": "Muestra una postura de liderazgo y articulación a nivel federal, impulsando su espacio político con una visión de futuro y de construcción 'desde abajo hacia arriba', sugiriendo una alternativa política al modelo actual.",
+            "frase_fuerte": "Se respira algo nuevo, algo que está creciendo y se está organizando. ¡Las nuevas canciones se componen colectivamente y de abajo para arriba!"
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública educativa",
+                "Infraestructura vial",
+                "Identidad provincial"
+            ],
+            "postura_politica": "Se enfoca en la gestión concreta a través de obras de infraestructura que benefician la educación y el desarrollo rural, y en el fortalecimiento de la identidad provincial, presentándose como un gobernador de acción y cercanía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Identidad provincial",
+                "Cultura"
+            ],
+            "postura_politica": "Refuerza el orgullo provincial y la promoción de la cultura local, utilizando eventos y símbolos para generar cohesión y reconocimiento.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura pública",
+                "Turismo religioso",
+                "Desarrollo energético",
+                "Gestión federal",
+                "Cultura"
+            ],
+            "postura_politica": "Presenta una gestión activa en obras y desarrollo territorial, destacando la importancia del federalismo en la cercanía con los municipios y el impulso a inversiones estratégicas en energía. Promueve Córdoba (Córdoba) como un destino de fe y eventos.",
+            "frase_fuerte": "FEDERALISMO ES ESTAR CERCA"
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Cultura",
+                "Identidad provincial"
+            ],
+            "postura_politica": "Celebra y defiende las tradiciones culturales de su provincia, enmarcando el chamamé como patrimonio de la humanidad, lo que refuerza la identidad y el valor cultural de Corrientes (Corrientes).",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Turismo internacional",
+                "Promoción provincial"
+            ],
+            "postura_politica": "Destaca el posicionamiento de Mendoza (Mendoza) como un referente turístico global, capitalizando el reconocimiento de guías internacionales para impulsar el sector y atraer inversiones.",
+            "frase_fuerte": "Mendoza vuelve a destacarse entre los grandes destinos turísticos del mundo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Eventos deportivos",
+                "Seguridad jurídica (vivienda)",
+                "Infraestructura educativa"
+            ],
+            "postura_politica": "Muestra una gestión enfocada en grandes eventos deportivos para proyectar la provincia, y en resolver problemas estructurales como la regularización de viviendas y la inversión en educación, buscando eficiencia estatal y oportunidades para los ciudadanos.",
+            "frase_fuerte": "Ordenar el Estado también es resolver lo que durante años quedó pendiente y reconocer el esfuerzo de quienes cumplieron."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Juegos Suramericanos",
+                "Promoción deportiva",
+                "Obras públicas",
+                "Desarrollo rural"
+            ],
+            "postura_politica": "Capitaliza el éxito de los Juegos Suramericanos para proyectar una imagen de una provincia capaz de organizar grandes eventos y generar cohesión, mientras mantiene un fuerte enfoque en obras de infraestructura y viviendas en el interior.",
+            "frase_fuerte": "Esto habla también de lo que somos los santafesinos: el apoyo y acompañamiento a nuestros jóvenes deportistas. Y que ellos vengan a vivirlo de cerca demuestra su enorme grandeza y humildad."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Adultos mayores"
+            ],
+            "postura_politica": "Demuestra un compromiso con las políticas sociales destinadas a los adultos mayores, presentando un programa específico como una 'Política de Estado' que fomenta la integración y el bienestar de los jubilados.",
+            "frase_fuerte": "El Programa Provincial de 'Grandes Amigos' es una verdadera Política de Estado para con nuestros mayores !!"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Inclusión digital",
+                "Asociación público-privada",
+                "Igualdad de oportunidades"
+            ],
+            "postura_politica": "Destaca la capacidad del Estado provincial para liderar la expansión de servicios esenciales, como la conectividad 4G, a través de la colaboración con el sector privado, con el objetivo de garantizar la igualdad de oportunidades y la inclusión social.",
+            "frase_fuerte": "La Pampa, un Estado que se complementa con el sector privado para garantizar igualdad de oportunidades."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obras postergadas",
+                "Apoyo a instituciones sociales",
+                "Responsabilidad social empresaria"
+            ],
+            "postura_politica": "Se presenta como el gobernador que resuelve problemas históricos y 'sueños postergados', buscando no solo la acción estatal sino también la implicación de las empresas en el desarrollo social de la provincia.",
+            "frase_fuerte": "HAY INSTITUCIONES QUE NO PUEDEN QUEDARSE SOLAS"
+        }
+    ]
+}
