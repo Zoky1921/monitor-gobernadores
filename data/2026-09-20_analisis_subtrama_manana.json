@@ -1,0 +1,123 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por la ofensiva del gobernador Llaryora contra el ajuste en discapacidad, que pone en riesgo el Presupuesto 2027. Kicillof consolidó su movimiento DAF, mientras Neuquén y San Luis exhibieron su éxito económico como contrapunto. Las provincias periféricas se refugiaron en la gestión de crisis climática.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La declaración de Martín Llaryora de que no acompañará el Presupuesto Nacional si afecta los fondos de discapacidad es la jugada más agresiva del día. No es un reclamo abstracto: es una amenaza explícita de bloquear la ley de leyes desde una provincia central como Córdoba. El mensaje es quirúrgico: la Casa Rosada no puede dar por descontado el apoyo cordobés si insiste en el ajuste sobre derechos sensibles. Llaryora utiliza la discapacidad como bandera inobjetable, pero el cálculo es fiscal: busca forzar una reasignación de partidas que compense el desfinanciamiento que sufre la provincia.\n\nActo 2 — Los Alineamientos: Axel Kicillof, en paralelo, profundiza su construcción política con el Movimiento DAF. Su tuit 'Cuenten conmigo' es una adhesión explícita a una estructura que compite con el relato de Nación. No menciona a Milei, pero su movimiento es la respuesta organizativa al ajuste. En la otra vereda, los gobernadores de Neuquén (Rolo Figueroa) y San Luis (Claudio Poggi) muestran indicadores económicos positivos: ventas en supermercados en alza. Poggi, además, subraya que San Luis logró esos números sin RIGI ni Vaca Muerta, una pulla indirecta a los beneficios que reciben otras provincias. Es un posicionamiento para pedir mayor autonomía fiscal.\n\nActo 3 — La Micro-política: Leandro Zdero (Chaco) y Hugo Passalacqua (Misiones) se refugiaron en la gestión de emergencias. Zdero detalla el plan contra El Niño; Passalacqua asiste a damnificados por tormentas. Ambos evitan cualquier roce con Nación. Claudio Vidal (Santa Cruz) recupera el tren de Puerto Deseado como símbolo de gestión propia, pero su relato anti-kirchnerista es más un ajuste de cuentas local que un desafío a la Casa Rosada.\n\nActo 4 — Saldo Presidencial: Milei enfrenta un escenario donde gobernadores de peso (Córdoba, Buenos Aires) ya no negocian en silencio. Llaryora pone un precio al apoyo presupuestario; Kicillof arma su propia red. La Nación necesita ofrecer concesiones concretas o enfrentar una legislatura ingobernable. La proliferación de agendas locales exitosas (Neuquén, San Luis) erosiona el relato de crisis única y fortalece la demanda federal.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto por el Presupuesto 2027 y derechos de discapacidad",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Construcción del Movimiento DAF como alternativa política",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Competencia fiscal entre provincias (ventas en supermercados)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Gestión de crisis climática y prevención",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Reivindicación de autonomía en infraestructura",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "PARA NOSOTROS, EN CÓRDOBA, LOS FONDOS Y LAS POLÍTICAS DE DISCAPACIDAD NO SON NEGOCIABLES. NO VAMOS A ACOMPAÑAR NINGÚN RECORTE DEL PRESUPUESTO NACIONAL QUE AFECTE ESTOS DERECHOS.",
+        "por_que_es_clave": "Es una amenaza directa y pública al oficialismo nacional, fijando una línea roja en el Presupuesto 2027. Llaryora utiliza un tema sensible para condicionar su apoyo, posicionándose como el gobernador que pone límites al ajuste desde el centro del país.",
+        "pregunta_openarg": "¿Hasta dónde está dispuesto a llegar el gobernador Llaryora para defender los fondos de discapacidad frente al ajuste nacional?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Movimiento DAF",
+                "construcción política"
+            ],
+            "postura_politica": "Adhiere al Movimiento DAF como vehículo de oposición territorial. El 'Cuenten conmigo' es una señal de lealtad al espacio que busca articular un frente contra el ajuste, sin mencionar directamente a Nación.",
+            "frase_fuerte": "Cuenten conmigo."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Prevención de El Niño",
+                "gestión de emergencias"
+            ],
+            "postura_politica": "Se enfoca en la gestión local y la coordinación intermunicipal. No hay posicionamiento federal; es un repliegue en la agenda de cabotaje para evitar conflictos con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Presupuesto Nacional",
+                "discapacidad",
+                "reclamo fiscal"
+            ],
+            "postura_politica": "Fija una línea roja en el Presupuesto 2027. No es solo defensa de derechos: es una amenaza calculada para forzar la reasignación de fondos. Se posiciona como el gobernador que confronta a Nación desde una provincia central.",
+            "frase_fuerte": "NO VAMOS A ACOMPAÑAR NINGÚN RECORTE DEL PRESUPUESTO NACIONAL QUE AFECTE ESTOS DERECHOS."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Saludo religioso",
+                "asistencia por tormentas"
+            ],
+            "postura_politica": "Agenda local con impacto bajo. El tuit sobre Yom Kipur es protocolar; el otro sobre asistencia es gestión de crisis. No hay señales de disputa federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Indicadores económicos",
+                "educación",
+                "infraestructura",
+                "Copa Davis"
+            ],
+            "postura_politica": "Muestra éxito económico provincial (ventas, empleo) para contrastar con la crisis nacional. La Copa Davis y las obras refuerzan una imagen de gestión eficiente. Es un posicionamiento blando pero efectivo: no critica a Nación, pero la deja en evidencia.",
+            "frase_fuerte": "Neuquén sigue generando empleo y oportunidades mientras avanzamos en un modelo que pone el trabajo, la producción y el desarrollo en el centro."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Ventas en supermercados",
+                "comparación fiscal"
+            ],
+            "postura_politica": "Retuitea y destaca que San Luis ocupa el tercer lugar en crecimiento de ventas sin RIGI ni Vaca Muerta. Es una crítica implícita a los beneficios especiales que reciben otras provincias, reivindicando su propia gestión.",
+            "frase_fuerte": "Ahora ….sin ningún RIGI cordillerano , ni Vaca Muerta, ….👏👏muy bien SAN LUIS ocupando el tercer lugar"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Recuperación de tren",
+                "gestión propia",
+                "transporte"
+            ],
+            "postura_politica": "Utiliza la reactivación del tren como símbolo de su gestión frente al abandono kirchnerista. Es un relato de autonomía provincial y eficiencia, sin atacar directamente al gobierno nacional actual.",
+            "frase_fuerte": "Durante años nos dijeron que recuperar este tren era imposible [...] Nosotros decidimos avanzar."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Día del Jubilado"
+            ],
+            "postura_politica": "Agenda protocolar sin impacto federal. Retuitea un saludo a los jubilados. No hay posicionamiento político relevante.",
+            "frase_fuerte": null
+        }
+    ]
+}
