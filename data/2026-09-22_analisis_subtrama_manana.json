@@ -1,0 +1,152 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada combina la ofensiva opositora de Kicillof con el armado de un frente nacional, mientras Jaldo negocia con Nación el Presupuesto 2027 y Figueroa exhibe récord de inversión en Neuquén. Llaryora y Poggi muestran gestión local, y Macri endurece su discurso de seguridad.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día es la disputa por el relato fiscal y político entre Nación y las provincias. Kicillof, desde Buenos Aires, redobla la apuesta opositora con el Plenario Federal del Movimiento DAF, donde declara que 'no existe una solución provincial para una tragedia nacional', marcando cancha para una alternativa nacional. En paralelo, Jaldo encabeza una reunión con Santilli junto a gobernadores del Norte Grande para reclamar equidad en el Presupuesto 2027, compensación tarifaria y continuidad de obras. Es la misma pulseada de siempre: mientras Kicillof busca capitalizar el descontento, Jaldo negocia con la Rosada sin romper.\n\nActo 2 — Los Alineamientos: Los socios estratégicos del día son Figueroa (Neuquén) y Llaryora (Córdoba), que muestran resultados concretos: Figueroa anuncia más de 1.000 obras en marcha y un récord histórico de inversión pública, mientras Llaryora lanza la segunda etapa de Córdoba Impulsa para reactivar el consumo. Ambos refuerzan la narrativa de que la gestión provincial puede prosperar incluso en contexto de ajuste nacional. En la vereda opuesta, Macri (CABA) se posiciona como el halcón de la seguridad, pidiendo juicio político a jueces 'garantistas', un guiño directo a la base dura del PRO. Poggi (San Luis) se suma al club de la eficiencia, destacando que su Legislatura es la más austera del país.\n\nActo 3 — La Micro-política: Los gobernadores periféricos se refugian en la agenda de cabotaje. Passalacqua (Misiones) impulsa un régimen simplificado para pequeñas industrias y entrega maquinaria vial, sin mencionar a Nación. Suárez (Santiago del Estero) inaugura un centro judicial en Frías, reforzando la presencia del Estado provincial. Quintela (La Rioja) entrega premios Angelelli, manteniendo viva la memoria kirchnerista. Son gestos de supervivencia política en provincias donde la macroeconomía no es el eje.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el saldo es mixto. La negociación con Jaldo y el Norte Grande avanza, pero Kicillof consolida un espacio opositor que puede articular descontento. Figueroa y Llaryora demuestran que el modelo de gestión provincial autónoma funciona, lo que quita presión sobre Nación. Macri, por su lado, refuerza la agenda de seguridad que Milei también pregona. El riesgo mayor es que la grieta fiscal se profundice si el Presupuesto 2027 no satisface a las provincias.",
+    "temas_calientes": [
+        {
+            "tema": "Negociación fiscal y Presupuesto 2027 entre Nación y provincias del Norte Grande",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo",
+                "@RaulJalil_ok",
+                "@JPValdesok",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Récord de inversión en obra pública provincial (Neuquén y Córdoba)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Ofensiva opositora de Kicillof y construcción de alternativa nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Endurecimiento del discurso de seguridad y justicia (CABA)",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Gestión provincial con foco en eficiencia y austeridad (San Luis, Misiones, Santiago del Estero)",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@passalacquaok",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Nos encontramos con compañeras y compañeros de todo el país en el Plenario Federal del @MOVIMIENTODAF para debatir, organizarnos y pensar la Argentina que queremos.\n\nNo existe una solución provincial para una tragedia nacional. La solución es una alternativa nacional 🇦🇷",
+        "por_que_es_clave": "Kicillof abandona la gestión provincial para posicionarse como articulador de una alternativa nacional, desafiando directamente al gobierno de Milei. La frase 'no existe solución provincial para una tragedia nacional' es una declaración de guerra política que busca unificar a la oposición.",
+        "pregunta_openarg": "¿Puede Kicillof capitalizar el descontento fiscal para construir una alternativa nacional viable sin el respaldo de los gobernadores peronistas que negocian con Nación?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Plenario Federal DAF",
+                "Alternativa nacional",
+                "Conferencia en ILAS Columbia"
+            ],
+            "postura_politica": "Kicillof se despega de la gestión cotidiana para asumir un rol de líder opositor nacional. El Plenario DAF es una movida para unificar al peronismo no alineado con la Rosada. Su retweet sobre la conferencia en Columbia refuerza su perfil internacional.",
+            "frase_fuerte": "No existe una solución provincial para una tragedia nacional. La solución es una alternativa nacional."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Juicio político a jueces",
+                "Seguridad",
+                "Delincuencia"
+            ],
+            "postura_politica": "Macri se monta en el discurso de mano dura, pidiendo juicio político a jueces que liberan delincuentes. Es un guiño a la base del PRO y una presión sobre el poder judicial, en línea con la agenda de Milei.",
+            "frase_fuerte": "Estos jueces garantistas defensores de delincuentes tienen que quedar en evidencia. Esta sentencia está manchada de sangre."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Gas natural",
+                "Córdoba Impulsa",
+                "Desarrollo territorial"
+            ],
+            "postura_politica": "Llaryora muestra gestión concreta: gas para comunidades y programa de consumo. Sin mencionar a Nación, refuerza la autonomía cordobesa y su modelo de 'igualdad territorial'.",
+            "frase_fuerte": "Sin agua, energía, gas y conectividad no hay desarrollo posible."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Premios Angelelli",
+                "Memoria",
+                "Derechos humanos"
+            ],
+            "postura_politica": "Quintela se mantiene en el plano simbólico, homenajeando a los mártires de la dictadura. Es un gesto de identidad kirchnerista, sin impacto fiscal directo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Régimen simplificado industrial",
+                "Maquinaria vial",
+                "Crédito educativo"
+            ],
+            "postura_politica": "Passalacqua se enfoca en gestión local: simplificación de trámites, entrega de motoniveladoras y créditos para escuelas. Evita cualquier roce con Nación, priorizando la eficiencia provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Récord de obra pública",
+                "Ciencia aplicada",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Figueroa exhibe resultados: más de 1.000 obras en marcha y un modelo de cofinanciamiento con operadoras. Es una demostración de que Neuquén crece incluso en contexto nacional adverso.",
+            "frase_fuerte": "No podemos naturalizar lo que está pasando en Neuquén. Tenemos que festejar lo logrado, pero también seguir trabajando."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Escuela técnica",
+                "Legislatura austera",
+                "Turismo",
+                "Alarmas ciudadanas"
+            ],
+            "postura_politica": "Poggi combina gestión educativa, promoción turística y seguridad con alarmas vecinales. Destaca que su Legislatura es la más austera del país, un mensaje de eficiencia frente al gasto político.",
+            "frase_fuerte": "La Pcia de SAN LUIS con la Legislatura más AUSTERA de todas las Pcias Argentinas."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Juegos Suramericanos",
+                "Legado deportivo",
+                "Cultura"
+            ],
+            "postura_politica": "Pullaro capitaliza el éxito de los Juegos Suramericanos como vitrina de gestión. Sin mencionar a Nación, muestra que Santa Fe puede organizar eventos internacionales y generar orgullo provincial.",
+            "frase_fuerte": "Es un antes y un después para nuestra provincia, pero sobre todo para todos los santafesinos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Centro Judicial en Frías",
+                "Justicia cercana",
+                "Infraestructura"
+            ],
+            "postura_politica": "Suárez inaugura un centro judicial que centraliza servicios, mejorando el acceso a la justicia. Es una obra de gestión provincial sin connotación federal.",
+            "frase_fuerte": "El verdadero valor de este Centro Judicial no se va a medir por su infraestructura, sino por cada persona que encuentre una respuesta a su reclamo de justicia."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Reunión con Santilli",
+                "Presupuesto 2027",
+                "Obras en Simoca"
+            ],
+            "postura_politica": "Jaldo negocia con Nación: pide equidad en el Presupuesto, compensación tarifaria y obras. Al mismo tiempo, inaugura obras en Simoca, mostrando gestión territorial. Es el peronista que dialoga sin romper.",
+            "frase_fuerte": "Tucumán sostiene el diálogo institucional y acompaña las medidas que benefician al país, siempre defendiendo los intereses de nuestra gente."
+        }
+    ]
+}
