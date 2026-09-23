@@ -1,0 +1,310 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por la ofensiva fiscal de Kicillof desde Nueva York, la disputa por regalías entre Mendoza y La Pampa, y el alineamiento de Macri con el oficialismo nacional. Varios gobernadores optaron por refugiarse en la gestión local, en un silencio coordinado que sugiere cálculo electoral.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal domina la escena. Axel Kicillof (Buenos Aires) aprovecha su viaje a Nueva York para posicionarse como el articulador de una alternativa nacional al ajuste de Milei, reuniéndose con fondos de inversión y enmarcando su gestión en un discurso de justicia social y desarrollo productivo. Al mismo tiempo, el diferendo entre Alfredo Cornejo (Mendoza) y Sergio Ziliotto (La Pampa) por las regalías de Los Nihuiles escala a los estrados judiciales, con ambos gobernadores defendiendo posiciones irreconciliables: Mendoza reclama el 100% de los recursos, La Pampa insiste en su derecho histórico. Esa pulseada expone la fragilidad del federalismo fiscal y la ausencia de una mediación nacional.\n\nActo 2 — Los Alineamientos: Jorge Macri (CABA) refuerza su sintonía con la Casa Rosada: se reúne con altos funcionarios de la administración Milei y subraya el apoyo del PRO al rumbo económico, mientras despliega una agenda de seguridad dura que contrasta con el garantismo que le atribuye a Kicillof. En la vereda opuesta, Osvaldo Jaldo (Tucumán) y Raúl Jalil (Catamarca) mantienen un perfil de diálogo institucional con el jefe de Gabinete Santilli, reclamando un presupuesto federal y compensaciones energéticas, pero sin romper con Nación. La Región Centro (Santa Fe, Córdoba, Entre Ríos) aparece como un bloque pragmático, con Pullaro volcado a los Juegos Suramericanos y Llaryora impulsando medidas de alivio comercial, sin confrontar abiertamente.\n\nActo 3 — La Micro-política: Los gobernadores periféricos se repliegan en la agenda de cabotaje. Claudio Poggi (San Luis) presume de austeridad legislativa, Rolando Figueroa (Neuquén) celebra mil obras en mil días, y Maximiliano Pullaro (Santa Fe) se muestra como anfitrión exitoso de los Juegos. Son gestos de supervivencia: evitan mojarse sobre la macroeconomía, mientras refuerzan su gestión territorial. El silencio de varios (Formosa, Chaco, Jujuy, Río Negro, Tierra del Fuego) es en sí mismo un mensaje: la omisión revela que no quieren desgastarse en un debate que no dominan o que prefieren esperar.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día es agridulce. Por un lado, Macri y los gobernadores dialoguistas (Tucumán, Catamarca, Corrientes) evitan la confrontación y mantienen canales abiertos. Por el otro, Kicillof emerge como la figura opositora más articulada, con una narrativa federal y progresista que busca capitalizar el descontento. La disputa Mendoza-La Pampa es una bomba de tiempo que Nación no logra desactivar. El equilibrio es inestable: el oficialismo retiene el control de la agenda mediática, pero las provincias clave ya están posicionándose para el próximo round electoral.",
+    "temas_calientes": [
+        {
+            "tema": "Disputa por regalías hidroeléctricas entre Mendoza y La Pampa",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Alternativa progresista de Kicillof y reuniones con inversores en Nueva York",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Alineamiento de Jorge Macri con el gobierno nacional y agenda de seguridad",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Negociación del Presupuesto 2027 y reclamos federales del Norte Grande",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo",
+                "@RaulJalil_ok",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Gestión de obras e inversiones provinciales como refugio político",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Nos reunimos en Nueva York con fondos de inversión internacionales que tienen títulos de nuestra provincia y participaron de la reestructuración de nuestra deuda bonaerense. Un encuentro importante para intercambiar sobre la situación económica de nuestro país.\n\nSeguimos trabajando para defender los intereses de nuestra provincia con la convicción de que necesitamos una Argentina que vuelva a crecer y generar oportunidades.",
+        "por_que_es_clave": "Kicillof proyecta una imagen de estadista global y articula un relato de alternativa al ajuste, en un momento en que la deuda provincial y la macroeconomía son el eje del debate. Es una jugada doble: se muestra como gestor confiable ante el capital internacional, mientras erosiona la narrativa oficial de que 'no hay plata'.",
+        "pregunta_openarg": "¿Está Kicillof construyendo una candidatura presidencial sobre la base de la deuda bonaerense, o es solo un gobernador defendiendo su caja?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Deuda provincial",
+                "Relaciones internacionales",
+                "Alternativa política",
+                "Ciencia nuclear",
+                "Educación",
+                "Salud"
+            ],
+            "postura_politica": "Se posiciona como el líder opositor más visible, combinando gestión provincial con una narrativa de construcción de una alternativa nacional al gobierno de Milei. Su viaje a Nueva York y las reuniones con inversores buscan mostrar solvencia fiscal, mientras el Movimiento DAF opera como herramienta de organización federal.",
+            "frase_fuerte": "El camino para que los argentinos vivan mejor lo tenemos que construir desde cada provincia, desde cada pueblo y convocando a todos los sectores que están sufriendo."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Ley y orden",
+                "Apoyo a Milei",
+                "Gestión urbana",
+                "Relaciones con EEUU"
+            ],
+            "postura_politica": "Se alinea explícitamente con el gobierno nacional, reuniéndose con funcionarios de la Casa Blanca y subrayando su respaldo al rumbo económico. Su discurso de seguridad dura contrasta con el de Kicillof, a quien acusa de garantismo. Busca diferenciarse como el gestor eficiente y ordenado, en sintonía con el oficialismo.",
+            "frase_fuerte": "Estos jueces garantistas defensores de delincuentes tienen que quedar en evidencia. Esta sentencia está manchada de sangre."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Sin actividad reciente"
+            ],
+            "postura_politica": "Sin posteos recientes en el período analizado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Sin actividad reciente"
+            ],
+            "postura_politica": "Sin posteos recientes en el período analizado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Gas",
+                "Turismo",
+                "Aniversarios locales"
+            ],
+            "postura_politica": "Se refugia en la agenda local, destacando obras de infraestructura básica como la llegada del gas a localidades postergadas. No menciona a Nación ni se posiciona sobre la macroeconomía, lo que sugiere una estrategia de supervivencia política: mostrar gestión mientras espera tiempos mejores.",
+            "frase_fuerte": "Porque gobernar también es integrar a esos pueblos que hacen Patria hace tanto tiempo."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Comercio",
+                "Educación",
+                "Discapacidad",
+                "Energía",
+                "Infraestructura",
+                "Turismo religioso"
+            ],
+            "postura_politica": "Despliega una intensa agenda de gestión provincial, con énfasis en el desarrollo comercial y la defensa de los derechos de discapacidad frente a posibles recortes nacionales. Se muestra como un gestor eficiente, pero evita confrontar directamente con Nación, optando por un perfil técnico y productivo.",
+            "frase_fuerte": "Para nosotros, en Córdoba, los fondos y las políticas de discapacidad no son negociables. No vamos a acompañar ningún recorte del presupuesto nacional que afecte estos derechos."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Sin actividad reciente"
+            ],
+            "postura_politica": "Sin posteos recientes en el período analizado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Gestión con Nación",
+                "Hidrovía",
+                "Industria",
+                "Jubilaciones de privilegio",
+                "Turismo"
+            ],
+            "postura_politica": "Mantiene un perfil de diálogo institucional con el jefe de Gabinete, reclamando obras y defendiendo los intereses provinciales. Se muestra como un gestor pragmático que busca resultados concretos, sin romper con el gobierno nacional pero marcando agenda propia.",
+            "frase_fuerte": "Durante años, Entre Ríos tuvo sus puertos sobre una de las vías navegables más importantes del mundo, pero nunca formó parte de su concesión. Nos propusimos cambiarlo y lo conseguimos."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Sin actividad reciente"
+            ],
+            "postura_politica": "Sin posteos recientes en el período analizado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Sin actividad reciente"
+            ],
+            "postura_politica": "Sin posteos recientes en el período analizado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Regalías del Atuel",
+                "Educación",
+                "Energía",
+                "Vivienda",
+                "Prevención climática"
+            ],
+            "postura_politica": "Se planta firme en la defensa de los recursos provinciales, llevando la disputa por las regalías del Atuel a la justicia y enfrentando al gobierno nacional. Su discurso combina gestión local con una retórica de resistencia frente al ajuste, buscando capitalizar el conflicto con Mendoza y Nación.",
+            "frase_fuerte": "No solo Mendoza nos robó un río. Ahora junto al Gobierno de Milei, que deroga el Decreto 1560/73, nos quitan sus regalías. ¡No nos quedaremos quietos!"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Memoria",
+                "Educación",
+                "Salud mental",
+                "Vivienda",
+                "Obra pública"
+            ],
+            "postura_politica": "Combina una agenda de gestión local con un fuerte contenido simbólico (memoria, justicia social) y reuniones de unidad peronista. Se posiciona como un referente del peronismo federal, pero sin confrontar directamente con Nación, privilegiando la construcción de un frente opositor.",
+            "frase_fuerte": "Frente a un Gobierno nacional que desfinancia y abandona las rutas nacionales, en La Rioja nos hacemos cargo de las rutas de la provincia."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Regalías hidroeléctricas",
+                "Energía",
+                "Vivienda",
+                "Turismo",
+                "Educación",
+                "Seguridad"
+            ],
+            "postura_politica": "Defiende con firmeza el 100% de las regalías de Los Nihuiles, enfrentando a La Pampa y alineándose con la decisión del gobierno nacional. Su perfil es de gestión técnica y legalista, buscando mostrar a Mendoza como una provincia ordenada que atrae inversiones.",
+            "frase_fuerte": "Mendoza recupera lo que legítimamente le pertenece, el 100% de las regalías hidroeléctricas de Los Nihuiles."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Educación",
+                "Bibliotecas",
+                "Industria",
+                "Emergencia climática",
+                "Cultura"
+            ],
+            "postura_politica": "Despliega una agenda de gestión local con énfasis en educación y apoyo a pymes. No se posiciona sobre la macroeconomía ni confronta con Nación, lo que sugiere una estrategia de bajo perfil y cuidado de la gestión cotidiana.",
+            "frase_fuerte": "Los libros nos construyen por dentro. Las bibliotecas son mucho más que lugares donde se guardan libros."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Vaca Muerta",
+                "Deportes",
+                "Becas",
+                "Producción"
+            ],
+            "postura_politica": "Celebra los 1000 días de gestión con un despliegue de obras e inversiones. Su discurso se centra en el 'Modelo Neuquino' y la transformación provincial, evitando críticas a Nación y mostrando una provincia pujante que avanza con recursos propios.",
+            "frase_fuerte": "No podemos naturalizar lo que estamos haciendo. Tenemos que estar a la altura de lo que la sociedad demanda."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Sin actividad reciente"
+            ],
+            "postura_politica": "Sin posteos recientes en el período analizado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Deporte",
+                "Minería",
+                "Seguridad",
+                "Industria",
+                "Energía",
+                "Infraestructura"
+            ],
+            "postura_politica": "Se posiciona como un gestor que atrae inversiones mineras con reglas claras, pero exige contraprestaciones para la provincia. Su discurso combina desarrollo productivo con defensa de los intereses locales, manteniendo un diálogo fluido con Nación sin subordinarse.",
+            "frase_fuerte": "Salta dejó de ser una provincia con minerales para convertirse definitivamente en una provincia minera."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Sin actividad reciente"
+            ],
+            "postura_politica": "Sin posteos recientes en el período analizado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Seguridad",
+                "Infraestructura",
+                "Austeridad",
+                "Jubilados"
+            ],
+            "postura_politica": "Se muestra como un gestor eficiente y austero, destacando logros en educación y seguridad. Su discurso evita la confrontación nacional y se centra en la gestión local, buscando diferenciarse por la eficiencia y el orden fiscal.",
+            "frase_fuerte": "El camino es la Educación !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Petróleo",
+                "Educación",
+                "Vivienda",
+                "Obra pública",
+                "Empleo"
+            ],
+            "postura_politica": "Apuesta a la reactivación petrolera y a la gestión de obras postergadas, con un discurso que contrasta su gestión con el kirchnerismo. No se posiciona sobre la macroeconomía nacional, sino que se enfoca en la recuperación de la provincia.",
+            "frase_fuerte": "Donde el kirchnerismo dejó promesas, nosotros estamos haciendo historia."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Juegos Suramericanos",
+                "Seguridad",
+                "Obra pública",
+                "Educación",
+                "Cultura"
+            ],
+            "postura_politica": "Se muestra como el anfitrión exitoso de los Juegos Suramericanos, aprovechando el evento para proyectar una imagen de gestión y orden. Su discurso sobre seguridad es firme, pero evita confrontar con Nación, centrado en la agenda deportiva y de infraestructura.",
+            "frase_fuerte": "La provincia Invencible de Santa Fe hoy está de pie!"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Justicia",
+                "Ganadería",
+                "Cultura",
+                "Educación",
+                "Feria del Libro"
+            ],
+            "postura_politica": "Despliega una agenda de gestión local con énfasis en justicia y producción. Su perfil es institucional y dialoguista, sin confrontar con Nación, buscando mostrar una provincia que avanza con obras y eventos culturales.",
+            "frase_fuerte": "El acceso a la justicia es un derecho fundamental que garantiza la posibilidad de defenderse ante los tribunales y obtener una respuesta justa y rápida."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Agua",
+                "Política",
+                "Justicia",
+                "Educación",
+                "Presupuesto nacional",
+                "Unidad peronista"
+            ],
+            "postura_politica": "Se posiciona como un gobernador dialoguista que negocia con Nación los recursos para su provincia, mientras construye unidad peronista de cara a las elecciones. Su perfil es de gestión y acumulación política, evitando rupturas pero marcando agenda propia.",
+            "frase_fuerte": "Tucumán sostiene el diálogo institucional y acompaña las medidas que benefician al país, siempre defendiendo los intereses de nuestra gente."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Sin actividad reciente"
+            ],
+            "postura_politica": "Sin posteos recientes en el período analizado.",
+            "frase_fuerte": null
+        }
+    ]
+}
