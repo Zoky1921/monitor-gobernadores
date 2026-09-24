@@ -1,0 +1,305 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por la escalada en la disputa Mendoza-La Pampa por regalías del Atuel, con Cornejo y Ziliotto cruzándose en redes. Saenz y Jalil presionan al Senado por subsidios a zonas cálidas, mientras Kicillof consolida su armado nacional desde Nueva York. Jorge Macri busca capitalizar la baja de impuestos en CABA. Pullaro capitaliza los Juegos Suramericanos como vidriera de gestión.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La pulseada por las regalías de Los Nihuiles domina la escena. Cornejo (Mendoza) y Ziliotto (La Pampa) intercambian misiles retóricos, cada uno apelando a fallos judiciales y acuerdos históricos. Cornejo acusa a La Pampa de judicializar y no invertir; Ziliotto denuncia un 'robo' y promete no quedarse quieto. Es una disputa que trasciende lo fiscal: es una batalla por el relato federal y la capacidad de las provincias de defender sus recursos ante Nación.\n\nActo 2 — Los Alineamientos: Saenz (Salta) y Jalil (Catamarca) encabezan el reclamo del Norte Grande por subsidios a zonas cálidas, buscando equiparar el trato con las zonas frías. La jugada es doble: presionar al Senado y marcar territorio frente a un gobierno nacional que perciben como centralista. Kicillof, desde Nueva York, teje alianzas internacionales y consolida el Movimiento DAF como plataforma opositora federal, desmarcándose de la gestión nacional y posicionándose como alternativa.\n\nActo 3 — La Micro-política: Gobernadores de provincias periféricas como Zdero (Chaco), Insfrán (Formosa) y Quintela (La Rioja) se refugian en la agenda local: obras menores, efemérides y gestión de servicios. Es un repliegue estratégico para evitar posicionarse en temas nacionales que puedan desgastarlos. Claudio Poggi (San Luis) presume de ser la legislatura más austera, un guiño al discurso de ajuste pero sin confrontar directamente con Nación.\n\nActo 4 — Saldo Presidencial: La Casa Rosada observa una jornada donde las provincias centrales marcan la agenda. La disputa Mendoza-La Pampa expone la fragilidad de los acuerdos fiscales. El Norte Grande unificado presiona por recursos. Kicillof construye poder por afuera. Jorge Macri ofrece una alternativa de gestión exitosa en CABA. Para Milei, el saldo es mixto: gana con la baja de impuestos en CABA pero pierde si la grieta fiscal se profundiza y las provincias se alinean en su contra.",
+    "temas_calientes": [
+        {
+            "tema": "Disputa por regalías del Río Atuel entre Mendoza y La Pampa",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Presión del Norte Grande por subsidios a zonas cálidas",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Baja de impuestos en CABA como modelo de gestión",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Kicillof consolida armado opositor federal desde Nueva York",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Juegos Suramericanos como vidriera de gestión provincial",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@GustavoSaenzOK",
+        "texto": "Un reclamo HISTÓRICO del NOA y el NEA hoy pueden hacerlo realidad los Senadores Nacionales. Logramos una resolución para que Nación reconozca a las zonas cálidas y establezca un subsidio para las familias que realmente lo necesitan. Hoy existe un subsidio para las zonas frías, sin importar los ingresos. Lo que buscamos con esta resolución es justicia y equidad para todos. Los subsidios deben ser SOLO para el que los necesita. Los Senadores Nacionales del Norte Grande tienen hoy la posibilidad de acompañar este reclamo histórico de nuestras provincias y defender las necesidades de su gente. Quienes voten en contra o pretendan dejar sin quorum la sesión de hoy tendrán que explicar en sus provincias por qué priorizaron la política y no las necesidades de su pueblo. Y si la ley finalmente se aprueba, quienes hayan votado en contra deberán asumir el costo político en cada uno de sus pueblos por haberle dado la espalda a las familias que realmente lo necesitan.",
+        "por_que_es_clave": "Saenz no solo reclama equidad fiscal, sino que pone en la picota a los senadores que no acompañen, transformando una demanda técnica en una amenaza política directa. Es un movimiento para unificar al Norte Grande y medir fuerzas con el oficialismo nacional.",
+        "pregunta_openarg": "¿El reclamo de subsidios a zonas cálidas es una demanda de justicia federal o una estrategia del Norte Grande para aumentar su poder de fuego en la negociación con Nación?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Agenda internacional",
+                "Construcción política opositora",
+                "Desarrollo soberano",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Kicillof se muestra como estadista global y armador político. Desde Nueva York, teje alianzas, critica la política exterior de Milei y consolida el Movimiento DAF como herramienta federal. Su mensaje es claro: él es la alternativa nacional, no solo un gobernador.",
+            "frase_fuerte": "No existe una solución provincial para una tragedia nacional. La solución es una alternativa nacional."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Baja de impuestos",
+                "Presupuesto 2027",
+                "Gestión PRO"
+            ],
+            "postura_politica": "Macri busca capitalizar la baja de patentes como prueba de gestión eficiente, contrastando con el ajuste nacional. Es un mensaje a la clase media porteña y un guiño a los sectores productivos, posicionando a CABA como isla de orden fiscal.",
+            "frase_fuerte": "La cuenta es simple: cada peso que gasta el Estado sale del esfuerzo de alguien."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Subsidios zonas cálidas",
+                "Minería",
+                "Inversiones",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Jalil se suma al reclamo de Saenz por zonas cálidas, mostrando unidad del Norte Grande. Paralelamente, promociona la minería y las inversiones (RIGI), buscando equilibrar la presión fiscal con el desarrollo productivo.",
+            "frase_fuerte": "Los Senadores Nacionales del Norte Grande tienen hoy la posibilidad de acompañar este reclamo histórico."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Obras",
+                "Prevención climática"
+            ],
+            "postura_politica": "Zdero se mantiene en agenda de cabotaje: obras menores, prevención de El Niño y efemérides. Evita cualquier posicionamiento nacional, lo que sugiere un repliegue táctico o falta de peso político para incidir en la discusión federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Inversiones",
+                "Gas",
+                "Turismo",
+                "Gestión local"
+            ],
+            "postura_politica": "Torres apuesta a mostrar gestión con anuncios de inversiones y obras de infraestructura (gas, autovía). Busca posicionar a Chubut como provincia atractiva para inversiones, en sintonía con el discurso de RIGI pero sin confrontar con Nación.",
+            "frase_fuerte": "Porque cuando damos seguridad jurídica, bajamos impuestos y generamos condiciones para que producir sea rentable, las inversiones llegan."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación",
+                "Seguridad",
+                "Gestión local",
+                "Discapacidad"
+            ],
+            "postura_politica": "Llaryora se enfoca en gestión provincial: educación, seguridad, discapacidad. Su postura es de autonomía y eficiencia, marcando perfil propio sin enfrentarse directamente a Nación. La defensa de la discapacidad es un guiño a sectores vulnerables y un contrapunto al ajuste.",
+            "frase_fuerte": "Para nosotros, en Córdoba, los fondos y las políticas de discapacidad no son negociables."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Cultura",
+                "Norte Grande"
+            ],
+            "postura_politica": "Valdés se limita a efemérides y promoción cultural, sin agenda federal relevante. Su participación en el Parlamento del Norte Grande es protocolar. Parece evitar posicionamientos en temas conflictivos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Hidrovía",
+                "Industria",
+                "Relación con Nación"
+            ],
+            "postura_politica": "Frigerio muestra gestión en obras y alivio fiscal, y destaca la inclusión de Entre Ríos en la Hidrovía como logro. Su reunión con Santilli indica búsqueda de diálogo con Nación, pero sin subordinación.",
+            "frase_fuerte": "Entre Ríos nació para ser protagonista de la historia argentina."
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [
+                "Efemérides",
+                "Reuniones sindicales",
+                "Gestión local"
+            ],
+            "postura_politica": "Insfrán se mantiene en agenda local y efemérides peronistas. Su reunión con Daer y sindicalistas es un gesto de alineamiento con el peronismo ortodoxo, pero sin impacto federal directo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Minería",
+                "Inversiones",
+                "Turismo"
+            ],
+            "postura_politica": "Sadir promociona la minería y las inversiones en litio, alineado con el RIGI. Su participación en foros internacionales busca atraer capitales. Evita conflictos con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Disputa regalías Atuel",
+                "Gestión local",
+                "Educación"
+            ],
+            "postura_politica": "Ziliotto está en el centro del conflicto con Mendoza. Denuncia el decreto de Milei que le quita regalías y promete pelea judicial. Su postura es de defensa intransigente de los recursos pampeanos, buscando apoyo federal.",
+            "frase_fuerte": "No solo Mendoza nos robó un río. Ahora junto al Gobierno de Milei, que deroga el Decreto 1560/73, nos quitan sus regalías. ¡No nos quedaremos quietos!"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Viviendas",
+                "Educación",
+                "Salud"
+            ],
+            "postura_politica": "Quintela se enfoca en gestión local: viviendas, salud, educación. Su postura es de perfil bajo, evitando conflictos nacionales. La mención a Larroque sugiere alineamiento con el kirchnerismo duro.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Disputa regalías Atuel",
+                "Salud",
+                "Infraestructura",
+                "Energía"
+            ],
+            "postura_politica": "Cornejo contraataca a Ziliotto con dureza, defendiendo la posición mendocina. Además, muestra gestión en salud y energía, buscando proyectar una imagen de provincia ordenada y en desarrollo.",
+            "frase_fuerte": "Mientras La Pampa se dedica a judicializar cada decisión, Mendoza planifica, ejecuta e invierte en obras."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Viviendas",
+                "Educación",
+                "Ambiente"
+            ],
+            "postura_politica": "Passalacqua mantiene una agenda de gestión local: viviendas, educación, ambiente. Su postura es de baja conflictividad, con foco en la gestión y la promoción de la identidad misionera.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Obras",
+                "Educación",
+                "Economía"
+            ],
+            "postura_politica": "Figueroa muestra números positivos de ventas y obras, buscando posicionar a Neuquén como modelo de gestión. Su postura es de autonomía y eficiencia, sin confrontar con Nación.",
+            "frase_fuerte": "Neuquén está cambiando."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Energía",
+                "Inversiones",
+                "Argentina LNG",
+                "Gestión local"
+            ],
+            "postura_politica": "Weretilneck se posiciona como protagonista del proyecto Argentina LNG, destacando el financiamiento internacional y la preparación de la provincia. Su postura es de apoyo crítico a Nación, reclamando protagonismo para Río Negro.",
+            "frase_fuerte": "Neuquén tiene Vaca Muerta. Río Negro tiene la costa y será donde esa energía se transforme, agregue valor y salga al mundo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Subsidios zonas cálidas",
+                "Seguridad",
+                "Educación",
+                "Minería"
+            ],
+            "postura_politica": "Saenz lidera el reclamo del Norte Grande por zonas cálidas, con un tono confrontativo hacia los senadores que no acompañen. Además, muestra gestión en seguridad y minería, buscando equilibrar presión y gestión.",
+            "frase_fuerte": "Quienes voten en contra o pretendan dejar sin quorum la sesión de hoy tendrán que explicar en sus provincias por qué priorizaron la política y no las necesidades de su pueblo."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Minería",
+                "Inversiones",
+                "Deportes",
+                "Gestión local"
+            ],
+            "postura_politica": "Orrego promociona la minería y las inversiones, destacando el acuerdo con Vicuña. Su postura es de apertura a inversiones y alineamiento con el RIGI, sin conflictos con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Obras",
+                "Turismo",
+                "Educación"
+            ],
+            "postura_politica": "Poggi se enfoca en gestión local y presume de ser la legislatura más austera. Su postura es de perfil bajo, buscando eficiencia sin confrontar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Obras",
+                "Petróleo",
+                "Crítica al kirchnerismo"
+            ],
+            "postura_politica": "Vidal Ser critica duramente al kirchnerismo por el abandono de la provincia, mientras muestra obras y gestión. Su postura es de oposición al kirchnerismo pero sin alinearse explícitamente con Milei.",
+            "frase_fuerte": "El kirchnerismo no solo robó y destruyó la provincia, sino que jugó con la ilusión de los santacruceños."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Juegos Suramericanos",
+                "Deportes",
+                "Gestión local",
+                "Seguridad"
+            ],
+            "postura_politica": "Pullaro capitaliza los Juegos Suramericanos como vidriera de gestión y movilización popular. Su postura es de orgullo provincial y eficiencia, evitando temas nacionales conflictivos.",
+            "frase_fuerte": "La provincia Invencible de Santa Fe hoy está de pie!"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Ciencia",
+                "Justicia",
+                "Cultura",
+                "Malvinas"
+            ],
+            "postura_politica": "Suarez muestra gestión en ciencia, justicia y cultura, y se posiciona en la causa Malvinas con hallazgos documentales. Su postura es de perfil institucional y federal, sin confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Malvinas",
+                "Base Naval",
+                "Industria",
+                "Gestión local"
+            ],
+            "postura_politica": "Melella se posiciona fuerte en la causa Malvinas y la Base Naval Integrada, reclamando protagonismo para Tierra del Fuego. Su postura es de defensa de la soberanía y crítica a la falta de presupuesto.",
+            "frase_fuerte": "Las Malvinas fueron, son y serán argentinas. Y fueron, son y serán fueguinas."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Obras",
+                "Justicia",
+                "Diálogo con Nación"
+            ],
+            "postura_politica": "Jaldo muestra gestión en obras y justicia, y mantiene diálogo con Nación (Santilli). Su postura es de búsqueda de consensos y defensa de los intereses tucumanos, sin confrontación directa.",
+            "frase_fuerte": null
+        }
+    ]
+}
