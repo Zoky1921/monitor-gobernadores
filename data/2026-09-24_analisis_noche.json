@@ -1,0 +1,247 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores desplegaron una agenda polarizada en las últimas horas, marcada por fuertes declaraciones sobre política exterior y la gestión de recursos federales. Axel Kicillof (Buenos Aires) criticó duramente el alineamiento internacional del gobierno nacional, mientras Elías Suárez (Santiago del Estero) reforzó el reclamo por Malvinas con documentos históricos. Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) celebraron avances significativos en el proyecto de GNL en Vaca Muerta, con apoyo financiero internacional. En contraste, Jorge Macri (Ciudad Autónoma de Buenos Aires) anunció una histórica baja de patentes, y Martín Llaryora (Córdoba) focalizó en el apoyo a emprendedores y la seguridad. Gustavo Sáenz (Salta) y Raúl Jalil (Catamarca) unificaron un reclamo por subsidios energéticos equitativos para el Norte Grande. La jornada subraya tanto las tensiones federales como una intensa actividad de gestión local y regional.",
+    "analisis_profundo": "La jornada federal revela una compleja red de prioridades provinciales y roces con la administración central. La crítica más directa provino de Axel Kicillof (Buenos Aires), quien denunció la 'sumisión y alineamiento automático' de la política exterior del gobierno nacional, defendiendo una postura histórica de paz y neutralidad. Esta postura se ve complementada por el movimiento estratégico de Elías Suárez (Santiago del Estero), que divulgó documentos históricos sobre Malvinas, reforzando el reclamo de soberanía y dirigiendo el mensaje al canciller y al Congreso, un claro gesto de afirmación federal ante una cuestión nacional. La disputa por las regalías del Río Atuel entre Sergio Ziliotto (La Pampa) y Alfredo Cornejo (Mendoza) persiste, con Cornejo confirmando el apoyo del gobierno nacional a la posición mendocina y desestimando las acciones judiciales pampeanas, lo que subraya la intervención de Nación en conflictos interprovinciales por recursos.\n\nEn el ámbito de la energía, la Norpatagonia se consolida como epicentro de grandes proyectos. Rolando Figueroa (Neuquén) anunció un significativo paso en el proyecto GNL de YPF con una propuesta de financiamiento de US$6.000 millones del EXIM Bank estadounidense, posicionando a Vaca Muerta como motor de desarrollo. Alberto Weretilneck (Río Negro) amplificó estos anuncios, destacando la adhesión de su provincia al RIGI y su rol como salida al mar para el gas, además de reconocer explícitamente la labor del Presidente y ministros nacionales, evidenciando una coordinación productiva con el gobierno central. Elías Suárez (Santiago del Estero) también impulsó la vinculación entre ciencia e industria, con un enfoque en energías limpias y la modernización de la ley de promoción industrial.\n\nEn la gestión económica, Jorge Macri (Ciudad Autónoma de Buenos Aires) se distinguió por su enfoque en el alivio fiscal, anunciando un presupuesto 2027 con una histórica baja de patentes y exenciones para pymes, hoteles y restaurantes. Martín Llaryora (Córdoba) impulsó el ecosistema emprendedor con $1.000 millones en financiamiento y consolidó programas de seguridad como #CordobesesEnAlerta. Marcelo Orrego (San Juan) celebró una exitosa colocación de bonos internacionales por US$600 millones, percibida como un voto de confianza externa. Claudio Poggi (San Luis) mostró una gestión de obras públicas y servicios esenciales, desde hospitales hasta acceso a gas natural y programas de vivienda. En el Norte Grande, Gustavo Sáenz (Salta) y Raúl Jalil (Catamarca) coordinaron un reclamo 'histórico' por subsidios energéticos para zonas cálidas, instando a los senadores a priorizar las necesidades regionales, lo que añade presión al diálogo federal.\n\nOtros gobernadores se enfocaron en el desarrollo social y cultural: Hugo Passalacqua (Misiones) destacó avances en vivienda, educación inclusiva y fomento cultural, además de agilizar la radicación industrial. Claudio Vidal (Santa Cruz) se centró en la preservación de empleos y la mejora de la eficiencia estatal. Maximiliano Pullaro (Santa Fe) celebró los Juegos Suramericanos y su impacto turístico, mientras Osvaldo Jaldo (Tucumán) conmemoró la Batalla de Tucumán y la festividad de la Virgen de la Merced, conectando la identidad provincial con un llamado a la unidad y solidaridad.",
+    "temas_calientes": [
+        {
+            "tema": "Tensiones Federales y Política Exterior: Críticas a la política exterior nacional, demandas de equidad en subsidios, y disputas por recursos interprovinciales.",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@alfredocornejo",
+                "@GustavoSaenzOK",
+                "@RaulJalil_ok",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Impulso a la Producción Energética y Vaca Muerta: Avances en grandes proyectos de GNL, inversiones y financiamiento internacional en la región patagónica.",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión Fiscal y Alivio Impositivo Local: Medidas de reducción de impuestos y manejo presupuestario para la reactivación económica provincial.",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Servicios Esenciales: Obras en salud, educación, vialidad y acceso a servicios básicos para mejorar la calidad de vida.",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@claudiojpoggi",
+                "@passalacquaok",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Social, Cultural y Educativo: Programas de inclusión, fomento a la educación inicial, apoyo a la cultura y deportes.",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "No podemos tener una política que responda a intereses que no son los nuestros. La posición que está tomando Milei es de sumisión y alineamiento automático, alejándonos de nuestra postura histórica de paz y neutralidad. Repudiamos los genocidios, las guerras y las invasiones. Es momento de defender la soberanía y los verdaderos intereses de nuestra patria.",
+        "por_que_es_clave": "El gobernador (Buenos Aires) emite una crítica directa y contundente a la política exterior del Presidente Milei, calificándola de 'sumisión y alineamiento automático'. Esta declaración establece una fuerte posición federalista frente a la política nacional y subraya la preocupación por la soberanía y la postura histórica de Argentina, marcando un claro desacuerdo en un tema de alta relevancia nacional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Política exterior",
+                "Soberanía",
+                "Integración regional",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Crítica contundente a la política exterior del gobierno nacional (Milei), acusándola de 'sumisión y alineamiento automático'. Enfatiza la defensa de la soberanía y los intereses patrios, promoviendo la integración latinoamericana y un desarrollo inteligente y soberano frente a los intereses externos.",
+            "frase_fuerte": "No podemos tener una política que responda a intereses que no son los nuestros. La posición que está tomando Milei es de sumisión y alineamiento automático, alejándonos de nuestra postura histórica de paz y neutralidad."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Gestión fiscal",
+                "Reducción impositiva",
+                "Seguridad urbana",
+                "Emergencias climáticas"
+            ],
+            "postura_politica": "Resalta la 'baja histórica de Patentes' y exenciones fiscales como resultado de una gestión ordenada, buscando aliviar a la clase media y fomentar la inversión. Afirma la primacía de 'la ley y el orden' en la ciudad y reporta activamente sobre operativos ante tormentas en barrios vulnerables.",
+            "frase_fuerte": "La ley y el orden rigen en cada metro cuadrado de esta ciudad. No hay excepciones."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Federalismo",
+                "Subsidios energéticos",
+                "Cultura"
+            ],
+            "postura_politica": "Apoya activamente la demanda del Norte Grande por subsidios energéticos para zonas cálidas, instando a los senadores nacionales a defender los intereses regionales. También destaca la inversión en espacios culturales locales como el primer aniversario de CATA.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Desarrollo económico",
+                "Emprendedurismo",
+                "Educación",
+                "Seguridad ciudadana",
+                "Obras públicas"
+            ],
+            "postura_politica": "Impulsa políticas de financiamiento para emprendedores y destaca inversiones en educación inicial con nuevos edificios de jardín. Promueve la participación ciudadana en seguridad a través del programa #CordobesesEnAlerta y la urbanización con servicios esenciales.",
+            "frase_fuerte": "Lo fundamental es generar una cultura emprendedora, sostenerla y potenciarla."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Celebraciones locales"
+            ],
+            "postura_politica": "Se enfoca en la conmemoración de aniversarios municipales, manteniendo una agenda de cercanía con las comunidades y sus tradiciones.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Innovación",
+                "Ciencia y tecnología",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Destaca la creación de un Fondo de Innovación pampeano para vincular el conocimiento científico con las necesidades productivas, buscando la 'activación económica' y la 'competitividad' de la provincia a través de la tecnología.",
+            "frase_fuerte": "El conocimiento también tiene que transformarse en producción, competitividad y trabajo para La Pampa."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud pública",
+                "Infraestructura vial",
+                "Disputas interprovinciales por recursos"
+            ],
+            "postura_politica": "Celebra avances en medicina materno-fetal con tecnología de punta en el sistema público y resalta la mejora de la conectividad vial. En la disputa por regalías del Río Atuel, reafirma la incompetencia del juzgado pampeano y la centralidad de la Corte Suprema, alineándose con la postura nacional.",
+            "frase_fuerte": "Hoy dimos un paso histórico para la salud de las familias mendocinas. Seguimos invirtiendo para cuidar la vida desde su inicio y para hacer de la salud pública de Mendoza un orgullo para todos."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Cultura",
+                "Vivienda",
+                "Inclusión educativa",
+                "Fomento industrial"
+            ],
+            "postura_politica": "Promueve el encuentro cultural con figuras nacionales y la educación inclusiva, celebrando logros individuales. Anuncia medidas para agilizar la radicación industrial y apoya la construcción de viviendas, demostrando una gestión multifacética.",
+            "frase_fuerte": "Los libros nos construyen por dentro"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Energía (GNL, Vaca Muerta)",
+                "Desarrollo económico",
+                "Infraestructura educativa y deportiva"
+            ],
+            "postura_politica": "Celebra un avance significativo en el proyecto GNL con financiamiento externo y el buen desempeño económico provincial en ventas de supermercados. Prioriza la inversión en educación técnica y equipamiento deportivo como pilares del 'Modelo Neuquino' y del desarrollo generacional.",
+            "frase_fuerte": "Vaca Muerta no es un desafío sectorial ni partidario: es un desafío generacional para transformar Neuquén y sacar adelante al país."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Energía (LNG, Vaca Muerta)",
+                "Inversiones",
+                "Infraestructura rural y vial",
+                "Turismo"
+            ],
+            "postura_politica": "Destaca el respaldo internacional al proyecto Argentina LNG y el rol de Río Negro como salida de Vaca Muerta al mundo, reconociendo la labor del gobierno nacional. Impulsa programas de energía renovable para zonas rurales y mejora de infraestructura vial estratégica vinculada a la producción.",
+            "frase_fuerte": "La energía argentina va a salir al mundo desde la Norpatagonia. Y Río Negro es protagonista."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Federalismo",
+                "Subsidios energéticos",
+                "Educación"
+            ],
+            "postura_politica": "Lidera un fuerte reclamo federal para que el Senado apruebe subsidios energéticos para zonas cálidas, advirtiendo sobre las consecuencias políticas para quienes no apoyen. También destaca inversiones en infraestructura educativa en áreas remotas.",
+            "frase_fuerte": "Quienes voten en contra o pretendan dejar sin quorum la sesión de hoy tendrán que explicar en sus provincias por qué priorizaron la política y no las necesidades de su pueblo."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Financiamiento internacional",
+                "Infraestructura",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Celebra la exitosa colocación de bonos internacionales como señal de confianza, proyectando esos fondos en infraestructura y generación de empleo. Enfoca su gestión en la atracción de inversiones para el desarrollo de la provincia.",
+            "frase_fuerte": "El mundo confía en San Juan y en el futuro que estamos construyendo."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Salud pública",
+                "Seguridad",
+                "Obras municipales",
+                "Educación",
+                "Desarrollo infantil"
+            ],
+            "postura_politica": "Enfatiza una gestión integral centrada en mejorar la salud (hospitales, maternidad con nueva tecnología), la seguridad (ascensos policiales), la infraestructura urbana (pavimento), y el desarrollo social (CDI, programa 'TUBI'). Subraya la austeridad de su legislatura provincial.",
+            "frase_fuerte": "Seguimos invirtiendo en nuestro Sistema de Salud Pública Provincial !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Empleo",
+                "Gestión pública",
+                "Eficiencia en servicios"
+            ],
+            "postura_politica": "Se enfoca en la resolución de problemas de empleo y en la recuperación de la capacidad estatal mediante la compra de maquinaria para Vialidad, contrastando su gestión con administraciones anteriores y priorizando la solución de problemas concretos.",
+            "frase_fuerte": "Santa Cruz ya conoce lo que pasa cuando el Estado mira para otro lado y deja que los problemas se acumulen. Nosotros elegimos involucrarnos, gestionar y buscar soluciones."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Deporte",
+                "Juegos Suramericanos",
+                "Turismo"
+            ],
+            "postura_politica": "Celebra los logros deportivos de la delegación nacional en los Juegos Suramericanos 2026, destacando la alegría y el orgullo provincial por el evento y sus atletas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Malvinas",
+                "Soberanía",
+                "Modernización judicial",
+                "Ciencia y tecnología",
+                "Federalismo"
+            ],
+            "postura_politica": "Utiliza el hallazgo de documentos históricos para reafirmar la soberanía argentina sobre Malvinas, dirigiendo el mensaje al gobierno nacional y al Congreso. Promueve la modernización de la justicia con apoyo del CFI y la vinculación entre ciencia, tecnología e industria para el desarrollo provincial.",
+            "frase_fuerte": "Las Malvinas fueron, son y serán argentinas."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Identidad provincial",
+                "Eventos históricos y religiosos",
+                "Desarrollo económico local"
+            ],
+            "postura_politica": "Articula la conmemoración de la Batalla de Tucumán y las festividades de la Virgen de la Merced con un mensaje de unidad y compromiso social. Destaca el fomento de actividades económicas locales como el turf y la mejora de su infraestructura.",
+            "frase_fuerte": "'Con María de la Merced, abracemos a todos' fue el mensaje que nos convocó este año: ser cercanos, solidarios y acompañar especialmente a quienes más lo necesitan."
+        }
+    ]
+}
