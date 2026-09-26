@@ -1,0 +1,211 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La jornada política federal muestra un enfoque dual: por un lado, gobernadores como Axel Kicillof (Buenos Aires), Jorge Macri (CABA), Ignacio Torres (Chubut), Martín Llaryora (Córdoba), Rolando Figueroa (Neuquén), Alberto Weretilneck (Río Negro), Marcelo Orrego (San Juan), Claudio Poggi (San Luis), Claudio Vidal (Santa Cruz), Maximiliano Pullaro (Santa Fe), Gerardo Zamora (Santiago del Estero) y Osvaldo Jaldo (Tucumán) destacan avances en infraestructura, programas sociales, educativos y la promoción de la cultura local. Por otro, Rolando Figueroa (Neuquén) eleva el tono al confrontar directamente a un exministro nacional, defendiendo la autonomía y el modelo económico de su provincia. El panorama general es de gestión territorial con focos específicos de tensión federal sobre la visión del desarrollo.",
+    "analisis_profundo": "La agenda federal se concentra en la visibilización de la gestión provincial y la afirmación de modelos de desarrollo locales, aunque con un marcado punto de inflexión en la interacción con figuras nacionales. Rolando Figueroa (Neuquén) lidera la confrontación, refutando las 'apreciaciones desde el obelisco' de Alfonso Prat-Gay, lo que subraya la persistente tensión entre la visión centralista y la defensa de la autonomía económica regional. Esta postura se refuerza con anuncios de infraestructura estratégica, como el nuevo Hub de Transporte en Neuquén (Neuquén), y la continuidad de obras locales en Bajada del Agrio (Neuquén), elementos que consolidan la narrativa de un progreso gestado desde el territorio.\n\nEn el ámbito de la gestión, Martín Llaryora (Córdoba) celebra la inauguración de una circunvalación clave y la inversión en eventos deportivos infantiles, mientras Jorge Macri (CABA) se enfoca en el orgullo de la gestión PRO en su distrito. Ignacio Torres (Chubut) prioriza el bienestar de los jubilados, prometiendo medidas concretas en salud, y Alberto Weretilneck (Río Negro) avanza con centros de inclusión para mujeres y planes de finalización de estudios, mostrando un compromiso firme con políticas sociales.\n\nLa promoción cultural y turística también ocupa un lugar relevante, con Raúl Jalil (Catamarca) destacando el reconocimiento de la Fiesta del Poncho y Maximiliano Pullaro (Santa Fe) celebrando el éxito de los Juegos Suramericanos como vidriera provincial. Hugo Passalacqua (Misiones) festeja el centenario de Puerto Esperanza, y Gerardo Zamora (Santiago del Estero) reconoce la trayectoria de colectividades, afianzando el sentido de pertenencia.\n\nDesde la perspectiva del diálogo institucional, Marcelo Orrego (San Juan) se reúne con el Jefe de Gabinete nacional, apoyando la reforma política y la eliminación de las PASO, lo que sugiere una búsqueda de acuerdos a nivel federal en temas legislativos. Por su parte, Claudio Poggi (San Luis) dialoga con la Unión Industrial Argentina y enfatiza la importancia del federalismo en seminarios, reflejando una preocupación por la inserción de las provincias en la agenda productiva nacional. Finalmente, Claudio Vidal (Santa Cruz) destaca la inversión en capacitación policial con enfoque internacional, marcando una línea de gestión de seguridad que contrasta con el pasado. Osvaldo Jaldo (Tucumán) refuerza el reconocimiento a comunidades evangélicas, apuntalando el trabajo social y la libertad de culto. El pulso federal se debate entre la autonomía, la gestión local y la inevitable interacción con el poder central, con la confrontación abierta de Neuquén como el punto de mayor fricción.",
+    "temas_calientes": [
+        {
+            "tema": "Defensa del Modelo de Desarrollo Provincial frente a Críticas Centralistas",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Gestión de Obras Públicas e Infraestructura Estratégica",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales y Educativas Focadas en la Inclusión",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Promoción de la Cultura y el Turismo Regional",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@passalacquaok",
+                "@maxipullaro",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Diálogo y Consensos en la Agenda Política Federal",
+            "gobernadores_involucrados": [
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "Como estas @alfonsopratgay, te vi en Neuquén. Veo que no has recorrido. No comparto en absoluto tus apreciaciones desde el obelisco. Te comparto un estudio de la @FMediterranea. La próxima vez te saco a recorrer mi provincia, que ha logrado lo que muchos en el país no hicieron cuando tuvieron su oportunidad.",
+        "por_que_es_clave": "El gobernador de Neuquén (Neuquén) confronta directamente a un exministro nacional (Alfonso Prat-Gay), defendiendo el modelo económico provincial y criticando una visión centralista. Esto marca una tensión federal sobre las perspectivas de desarrollo y autonomía regional frente a las críticas 'desde el obelisco', evidenciando la defensa enérgica de la gestión local.",
+        "pregunta_openarg": "¿Cómo impacta la retórica de confrontación federal en la construcción de consensos nacionales sobre el desarrollo económico del país?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Desarrollo nacional",
+                "Soberanía",
+                "Ciencia y Tecnología",
+                "Políticas Públicas",
+                "Trabajo"
+            ],
+            "postura_politica": "Enfoca su discurso en la necesidad de un desarrollo nacional soberano, basado en la ciencia, el trabajo y las políticas públicas territoriales. Proyecta una visión de país desde la militancia y la construcción colectiva, mostrando un alineamiento con principios progresistas y de defensa del Estado.",
+            "frase_fuerte": "Si queremos un país desarrollado y soberano, es necesario sostener la ciencia, el trabajo y las políticas públicas en cada territorio."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Gestión local",
+                "Desarrollo municipal",
+                "Partido PRO"
+            ],
+            "postura_politica": "Destaca la eficacia de la gestión de su partido en el ámbito municipal, utilizando el ejemplo de Vicente López. Su postura es de reafirmación y orgullo por los logros locales, buscando posicionar el modelo de gobierno del PRO como sinónimo de mejora de la calidad de vida de los ciudadanos.",
+            "frase_fuerte": "No hay dudas de que donde gobierna el Pro se vive mejor. Sigamos."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Turismo",
+                "Cultura",
+                "Identidad provincial",
+                "Premios Federales"
+            ],
+            "postura_politica": "Celebra el reconocimiento de la Fiesta del Poncho, proyectando la identidad cultural y artesanal de Catamarca (Catamarca) como un motor turístico y económico. Su enfoque es de orgullo por los logros provinciales y su capacidad para atraer visitantes, destacando el impacto de la cultura en el desarrollo regional.",
+            "frase_fuerte": "Nuestra Fiesta Nacional e Internacional del Poncho fue reconocida en los Premios Federales a la Industria Turística 2026."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Jubilados",
+                "Salud",
+                "Vulnerabilidad",
+                "Políticas Sociales"
+            ],
+            "postura_politica": "Asume un compromiso explícito con la defensa de los jubilados en situación de vulnerabilidad, garantizando acceso a medicamentos y tratamientos. Su postura es de un Estado presente y activo en la protección de los sectores más sensibles, enfatizando que no se puede 'darles la espalda' a quienes construyeron la provincia de Chubut (Chubut).",
+            "frase_fuerte": "Porque a quienes construyeron esta provincia no podemos darles la espalda."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Deporte",
+                "Inclusión social",
+                "Niñez y Juventud",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Subraya la calidad de la infraestructura vial de Córdoba (Córdoba) con la inauguración de una nueva circunvalación, vinculándola directamente al crecimiento productivo y la seguridad. Además, promueve la inclusión de niños en eventos deportivos, destacando el rol social de los clubes y el apoyo estatal a la formación de valores. Su gestión se enfoca en el desarrollo integral y el orgullo provincial.",
+            "frase_fuerte": "CÓRDOBA TIENE LAS MEJORES RUTAS DEL PAÍS"
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Aniversarios locales",
+                "Comunidad",
+                "Progreso",
+                "Unión"
+            ],
+            "postura_politica": "Conmemora el centenario de Puerto Esperanza (Misiones), destacando la historia, el trabajo y la voluntad de progreso de su gente. Su mensaje es de unidad y resiliencia, celebrando los logros colectivos y la capacidad de la comunidad misionera para avanzar 'juntos', reconociendo el esfuerzo de los pioneros y las familias.",
+            "frase_fuerte": "Lo que hace grande a Puerto Esperanza y a Misiones es la voluntad de su gente de progresar, de meterle para adelante, día a día, gota a gota."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Federalismo",
+                "Desarrollo económico regional",
+                "Infraestructura",
+                "Conectividad",
+                "Gestión local"
+            ],
+            "postura_politica": "Adopta una postura firme y desafiante frente a visiones centralistas, defendiendo el modelo y los logros económicos de Neuquén (Neuquén). Complementa esta defensa con anuncios de un nuevo Hub de Transporte y la continuidad de obras de infraestructura local, proyectando una visión de desarrollo provincial que valora el talento y el esfuerzo de los neuquinos.",
+            "frase_fuerte": "No comparto en absoluto tus apreciaciones desde el obelisco. Te comparto un estudio de la @FMediterranea."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Salud pública",
+                "Inclusión social",
+                "Consumos problemáticos",
+                "Educación de adultos",
+                "Oportunidades laborales"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con políticas sociales al anunciar un centro de inclusión para mujeres con consumos problemáticos y la promoción del Plan FinEs para adultos. Su enfoque es de un Estado que genera oportunidades y brinda soluciones concretas en salud y educación, buscando el desarrollo y la inclusión de los rionegrinos (Río Negro) para construir su futuro.",
+            "frase_fuerte": "SIERRA COLORADA TENDRÁ UN CENTRO ÚNICO EN LA PATAGONIA"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Relación Nación-Provincias",
+                "Reforma política",
+                "Eliminación de PASO",
+                "Agenda Legislativa"
+            ],
+            "postura_politica": "Mantiene una postura dialoguista con el Gobierno Nacional, informando sobre su reunión con el Jefe de Gabinete para abordar una agenda compartida. Expresa su apoyo a la reforma política y la eliminación de las PASO, posicionándose a favor de cambios en el sistema electoral y la gobernanza a nivel federal para San Juan (San Juan).",
+            "frase_fuerte": "También abordamos la reforma política, sobre la que expresé mi apoyo al proyecto y a la propuesta de eliminar las PASO."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Federalismo",
+                "Derecho Constitucional",
+                "Industria",
+                "Diálogo público-privado"
+            ],
+            "postura_politica": "Participa activamente en el debate sobre federalismo y derecho constitucional, mostrando interés en la reflexión académica y el diálogo interinstitucional. Simultáneamente, promueve el sector industrial de San Luis (San Luis) mediante políticas activas y reuniones con la Unión Industrial Argentina, enfatizando la colaboración público-privada para el desarrollo productivo.",
+            "frase_fuerte": "Provechosa reunión de trabajo. Pude presentar las diferentes políticas activas que lleva adelante la Pcia de San Luis a favor del sector productivo y pude escuchar sus inquietudes e iniciativas."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Seguridad",
+                "Crimen organizado",
+                "Capacitación policial",
+                "Gestión pública"
+            ],
+            "postura_politica": "Destaca la capacitación de la policía de Santa Cruz (Santa Cruz) con especialistas internacionales para combatir el crimen organizado, contrastando su gestión con la inacción de años anteriores. Su mensaje se enfoca en la modernización y el fortalecimiento de las fuerzas de seguridad como pilar de un 'cambio de rumbo' en la provincia.",
+            "frase_fuerte": "DURANTE AÑOS NO SE HIZO: HOY CAPACITAMOS A NUESTRA POLICÍA CON ESPECIALISTAS INTERNACIONALES CONTRA EL CRIMEN ORGANIZADO"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Deportes",
+                "Eventos internacionales",
+                "Cultura",
+                "Orgullo provincial"
+            ],
+            "postura_politica": "Celebra el éxito de los Juegos Suramericanos 2026 en Santa Fe (Santa Fe), presentándolos como una oportunidad para que la provincia muestre su 'pasión, trabajo y orgullo'. Su discurso refuerza la identidad santafesina y la capacidad de la región para organizar eventos de gran envergadura, generando un sentido de pertenencia y visibilidad internacional.",
+            "frase_fuerte": "Santa Fe se mostró como es: pasional, trabajadora y orgullosa de lo suyo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Reconocimiento cultural",
+                "Colectividades",
+                "Historia provincial"
+            ],
+            "postura_politica": "Reconoce y valora el aporte histórico y el compromiso de la colectividad sirio libanesa en Santiago del Estero (Santiago del Estero). Su postura subraya la riqueza de la diversidad cultural y la importancia de integrar las distintas comunidades que han contribuido al desarrollo y la identidad provincial a lo largo de las generaciones.",
+            "frase_fuerte": "Comparto esta distinción con la colectividad sirio libanesa de nuestra provincia, que desde hace generaciones forma parte de la historia de Santiago del Estero con su trabajo y su compromiso."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Religión",
+                "Sociedad",
+                "Libertad de culto",
+                "Reconocimiento institucional"
+            ],
+            "postura_politica": "Participa en la conmemoración del Día Provincial del Pastor y la Pastora Evangélica en Tucumán (Tucumán), destacando la labor social y espiritual de las iglesias evangélicas. Su discurso enfatiza el compromiso con el diálogo y la garantía de la libertad de culto, reafirmando el apoyo institucional a estas comunidades por su trabajo en el ámbito social y de contención.",
+            "frase_fuerte": "Valoramos profundamente la tarea espiritual y social que realizan pastores y pastoras, acompañando a familias, jóvenes y personas en situación de vulnerabilidad en cada rincón de Tucumán."
+        }
+    ]
+}
