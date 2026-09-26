@@ -1,0 +1,233 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por la tensión generada tras la eliminación del beneficio de Zona Fría, con los gobernadores Axel Kicillof (Buenos Aires) y Claudio Poggi (San Luis) manifestando un fuerte rechazo a la medida del gobierno de Milei y anticipando acciones para mitigar su impacto. Pese a esta confrontación, la agenda provincial se mantuvo activa, priorizando la gestión local con anuncios de obras de infraestructura, mejoras en salud y educación, fomento a la producción y la economía del conocimiento. También destacaron avances en seguridad, prevención de adicciones y la reafirmación de la soberanía sobre Malvinas, junto a debates sobre la reforma política nacional.",
+    "analisis_profundo": "La dinámica federal de las últimas 24 horas presenta un escenario polarizado, donde la gestión local y el reclamo por recursos se erigen como ejes centrales, en contraste con la tensión generada por decisiones del gobierno nacional. El gobernador Axel Kicillof (Buenos Aires) lideró el frente de rechazo a la quita del beneficio de Zona Fría, calificándola como un 'golpe directo al bolsillo de los bonaerenses' y una decisión del 'gobierno de Milei' que afecta a casi cien municipios. En la misma línea, Claudio Poggi (San Luis) ratificó su postura en contra de la ley, comprometiéndose a buscar 'mecanismos alternativos' para minimizar el impacto. Este tema resalta una fractura en la relación Nación-provincias en un aspecto sensible como las tarifas energéticas.\n\nParalelamente, la agenda provincial estuvo dominada por anuncios y gestiones de desarrollo. Jorge Macri (Ciudad Autónoma de Buenos Aires) enfocó su comunicación en la 'ley y el orden', la baja histórica de patentes y el freno al garantismo judicial, marcando una agenda de austeridad y seguridad. Raúl Jalil (Catamarca) se reunió con la Unión Industrial Argentina para impulsar la eliminación de Ingresos Brutos a la actividad industrial, buscando incentivar la inversión y el empleo. Leandro Zdero (Chaco) demostró una gestión activa en salud con programas como 'Ver para ser libres' y refacciones en centros de salud, además de recibir al embajador de Ucrania para explorar la cooperación productiva.\n\nMartín Llaryora (Córdoba) mantuvo una fuerte presencia en el interior provincial, destacando el apoyo al sector agroindustrial con créditos para la ExpoBell2026 e inversiones en educación y deporte. Sergio Ziliotto (La Pampa) avanzó en la vinculación entre ciencia, tecnología y producción con el Fondo de Innovación Pampeano. Alfredo Cornejo (Mendoza) resaltó resultados positivos con UNICEF en salud y educación infantil, y Osvaldo Jaldo (Tucumán) combinó homenajes históricos y religiosos con la gestión de obras y el acompañamiento a comunidades locales.\n\nLos gobernadores de la Patagonia también mostraron intensa actividad. Rolando Figueroa (Neuquén) se abocó a la reconstrucción post-alerta climático, al tiempo que celebró el crecimiento de las exportaciones y la inversión en infraestructura. Alberto Weretilneck (Río Negro) comunicó avances en la 'ley de obra social', el éxito de INVAP y la lucha contra el narcotráfico. Claudio Vidal (Santa Cruz) hizo hincapié en la defensa de los puestos de trabajo y la atracción de inversión privada para diversificar la economía provincial, desmarcándose de décadas de 'abandono y dependencia'.\n\nFinalmente, Marcelo Orrego (San Juan) mantuvo un encuentro clave con el jefe de Gabinete Nacional para discutir la reforma política y la eliminación de las PASO, señalando un posible alineamiento con la agenda nacional en este punto. Elías Suárez (Santiago del Estero) generó impacto con el hallazgo de documentos históricos que 'fortalecen la memoria histórica sobre Malvinas', reafirmando el reclamo de soberanía. La jornada subraya cómo las provincias, si bien reaccionan a las medidas federales que impactan sus arcas, mantienen un fuerte impulso en la gestión de sus territorios y en la búsqueda de oportunidades de desarrollo endógeno.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamo Federal y Fiscalidad Provincial por Quita de Subsidios",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@claudiojpoggi",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Fomento a la Inversión y el Empleo Genuino",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Refuerzo de Servicios Públicos Esenciales e Infraestructura",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Fortalecimiento Institucional",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Agenda Federal y Reafirmación de Soberanía",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@DrMarceloOrrego",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La quita del beneficio de Zona Fría es un golpe directo al bolsillo de los bonaerenses. En un contexto de tarifas impagables, le sacan un alivio fundamental a casi 100 municipios de la provincia por una decisión del gobierno de Milei. Repudiamos esta medida y vamos a seguir trabajando para reconquistar y defender cada derecho.",
+        "por_que_es_clave": "El gobernador Axel Kicillof (Buenos Aires) emite un fuerte comunicado de rechazo a una medida nacional que impacta directamente en la economía de su provincia, marcando una confrontación directa con el gobierno central en un tema de alta sensibilidad social y económica.",
+        "pregunta_openarg": "¿Qué impacto tendrá la eliminación de la Zona Fría en la economía provincial y en la dinámica de tarifas a nivel federal?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Reclamo federal",
+                "Gestión local",
+                "Desarrollo productivo",
+                "Derechos sociales"
+            ],
+            "postura_politica": "Crítica abierta al gobierno nacional por la quita del beneficio de Zona Fría, mostrando una fuerte defensa de los derechos provinciales y el bolsillo de los bonaerenses. Simultáneamente, prioriza la gestión local con anuncios de obras de infraestructura, entregas de escrituras y fomento deportivo, buscando soluciones concretas para la comunidad.",
+            "frase_fuerte": "La quita del beneficio de Zona Fría es un golpe directo al bolsillo de los bonaerenses. (...) Repudiamos esta medida y vamos a seguir trabajando para reconquistar y defender cada derecho."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Gestión fiscal",
+                "Seguridad",
+                "Administración judicial"
+            ],
+            "postura_politica": "Enfocado en la reducción de impuestos y la eficiencia estatal, buscando generar un ambiente favorable para la actividad económica. Defiende un enfoque de 'ley y orden' en materia de seguridad y justicia, criticando el 'garantismo judicial'.",
+            "frase_fuerte": "Un necesario freno al garantismo judicial. La ley está para cumplirse. Si quieren legislar, vayan al Congreso."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Fomento industrial",
+                "Fiscalidad provincial",
+                "Diálogo con sectores productivos"
+            ],
+            "postura_politica": "Impulsa medidas para aliviar la carga impositiva al sector industrial, específicamente la eliminación de Ingresos Brutos, con el objetivo de fomentar la inversión y proteger el empleo. Muestra apertura al diálogo con actores económicos clave.",
+            "frase_fuerte": "Tambien sobre la necesidad de avanzar con la eliminación del impuesto a los Ingresos Brutos para la actividad industrial, una medida concreta que busca reducir costos, incentivar la inversión y proteger el empleo de miles de catamarqueños."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Cooperación internacional",
+                "Prevención social",
+                "Infraestructura sanitaria"
+            ],
+            "postura_politica": "Destaca la implementación de programas de salud pública con Nación y la inversión en refacciones de centros de salud. Abre puertas a la cooperación internacional y se compromete con iniciativas de prevención de consumos problemáticos.",
+            "frase_fuerte": "Con 'Ver para ser libres', junto a Nación, llegamos a cada rincón del Chaco: más de 13.000 chaqueños atendidos y 11.000 anteojos entregados. Este es nuestro norte, la salud más cerca de cada chaqueño!"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Apoyo al campo",
+                "Educación y deporte",
+                "Obras de infraestructura",
+                "Fomento emprendedor"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con el desarrollo productivo, especialmente el sector agroindustrial, a través de financiamiento. Prioriza la inversión en infraestructura educativa y deportiva, y el apoyo a emprendedores como motores de crecimiento y empleo.",
+            "frase_fuerte": "Quiero destacar el valor de animarse a realizar nuevamente una exposición de esta magnitud que merece nuestro acompañamiento. Porque cada empresa que participa, cada productor que invierte, cada máquina que se vende ayudan a sostener el empleo y a mover la economía."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Ciencia y tecnología",
+                "Desarrollo productivo",
+                "Gestión de conocimiento"
+            ],
+            "postura_politica": "Promueve la inversión en innovación y la vinculación entre el ámbito científico-tecnológico y el productivo, buscando transformar el conocimiento en competitividad y empleo para la provincia.",
+            "frase_fuerte": "Junto al secretario general del @CFI_Argentina, @ignalam, firmamos el convenio para implementar el Fondo de Innovación Pampeano, una nueva herramienta que destinará hasta $200 millones para vincular el conocimiento científico y tecnológico con las necesidades concretas de nuestra producción."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Desarrollo infantil",
+                "Salud y educación",
+                "Políticas sociales"
+            ],
+            "postura_politica": "Resalta los buenos indicadores en desarrollo infantil, salud y educación, atribuyéndolos a políticas sostenidas. Muestra compromiso con la continuidad de estas políticas y la búsqueda de mejoras en áreas clave como la primera infancia y la pobreza infantil.",
+            "frase_fuerte": "Mendoza está por encima de la media nacional en las cuatro dimensiones que mide UNICEF: salud, educación, condiciones materiales de vida y protección de derechos."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Comercio local",
+                "Consumo",
+                "Justicia",
+                "Diálogo institucional"
+            ],
+            "postura_politica": "Impulsa programas para fortalecer el comercio local y el consumo. Muestra apertura al diálogo con el poder judicial para una justicia más cercana y eficiente.",
+            "frase_fuerte": "Mantuvimos una reunión con representantes de la Asociación de Magistrados, reafirmando la importancia de generar espacios de diálogo y trabajo institucional."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Recuperación post-desastre",
+                "Desarrollo económico",
+                "Deporte"
+            ],
+            "postura_politica": "Enfocado en la reconstrucción y la gestión de emergencias climáticas. Destaca el crecimiento económico de la provincia, impulsado por las exportaciones, y la inversión en infraestructura y deporte para traducir ese crecimiento en oportunidades locales.",
+            "frase_fuerte": "Cuando crecen las exportaciones, tiene que crecer Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Autonomía en salud",
+                "Seguridad",
+                "Innovación tecnológica",
+                "Desarrollo juvenil",
+                "Deporte"
+            ],
+            "postura_politica": "Promueve una ley de libre elección de obra social. Refuerza la seguridad con operativos antidroga. Celebra el éxito de INVAP como símbolo de soberanía tecnológica y apoya el desarrollo de jóvenes y deportistas rionegrinos.",
+            "frase_fuerte": "50 AÑOS DE INVAP: ORGULLO RIONEGRINO, TECNOLOGÍA ARGENTINA PARA EL MUNDO."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Relación federal",
+                "Reforma política",
+                "Gobernanza"
+            ],
+            "postura_politica": "Mantiene un diálogo activo con el gobierno nacional, expresando apoyo a la reforma política que propone eliminar las PASO. Busca alinear la agenda provincial con la federal para avanzar en temas clave.",
+            "frase_fuerte": "También abordamos la reforma política, sobre la que expresé mi apoyo al proyecto y a la propuesta de eliminar las PASO."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Reclamo federal",
+                "Obras públicas",
+                "Salud",
+                "Vivienda",
+                "Seguridad"
+            ],
+            "postura_politica": "Manifiesta un fuerte rechazo a la quita del subsidio de Zona Fría, comprometiéndose a buscar alternativas para los ciudadanos. Impulsa activamente obras de infraestructura, programas de vivienda y mejoras en el sistema de salud y seguridad.",
+            "frase_fuerte": "Como Gobernador de San Luis RATIFICO mi postura en contra de la Ley sancionada en el día de la fecha y me COMPROMETO ante los Sanluiseños a encontrar mecanismos alternativos para que el impacto de esta quita del subsidio nacional en el bolsillo familiar, sea el menor posible."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Empleo",
+                "Inversión privada",
+                "Desarrollo productivo",
+                "Gestión eficiente"
+            ],
+            "postura_politica": "Se enfoca en la resolución de conflictos laborales y la atracción de inversiones privadas para generar empleo genuino, buscando desmarcarse de políticas pasadas. Prioriza la eficiencia en la administración pública.",
+            "frase_fuerte": "Hay una forma de gobernar que deja que los problemas se acumulen y otra que se involucra para encontrar respuestas. Nosotros elegimos gestionar."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Deporte",
+                "Turismo",
+                "Orgullo provincial"
+            ],
+            "postura_politica": "Celebra el éxito y la participación masiva en los Juegos Suramericanos 2026, destacando la capacidad de la provincia para organizar eventos de gran envergadura y generar orgullo local.",
+            "frase_fuerte": "Santa Fe se mostró como es: pasional, trabajadora y orgullosa de lo suyo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Soberanía nacional",
+                "Memoria histórica",
+                "Política exterior"
+            ],
+            "postura_politica": "Reafirma el reclamo de soberanía sobre las Islas Malvinas mediante la divulgación de documentos históricos provinciales, buscando fortalecer la posición argentina en este tema crucial.",
+            "frase_fuerte": "Un hallazgo documental que fortalece la memoria histórica sobre #Malvinas 🇦🇷"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Servicios públicos",
+                "Cultura e historia",
+                "Diálogo político"
+            ],
+            "postura_politica": "Combina la celebración de eventos históricos y religiosos con el impulso de obras de infraestructura y la mejora de servicios públicos en los municipios. Mantiene un diálogo constante con legisladores para abordar la agenda provincial.",
+            "frase_fuerte": "Cada obra, cada máquina y cada inversión tienen un mismo propósito: mejorar la vida de nuestra gente."
+        }
+    ]
+}
