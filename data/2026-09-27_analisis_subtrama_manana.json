@@ -1,0 +1,151 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Kicillofok refuerza su armado nacional con el Plenario del Movimiento DAF, mientras Figueroa reivindica el esfuerzo neuquino en Vaca Muerta. El resto de los gobernadores se refugia en la gestión local, evitando posicionarse sobre la agenda nacional.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada tiene dos polos de tensión. Por un lado, Axel Kicillofok (Buenos Aires) utiliza el Plenario Federal del Movimiento DAF para lanzar una ofensiva discursiva contra el vaciamiento de derechos que atribuye al gobierno de Milei. Su mensaje no es solo de gestión: es la consolidación de una alternativa federal que busca articular el descontento provincial. Por otro lado, Rolando Figueroa (Neuquén) pone sobre la mesa la asimetría fiscal de Vaca Muerta: Neuquén recibe solo el 13% de cada barril y con eso debe sostener el crecimiento. Es un reclamo que, sin nombrar a la Nación, apunta directamente a la coparticipación y al reparto de recursos estratégicos.\n\nActo 2 — Los Alineamientos: Kicillofok se posiciona como el líder opositor más explícito, mientras Figueroa se ubica en una ambigüedad calculada: no confronta abiertamente pero marca la cancha. Los gobernadores de Córdoba (Llaryora), Santa Fe (Pullaro) y Río Negro (Weretilneck) se mantienen en una zona de gestión productiva y eventos, sin tomar partido. Llaryora inaugura una obra vial histórica; Pullaro cierra con éxito los Juegos Suramericanos; Weretilneck destaca indicadores económicos positivos. Son gestos de autonomía y eficacia que no desafían a la Casa Rosada pero tampoco la acompañan.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Chubut, La Rioja, Misiones, San Luis, Santa Cruz, Tucumán) se refugian en la agenda de cabotaje: aniversarios, entrega de viviendas, ferias culturales. No hay señales de conflicto ni de alineamiento. Es un repliegue estratégico: evitan quemar capital político en un contexto de alta incertidumbre fiscal. La omisión de la macroeconomía en sus tuits es un mensaje en sí mismo: prefieren no exponerse.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada deja una advertencia clara: Kicillofok está tejiendo una red federal que puede capitalizar el malestar de los gobernadores peronistas y de aquellos que sienten el ajuste. Sin embargo, la mayoría de los mandatarios no se suma a la confrontación. El gobierno de Milei aún conserva la iniciativa, pero la grieta fiscal con provincias clave como Neuquén y Buenos Aires se profundiza. El silencio de los gobernadores del Norte Grande (Salta, Jujuy, Catamarca) es llamativo: podría indicar que están negociando en privado o esperando el momento adecuado para presionar.",
+    "temas_calientes": [
+        {
+            "tema": "Kicillofok impulsa el Movimiento DAF como alternativa federal",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Figueroa reivindica el esfuerzo de Neuquén en Vaca Muerta y reclama mayor participación",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Cierre de los Juegos Suramericanos en Santa Fe con balance positivo",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Llaryora inaugura obra vial histórica en Córdoba",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Weretilneck destaca crecimiento de Río Negro y el proyecto VMOS",
+            "gobernadores_involucrados": [
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "No podemos pensar en la salud, en la educación, la cultura o en el desarrollo si nos van vaciando de derechos. Construir un modelo de país con un Estado presente exige debatir sobre estos temas desde las bases. ¡Gracias a todas y todos los que se acercaron a compartir su mirada y sus experiencias en el Plenario Federal del @MOVIMIENTODAF!",
+        "por_que_es_clave": "Kicillofok consolida su liderazgo opositor y teje una red federal para disputar el relato del ajuste nacional, presentándose como el articulador de una alternativa al gobierno de Milei.",
+        "pregunta_openarg": "¿Puede Kicillofok capitalizar el descontento provincial para construir una alternativa electoral viable sin el respaldo explícito de los gobernadores peronistas?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Plenario Federal Movimiento DAF",
+                "derechos sociales",
+                "Estado presente"
+            ],
+            "postura_politica": "Refuerza su armado nacional opositor, marcando distancia con el gobierno de Milei y convocando a las bases para construir un modelo alternativo.",
+            "frase_fuerte": "No podemos pensar en la salud, en la educación, la cultura o en el desarrollo si nos van vaciando de derechos."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "aniversario Lago Blanco",
+                "entrega de viviendas"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en gestión territorial y cumplimiento de promesas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "aniversario Villa María",
+                "inauguración Circunvalación sudeste"
+            ],
+            "postura_politica": "Muestra capacidad de gestión e inversión en infraestructura, reforzando su perfil de gobernador ejecutor sin confrontar con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "fiesta tradicional Huaja",
+                "cooperativa de dulces",
+                "mejoras hospitalarias",
+                "entrega de viviendas"
+            ],
+            "postura_politica": "Gestión local y promoción de la identidad provincial. Sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "aniversario San Vicente",
+                "aniversario Puerto Esperanza"
+            ],
+            "postura_politica": "Agenda protocolar y de celebración local. Sin contenido político federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta crecimiento",
+                "regalías petroleras",
+                "obras viales",
+                "hub de transporte"
+            ],
+            "postura_politica": "Reivindica el esfuerzo neuquino y reclama mayor participación en los recursos de Vaca Muerta, con un tono de queja sutil hacia la Nación.",
+            "frase_fuerte": "De cada barril de petróleo, Neuquén recibe solo el 13% y con esos recursos sostiene el crecimiento que genera Vaca Muerta."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "crecimiento ventas supermercados",
+                "VMOS",
+                "educación técnica",
+                "seguridad"
+            ],
+            "postura_politica": "Destaca indicadores positivos y el proyecto VMOS, alineado con el desarrollo energético, sin confrontar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "viviendas",
+                "fútbol adaptado",
+                "salud"
+            ],
+            "postura_politica": "Gestión local con énfasis en vivienda y deporte inclusivo. Sin posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Día del Turismo",
+                "entrega de viviendas"
+            ],
+            "postura_politica": "Promueve el turismo como motor de desarrollo, pero sin atacar a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "cierre Juegos Suramericanos"
+            ],
+            "postura_politica": "Celebra el éxito del evento deportivo, mostrando capacidad organizativa y proyección internacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Tucumán Danza",
+                "Septiembre Musical"
+            ],
+            "postura_politica": "Agenda cultural local. Sin contenido político.",
+            "frase_fuerte": null
+        }
+    ]
+}
