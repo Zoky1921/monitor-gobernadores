@@ -1,0 +1,156 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo dominada por el lanzamiento del Movimiento DAF de Axel Kicillof, que busca articular una alternativa nacional frente al gobierno de Milei, mientras gobernadores de provincias productivas como Neuquén y Córdoba exhiben obras y reclamos fiscales. La agenda federal se tensa entre la construcción de un polo opositor y la gestión autonómica de los distritos más fuertes.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día es la ofensiva política de Axel Kicillof, quien desde el Movimiento DAF articula un discurso de 'Estado presente' y crítica a las políticas de ajuste nacional, mientras que gobernadores petroleros como Rolando Figueroa reavivan el debate sobre la distribución de regalías de Vaca Muerta. La Casa Rosada enfrenta un doble desafío: contener la escalada de demandas fiscales y desactivar la construcción de una alternativa electoral desde las provincias.\n\nActo 2 — Los Alineamientos: Kicillof se posiciona como el líder de la oposición peronista, con actos de militancia y llamados a la organización federal. En la vereda opuesta, Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro) refuerzan su perfil de gestión propia, mostrando obras viales y acuerdos con inversores, sin mencionar a la Nación. Rolando Figueroa (Neuquén) y Claudio Vidal (Santa Cruz) reclaman mayor participación en los recursos estratégicos, marcando una tensión con el gobierno central por los límites del federalismo fiscal.\n\nActo 3 — La Micro-política: Gobernadores de provincias periféricas como Ignacio Torres (Chubut), Ricardo Quintela (La Rioja) y Hugo Passalacqua (Misiones) se refugian en la agenda de festejos locales, efemérides y anuncios de obras menores, evitando cualquier posicionamiento nacional. Claudio Poggi (San Luis) y Maximiliano Pullaro (Santa Fe) también optan por un perfil bajo, centrado en gestión de viviendas y eventos deportivos, respectivamente.\n\nActo 4 — Saldo Presidencial: La jornada deja a la Casa Rosada con una oposición cada vez más organizada desde el peronismo (Kicillof), pero con provincias clave (Córdoba, Neuquén, Río Negro) que si bien no confrontan abiertamente, consolidan sus propias agendas de poder, erosionando la capacidad del gobierno de Milei de imponer una narrativa única. El silencio de otros gobernadores opositores sugiere una espera estratégica.",
+    "temas_calientes": [
+        {
+            "tema": "Lanzamiento del Movimiento DAF como alternativa nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Reclamo fiscal de Neuquén por regalías de Vaca Muerta",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Inauguración de obra vial histórica en Córdoba (Circunvalación Villa María-Villa Nueva)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Gestión de viviendas y obras en provincias patagónicas",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Festejos y efemérides locales sin impacto federal",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "No podemos pensar en la salud, en la educación, la cultura o en el desarrollo si nos van vaciando de derechos. Construir un modelo de país con un Estado presente exige debatir sobre estos temas desde las bases. \n\n¡Gracias a todas y todos los que se acercaron a compartir su mirada y sus experiencias en el Plenario Federal del @MOVIMIENTODAF!",
+        "por_que_es_clave": "Kicillof utiliza un plenario federal para lanzar su proyecto político nacional, directamente enfrentado al gobierno de Milei, sin mencionarlo explícitamente pero dejando clara su crítica al vaciamiento de derechos.",
+        "pregunta_openarg": "¿Puede Kicillof capitalizar el descontento social y construir una alternativa electoral viable desde las provincias sin caer en la fragmentación peronista?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Movimiento DAF",
+                "Estado presente",
+                "Plenario Federal",
+                "Educación y salud"
+            ],
+            "postura_politica": "Se posiciona como el líder opositor nacional, usando la agenda social y educativa para criticar el ajuste de Milei y articular una alternativa federal. El RT sobre obra en Almirante Brown refuerza su gestión provincial.",
+            "frase_fuerte": "No podemos pensar en la salud, en la educación, la cultura o en el desarrollo si nos van vaciando de derechos."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Aniversario Lago Blanco",
+                "Planta de GLP",
+                "Gas para pueblos"
+            ],
+            "postura_politica": "Agenda de gestión local con anuncios de obras de infraestructura básica, buscando mostrar integración territorial. Sin posicionamiento nacional visible.",
+            "frase_fuerte": "Porque integrar a cada pueblo de nuestra provincia también es hacer realidad esas obras que durante demasiado tiempo parecían imposibles."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Circunvalación Villa María-Villa Nueva",
+                "Aniversario Villa María",
+                "Obras de seguridad y educación"
+            ],
+            "postura_politica": "Muestra una provincia en marcha, con fuerte inversión en infraestructura vial y gestión cotidiana. Evita mención a la Nación, proyectando autonomía y eficiencia.",
+            "frase_fuerte": "Hay que pensar como estadistas: mirar más allá, planificar a largo plazo. Somos el motor productivo de la Argentina."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Jornada en Huaja",
+                "Caudillo Peñaloza",
+                "Tradiciones"
+            ],
+            "postura_politica": "Agenda de revalorización cultural e histórica, sin ningún contenido de gestión o confrontación nacional. Refugio en lo simbólico.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Aniversario San Vicente",
+                "Celebración comunitaria"
+            ],
+            "postura_politica": "Gestión protocolar aislada, con un tuit sobre un aniversario local. Sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "Regalías petroleras",
+                "Obras viales",
+                "Hub de transporte"
+            ],
+            "postura_politica": "Reclama mayor participación en los recursos de Vaca Muerta y muestra obras financiadas con esos fondos. Tensión fiscal con Nación al señalar que Neuquén recibe solo el 13% del barril.",
+            "frase_fuerte": "De cada barril de petróleo, Neuquén recibe solo el 13% y con esos recursos sostiene el crecimiento que genera Vaca Muerta."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Rural de Choele Choel",
+                "Producción ganadera",
+                "Inversiones BID",
+                "Ventas en supermercados",
+                "Combate al narcotráfico"
+            ],
+            "postura_politica": "Muestra una provincia en crecimiento con datos económicos positivos y anuncios de inversión, sin confrontación directa con Nación pero reafirmando su rumbo propio.",
+            "frase_fuerte": "Río Negro tiene agua, tierra, productores y conocimiento. Y tiene una Provincia que tomó la decisión de trabajar junto al sector privado."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Agrupación Gauchos de Güemes",
+                "Tradiciones"
+            ],
+            "postura_politica": "Tuit protocolar sobre una agrupación tradicionalista. Sin contenido de gestión o político nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Saludo dominical"
+            ],
+            "postura_politica": "Tuit genérico de buenos deseos, sin contenido político o de gestión.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Día Internacional del Turismo",
+                "Potencial turístico"
+            ],
+            "postura_politica": "Promoción del turismo provincial como vía de desarrollo, con crítica implícita a la dependencia de recursos estatales. Busca cambiar la matriz económica.",
+            "frase_fuerte": "No podemos resignarnos a una provincia que dependa siempre de lo mismo."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Juegos Suramericanos",
+                "Cierre del evento"
+            ],
+            "postura_politica": "Celebración del éxito de los Juegos Suramericanos, mostrando capacidad organizativa y orgullo provincial. Sin contenido político nacional.",
+            "frase_fuerte": "Santa Fe demostró de qué está hecha."
+        }
+    ]
+}
