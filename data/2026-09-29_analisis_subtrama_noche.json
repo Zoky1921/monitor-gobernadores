@@ -1,0 +1,231 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Kicillof abre el fuego con datos de pobreza y un acto por Malvinas, mientras Entre Ríos firma un acuerdo estratégico con YPF para integrarse a Vaca Muerta. El resto de los gobernadores se repliega en gestión local, evitando confrontar con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada está dominada por la ofensiva de Axel Kicillof (Buenos Aires) contra el presidente Milei. Su retweet de los datos de pobreza del INDEC (32,3%) no es una denuncia técnica, sino un misil político: busca instalar que el ajuste nacional tiene un costo social insoportable y que la Provincia es la víctima principal. La omisión de cualquier mención a la gestión nacional en sus otros posteos (Malvinas, financiamiento municipal) refuerza la estrategia de construir una gobernabilidad paralela desde el principal distrito opositor. \n\nActo 2 — Los Alineamientos: Rogelio Frigerio (Entre Ríos) emerge como el gobernador más activo en la agenda federal, con un acuerdo con YPF que lo posiciona como socio de la explotación de Vaca Muerta, en sintonía con la política energética de Nación. En la vereda opuesta, Kicillof se consolida como el líder de la resistencia peronista. Los gobernadores de provincias centrales como Córdoba (Llaryora) y Santa Fe (Pullaro) se mantienen en una ambigüedad calculada: muestran gestión y evitan pronunciarse sobre la macro, lo que sugiere un repliegue táctico. \n\nActo 3 — La Micro-política: Gobernadores de provincias periféricas como Raúl Jalil (Catamarca), Carlos Sadir (Jujuy) y Gerardo Zamora (Santiago del Estero) se refugian en la agenda de cabotaje: ferias, turismo, obras menores. No hay señales de conflicto con Nación, pero tampoco de apoyo explícito. Es la supervivencia del que no quiere quemar puentes. El silencio de figuras como Alfredo Cornejo (Mendoza) o Claudio Poggi (San Luis) en la ventana de análisis sugiere que evitan posicionarse en un día de alta tensión. \n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es mixta. Por un lado, la ausencia de críticas de la mayoría de los gobernadores es una victoria pírrica: no hay rebelión abierta. Pero el misil de Kicillof, sumado al silencio de los gobernadores del PRO (Macri, Cornejo) que no salieron a defender la gestión, deja al oficialismo sin voceros federales. El acuerdo Frigerio-YPF es un activo, pero no compensa el desgaste que implica tener al gobernador bonaerense marcando la agenda.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontación Kicillof-Milei por datos de pobreza",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Acuerdo YPF-Entre Ríos para integrarse a Vaca Muerta",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Agenda de gestión provincial con foco en industria y educación",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Malvinas y soberanía como herramienta de posicionamiento",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Promoción turística y ferias internacionales",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @Carli_Bianco)",
+        "texto": "El 32,3% de los argentinos son pobres, una suba del 4,1% respecto del segundo semestre del año anterior, mientras que la indigencia alcanza al 7,5% de la población. Es posible, incluso, que estas cifras sean aún mayores, de acuerdo a las estimaciones de especialistas en la materia. El pueblo argentino es la víctima principal del experimento económico que encabeza el presidente Milei.",
+        "por_que_es_clave": "Kicillof utiliza datos oficiales para legitimar su relato de fracaso del ajuste y posicionarse como el defensor de los vulnerables, en una jugada que busca erosionar la base social del oficialismo.",
+        "pregunta_openarg": "¿Puede el kirchnerismo capitalizar el aumento de la pobreza para construir una alternativa electoral creíble, o el desgaste de su propia gestión bonaerense neutraliza el ataque?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Pobreza",
+                "Malvinas",
+                "Movimiento DAF",
+                "Financiamiento municipal"
+            ],
+            "postura_politica": "Ofensiva total contra Milei. Usa la pobreza como ariete y la agenda Malvinas como bandera de soberanía. Su silencio sobre la gestión nacional en los posteos de gestión es una declaración de autonomía.",
+            "frase_fuerte": "El pueblo argentino es la víctima principal del experimento económico que encabeza el presidente Milei."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 25/09, lo que sugiere un repliegue o cálculo de no sumarse a la polémica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Comercio internacional",
+                "Inversiones"
+            ],
+            "postura_politica": "Agenda de promoción económica sin confrontación. Se reúne con el embajador español para abrir mercados, en línea con una gestión pragmática que evita roces con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud",
+                "Aniversario local"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Anuncia cirugías gratuitas y celebra un aniversario, sin referencias a la macro. Refleja un gobernador que prioriza la gestión local sobre el debate nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Educación técnica",
+                "Aniversario local"
+            ],
+            "postura_politica": "Apuesta a la formación para el futuro laboral, con anuncio de escuela tecnológica. Sin mención a Nación, pero con un discurso de desarrollo autónomo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Industria",
+                "Inversiones",
+                "Infraestructura"
+            ],
+            "postura_politica": "Marca perfil de gestión pro-empresa con un nuevo régimen de incentivos. Se posiciona como el motor productivo del país, sin confrontar con Nación pero reafirmando su propio modelo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 24/09, lo que indica una semana de bajo perfil.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "YPF",
+                "Inversiones"
+            ],
+            "postura_politica": "Jugada maestra: firma acuerdo con YPF para integrar a Entre Ríos a la cadena de Vaca Muerta. Se alinea con la política energética nacional y se posiciona como un gobernador que trae inversiones concretas.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@insfran_gildo (Formosa)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 04/09, lo que sugiere un perfil bajo o una estrategia de silencio.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Turismo",
+                "FIT"
+            ],
+            "postura_politica": "Promoción turística en la Feria Internacional. Sin contenido político, se enfoca en la economía regional. Refleja una gestión que busca visibilidad sin meterse en la grieta.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 28/09 pero antes de las 20hs ARG, por lo que no se considera. Silencio que puede interpretarse como prudencia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Homenaje",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Combina un homenaje a un senador fallecido con anuncios de gestión local. Sin confrontación, pero con un tono institucional que evita la polémica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 25/09, lo que sugiere que no quiso sumarse al ruido del día.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Agenda legislativa",
+                "Gestión"
+            ],
+            "postura_politica": "Reunión con referentes políticos para tratar agenda nacional, pero sin declaraciones públicas fuertes. Mantiene un perfil de diálogo institucional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 28/09 pero antes de las 20hs ARG. Silencio que contrasta con la importancia de Vaca Muerta.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 28/09 pero antes de las 20hs ARG. Silencio que puede deberse a estar enfocado en la gestión interna.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 27/09, lo que indica un fin de semana sin novedades.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 25/09, lo que sugiere una semana de bajo perfil.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Capacitación"
+            ],
+            "postura_politica": "Anuncia reunión con operadores del 911, mostrando gestión en seguridad. Sin contenido federal, se enfoca en lo local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 28/09 pero antes de las 20hs ARG. Silencio que puede deberse a la compleja situación fiscal de la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 28/09 pero antes de las 20hs ARG. A pesar de los Juegos Suramericanos, no tuiteó en la ventana.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Turismo",
+                "Sueldos",
+                "Gestión"
+            ],
+            "postura_politica": "Anuncia cronograma de sueldos y bonos, y promociona la nueva terminal de Termas. Gestión pura, sin asomo de conflicto. Se posiciona como un gobernador ordenado y previsible.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 17/09, lo que indica un período de baja actividad en redes.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad reciente en la ventana de análisis. Su último posteo es del 28/09 pero antes de las 20hs ARG. Silencio que puede deberse a estar concentrado en la gestión provincial.",
+            "frase_fuerte": null
+        }
+    ]
+}

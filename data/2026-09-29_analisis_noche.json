@@ -1,0 +1,161 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La agenda federal de las últimas horas presenta un mosaico de prioridades provinciales. Axel Kicillof (Buenos Aires) se destacó con una fuerte crítica a la política económica nacional y su impacto en la pobreza, además de reafirmar la soberanía sobre Malvinas. Otros gobernadores, como Martín Llaryora (Córdoba), impulsaron leyes de incentivo industrial para atraer inversiones y generar empleo, marcando una clara estrategia de autonomía económica. Rogelio Frigerio (Entre Ríos) anunció un acuerdo clave con YPF para el desarrollo de Vaca Muerta. El resto de los mandatarios enfocaron sus comunicaciones en gestión local, infraestructura y servicios públicos, como Leandro Zdero (Chaco), Ricardo Quintela (La Rioja), Hugo Passalacqua (Misiones), Claudio Poggi (San Luis) y Gerardo Zamora (Santiago del Estero).",
+    "analisis_profundo": "La dinámica federal de la jornada se caracteriza por una combinación de gestión provincial activa y posicionamientos políticos divergentes frente al contexto nacional. Axel Kicillof (Buenos Aires) adoptó una postura confrontativa, retuiteando datos de pobreza con una crítica directa al 'experimento económico' del presidente Milei y reafirmando la histórica postura sobre la soberanía de Malvinas. Su llamado a un 'proyecto productivo, soberano y federal' subraya una visión alternativa de país, enfocada en la autonomía y el desarrollo con participación juvenil. Este discurso marca un claro eje de tensión con el gobierno central.\n\nEn contraste, varios gobernadores se concentran en el desarrollo endógeno de sus provincias. Martín Llaryora (Córdoba) presenta un proyecto de ley ambicioso para incentivar inversiones, innovación y empleo, buscando dar certidumbre y simplificar procesos para las empresas, lo que denota una fuerte apuesta a la capacidad productiva provincial. Rogelio Frigerio (Entre Ríos) demuestra pragmatismo al firmar un acuerdo estratégico con YPF para potenciar la cadena de valor de Vaca Muerta en su provincia, con foco en infraestructura y logística. Raúl Jalil (Catamarca) sigue una línea similar, buscando alianzas internacionales y oportunidades de comercio e inversión en sectores estratégicos.\n\nLa gestión de proximidad es un pilar para otros mandatarios. Leandro Zdero (Chaco) resalta campañas de salud gratuitas y obras locales, mientras que Ricardo Quintela (La Rioja) celebra aniversarios departamentales con anuncios de viviendas y mejoras comunitarias. Claudio Poggi (San Luis) se enfoca en el fortalecimiento de la seguridad pública y la capacitación de sus equipos de emergencia. Hugo Passalacqua (Misiones) subraya su compromiso con la agenda legislativa nacional para defender los intereses misioneros. Finalmente, Gerardo Zamora (Santiago del Estero) destaca inauguraciones de infraestructura turística clave y la previsibilidad salarial para los empleados públicos. La jornada refleja una marcada descentralización de la acción política, con provincias buscando soluciones y oportunidades más allá de la coyuntura nacional, aunque sin eludir los debates más amplios.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al Modelo Económico Nacional y Pobreza",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Impulso a la Producción e Inversión Local",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@MartinLlaryora",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Desarrollo Territorial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@NachoTorresCH",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Defensa de Intereses Provinciales y Soberanía",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Seguridad y Gestión Pública",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "CÓRDOBA ES INDUSTRIA. En nuestra provincia defendemos a la industria, que es defender el #empleo y el #desarrollo. Por eso firmé y elevé a la @LegislaturaCBA el nuevo proyecto de ley que crea el Régimen de Incentivo a las Inversiones, la Innovación y el Empleo. La propuesta busca unificar las normas de promoción industrial vigentes, simplificar el acceso a los beneficios y ofrecer reglas claras a las empresas que inviertan en nuestra provincia.",
+        "por_que_es_clave": "Este tweet es clave porque detalla una política provincial proactiva para fomentar la industria y atraer inversiones en un contexto económico nacional complejo. El énfasis en 'reglas claras' y 'simplificar el acceso a los beneficios' resalta la autonomía y la capacidad de gestión de Martín Llaryora (Córdoba) para generar desarrollo y empleo a través de herramientas legislativas propias, marcando un camino de diferenciación y competitividad provincial.",
+        "pregunta_openarg": "¿Cómo pueden otras provincias replicar modelos de incentivo industrial con reglas claras para atraer inversión y generar empleo en un escenario nacional incierto?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica a políticas nacionales",
+                "Desarrollo productivo",
+                "Federalismo",
+                "Soberanía Malvinas",
+                "Derechos jubilatorios"
+            ],
+            "postura_politica": "Muy crítico con el gobierno nacional, lo acusa de políticas que generan pobreza. Defiende un modelo 'productivo, soberano y federal' y los derechos históricos sobre Malvinas. Enfocado en la gestión de derechos sociales a nivel provincial.",
+            "frase_fuerte": "Necesitamos discutir nuevos horizontes con los pibes y pibas como protagonistas, volver a tener un proyecto productivo, soberano y federal para nuestro país."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Comercio exterior",
+                "Inversión",
+                "Minería",
+                "Turismo",
+                "Energías renovables"
+            ],
+            "postura_politica": "Proactiva en la búsqueda de alianzas internacionales y atracción de inversiones para potenciar las economías regionales. Muestra un enfoque en el desarrollo productivo y la diversificación de la matriz económica.",
+            "frase_fuerte": "Destacamos nuestro gran potencial productivo en áreas estratégicas como alimentos de calidad, infraestructura turística, energías renovables y minería."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Salud pública",
+                "Gestión local",
+                "Obras"
+            ],
+            "postura_politica": "Enfocado en la mejora de la calidad de vida a través de políticas sanitarias gratuitas y la ejecución de obras de infraestructura local, buscando celebrar y acompañar el desarrollo de las comunidades.",
+            "frase_fuerte": "Gracias a la campaña “No más cataratas” y al compromiso y dedicación de todo el equipo de salud, llevamos adelante más de 220 cirugías 100% gratuitas para pacientes sin obra social en toda la provincia."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Educación",
+                "Formación laboral",
+                "Tecnología"
+            ],
+            "postura_politica": "Impulsa la modernización educativa con foco en habilidades para el futuro y la tecnología, buscando generar oportunidades laborales y desarrollo provincial.",
+            "frase_fuerte": "La Escuela Tecnológica de la Patagonia Austral, que combina formación de calidad, tecnología de última generación y una propuesta pensada para enseñar las habilidades que demanda el mundo que viene."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Promoción industrial",
+                "Inversión",
+                "Innovación",
+                "Empleo",
+                "Infraestructura productiva"
+            ],
+            "postura_politica": "Lidera una política económica provincial activa, creando un marco legal para incentivar la inversión y la generación de empleo, con reglas claras y fomento a la industria 4.0 y parques industriales.",
+            "frase_fuerte": "En nuestra provincia defendemos a la industria, que es defender el #empleo y el #desarrollo. Por eso firmé y elevé a la @LegislaturaCBA el nuevo proyecto de ley que crea el Régimen de Incentivo a las Inversiones, la Innovación y el Empleo."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Acuerdo con YPF",
+                "Vaca Muerta",
+                "Infraestructura",
+                "Logística",
+                "Economía regional"
+            ],
+            "postura_politica": "Demuestra pragmatismo y búsqueda de cooperación con actores clave (YPF) para integrar a la provincia en grandes proyectos nacionales, enfocándose en la infraestructura y reducción de costos logísticos para potenciar su economía.",
+            "frase_fuerte": "HISTÓRICO ACUERDO CON YPF: ENTRE RÍOS SE SUMA AL DESARROLLO DE VACA MUERTA... firmamos un acuerdo estratégico para potenciar la producción de arenas silíceas y desarrollar infraestructura vial, ferroviaria y fluvial que permita mejorar la logística y reducir costos."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Gestión local",
+                "Vivienda",
+                "Educación",
+                "Deporte"
+            ],
+            "postura_politica": "Centrado en el fortalecimiento de la infraestructura local y el bienestar social de las comunidades. Destaca la entrega de viviendas y el apoyo a la educación y el deporte como pilares del desarrollo.",
+            "frase_fuerte": "¡Qué alegría compartir un nuevo aniversario con el pueblo del Departamento Independencia! Celebramos sus 162 años con buenas noticias y acciones concretas para nuestra comunidad."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Agenda legislativa nacional",
+                "Defensa de intereses provinciales",
+                "Crecimiento regional"
+            ],
+            "postura_politica": "Activo en la articulación con legisladores nacionales para defender los intereses provinciales en la agenda legislativa, priorizando el crecimiento y las necesidades de su gente.",
+            "frase_fuerte": "Encuentro de trabajo con el querido amigo @herrerayflia para repasar la agenda legislativa nacional. Con la defensa de los intereses de nuestra gente como única prioridad, redoblamos esfuerzos por el crecimiento de nuestra provincia y de la ciudad de Posadas."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Capacitación",
+                "Servicios de emergencia"
+            ],
+            "postura_politica": "Prioriza la seguridad a través de la capacitación y el fortalecimiento de los equipos de respuesta a emergencias, buscando mejorar la eficiencia y la vocación de servicio en la gestión pública.",
+            "frase_fuerte": "Mantuve una reunión/taller de trabajo con 180 OPERADORES del 911 y de las Cámaras de Videovigilancia. Son los oídos (llamados telefónicos que reciben) y los ojos (seguimiento de las Cámaras) que ayudan a prevenir y/o a intervenir en cada emergencia..."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Turismo",
+                "Infraestructura",
+                "Administración pública"
+            ],
+            "postura_politica": "Impulsa el desarrollo turístico con grandes obras de infraestructura como la nueva terminal, y se enfoca en la previsibilidad salarial para los empleados públicos, consolidando el turismo como política de Estado.",
+            "frase_fuerte": "Hoy inauguramos la nueva Terminal de Ómnibus de Termas de Río Hondo, una obra pensada para acompañar el crecimiento de esta ciudad y fortalecer su desarrollo."
+        }
+    ]
+}
