@@ -1,0 +1,250 @@
+{
+    "clima_general": "NEUTRO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una intensa agenda internacional centrada en la 'Argentina Week' de París, donde gobernadores como Jalil (Catamarca), Zdero (Chaco), Frigerio (Entre Ríos), Sadir (Jujuy), Cornejo (Mendoza), Figueroa (Neuquén), Sáenz (Salta) y Orrego (San Juan) buscaron atraer inversiones en energía, minería y agroindustria, presentando a sus provincias como destinos estratégicos. Destaca la aprobación de un megaproyecto en Neuquén (Neuquén) bajo el Régimen de Incentivo para Grandes Inversiones (RIGI). A nivel interno, se observó un fuerte enfoque en la gestión de obras de vivienda, seguridad ciudadana y la reafirmación de autonomías provinciales, como el recordatorio histórico de Llaryora (Córdoba) sobre la independencia cordobesa, evidenciando un equilibrio entre la cooperación internacional y la atención a las agendas locales.",
+    "analisis_profundo": "La dinámica federal de la fecha revela un doble frente de acción por parte de los gobernadores. Por un lado, una notable convergencia en la agenda de promoción internacional, con una delegación significativa participando en la 'Argentina Week' en París. Este evento se convirtió en un catalizador para que Catamarca (Raúl Jalil), Chaco (Leandro Zdero), Entre Ríos (Rogelio Frigerio), Jujuy (Carlos Sadir), Mendoza (Alfredo Cornejo), Neuquén (Rolando Figueroa), Salta (Gustavo Sáenz) y San Juan (Marcelo Orrego) presentaran sus recursos estratégicos, especialmente en minería (litio, cobre), hidrocarburos (Vaca Muerta) y energías renovables, buscando atraer capitales y consolidar un rol de proveedores globales. La aprobación del RIGI para un proyecto millonario en Neuquén (Neuquén) es un hito que valida la búsqueda de estabilidad y previsibilidad para grandes inversiones, en sintonía con la política económica nacional. La búsqueda de financiamiento directo para provincias, como el caso de Entre Ríos (Rogelio Frigerio) con la Agencia Francesa para el Desarrollo, denota una proactividad en la gestión de recursos más allá de las transferencias nacionales. Por otro lado, la agenda doméstica muestra un fuerte acento en la gestión local. Obras de infraestructura, vivienda y servicios básicos dominan los mensajes de gobernadores como Kicillof (Buenos Aires), Llaryora (Córdoba), Passalacqua (Misiones), Poggi (San Luis), Pullaro (Santa Fe) y Jaldo (Tucumán). La seguridad sigue siendo una prioridad, con Jorge Macri (CABA) y Pullaro (Santa Fe) abordando el combate al crimen organizado. Un elemento distintivo fue la conmemoración del 'Día de la Independencia Cordobesa' por Llaryora (Córdoba), que, aunque histórica, introduce una potente reafirmación de la autonomía provincial y un mensaje anti-centralista que resuena en el debate federal actual. Esta dualidad, entre la colaboración internacional para el desarrollo económico y la defensa de las identidades y gestiones provinciales, define el panorama de la jornada, que, si bien no presenta conflictos abiertos, sí evidencia la diversidad de intereses y la necesidad de equilibrio entre las agendas nacional y subnacional.",
+    "temas_calientes": [
+        {
+            "tema": "Promoción de Inversiones Extranjeras y Agenda Internacional ('Argentina Week')",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@frigeriorogelio",
+                "@carlossadirjuy",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Desarrollo Energético y Minero (Litio, Hidrocarburos, RIGI)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Gestión de Infraestructura y Vivienda",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Crimen Organizado",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Federalismo y Reafirmación de Autonomías Provinciales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "SE APROBÓ EL RIGI PARA UN PROYECTO ENTRE PLUSPETROL Y GYP. Junto al ministro @LuisCaputoAR y al Country Manager de @PluspetrolARG, Julián Escuder, anunciamos la aprobación del proyecto para desarrollar Bajo del Choique-La Invernada, que contempla una inversión de US$12.400 millones: más de 620 pozos horizontales, cuatro plantas de procesamiento y nueva infraestructura para la evacuación de hidrocarburos. Una vez más, estamos convencidos de que la decisión de implementar el RIGI para el upstream fue un gran acierto para Neuquén y para el país. La inversión permitirá llevar la producción a más de 100.000 barriles diarios y generar más actividad, empleo y oportunidades para los neuquinos. Seguimos generando las condiciones para que la Vaca Muerta crezca y se transforme en desarrollo para los neuquinos.",
+        "por_que_es_clave": "Representa una de las mayores inversiones anunciadas en Vaca Muerta, con la aprobación del Régimen de Incentivo para Grandes Inversiones (RIGI), lo que valida la estrategia económica del gobierno nacional y el alineamiento de Neuquén (Neuquén) con esta política para el desarrollo energético del país.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Gestión social",
+                "Eventos masivos"
+            ],
+            "postura_politica": "Énfasis en la presencia estatal y el acompañamiento a la comunidad en actividades religiosas de gran convocatoria, marcando una agenda de gestión de cercanía con los bonaerenses.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad"
+            ],
+            "postura_politica": "Mantiene una línea dura en seguridad, con una referencia críptica a 'Tormenta Negra' que sugiere operativos o acciones contundentes contra el delito en la capital.",
+            "frase_fuerte": "TORMENTA NEGRA"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Minería",
+                "Inversiones",
+                "RIGI",
+                "Promoción internacional",
+                "Energía",
+                "Educación"
+            ],
+            "postura_politica": "Impulsor clave de la minería y la inversión, alineado con la agenda nacional de atracción de capitales a través del RIGI y la promoción en la 'Argentina Week'. También muestra interés en la formación docente y desarrollo vial.",
+            "frase_fuerte": "Catamarca da un paso muy importante para su desarrollo. La aprobación del ingreso de Agua Rica al RIGI proyecta una inversión de USD 4.000 millones en nuestra provincia."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Energía",
+                "Litio",
+                "Logística",
+                "Inversiones",
+                "Promoción internacional"
+            ],
+            "postura_politica": "Activo promotor de la provincia en mercados internacionales durante la 'Argentina Week', buscando un rol estratégico en la cadena de valor del litio y en inversiones de energía solar para potenciar el Chaco.",
+            "frase_fuerte": "Además queremos que Chaco sea el conector del litio para sacar por nuestros puertos."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Autonomía provincial",
+                "Obras públicas",
+                "Seguridad",
+                "Lucha contra el narcotráfico"
+            ],
+            "postura_politica": "Enarbola la bandera del federalismo histórico cordobés, recordando su 'Independencia' frente al centralismo, mientras muestra una gestión activa en desarrollo urbano (plazas) y combate al narcotráfico con megaoperativos.",
+            "frase_fuerte": "Rechazo al centralismo unitario: Córdoba se opuso tajantemente a la Constitución Unitaria de 1826 que pretendía subordinar las autonomías provinciales al centralismo porteño."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Inversiones",
+                "Financiamiento internacional",
+                "Transición energética",
+                "Agroindustria",
+                "Promoción internacional"
+            ],
+            "postura_politica": "Impulsa la provincia como destino de inversiones con un enfoque en sostenibilidad y agroindustria, buscando activamente apoyo internacional y fortaleciendo el rol facilitador del Estado en la 'Argentina Week'.",
+            "frase_fuerte": "El financiamiento es clave para que las inversiones se concreten. Nuestro rol como Estado es generar las condiciones, facilitar el camino y acercar las herramientas necesarias para que los proyectos avancen."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Promoción internacional",
+                "Inversiones"
+            ],
+            "postura_politica": "Proactivo en la búsqueda de capitales extranjeros durante la 'Argentina Week', enfatizando el 'enorme potencial' y las oportunidades de crecimiento que Jujuy ofrece al mundo para su desarrollo.",
+            "frase_fuerte": "JUJUY TIENE MUCHO PARA MOSTRARLE AL MUNDO 🇦🇷🇫🇷"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Empleo público",
+                "Justicia",
+                "Institucionalidad"
+            ],
+            "postura_politica": "Comprometido con el fortalecimiento de la seguridad provincial a través de la incorporación y capacitación de agentes penitenciarios, y con el soporte institucional de la justicia, destacando la vocación de servicio.",
+            "frase_fuerte": "Desde el Gobierno Provincial siempre tuvimos una decisión clara, seguir formando, capacitando y fortaleciendo nuestras fuerzas de seguridad."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Energía",
+                "Minería",
+                "Inversiones",
+                "Comercio internacional",
+                "Vaca Muerta",
+                "Promoción internacional"
+            ],
+            "postura_politica": "Presenta a Mendoza como un actor clave en la provisión de recursos estratégicos (Vaca Muerta, cobre) y un destino confiable para inversiones internacionales, destacando su preparación para acuerdos comerciales.",
+            "frase_fuerte": "A través de las provincias, estamos mostrando por qué Argentina puede consolidarse como un proveedor confiable de energía y minerales para el mundo."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Cohesión social",
+                "Educación",
+                "Infraestructura energética",
+                "Política fiscal",
+                "Inversión social"
+            ],
+            "postura_politica": "Defensor del diálogo y la unidad social frente a discursos de odio, impulsa una gestión con fuerte inversión pública en energía y una política fiscal con componente social, resaltando la aprobación del presupuesto 2027.",
+            "frase_fuerte": "El tejido social es algo que hay que cuidar. Se desgarra el tejido social y nadie queda ileso."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Energía (Vaca Muerta)",
+                "RIGI",
+                "Inversiones",
+                "Salud",
+                "Vivienda",
+                "Infraestructura",
+                "Promoción internacional"
+            ],
+            "postura_politica": "Lidera la promoción de Neuquén como centro estratégico para inversiones energéticas (Vaca Muerta) con el RIGI, consolidando la seguridad jurídica y fortaleciendo servicios sociales e infraestructura como vivienda y salud pública.",
+            "frase_fuerte": "SE APROBÓ EL RIGI PARA UN PROYECTO ENTRE PLUSPETROL Y GYP (...) Una vez más, estamos convencidos de que la decisión de implementar el RIGI para el upstream fue un gran acierto para Neuquén y para el país."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Minería (litio)",
+                "Inversiones",
+                "Promoción internacional",
+                "Empleo"
+            ],
+            "postura_politica": "Impulsor decidido del desarrollo minero, destacando una inversión multimillonaria en litio y la generación de empleo, aprovechando la 'Argentina Week' para posicionar a Salta como provincia minera.",
+            "frase_fuerte": "Rio Tinto avanza en Salta con una inversión de USD 2.700 millones para el desarrollo de Rincón y una producción proyectada de 50.000 toneladas de litio por año."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Energía",
+                "Minería",
+                "Inversiones",
+                "Promoción internacional"
+            ],
+            "postura_politica": "Activo en la promoción de San Juan como un centro de recursos críticos y energía en la 'Argentina Week' y la Agencia Internacional de Energía, buscando consolidar la provincia como un destino de inversión con previsibilidad.",
+            "frase_fuerte": "Expusimos el potencial de San Juan en la Agencia Internacional de Energía"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Titulación de tierras",
+                "Juventud",
+                "Salud",
+                "Obras públicas"
+            ],
+            "postura_politica": "Enfocado en la gestión social directa, garantizando el acceso a la vivienda y la titulación de propiedades, así como promoviendo hábitos saludables en la juventud y el avance de obras locales.",
+            "frase_fuerte": "Se comienza a concretar el sueño de la casa propia para estas familias. Muy emotivo."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Titulación de tierras",
+                "Turismo",
+                "Conectividad aérea",
+                "Seguridad",
+                "Crimen organizado"
+            ],
+            "postura_politica": "Muestra una gestión activa en desarrollo social con programas de vivienda y en promoción del turismo (vuelo a Madrid), con un fuerte énfasis en la continuidad y firmeza en la lucha contra el crimen organizado.",
+            "frase_fuerte": "Si le levantamos el pie de la cabeza al delito, todo vuelve a ser como antes."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Obras públicas"
+            ],
+            "postura_politica": "Muestra una gestión enfocada en el desarrollo de la infraestructura vial provincial, destacando la mejora de la conectividad y el apoyo a la producción, especialmente en el marco del Día del Camino y del Trabajador Vial.",
+            "frase_fuerte": "Seguiremos impulsando estas acciones para mejorar la conectividad, acompañar la producción y garantizar mejores condiciones de circulación en todo el territorio."
+        }
+    ]
+}
