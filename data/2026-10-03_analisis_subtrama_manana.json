@@ -1,0 +1,98 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada muestra un claro cisma: un grupo de gobernadores (Jorge Macri, Leandro Zdero, Rolando Figueroa, Alberto Weretilneck, Gustavo Sáenz) se alinea en París con Javier Milei para proyectar inversiones, mientras Axel Kicillof desde Buenos Aires fustiga la desregulación del INYM y la política nacional. El resto de los mandatarios no registra actividad relevante en la ventana de análisis, lo que sugiere repliegue o agenda localizada.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada se define por dos vectores opuestos. Por un lado, la comitiva de gobernadores que asiste a la Argentina Week en París, mostrando sintonía con el Presidente y su estrategia de apertura al mundo. Por el otro, Axel Kicillof elige el mismo día para retuitear una crítica directa a la desregulación del INYM, golpeando a la gestión de Milei en un sector sensible como la yerba mate. Este gesto revela la tensión entre el oficialismo nacional y el principal distrito opositor, que no solo denuncia sino que busca capitalizar el descontento productivo.\n\nActo 2 — Los Alineamientos: En París, los gobernadores de CABA, Chaco, Neuquén, Río Negro y Salta despliegan una coreografía de unidad con el Presidente. Cada uno presenta su provincia como destino de inversiones, destacando energía, minería y agroindustria. La ausencia de gobernadores peronistas en esta misión refuerza la polarización. Mientras tanto, Kicillof se erige como el contrapunto, utilizando la yerba mate como símbolo de resistencia al ajuste. El resto de los mandatarios (Corrientes, Entre Ríos, Formosa, etc.) no tienen actividad en la ventana, lo que puede leerse como cálculo de bajo perfil o falta de señales desde Nación.\n\nActo 3 — La Micro-política: Los gobernadores con actividad local (Llaryora, Passalacqua, Poggi, Suárez) se enfocan en gestión de cabotaje: gasoductos virtuales, pavimentación, viviendas y ferias culturales. Estas acciones no interpelan a Nación directamente, pero refuerzan su autonomía y su capacidad de gestión sin el auxilio federal. Son gestos de supervivencia en un contexto de restricción fiscal, donde mostrar obras propias es una forma de marcar territorio sin entrar en conflicto abierto.\n\nActo 4 — Saldo Presidencial: La Casa Rosada cosecha una postal de gobernadores alineados en París, pero la contraofensiva de Kicillof le resta brillo. El riesgo para el Presidente es que la narrativa de inversiones no logre opacar los focos de conflicto interno. La pregunta que queda flotando: ¿puede Milei sostener la ilusión de unidad mientras el principal peronista le disputa el relato desde Buenos Aires?",
+    "temas_calientes": [
+        {
+            "tema": "Argentina Week en París: alineamiento de gobernadores con Milei para atraer inversiones",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Crítica de Kicillof a la desregulación del INYM y defensa de la economía regional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Anuncios de inversiones millonarias en energía y minería (RIGI, litio, GNL)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Gestión local de obras públicas y viviendas como señal de autonomía provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Agenda cultural y turismo como herramienta de identidad local",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @JavoRodriguezL)",
+        "texto": "Hace pocas semanas estuvimos con Axel en Misiones y pudimos ver de primera mano el impacto tremendamente negativo que tiene entre las y los productores yerbateros la desregulación del INYM llevada adelante por Milei.",
+        "por_que_es_clave": "Es el único tweet de la jornada que confronta directamente la política nacional, utilizando la yerba mate como bandera de un modelo alternativo. Kicillof se posiciona como defensor de las economías regionales y opositor al ajuste, en contraste con la comitiva oficialista en París.",
+        "pregunta_openarg": "¿Es la desregulación del INYM una política que beneficia a los productores o una amenaza a las economías regionales?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "crítica a desregulación INYM",
+                "gestión local de infraestructura"
+            ],
+            "postura_politica": "Oposición directa a Milei. Utiliza la yerba mate para golpear la política de desregulación y se muestra cercano a los productores. Su gestión local (estadio) es una marca de autonomía frente al ajuste nacional.",
+            "frase_fuerte": "el impacto tremendamente negativo que tiene entre las y los productores yerbateros la desregulación del INYM llevada adelante por Milei"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Argentina Week París",
+                "inversiones",
+                "gestión local"
+            ],
+            "postura_politica": "Alineamiento total con Milei. Promociona la Ciudad como destino de inversiones y refuerza la imagen de unidad con el Presidente. Su tweet destaca el cambio de rumbo y la apertura al mundo.",
+            "frase_fuerte": "Una muestra al mundo del cambio de rumbo que está llevando adelante la Argentina"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Sin actividad reciente"
+            ],
+            "postura_politica": "No se registraron tuits en la ventana de análisis (03/10/2026 a partir de 20hs ARG del 02/10)",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Argentina Week París",
+                "inversiones en energía solar y litio",
+                "gestión local"
+            ],
+            "postura_politica": "Alineamiento con Milei en París. Ofrece a Chaco como conector logístico del litio y promueve inversiones en energías renovables. Su postura es de cooperación con Nación para atraer capitales.",
+            "frase_fuerte": "queremos que Chaco sea el conector del litio para sacar por nuestros puertos"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Sin actividad reciente"
+            ],
+            "postura_politica": "No se registraron tuits en la ventana de análisis (03/10/2026 a partir de 20hs ARG del 02/10)",
+            "frase_fuerte": null
+        }
+    ]
+}

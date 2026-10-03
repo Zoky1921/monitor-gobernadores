@@ -1,0 +1,159 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La jornada federal muestra una clara dicotomía. Un bloque importante de gobernadores, incluyendo a @LeandroZdero (Chaco), @Rolo_Figueroa (Neuquén), @WeretilneckOK (Río Negro) y @GustavoSaenzOK (Salta), se enfoca en la promoción de sus provincias en el contexto internacional de la 'Argentina Week' en París, buscando inversiones en energía y minería. En contraste, @Kicillofok (Buenos Aires) emite una crítica directa a las políticas de desregulación del gobierno nacional. Otros mandatarios, como @MartinLlaryora (Córdoba), @claudiojpoggi (San Luis) y @passalacquaok (Misiones), destacan avances en infraestructura local, fomento del empleo y equilibrio fiscal. La agenda general prioriza la autonomía y el desarrollo provincial.",
+    "analisis_profundo": "La agenda de los gobernadores en la jornada de hoy revela una estrategia de desarrollo diversificada y con puntos de tensión específicos. Un grupo considerable de mandatarios, compuesto por @LeandroZdero (Chaco), @Rolo_Figueroa (Neuquén), @WeretilneckOK (Río Negro) y @GustavoSaenzOK (Salta), se encuentra activamente involucrado en la 'Argentina Week' en París. Su discurso es consistente en la búsqueda de inversiones extranjeras y la proyección internacional de sus recursos naturales, como Vaca Muerta para Neuquén y Río Negro, y la minería para Salta y Chaco. Este enfoque, aunque pragmático, implica una adhesión a la línea de apertura económica del gobierno nacional.\n\nEn un polo opuesto, el gobernador @Kicillofok (Buenos Aires) re-publica un tweet con una fuerte crítica a la 'desregulación del INYM' por parte del gobierno nacional de Milei, destacando un 'impacto tremendamente negativo' en los productores yerbateros. Esta declaración marca una clara divergencia en la relación Nación-Provincia y subraya la defensa de intereses regionales frente a decisiones macroeconómicas.\n\nEn el ámbito de la gestión interna, @MartinLlaryora (Córdoba) enfatiza el progreso local a través de obras como un gasoducto virtual, mientras que @claudiojpoggi (San Luis) muestra una gestión centrada en la autonomía fiscal, la promoción de la inversión privada mediante nuevas leyes y la entrega de viviendas. @passalacquaok (Misiones) resalta obras de infraestructura urbana. Estos enfoques reflejan la capacidad de las provincias para generar su propia agenda de desarrollo más allá de las dinámicas nacionales. Las iniciativas de @jorgemacri (Ciudad de Buenos Aires) en ciencia y @EliasSuarezSDE (Santiago del Estero) en cultura, aunque valiosas, operan en un carril menos conectado con la dinámica federal de tensiones o alineamientos explícitos. En conjunto, la jornada expone un federalismo activo, con provincias que buscan asegurar su propio crecimiento, ya sea a través de la integración global o la gestión de políticas locales, mientras las discrepancias con el gobierno central en áreas clave persisten.",
+    "temas_calientes": [
+        {
+            "tema": "Atracción de Inversiones Extranjeras y Promoción Exportadora (Argentina Week en París)",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Impacto de Políticas Nacionales en Economías Regionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Desarrollo de Infraestructura y Servicios Públicos Provinciales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Fomento de la Inversión Privada y Empleo Local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Autonomía Fiscal y Gestión Presupuestaria",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @JavoRodriguezL)",
+        "texto": "Hace pocas semanas estuvimos con Axel en Misiones y pudimos ver de primera mano el impacto tremendamente negativo que tiene entre las y los productores yerbateros la desregulación del INYM llevada adelante por Milei.",
+        "por_que_es_clave": "Esta declaración del gobernador (Buenos Aires) critica frontalmente una política de desregulación del gobierno nacional de Milei, señalando un impacto económico negativo directo sobre los productores regionales. Subraya la tensión en la dinámica federal y la defensa de intereses provinciales frente a decisiones centrales.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica a políticas nacionales",
+                "Impacto en economías regionales",
+                "Obras deportivas"
+            ],
+            "postura_politica": "Asume una postura opositora y de defensa de las economías regionales (Buenos Aires) frente a la desregulación del gobierno nacional, resaltando los efectos adversos. Paralelamente, destaca la inversión provincial en infraestructura deportiva.",
+            "frase_fuerte": "el impacto tremendamente negativo que tiene entre las y los productores yerbateros la desregulación del INYM llevada adelante por Milei."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Ciencia",
+                "Innovación",
+                "Salud"
+            ],
+            "postura_politica": "Se enfoca en la promoción de la ciencia y la innovación en el ámbito de la salud (Ciudad de Buenos Aires), compartiendo un logro que resalta el talento y el desarrollo tecnológico sin un matiz político explícito en su tweet de hoy.",
+            "frase_fuerte": "Empezó a estudiar para investigar la enfermedad de su papá y hoy desarrolla un proyecto revolucionario: Mikele Amondarain, la genetista que creó una 'curita' que busca regenerar tejidos."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Atracción de inversiones",
+                "Exportaciones",
+                "Desarrollo del sector privado"
+            ],
+            "postura_politica": "Muestra una postura pro-inversión y pro-exportación, alineándose con la estrategia de apertura internacional al promocionar el potencial del Chaco ante empresarios europeos en París, enfatizando la seguridad jurídica.",
+            "frase_fuerte": "presentamos ante empresarios europeos el potencial exportador del Chaco y las condiciones que estamos generando para atraer nuevas inversiones, con incentivos, seguridad jurídica, previsibilidad y un Estado que acompaña al sector privado"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Servicios públicos",
+                "Desarrollo local",
+                "Vivienda"
+            ],
+            "postura_politica": "Centra su narrativa en la gestión local, la cercanía con la gente de Córdoba y la concreción de obras de infraestructura innovadoras, como un gasoducto virtual. Proyecta una provincia en crecimiento que busca llegar a 'cada rincón' con servicios esenciales.",
+            "frase_fuerte": "EL PROGRESO TIENE QUE LLEGAR A CADA RINCÓN DE CÓRDOBA."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura urbana"
+            ],
+            "postura_politica": "Destaca la gestión de obra pública a nivel municipal en Misiones, específicamente el asfaltado de calles, con el objetivo de mejorar la circulación y el acceso a servicios, demostrando un compromiso con el desarrollo urbano local.",
+            "frase_fuerte": "CHAU EMPEDRADO, HOLA ASFALTO"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Energía",
+                "Vaca Muerta",
+                "Exportaciones",
+                "Integración regional"
+            ],
+            "postura_politica": "Afianza la posición de Neuquén como actor clave en la política energética nacional e internacional, impulsando la exportación de gas de Vaca Muerta a Chile y buscando la integración regional en ese ámbito.",
+            "frase_fuerte": "Vaca Muerta nos abre una enorme oportunidad para construir una verdadera integración energética con Chile y con toda la región."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Inversión extranjera",
+                "Energía GNL",
+                "Gestión ambiental",
+                "Producción agroindustrial",
+                "Vaca Muerta",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Exhibe una activa agenda internacional, destacando el rol protagónico de Río Negro en megaproyectos energéticos (GNL de Vaca Muerta) y la atracción de inversiones para gestión de residuos y promoción agroindustrial. Se posiciona como defensor de los intereses rionegrinos en la arena global y nacional.",
+            "frase_fuerte": "Río Negro está donde tiene que estar: abriendo puertas al mundo y defendiendo su futuro."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Inversiones mineras",
+                "Desarrollo económico",
+                "Seguridad jurídica",
+                "Promoción internacional"
+            ],
+            "postura_politica": "Proyecta a Salta como un destino atractivo para la inversión minera extranjera, enfatizando la previsibilidad y seguridad jurídica. Su participación en la Argentina Week busca consolidar la provincia como un motor de desarrollo.",
+            "frase_fuerte": "SALTA CRECE CUANDO HAY INVERSIÓN Y UN RUMBO CLARO."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Inversión privada",
+                "Presupuesto",
+                "Educación tecnológica",
+                "Emprendedurismo"
+            ],
+            "postura_politica": "Muestra una gestión enfocada en la autonomía fiscal, la promoción de la inversión y el empleo privado a través de normativas específicas en San Luis. Prioriza la solución habitacional y el desarrollo de capital humano en tecnología.",
+            "frase_fuerte": "Hoy firmé el Decreto de Promulgación de la 'LEY DE PRESUPUESTO AÑO 2027'. Equilibrio fiscal , cero endeudamiento. Bien."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Cultura",
+                "Educación",
+                "Identidad provincial"
+            ],
+            "postura_politica": "Pone en valor la cultura y la educación como pilares de la identidad provincial de Santiago del Estero, destacando la participación de talentos locales en eventos como la Feria del Libro y el fomento de expresiones artísticas.",
+            "frase_fuerte": "Ver crecer a nuestros niños a través de la música y la cultura nos llena de orgullo y pone en valor nuestra identidad."
+        }
+    ]
+}
