@@ -1,0 +1,155 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de los gobernadores en la última jornada ha estado marcada por una clara dicotomía: la intensa búsqueda de inversiones extranjeras y la activa gestión provincial, contrastada con una abierta crítica a las políticas del Gobierno nacional. Líderes como Leandro Zdero (Chaco) y Alberto Weretilneck (Río Negro) aprovecharon la 'Argentina Week' en París para proyectar el potencial productivo de sus provincias. En paralelo, se destacaron acciones de gobierno local en infraestructura, vivienda y programas sociales. Sin embargo, Osvaldo Jaldo (Tucumán) introdujo una fuerte tensión al cuestionar el 'ajuste' del Gobierno central, posicionándose en defensa del federalismo y los derechos de los ciudadanos de su provincia. La jornada evidencia una descentralización estratégica de la gestión provincial y una creciente polarización con la Nación.",
+    "analisis_profundo": "La actividad de los gobernadores provinciales hoy, 4 de octubre de 2026, y en las últimas horas de ayer, revela un panorama estratégico diverso y con puntos de fricción. Una tendencia predominante es la focalización en la atracción de inversiones extranjeras directas, particularmente evidente en la participación de varios mandatarios en la 'Argentina Week' en París. Leandro Zdero (Chaco) destacó la exposición del potencial chaqueño en producción, energía e industria, buscando 'que el mundo mire al Chaco y elija invertir'. Alberto Weretilneck (Río Negro) fue aún más allá al celebrar la confirmación de una inversión de US$51.000 millones para el proyecto Argentina LNG, que posicionará a su provincia como un hub de exportación de gas de Vaca Muerta, enfatizando la importancia de que 'los rionegrinos tienen que estar adentro'. Estos movimientos reflejan una búsqueda activa de financiamiento y mercados internacionales ante un escenario nacional complejo. \n\nParalelamente, la gestión interna y social sigue siendo un pilar fundamental. Axel Kicillof (Buenos Aires) se concentró en la coordinación de operativos de asistencia para la peregrinación a Luján, destacando el despliegue del 'Estado bonaerense'. Claudio Poggi (San Luis) reportó avances significativos en programas de vivienda, la promulgación de la Ley de Presupuesto 2027 con 'equilibrio fiscal y cero endeudamiento', y la implementación de una diplomatura en Inteligencia Artificial para docentes. Rolando Figueroa (Neuquén) resaltó la inversión en infraestructura y desarrollo social como resultado de los recursos de Vaca Muerta. Hugo Passalacqua (Misiones) y Martín Llaryora (Córdoba) se abocaron a celebraciones locales, reforzando el vínculo con la comunidad. \n\nEl punto de mayor tensión política provino de Osvaldo Jaldo (Tucumán), quien de manera explícita criticó el 'ajuste del Gobierno nacional' y afirmó su compromiso de 'defender el federalismo y los derechos de los tucumanos'. Esta declaración marca un contrapunto directo con la narrativa de integración nacional que el Ejecutivo central busca proyectar, sugiriendo una relación tensa entre su provincia y la Nación. Maximiliano Pullaro (Santa Fe) se centró en agradecer a los voluntarios de los Juegos Suramericanos, mostrando la capacidad de gestión y organización provincial. En conjunto, la jornada muestra provincias que, si bien buscan oportunidades en el exterior y atienden su gestión interna, no dudan en marcar distancia y oposición a ciertas políticas del gobierno central, evidenciando un tablero federal con tensiones crecientes.",
+    "temas_calientes": [
+        {
+            "tema": "Promoción de Inversiones Extranjeras y Desarrollo Exportador",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Infraestructura, Vivienda y Obra Pública",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@Rolo_Figueroa",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Gestión Social, Salud y Asistencia Comunitaria",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@WeretilneckOK",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Federalismo y Crítica a Políticas Nacionales",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Educación y Desarrollo Tecnológico",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@WeretilneckOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@OsvaldoJaldo",
+        "texto": "Frente al ajuste del Gobierno nacional y a las dificultades que atraviesan los trabajadores, los jubilados y las universidades, vamos a defender el federalismo y los derechos de los tucumanos. Sabemos el esfuerzo que hacen las familias para llegar a fin de mes. Por eso, sostenemos una gestión con un Estado que cuide y dé respuestas concretas en cada municipio y comuna.",
+        "por_que_es_clave": "El gobernador de Tucumán (Tucumán) expresa una crítica directa y frontal al 'ajuste del Gobierno nacional', defendiendo el federalismo y los derechos provinciales. Esto marca una clara tensión y postura conflictiva con la administración central.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Gestión social",
+                "Asistencia en eventos masivos",
+                "Rol del Estado"
+            ],
+            "postura_politica": "El gobernador de Buenos Aires (Buenos Aires) se enfoca en la presencia y el rol del Estado provincial en la provisión de servicios y apoyo a la comunidad, destacando operativos interministeriales y la dedicación de los trabajadores bonaerenses.",
+            "frase_fuerte": "Cada uno de los más de 2.700.000 fieles que peregrinaron a Luján estuvo cuidado y acompañado por las y los trabajadores del Estado bonaerense. ¡Gracias por su compromiso y dedicación!"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Celebraciones locales",
+                "Comunidad",
+                "Desarrollo local"
+            ],
+            "postura_politica": "El gobernador de Córdoba (Córdoba) prioriza la cercanía con los municipios y la participación en eventos que fortalecen la identidad local, mostrando una gestión enfocada en el arraigo y la comunidad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Vivienda",
+                "Desarrollo social",
+                "Recursos energéticos (Vaca Muerta)"
+            ],
+            "postura_politica": "El gobernador de Neuquén (Neuquén) destaca la inversión en infraestructura y programas sociales, conectándolos directamente con la administración eficiente de los recursos provinciales, incluyendo los derivados de Vaca Muerta, para mejorar la calidad de vida.",
+            "frase_fuerte": "La inversión histórica en infraestructura nos permite transformar los recursos de Vaca Muerta en obras que sostienen el crecimiento y mejoran la vida de los neuquinos."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Crítica al gobierno nacional",
+                "Gestión local",
+                "Salud",
+                "Infraestructura",
+                "Celebraciones religiosas"
+            ],
+            "postura_politica": "El gobernador de Tucumán (Tucumán) asume un rol de defensa de los intereses provinciales frente a las políticas de ajuste nacional, al tiempo que refuerza la gestión local a través de obras y servicios en distintas comunidades, destacando la importancia de la fe y la identidad.",
+            "frase_fuerte": "Frente al ajuste del Gobierno nacional y a las dificultades que atraviesan los trabajadores, los jubilados y las universidades, vamos a defender el federalismo y los derechos de los tucumanos."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Legislación económica",
+                "Presupuesto",
+                "Educación",
+                "Empleo",
+                "Innovación"
+            ],
+            "postura_politica": "El gobernador de San Luis (San Luis) impulsa políticas habitacionales y de fomento a la inversión privada para la generación de empleo, manteniendo un estricto control fiscal y una apuesta por la innovación educativa a través de diplomaturas en Inteligencia Artificial.",
+            "frase_fuerte": "Hoy firmé el Decreto de Promulgación de la 'LEY DE PRESUPUESTO AÑO 2027'. Equilibrio fiscal , cero endeudamiento. Bien."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Celebraciones locales",
+                "Identidad provincial"
+            ],
+            "postura_politica": "El gobernador de Misiones (Misiones) enfatiza el valor de las celebraciones locales como pilares de la identidad y el trabajo comunitario, promoviendo el orgullo por la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Promoción internacional",
+                "Inversiones",
+                "Exportaciones",
+                "Salud pública"
+            ],
+            "postura_politica": "El gobernador de Chaco (Chaco) se enfoca en posicionar la provincia en el escenario internacional para atraer inversiones y potenciar la exportación, complementando esta estrategia con programas de atención a la salud básica de los chaqueños.",
+            "frase_fuerte": "Queremos que el mundo mire al Chaco y elija invertir, producir y crecer, con reglas claras y previsibilidad. Ese es nuestro norte."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Deporte",
+                "Voluntariado",
+                "Eventos provinciales"
+            ],
+            "postura_politica": "El gobernador de Santa Fe (Santa Fe) destaca la capacidad organizativa de la provincia y el compromiso de su gente en la realización de grandes eventos deportivos, proyectando una imagen de eficiencia y comunidad, reconociendo el rol de los voluntarios.",
+            "frase_fuerte": "Sin los voluntarios estos Juegos no hubieran tenido el éxito que tuvieron."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Inversiones energéticas",
+                "Vaca Muerta",
+                "Gestión ambiental",
+                "Salud",
+                "Educación",
+                "Infraestructura",
+                "Identidad provincial",
+                "Comercio internacional"
+            ],
+            "postura_politica": "El gobernador de Río Negro (Río Negro) posiciona a su provincia como un actor clave en la agenda energética nacional e internacional, priorizando grandes inversiones como el proyecto Argentina LNG y la exportación de Vaca Muerta. A la vez, mantiene un fuerte foco en programas sociales, mejora de servicios públicos y promoción de la identidad local y la gestión ambiental.",
+            "frase_fuerte": "Río Negro tiene un lugar central en esta nueva Argentina energética. En nuestra provincia se exportará el petróleo de Vaca Muerta al mundo, se desarrollan los grandes proyectos de GNL y estamos construyendo una nueva plataforma industrial, logística y exportadora sobre nuestra costa."
+        }
+    ]
+}
