@@ -1,0 +1,206 @@
+{
+    "clima_general": "POSITIVO",
+    "resumen_ejecutivo": "La jornada federal de hoy estuvo marcada por una intensa agenda de gestión provincial, con gobernadores enfocados en consolidar inversiones, promover la obra pública y fortalecer el desarrollo local. Destacan los avances en el sector del litio en Catamarca (Raúl Jalil), la expansión de infraestructura y conectividad en Córdoba (Martín Llaryora) y Río Negro (Alberto Weretilneck), y la búsqueda activa de oportunidades de comercio exterior en Santa Fe (Maximiliano Pullaro) y CABA (Jorge Macri). La vivienda social, la salud pública y la educación tecnológica también fueron ejes clave, reflejando un enfoque proactivo de las provincias para generar empleo y bienestar, con un tono general de cooperación y desarrollo interno.",
+    "analisis_profundo": "La agenda de los gobernadores este 5 de octubre de 2026 se centró en la concreción de proyectos de desarrollo provincial y la búsqueda de oportunidades de inversión. Raúl Jalil (Catamarca) anunció un hito en la provincia con la puesta en marcha y expansión de cuatro grandes proyectos de litio, destacando la importancia del Régimen de Incentivo a las Grandes Inversiones (RIGI) para atraer capitales y generar empleo local. En una sintonía similar, Maximiliano Pullaro (Santa Fe) se reunió con el embajador de la Unión Europea para explorar el acuerdo Mercosur-UE, buscando ampliar la capacidad exportadora de su provincia.\n\nMartín Llaryora (Córdoba) evidenció un fuerte compromiso con la infraestructura rural, destinando 30 millones de pesos a cada consorcio caminero y celebrando el reconocimiento internacional de su programa de conectividad educativa. Leandro Zdero (Chaco) también enfatizó la importancia de la infraestructura vial para la conectividad y el desarrollo, mientras Hugo Passalacqua (Misiones) detalló el avance de obras viales locales. Rolando Figueroa (Neuquén) reportó sobre el modelo neuquino de inversión en infraestructura social y educativa, destacando la transformación de recursos de Vaca Muerta en obras concretas.\n\nEn cuanto a la gestión urbana y la seguridad, Jorge Macri (Ciudad Autónoma de Buenos Aires) continuó con su narrativa de 'ley y orden' al celebrar los dos años sin manteros en Once y reafirmar la cooperación estratégica con Estados Unidos. Por otro lado, Axel Kicillof (Buenos Aires) se enfocó en la defensa del territorio y la soberanía, además de continuar con la gestión de viviendas. Alfredo Cornejo (Mendoza) también subrayó la entrega de viviendas y la inversión en infraestructura vial. Claudio Poggi (San Luis) mostró preocupación por el medio ambiente con un proyecto de prevención de incendios forestales y entregó viviendas.\n\nLa salud pública también tuvo su espacio, con Llaryora (Córdoba) destacando una cirugía inédita. Ricardo Quintela (La Rioja) apoyó la participación de estudiantes en congresos internacionales de ciencia, vinculando la educación con los recursos naturales. Claudio Vidal (Santa Cruz) hizo énfasis en la cercanía del Estado al acercar servicios a los barrios. Finalmente, Osvaldo Jaldo (Tucumán) respaldó a emprendedores locales con microcréditos provinciales ante la falta de financiamiento nacional. La jornada refleja un federalismo activo y pragmático, con las provincias buscando soluciones autónomas y diversificando sus economías.",
+    "temas_calientes": [
+        {
+            "tema": "Inversión y Desarrollo Minero (Litio)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Conectividad Provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Vivienda Social y Acceso a la Vivienda",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@alfredocornejo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Promoción de Exportaciones e Inversiones Extranjeras",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Soberanía y Defensa Territorial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@RaulJalil_ok",
+        "texto": "Este mes Catamarca dará un paso histórico: cuatro grandes proyectos de litio inaugurarán nuevas plantas y ampliaciones productivas en nuestra provincia. POSCO pondrá en marcha la Planta N° 2 de Sal de Oro; Río Tinto iniciará la nueva planta de Sal de Vida y la expansión de Fénix 1B; y Galan Lithium inaugurará su planta en Hombre Muerto Oeste. Este presente es resultado de años de trabajo entre el Estado, las empresas y las comunidades, y de generar condiciones para que las inversiones lleguen y se consoliden. Hoy, con herramientas como el RIGI, Catamarca atrae proyectos de escala mundial que fortalecen nuestro lugar en la transición energética. Lo más importante es lo que este crecimiento deja en nuestra tierra: más empleo para los catamarqueños, más oportunidades para nuestros proveedores, mayores exportaciones y regalías, y más recursos para transformar el desarrollo minero en infraestructura y mejores condiciones de vida en toda la provincia.",
+        "por_que_es_clave": "Anuncia inversiones concretas y de gran escala en un sector estratégico como el litio, destacando el impacto en empleo, proveedores y desarrollo provincial, en un marco de articulación público-privada y con referencia al RIGI, lo que lo vuelve de gran relevancia federal y económica.",
+        "pregunta_openarg": "¿Cómo equilibrará Catamarca la aceleración de la extracción de litio con la sostenibilidad ambiental y los beneficios equitativos para las comunidades locales, especialmente bajo el paraguas del RIGI?",
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Soberanía",
+                "Defensa territorial",
+                "Vivienda social"
+            ],
+            "postura_politica": "Reafirma la defensa de la soberanía nacional sobre el territorio y los recursos, mostrando apoyo a comunicados de organizaciones sociales. Continúa con una fuerte agenda de gestión territorial, priorizando la vivienda social como política pública.",
+            "frase_fuerte": "Por la defensa de nuestro territorio y el cuidado de nuestra soberanía"
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad urbana",
+                "Orden público",
+                "Cooperación internacional",
+                "Espacio público"
+            ],
+            "postura_politica": "Refuerza su discurso de 'Ley y Orden' en la recuperación del espacio público, particularmente en la zona de Once. Paralelamente, destaca la consolidación de vínculos estratégicos con Estados Unidos para futuras cooperaciones e inversiones, marcando una agenda de proyección internacional para la ciudad.",
+            "frase_fuerte": "Dos años sin manteros en Once. Algunos decían que al mes iban a volver. Se equivocaron. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Minería (Litio)",
+                "Inversión extranjera",
+                "Infraestructura vial",
+                "Desarrollo económico",
+                "RIGI"
+            ],
+            "postura_politica": "Anuncia un hito histórico para la provincia con la inauguración y expansión de importantes proyectos de litio. Atribuye el éxito de estas inversiones a la articulación público-privada y a herramientas como el RIGI, destacando el impacto positivo en el empleo y la economía local. También resalta la inversión en infraestructura vial como eje de integración provincial.",
+            "frase_fuerte": "Este mes Catamarca dará un paso histórico: cuatro grandes proyectos de litio inaugurarán nuevas plantas y ampliaciones productivas en nuestra provincia."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Producción",
+                "Cannabis medicinal",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Promueve activamente la mejora de la infraestructura vial como motor de desarrollo y conectividad para las comunidades. Destaca la capacidad exportadora provincial y la búsqueda de inversiones en sectores innovadores como el cannabis medicinal, posicionando al Chaco en mercados globales.",
+            "frase_fuerte": "Caminos que conectan comunidades, producción, salud y educación para hacer crecer al Chaco. En este Día del Camino y de quienes los construyen, avanzamos con #hechos."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación",
+                "Tecnología",
+                "Infraestructura rural",
+                "Salud pública",
+                "Modelo asociativo"
+            ],
+            "postura_politica": "Celebra un importante reconocimiento internacional para su programa de conectividad educativa, que lleva internet satelital a escuelas rurales. Anuncia una significativa inversión en consorcios camineros, consolidando el modelo de cooperación público-privada. También destaca hitos en la salud pública provincial.",
+            "frase_fuerte": "El programa #PuentesDigitales, que lleva conectividad satelital a nuestras escuelas rurales, de alta montaña y de geografías complejas, recibió la Distinción Iberoamericana de Innovación Pública 2026"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Educación",
+                "Ciencia",
+                "Innovación",
+                "Recursos naturales"
+            ],
+            "postura_politica": "Expresa orgullo por la participación de estudiantes riojanos en un congreso internacional de ciencia. Fomenta la investigación y el conocimiento aplicado a recursos naturales locales, vinculando la educación con soluciones concretas para la comunidad.",
+            "frase_fuerte": "Me llena de orgullo recibir a las y los estudiantes que van a representar a La Rioja en San Luis, en el Congreso Internacional de la Enseñanza de la Matemática y la Ciencia, con su proyecto 'Del conocimiento al aula: Geología en clave STEAM'."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Continúa con la política de vivienda social, entregando nuevas unidades y asegurando la sostenibilidad de los programas de acceso a la vivienda. Reafirma la importancia de la infraestructura vial para el desarrollo, destacando su compromiso con las obras en el Día del Camino y del Trabajador Vial.",
+            "frase_fuerte": "Entregar las llaves de una casa siempre es un momento especial. Detrás de cada una hay una familia que esperó, se esforzó y hoy empieza una nueva etapa."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Se enfoca en la gestión de obra pública local, con la construcción de un nuevo puente que mejora la conectividad entre barrios y el acceso a servicios. Reconoce y agradece el trabajo de Vialidad Misiones en el mantenimiento de la red caminera provincial.",
+            "frase_fuerte": "Recorrimos la obra del nuevo puente sobre el arroyo Tuichá, que va a unir los barrios Villa Ruff y Villa Cristen."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura social",
+                "Vivienda",
+                "Desarrollo urbano",
+                "Educación",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Prioriza la creación de espacios deportivos y educativos para jóvenes, así como la mejora de la infraestructura urbana en la capital. Subraya la administración eficiente de los recursos provenientes de Vaca Muerta para financiar obras que impactan en el crecimiento y la calidad de vida de los neuquinos.",
+            "frase_fuerte": "La inversión histórica en infraestructura nos permite transformar los recursos de Vaca Muerta en obras que sostienen el crecimiento y mejoran la vida de los neuquinos."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Desarrollo agropecuario",
+                "Infraestructura hídrica",
+                "Emprendedores rurales",
+                "Inversión pública"
+            ],
+            "postura_politica": "Impulsa el desarrollo del campo rionegrino con un ambicioso plan para sumar hectáreas bajo riego y apoyar a las nuevas generaciones de productores. Destaca grandes inversiones en infraestructura hídrica para garantizar el abastecimiento de agua en ciudades clave. Reafirma su compromiso con el desarrollo productivo y el trabajo local.",
+            "frase_fuerte": "10.000 HECTÁREAS MÁS BAJO RIEGO: EL PRÓXIMO DESAFÍO PRODUCTIVO DE RÍO NEGRO"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Gestión de servicios",
+                "Accesibilidad",
+                "Cercanía estatal"
+            ],
+            "postura_politica": "Enfatiza un cambio en la forma de gestionar, priorizando la descentralización y el acercamiento de los servicios provinciales a los barrios. Busca mejorar la eficiencia y la accesibilidad del Estado para la ciudadanía, prometiendo una gestión más resolutiva y menos burocrática.",
+            "frase_fuerte": "Estamos cambiando una forma de hacer las cosas que obligaba a la gente a perder tiempo, trasladarse y acomodar su vida para resolver un trámite."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Emprendedurismo",
+                "Microcréditos",
+                "Desarrollo social"
+            ],
+            "postura_politica": "Demuestra un fuerte respaldo a emprendedores locales a través de la entrega de herramientas y microcréditos con fondos 100% provinciales, enfatizando la importancia de sostener estos programas ante la falta de financiamiento nacional. Destaca la reinversión de recursos para beneficiar a más familias y el impacto social de la gestión.",
+            "frase_fuerte": "Ante la falta de financiamiento nacional, sostenemos estos programas con fondos 100% provinciales."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Comercio exterior",
+                "Integración regional",
+                "Exportaciones",
+                "Pymes"
+            ],
+            "postura_politica": "Busca activamente oportunidades en el mercado europeo a través del acuerdo Mercosur-UE, posicionando a Santa Fe como una provincia preparada para la competencia global y destacando su potencial exportador. Se enfoca en la apertura de nuevos mercados y el impulso a las pymes provinciales.",
+            "frase_fuerte": "Recibí al embajador de la Unión Europea en #Argentina, Erik Høeg, para analizar las oportunidades que el acuerdo Mercosur-UE abre para Santa Fe."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Vivienda social",
+                "Medio ambiente",
+                "Prevención de incendios"
+            ],
+            "postura_politica": "Se enfoca en la entrega de viviendas y la mejora de espacios públicos como ejes de gestión local. Demuestra preocupación por la protección del bosque nativo y la gestión ambiental, trabajando en proyectos de prevención de incendios forestales con universidades y organismos internacionales. También resalta la coordinación entre el gobierno provincial y los municipios.",
+            "frase_fuerte": "La UNIVERSIDAD NACIONAL DEL COMECHINGONES nos presentó el informe final del 'Proyecto de Prevención de Incendios Forestales para las Sierras Centrales de San Luis (faldeo oeste)' que en los próximos días elevará a la FAO (Naciones Unidas) para el financiamiento del Proyecto por parte de esta última Entidad."
+        }
+    ]
+}
