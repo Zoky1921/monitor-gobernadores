@@ -1,0 +1,201 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal de hoy se caracteriza por una marcada actividad de gestión provincial y un clima de tensión con el gobierno nacional. Gobernadores como Axel Kicillof (Buenos Aires), Claudio Vidal (Santa Cruz) y Rolando Figueroa (Neuquén) lanzaron críticas explícitas a la administración central o gestiones pasadas, enfatizando el rol del Estado frente a la desinversión nacional y la construcción de infraestructura. En contraste, se observa un fuerte impulso al desarrollo productivo y la inversión en minería en Catamarca y Mendoza. La seguridad fue una prioridad para Jorge Macri (Ciudad Autónoma de Buenos Aires), mientras Martín Llaryora (Córdoba) destacó obras de infraestructura y apoyo a la producción local. Gustavo Valdés (Corrientes) se enfocó en reformas partidarias, reflejando una diversidad de agendas provinciales en un contexto de fricción federal.",
+    "analisis_profundo": "La agenda política federal de hoy exhibe una clara bifurcación entre la gestión proactiva de las provincias y una creciente confrontación con el gobierno nacional. Axel Kicillof (Buenos Aires) se posiciona como un defensor acérrimo del Estado, criticando el 'abandono' y los intentos de 'destruirlo' por parte de 'algunos sectores' (en clara alusión al gobierno central), mientras destaca la entrega de viviendas y obras de educación y salud en Carlos Casares. Esta narrativa refuerza la importancia del rol provincial en la provisión de derechos básicos ante la retracción nacional.\n\nEn la misma línea de crítica, Claudio Vidal (Santa Cruz) ataca directamente al 'kirchnerismo' por el abandono de obras esenciales como la planta de tratamiento de aguas residuales en Las Heras, prometiendo concretar lo que las gestiones anteriores 'nunca hicieron'. Su discurso se centra en la responsabilidad de su administración para generar obras y oportunidades en contraste con un pasado de promesas incumplidas. Rolando Figueroa (Neuquén) también se suma a esta dinámica, destacando el rol del Estado en la educación con el Plan Pehuén y permitiendo un retuit crítico sobre el 'costo fiscal del RIGI', lo que sugiere una preocupación por el impacto de las políticas nacionales en las finanzas provinciales.\n\nPor otro lado, la inversión y el desarrollo económico son temas centrales para otros gobernadores. Raúl Jalil (Catamarca) celebra un 'acuerdo histórico de cooperación con Salta' para impulsar la minería del litio, enfatizando la seguridad jurídica y las oportunidades de empleo local, un mensaje claramente enfocado en atraer capitales y fomentar la producción. Similarmente, Alfredo Cornejo (Mendoza) destaca la creación de un nuevo distrito minero y el avance hacia una 'minería responsable' para atraer inversiones y generar empleo, demostrando un compromiso con la expansión de la matriz productiva provincial. La agenda económica también es fuerte en Córdoba, donde Martín Llaryora (Córdoba) resalta las obras de infraestructura que generan empleo y la entrega de premios a la producción, buscando visibilizar y estimular la actividad industrial y comercial local.\n\nEn el ámbito de la seguridad, Jorge Macri (Ciudad Autónoma de Buenos Aires) impulsa medidas de 'Ley y orden', proponiendo bajar la edad de imputabilidad y endurecer el código contravencional, reflejando una postura de mano dura ante el delito. Sergio Ziliotto (La Pampa) se enfoca en la defensa del 'valor del trabajo' y la 'eficiencia del Estado', mientras que Ricardo Quintela (La Rioja) apela a la fe en la consagración de la policía, buscando fortalecer los lazos entre la institución y la comunidad. Finalmente, Gustavo Valdés (Corrientes) concentra su actividad en la reforma de la carta orgánica de la UCR provincial, indicando una atención hacia la institucionalidad partidaria interna. La jornada muestra un federalismo activo en gestión, pero con claras diferencias y críticas hacia la política nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica y Defensa del Rol del Estado",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@Rolo_Figueroa",
+                "@ZiliottoSergio",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Impulso a la Minería y Desarrollo Productivo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@carlossadirjuy",
+                "@alfredocornejo",
+                "@MartinLlaryora",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Educación e Infraestructura Social",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@alfredocornejo",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento Institucional y Gobernanza Provincial",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Si fuera cierto que el Estado no sirve, como dicen algunos sectores, las familias de Carlos Casares no podrían acceder a las más de 560 escrituras y viviendas que entregamos hoy. Cada vez que insistan con la idea de destruirlo hay que recordar que el Estado es el instrumento para mejorar la calidad de vida donde el mercado no llega y por eso tenemos que defenderlo.",
+        "por_que_es_clave": "El tweet del gobernador de Buenos Aires, Axel Kicillof, es clave por su contundente defensa del rol del Estado en la provisión de derechos y servicios esenciales, como viviendas. Esta postura se interpreta como una crítica directa a las políticas de reducción del gasto público y desregulación impulsadas por la administración nacional, marcando una clara división ideológica en el debate federal sobre el modelo de país.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Rol del Estado",
+                "Infraestructura social",
+                "Salud",
+                "Educación"
+            ],
+            "postura_politica": "Defiende activamente el rol del Estado en la provisión de derechos y servicios esenciales, resaltando las inversiones provinciales en vivienda, educación y salud. Critica la visión de achicamiento estatal del gobierno nacional y las 'ideas de destruirlo'.",
+            "frase_fuerte": "Cada vez que insistan con la idea de destruirlo hay que recordar que el Estado es el instrumento para mejorar la calidad de vida donde el mercado no llega y por eso tenemos que defenderlo."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia"
+            ],
+            "postura_politica": "Impulsa una agenda de 'Ley y orden' con medidas concretas para endurecer las penas y bajar la edad de imputabilidad. Su objetivo es reforzar la autoridad estatal y la responsabilidad individual frente al delito en la ciudad.",
+            "frase_fuerte": "Desde los 14 años, el que rompe la ley tiene que hacerse cargo."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Minería",
+                "Inversión",
+                "Cooperación interprovincial",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Promueve la inversión minera, especialmente en litio, destacando la importancia de la seguridad jurídica y la colaboración con provincias vecinas para generar empleo y desarrollo en el Norte Grande. Reafirma la apuesta por la minería como motor económico.",
+            "frase_fuerte": "Con reglas claras garantizamos que la inversión minera se traduzca en trabajo para nuestras comunidades, más oportunidades para los proveedores locales y desarrollo para todo el Norte Grande."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Empleo",
+                "Desarrollo Productivo",
+                "Educación"
+            ],
+            "postura_politica": "Enfocado en la gestión y el crecimiento económico a través de obras de infraestructura que generan empleo y el apoyo a la producción local, la industria y las PYMES. También invierte en educación superior y celebra el progreso de las comunidades locales.",
+            "frase_fuerte": "Gobernar es generar trabajo y está claro que no es posible sin el empuje de los emprendedores."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Reforma política interna",
+                "Transparencia partidaria",
+                "Fortalecimiento institucional"
+            ],
+            "postura_politica": "Lidera un proceso de modernización y fortalecimiento institucional de la Unión Cívica Radical (UCR) a nivel provincial. Busca mayor transparencia y participación interna dentro de su partido con reformas de la Carta Orgánica y nuevas herramientas digitales.",
+            "frase_fuerte": "Con estas decisiones, actualizamos las reglas y herramientas de la @UCRCorrientesok y reforzamos nuestro compromiso con un partido más moderno y cercano."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Minería",
+                "Inversión extranjera",
+                "Empleo",
+                "Litio"
+            ],
+            "postura_politica": "Apuesta por la minería, particularmente el litio, como motor de desarrollo y generación de empleo. Busca fortalecer los vínculos con organismos internacionales y atraer inversiones de la Unión Europea para proyectar Jujuy al mundo.",
+            "frase_fuerte": "MÁS MINERÍA ES MÁS TRABAJO PARA JUJUY."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Rol del Estado",
+                "Trabajo",
+                "Conectividad",
+                "Desarrollo"
+            ],
+            "postura_politica": "Reivindica el trabajo como ordenador social y defiende un Estado eficiente que articule con el sector privado para el desarrollo. Destaca la inversión provincial en conectividad y la importancia de la participación sindical.",
+            "frase_fuerte": "El valor del trabajo como el mayor ordenador social, el que construye familias y ciudadanía."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Instituciones",
+                "Fe",
+                "Servicio público"
+            ],
+            "postura_politica": "Busca fortalecer la institución policial a través de actos simbólicos que vinculan la fe con el servicio público. Se enfoca en el compromiso, la humanidad y la vocación de servicio en la tarea de seguridad, buscando la unión con la comunidad.",
+            "frase_fuerte": "Que la Virgen del Rosario los proteja, los guíe y les dé fortaleza para afrontar cada desafío, siempre con compromiso, humanidad y vocación de servicio."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Minería responsable",
+                "Vivienda",
+                "Seguridad jurídica",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Impulsa el desarrollo de la minería con un enfoque de 'responsabilidad' y control ambiental para atraer inversiones y generar empleo. Paralelamente, garantiza la seguridad jurídica de la propiedad y facilita el acceso a la vivienda.",
+            "frase_fuerte": "Decidimos impulsar la minería y avanzamos con hechos. Seguimos dando pasos para atraer inversiones y generar producción y empleo, con una minería responsable."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Justicia",
+                "Niñez",
+                "Salud",
+                "Reconocimiento federal"
+            ],
+            "postura_politica": "Celebra el reconocimiento a programas provinciales innovadores de protección de la niñez (CEMOAS) en el ámbito judicial. Reafirma el compromiso con la salud y el bienestar de los menores, destacando el orgullo provincial por estos logros.",
+            "frase_fuerte": "Fue un honor recibir el Premio Quórum 2026 al Mejor Proyecto Judicial impulsado por las Provincias por los Centros Modelo de Asistencia y Seguimiento de Niños, Niñas y Adolescentes (CEMOAS), de manos de mi colega, el gobernador de Santiago del Estero, Elias Suarez, junto al ministro @mgmisiones."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Educación",
+                "Rol del Estado",
+                "Inversión",
+                "Empleo",
+                "Crítica a políticas nacionales",
+                "Deporte"
+            ],
+            "postura_politica": "Defensor del rol activo del Estado para 'igualar las líneas de partida' en educación y generar oportunidades mediante inversión en parques industriales y beneficios fiscales. Se muestra crítico de posibles costos fiscales de políticas nacionales como el RIGI, promoviendo el desarrollo local.",
+            "frase_fuerte": "El Estado debe estar presente para garantizar oportunidades, para que nadie pueda ponerle la pata encima a otro y para que cada chico pueda construir su futuro."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Energía",
+                "Asistencia social",
+                "Provisión de servicios",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Enfocado en la cercanía del Estado para proveer servicios esenciales, como la distribución de garrafas, especialmente en zonas vulnerables. Promueve el desarrollo productivo local y el acompañamiento a las empresas para generar empleo.",
+            "frase_fuerte": "Sabemos que falta, pero tenemos rumbo: estar cerca y dar respuestas donde más se necesitan."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura",
+                "Crítica a gestiones pasadas"
+            ],
+            "postura_politica": "Enfatiza la concreción de obras educativas postergadas por 'años de kirchnerismo', marcando una ruptura con el pasado y priorizando la inversión en infraestructura. Su discurso subraya la capacidad de su gestión para 'hacer realidad' lo prometido por otros.",
+            "frase_fuerte": "Donde antes hubo anuncios, hoy hay una escuela que se levanta y un futuro que empieza a tomar forma."
+        }
+    ]
+}
