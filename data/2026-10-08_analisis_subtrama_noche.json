@@ -1,0 +1,197 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Kicillof acusa al gobierno nacional de desfinanciar la educación bonaerense y reaviva la grieta fiscal, mientras Macri apuesta a la mano dura en CABA. El resto de los gobernadores se refugia en agendas locales o en la defensa del peronismo histórico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada encuentra a Axel Kicillof (Buenos Aires) disparando contra la Casa Rosada con un tuit que denuncia el desfinanciamiento educativo por parte del Gobierno Nacional. No es un lamento inocente: es la construcción de una plataforma de campaña a partir del abandono prometido. El gobernador bonaerense busca retratarse como el único que resiste el ajuste de Milei, apelando a un símbolo fundacional (150 años de educación pública) para legitimar su gestión y marcar el terreno de una disputa federal que él mismo quiere capitalizar.\n\nActo 2 — Los Alineamientos: Del otro lado, Jorge Macri (CABA) se alinea con la narrativa de orden y seguridad que impulsa el presidente. Su anuncio de un nuevo Código Contravencional, con penas más duras y baja de imputabilidad, es un guiño al electorado de centroderecha y una jugada para diferenciarse del peronismo. Alfredo Cornejo (Mendoza) también se suma a la agenda de seguridad con un régimen penal juvenil, mostrando que la 'mano dura' es una marca registrada del oficialismo provincial. En las antípodas, Sergio Ziliotto (La Pampa) reivindica la figura de Perón y el 17 de Octubre, mientras Claudio Vidal (Santa Cruz) aprovecha para cargar contra el kirchnerismo por obras no realizadas, mostrando que la grieta también cruza a los propios.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas optan por el repliegue en la agenda local. Raúl Jalil (Catamarca) inaugura una feria del libro; Hugo Passalacqua (Misiones) entrega un polideportivo; Carlos Sadir (Jujuy) defiende la minería. Son gestos de supervivencia política: sin caja nacional, se refugian en la gestión visible para no quedar atrapados en el fuego cruzado. Gustavo Valdés (Corrientes) y Gustavo Sáenz (Salta) se limitan a cuestiones partidarias o simbólicas (bandera provincial), señalando que prefieren no mojarse en la tormenta nacional.\n\nActo 4 — Saldo Presidencial: El balance para Milei es mixto. Si bien logró que varios gobernadores (Macri, Cornejo, Vidal) sigan su línea de 'orden' y 'responsabilidad fiscal', Kicillof logró instalar que el conflicto educativo es la nueva frontera de la disputa. La Casa Rosada no puede ignorar que la provincia más grande del país se posiciona como la resistencia organizada. El resto del tablero está en pausa: los gobernadores del interior esperan la reglamentación del RIGI y las partidas de coparticipación para decidir si se pliegan o no al relato de la resistencia.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto educativo entre PBA y Nación",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad y mano dura (CABA y Mendoza)",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Reivindicación peronista y memoria",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Gestión local con obras visibles",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Minería y litio como desarrollo provincial",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@RaulJalil_ok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Hace 150 años la provincia de Buenos Aires estableció a la educación pública y gratuita como uno de sus principios fundamentales. Hoy ese sistema educativo está siendo atacado por un Gobierno Nacional que lo desfinancia, no cumple con las leyes y no le devuelve los fondos a las provincias para fortalecerlo.",
+        "por_que_es_clave": "Kicillof instala el eje de campaña: el ajuste nacional contra la educación pública. Al quejarse de la falta de fondos, se posiciona como defensor de derechos y marca territorio para la elección presidencial.",
+        "pregunta_openarg": "¿Cuánto de cierto hay en que el Gobierno Nacional desfinancia la educación bonaerense en comparación con la media histórica?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "educación pública",
+                "conflicto con Nación",
+                "desfinanciamiento",
+                "cooperación internacional con China"
+            ],
+            "postura_politica": "Ataca al gobierno nacional por desfinanciar la educación, mientras muestra gestión internacional con China. Busca armar su candidatura sobre el 'abandono' de Milei.",
+            "frase_fuerte": "Hoy ese sistema educativo está siendo atacado por un Gobierno Nacional que lo desfinancia, no cumple con las leyes y no le devuelve los fondos a las provincias"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "código contravencional",
+                "baja de imputabilidad",
+                "mano dura",
+                "7 de octubre"
+            ],
+            "postura_politica": "Se alinea con la agenda de orden de Milei y se desmarca del peronismo. El nuevo Código Contravencional es un gesto hacia el electorado de derecha.",
+            "frase_fuerte": "En la Ciudad, el orden se respeta."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "cultura",
+                "feria del libro",
+                "identidad catamarqueña"
+            ],
+            "postura_politica": "Agenda local de gestión cultural sin impacto federal. Se refugia en lo propio para no quedar expuesto al conflicto nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "conflicto con municipio de Córdoba",
+                "orden público",
+                "obras",
+                "producción",
+                "educación"
+            ],
+            "postura_politica": "Marca su autoridad frente al conflicto gremial municipal y defiende el modelo cordobés de producción, pero sin confrontar directamente con Nación.",
+            "frase_fuerte": "Los cordobeses tienen que tener la certeza de que mi compromiso con el orden es irrenunciable."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "UCR",
+                "reforma de carta orgánica",
+                "participación partidaria"
+            ],
+            "postura_politica": "Agenda interna partidaria, sin mención a Nación. Busca fortalecer su estructura política en un año electoral.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "minería",
+                "litio",
+                "oportunidades laborales"
+            ],
+            "postura_politica": "Promociona la minería como fuente de empleo. Se alinea tácitamente con el RIGI y la política minera nacional sin mencionarla.",
+            "frase_fuerte": "MINERÍA QUE GENERA TRABAJO Y OPORTUNIDADES PARA LOS JUJEÑOS"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "peronismo",
+                "17 de Octubre",
+                "derechos laborales",
+                "Evita"
+            ],
+            "postura_politica": "Reivindica la tradición peronista como respuesta al ajuste de Milei. Se posiciona como defensor de derechos en la vereda de enfrente.",
+            "frase_fuerte": "Los derechos conquistados se defienden."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "seguridad",
+                "régimen penal juvenil",
+                "baja de imputabilidad"
+            ],
+            "postura_politica": "Se suma a la ola de mano dura provincial, en línea con las señales de Nación. Busca posicionarse como gestor eficiente en seguridad.",
+            "frase_fuerte": "En Mendoza, la edad no puede ser sinónimo de impunidad."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "obra pública",
+                "polideportivo",
+                "comunidad"
+            ],
+            "postura_politica": "Gestión local sin roce nacional. Inaugura espacios comunitarios para marcar presencia y tapar la escasez de fondos nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "servicios públicos",
+                "obras",
+                "Vaca Muerta",
+                "educación",
+                "desarrollo económico"
+            ],
+            "postura_politica": "Muestra resultados de gestión en servicios y Vaca Muerta, con un discurso de redistribución y eficiencia. Sin conflicto directo con Nación.",
+            "frase_fuerte": "Con el 1,5% de la población, generamos más del 5,1% del PBI y somos la tercera provincia más exportadora."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "bandera provincial",
+                "identidad salteña"
+            ],
+            "postura_politica": "Efeméride local sin contenido político. Se mantiene al margen del debate nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "agradecimiento",
+                "evento no especificado"
+            ],
+            "postura_politica": "Tuit críptico de agradecimiento, sin contexto. No se puede inferir postura.",
+            "frase_fuerte": "Gracias, gracias, gracias !"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "represas",
+                "obras postergadas",
+                "kirchnerismo",
+                "educación",
+                "petróleo"
+            ],
+            "postura_politica": "Aprovecha para criticar al kirchnerismo por obras no hechas, alineándose con la narrativa de gestión de Milei. Promete transparencia y avance.",
+            "frase_fuerte": "EL KIRCHNERISMO TUVO DECADAS PARA HACER LAS OBRAS QUE SANTA CRUZ NECESITABA Y NO PASÓ. NOSOTROS LAS ESTAMOS HACIENDO."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "viviendas",
+                "entrega de llaves"
+            ],
+            "postura_politica": "Gestión local de viviendas, sin contenido nacional. Busca mostrar cumplimiento en un contexto de ajuste.",
+            "frase_fuerte": null
+        }
+    ]
+}

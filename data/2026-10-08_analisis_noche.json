@@ -1,0 +1,221 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal actual se define por una marcada polarización y defensa de agendas provinciales que frecuentemente colisionan con el Gobierno Nacional o la oposición. Gobernadores como Axel Kicillof (Buenos Aires) y Sergio Ziliotto (La Pampa) expresan fuerte disconformidad con políticas nacionales, especialmente en educación y defensa de derechos. Jorge Macri (CABA) y Alfredo Cornejo (Mendoza) consolidan una agenda de 'mano dura' en seguridad y justicia. Claudio Vidal (Santa Cruz) intensifica sus críticas al kirchnerismo, mientras Rolando Figueroa (Neuquén) y otros mandatarios priorizan la gestión local, infraestructura y desarrollo productivo. Aunque existen puntos de colaboración en servicios esenciales, la proliferación de discursos confrontativos y la demarcación de posturas políticas definen un clima político tenso a nivel nacional.",
+    "analisis_profundo": "La dinámica federal en Argentina se presenta hoy como un tablero de estrategias provinciales diversas, con claras confrontaciones y enfoques pragmáticos en la gestión local. La tensión con el Gobierno Nacional constituye un eje central, evidenciado por Axel Kicillof (Buenos Aires), quien acusó directamente de desfinanciamiento y no cumplimiento de leyes en materia educativa, exigiendo la devolución de fondos. En una línea similar, Sergio Ziliotto (La Pampa) conmemoró el natalicio de Perón con un llamado a la defensa de los derechos en un 'contexto nacional que nos golpea', insinuando futuras movilizaciones. Estos posicionamientos marcan una clara divergencia en la relación Nación-provincias y el rol del Estado en el bienestar social.\n\nSimultáneamente, la agenda de seguridad se fortalece con una marcada impronta de 'mano dura' en la Ciudad de Buenos Aires y Mendoza. Jorge Macri (CABA) reforzó su discurso de orden público mediante una serie de retweets que respaldan un nuevo Código Contravencional, enfatizando la lucha contra la 'impunidad', los 'delincuentes' y cuestionando a 'jueces garantistas', incluyendo menciones a 'juezas kirchneristas', lo que presagia un agudo debate político-judicial. Por su parte, Alfredo Cornejo (Mendoza) concretó esta orientación al promulgar un Régimen Penal Juvenil que busca mayor severidad y consecuencias para los adolescentes infractores, estableciendo una política provincial de seguridad con impacto social y legal.\n\nEn el ámbito de la gestión provincial, Claudio Vidal (Santa Cruz) adoptó una postura fuertemente crítica hacia la administración kirchnerista, atribuyéndole 'décadas de destrucción' y contrastando su gestión con avances en obras y salarios docentes. Su exigencia de priorizar el empleo local en las represas a través de la Ley 90/10 subraya una política de defensa de los intereses provinciales frente a los proyectos nacionales. Otros gobernadores, como Rolando Figueroa (Neuquén), se enfocan en la expansión de servicios esenciales e infraestructura, destacando la fortaleza económica de su provincia y la importancia de la redistribución. Raúl Jalil (Catamarca) y Carlos Sadir (Jujuy) continúan promoviendo la minería como motor de desarrollo y empleo, mientras Ignacio Torres (Chubut) insiste en la equidad territorial y el acceso a servicios básicos.\n\nAunque las tensiones políticas son evidentes, la coordinación interjurisdiccional no se detiene, como lo demuestra el trabajo de Alberto Weretilneck (Río Negro) con el Gobierno Nacional en iniciativas como el Tren 9 de Julio para acercar servicios. Sin embargo, el tono general de los mensajes, la confrontación ideológica y los reclamos por competencias y recursos dibujan un panorama de alta conflictividad y un reacomodamiento constante en la dinámica política federal.",
+    "temas_calientes": [
+        {
+            "tema": "Tensión Federal y Rol del Estado en Educación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Seguridad y Justicia Penal (Mano Dura)",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Minero y Empleo Provincial",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Gestión de Obras y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Crítica Política y Defensa de la Gestión Provincial",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@alfredocornejo",
+        "texto": "En Mendoza, la edad no puede ser sinónimo de impunidad. Hoy promulgamos el nuevo Régimen Penal Juvenil, una herramienta que permite a la Justicia actuar con mayor claridad frente a los adolescentes que cometen delitos, con responsabilidad, consecuencias y reinserción. Cuidar a los mendocinos también es dejar en claro que delinquir tiene consecuencias.",
+        "por_que_es_clave": "Este tweet marca un hito político al anunciar la promulgación de una ley provincial clave en materia de seguridad y justicia juvenil. Refleja una postura firme y concreta sobre la criminalidad, en sintonía con un discurso de 'mano dura' que tiene fuerte resonancia en la opinión pública y podría influir en debates nacionales sobre la imputabilidad y el tratamiento de delitos cometidos por menores.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Educación Pública",
+                "Federalismo",
+                "Relaciones Internacionales",
+                "Gestión Local"
+            ],
+            "postura_politica": "Adopta una postura fuertemente crítica hacia el Gobierno Nacional por el desfinanciamiento de la educación pública y la retención de fondos, defendiendo la soberanía provincial. Paralelamente, impulsa alianzas económicas internacionales, como con China, para el desarrollo provincial.",
+            "frase_fuerte": "Hoy ese sistema educativo está siendo atacado por un Gobierno Nacional que lo desfinancia, no cumple con las leyes y no le devuelve los fondos a las provincias para fortalecerlo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia",
+                "Orden Público",
+                "Gestión de Gobierno"
+            ],
+            "postura_politica": "Sostiene una agenda de 'Ley y Orden', promoviendo medidas que endurecen las penas y combaten la impunidad, incluso con críticas a la justicia. Anuncia una designación clave en su gabinete como parte de esta visión.",
+            "frase_fuerte": "Sin orden no hay libertad. Los porteños no podemos seguir siendo rehenes de la impunidad de los 'vivos' de siempre, de los delincuentes, ni de los jueces garantistas que siempre encuentran excusas para proteger a los delincuentes."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Cultura",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "Se enfoca en la promoción de la cultura provincial como un pilar para el encuentro familiar y el desarrollo de los hacedores locales, a través de eventos como la Feria del Libro y el Ponchito.",
+            "frase_fuerte": "El Predio Ferial reúne dos de las expresiones más valiosas de la identidad catamarqueña: la 18º Feria Provincial del Libro y el Ponchito."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Desarrollo Local",
+                "Infraestructura",
+                "Vivienda",
+                "Servicios Básicos"
+            ],
+            "postura_politica": "Prioriza la equidad territorial, buscando que todos los pueblos de Chubut crezcan con dignidad y las mismas oportunidades. Su gestión se centra en la mejora de la calidad de vida a través de la entrega de viviendas y el acceso a servicios básicos como el gas.",
+            "frase_fuerte": "en Chubut no hay localidades más importantes que otras; todos los pueblos tienen que poder crecer con la misma dignidad y las mismas oportunidades."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Orden Público",
+                "Conflicto Gremial",
+                "Política Local"
+            ],
+            "postura_politica": "Defiende el orden público ante medidas de fuerza gremiales que considera 'extorsivas', garantizando la seguridad ciudadana con la intervención policial. Mantiene una postura crítica frente a la oposición local, señalando incoherencias en sus argumentos.",
+            "frase_fuerte": "No podemos permitir que un grupo de empleados municipales recurra a la extorsión y ponga en riesgo a la población para alcanzar sus objetivos."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Política Partidaria",
+                "Institucionalidad"
+            ],
+            "postura_politica": "Se dedica al fortalecimiento institucional y la modernización de su partido (UCR Corrientes), mediante la reforma de la Carta Orgánica y la implementación de herramientas digitales para una mayor participación interna y transparencia.",
+            "frase_fuerte": "Presentamos la nueva app de la UCR, una nueva forma de conectarnos con los comités, compartir ideas y proyectos, participar en foros, votaciones y acercarnos a los dirigentes."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Minería",
+                "Empleo",
+                "Oportunidades"
+            ],
+            "postura_politica": "Reafirma su compromiso con el desarrollo de la minería, destacándola como una fuente clave de empleo y oportunidades para las familias jujeñas, y como motor de la economía provincial.",
+            "frase_fuerte": "MINERÍA QUE GENERA TRABAJO Y OPORTUNIDADES PARA LOS JUJEÑOS"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Peronismo",
+                "Defensa de Derechos",
+                "Contexto Nacional"
+            ],
+            "postura_politica": "Reivindica el legado de Juan Domingo Perón, enfocándose en la defensa de los derechos del pueblo pampeano. Convoca a la movilización el 17 de Octubre, articulando la defensa de conquistas con la respuesta a un 'contexto nacional que nos golpea'.",
+            "frase_fuerte": "Defender a nuestro pueblo y sus derechos es continuar una historia de lealtad con La Pampa."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia",
+                "Régimen Penal Juvenil"
+            ],
+            "postura_politica": "Impulsa una agenda de seguridad de 'mano dura' en la provincia, concretada con la promulgación de un nuevo régimen penal juvenil. Su postura es clara: delinquir tiene consecuencias y la edad no debe ser sinónimo de impunidad.",
+            "frase_fuerte": "En Mendoza, la edad no puede ser sinónimo de impunidad. Hoy promulgamos el nuevo Régimen Penal Juvenil..."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Infraestructura Local",
+                "Gestión Municipal",
+                "Prevención Climática"
+            ],
+            "postura_politica": "Se concentra en la gestión de obras de infraestructura local, como polideportivos, para fortalecer la comunidad. Mantiene un diálogo constante con los intendentes para atender las necesidades y promueve la preparación ante fenómenos climáticos como El Niño.",
+            "frase_fuerte": "CONSTRUIMOS COMUNIDAD. En Puerto Piray tiene un nuevo espacio para encontrarse, compartir y crecer juntos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Servicios Públicos",
+                "Infraestructura",
+                "Economía",
+                "Redistribución"
+            ],
+            "postura_politica": "Activo en la mejora y expansión de servicios esenciales e infraestructura en la capital y la Comarca Petrolera. Promueve un modelo económico que redistribuya la riqueza generada por la provincia, destacando a Neuquén como una provincia exportadora que construye una 'sociedad diferente'.",
+            "frase_fuerte": "SERVICIOS AL 100% DE LAS FAMILIAS DE NEUQUÉN CAPITAL. Junto a @MarianoGaidoOk lanzamos Integra Neuquén, un programa que Provincia y Municipio vamos a llevar adelante en equipo para llegar con luz, agua, gas y cloacas a toda la ciudad en 24 meses."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Gestión Pública",
+                "Servicios",
+                "Salud",
+                "Empleo",
+                "Coordinación Inter-jurisdiccional"
+            ],
+            "postura_politica": "Enfocado en la gestión y coordinación inter-jurisdiccional, destacando la importancia de Nación, Provincia y municipios trabajando juntos para brindar soluciones concretas a los ciudadanos en salud, trámites y empleo.",
+            "frase_fuerte": "Esto es lo que queremos: Nación, Provincia y municipios trabajando juntos cuando hay una solución concreta para la gente."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Cultura",
+                "Identidad Provincial"
+            ],
+            "postura_politica": "Se alinea con la celebración de símbolos provinciales y fechas significativas, enfatizando el amor por la tierra salteña como elemento unificador de su identidad.",
+            "frase_fuerte": "El símbolo que reúne el amor por nuestra tierra y nos une e identifica a todos los salteños."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [],
+            "postura_politica": "No se encuentran publicaciones de relevancia política o con un mensaje contundente dentro del filtro temporal establecido para analizar su postura.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obras Públicas",
+                "Empleo",
+                "Crítica Política",
+                "Minería/Energía"
+            ],
+            "postura_politica": "Articula una fuerte crítica hacia la administración kirchnerista por el abandono de obras, contrastando con el progreso de su gestión. Prioriza el empleo local en proyectos de infraestructura como las represas y la inversión en obras públicas esenciales.",
+            "frase_fuerte": "EL KIRCHNERISMO TUVO DECADAS PARA HACER LAS OBRAS QUE SANTA CRUZ NECESITABA Y NO PASÓ. NOSOTROS LAS ESTAMOS HACIENDO."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Deporte",
+                "Orgullo Provincial"
+            ],
+            "postura_politica": "Enfatiza el valor del deporte como fuente de orgullo provincial, reconociendo el esfuerzo de los atletas y promoviendo la imagen de Santa Fe como 'capital nacional del deporte'.",
+            "frase_fuerte": "En Santa Fe nuestros deportistas son uno de nuestros mayores orgullos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Vivienda",
+                "Gestión Social"
+            ],
+            "postura_politica": "Centrado en la gestión de programas de vivienda, como la entrega de llaves a familias, para mejorar la calidad de vida y el desarrollo social en la provincia.",
+            "frase_fuerte": "20 familias de #Mansupa recibieron la llave de su vivienda propia 🔑"
+        }
+    ]
+}
