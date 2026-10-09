@@ -1,0 +1,193 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal estuvo marcada por una fuerte afirmación de la autonomía provincial frente a la gestión nacional y la priorización de la seguridad y el desarrollo local. Gobernadores como Jorge Macri (CABA) y Maximiliano Pullaro (Santa Fe) destacaron avances en seguridad. Gustavo Sáenz (Salta) desafió al Gobierno Nacional al anunciar inversión provincial en una ruta nacional 'deuda'. Otros mandatarios, como Alfredo Cornejo (Mendoza) y Claudio Vidal (Santa Cruz), enfatizaron la atracción de inversiones energéticas. La jornada también incluyó la promoción de la cultura, educación y desarrollo comunitario, reflejando una gestión enfocada en resolver necesidades directas de los ciudadanos. El clima político se perfila tenso, con claras expresiones de independencia jurisdiccional y demandas insatisfechas.",
+    "analisis_profundo": "La dinámica federal actual se observa con una marcada diversificación de agendas entre los gobernadores, pero con un hilo conductor de asertividad provincial y foco en la gestión local ante las percepciones de inacción o conflicto con el Gobierno Nacional. La 'Ley y Orden' y la seguridad ciudadana emergen como temas prioritarios, tal como lo demuestra Jorge Macri (CABA) con el cierre de la Cárcel de Devoto y su insistencia en una postura de mano dura, que se replica en la distinción de policías por parte de Maximiliano Pullaro (Santa Fe) en un contexto de violencia. Esta priorización de la seguridad, incluso en el ámbito municipal como en el caso de Claudio Poggi (San Luis) con las 'Alarmas Ciudadanas', denota una necesidad palpable de las administraciones locales de brindar respuestas directas a la ciudadanía.\n\nEn el plano económico, la atracción de inversiones y el desarrollo productivo se mantienen como pilares. Alfredo Cornejo (Mendoza) capitaliza la inversión de YPF en Vaca Muerta, con un guiño al Régimen de Incentivo a las Grandes Inversiones (RIGI), mostrando cómo las provincias buscan apalancar sus recursos estratégicos. De manera similar, Claudio Vidal (Santa Cruz) se enfoca en la recuperación petrolera, buscando inversión extranjera para yacimientos maduros. Estas acciones subrayan el rol activo de las provincias en la búsqueda de soluciones económicas más allá de la órbita nacional.\n\nLa tensión con el Gobierno Nacional se hizo explícita en las declaraciones de Gustavo Sáenz (Salta), quien anunció la pavimentación de una Ruta Nacional con fondos provinciales, calificándolo como una 'deuda que Nación mantiene'. Este acto de soberanía económica subraya una fricción en la distribución de responsabilidades y recursos federales, y se suma a su reclamo por la rehabilitación del Belgrano Cargas. El gobernador de Córdoba (Córdoba), Martín Llaryora, también mostró una postura firme al defender el orden público frente a conflictos gremiales internos, lo que, aunque local, se inscribe en un discurso de autoridad y control.\n\nFinalmente, la agenda se complementa con iniciativas culturales y educativas, como la Feria Provincial del Libro en La Pampa de Sergio Ziliotto (La Pampa), la promoción de la cooperación académica por Carlos Sadir (Jujuy), la Fiesta Nacional de la Orquídea en Misiones de Alberto Passalacqua (Misiones), y el congreso de juventudes en Neuquén de Rolando Figueroa (Neuquén). Ricardo Quintela (La Rioja) también destacó obras de desarrollo comunitario y apoyo a cooperativas. Estos esfuerzos reflejan el intento de los gobiernos provinciales de atender un amplio espectro de necesidades ciudadanas, a menudo con una narrativa de autonomía y capacidad de gestión propia. El panorama general es de una federación donde las provincias, lejos de esperar directivas centrales, toman la iniciativa y marcan su propia cancha política y económica.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad Pública y Orden Urbano",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Energético e Inversiones Estratégicas",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Autonomía Provincial y Gestión de Infraestructura",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Promoción Cultural y Educación",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@carlossadirjuy",
+                "@ZiliottoSergio",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Relaciones Internacionales y Comercio Exterior",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@carlossadirjuy",
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@GustavoSaenzOK",
+        "texto": "Con fondos provinciales vamos a finalizar la pavimentación del tramo Molinos – Seclantás sobre la RN 40, otra deuda que Nación mantiene con los salteños. Como no podemos seguir esperando, tomé la decisión de invertir en esta obra tan importante para Salta, los Valles Calchaquíes y la conexión vial territorial. Las obras se reactivarán pronto en esos casi 17 kilómetros, dando respuesta a un reclamo histórico de los vecinos, productores y el turismo local. Queremos una Salta conectada, con posibilidades de crecimiento y desarrollo en cada una de sus regiones. Nuestro compromiso con los salteños está despojado de cualquier interés político partidario. Trabajamos fuertemente para avanzar con obras estratégicas, aunque por jurisdicción no nos correspondan. Porque para este Gobernador, los intereses de Salta y de los salteños siempre están primero. Los compromisos de honran con hechos. Estamos cumpliendo con nuestra palabra.",
+        "por_que_es_clave": "Este tweet es clave porque representa una fuerte declaración de autonomía y defensa de intereses provinciales frente a lo que el gobernador considera un incumplimiento del Gobierno Nacional en materia de infraestructura. La decisión de Salta (Salta) de financiar una Ruta Nacional con fondos propios, argumentando que 'los intereses de Salta y de los salteños siempre están primero', marca una tensión federal explícita y un desafío directo a la gestión central.",
+        "pregunta_openarg": "¿Esta acción unilateral de una provincia para cubrir infraestructura nacional sentará un precedente para otros distritos con reclamos similares, acentuando la descentralización del gasto en obras federales?",
+        "verificacion_openarg": "Estos datos no permiten establecer causas ni evaluar a personas, gestiones o políticas.\n\nTu pregunta supone un hecho concreto —una provincia que financió unilateralmente infraestructura nacional— pero..."
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Seguridad local",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Enfoque en la gestión territorial y el apoyo a los municipios para fortalecer la seguridad, destacando la presencia provincial en las necesidades locales.",
+            "frase_fuerte": "Hoy incorporamos tres camionetas Toyota Hilux para reforzar la prevención en Villa Gesell."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Cierre de cárceles",
+                "Orden público",
+                "Gestión urbana"
+            ],
+            "postura_politica": "Firmeza en políticas de seguridad y orden público, cumpliendo compromisos históricos y proyectando una 'Ciudad de los porteños de bien'. También gestión de espacios públicos.",
+            "frase_fuerte": "HISTÓRICO. Entregamos la Cárcel de Marcos Paz al Gobierno Nacional y el cierre definitivo de Devoto ya es una realidad. Ley y Orden."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Orden público",
+                "Conflictos gremiales",
+                "Relaciones internacionales",
+                "Visita papal"
+            ],
+            "postura_politica": "Defensa intransigente del orden público ante extorsiones gremiales, trabajando en conjunto con el municipio para proteger a los ciudadanos. Amplía lazos internacionales y coordina eventos de gran magnitud.",
+            "frase_fuerte": "No vamos a permitir que nuestros vecinos sean rehenes de medidas irresponsables ni de acciones extorsivas de unos pocos que pretenden poner sus intereses por encima de los de toda la comunidad. El orden público no se negocia."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Cooperación académica regional",
+                "Relaciones internacionales"
+            ],
+            "postura_politica": "Proactividad en la vinculación internacional y regional a través de la educación, buscando fortalecer el intercambio de conocimientos y experiencias.",
+            "frase_fuerte": "5 países trabajando para fortalecer la cooperación académica 🤜🤛"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Cultura",
+                "Educación",
+                "Accesibilidad"
+            ],
+            "postura_politica": "Promoción de la cultura local y acceso inclusivo a la lectura, reforzando la identidad pampeana y el valor de la educación.",
+            "frase_fuerte": "Hay libros que nos acompañan toda la vida, historias que nos emocionan y lecturas que nos ayudan a mirar el mundo de otra manera, porque Todo Puede Leerse."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Desarrollo comunitario",
+                "Infraestructura local",
+                "Cooperativismo"
+            ],
+            "postura_politica": "Impulso al desarrollo local mediante obras de infraestructura y apoyo a iniciativas comunitarias y cooperativas, fomentando el trabajo digno.",
+            "frase_fuerte": "Cuando las comunidades trabajan juntas por un bien común se logra grandes cosas."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Desarrollo energético",
+                "Inversiones",
+                "Vaca Muerta",
+                "RIGI"
+            ],
+            "postura_politica": "Orientación hacia la atracción de grandes inversiones estratégicas en energía, con apoyo a marcos nacionales como el RIGI, para potenciar el desarrollo provincial.",
+            "frase_fuerte": "YPF ya comenzó con nuevas perforaciones exploratorias en Vaca Muerta Mendoza... YPF proyecta adherir el próximo año al RIGI con una inversión de gran escala para comenzar con la etapa de explotación del yacimiento."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Cultura",
+                "Turismo",
+                "Juventud",
+                "Eventos"
+            ],
+            "postura_politica": "Fomento de eventos culturales que realzan la identidad provincial y la participación juvenil, resaltando el valor de la comunidad y la naturaleza.",
+            "frase_fuerte": "Muy feliz de haber participado de la apertura de la Fiesta Nacional de la Orquídea y Provincial de la Flor. Siempre digo que es la fiesta perfecta porque nos permite contemplar la perfección divina de la naturaleza..."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Juventud",
+                "Educación",
+                "Oportunidades",
+                "Identidad neuquina"
+            ],
+            "postura_politica": "Énfasis en el empoderamiento y la formación de la juventud para construir el futuro de la provincia, promoviendo la 'neuquinidad' a través de la educación y el desarrollo de habilidades.",
+            "frase_fuerte": "Queremos que cada joven vea esa ventanita de oportunidades: prepararse, estudiar, aprovechar las becas. Quienes nos sucedan tienen que estar mejor preparados que nosotros: que no se dejen poner un pie encima."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura vial y ferroviaria",
+                "Federalismo",
+                "Integración regional",
+                "Instituciones"
+            ],
+            "postura_politica": "Asertividad frente al Gobierno Nacional por incumplimientos en infraestructura, priorizando los intereses salteños con fondos propios. Impulsa la integración regional y el fortalecimiento institucional.",
+            "frase_fuerte": "Con fondos provinciales vamos a finalizar la pavimentación del tramo Molinos – Seclantás sobre la RN 40, otra deuda que Nación mantiene con los salteños."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Seguridad ciudadana",
+                "Proyectos sociales",
+                "Empleo"
+            ],
+            "postura_politica": "Cercanía con las comunidades a través de la inauguración de obras y apoyo a organizaciones, reforzando la seguridad y promoviendo el desarrollo económico local (ej. Emprendimientos Bicicleteros).",
+            "frase_fuerte": "Llegaron las TUBI a SANTA ROSA DEL CONLARA !!! Hábitos saludables para nuestros jóvenes y nuevos puestos de trabajo en los Emprendimientos Bicicleteros de la Pcia."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Inversiones petroleras",
+                "Empleo local",
+                "Recuperación económica"
+            ],
+            "postura_politica": "Búsqueda activa de inversiones extranjeras para revitalizar la industria petrolera, con el objetivo de generar empleo y aumentar las regalías, priorizando la mano de obra local.",
+            "frase_fuerte": "Necesitamos incorporar nuevas tecnologías, recuperar la producción y generar más puestos de trabajo."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "Reconocimiento policial",
+                "Lucha contra la violencia"
+            ],
+            "postura_politica": "Reconocimiento explícito a las fuerzas de seguridad en la lucha contra la violencia y el crimen organizado, mostrando un fuerte respaldo a su rol y el plan de seguridad provincial.",
+            "frase_fuerte": "Al inicio de nuestra gestión, cuando nuestra provincia vivía momentos de extrema violencia, muchos policías que estaban retirados y descansando luego de años de servicio, acudieron al llamado del gobierno para prestar servicio y ayudarnos a implementar el plan de seguridad."
+        }
+    ]
+}
