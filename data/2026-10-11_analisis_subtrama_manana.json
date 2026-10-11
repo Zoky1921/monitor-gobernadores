@@ -1,0 +1,89 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "Axel Kicillof capitaliza el fin de semana con dos posteos que muestran su construcción federal del peronismo, con actos en Salta y Córdoba. El resto de los gobernadores se repliega en saludos dominicales, agenda papal o gestión local, evitando cualquier posicionamiento sobre la macroeconomía o la relación con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada está marcada por el silencio de la mayoría de los gobernadores sobre temas fiscales o de relación con Nación. Sin embargo, Axel Kicillof rompe la quietud con dos posteos que revelan una intensa actividad de construcción política federal. Mientras otros gobernadores se limitan a saludos dominicales o gestos religiosos, Kicillof muestra su maquinaria política en marcha, con reuniones en Salta y Córdoba, articulando con sindicatos y movimientos sociales. Esto no es gestión provincial; es la puesta en escena de una alternativa de poder.\n\nActo 2 — Los Alineamientos: Kicillof se posiciona como el articulador del peronismo no alineado con la Casa Rosada. Los gobernadores de provincias centrales (Córdoba, Santa Fe) optan por la agenda protocolar (Llaryora con el Papa, Pullaro con un homenaje). Los periféricos (Jalil, Passalacqua, Poggi) se refugian en saludos sin contenido político. Figueroa (Neuquén) mezcla fe y gestión local. No hay una respuesta coordinada a la jugada de Kicillof, lo que sugiere que su construcción avanza sin resistencia explícita.\n\nActo 3 — La Micro-política: Los gobernadores periféricos utilizan el domingo para mostrarse cercanos a la gente (Passalacqua, Poggi) o para alinearse con la agenda papal (Jalil, Llaryora). Esto último no es menor: la visita del Papa León XIV es un evento que trasciende lo religioso y tiene implicancias políticas. Jalil y Llaryora compiten por mostrarse como anfitriones, pero sin roces.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es de bajo riesgo. Ningún gobernador lanza críticas directas. Pero el silencio cómplice de la mayoría contrasta con la actividad de Kicillof, que siembra para el futuro. El oficialismo nacional no tiene motivos para celebrar, pero tampoco para alarmarse.",
+    "temas_calientes": [
+        {
+            "tema": "Construcción de alternativa política opositora por Kicillof",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Agenda papal y visita de León XIV",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @waltercorreaok)",
+        "texto": "En la ciudad de Salta, la mesa del Movimiento Derecho al Futuro compartió un almuerzo de encuentro, diálogo y organización junto a las compañeras y los compañeros que integran este espacio, conformado por la CGT local, la CTA, las 62 Organizaciones Peronistas y distintas agrupaciones políticas y sociales. La jornada contó también con la participación del vicegobernador de la provincia de Salta, Antonio Marocco, a quien agradecemos por acompañar este encuentro. Seguimos fortaleciendo la unidad del movimiento obrero y de los distintos sectores del campo nacional y popular, convencidos de que la construcción de una alternativa política para nuestro país debe ser profundamente federal, con la participación y el protagonismo de las compañeras y los compañeros de cada provincia. Con Axel Kicillof, seguimos organizando la esperanza y construyendo el futuro de una Argentina con producción, trabajo y justicia social.",
+        "por_que_es_clave": "Kicillof utiliza un almuerzo en Salta para mostrar capilaridad territorial y alianzas con el sindicalismo, presentándose como el arquitecto de una alternativa federal al gobierno de Milei. La presencia del vicegobernador de Salta (provincia no gobernada por el peronismo) indica una estrategia de expansión más allá de su territorio.",
+        "pregunta_openarg": "¿Está Kicillof construyendo una alternativa presidencial en paralelo a la gestión provincial, o es solo ruido opositor?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Construcción política opositora",
+                "Movimiento Derecho al Futuro",
+                "Plenario de mujeres"
+            ],
+            "postura_politica": "Muestra su rol como articulador nacional del peronismo, con actos en Salta y Córdoba. El mensaje implícito es que él es el líder capaz de unir al campo nacional y popular frente al gobierno nacional.",
+            "frase_fuerte": "Con Axel Kicillof, seguimos organizando la esperanza y construyendo el futuro de una Argentina con producción, trabajo y justicia social."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Salud del Papa León XIV",
+                "Religión"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se suma a la corriente de oraciones por el Papa, mostrando cercanía con la Iglesia en un momento de visita papal inminente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Salud del Papa León XIV",
+                "Visita papal a Córdoba"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Similar a Jalil, pero con énfasis en que Córdoba será sede de la visita papal, lo que refuerza su perfil de anfitrión y gestor de eventos internacionales.",
+            "frase_fuerte": "Córdoba te espera, Papa León!"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Saludo dominical"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Sin contenido político relevante.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Entrevista periodística",
+                "Camino de la Fe"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Agradece una entrevista y promociona una obra religioso-turística. Sin posicionamiento sobre temas nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Saludo dominical"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Sin contenido político relevante.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Homenaje póstumo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Despide a una funcionaria fallecida. Gestión institucional sin disputa política.",
+            "frase_fuerte": null
+        }
+    ]
+}
