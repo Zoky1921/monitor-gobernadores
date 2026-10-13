@@ -1,0 +1,120 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda de los gobernadores en las últimas horas de ayer se centró en la gestión provincial y el desarrollo económico local, aunque con una marcada tensión federal. Las principales preocupaciones incluyeron el monitoreo de emergencias climáticas, como en Chaco (Leandro Zdero) y Entre Ríos (Rogelio Frigerio), y el fortalecimiento de la infraestructura educativa en La Pampa (Sergio Ziliotto). San Luis (Claudio Poggi) impulsó programas para emprendedores, mientras que Santa Cruz (Claudio Vidal) proyectó el uso de tierras para desarrollo productivo. Sin embargo, el gobernador de Salta (Gustavo Sáenz) elevó el tono al exigir al Gobierno Nacional la inclusión obligatoria de obras ferroviarias clave para el Norte Grande, criticando la histórica postergación de la región.",
+    "analisis_profundo": "La actividad reciente de los gobernadores, concentrada en las últimas horas de ayer, dibujó un panorama dual entre la gestión interna y la persistencia de fricciones federales. Varios mandatarios se dedicaron a comunicar avances y planes locales. Leandro Zdero (Chaco) y Rogelio Frigerio (Entre Ríos) resaltaron sus acciones preventivas y de monitoreo ante inminentes eventos climáticos, subrayando la resiliencia y la capacidad de respuesta provincial frente a fenómenos naturales. Sergio Ziliotto (La Pampa) reafirmó su compromiso con la educación pública, anunciando nuevas obras para el nivel secundario y promoviendo la igualdad de oportunidades. Claudio Poggi (San Luis) puso el foco en el fomento al emprendedurismo, buscando dinamizar la economía local. Claudio Vidal (Santa Cruz) comunicó un plan de disposición de tierras para producción en El Chaltén, enmarcado en una narrativa de 'menos dependencia, más producción y más trabajo', con un claro contraste con gestiones pasadas. Maximiliano Pullaro (Santa Fe) se unió a la celebración de un aniversario local, enfatizando el apoyo al interior productivo.\n\nA pesar de esta concentración en la gestión local, la jornada se vio teñida por un fuerte posicionamiento de Gustavo Sáenz (Salta). Su enérgico reclamo al Gobierno Nacional por la obligatoriedad de inversión en los ramales C-14 y C-15 del Belgrano Cargas, fundamentales para el Norte Grande, evidenció una profunda tensión. Sáenz (Salta) acusó una 'postergación' histórica de la región, exigiendo que estas obras no queden 'sujetas a la voluntad de unas pocas empresas' y señalando que la falta de inversión profundiza 'desigualdades' y 'falta de oportunidades'. Este pronunciamiento no solo articula una demanda regional por infraestructura, sino que también desafía directamente las prioridades de inversión del gobierno central. La jornada, por ende, subraya la autonomía de las agendas provinciales, pero también la creciente demanda de una mayor equidad federal en el reparto y la ejecución de obras estratégicas.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de emergencias climáticas y prevención de desastres",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Desarrollo de infraestructura y productivo regional",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Reclamos federales por inversión en infraestructura",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la educación pública",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Fomento al emprendedurismo y empleo local",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Gestión de riesgos climáticos",
+                "Prevención"
+            ],
+            "postura_politica": "Postura activa y preventiva frente a la llegada de 'El Niño', enfocada en la coordinación interinstitucional y la comunicación oficial para proteger a la población de Chaco.",
+            "frase_fuerte": "El Comité de Emergencia Provincial declara alerta naranja, y continúan los trabajos preventivos, el monitoreo permanente de las condiciones climáticas, y la coordinación de acciones."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Monitoreo de inundaciones",
+                "Infraestructura hídrica",
+                "Asistencia social"
+            ],
+            "postura_politica": "Liderazgo proactivo en la gestión de la creciente del río Uruguay, destacando la importancia de la infraestructura preventiva y el trabajo coordinado entre niveles de gobierno para asistir a la población de Entre Ríos.",
+            "frase_fuerte": "TRABAJAMOS Y MONITOREAMOS TODA LA COSTA DEL URUGUAY"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Educación pública",
+                "Infraestructura educativa",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Fuerte compromiso con la expansión y mejora de la educación pública en La Pampa, reafirmando el rol del Estado provincial en garantizar igualdad de oportunidades y construir un futuro para sus jóvenes.",
+            "frase_fuerte": "En La Pampa sostenemos que todos nuestros jóvenes deben tener las mismas oportunidades de acceder a una educación pública de calidad, vivan donde vivan."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura ferroviaria",
+                "Federalismo",
+                "Desarrollo regional",
+                "Crítica al Gobierno Nacional"
+            ],
+            "postura_politica": "Crítica explícita al Gobierno Nacional por la falta de inversión obligatoria en el Belgrano Cargas, defendiendo los intereses del Norte Grande y exigiendo equidad y desarrollo para la provincia de Salta.",
+            "frase_fuerte": "SALTA Y EL NORTE ARGENTINO NO PUEDEN SEGUIR ESPERANDO"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Fomento al emprendedurismo",
+                "Desarrollo económico local",
+                "Empleo"
+            ],
+            "postura_politica": "Impulso a la cultura emprendedora en San Luis mediante programas integrales de capacitación, financiamiento y acompañamiento, buscando generar nuevas oportunidades laborales y dinamizar la economía.",
+            "frase_fuerte": "VILLA MERCEDES - Lanzamos la Tercera Edición de los Programas MI PRÓXIMO PASO (MIPRO) y MI PRIMER EMPRENDIMIENTO (MIPRE), programas integrales de acompañamiento a la cultura emprendedora."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Política de tierras",
+                "Autonomía económica provincial",
+                "Empleo"
+            ],
+            "postura_politica": "Enfoque en generar oportunidades productivas y de empleo a través de la disposición de tierras, con una visión de menor dependencia y un fuerte contraste con gestiones anteriores para Santa Cruz.",
+            "frase_fuerte": "MÁS TIERRA PARA PRODUCIR, CRECER Y CONSTRUIR FUTURO EN EL CHALTÉN"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Apoyo a comunidades del interior"
+            ],
+            "postura_politica": "Presente en las celebraciones locales de Santa Fe, reforzando el acompañamiento del gobierno provincial a las localidades del interior como motor del desarrollo nacional y reconociendo el esfuerzo de sus vecinos.",
+            "frase_fuerte": "Hoy estuvimos en #Godoy celebrando sus 140 años junto a los vecinos. ¡Muy feliz cumpleaños a toda la localidad!"
+        }
+    ]
+}
