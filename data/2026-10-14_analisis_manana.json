@@ -1,0 +1,192 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de hoy exhibe una marcada primacía de la gestión provincial, con varios gobernadores enfocados en obras de infraestructura vial y educativa (Córdoba, Neuquén, San Luis, Tucumán), programas de vivienda y desarrollo local (San Luis, Chaco, Catamarca) y diversificación productiva (Mendoza, Catamarca). Subyacen tensiones con el Gobierno Nacional, especialmente en reclamos por obras ferroviarias (Misiones) y la falta de financiamiento o cumplimiento de acuerdos. La provincia de Santa Cruz sigue diferenciándose de gestiones pasadas, mientras que CABA mantiene un enfoque en 'ley y orden' y alivio fiscal. La diplomacia provincial para atraer inversiones también fue un eje importante.",
+    "analisis_profundo": "La jornada del 14 de octubre de 2026 refleja una acentuada tendencia de los gobernadores a consolidar y comunicar una agenda de gestión fuertemente provincialista, en ocasiones, en contraposición directa con la narrativa o las políticas del Gobierno Nacional.\n\nEn materia de infraestructura y obra pública, Jorge Macri (Ciudad Autónoma de Buenos Aires) se centró en alivios fiscales para 'la clase media que se esfuerza' y en la seguridad con un firme mensaje de 'Ley y orden'. Martín Llaryora (Córdoba) destacó la inauguración de tramos de la Autopista Nacional Ruta 19, haciendo énfasis en que 'nos hicimos cargo' de una obra 'largamente postergada y abandonada históricamente por Nación'. Rolo Figueroa (Neuquén) anunció licitaciones para un canal aliviador hídrico y el avance de ampliaciones en escuelas técnicas, transformando los recursos de Vaca Muerta en oportunidades educativas. Osvaldo Jaldo (Tucumán) se reunió con cámaras y sindicatos de la construcción para abordar obras provinciales y nacionales, mencionando la regularización de fondos pendientes, y planificó obras hídricas y mantenimiento escolar. Claudio Poggi (San Luis) concentró su actividad en la localidad de La Toma, inaugurando refacciones escolares con foco en Inteligencia Artificial, programas de viviendas y reuniéndose con el sector minero, mostrando una clara orientación a la gestión local y el desarrollo productivo. Nacho Torres (Chubut) delineó una visión a 20 años para el puerto de Comodoro, impulsando el desarrollo productivo y la inversión.\n\nEn cuanto al desarrollo productivo y atracción de inversiones, Raúl Jalil (Catamarca) reportó una gira en Australia para atraer inversiones y destacó el crecimiento del empleo privado, especialmente en minería. Alfredo Cornejo (Mendoza) resaltó la inauguración de un laboratorio de cannabis medicinal y cáñamo industrial, buscando autonomía y nuevas oportunidades productivas, además de retuitear sobre la recuperación de fondos por atención médica a extranjeros no residentes. Claudio Vidal (Santa Cruz) abordó la situación de salud en El Chaltén, vinculando el crecimiento turístico con la necesidad de infraestructura y servicios, y reafirmando su modelo de 'menos dependencia, más producción y más trabajo'. Ricardo Quintela (La Rioja) se enfocó en intercambiar experiencias de gestión local y la promoción del desarrollo minero y empresas estatales.\n\nLas tensiones federales y reclamos a Nación persisten. Hugo Passalacqua (Misiones) expresó solidaridad con Salta y el Norte Grande en reclamos por la recuperación de ramales ferroviarios. Las declaraciones de Llaryora (Córdoba) y Vidal (Santa Cruz) sobre 'hacerse cargo' o criticar la inacción pasada refuerzan esta línea de diferenciación y demanda a la órbita central. Leandro Zdero (Chaco) celebró el éxito de una feria del libro y la apertura de un centro odontológico, financiados con fondos de subastas de vehículos, lo que refleja un enfoque en la eficiencia del uso de recursos. En síntesis, los gobernadores están volcados a la gestión tangible, inaugurando obras y promoviendo el desarrollo económico local, pero la sombra de la relación con el gobierno central persiste en los reclamos por federalismo y el financiamiento de infraestructura clave.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura Vial y Obra Pública",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Minero y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Salud y Bienestar Social",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@alfredocornejo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Federalismo y Reclamos a Nación",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@OsvaldoJaldo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educación y Capital Humano",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora (Córdoba)",
+        "texto": "LA RUTA DE LA VIDA Y EL PROGRESO En Córdoba, nos hicimos cargo. Estamos inaugurando los primeros 10 kilómetros de la Autopista Ruta Nacional 19, que llevamos adelante para completar la conexión entre Córdoba y San Francisco. Se trata de una infraestructura vial que impulsa la producción, conecta nuestras comunidades y brinda mayor seguridad. Es el resultado de una decisión: invertir, planificar y hacer. El nuevo tramo une Santiago Temple con Los Chañaritos y suma una vía con dos carriles por sentido de circulación. La habilitación comprende también el nuevo distribuidor de acceso y la pavimentación del camino de 3,4 kilómetros que conecta la autopista con Los Chañaritos. Esta ruta no podía esperar más, por eso resolvimos y nos pusimos en marcha.",
+        "por_que_es_clave": "El gobernador Martín Llaryora (Córdoba) resalta la capacidad de gestión provincial al inaugurar una obra vial de gran envergadura, marcando un contraste explícito con el abandono histórico atribuido a la 'Nación'. Esto subraya la tendencia de las provincias a tomar la iniciativa ante la inacción federal en infraestructura estratégica, elevando el debate sobre el federalismo y la asignación de recursos.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (Ciudad Autónoma de Buenos Aires)",
+            "temas_mencionados": [
+                "Alivio fiscal",
+                "Seguridad"
+            ],
+            "postura_politica": "Prioriza la gestión económica local con beneficios fiscales para la clase media y una política de seguridad 'Ley y orden' firme en los barrios, buscando orden y soluciones pragmáticas en la ciudad.",
+            "frase_fuerte": "Siempre me van a encontrar del lado de la clase media que se esfuerza, trabaja y quiere salir adelante."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Inversiones extranjeras",
+                "Empleo",
+                "Minería",
+                "Gestión económica",
+                "Obras hídricas",
+                "Sistema ferroviario"
+            ],
+            "postura_politica": "Enfoque proactivo en la diplomacia provincial para atraer capitales, destacando el crecimiento del empleo y la minería. Muestra solidaridad interprovincial en temas de infraestructura regional y gestión.",
+            "frase_fuerte": "Consolidar una agenda diplomática y de diálogo institucional es fundamental para posicionar el potencial de nuestra provincia en el mundo, atrayendo relaciones estratégicas que impulsen el crecimiento y el desarrollo de Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Cultura",
+                "Economía local",
+                "Salud inclusiva",
+                "Gestión de recursos"
+            ],
+            "postura_politica": "Impulsa eventos culturales y programas de salud con fondos propios, demostrando una gestión eficiente de los recursos estatales para el beneficio directo de los ciudadanos y la creación de empleo.",
+            "frase_fuerte": "Los recursos de los chaqueños vuelven a los chaqueños, y acá está la muestra."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Desarrollo portuario",
+                "Inversión",
+                "Empleo",
+                "Planificación a largo plazo"
+            ],
+            "postura_politica": "Articula una visión estratégica a futuro para el desarrollo económico de la provincia, priorizando la inversión y la generación de empleo a través de infraestructura clave como el puerto y la zona franca.",
+            "frase_fuerte": "Quiero que dentro de 20 años podamos mirar al puerto de Comodoro y ver un astillero funcionando a plena capacidad, una Zona Franca llena de empresas y miles de familias viviendo del trabajo que se genera en nuestra ciudad."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Inversión provincial",
+                "Progreso",
+                "Seguridad"
+            ],
+            "postura_politica": "Asume la responsabilidad de obras de infraestructura clave que considera 'abandonadas por Nación', subrayando la capacidad de gestión provincial y la prioridad de proteger la vida de los ciudadanos.",
+            "frase_fuerte": "Esta ruta no podía esperar más, por eso resolvimos y nos pusimos en marcha."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Empresas estatales",
+                "Minería",
+                "Rol del Estado"
+            ],
+            "postura_politica": "Abierto al intercambio de experiencias de gestión con otros municipios y provincias, enfatizando el papel del Estado al servicio de las personas y la promoción de proyectos productivos locales, incluida la minería.",
+            "frase_fuerte": "Con él compartimos una mirada muy parecida sobre cómo gestionar los destinos de los lugares donde nos toca gobernar, siempre con la premisa de que el Estado debe estar al servicio de cada persona."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Salud",
+                "Atención a extranjeros",
+                "Cannabis medicinal",
+                "Diversificación productiva",
+                "Autonomía provincial"
+            ],
+            "postura_politica": "Defiende los recursos provinciales recuperando costos de servicios de salud a extranjeros y promueve la diversificación productiva con proyectos como el cannabis medicinal, mostrando una gestión autónoma y eficiente.",
+            "frase_fuerte": "En Mendoza estamos generando las condiciones para que el cannabis medicinal y el cáñamo industrial se desarrollen con calidad, controles y seguridad."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Infraestructura ferroviaria",
+                "Federalismo",
+                "Reclamos al gobierno nacional"
+            ],
+            "postura_politica": "Expresa solidaridad con otras provincias del Norte Grande en reclamos de infraestructura clave al Gobierno Nacional, posicionando a Misiones en la demanda de un federalismo equitativo.",
+            "frase_fuerte": "Comparto plenamente los reclamos de nuestros hermanos salteños y de todo el Norte Grande. Desde Misiones también seguimos reclamando por la recuperación de nuestro ramal ferroviario."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Gestión hídrica",
+                "Educación",
+                "Desarrollo urbano"
+            ],
+            "postura_politica": "Prioriza la planificación y ejecución de obras estratégicas en educación e infraestructura hídrica, enfocándose en la igualdad de oportunidades y la protección de las comunidades ante riesgos climáticos, utilizando recursos provinciales.",
+            "frase_fuerte": "Para nosotros la educación es la herramienta más revolucionaria para igualar oportunidades y dar movilidad social."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Minería",
+                "Educación",
+                "Desarrollo local",
+                "Vivienda"
+            ],
+            "postura_politica": "Fomenta la articulación público-privada en el sector minero y el desarrollo educativo con énfasis en nuevas tecnologías, mientras impulsa programas de vivienda y mejora de infraestructura local, buscando crecimiento y bienestar.",
+            "frase_fuerte": "El Programa ESCRITURA TU CASA llegó a LA TOMA !! Cinco familias (5) accedieron a la escritura de su hogar bajo este Programa de Gobierno que otorga seguridad jurídica y tranquilidad familiar."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Salud",
+                "Infraestructura",
+                "Gestión local",
+                "Planificación"
+            ],
+            "postura_politica": "Reconoce y se hace cargo de deudas históricas en salud e infraestructura en localidades como El Chaltén, vinculando el crecimiento del turismo con la necesidad de un Estado presente y planificador.",
+            "frase_fuerte": "Pero estamos presentes, escuchando, dando la cara y haciéndonos cargo de lo que falta. Santa Cruz puede y tiene rumbo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Empleo",
+                "Educación",
+                "Infraestructura hídrica",
+                "Gestión intersectorial"
+            ],
+            "postura_politica": "Foco en la continuidad y planificación de obras públicas, priorizando la infraestructura hídrica y educativa con recursos provinciales, y buscando regularizar fondos nacionales pendientes para sostener el empleo en la construcción.",
+            "frase_fuerte": "La directiva es clara: recorrer la provincia, escuchar a los vecinos y llevar respuestas a cada comunidad. Un Estado presente se construye en el territorio, con planificación, prevención y trabajo para cuidar a nuestra gente."
+        }
+    ]
+}
