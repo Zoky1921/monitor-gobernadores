@@ -1,0 +1,203 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una marcada polarización entre varias administraciones provinciales y el Gobierno Nacional. Gobernadores como Axel Kicillof (Buenos Aires), Martín Llaryora (Córdoba) y Sergio Ziliotto (La Pampa) levantaron fuertes críticas por el desfinanciamiento y el abandono de obras nacionales, así como en defensa de la educación pública, proyectando sus gestiones como baluartes ante la 'asfixia financiera' central. En contraste, otros mandatarios como Jorge Macri (CABA) y Alfredo Cornejo (Mendoza) resaltaron la eficiencia de la gestión local y la modernización del Estado con recursos propios. La agenda se centró en la autonomía provincial, la inversión en infraestructura y la provisión de servicios esenciales en un contexto de evidente fricción fiscal y política con la Nación, anticipando mayores tensiones en el debate federal.",
+    "analisis_profundo": "La dinámica federal hoy revela una compleja interacción de confrontación y autoafirmación provincial frente a un escenario nacional percibido como restrictivo. La 'asfixia financiera' del Gobierno Nacional fue el eje de la crítica de Axel Kicillof (Buenos Aires), quien visibilizó inversiones provinciales en el Servicio Alimentario Escolar como una respuesta directa a esta situación. En una línea similar, Martín Llaryora (Córdoba) no solo inauguró obras de infraestructura vial con fondos propios, destacando el 'abandono por Nación', sino que también retuiteó un mensaje provocador sobre la 'cuota anual' que los cordobeses pagan por ser parte de Argentina, elevando la discusión sobre la equidad fiscal federal a un punto de alta visibilidad. Sergio Ziliotto (La Pampa) se sumó a este frente con una contundente defensa de la universidad pública, enmarcando la movilización federal como una lucha por 'derechos conquistados' que deben defenderse, lo que implica una postura desafiante hacia las políticas de ajuste nacional. Estas voces colectivas marcan una agenda de resistencia y demanda de autonomía. \n\nPor otro lado, gobernadores como Jorge Macri (CABA) optaron por destacar la eficacia y rapidez de la gestión local en obras de infraestructura, proyectando una imagen de eficiencia que busca diferenciarse del debate sobre recursos federales. Leandro Zdero (Chaco) mostró una aproximación más colaborativa, trabajando con la Nación en la prevención del fenómeno de El Niño, aunque sin dejar de lado la autogestión de su provincia. Alfredo Cornejo (Mendoza) se enfocó en la modernización estatal y la capacitación con inteligencia artificial, mientras que Ricardo Quintela (La Rioja) priorizó la regulación del uso de celulares en escuelas, resaltando la atención a políticas sociales locales. Rolando Figueroa (Neuquén) articuló una narrativa de 'Neuquén Vive' basada en inversiones provinciales en educación, deportes y turismo, enfatizando el uso de recursos locales para el desarrollo autónomo. Claudio Vidal (Santa Cruz), Maximiliano Pullaro (Santa Fe), Osvaldo Jaldo (Tucumán) y Claudio Poggi (San Luis) también concentraron sus mensajes en la ejecución de obras, programas sociales y apoyo a comunidades locales, evidenciando un esfuerzo coordinado para demostrar capacidad de respuesta desde las provincias, ya sea como una alternativa o un complemento a la acción federal.",
+    "temas_calientes": [
+        {
+            "tema": "Tensión y conflicto fiscal con el Gobierno Nacional por desfinanciamiento y obras públicas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Defensa de la educación pública y universitaria frente a políticas nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Inversión y gestión provincial de obra pública e infraestructura básica",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Fomento de programas sociales, deportivos y comunitarios locales",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Modernización del Estado y políticas de gestión en las provincias",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora (RT de @Pastore2Pastore)",
+        "texto": "Queres saber cuánto pagamos de cuota anual los cordobeses por pertenecer a Argentina? Esta piba te lo cuenta.",
+        "por_que_es_clave": "Este tweet de Martín Llaryora (Córdoba) amplifica una crítica directa y provocadora al sistema de coparticipación federal, cuestionando el costo de la pertenencia a Argentina desde una perspectiva provincial. Subraya la tensión fiscal entre las provincias y la Nación, un eje central de la agenda federal y un desafío a la narrativa centralista.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Asistencia social",
+                "Relación con el gobierno nacional",
+                "Financiamiento provincial"
+            ],
+            "postura_politica": "Crítica al Gobierno Nacional por 'asfixia financiera' sobre la provincia, destacando la inversión provincial con recursos propios para mantener programas esenciales. Adopta una postura defensiva y de autonomía de la gestión provincial frente al ajuste central, especialmente en educación.",
+            "frase_fuerte": "A pesar de la asfixia financiera del Gobierno nacional sobre la provincia de Buenos Aires, por decisión de @Kicillofok invertimos en cuidar la calidad alimentaria de los estudiantes bonaerenses."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Eficiencia de gestión"
+            ],
+            "postura_politica": "Enfocado en la capacidad de gestión y ejecución rápida de obras de infraestructura, proyectando una imagen de eficiencia y concreción local. Su mensaje se centra en el cumplimiento de metas y la mejora urbana.",
+            "frase_fuerte": "Autopista Dellepiane: instalamos un puente peatonal en menos de 24 horas. Así avanza la mayor obra de infraestructura del país."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Prevención de desastres naturales",
+                "Cooperación interjurisdiccional"
+            ],
+            "postura_politica": "Aboga por la articulación y unidad de esfuerzos con la Nación y otras provincias para abordar problemas comunes como el fenómeno de El Niño. Su enfoque es la planificación preventiva y la coordinación interinstitucional para el cuidado regional.",
+            "frase_fuerte": "Unimos esfuerzos para fortalecer la articulación, mantener un monitoreo permanente y planificar acciones preventivas que nos permitan anticiparnos al fenómeno."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación pública",
+                "Obra pública",
+                "Federalismo",
+                "Relación con el gobierno nacional",
+                "Financiamiento provincial"
+            ],
+            "postura_politica": "Defiende vehementemente la universidad pública y critica el abandono de obras nacionales. Adopta una postura confrontativa con el centralismo y las políticas nacionales que afectan a las provincias, con un fuerte sesgo federalista fiscal, cuestionando el aporte de Córdoba a la Nación.",
+            "frase_fuerte": "Queres saber cuánto pagamos de cuota anual los cordobeses por pertenecer a Argentina? Esta piba te lo cuenta."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Gestión provincial"
+            ],
+            "postura_politica": "Su tweet es un saludo por su cumpleaños, lo que demuestra actividad en redes, pero carece de contenido político o de gestión relevante para un análisis estratégico de la agenda federal. Es un mensaje protocolario y personal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Educación pública",
+                "Gestión de riesgos climáticos",
+                "Defensa de derechos",
+                "Inversión provincial"
+            ],
+            "postura_politica": "Firme defensor de la educación pública y los derechos, posicionándose en contra de políticas nacionales que percibe como amenazas. Muestra proactividad en la inversión provincial con recursos propios para la prevención climática, enfatizando la autonomía y la capacidad de la provincia para proteger a su gente.",
+            "frase_fuerte": "LOS DERECHOS CONQUISTADOS SE DEFIENDEN. ¡LA PAMPA SE DEFIENDE!"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Educación",
+                "Regulación tecnológica",
+                "Protección de la infancia"
+            ],
+            "postura_politica": "Prioriza la protección de la infancia y la juventud a través de regulaciones educativas que buscan un uso más consciente y medido de la tecnología en las escuelas. Su enfoque es cuidar el desarrollo integral de los más jóvenes.",
+            "frase_fuerte": "Nuestra mayor responsabilidad como adultos es cuidar a los más chicos. Y cuidar sus infancias y juventudes hoy, también significa prestar atención a cómo se relacionan con la tecnología."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Modernización del Estado",
+                "Capacitación",
+                "Tecnología",
+                "Eficiencia en la gestión"
+            ],
+            "postura_politica": "Impulsa la modernización de la administración pública a través de la formación de agentes y la incorporación de herramientas de inteligencia artificial, buscando una gestión más eficiente y mejores servicios para los ciudadanos mendocinos.",
+            "frase_fuerte": "La modernización del Estado también empieza por formar a quienes trabajan todos los días para los mendocinos."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Infraestructura básica",
+                "Desarrollo local",
+                "Acceso a servicios"
+            ],
+            "postura_politica": "Centrado en la provisión de servicios esenciales como el agua, destacando la importancia de estas obras para la salud y el desarrollo comunitario. Su gestión se enfoca en resolver necesidades concretas de las familias misioneras a través de infraestructura local.",
+            "frase_fuerte": "El acceso al agua es fundamental para la vida cotidiana y el desarrollo de nuestras comunidades."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Infraestructura deportiva",
+                "Rendición de cuentas",
+                "Federalismo",
+                "Inversión provincial"
+            ],
+            "postura_politica": "Enfatiza la inversión de recursos provinciales en programas sociales, deportivos y educativos, promoviendo una visión de 'Neuquén Vive' y de una gestión transparente y cercana a la gente. Su discurso resalta la autonomía provincial y el uso efectivo de recursos propios para el desarrollo.",
+            "frase_fuerte": "Cuando los recursos llegan donde se necesitan, las cosas cambian: deportistas y estudiantes con becas, y escuelas en lugar de tráilers."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Gestión local",
+                "Respuesta a necesidades",
+                "Cercanía con la comunidad"
+            ],
+            "postura_politica": "Se enfoca en la resolución de problemas históricos y la atención de las necesidades locales en comunidades pequeñas, proyectando una imagen de cercanía y acción. Busca dar respuestas concretas y visibilizar el trabajo territorial.",
+            "frase_fuerte": "En El Chaltén compartí esta charla con Gabriel, que me contó sobre su colegio y los arreglos que hacen falta. Escucharlo es parte de lo que vinimos a hacer, que es estar presentes y resolver lo que necesitan nuestros vecinos."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Gestión local",
+                "Políticas sociales"
+            ],
+            "postura_politica": "Destaca la concreción de soluciones habitacionales como un acto central de gobierno y un pilar para la tranquilidad familiar. Su gestión se orienta a cumplir sueños y brindar seguridad a los santafesinos a través de programas de vivienda.",
+            "frase_fuerte": "Tener un lugar propio es darles a los hijos un hogar y la tranquilidad de saber que eso ya es de ellos."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Deporte",
+                "Inclusión social",
+                "Educación"
+            ],
+            "postura_politica": "Promueve el deporte como una herramienta de formación, encuentro e inclusión para la juventud, garantizando la participación provincial en eventos nacionales. Destaca la importancia del deporte para el desarrollo integral y el fortalecimiento de valores.",
+            "frase_fuerte": "Creemos en el deporte como una herramienta de inclusión, formación y encuentro."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Deporte juvenil",
+                "Obra pública municipal",
+                "Cooperación provincial-municipal"
+            ],
+            "postura_politica": "Fomenta el deporte juvenil y la infraestructura local a través de programas de apoyo a clubes y convenios con municipios, destacando la generación de empleo y mejora de servicios en el territorio, mediante la articulación entre niveles de gobierno.",
+            "frase_fuerte": "Acuerdo Pcia-Municipios 'CONSTRUYENDO CON TU PUEBLO'. Esta tarde suscribimos nuevos acuerdos para Obras Públicas Municipales con 14 Municipios por un monto de inversión superior a 1500 millones de pesos."
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por la defensa de la universidad pública frente al ajuste nacional, con el gobernador de Buenos Aires denunciando asfixia financiera mientras varios mandatarios se refugiaron en gestión local.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La marcha universitaria del 15 de octubre unió a varios gobernadores peronistas en una crítica al desfinanciamiento nacional, mientras Kicillofok redobla la denuncia de asfixia fiscal. El gobierno nacional enfrenta un frente universitario que trasciende partidos.\n\nActo 2 — Los Alineamientos: Llaryora y Ziliotto se suman a la defensa de la universidad pública, alineándose con Kicillofok en la crítica fiscal. Por otro lado, Macri (CABA) evita el conflicto y muestra obras. Los gobernadores de provincias periféricas optan por la gestión local, un repliegue táctico.\n\nActo 3 — La Micro-política: Gobernadores como Passalacqua, Quintela, Poggi, Vidal Ser, Pullaro y Jaldo se enfocan en obras y programas provinciales, evitando posicionarse en el conflicto nacional. Es un refugio en la agenda de cabotaje para no desgastarse.\n\nActo 4 — Saldo Presidencial: La Casa Rosada enfrenta una jornada de presión universitaria sin grandes adhesiones de gobernadores no peronistas. La estrategia de esperar a que pase la marcha parece funcionar, pero la asfixia fiscal sigue siendo el tema latente.",
+    "temas_calientes": [
+        {
+            "tema": "Defensa de la universidad pública y financiamiento universitario",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Asfixia fiscal y denuncias contra el ajuste nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Obra pública provincial como respuesta al repliegue nacional",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Gestión local sin posicionamiento federal",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @larroqueandres)",
+        "texto": "Seguimos fortaleciendo el SAE en toda la Provincia\n\nEntregamos con @fernandogray y @BMeglia equipamiento del Servicio Alimentario Escolar a 81 instituciones de Esteban Echeverría por más de $106.000.000 de inversión.\n\nA pesar de la asfixia financiera del Gobierno nacional sobre la provincia de Buenos Aires, por decisión de @Kicillofok invertimos en cuidar la calidad alimentaria de los estudiantes bonaerenses.",
+        "por_que_es_clave": "Este tuit condensa la estrategia de Kicillofok: mostrar gestión provincial mientras denuncia el ahogo fiscal, posicionándose como el que defiende a los bonaerenses frente al ajuste de Milei.",
+        "pregunta_openarg": "¿Puede la provincia de Buenos Aires sostener el SAE con fondos propios si la coparticipación sigue cayendo?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "asfixia fiscal",
+                "Servicio Alimentario Escolar",
+                "marcha universitaria"
+            ],
+            "postura_politica": "Denuncia explícita al ajuste nacional mientras muestra gestión provincial. Se posiciona como defensor de los bonaerenses y líder de la oposición.",
+            "frase_fuerte": "a pesar de la asfixia financiera del Gobierno nacional sobre la provincia de Buenos Aires"
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "obra pública",
+                "autopista Dellepiane"
+            ],
+            "postura_politica": "Agenda de gestión local sin confrontación con Nación. Refuerza imagen de eficiencia y obra, alineado con el PRO.",
+            "frase_fuerte": "la mayor obra de infraestructura del país"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en la ventana de análisis (15/10 00:00 ARG a 15/10 23:59 ARG o 14/10 después de 20hs ARG)",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "emergencias",
+                "coordinación federal",
+                "Mesa ENOS"
+            ],
+            "postura_politica": "Colaboración con Nación en prevención de fenómenos climáticos. Perfil técnico y de gestión, sin conflicto.",
+            "frase_fuerte": "Unimos esfuerzos para fortalecer la articulación"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en la ventana de análisis",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "educación universitaria",
+                "autopista RN19",
+                "inversión provincial"
+            ],
+            "postura_politica": "Defiende la universidad pública y critica implícitamente el desfinanciamiento nacional. Muestra obra propia como respuesta al abandono de Nación.",
+            "frase_fuerte": "Los países que crecen y progresan son los que invierten en #educación"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "cumpleaños"
+            ],
+            "postura_politica": "Agenda personal sin impacto federal. Bajo peso político en la jornada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en la ventana de análisis",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en la ventana de análisis",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "marcha universitaria",
+                "prevención climática",
+                "transparencia"
+            ],
+            "postura_politica": "Se suma a la defensa de la universidad pública y denuncia indirecta al ajuste. También muestra gestión local en obras hídricas.",
+            "frase_fuerte": "LOS DERECHOS CONQUISTADOS SE DEFIENDEN. ¡LA PAMPA SE DEFIENDE!"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "educación",
+                "uso de celulares en escuelas"
+            ],
+            "postura_politica": "Gestión local sin confrontación. Tema de baja intensidad política.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "modernización del Estado",
+                "capacitación municipal",
+                "IA"
+            ],
+            "postura_politica": "Agenda de gestión y eficiencia. No se posiciona sobre el conflicto nacional. Perfil técnico y de coalición con Nación.",
+            "frase_fuerte": "La modernización del Estado también empieza por formar a quienes trabajan"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "agua potable",
+                "gestión local"
+            ],
+            "postura_politica": "Gestión local de baja intensidad. Sin mención a Nación. Se refugia en la agenda de cabotaje.",
+            "frase_fuerte": "El agua es salud, el agua es vida"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "turismo social",
+                "infraestructura deportiva",
+                "obras provinciales"
+            ],
+            "postura_politica": "Agenda de gestión con foco en obras y turismo. Sin conflicto con Nación. Muestra capacidad provincial.",
+            "frase_fuerte": "la neuquinidad la construimos entre todos"
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en la ventana de análisis",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en la ventana de análisis",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en la ventana de análisis",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "deporte",
+                "obras municipales",
+                "viviendas"
+            ],
+            "postura_politica": "Agenda local de gestión. Varios tweets, pero todos de bajo perfil federal. Sin mención a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "gestión local",
+                "salud",
+                "infraestructura"
+            ],
+            "postura_politica": "Gestión local en El Chaltén. Evita el conflicto nacional. Perfil de obra y cercanía.",
+            "frase_fuerte": "nos estamos haciendo cargo de lo que falta"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "viviendas",
+                "gestión local"
+            ],
+            "postura_politica": "Gestión local de baja intensidad. Sin posicionamiento federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en la ventana de análisis",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin actividad en la ventana de análisis",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "deporte",
+                "Juegos Evita"
+            ],
+            "postura_politica": "Gestión local en deporte. Sin mención a Nación. Agenda de bajo impacto federal.",
+            "frase_fuerte": null
+        }
+    ]
+}
