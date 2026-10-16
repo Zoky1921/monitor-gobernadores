@@ -1,0 +1,229 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal estuvo marcada por la polarización y la reafirmación de agendas provinciales frente a la Nación. Gobernadores como Axel Kicillof (Buenos Aires), Sergio Ziliotto (La Pampa) y Martín Llaryora (Córdoba) denunciaron el desfinanciamiento y la asfixia del gobierno central en educación pública y obras esenciales, destacando inversiones propias y la defensa de derechos. Jorge Macri (CABA), por su parte, endureció el discurso sobre 'ley y orden' en el ámbito educativo. Otros mandatarios, como Rogelio Frigerio (Entre Ríos), Rolando Figueroa (Neuquén) y Maximiliano Pullaro (Santa Fe), resaltaron la gestión de obra pública y programas sociales con recursos propios, mientras que Oscar Herrera Ahuad (Misiones) impulsó medidas de transparencia. El clima general refleja una persistente tensión entre las administraciones provinciales y el gobierno nacional.",
+    "analisis_profundo": "La agenda política federal de hoy exhibió una clara dicotomía entre la gestión provincial proactiva y la crítica constante hacia el gobierno nacional, configurando un escenario de tensión sostenida. Gobernadores de diversas extracciones políticas convergieron en la necesidad de auto-gestionar recursos y proyectos ante lo que perciben como un retiro o desfinanciamiento de la Nación.\n\nAxel Kicillof (Buenos Aires) y Sergio Ziliotto (La Pampa) fueron los más enfáticos en la defensa de la educación pública, utilizando la reciente Marcha Federal Universitaria como plataforma para denunciar el 'gran error' del gobierno central y su 'asfixia financiera'. Ambos mandatarios subrayaron la importancia de la educación como derecho y motor de futuro, reforzando la narrativa de un Estado provincial protector frente a la desatención nacional. Martín Llaryora (Córdoba) se unió a esta defensa, enfatizando que 'la universidad es el futuro del país' y que la falta de financiamiento compromete el futuro de estudiantes y docentes.\n\nEn contraposición, Jorge Macri (CABA) adoptó un tono confrontativo, desestimando manifestaciones en el ámbito educativo como 'barbarie' y 'delincuentes y zurdos infiltrados', reforzando su postura de 'ley y orden'. Esta retórica subraya la profunda grieta ideológica que atraviesa el debate sobre lo público y el rol del Estado.\n\nLa obra pública emergió como un pilar fundamental de la gestión provincial. Martín Llaryora (Córdoba) destacó la inauguración de tramos de la Autopista Nacional 19 con recursos propios, una obra 'abandonada por Nación', evidenciando la estrategia de reemplazar la inversión federal. Sergio Ziliotto (La Pampa) anunció una inversión millonaria en obras de prevención ante el fenómeno 'El Niño', en un claro mensaje de autonomía y previsión. Leandro Zdero (Chaco) también se sumó a este eje con sus obras de prevención hídrica y mesas de coordinación interjurisdiccional. Rolando Figueroa (Neuquén) presentó un vasto 'Presupuesto en Territorio' con 230 obras, mientras que Marcelo Orrego (San Juan) detalló su encuentro con el Jefe de Gabinete nacional para coordinar el avance de la Ruta Nacional 40, mostrando una búsqueda de diálogo específico para proyectos claves. Maximiliano Pullaro (Santa Fe) inauguró un centro de salud y entregó viviendas, consolidando su enfoque en la gestión de servicios directos a los ciudadanos. Claudio Poggi (San Luis) firmó acuerdos con municipios para obra pública y lanzó programas de apoyo deportivo, enfatizando la inversión local.\n\nEn el ámbito social y de servicios, Martín Llaryora (Córdoba) criticó duramente al PAMI por la 'incertidumbre y desprotección' de los adultos mayores, poniendo a disposición los recursos provinciales para cubrir la demanda. Rolando Figueroa (Neuquén) presentó el programa 'Huella Mayor' para turismo social de personas mayores, ligando la calidad de vida de los adultos a políticas de estado.\n\nLa transparencia en la gestión pública también ocupó un espacio, con Oscar Herrera Ahuad (Misiones) enviando un proyecto de ley para ampliar el control del Tribunal de Cuentas sobre empresas estatales, una medida en línea con la demanda ciudadana de 'claridad, apertura y una gestión de cara a la gente'.\n\nEn síntesis, la jornada reveló una consolidación del federalismo de gestión, donde las provincias se ven obligadas a asumir roles y responsabilidades ante la percepción de un Estado nacional retraído o conflictivo. Las críticas al desfinanciamiento nacional y la exhibición de capacidades propias delinean un escenario político tenso, donde la autonomía provincial busca reafirmarse mediante la acción concreta y el resguardo de la agenda local.",
+    "temas_calientes": [
+        {
+            "tema": "Defensa y Financiamiento de la Educación Pública",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Gestión de Obra Pública con Recursos Propios y Crítica a la Nación",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y Orden Público",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Atención Sanitaria y Bienestar Social",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Transparencia y Modernización del Estado",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@alfredocornejo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Una nueva y masiva Marcha Federal Universitaria deja en claro que aplicar la motosierra sobre la educación pública, los docentes, los estudiantes e investigadores es un gran error que compromete el presente y el futuro de la Argentina.\n\nMientras todos los países del mundo eligen proteger sus capacidades en innovación tecnológica y científica, el Gobierno nacional insiste en destruir algo tan preciado para nuestro pueblo, que va a seguir luchando para defender sus derechos.\n\nMilei, cumplí la ley.",
+        "por_que_es_clave": "El tweet es una crítica directa y explícita al Gobierno nacional y al Presidente, en el marco de una movilización federal por la educación. Utiliza un lenguaje confrontativo y politiza una demanda social clave.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Educación Pública",
+                "Asistencia Social",
+                "Relación Fiscal con la Nación"
+            ],
+            "postura_politica": "Defiende vehementemente la educación pública y la asistencia social provincial, criticando al Gobierno nacional por desfinanciamiento y asfixia fiscal. Subraya el rol protector del Estado provincial.",
+            "frase_fuerte": "Milei, cumplí la ley."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Seguridad Ciudadana",
+                "Educación",
+                "Obra Pública"
+            ],
+            "postura_politica": "Adopta una línea dura de 'ley y orden' frente a protestas relacionadas con la educación, deslegitimando a los manifestantes. Paralelamente, resalta la gestión en infraestructura local.",
+            "frase_fuerte": "Quieren instalar la barbarie. Son delincuentes y zurdos infiltrados que no les interesa la educación."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Prevención de Desastres Naturales",
+                "Salud Pública",
+                "Coordinación Interjurisdiccional"
+            ],
+            "postura_politica": "Enfoque en la gestión preventiva y la articulación con Nación para fenómenos climáticos como El Niño. Resalta programas de salud pública con impacto directo en la ciudadanía.",
+            "frase_fuerte": "Más obras de prevención ante El Niño:📍ampliamos el lago compensador y reforzamos las defensas. Pasaron más de 40 años y hoy hacemos las obras que el Chaco necesita."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Biocombustibles",
+                "Salud Pública",
+                "Educación Pública",
+                "Obra Pública",
+                "Crítica al Gasto Nacional",
+                "Seguridad Ciudadana"
+            ],
+            "postura_politica": "Defiende el federalismo productivo y la inversión en biocombustibles. Critica fuertemente al gobierno nacional por la desatención del PAMI y el desfinanciamiento universitario, reforzando la capacidad provincial para suplir esas deficiencias.",
+            "frase_fuerte": "Es inadmisible que nuestros abuelos tengan que atravesar esta situación de incertidumbre y desprotección, especialmente cuando se trata de algo tan esencial como su #salud."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Legislación Provincial",
+                "Desarrollo Institucional"
+            ],
+            "postura_politica": "Se concentra en el avance legislativo para el desarrollo social, económico e institucional de la provincia.",
+            "frase_fuerte": "¿Cómo avanzamos hacia una #Corrientes con más oportunidades para todos? Entre otras cosas, con leyes."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Finanzas Públicas",
+                "Inversión Provincial"
+            ],
+            "postura_politica": "Presenta un presupuesto con énfasis en el equilibrio fiscal y un aumento significativo en la inversión en obras y servicios, mostrando una gestión ordenada y orientada al desarrollo provincial.",
+            "frase_fuerte": "El equilibrio fiscal no se negocia porque es la base para sostener este rumbo: más inversión, mejores servicios y más oportunidades para los entrerrianos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Energías Renovables",
+                "Educación Pública",
+                "Prevención de Desastres Naturales",
+                "Soberanía Energética"
+            ],
+            "postura_politica": "Impulsa la inversión privada en energías renovables y la soberanía energética. Defiende enfáticamente la educación pública y destaca las inversiones provinciales en prevención climática, mostrando un federalismo activo.",
+            "frase_fuerte": "Los derechos conquistados se defienden. ¡La Pampa se defiende!"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Educación",
+                "Tecnología y Niñez"
+            ],
+            "postura_politica": "Aborda la regulación del uso de dispositivos móviles en las escuelas como una medida para proteger la infancia y juventud, fomentando un entorno educativo más concentrado.",
+            "frase_fuerte": "Nuestra mayor responsabilidad como adultos es cuidar a los más chicos. Y cuidar sus infancias y juventudes hoy, también significa prestar atención a cómo se relacionan con la tecnología."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Deporte y Juventud",
+                "Educación",
+                "Relaciones Internacionales",
+                "Modernización del Estado"
+            ],
+            "postura_politica": "Promueve el deporte escolar y la cooperación educativa internacional. Se enfoca en la modernización del Estado y la capacitación para mejorar los servicios públicos.",
+            "frase_fuerte": "Apostamos a una educación que abra oportunidades, conecte a Mendoza con el mundo y les dé a nuestros jóvenes más herramientas para su futuro."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Transparencia Pública",
+                "Relaciones Internacionales",
+                "Servicios Básicos"
+            ],
+            "postura_politica": "Impulsa la transparencia en el control de empresas estatales y fortalece lazos con Paraguay. Prioriza obras de servicios básicos como el acceso al agua.",
+            "frase_fuerte": "Los misioneros necesitan claridad, apertura y una gestión de cara a la gente, y quienes tenemos la responsabilidad de gobernar y manejar los recursos públicos trabajamos 24/7 para garantizar absoluta transparencia con medidas concretas."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Gestión de Gobierno",
+                "Obra Pública",
+                "Turismo Social",
+                "Rendición de Cuentas"
+            ],
+            "postura_politica": "Destaca un modelo de gestión enfocado en la inversión en obra pública, turismo social y la rendición de cuentas, buscando fortalecer la 'neuquinidad' a través de políticas directas.",
+            "frase_fuerte": "Cada decisión que tomamos tiene un objetivo: que el Modelo Neuquino llegue a cada región, a cada localidad y al metro cuadrado de cada neuquino."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Coordinación con Nación",
+                "Obra Pública"
+            ],
+            "postura_politica": "Se enfoca en la coordinación con el gobierno nacional para avanzar en obras de infraestructura clave, mostrando una búsqueda de soluciones conjuntas a pesar de las tensiones federales.",
+            "frase_fuerte": "Me reuní con el jefe de Gabinete de la Nación, @diegosantilli, en Casa Rosada para conversar sobre el trabajo que venimos desarrollando en San Juan y lo que tenemos por delante."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Justicia",
+                "Deporte",
+                "Obra Pública Municipal"
+            ],
+            "postura_politica": "Promueve la educación a través de congresos sobre IA y pedagogía, la reforma penal juvenil y el apoyo al deporte. Refuerza la colaboración con los municipios para obras públicas locales.",
+            "frase_fuerte": "San Luis , Cuna de Maestros. Más de 6000 docentes inscriptos en este Congreso de gran nivel académico. Muy bien !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Gestión Local",
+                "Atención Ciudadana"
+            ],
+            "postura_politica": "Se muestra cercano a las demandas ciudadanas en localidades del interior, prometiendo resolver las necesidades y criticando la falta de atención pasada.",
+            "frase_fuerte": "En El Chaltén compartí esta charla con Gabriel, que me contó sobre su colegio y los arreglos que hacen falta. Escucharlo es parte de lo que vinimos a hacer, que es estar presentes y resolver lo que necesitan nuestros vecinos."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Salud Pública",
+                "Obra Pública Vial"
+            ],
+            "postura_politica": "Enfatiza la culminación de obras públicas y la entrega de soluciones habitacionales y de salud, demostrando un enfoque en la gestión concreta y el bienestar ciudadano.",
+            "frase_fuerte": "En Santa Fe tenemos una convicción: terminar cada obra pública que la gente necesita."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Educación",
+                "Salud",
+                "Deporte",
+                "Inclusión"
+            ],
+            "postura_politica": "Se enfoca en la educación superior y la formación de profesionales de la salud. Resalta la importancia del deporte como herramienta de inclusión y formación para la juventud.",
+            "frase_fuerte": "Fortalecer la salud requiere obras, tecnología y profesionales capacitados, con vocación de servicio y calidez humana."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Liderazgo y Desarrollo Regional"
+            ],
+            "postura_politica": "Promueve el diálogo intersectorial y la reflexión sobre el liderazgo como herramientas para impulsar el desarrollo provincial.",
+            "frase_fuerte": "Liderar hoy no se trata simplemente de ser jefe, sino de asumir un rol y un compromiso desde el lugar que a cada uno asume: en la actividad privada, pública, deportiva o cultural."
+        }
+    ]
+}
