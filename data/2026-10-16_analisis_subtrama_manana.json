@@ -1,0 +1,82 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada exhibe un federalismo pragmático: mientras Córdoba y Corrientes marcan distancia crítica de Nación, las provincias mineras (Catamarca, Jujuy, San Juan, Neuquén) profundizan su alineamiento con el RIGI y la captación de inversiones. La mayoría de los gobernadores se refugian en la gestión local, evitando confrontar abiertamente con la Casa Rosada, pero sin endorsar el ajuste.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión del día no es un choque frontal sino una disputa de narrativas. Martín Llaryora (Córdoba) lanza el misil más certero: acusa al Gobierno nacional de haber abandonado sus responsabilidades y erige a su provincia como un Estado amortiguador que sostiene salud, obra pública y educación con recursos propios. Gustavo Valdés (Corrientes) agrega una arista de soberanía al denunciar la falta de demarcación en Isla Apipé, un tema que interpela directamente al Congreso. Ambos gobernadores, de signo político opuesto, coinciden en un diagnóstico: la Nación no está a la altura de las demandas federales.\n\nActo 2 — Los Alineamientos: En la vereda opuesta, el bloque minero-energético consolida su sintonía con el oficialismo nacional. Raúl Jalil (Catamarca), Carlos Sadir (Jujuy), Alfredo Cornejo (Mendoza), Rolando Figueroa (Neuquén) y Marcelo Orrego (San Juan) despliegan una agenda de inversiones, RIGI y cooperación internacional que calza perfectamente con el relato de la Casa Rosada. No hay crítica al ajuste; hay celebración de la seguridad jurídica y la apertura al mundo. Son los gobernadores que mejor capitalizan el viento de cola de la macroeconomía para sus territorios.\n\nActo 3 — La Micro-política: El resto de los mandatarios opta por el repliegue en la agenda de cabotaje. Leandro Zdero (Chaco) inaugura un centro odontológico con fondos de subastas; Claudio Poggi (San Luis) apuesta a la educación con inteligencia artificial; Maximiliano Pullaro (Santa Fe) entrega viviendas y centros de salud; Osvaldo Jaldo (Tucumán) se enfoca en seguridad y deporte. Son gestos de gestión que evitan pronunciarse sobre la macroeconomía, pero que en su acumulación construyen un relato de eficiencia provincial frente a la parálisis nacional. El silencio sobre la inflación o el ajuste es, en sí mismo, un mensaje de supervivencia política.\n\nActo 4 — Saldo Presidencial: El balance para la Casa Rosada es agridulce. Por un lado, los gobernadores mineros le dan oxígeno al RIGI y a la narrativa de inversiones. Por otro, la crítica de Córdoba y Corrientes siembra dudas sobre la sostenibilidad social del ajuste. La ausencia de un bloque opositor unificado juega a favor del Gobierno, pero la acumulación de reclamos federales (coparticipación, obra pública, educación) podría cristalizar en una agenda legislativa incómoda. Por ahora, el tablero muestra una negociación tácita: las provincias no rompen, pero tampoco se entregan.",
+    "temas_calientes": [
+        {
+            "tema": "Inversiones mineras y energéticas con foco en RIGI y litio",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@carlossadirjuy",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Gestión provincial y obra pública como contrapeso al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educación y universidades: defensa del financiamiento y la calidad",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Federalismo fiscal y reclamos de soberanía territorial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@gustavovaldesok"
+            ]
+        },
+        {
+            "tema": "Seguridad y justicia: modernización y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "EN CÓRDOBA NO MIRAMOS PARA OTRO LADO\n\nEstamos atravesando una crisis muy fuerte, que no se mide solamente en números, sino que se siente todos los días cuando hablamos con nuestra gente y conocemos las dificultades que atraviesan las familias argentinas.\n\nFrente a esta realidad, los gobiernos provinciales y municipales nos hemos convertido en amortiguadores de la crisis, haciéndonos cargo de muchas responsabilidades que hoy el Gobierno nacional dejó de atender.\n\nEn Córdoba tomamos una decisión: no vamos a abandonar a nuestra gente. Por eso seguimos invirtiendo en salud pública, construyendo hospitales y ampliando la atención.\n\nLo mismo sucede con la obra pública. Mientras la Nación paralizó las inversiones, nosotros nos hacemos cargo de rutas nacionales y seguimos inaugurando nuevos tramos de autopistas, porque sabemos que la infraestructura genera trabajo, producción y oportunidades.\n\nEl equilibrio fiscal es importante, pero no puede conseguirse a costa de desatender las necesidades de la gente. El verdadero desafío es administrar con responsabilidad y, al mismo tiempo, impulsar el crecimiento y el desarrollo.\n\nEse es el camino que defendemos desde #Córdoba: un Estado que acompañe, que cuide a su gente y que no se detenga frente a las dificultades. Porque gobernar también es hacerse cargo.\n\n#HacerParaCrecer",
+        "por_que_es_clave": "Llaryora se posiciona como el líder de un federalismo alternativo, marcando distancia del ajuste nacional y reivindicando la capacidad de gestión provincial como amortiguador social. El mensaje refuerza la narrativa de que Córdoba no espera soluciones de Nación, sino que las ejecuta por su cuenta, erosionando el relato de la Casa Rosada sobre la eficacia del ajuste.",
+        "pregunta_openarg": "¿Hasta qué punto la estrategia de Córdoba de 'hacerse cargo' de rutas nacionales y servicios puede sostenerse sin una reforma del sistema de coparticipación que la beneficie?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "minería",
+                "litio",
+                "inversiones",
+                "RIGI",
+                "cooperación internacional"
+            ],
+            "postura_politica": "Se presenta como el gestor del desarrollo minero, alineado con el RIGI y la apertura al mundo. Su mensaje es de optimismo inversor, sin cuestionar el ajuste nacional. La omisión de la crisis social es deliberada: busca atraer capitales mostrando una provincia ordenada y previsible.",
+            "frase_fuerte": "Catamarca tiene grandes oportunidades de crecimiento en la minería del cobre y el litio, y estamos trabajando para que ese potencial se traduzca en nuevas inversiones, producción y empleo para nuestra gente."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "salud",
+                "obra pública",
+                "eficiencia",
+                "recursos provinciales"
+            ],
+            "postura_politica": "Apuesta a la gestión local como marca de gobierno. La inauguración del centro odontológico con fondos de subastas es un guiño a la austeridad y a la no dependencia de Nación. Evita cualquier confrontación y se refugia en la agenda de cabotaje.",
+            "frase_fuerte": "Los recursos de los chaqueños vuelven a los chaqueños, y acá está la muestra."
+        }
+    ]
+}
