@@ -1,0 +1,184 @@
+{
+    "clima_general": "COMPETITIVO",
+    "resumen_ejecutivo": "La jornada federal se caracteriza por una marcada heterogeneidad. Varios gobernadores (Axel Kicillof de Buenos Aires, Raúl Jalil de Catamarca, Sergio Ziliotto de La Pampa y Ricardo Quintela de La Rioja) aprovechan el Día de la Lealtad Peronista para reafirmar sus convicciones y su compromiso con la gestión local y la justicia social. En contraste, Jorge Macri (Ciudad Autónoma de Buenos Aires) endurece su política de 'porteños primero' en servicios. Otros mandatarios, como Martín Llaryora (Córdoba) y Marcelo Orrego (San Juan), debaten sobre logística federal, mientras Rolando Figueroa (Neuquén) y Leandro Zdero (Chaco) destacan obras de infraestructura y salud. Hugo Passalacqua (Misiones) subraya la transparencia, y Maximiliano Pullaro (Santa Fe) enfatiza la lucha contra el crimen.",
+    "analisis_profundo": "La agenda de los gobernadores este 17 de octubre de 2026 y últimas horas de ayer evidencia una clara polarización entre la reafirmación de identidades políticas y la gestión pragmática de las provincias. El 'Día de la Lealtad Peronista' se convierte en un eje discursivo central para Axel Kicillof (Buenos Aires), Raúl Jalil (Catamarca), Sergio Ziliotto (La Pampa) y Ricardo Quintela (La Rioja), quienes utilizan la fecha para destacar el compromiso con la 'justicia social' y la 'defensa de los intereses de la provincia', un mensaje que resuena en un contexto nacional de ajuste. Este bloque peronista subraya la importancia de un Estado activo y cercano a las necesidades de la gente, lo que podría interpretarse como una crítica velada o abierta a las políticas del gobierno central.\nParalelamente, Jorge Macri (Ciudad Autónoma de Buenos Aires) profundiza una postura de exclusividad en los servicios para los residentes de su jurisdicción, marcando una tensión con las provincias circundantes y una afirmación de autonomía porteña que puede generar roces interjurisdiccionales. Esta visión contrasta con el federalismo que muchos gobernadores peronistas suelen invocar.\nEn el ámbito de la gestión, la infraestructura y el desarrollo productivo son temas recurrentes. Martín Llaryora (Córdoba) y Marcelo Orrego (San Juan) participan en la Cumbre Federal de Logística, enfatizando la necesidad de una 'estrategia nacional' que involucre inversiones para la 'competitividad de las provincias'. Rolando Figueroa (Neuquén) anuncia importantes obras de gas y salud, ligando el desarrollo de la provincia a la planificación presupuestaria a largo plazo. Leandro Zdero (Chaco) se enfoca en la atención sanitaria en zonas vulnerables, mientras que Hugo Passalacqua (Misiones) destaca la transparencia gubernamental. Maximiliano Pullaro (Santa Fe) refuerza su mensaje de lucha contra la impunidad, conectando la recuperación de bienes delictivos con el resarcimiento a las víctimas.\nLas alianzas regionales también se hacen presentes, como en el retweet de Raúl Jalil (Catamarca) sobre la 'integración productiva entre Mendoza y Neuquén' en minería y energía, señalando la cooperación interprovincial en sectores estratégicos. La variedad de temas, desde la política partidaria hasta la infraestructura y la seguridad, muestra gobernadores focalizados en sus problemáticas locales pero con una clara conciencia de las dinámicas federales y las posibles implicancias de las políticas nacionales.",
+    "temas_calientes": [
+        {
+            "tema": "Reafirmación Peronista y Día de la Lealtad",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Autonomía y Exclusividad de Servicios en CABA",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Logística e Infraestructura Federal para la Competitividad",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Desarrollo Minero y Energético Regional",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa",
+                "@DrMarceloOrrego"
+            ]
+        },
+        {
+            "tema": "Educación e Innovación y Gestión de Obra Pública",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@QuintelaRicardo",
+                "@LeandroZdero"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Exclusivo para porteños.",
+        "por_que_es_clave": "Este tweet es una declaración política concisa y potente que encapsula la postura del gobernador de CABA sobre la priorización de sus ciudadanos en el acceso a servicios, lo que puede generar fuertes tensiones con las provincias limítrofes y a nivel federal. Es una afirmación directa de autonomía y exclusividad.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Día de la Lealtad",
+                "unidad peronista",
+                "gestión local"
+            ],
+            "postura_politica": "Reafirma la identidad peronista y el compromiso con el pueblo, utilizando el Día de la Lealtad para movilizar y solidificar su base política. Su participación en La Matanza subraya la cercanía con el territorio.",
+            "frase_fuerte": "Ya estamos en La Matanza para celebrar el Día de la Lealtad junto a compañeros y compañeras ✌️"
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Exclusividad de servicios",
+                "autonomía porteña"
+            ],
+            "postura_politica": "Adopta una postura firme en la defensa de los recursos y servicios para los residentes de la Ciudad Autónoma de Buenos Aires, lo que implica una potencial tensión con otras provincias que históricamente han utilizado sus servicios. Su mensaje es directo y restrictivo.",
+            "frase_fuerte": "Exclusivo para porteños."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Día de la Lealtad",
+                "justicia social",
+                "desarrollo minero y energético",
+                "integración regional"
+            ],
+            "postura_politica": "Se alinea con el peronismo en el Día de la Lealtad, enfocándose en la dignidad del trabajo y la defensa provincial. También promueve activamente la integración regional para el desarrollo minero, buscando valor agregado y empleo local a través de alianzas interprovinciales.",
+            "frase_fuerte": "El 17 de octubre nos recuerda el origen de un movimiento que transformó la Argentina, poniendo en el centro la dignidad del trabajo, la justicia social y la organización de nuestra comunidad."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Salud pública",
+                "atención en El Impenetrable",
+                "capacitaciones"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con la mejora de la salud pública, priorizando la atención especializada y la telemedicina en zonas remotas de la provincia. Su enfoque es de gestión y servicio directo a las comunidades chaqueñas más vulnerables.",
+            "frase_fuerte": "En #FuerteEsperanza, acercamos especialistas, estudios médicos y capacitaciones para fortalecer la atención sanitaria en El Impenetrable chaqueño. 🩺"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Logística federal",
+                "infraestructura productiva",
+                "competitividad provincial"
+            ],
+            "postura_politica": "Aboga por una 'estrategia nacional' en infraestructura y logística que impulse el desarrollo productivo y la competitividad de las economías regionales. Su enfoque es productivista y demanda una visión federal en las inversiones y planificación del país.",
+            "frase_fuerte": "Es un tema que requiere de una estrategia como país, por los montos y las inversiones que demanda, más allá del esfuerzo que hagan intendentes y gobernadores."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Política partidaria",
+                "internas UCR"
+            ],
+            "postura_politica": "Se centra en la vida interna de su partido, la UCR, convocando a la participación en las elecciones internas. Esto denota un enfoque en la construcción de poder y la renovación partidaria a nivel provincial, mirando al futuro de Corrientes.",
+            "frase_fuerte": "Convocamos a todos los correligionarios de la provincia a ser parte de un nuevo proceso democrático. El 13 de diciembre nos encontramos en las urnas para seguir construyendo una UCR fuerte, unida y protagonista del futuro de Corrientes 🇵🇱"
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Día de la Lealtad",
+                "convicciones peronistas",
+                "compromiso social"
+            ],
+            "postura_politica": "Reafirma los principios del peronismo, vinculando la fecha a la solidaridad y el trabajo comunitario. Su mensaje enfatiza la constancia de las convicciones en la defensa de los derechos del pueblo pampeano, mostrando lealtad a un ideario.",
+            "frase_fuerte": "CONVICCIONES QUE SE DEMUESTRAN 17 de Octubre, Día de la Lealtad Peronista."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Día de la Lealtad",
+                "justicia social",
+                "obras de iluminación",
+                "seguridad"
+            ],
+            "postura_politica": "Celebra el Día de la Lealtad, reiterando la defensa de la justicia social y el legado peronista. Complementa esto con la difusión de obras de infraestructura local, buscando mejorar la calidad de vida y seguridad de los riojanos a través de gestión concreta.",
+            "frase_fuerte": "✌️❤️🇦🇷 La lealtad al pueblo, a la justicia social y a las banderas de Perón y Evita que sigue más viva que nunca."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Transparencia",
+                "rendición de cuentas"
+            ],
+            "postura_politica": "Destaca la importancia de la transparencia y la rendición de cuentas en la gestión pública. Se enfoca en una administración abierta y clara para los ciudadanos, priorizando la confianza y la visibilidad de la gestión.",
+            "frase_fuerte": "Más claridad, apertura y transparencia. Porque gobernar también es rendir cuentas a diario."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Obras de infraestructura (gas, hospitales)",
+                "desarrollo regional",
+                "planificación presupuestaria"
+            ],
+            "postura_politica": "Enfatiza la concreción de obras vitales para las comunidades más alejadas, como el gas y nuevos hospitales, ligando estas acciones a una planificación presupuestaria para 2027. Busca fortalecer el arraigo y la calidad de vida en el interior provincial mediante la gestión eficiente.",
+            "frase_fuerte": "CHORRIACA VA A CONTAR CON GAS ANTES DE LA LLEGADA DEL PRÓXIMO INVIERNO"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Logística",
+                "minería",
+                "desarrollo productivo"
+            ],
+            "postura_politica": "Participa activamente en foros de logística, buscando posicionar a San Juan como un actor clave en el desarrollo minero. Su enfoque es de crecimiento económico a través de la infraestructura y el aprovechamiento de recursos provinciales, generando más oportunidades.",
+            "frase_fuerte": "Participé de la 2ª Cumbre Federal de Logística en Buenos Aires, donde conversamos sobre cómo mejorar el transporte y las conexiones para acompañar la producción de las provincias y llegar a más mercados."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Innovación educativa",
+                "Inteligencia Artificial",
+                "gestión educativa"
+            ],
+            "postura_politica": "Destaca la relevancia de San Luis como 'cuna de maestros' y pionera en la integración de la inteligencia artificial en la pedagogía. Su gestión se enfoca en modernizar y fortalecer el sistema educativo, atrayendo figuras internacionales y mostrando modelos innovadores.",
+            "frase_fuerte": "Nuestra Universidad Provincial de Oficios - UPRO- fue otro modelo educativo que los expositores internacionales del Congreso de Educación de IA/PEDAGOGIA quisieron conocer y visitar. Un modelo educativo de oficios muy innovador."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "lucha contra el crimen organizado",
+                "resarcimiento a víctimas"
+            ],
+            "postura_politica": "Reafirma un compromiso inquebrantable en la lucha contra la impunidad y el crimen organizado, destacando la importancia de la persecución de delincuentes y la utilización de sus bienes para beneficio de las víctimas. Su mensaje es de ley y orden.",
+            "frase_fuerte": "Santa Fe es ejemplo en la lucha contra la impunidad. Al delito se lo persigue y a los delincuentes se los encarcela, pero además vamos por su plata y sus bienes, y lo que recaudamos va para resarcir a las víctimas."
+        }
+    ]
+}
