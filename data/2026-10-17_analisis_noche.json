@@ -1,0 +1,223 @@
+{
+    "clima_general": "COMPETITIVO",
+    "resumen_ejecutivo": "La jornada política federal estuvo marcadamente influenciada por la conmemoración del Día de la Lealtad Peronista, con varios gobernadores peronistas (@Kicillofok, @ZiliottoSergio, @QuintelaRicardo, @OsvaldoJaldo) reafirmando principios de justicia social y, en algunos casos, posicionándose como clara oposición al gobierno nacional. En contrapartida, mandatarios de otras fuerzas (@jorgemacri, @ClaudioVidalSer) enfocaron su discurso en la gestión local, la transparencia y la crítica a administraciones pasadas, mientras que otros (@MartinLlaryora, @LeandroZdero, @NachoTorresCH, @DrMarceloOrrego, @claudiojpoggi) destacaron obras de infraestructura, educación e impulso productivo con un fuerte énfasis en la autonomía y visión regional. Este escenario configura un clima competitivo, con afirmaciones de identidad política y modelos de gestión provinciales diferenciados.",
+    "analisis_profundo": "La agenda federal del 17 de octubre de 2026 giró predominantemente en torno a la celebración del Día de la Lealtad Peronista y la reafirmación de identidades políticas. Gobernadores como Axel Kicillof (Buenos Aires), Sergio Ziliotto (La Pampa), Ricardo Quintela (La Rioja) y Osvaldo Jaldo (Tucumán) aprovecharon la fecha para movilizar a sus bases, reivindicar los postulados históricos del peronismo y, en el caso de Kicillof (Buenos Aires), proyectar una alternativa para 2027 frente a la actual gestión nacional. El mensaje unificador fue la defensa del pueblo, el trabajo y la justicia social. Raúl Jalil (Catamarca), si bien se sumó a la conmemoración, priorizó la gestión local y la cooperación interprovincial en minería y energía, mostrando un perfil más pragmático. \n\nEn el otro espectro, Jorge Macri (Ciudad Autónoma de Buenos Aires) continuó con una postura 'porteña' en la gestión de servicios, lo que puede intensificar las tensiones interjurisdiccionales. Claudio Vidal (Santa Cruz) se destacó por la entrega de viviendas y servicios descentralizados, acompañando estas acciones con duras críticas a la herencia del kirchnerismo en la provincia, lo que subraya un quiebre político local. Maximiliano Pullaro (Santa Fe) mantuvo un fuerte perfil en seguridad, enfocándose en la lucha contra la impunidad y la recuperación de activos para las víctimas, consolidando su modelo de orden. Rogelio Frigerio (Entre Ríos) resaltó la transparencia y la rendición de cuentas como pilares de su administración. \n\nMandatarios como Martín Llaryora (Córdoba) hicieron hincapié en la inversión en educación e infraestructura con recursos provinciales, promoviendo el 'modelo Córdoba' y la necesidad de una estrategia logística federal. Marcelo Orrego (San Juan) y Claudio Poggi (San Luis) también impulsaron la educación innovadora (con foco en IA y oficios) y el desarrollo productivo, vinculando la formación de capital humano a sectores estratégicos como la minería y la agroindustria. Leandro Zdero (Chaco) y Nacho Torres (Chubut) enfocaron su comunicación en obras y servicios con impacto directo en la vida de los ciudadanos, con Torres (Chubut) humanizando la gestión a través de historias particulares. \n\nEl balance general sugiere un clima político competitivo, donde las identidades y los modelos de gestión provinciales se afirman, a veces en contraposición a las políticas nacionales o a legados previos, pero también con puntos de encuentro para la cooperación en temas específicos de desarrollo regional. La polarización ideológica se manifestó en el Día de la Lealtad, mientras que la gestión exhibió una marcada autonomía provincial.",
+    "temas_calientes": [
+        {
+            "tema": "Día de la Lealtad Peronista y Posicionamiento Político",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@RaulJalil_ok",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Autonomía y Gestión Provincial vs. Contexto Nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@jorgemacri",
+                "@ClaudioVidalSer",
+                "@NachoTorresCH",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Desarrollo Productivo Regional",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@RaulJalil_ok",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Educación e Innovación Tecnológica",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Seguridad, Justicia y Lucha contra la Impunidad",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "No vamos a quedarnos de brazos cruzados viendo sufrir a los argentinos. Con las banderas históricas del peronismo vamos a dar vuelta este presente y a construir la victoria que le devuelva la dignidad al pueblo trabajador. Es lo que nos exige este momento histórico y la mejor manera de honrar la lealtad a Perón.",
+        "por_que_es_clave": "El gobernador de Buenos Aires utiliza la fecha peronista para un mensaje de oposición frontal al gobierno nacional, posicionándose explícitamente como líder de una fuerza que busca revertir el 'presente' y construir una 'victoria' en 2027. Es una declaración de alta carga política y proyección electoral.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Día de la Lealtad Peronista",
+                "oposición al gobierno nacional",
+                "planificación electoral 2027",
+                "justicia social",
+                "producción",
+                "trabajo",
+                "soberanía"
+            ],
+            "postura_politica": "Fuerte liderazgo peronista, crítico del gobierno nacional. Se posiciona como articulador de una alternativa política con miras a las próximas elecciones, apelando a las bases del movimiento y la militancia.",
+            "frase_fuerte": "No vamos a quedarnos de brazos cruzados viendo sufrir a los argentinos. Con las banderas históricas del peronismo vamos a dar vuelta este presente y a construir la victoria que le devuelva la dignidad al pueblo trabajador."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Gestión local",
+                "servicios públicos",
+                "salud",
+                "política de exclusividad para residentes"
+            ],
+            "postura_politica": "Reafirma una política de priorización de los 'porteños' en el acceso a servicios públicos, especialmente en salud, con un tono divisivo hacia la provincia de Buenos Aires. Enfatiza la gestión autónoma de la Ciudad.",
+            "frase_fuerte": "Exclusivo para porteños."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Día de la Lealtad Peronista",
+                "desarrollo productivo",
+                "minería",
+                "energía",
+                "integración regional",
+                "diálogo"
+            ],
+            "postura_politica": "Combina la celebración de la identidad peronista con un enfoque pragmático en la gestión y el desarrollo económico. Promueve la cooperación interprovincial en sectores clave como minería y energía.",
+            "frase_fuerte": "En Catamarca honramos ese legado con una convicción que nos enseñó Perón: mejor que decir es hacer."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "conectividad",
+                "salud rural",
+                "telemedicina"
+            ],
+            "postura_politica": "Enfatiza la concreción de obras 'históricas' para mejorar la conectividad y el acceso a servicios esenciales en zonas remotas de la provincia, destacando una gestión enfocada en resultados tangibles.",
+            "frase_fuerte": "Dimos un paso histórico: LA RUTA 13 SERÁ UNA REALIDAD🛣️ Vamos a pavimentar más de 90 kilómetros de este camino, una obra emblemática para el sudoeste chaqueño, que mejorará la conectividad local y productiva, beneficiando a más de 100 mil chaqueños."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Vivienda social",
+                "obra pública con enfoque humano",
+                "gestión local"
+            ],
+            "postura_politica": "Centra su comunicación en el impacto social directo de la gestión, utilizando historias personales para ilustrar la mejora de la calidad de vida a través de la obra pública y el cumplimiento de promesas.",
+            "frase_fuerte": "Porque detrás de cada obra que encaramos hay historias, sueños y chubutenses que merecen una oportunidad."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación",
+                "infraestructura",
+                "desarrollo productivo",
+                "empleo",
+                "logística federal",
+                "autonomía provincial"
+            ],
+            "postura_politica": "Afirma el liderazgo provincial en políticas de educación e infraestructura, financiadas con recursos propios y presentadas como modelo de desarrollo autónomo. Demanda una visión federal para la logística nacional.",
+            "frase_fuerte": "En #Córdoba tenemos un modelo que apuesta a la producción y al trabajo, con una premisa clara: para que haya inversión, tiene que haber infraestructura que la haga posible."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Día de la Lealtad Peronista",
+                "militancia",
+                "principios peronistas",
+                "compromiso con el pueblo"
+            ],
+            "postura_politica": "Expresión de fuerte identidad peronista y compromiso con los valores históricos del movimiento. Destaca la militancia como pilar para la acción gubernamental y la defensa de las convicciones.",
+            "frase_fuerte": "Porque hay convicciones que no cambian con los tiempos. Hay convicciones que se defienden."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Día de la Lealtad Peronista",
+                "justicia social",
+                "obras públicas locales",
+                "seguridad"
+            ],
+            "postura_politica": "Celebra el Día de la Lealtad reafirmando los valores peronistas y de justicia social, mientras resalta la gestión en obras públicas locales para mejorar la calidad de vida y la seguridad de los ciudadanos.",
+            "frase_fuerte": "La lealtad al pueblo, a la justicia social y a las banderas de Perón y Evita que sigue más viva que nunca."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Transparencia",
+                "rendición de cuentas",
+                "buena gobernanza"
+            ],
+            "postura_politica": "Enfocado en la promoción de la transparencia y la rendición de cuentas como pilares de su gestión, transmitiendo un mensaje de administración clara y abierta a la ciudadanía.",
+            "frase_fuerte": "Más claridad, apertura y transparencia. Porque gobernar también es rendir cuentas a diario."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Logística",
+                "minería",
+                "desarrollo productivo",
+                "educación",
+                "formación profesional",
+                "innovación"
+            ],
+            "postura_politica": "Promueve la provincia como un polo de desarrollo minero y energético, destacando la importancia de la logística y la formación de capital humano a través de la educación innovadora, incluyendo cooperación internacional.",
+            "frase_fuerte": "Los proyectos mineros también necesitan trasladar insumos, equipos y minerales, y eso abre oportunidades para las empresas de transporte, los proveedores y los trabajadores sanjuaninos."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación (IA y pedagogía)",
+                "formación profesional",
+                "desarrollo agroindustrial",
+                "tecnología"
+            ],
+            "postura_politica": "Impulsa la educación en la vanguardia tecnológica (IA) y la formación de oficios, destacando el modelo innovador de la provincia. También apoya el desarrollo agroindustrial con tecnología.",
+            "frase_fuerte": "Ratificamos la visión humana del uso de la IA en la enseñanza !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Servicios públicos descentralizados",
+                "vivienda social",
+                "obra pública",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Enfatiza la resolución de necesidades básicas y la descentralización de servicios, marcando una clara distancia y crítica a la inacción y corrupción de administraciones kirchneristas pasadas en la provincia.",
+            "frase_fuerte": "El kirchnerismo se olvidó de eso. Convirtió la obra pública en un negocio para unos pocos, mientras miles de familias seguían esperando su hogar."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Seguridad",
+                "lucha contra la impunidad",
+                "justicia",
+                "recuperación de activos"
+            ],
+            "postura_politica": "Lidera con un mensaje fuerte en seguridad y justicia, destacando la persecución del delito y la recuperación de bienes de delincuentes para resarcir a las víctimas, posicionando a Santa Fe como un referente en la materia.",
+            "frase_fuerte": "Al delito se lo persigue y a los delincuentes se los encarcela, pero además vamos por su plata y sus bienes, y lo que recaudamos va para resarcir a las víctimas."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Día de la Lealtad Peronista",
+                "movilización política",
+                "juventud peronista",
+                "unidad",
+                "compromiso social"
+            ],
+            "postura_politica": "Reafirma los valores peronistas, la movilización popular y el rol de las nuevas generaciones. Llama a la unidad y al compromiso para enfrentar las dificultades nacionales y gobernar para todos los tucumanos.",
+            "frase_fuerte": "El peronismo tiene una historia que nos identifica y, al mismo tiempo, el desafío de construir respuestas para el presente."
+        }
+    ]
+}
