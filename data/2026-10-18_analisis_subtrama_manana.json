@@ -1,0 +1,176 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada dominada por saludos por el Día de la Madre. Algunos gobernadores aprovecharon para destacar gestión provincial en obras y educación, sin confrontación directa con Nación. La ausencia de tensión fiscal o política marca un día de bajo perfil.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada estuvo marcada por la ausencia de conflicto. El Día de la Madre monopolizó la agenda de los gobernadores, quienes optaron por mensajes protocolares. Sin embargo, algunos mandatarios como Figueroa (Neuquén) y Llaryora (Córdoba) aprovecharon para visibilizar gestión provincial, sugiriendo una estrategia de refugio en la agenda local ante el complejo escenario nacional.\n\nActo 2 — Los Alineamientos: Jalil (Catamarca) se destacó al retuitear un encuentro con el presidente de YPF, mostrando sintonía con la política energética nacional. En contraste, la mayoría evitó mencionar a Nación, lo que puede interpretarse como un repliegue calculado.\n\nActo 3 — La Micro-política: Zdero (Chaco) y Figueroa (Neuquén) enfatizaron obras públicas y récords de empleo, marcando autonomía de gestión. Llaryora defendió la inversión educativa provincial. Estos gestos buscan capitalizar políticamente la gestión local.\n\nActo 4 — Saldo Presidencial: Para Casa Rosada, la jornada no representó un desafío abierto, pero tampoco adhesiones explícitas. El silencio de los gobernadores peronistas y la cautela de los dialoguistas sugieren una tregua táctica más que un apoyo genuino.",
+    "temas_calientes": [
+        {
+            "tema": "Saludos por el Día de la Madre",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@gustavovaldesok",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Gestión de infraestructura provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Educación como prioridad provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Alineamiento con política energética nacional",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Empleo y desarrollo productivo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@RaulJalil_ok (RT de @apbulgheroni_jr)",
+        "texto": "Muy buen almuerzo hoy del Consejo Interamericano de Comercio y Producción (CICyP), que preside mi mamá, Bettina Bulgheroni, con el presidente y CEO de YPF, @HoracioMarin_ok, como invitado. ... Tantas logros de YPF pudo destacar Horacio que hasta le dijo a mis padres que la empresa es tan buena que 'Alejandrito quiere trabajar ahí'. ... YPF es un ejemplo para nuestra industria y para toda la Argentina. Es el motor de desarrollo contagioso que el país necesita",
+        "por_que_es_clave": "Jalil se posiciona como aliado de la gestión de YPF y del rumbo energético de Milei, en un contexto donde otros gobernadores evitan pronunciarse.",
+        "pregunta_openarg": "¿Hasta qué punto la alianza de Jalil con la política energética nacional le garantiza beneficios fiscales para Catamarca?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Día de la Madre"
+            ],
+            "postura_politica": "Saludo protocolar sin contenido político. Omisión de la crisis provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Energía",
+                "YPF",
+                "Inversiones"
+            ],
+            "postura_politica": "Alineamiento explícito con la política energética nacional y la gestión de YPF, buscando posicionar a Catamarca en el mapa de inversiones.",
+            "frase_fuerte": "YPF es un ejemplo para nuestra industria y para toda la Argentina. Es el motor de desarrollo contagioso que el país necesita"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura vial",
+                "Prevención"
+            ],
+            "postura_politica": "Gestión provincial autónoma, destacando obras propias sin mencionar a Nación. Busca mostrar eficiencia local.",
+            "frase_fuerte": "Dimos un paso histórico: la licitación de la Ruta Provincial N°13"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Día de la Madre",
+                "Educación"
+            ],
+            "postura_politica": "Reivindicación de la inversión educativa provincial como contraste con el ajuste nacional. Saludo protocolar.",
+            "frase_fuerte": "En Córdoba, la educación es prioridad"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Día de la Madre"
+            ],
+            "postura_politica": "Saludo protocolar sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Día de la Madre"
+            ],
+            "postura_politica": "Saludo protocolar sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Día de la Madre"
+            ],
+            "postura_politica": "Saludo protocolar sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Día de la Madre"
+            ],
+            "postura_politica": "Saludo protocolar sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Día de la Madre",
+                "Condolencias"
+            ],
+            "postura_politica": "Saludo protocolar y expresión de condolencias. Sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Becas",
+                "Empleo industrial",
+                "Planificación regional"
+            ],
+            "postura_politica": "Exhibición de gestión provincial exitosa, destacando récords de empleo y obras. Sin confrontación nacional.",
+            "frase_fuerte": "El empleo industrial en Neuquén está en su máximo histórico"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Día de la Madre"
+            ],
+            "postura_politica": "Saludo protocolar sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Día de la Madre"
+            ],
+            "postura_politica": "Saludo protocolar sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Día de la Madre"
+            ],
+            "postura_politica": "Saludo protocolar sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Festival",
+                "Día de la Madre"
+            ],
+            "postura_politica": "Saludo protocolar y promoción de evento cultural local. Sin contenido político.",
+            "frase_fuerte": null
+        }
+    ]
+}
