@@ -1,0 +1,57 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por la dualidad entre la crítica abierta de Kicillofok al modelo económico nacional y la alineación estratégica de gobernadores de provincias energéticas (Mendoza, Neuquén) con la gestión de Milei en Vaca Muerta. Mientras el peronismo federal se refugia en la gestión local y la Región Centro consolida su bloque productivista, el oficialismo nacional cosecha apoyos pragmáticos en el sector hidrocarburífero pero enfrenta el desgaste de la confrontación con Buenos Aires.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal y política se despliega en dos frentes simultáneos. Por un lado, Axel Kicillof (Buenos Aires) utiliza la expansión de una empresa en Ezeiza para disparar contra la Casa Rosada: 'lo que faltan son políticas económicas y decisiones que generen más trabajo'. Por el otro, Alfredo Cornejo (Mendoza) y Rolando Figueroa (Neuquén) convierten la Expo Argentina Oil & Gas en un escenario de sintonía con Javier Milei, exhibiendo inversiones y regalías como prueba de que el rumbo energético es el correcto. La Región Centro, con Martín Llaryora (Córdoba) a la cabeza, propone una tercera vía: la integración productiva sin confrontación directa, pero con un mensaje claro de que el interior no puede esperar más.\n\nActo 2 — Los Alineamientos: El tablero se divide entre los 'socios energéticos' (Cornejo, Figueroa) que capitalizan la presencia presidencial para apuntalar sus proyectos de Vaca Muerta y litio, y los 'rebeldes fiscales' como Kicillof, que denuncian el ajuste mientras gestionan con recursos propios. En el medio, gobernadores peronistas como Raúl Jalil (Catamarca) y Gustavo Melella (Tierra del Fuego) optan por una agenda de inversiones internacionales (JP Morgan, TotalEnergies) que no desafía a Nación pero tampoco la abraza. La UCR de Cornejo y el MPN de Figueroa demuestran que la lealtad al proyecto de Milei es circunstancial y atada a la caja: ambos subrayan diferencias políticas pero priorizan el desarrollo de sus provincias.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas o con menor peso fiscal se repliegan en la agenda de cabotaje. Leandro Zdero (Chaco) gestiona la emergencia hídrica, Claudio Vidal (Santa Cruz) ataca al kirchnerismo por obras inconclusas, y Claudio Poggi (San Luis) inaugura clubes y viviendas. Nadie menciona a la Nación, salvo para quejarse de deudas heredadas. Es el refugio en la gestión local como estrategia de supervivencia: evitar el costo de alinearse o confrontar con un gobierno nacional que define los recursos.\n\nActo 4 — Saldo Presidencial: Milei cierra la jornada con un saldo agridulce. Por un lado, consolida su narrativa de 'Argentina potencia energética' con el respaldo de dos gobernadores clave (Mendoza y Neuquén), que le garantizan paz fiscal en el corto plazo. Por el otro, la omisión de Kicillof y el silencio de la mayoría peronista revelan que el consenso es sectorial y no político. La Región Centro, con Llaryora, emerge como un bloque autónomo que negocia sin someterse. El presidente gana en Vaca Muerta lo que pierde en el conurbano: la batalla por el relato federal sigue abierta.",
+    "temas_calientes": [
+        {
+            "tema": "Energía y Vaca Muerta: gobernadores alineados con Milei en la AOG Patagonia",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Crítica al modelo económico nacional desde Buenos Aires",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Inversiones mineras y litio: Catamarca y Salta como polos de atracción internacional",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Región Centro: integración productiva y logística como alternativa federal",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Gestión local y emergencias: Chaco, Santa Cruz y San Luis priorizan la agenda territorial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa",
+        "texto": "POR PRIMERA VEZ EN LA HISTORIA SÍ A NEUQUÉN LE VA BIEN, AL PAÍS LE VA A IR BIEN\n\nHoy recibimos al presidente @JMilei en nuestra querida provicia. Agradecemos al @IAPG_Info y a su presidente, Ernesto López Anadón, por confiar en Neuquén para esta Expo Argentina Oil & Gas Patagonia. Pensamos distinto, tenemos proyectos políticos diferentes, pero compartimos lo esencial: queremos una Argentina grande y próspera. Y creemos que defender Neuquén no es pelearse con nadie, es sentarse a la mesa y trabajar sobre las coincidencias.\n\nCambió el paradigma: hoy los precios los fija el mercado internacional, y no competimos con las provincias hermanas, sino con quienes venden en el mundo lo mismo que nosotros. Más de 5000 empresas de todo el país trabajan en Vaca Muerta, y lo que Neuquén produce se redistribuye en otras provincias. Esta es la última gran oportunidad para nuestra provincia y para el país, un desafío generacional que nos exige grandeza y trabajo en equipo. \n\nLos neuquinos queremos compartir un camino y no vamos a descansar hasta que cada vecino de esta provincia pueda vivir mejor. Siempre vamos a estar peleando por eso. Porque la neuquinidad se defiende entre todos. #AOG2026",
+        "por_que_es_clave": "Figueroa legitima la gestión de Milei en Vaca Muerta sin renunciar a su identidad política, marcando un precedente de cooperación pragmática que aísla a los gobernadores más confrontativos y refuerza la narrativa de que el desarrollo energético está por encima de las diferencias partidarias.",
+        "pregunta_openarg": "¿Hasta qué punto la alianza energética entre Nación y provincias como Neuquén y Mendoza puede sostenerse sin que el oficialismo exija lealtad política a cambio de regalías y obras?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Expansión empresarial",
+                "Crítica a política económica nacional"
+            ],
+            "postura_politica": "Kicillofok utiliza un anuncio de inversión provincial para denunciar la falta de políticas nacionales que fomenten el empleo y la industria. El mensaje es doble: mostrar gestión propia mientras se marca distancia del rumbo de Milei, apelando al peronismo como única alternativa.",
+            "frase_fuerte": "En Argentina sobran ganas de salir adelante, lo que faltan son políticas económicas y decisiones que generen más trabajo, más industria, más desarrollo y bienestar."
+        }
+    ]
+}

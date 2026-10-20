@@ -1,0 +1,219 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal se caracterizó por un clima tenso, donde los gobernadores (Ciudad Autónoma de Buenos Aires) y (Buenos Aires) marcaron posturas divergentes con la Nación, el primero con mano dura en conflictos sindicales y el segundo criticando la falta de políticas económicas. En contraste, varios líderes provinciales como (Córdoba), (Neuquén) y (Mendoza) se enfocaron en la promoción activa de inversiones en sectores estratégicos como la minería y la energía, subrayando la importancia del desarrollo productivo regional y la cooperación interprovincial. Paralelamente, hubo un fuerte énfasis en la gestión local, con anuncios de inversión en infraestructura social, educación y asistencia ante emergencias climáticas, demostrando la autonomía y capacidad de respuesta de las provincias frente a los desafíos internos.",
+    "analisis_profundo": "El pulso político de la jornada revela un escenario federal de marcada tensión y autonomía provincial frente a la gestión nacional. El gobernador (Ciudad Autónoma de Buenos Aires) ha escalado su retórica de 'Ley y orden' con declaraciones contundentes sobre los conflictos sindicales en servicios esenciales, una postura que no solo busca pacificar la capital, sino que también envía un mensaje claro a nivel nacional sobre la forma de abordar la conflictividad social. En paralelo, el gobernador (Buenos Aires) profundizó su crítica a la administración central, atribuyendo las dificultades económicas a la ausencia de políticas nacionales de fomento al trabajo y la industria, lo que refuerza su narrativa de gestión provincial como contrapunto a la inacción del Estado federal.\n\nEsta polarización se ve matizada por una activa agenda de desarrollo económico y cooperación interprovincial. Gobernadores como (Catamarca), (Mendoza), (Neuquén), (Río Negro) y (Tierra del Fuego) han capitalizado la Expo Argentina Oil & Gas Patagonia para proyectar sus provincias como polos de inversión en minería, petróleo y gas, buscando atraer capitales internacionales y nacionales con el foco puesto en la generación de empleo y la diversificación productiva. Es notable la declaración del gobernador (Neuquén), quien, a pesar de las diferencias políticas con el presidente, enfatiza la necesidad de trabajar conjuntamente por una 'Argentina grande y próspera', promoviendo la complementación entre provincias en lugar de la competencia.\n\nAsimismo, la gestión local se mantiene como eje central de las agendas provinciales. Desde el (Chaco), se destaca la respuesta a emergencias climáticas, mientras que (Córdoba) y (Santiago del Estero) impulsan programas de inclusión social, educación y desarrollo deportivo con inversiones significativas. El gobernador (Misiones) anunció un aumento salarial para fortalecer la economía interna en un contexto de complejidad nacional, y el gobernador (Santa Cruz) marcó una fuerte diferenciación con gestiones anteriores, prometiendo soluciones concretas y acusando al 'kirchnerismo' de promesas incumplidas. Este conjunto de acciones subraya una tendencia de los gobiernos subnacionales a fortalecer sus capacidades de gestión y a consolidar identidades políticas propias, marcando un claro liderazgo territorial en un momento de definiciones nacionales.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica y Diferenciación frente a Políticas Nacionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@Rolo_Figueroa",
+                "@passalacquaok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones (Minería y Energía)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@gustavomelella",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Gestión de Infraestructura y Servicios Locales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE",
+                "@gustavomelella",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Coordinación y Fortalecimiento Federal/Interprovincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Apoyo a Pymes y Sectores Vulnerables",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@EliasSuarezSDE",
+                "@WeretilneckOK",
+                "@gustavomelella"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Metrodelegados presos por parar el subte. En mi gestión las cosas por su nombre: lo que la justicia ordena se cumple. No vamos a aceptar extorsiones mafiosas. El que bloquea un servicio esencial va preso. Sin vueltas. No voy a permitir que estos le jodan la vida a millones de personas para defender sus curros y encima se la lleven gratis. Ley y orden.",
+        "por_que_es_clave": "El gobernador (Ciudad Autónoma de Buenos Aires) adopta una postura de mano dura frente a un conflicto sindical en un servicio esencial, reforzando su eje de 'Ley y orden'. Esto tensa la relación con sectores gremiales y marca una posición firme frente a la conflictividad social.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Desarrollo Económico Provincial",
+                "Crítica a Políticas Nacionales"
+            ],
+            "postura_politica": "Se presenta como un gestor activo que impulsa el desarrollo productivo y el empleo local, contrastando con un 'contexto nacional muy difícil' y la 'falta de políticas económicas' del gobierno central.",
+            "frase_fuerte": "En Argentina sobran ganas de salir adelante, lo que faltan son políticas económicas y decisiones que generen más trabajo, más industria, más desarrollo y bienestar."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad y Orden Público",
+                "Conflictividad Social",
+                "Servicios Públicos"
+            ],
+            "postura_politica": "Adopta una línea de 'mano dura' y 'ley y orden' frente a la protesta social, criminalizando las acciones que afectan servicios esenciales y posicionándose contra 'extorsiones mafiosas'.",
+            "frase_fuerte": "El que bloquea un servicio esencial va preso. Sin vueltas. No voy a permitir que estos le jodan la vida a millones de personas para defender sus curros y encima se la lleven gratis. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Atracción de Inversiones",
+                "Desarrollo Minero",
+                "Generación de Empleo"
+            ],
+            "postura_politica": "Se enfoca en la promoción internacional de la provincia como destino de inversión, especialmente en minería de cobre, buscando generar empleo y desarrollo local a partir de recursos estratégicos.",
+            "frase_fuerte": "En estos encuentros comprobamos el creciente interés internacional por el cobre, un recurso estratégico para el futuro de nuestra provincia."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Gestión de Emergencias",
+                "Educación",
+                "Innovación Tecnológica"
+            ],
+            "postura_politica": "Demuestra proactividad en la gestión de crisis climáticas y destaca los logros educativos e innovadores de la provincia, fomentando el orgullo local y el potencial de su juventud.",
+            "frase_fuerte": "Seguimos trabajando en territorio y coordinando las acciones necesarias ante el fenómeno natural “El Niño”."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Federalismo",
+                "Desarrollo Productivo",
+                "Educación",
+                "Tecnología",
+                "Inclusión Social",
+                "Infraestructura Logística"
+            ],
+            "postura_politica": "Promueve la integración regional y el federalismo como motor de crecimiento, destacando la inversión provincial en educación tecnológica e inclusión. Se posiciona como un gestor que invierte y fomenta la innovación local para generar oportunidades.",
+            "frase_fuerte": "La #RegiónCentro tiene un enorme potencial productivo y estamos convencidos de que el camino para construir una Argentina más federal es trabajando juntos (sector público y privado), defendiendo a quienes producen y potenciando las oportunidades de crecimiento del interior del país."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Cultura e Identidad",
+                "Patrimonio Histórico",
+                "Desarrollo Comunitario"
+            ],
+            "postura_politica": "Enfatiza la importancia de preservar y celebrar el patrimonio cultural como pilar de la identidad provincial y apuesta por una cultura viva que se transmita a las nuevas generaciones.",
+            "frase_fuerte": "Renovar este compromiso con nuestra cultura es también apostar al futuro, acompañando y fortaleciendo los espacios que mantienen viva nuestra historia y la transmiten a las nuevas generaciones."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Seguridad Pública",
+                "Desarrollo Energético",
+                "Inversiones",
+                "Cooperación Regional"
+            ],
+            "postura_politica": "Destaca el fortalecimiento de la seguridad pública y el compromiso con el desarrollo energético a través de Vaca Muerta, promoviendo grandes inversiones y la colaboración interprovincial.",
+            "frase_fuerte": "El trabajo conjunto con Neuquén y Río Negro es clave para aprovechar los recursos de la región."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Economía Provincial",
+                "Política Salarial",
+                "Apoyo al Sector Productivo",
+                "Transparencia"
+            ],
+            "postura_politica": "Prioriza el bienestar provincial a través de aumentos salariales y alivio impositivo, buscando dinamizar la economía local y proteger a los sectores productivos en un contexto nacional difícil.",
+            "frase_fuerte": "En un contexto nacional complejo, la prioridad sigue siendo clara: cuidar a nuestra gente y defender el bienestar de toda la provincia."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo de Infraestructura",
+                "Deporte y Cultura",
+                "Relación Nación-Provincias",
+                "Desarrollo Energético (Vaca Muerta)",
+                "Federalismo",
+                "Empleo Local"
+            ],
+            "postura_politica": "Balanceada, reconoce diferencias políticas con la Nación pero enfatiza la necesidad de trabajar juntos por la prosperidad. Destaca la importancia estratégica de Neuquén (Vaca Muerta) para el país y la cooperación interprovincial, mientras invierte en infraestructura local.",
+            "frase_fuerte": "No tenemos el mismo proyecto político que el presidente de la República, pensamos distinto y seguramente lo seguiremos haciendo. Pero eso no quita que podamos compartir el mismo objetivo: que la Argentina sea grande y próspera de una vez por todas."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo Energético",
+                "Infraestructura Vial",
+                "Inversiones",
+                "Generación de Empleo"
+            ],
+            "postura_politica": "Articula la importancia del sector energético para impulsar la infraestructura provincial y generar empleo, buscando que las inversiones de grandes empresas se traduzcan en beneficios concretos para los rionegrinos.",
+            "frase_fuerte": "Queremos que las grandes inversiones que llegan a Río Negro también se traduzcan en mejores rutas, más empleo y oportunidades para nuestra gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura Social",
+                "Inclusión Juvenil"
+            ],
+            "postura_politica": "Invierte en infraestructura deportiva para fortalecer la contención social y el desarrollo de la juventud a través de los clubes.",
+            "frase_fuerte": "Más infraestructura, y más chicos contenidos en el Club."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Gestión Transparente",
+                "Obra Pública",
+                "Crítica a Gobiernos Anteriores",
+                "Desarrollo Local"
+            ],
+            "postura_politica": "Se distancia del 'kirchnerismo' al criticar promesas incumplidas y la corrupción en obra pública. Propone soluciones concretas y realistas, priorizando el desarrollo local y el cumplimiento de la palabra.",
+            "frase_fuerte": "El kirchnerismo prometió la ruta, gastó dinero y la obra no se hizo. Hoy no estamos en condiciones de hacerla y lo decimos claramente: no vamos a prometer lo que no podemos cumplir."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Financiamiento para el Desarrollo",
+                "Apoyo a Pymes y Productores",
+                "Infraestructura Deportiva",
+                "Desarrollo Social",
+                "Coordinación Federal"
+            ],
+            "postura_politica": "Enfocado en el desarrollo económico provincial a través del financiamiento del CFI y el apoyo a emprendedores, así como en la inversión en infraestructura social (deportiva) para la inclusión y formación de la juventud.",
+            "frase_fuerte": "Seguiremos gestionando recursos y generando oportunidades para fortalecer el desarrollo de nuestra provincia y mejorar la calidad de vida de los santiagueños."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Desarrollo Energético",
+                "Atracción de Inversiones",
+                "Políticas para Adultos Mayores",
+                "Inclusión Social"
+            ],
+            "postura_politica": "Impulsa el desarrollo energético provincial a través de la atracción de inversiones internacionales y fomenta la integración social de los adultos mayores mediante actividades recreativas y culturales.",
+            "frase_fuerte": "Queremos que Tierra del Fuego siga creciendo como una provincia clave en la producción de energía del país."
+        }
+    ]
+}
