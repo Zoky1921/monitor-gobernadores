@@ -1,0 +1,268 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "El panorama federal se presenta tenso, con varios gobernadores intensificando su confrontación con el Gobierno Nacional por las políticas económicas y la necesidad de un enfoque más federal. Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba) lideran estas críticas, mientras otros como Gustavo Sáenz (Salta) y Sergio Ziliotto (La Pampa) plantean reclamos específicos sobre aduanas y soberanía de recursos. Paralelamente, se observa un fuerte impulso a inversiones en minería y energía en provincias como Catamarca, Mendoza, Neuquén, Río Negro y Tierra del Fuego. La gestión local, con anuncios de obras y programas sociales, sigue siendo una prioridad clave para la mayoría de los líderes provinciales.",
+    "analisis_profundo": "La jornada federal del 20 de octubre de 2026 expone una polarización acentuada entre las provincias y el Gobierno Nacional, marcando un clima político 'TENSO'. La crítica a la administración central resuena con fuerza, especialmente desde las grandes jurisdicciones. Axel Kicillof (Buenos Aires) ataca directamente las políticas económicas y la supuesta insensibilidad presidencial, vinculando el sufrimiento social a las decisiones del Ejecutivo. Esta postura es secundada estratégicamente por Martín Llaryora (Córdoba) y Maximiliano Pullaro (Santa Fe), quienes, desde la Región Centro, demandan un plan federal de infraestructura y logística, alertando sobre la insostenibilidad de un ajuste sin crecimiento y la pérdida de competitividad que ello implica para el interior productivo. Sus intervenciones delinean un bloque que busca renegociar la distribución de poder y recursos.\n\nEn el ámbito de la soberanía y la relación federal, Sergio Ziliotto (La Pampa) eleva la disputa al plano judicial, recurriendo a la Corte Suprema para defender la Ley de Glaciares, lo que subraya la persistente tensión sobre el control de los recursos naturales. Gustavo Sáenz (Salta), por su parte, presiona a la Aduana Nacional por medidas que afectan el comercio fronterizo, destacando cómo las decisiones centralizadas impactan directamente en las economías regionales.\n\nParalelamente a estas fricciones, varias provincias del interior consolidan su agenda de desarrollo basada en inversiones en sectores estratégicos. Raúl Jalil (Catamarca), Alfredo Cornejo (Mendoza), Rolando Figueroa (Neuquén), Alberto Weretilneck (Río Negro) y Gustavo Melella (Tierra del Fuego) se enfocan en atraer capitales para la minería (cobre, litio) y la energía (Vaca Muerta, exploración offshore), prometiendo empleo y valor agregado local. Figueroa (Neuquén) en particular, adopta un pragmatismo con el presidente Milei durante la Expo Oil & Gas, reconociendo diferencias pero enfatizando un objetivo común de prosperidad para el país a través del desarrollo neuquino, evidenciando una estrategia de equilibrio.\n\nEn el plano de la gestión interna, Hugo Passalacqua (Misiones), Claudio Poggi (San Luis), Elías Suarez (Santiago del Estero) y Claudio Vidal (Santa Cruz) concentran sus comunicaciones en la inauguración de obras, la entrega de viviendas, la provisión de equipamiento educativo y el fomento de la economía local. Vidal (Santa Cruz) aprovecha para contrastar su gestión con la de administraciones pasadas, prometiendo cumplimiento frente a promesas incumplidas. La seguridad y el orden público también tuvieron un momento destacado con Jorge Macri (Ciudad Autónoma de Buenos Aires) adoptando una línea dura contra las protestas que afectan servicios esenciales. En conjunto, la jornada revela un escenario federal complejo, con agendas provinciales robustas y una creciente exigencia por un modelo de desarrollo más equilibrado y descententralizado.",
+    "temas_calientes": [
+        {
+            "tema": "Tensión Federal y Críticas a la Política Económica Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@ZiliottoSergio",
+                "@GustavoSaenzOK",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Impulso a Inversiones y Desarrollo de Sectores Estratégicos (Minería y Energía)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Gestión y Obras Públicas Provinciales/Locales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Defensa de la Seguridad y el Orden Público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Soberanía sobre Recursos Naturales y Desafíos Legales",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Mientras millones de argentinos la están pasando mal, al Presidente de la Nación no se le ocurre mejor idea que hacerse el gracioso y burlarse del sufrimiento que generan sus propias políticas económicas. Milei, si querés saber si la gente llega o no llega a fin de mes te invitamos a que camines los barrios de la provincia y le preguntes a los bonaerenses que se están endeudando cada vez más para poder sostener cuestiones básicas.",
+        "por_que_es_clave": "Destaca la creciente confrontación entre el gobernador de la provincia más poblada y el Gobierno Nacional, criticando duramente la política económica y la sensibilidad presidencial frente a la crisis social.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al gobierno nacional",
+                "Políticas económicas",
+                "Gestión local",
+                "Obras",
+                "Desarrollo industrial"
+            ],
+            "postura_politica": "Se posiciona como un fuerte opositor al Gobierno Nacional, criticando sus políticas económicas y su impacto social. Prioriza la gestión provincial con obras y apoyo a la producción local.",
+            "frase_fuerte": "Mientras millones de argentinos la están pasando mal, al Presidente de la Nación no se le ocurre mejor idea que hacerse el gracioso y burlarse del sufrimiento que generan sus propias políticas económicas."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Orden público",
+                "Seguridad",
+                "Conflictos laborales",
+                "Eficiencia del estado"
+            ],
+            "postura_politica": "Adopta una postura de mano dura frente a conflictos laborales que afectan servicios esenciales, defendiendo la 'ley y orden' y la primacía de la justicia.",
+            "frase_fuerte": "El que bloquea un servicio esencial va preso. Sin vueltas. No voy a permitir que estos le jodan la vida a millones de personas para defender sus curros y encima se la lleven gratis. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Inversiones",
+                "Minería (cobre)",
+                "Desarrollo económico",
+                "Empleo"
+            ],
+            "postura_politica": "Busca posicionar a Catamarca (Catamarca) como un polo de inversión minera, promoviendo el cobre como motor de desarrollo y empleo a través de reuniones con fondos internacionales.",
+            "frase_fuerte": "El cobre puede ser uno de los grandes motores de nuestro desarrollo en los próximos años. Tenemos que aprovechar esta oportunidad para atraer inversiones, generar empleo y darle más protagonismo a Catamarca en la economía argentina."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Emergencia climática (El Niño)",
+                "Asistencia social",
+                "Educación",
+                "Innovación"
+            ],
+            "postura_politica": "Enfocado en la respuesta y prevención de desastres naturales en Chaco (Chaco), al tiempo que destaca logros en educación e innovación local como ejemplos de orgullo provincial.",
+            "frase_fuerte": "Seguimos trabajando en territorio y coordinando las acciones necesarias ante el fenómeno natural 'El Niño'."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Desarrollo local",
+                "Inversión",
+                "Generación de empleo",
+                "Infraestructura"
+            ],
+            "postura_politica": "Prioriza el crecimiento de las ciudades del interior de Chubut (Chubut) a través de obras e inversiones, como la llegada de nuevas empresas a la Zona Franca, buscando generar empleo y transformar la realidad local.",
+            "frase_fuerte": "Hoy podemos hablar de obras que parecían imposibles y de nuevas inversiones, como la llegada de una tercera empresa a la Zona Franca, que proyecta generar 200 puestos de trabajo."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Federalismo",
+                "Crítica económica nacional",
+                "Infraestructura",
+                "Tecnología",
+                "Inclusión",
+                "Empleo"
+            ],
+            "postura_politica": "Lidera un fuerte reclamo por un plan federal de desarrollo productivo y critica las políticas macroeconómicas nacionales. Prioriza la inversión en infraestructura y tecnología para la inclusión y el empleo en Córdoba (Córdoba).",
+            "frase_fuerte": "Argentina necesita un verdadero plan de infraestructura y logística que acompañe el potencial productivo de su interior."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Soberanía provincial",
+                "Recursos naturales (ríos, glaciares)",
+                "Conectividad",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Demuestra una firme defensa de la soberanía provincial sobre los recursos naturales y la desafía legalmente a la Nación. Impulsa la infraestructura digital y la cooperación con provincias vecinas de La Pampa (La Pampa).",
+            "frase_fuerte": "En La Pampa, la soberanía no se negocia, se defiende."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Desarrollo provincial",
+                "Diálogo institucional",
+                "Cultura",
+                "Patrimonio"
+            ],
+            "postura_politica": "Enfatiza la importancia del diálogo y la planificación conjunta con los municipios para el desarrollo provincial de La Rioja (La Rioja). Destaca la inversión en cultura y el cuidado del patrimonio local.",
+            "frase_fuerte": "En un contexto nacional e internacional complejo, necesitamos planificación, diálogo y una articulación permanente que nos permita sostener la gestión y construir respuestas concretas para todos los riojanos y riojanas."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Seguridad",
+                "Desarrollo energético (Vaca Muerta)",
+                "Inversiones",
+                "Cooperación regional"
+            ],
+            "postura_politica": "Respalda a la fuerza policial en su aniversario y promueve las inversiones en Vaca Muerta como motor económico de Mendoza (Mendoza), destacando el trabajo conjunto con el Gobierno Nacional y provincias patagónicas.",
+            "frase_fuerte": "La energía puede ser otro motor de la economía."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Economía provincial",
+                "Aumento salarial",
+                "Alivio fiscal",
+                "Comercio local"
+            ],
+            "postura_politica": "Anuncia medidas para fortalecer la economía provincial y el poder adquisitivo de los trabajadores en Misiones (Misiones), enfocándose en aliviar la carga impositiva y dinamizar el consumo local.",
+            "frase_fuerte": "En un contexto nacional complejo, la prioridad sigue siendo clara: cuidar a nuestra gente y defender el bienestar de toda la provincia."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo energético (Vaca Muerta)",
+                "Inversión",
+                "Relación Nación-Provincia",
+                "Cooperación interprovincial",
+                "Infraestructura local"
+            ],
+            "postura_politica": "Si bien tiene diferencias políticas con el presidente, enfatiza la necesidad de trabajar juntos para el desarrollo de Vaca Muerta y el país. Promueve inversiones y el beneficio local de la actividad energética de Neuquén (Neuquén).",
+            "frase_fuerte": "POR PRIMERA VEZ EN LA HISTORIA SÍ A NEUQUÉN LE VA BIEN, AL PAÍS LE VA A IR BIEN."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo económico (ganadería, energía)",
+                "Infraestructura (rutas)",
+                "Modernización del Estado",
+                "Salud",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Destaca logros en la ganadería y la atracción de inversiones energéticas para financiar obras. Impulsa la modernización de servicios y el fortalecimiento de la salud pública en Río Negro (Río Negro).",
+            "frase_fuerte": "Queremos que las grandes inversiones que llegan a Río Negro también se traduzcan en mejores rutas, más empleo y oportunidades para nuestra gente."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Comercio fronterizo",
+                "Federalismo",
+                "Infraestructura (vial)",
+                "Patrimonio"
+            ],
+            "postura_politica": "Reclama al Gobierno Nacional por cambios en políticas aduaneras que afectan el comercio fronterizo. Resalta inversiones en infraestructura vial y la preservación del patrimonio local en Salta (Salta).",
+            "frase_fuerte": "Formalmente solicité al ARCA y a la Dirección de Aduanas la revisión a los cambios introducidos al régimen de tráfico fronterizo de exportación."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Programas sociales",
+                "Educación",
+                "Empleo local",
+                "Infraestructura deportiva"
+            ],
+            "postura_politica": "Se enfoca en la gestión de programas sociales de vivienda y educación, así como en la inversión en infraestructura deportiva y el apoyo a las pymes locales de San Luis (San Luis).",
+            "frase_fuerte": "Llegamos a las 7500 ESCRITURAS (de Viviendas de Barrio) entregadas desde el comienzo de nuestra gestión bajo el Programa 'Escriturá Tu Casa'."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Infraestructura local",
+                "Vivienda",
+                "Crítica a gestiones anteriores"
+            ],
+            "postura_politica": "Se distancia de gestiones previas (kirchnerismo) prometiendo un modelo de 'cumplimiento' de promesas en obras, viviendas y fomento de la producción local para generar empleo en Santa Cruz (Santa Cruz).",
+            "frase_fuerte": "LAS PROMESAS NO CAMBIAN LA VIDA DE NADIE. CUMPLIRLAS, SÍ."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Federalismo",
+                "Desarrollo productivo",
+                "Energía",
+                "Minería",
+                "Integración regional"
+            ],
+            "postura_politica": "Aboga por una Región Centro fuerte que defienda la industria y el campo, utilizando los recursos energéticos y mineros para el desarrollo de infraestructura y empleo, en Santa Fe (Santa Fe), en contraposición a un enfoque puramente fiscal.",
+            "frase_fuerte": "Necesitamos una Región Centro unida para defender a nuestra industria, al campo y la generación de empleo. Queremos que Argentina se parezca mucho más a la Región Centro."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Financiamiento",
+                "Desarrollo económico",
+                "PyMEs",
+                "Emprendedores",
+                "Infraestructura deportiva"
+            ],
+            "postura_politica": "Resalta la importancia del financiamiento del CFI para impulsar proyectos productivos, PyMEs y emprendedores. Prioriza la inversión en infraestructura deportiva para el desarrollo comunitario en Santiago del Estero (Santiago del Estero).",
+            "frase_fuerte": "Apostar por nuestra gente es apostar por el futuro."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Desarrollo energético",
+                "Inversiones",
+                "Adultos mayores",
+                "Programas sociales"
+            ],
+            "postura_politica": "Impulsa el desarrollo energético con inversiones y la exploración de recursos. Se enfoca en programas sociales y la creación de espacios para adultos mayores en Tierra del Fuego (Tierra del Fuego).",
+            "frase_fuerte": "Queremos que Tierra del Fuego siga creciendo como una provincia clave en la producción de energía del país."
+        }
+    ]
+}
