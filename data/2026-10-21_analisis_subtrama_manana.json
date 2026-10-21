@@ -1,0 +1,357 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "Jornada de máxima tensión fiscal y simbólica entre Nación y provincias. Axel Kicillof (Buenos Aires) marca la cancha con una campaña de desgaste directo contra Javier Milei, mientras que Jorge Macri (CABA) y los gobernadores del litio y Vaca Muerta (Jalil, Figueroa, Cornejo) se alinean con la Casa Rosada. La Región Centro reflota su agenda de infraestructura para disputar el relato de desarrollo.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La subrama material del día es la disputa por la caja y el relato. Kicillof dispara en tres frentes: tilda a Milei de 'gracioso' que se burla del sufrimiento, denuncia el ajuste a escuelas técnicas como 'modelo de país sin producción' y, mediante un retweet de Echarren, equipara la gestión nacional de viviendas ('Subastar') con la entrega provincial de casas. Es la narrativa del Estado presente versus el Estado ausente: un manual de campaña 2027.\n\nActo 2 — Los Alineamientos: Jorge Macri (CABA) se consolida como el escudero perfecto de Milei: 'ley y orden' contra sindicalistas, desalojo de Devoto y obra pública mostrada como éxito propio y nacional. En la vereda opuesta, los gobernadores de la Región Centro (Llaryora, Frigerio, Pullaro) evitan confrontar con Nación pero construyen un bloque técnico-reivindicativo: piden plan federal de logística, defienden la hidrovía y la infraestructura portuaria. No atacan a Milei, pero marcan que 'sin infraestructura no hay desarrollo' —un dardo velado al ajuste nacional.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas se refugian en la agenda de cabotaje con peso medio. Leandro Zdero (Chaco) celebra la licitación de la Ruta 13 y se prepara para El Niño. Nacho Torres (Chubut) impulsa turismo e inversiones en la cuenca petrolera. Claudio Poggi (San Luis) y Gustavo Valdés (Corrientes) se mantienen en gestión protocolar, evitando roces. El cálculo detrás de ese silencio es claro: no exponerse en una pulseada donde Nación tiene la lapicera de los fondos discrecionales.\n\nActo 4 — Saldo Presidencial: La Casa Rosada consolida un núcleo duro de gobernadores aliados (Macri, Jalil, Figueroa, Cornejo, Saenz) que celebran inversiones mineras y energéticas. Sin embargo, el silencio de los peronistas moderados como Osvaldo Jaldo (Tucumán) y Martín Llaryora (Córdoba) sugiere una ambigüedad calculada: no quieren quemar puentes con un eventual triunfo opositor. Milei gana en los territorios donde hay recursos para explotar, pero pierde en la batalla simbólica: la pobreza y el ajuste siguen siendo el talón de Aquiles de su relato.",
+    "temas_calientes": [
+        {
+            "tema": "Conflicto Nación-provincia por ajuste fiscal y obras",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo minero y energético (litio, cobre, Vaca Muerta)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa",
+                "@alfredocornejo",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Infraestructura y logística federal (Región Centro)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y orden público",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Emergencia climática y prevención (El Niño)",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@maxipullaro",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Mientras millones de argentinos la están pasando mal, al Presidente de la Nación no se le ocurre mejor idea que hacerse el gracioso y burlarse del sufrimiento que generan sus propias políticas económicas.\n\nMilei, si querés saber si la gente llega o no llega a fin de mes te invitamos a que camines los barrios de la provincia y le preguntes a los bonaerenses que se están endeudando cada vez más para poder sostener cuestiones básicas.",
+        "por_que_es_clave": "Es el disparo directo más duro de la jornada contra Milei. Kicillof no solo critica, sino que desafía al Presidente a recorrer los barrios. Posiciona a la Provincia como refugio de los damnificados por el ajuste y se coloca como el líder de la resistencia peronista de cara a 2027.",
+        "pregunta_openarg": "¿Puede el peronismo bonaerense capitalizar el descontento social para construir una alternativa electoral competitiva sin fragmentarse en internas?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "empleo verde",
+                "gestión educativa",
+                "crítica a Milei",
+                "viviendas",
+                "juegos bonaerenses",
+                "logística",
+                "marcha universitaria",
+                "Día de la Lealtad"
+            ],
+            "postura_politica": "Oposición frontal a Nación. Cada tuit es un misil contra el ajuste de Milei. Muestra gestión provincial para contrastar con el 'abandono' nacional. Se posiciona como heredero del peronismo combativo.",
+            "frase_fuerte": "El Gobierno nacional ajusta a las escuelas técnicas porque en su modelo de país no hay lugar para la producción y el desarrollo."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "subte",
+                "seguridad",
+                "justicia",
+                "cárceles",
+                "obra pública",
+                "relaciones internacionales"
+            ],
+            "postura_politica": "Alineamiento absoluto con Milei. 'Ley y orden' como eje, mostrando resultados concretos (cárcel de Devoto, metrodelegados presos). Se posiciona como el brazo ejecutor del modelo nacional en la Ciudad.",
+            "frase_fuerte": "Metrodelegados presos por parar el subte. En mi gestión las cosas por su nombre: lo que la justicia ordena se cumple. No vamos a aceptar extorsiones mafiosas."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "litio",
+                "cobre",
+                "inversiones mineras",
+                "RIGI",
+                "Australia",
+                "Mesa del Litio"
+            ],
+            "postura_politica": "Desarrollo minero como política de Estado. Sin confrontar con Nación, muestra gestión internacional y acuerdos. Se posiciona como gobernador técnico que atrae inversiones, sin agenda partidaria visible.",
+            "frase_fuerte": "Catamarca tiene recursos con un enorme potencial y estamos buscando socios estratégicos para avanzar en la exploración de las áreas mineras que pertenecen a la provincia."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "educación rural",
+                "ruta provincial 13",
+                "emergencia climática",
+                "salud visual",
+                "feria del libro"
+            ],
+            "postura_politica": "Gestión provincial pura, sin roce con Nación. Muestra obras y prevención ante El Niño. Perfil técnico, alejado de la confrontación. 'Los recursos de los chaqueños vuelven a los chaqueños' como mensaje de eficiencia.",
+            "frase_fuerte": "Dimos un paso histórico, la licitación de la Ruta Provincial N°13. Este camino, esperado durante tantos años, será una realidad!"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "aniversario de Trelew",
+                "bomberos",
+                "turismo",
+                "educación",
+                "inversiones petroleras",
+                "puerto",
+                "viviendas"
+            ],
+            "postura_politica": "Gestión enfocada en desarrollo local y atracción de inversiones. Sin mencionar a Nación en críticas, más bien muestra trabajo conjunto (ej. con PAE y Nación para inversión en Cerro Dragón). Se posiciona como gestor pragmático.",
+            "frase_fuerte": "Junto a Pan American Energy confirmamos una inversión de 1.200 millones de dólares en Cerro Dragón."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "prevención El Niño",
+                "Región Centro",
+                "infraestructura",
+                "educación",
+                "inclusión",
+                "logística",
+                "biocombustibles",
+                "Cura Brochero"
+            ],
+            "postura_politica": "Regionalismo productivo. Sin ataque a Milei pero marcando que el interior ncesita plan federal. 'Hacer para crecer' como lema que sugiere que Nación no hace suficiente.",
+            "frase_fuerte": "Argentina necesita un verdadero plan de infraestructura y logística que acompañe el potencial productivo de su interior."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "policía",
+                "Vaca Muerta",
+                "minería",
+                "educación",
+                "justicia penal juvenil",
+                "canabis medicinal",
+                "deportes"
+            ],
+            "postura_politica": "Alineamiento con Nación en minería y energía. Sin críticas a Milei, muestra gestión y avances. 'Ley y orden' en justicia penal juvenil. Perfil de gobernador modernizador.",
+            "frase_fuerte": "YPF ya comenzó con nuevas perforaciones exploratorias en Vaca Muerta Mendoza, tal como abía adelantado en mi discurso del 1 de mayo."
+        },
+        {
+            "gobernador": "@Rolo_Figerboa (Neuquén)",
+            "temas_mencionados": [
+                "licitación de áreas petroleras",
+                "YPF",
+                "pymes neuquinas",
+                "ingresos brutos",
+                "educación digital",
+                "obras",
+                "AOG 2026"
+            ],
+            "postura_politica": "Núcleo duro del desarrollo energético. Recibe a Milei y marca coincidencias más allá de las diferencias políticas. 'Defender Neuquén es sentarse a la mesa'. Se posiciona como ejemplo de gestión de recursos.",
+            "frase_fuerte": "Por primera vez en la historia si a Neuquén le va bien, al país le va a ir bien."
+        },
+        {
+            "\ngobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "presupuesto 2027",
+                "hidrovía",
+                "emergencia hídrica",
+                "exportaciones",
+                "Argentina Week",
+                "campo"
+            ],
+            "postura_politica": "Orden fiscal como bandera. Sin confrontar con Nación pero mostrando gestión propia y apertura al mundo (Paris). 'Equilibrio fisca no se negocia' como mensaje de responsabilidad.",
+            "frase_fuerte": "El equilibrio fiscal no se egocia porque es la base para sstenr este rumbo: más invrsión, mejors servcios y más oprtunidades."
+        },
+        {
+            "gobrnador": "@Osvaldoado (Tucumán)",
+            "temas_mencionados": [
+                "reunión con senadora",
+                "trabajador golondrina",
+                "policía",
+                "educación",
+                "seguridad",
+                "leltad"
+            ],
+            "postura_politca": "Pesonismo moderado. Ej gestión cotidiana sin ataque directo a Nación. Se reúne con actores sociales y muestra obra. Busca mantener el poder territorial sin quemar puentes con la Cas Rosada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobrnador": "@maxpullaro (Santa Fe)",
+            "tmas_mencionados": [
+                "Región Centro",
+                "deporte",
+                "viviendas",
+                "salud",
+                "seguridad",
+                "El Niño",
+                "suramericanos"
+            ],
+            "postra_politica": "Gesión regionalista con perfil técnico. Muestra obra y preparación para El Niño. Sin ataque a Nación pero marcando agenda propia. 'La energía va a generar divisas' como mirada de futuro.",
+            "frase_fuerte": "Necesitamos una Región Centro unida para defender a nuestra industria, al campo y la generación de empleo."
+        },
+        {
+            "gobrnador": "@GustaoSaenzOK (Salta)",
+            "tmas_mencionados": [
+                "minería",
+                "litio",
+                "ferrocarril",
+                "frontera",
+                "infraestructura",
+                "Argentina Week"
+            ],
+            "posura_politica": "Alneamiento con Nación en minería y captación de inversiones. Reclamo por ferrocarril como pinza federal. Perfil de gobernador que gestiona y reivindica el norte.",
+            "frase_fuerte": "Salta y el norte argenino no pueden seguir esperando. El fedralimo es progreso."
+        },
+        {
+            "gobrnador": "@ZiliottoSergio (La Pampa)",
+            "tmas_mencionados": [
+                "río Atuel",
+                "copertivismo",
+                "energía renovable",
+                "marcha universitaria",
+                "diversidad cultural"
+            ],
+            "posura_política": "Oposición firme en temas de sberanía y recursos. Critica a Nación por Ley de Glaciares y tierras. Se posiciona como defensor de los derchos pampeanos.",
+            "frase_fuerte": "Nuestros derechos no se negocian. Defender el Atuel es defender La Pampa."
+        },
+        {
+            "gobrnador": "@claudiojpoggi (San Luis)",
+            "tmas_mencionados": [
+                "escrituras",
+                "bicicletas",
+                "infraestructura",
+                "congreso de educación",
+                "obras públicas"
+            ],
+            "posura_politica": "Gestión local sin afectación nacional. Muestra obras y programas provinciales. Sin mención a Nación ni a política nacional. Perfil de gobernador de baja exposición.",
+            "frase_fuerte": null
+        },
+        {
+            "gobrnador": "@passalacquaok (Misiones)",
+            "tmas_mencionados": [
+                "salud",
+                "economía",
+                "aumento salarial",
+                "transparencia",
+                "relaciones con Paraguay",
+                "El Niño"
+            ],
+            "posura_politica": "Gesión pragmática con sello propio. Sin ataqe a Nación, muestra medidas de alivio y diálogo. 'Gobernar es rendir cuentas' como mensaje de integridad.",
+            "frase_fuerte": "En un contexto nacional complejo, la prioridad sigue siendo clara: cuidar a nuestra gente."
+        },
+        {
+            "gobrnador": "@WeretilneckOK (Río Negro)",
+            "tmas_mencionados": [
+                "desarrollo industrial",
+                "ganadería",
+                "obra pública",
+                "capitalidad",
+                "inversiones"
+            ],
+            "posura_politica": "Enfque en desarrollo energético y regional. Sin confrontación con Nación, muestra acuerdos (Oldelval) y crecimiento. 'Tenemos rumbo' lema de confianza.",
+            "frase_fuerte": "Los recursos naturales son de los rionegrinos y tenemos la responsabilidad de convertirlos en desarrollo."
+        },
+        {
+            "gobrnador": "@gustavomelella (Tierra del Fuego)",
+            "tmas_mencionados": [
+                "inversiones",
+                "adultos mayores",
+                "industria",
+                "soberanía",
+                "Malvinas",
+                "Base Naval"
+            ],
+            "posura_politica": "Reivindicación de soberanía y desarrollo industrial. Apoyo a la Base Naval Integrada como política de Estado. Sin ataque directo a Nación, pero marcando agenda propia en Malvinas.",
+            "frase_fuerte": "Las Malvinas fueron, son y serán argentinas. Y fueron, son y serán fueguinas."
+        },
+        {
+            "gobrnador": "@DrMarceloOrrego (San Juan)",
+            "tmas_mencionados": [
+                "minería",
+                "cobre",
+                "inversiones",
+                "Argentina Week",
+                "infraestructura",
+                "deportes"
+            ],
+            "posura_politica": "Promoción de inversiones mineras con alineamiento técnico a Nación. Muestra acuerdos internacionales y obra. Sin conflicto ni crítica. Perfil de gestor pro-inversión.",
+            "frase_fuerte": "El mundo confía en San Juan y en el futuro que estamos construyendo."
+        },
+        {
+            "gobrnador": "@ClaudioVidalSer (Santa Cruz)",
+            "tmas_mencionados": [
+                "producción",
+                "vivienda",
+                "justicia",
+                "YCRT",
+                "petróleo",
+                "memoria"
+            ],
+            "posura_politica": "Crítica al kirchnerismo y promesa de cambio. Muestra gestión en terreno y promesas de reactivación. 'Santa Cruz puede y tiene rumbo' como lema de ruptura con el pasado.",
+            "frase_fuerte": "A los dirigentes kirchneristas que hoy salieron a protestar les quiero recordar algo: durante los gobiernos que ellos defendían, Lázaro Báez llegó a acumular más de 400.000 hectáreas."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "minería",
+                "litio",
+                "cooperación internacional",
+                "Argentina Week",
+                "educación"
+            ],
+            "postura_politica": "Alineamiento con Nación en minería. Promueve inversiones y relaciones internacionales. Sin agenda conflictiva. Perfil de gobernador que busca posicionar a Jujuy en el mapa global del litio.",
+            "frase_fuerte": "Jujuy es parte central del crecimiento del litio en Argentina y nuestra prioridad es que ese avance se traduzca en más empleo local."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "créditos CFI",
+                "deporte",
+                "producción agropecuaria",
+                "juventud",
+                "diversidad cultural"
+            ],
+            "postura_politica": "Gestión focalizada en desarrollo productivo y créditos. Sin roce con Nación. Muestra datos de producción para posicionar a Santiago como potencia agropecuaria. 'Santiago del Estero no tiene litio pero produce récord de soja' como contra-narrativa.",
+            "frase_fuerte": "Para Santiago del Estero, contar con una estrategia logística federal es fundamental para reducir los costos de transporte."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "UCR",
+                "reforma partidaria",
+                "cumpleaños",
+                "frontera",
+                "Chamamé",
+                "aniversarios"
+            ],
+            "postura_politica": "Agenda partidaria y local. Sin menciones a Nación ni a política nacional. Se enfoca en la interna de la UCR y festejos provinciales. Perfil de bajo perfil federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "educación",
+                "energía solar",
+                "diversidad cultural",
+                "museo",
+                "policía",
+                "seguridad"
+            ],
+            "postura_politica": "Gestión provincial con énfasis en educación y enrgía renovable. Sin conflicto con Nación. Muestra obra en el territrio. Perfil de gob ernador que busca moernizar sin ruptura.",
+            "frase_fuerte": null
+        }
+    ]
+}
