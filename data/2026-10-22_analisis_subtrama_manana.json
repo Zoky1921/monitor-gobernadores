@@ -1,0 +1,288 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada muestra a los gobernadores en un repliegue táctico, priorizando la gestión local y evitando confrontaciones directas con Nación. Kicillof emerge como el único opositor explícito, utilizando la gestión provincial para marcar diferencias con el ajuste nacional. Jorge Macri, por el contrario, se alinea con el oficialismo en seguridad y derechos de propiedad. El resto de los mandatarios se refugia en la agenda de cabotaje, con omisiones significativas sobre la macroeconomía, sugiriendo un cálculo de supervivencia.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día no es fiscal, sino simbólica. Kicillof despliega una ofensiva de gestión opositora: cada anuncio (microcréditos, empleo verde, viviendas) es un reproche al 'modelo Milei'. La omisión del resto de los gobernadores sobre la macroeconomía es el verdadero mensaje: un repliegue calculado para no desgastarse en una pulseada que no pueden ganar.\n\nActo 2 — Los Alineamientos: Jorge Macri (CABA) consolida su rol de socio estratégico del oficialismo, celebrando la baja de patentes y la defensa de la propiedad privada. Llaryora (Córdoba) se ubica en el centro productivo, reclamando infraestructura pero sin romper con Nación. Kicillof (Buenos Aires) es el paria, construyendo su plataforma de poder provincial como alternativa al gobierno nacional.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas (Zdero, Torres, Jalil, etc.) se refugian en la agenda local: emergencia climática, obras viales, promoción turística. Es una estrategia de supervivencia: evitan posicionarse sobre temas nacionales para no quedar expuestos. La 'apatía federal' es la nota dominante.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es de bajo ruido. No hay rebeliones fiscales ni alianzas opositoras coordinadas. El silencio de los gobernadores peronistas no Kicillof (como Jalil o Ziliotto) revela que prefieren negociar en privado que confrontar en público. Milei gana tiempo, pero la disputa de fondo (coparticipación, obra pública) sigue latente.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión provincial como plataforma opositora",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Alineamiento con el oficialismo en seguridad y propiedad privada",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "¡El @bancoprovincia alcanzó los 500.000 microcréditos entregados! Un verdadero hito de la banca pública que no especula y trabaja para sus verdaderos dueños, los vecinos y vecinas que todos los días se esfuerzan para salir adelante. \n\nDetrás de este instrumento de inclusión hay más que un número, hay miles de historias como la de Marta, que logró mejorar su lavadero industrial en Navarro gracias a @pMicrocreditos.\n\nNecesitamos que esta herramienta tan importante para la producción y el desarrollo forme parte de un país que progrese, donde haya salarios dignos y a la gente le alcance para vivir mejor. Eso es lo que Milei no entiende y lo que tenemos que construir de cara al futuro.",
+        "por_que_es_clave": "Kicillof utiliza un dato de gestión provincial (500.000 microcréditos) para marcar una diferencia ideológica con Milei y posicionarse como el garante del desarrollo frente al ajuste. Es un golpe de efecto opositor que busca capitalizar el descontento social.",
+        "pregunta_openarg": "¿Puede la gestión provincial bonaerense sostenerse como alternativa electoral sin un pacto fiscal que la respalde, o es solo una pulseada simbólica?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Microcréditos",
+                "Empleo verde",
+                "Vivienda",
+                "Memoria",
+                "Crítica a Milei"
+            ],
+            "postura_politica": "Oposición directa. Cada anuncio es un dardo al gobierno nacional: muestra que su provincia gestiona mientras Nación ajusta. Busca capitalizar el descontento y posicionarse como líder de la oposición.",
+            "frase_fuerte": "Eso es lo que Milei no entiende y lo que tenemos que construir de cara al futuro."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Propiedad privada",
+                "Seguridad",
+                "Desalojo Devoto",
+                "Baja de patentes"
+            ],
+            "postura_politica": "Alineamiento total con el oficialismo. Celebra la ley de propiedad privada y la acción contra usupadores, en sintonía con el relato de 'Ley y orden' de Milei. Se muestra como el brazo ejecutor de la agenda nacional en la Ciudad.",
+            "frase_fuerte": "En mi gestión las cosas por su nombre: lo que la justicia ordena se cumple. No vamos a aceptar extorsiones mafiosas."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Infraestructura",
+                "Región Centro",
+                "Educación"
+            ],
+            "postura_politica": "Perfil desarrollista y federal. Participa en foros productivos y reclama infraestructura, pero evita la confrontación directa con Nación. Se posiciona como un gestor que busca acuerdos, no conflicto.",
+            "frase_fuerte": "Argentina necesita un programa de desarrollo y consensos a largo plazo, con objetivos claros que se sostengan más allá de los gobiernos y de las diferencias partidarias."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obras viales",
+                "Emergencia climática",
+                "Salud",
+                "Educación rural"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en la gestión de obras y la prevención del fenómeno El Niño. Omite cualquier referencia a Nación, sugiriendo un repliegue estratégico en un contexto de recursos limitados.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Deporte",
+                "Obras",
+                "Aniversario Trelew",
+                "Inversiones"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Destaca obras e inversiones provinciales, pero sin confrontar con Nación. Busca mostrar gestión en un contexto de recursos propios.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Minería",
+                "Inversiones",
+                "Australia",
+                "Litio",
+                "Cobre"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se posiciona como un gestor que busca inversiones internacionales. Omite cualquier referencia a la macroeconomía nacional, mostrando una estrategia de desarrollo autónomo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Derechos pampeanos",
+                "Atuel",
+                "Ley de Glaciares",
+                "Cooperativismo"
+            ],
+            "postura_politica": "Agenda local con un fuerte tono de reivindicación territorial. Defiende los recursos pampeanos y critica a Nación por la falta de cumplimiento de fallos judiciales. Es un perfil de confrontación acotada a temas provinciales.",
+            "frase_fuerte": "Nuestros derechos no se negocian."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Minería",
+                "Vivienda",
+                "Cannabis medicinal"
+            ],
+            "postura_politica": "Agenda local con perfil modernizador. Destaca avances en minería y justicia penal juvenil, alineado con el discurso de seguridad y desarrollo. Omite críticas a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "Inversiones",
+                "GNL",
+                "Empresas neuquinas",
+                "Agua"
+            ],
+            "postura_politica": "Agenda local con un marcado perfil productivo. Se enfoca en el desarrollo energético y en la generación de empleo, con un discurso que combina reclamos de autonomía con cooperación con Nación.",
+            "frase_fuerte": "Por primera vez en la historia, si a Neuquén le va bien, al país le va a ir bien."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Ganadería",
+                "Aniversario Sierra Grande",
+                "Salud"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Destaca la gestión provincial y las inversiones. Omite cualquier referencia a Nación, mostrando un perfil de gestión autónoma.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Ferrocarril Belgrano Cargas",
+                "Minería",
+                "Litio",
+                "Inversiones",
+                "Reclamo a Nación"
+            ],
+            "postura_politica": "Agenda local con un reclamo federal explícito. Denuncia la falta de inversión en el ferrocarril Belgrano Cargas, pero lo hace en un tono de gestión, no de confrontación partidaria. Busca visibilizar las necesidades del norte.",
+            "frase_fuerte": "El federalismo es progreso."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Minerales críticos",
+                "Inversiones",
+                "Logística",
+                "Ruta 40"
+            ],
+            "postura_politica": "Agenda local con perfil internacional. Participa en foros de minería y busca inversiones. Omite críticas a Nación, mostrando un perfil de gestión técnica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Deporte",
+                "Vivienda",
+                "ONGs"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en la gestión educativa y social. Omite cualquier referencia a la política nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Región Centro",
+                "Vivienda",
+                "Educación",
+                "Seguridad"
+            ],
+            "postura_politica": "Agenda local con un perfil de gestión. Participa en foros productivos y destaca obras, pero evita posicionamientos sobre la macroeconomía. Se muestra como un gestor eficiente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Economía del conocimiento",
+                "Créditos CFI",
+                "Deporte",
+                "Logística"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en la gestión del desarrollo productivo y el financiamiento. Omite cualquier referencia a la política nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Educación",
+                "Deporte",
+                "Turismo",
+                "Reuniones institucionales"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en la gestión de seguridad, educación y turismo. Omite críticas a Nación, mostrando un perfil de gestión institucional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Identidad",
+                "Salud",
+                "Conectividad aérea",
+                "Emergencia climática"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en la gestión de infraestructura y la prevención de inundaciones. Omite cualquier referencia a la política nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Día de la Madre",
+                "UCR",
+                "Límites Isla Apipé",
+                "Aniversario Virasoro"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en efemérides y gestión partidaria. Omite cualquier referencia a la política nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Presupuesto 2027",
+                "Hidrovía",
+                "Puertos",
+                "Inversiones",
+                "Emergencia climática"
+            ],
+            "postura_politica": "Agenda local con perfil ordenancista. Destaca el equilibrio fiscal y la inversión. Participa en la Argentina Week, mostrando una estrategia de apertura internacional. Omite críticas a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Comercio fronterizo",
+                "Bomberos",
+                "Minería"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en la defensa del comercio fronterizo y la gestión minera. Omite cualquier referencia a la política nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Educación",
+                "Energía solar",
+                "Cultura",
+                "Gobiernos locales"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en la gestión educativa y energética. Omite cualquier referencia a la política nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Producción petrolera",
+                "Vivienda",
+                "Aniversario Lago Posadas",
+                "Justicia"
+            ],
+            "postura_politica": "Agenda local con un fuerte tono de reivindicación provincial. Critica al kirchnerismo y destaca la gestión propia. Omite referencias al gobierno nacional actual, mostrando un perfil de ruptura con el pasado.",
+            "frase_fuerte": "No vamos a permitir que vuelvan a destruir YCRT."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Energía",
+                "Industria",
+                "Base Naval Integrada",
+                "Malvinas",
+                "Acuerdo salarial docentes"
+            ],
+            "postura_politica": "Agenda local con perfil estratégico. Destaca la soberanía en Malvinas y la inversión energética. Omite críticas a Nación, mostrando un perfil de gestión institucional y defensa de intereses provinciales.",
+            "frase_fuerte": "Las Malvinas fueron, son y serán argentinas. Y fueron, son y serán fueguinas."
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una firme reafirmación de las agendas provinciales y una visible tensión con el modelo nacional. Axel Kicillof (Buenos Aires) lanzó una crítica directa a las políticas económicas del Presidente Milei, defendiendo la banca pública como motor de desarrollo. Rolando Figueroa (Neuquén) enfatizó el rol estratégico de Vaca Muerta para el país, mientras Gustavo Sáenz (Salta) logró compromisos de inversión nacional en infraestructura crítica. Jorge Macri (Ciudad Autónoma de Buenos Aires) celebró la defensa de la propiedad privada, alineándose con la agenda liberal. En general, los gobernadores priorizaron la gestión local y el impulso productivo regional, en un contexto de demandas y divergencias con el poder central.",
+    "analisis_profundo": "La agenda de los gobernadores en este 22 de octubre de 2026 subraya una persistente dinámica de afirmación subnacional y, en algunos casos, de abierta confrontación con la administración central. Axel Kicillof (Buenos Aires) se erigió como un actor clave de la oposición, utilizando un logro de gestión –los microcréditos del Banco Provincia– para articular una crítica frontal al modelo económico del Presidente Milei. Su declaración no solo destaca la función social de la banca pública, sino que también delinea una visión de país opuesta, centrada en salarios dignos y desarrollo productivo, lo que intensifica la polarización política. Por otro lado, Jorge Macri (Ciudad Autónoma de Buenos Aires) reforzó su alineamiento ideológico al retuitear un mensaje que exalta la ley de inviolabilidad de la propiedad privada, enmarcando esta medida como esencial para atraer inversiones y generar empleo, un claro guiño a los postulados liberales y libertarios del gobierno nacional. \n\nEn el ámbito productivo y de infraestructura, Rolando Figueroa (Neuquén) desplegó una estrategia de liderazgo regional, anunciando inversiones significativas en la comarca petrolera y posicionando a Neuquén como un motor económico del país. Su aseveración de que 'si a Neuquén le va bien, al país le va a ir bien' y los incentivos fiscales para empresas locales en Vaca Muerta, demuestran un fuerte compromiso con el desarrollo endógeno. Gustavo Sáenz (Salta) demostró capacidad de gestión federal al asegurar con el Jefe de Gabinete nacional, Diego Santilli, inversiones cruciales para los ramales ferroviarios C-14 y C-15, infraestructura vital para el desarrollo minero y agropecuario de Salta y el Norte Grande, marcando una victoria para la presión subnacional. Martín Llaryora (Córdoba) también puso en valor la industria de su provincia, reiterando el compromiso con el empleo y el crecimiento. \n\nOtros gobernadores como Leandro Zdero (Chaco) y Maximiliano Pullaro (Santa Fe) se enfocaron en la gestión local con anuncios de obras de salud y entrega de escrituras, respectivamente, fortaleciendo la imagen de un Estado provincial presente. Hugo Passalacqua (Misiones) remarcó la importancia de la infraestructura para el desarrollo provincial, y Carlos Sadir (Jujuy) visibilizó la problemática del comercio fronterizo. Claudio Vidal (Santa Cruz) se sumó a la narrativa de recuperación productiva, anunciando nuevos pozos petroleros y empleos. La jornada, en síntesis, revela una fragmentación en las prioridades y enfoques, con provincias que buscan consolidar su autonomía económica y política frente a un gobierno nacional que también intenta imponer su agenda. La constante necesidad de coordinación y financiación federal persiste como un punto de fricción latente, evidenciando un complejo escenario de dinámicas intergubernamentales.",
+    "temas_calientes": [
+        {
+            "tema": "Contraste de modelos económicos y crítica al Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo regional y atracción de inversiones",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@MartinLlaryora",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Demanda y gestión de infraestructura federal",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la propiedad privada y seguridad jurídica",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Gestión local en salud, vivienda y comunidad",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@maxipullaro",
+                "@carlossadirjuy"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "¡El @bancoprovincia alcanzó los 500.000 microcréditos entregados! Un verdadero hito de la banca pública que no especula y trabaja para sus verdaderos dueños, los vecinos y vecinas que todos los días se esfuerzan para salir adelante. Detrás de este instrumento de inclusión hay más que un número, hay miles de historias como la de Marta, que logró mejorar su lavadero industrial en Navarro gracias a @pMicrocreditos. Necesitamos que esta herramienta tan importante para la producción y el desarrollo forme parte de un país que progrese, donde haya salarios dignos y a la gente le alcance para vivir mejor. Eso es lo que Milei no entiende y lo que tenemos que construir de cara al futuro.",
+        "por_que_es_clave": "El tweet combina un anuncio de gestión provincial (éxito de microcréditos del Banco Provincia) con una crítica directa y una visión contrapuesta al modelo económico del Presidente Milei, posicionando al gobernador Kicillof como un referente de la oposición con propuestas alternativas y una clara postura ideológica.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Microcréditos",
+                "banca pública",
+                "desarrollo productivo",
+                "crítica al modelo económico nacional",
+                "salarios"
+            ],
+            "postura_politica": "Adopta una postura confrontativa con el gobierno nacional, defendiendo un modelo de desarrollo inclusivo y el rol activo de la banca pública frente a políticas de ajuste, posicionándose como un referente de la oposición.",
+            "frase_fuerte": "Eso es lo que Milei no entiende y lo que tenemos que construir de cara al futuro."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Propiedad privada",
+                "ley de inviolabilidad",
+                "inversiones",
+                "empleo",
+                "decisión política"
+            ],
+            "postura_politica": "Se alinea fuertemente con la defensa de la propiedad privada y la seguridad jurídica, pilares de la agenda del gobierno nacional, enfatizando la 'decisión política' como clave para atraer inversiones y desarrollo.",
+            "frase_fuerte": "Hoy, más que nunca, defender la propiedad privada es dejar en claro que defendemos el fruto del trabajo de cada persona y las condiciones para atraer inversiones, crear empleo y desarrollarnos."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obras públicas",
+                "salud",
+                "infraestructura local",
+                "Centro de Jubilados"
+            ],
+            "postura_politica": "Enfocado en la gestión concreta y la mejora de servicios básicos a nivel local, demostrando compromiso con el desarrollo de infraestructura de salud y comunitaria en General Vedia.",
+            "frase_fuerte": "Con avances sostenidos, se acercan a su finalización para mejorar la atención de la salud y los espacios de encuentro para más familias chaqueñas. Seguimos!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Deporte",
+                "jóvenes",
+                "Juegos Binacionales de la Araucanía",
+                "talento",
+                "dedicación"
+            ],
+            "postura_politica": "Resalta el acompañamiento y fomento del deporte juvenil como una vía para el desarrollo del talento y la representación provincial, valorando el esfuerzo y la dedicación de los deportistas.",
+            "frase_fuerte": "Detrás de cada uno hay años de entrenamiento, dedicación y familias que los acompañaron en cada paso, y que hayan llegado a esta instancia ya es un motivo de orgullo para todos."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Industria",
+                "desarrollo económico",
+                "empleo",
+                "libertad religiosa",
+                "comunidades de fe"
+            ],
+            "postura_politica": "Promueve activamente la industria provincial como motor de crecimiento y generación de empleo. También destaca el respeto a la diversidad religiosa como un valor fundamental de la provincia, fomentando la convivencia.",
+            "frase_fuerte": "#Córdoba tiene una industria fuerte, competitiva y con capacidad de generar #empleo y desarrollo."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Comercio fronterizo",
+                "familias",
+                "trabajo",
+                "ingresos"
+            ],
+            "postura_politica": "Sensibiliza sobre el impacto social del comercio fronterizo, vinculándolo directamente con el sustento de las familias y la necesidad de proteger esos ingresos para sus hogares.",
+            "frase_fuerte": "Detrás de cada comercio fronterizo hay familias que viven de su trabajo y necesitan esos ingresos para sostener sus hogares."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Seguridad",
+                "Policía de Mendoza",
+                "reconocimiento institucional",
+                "prevención del delito"
+            ],
+            "postura_politica": "Enfatiza el compromiso y profesionalismo de la fuerza policial, destacando la importancia de la seguridad y el respeto a las instituciones para la tranquilidad de los mendocinos.",
+            "frase_fuerte": "Mi reconocimiento a cada integrante de nuestra Policía por el trabajo que realiza y por asumir, cada día, el desafío de cuidar a los mendocinos."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Infraestructura",
+                "desarrollo",
+                "I-HUB de la Construcción",
+                "prevención de inundaciones",
+                "identidad"
+            ],
+            "postura_politica": "Subraya la necesidad de inversión en infraestructura como base del desarrollo provincial, promoviendo el trabajo coordinado entre sectores. Destaca la importancia de la prevención ante fenómenos climáticos y reafirma el derecho a la identidad como un pilar fundamental.",
+            "frase_fuerte": "No hay desarrollo sin infraestructura. Por eso seguimos buscando la manera de que las obras que Misiones necesita puedan avanzar, aun en un contexto difícil."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Energía (GNL, Vaca Muerta)",
+                "desarrollo local",
+                "empleo",
+                "inversiones",
+                "salud pública",
+                "agua"
+            ],
+            "postura_politica": "Proyecta a Neuquén como un pilar fundamental para el desarrollo nacional a través de sus recursos energéticos, con un fuerte énfasis en la generación de valor agregado y empleo local, y la importancia de la diversificación productiva y el cuidado del agua.",
+            "frase_fuerte": "Hoy Neuquén pone de pie a la Argentina, y estamos convencidos de que ese esfuerzo merece reconocimiento. Por primera vez, si a Neuquén le va bien, al país le va a ir bien."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura ferroviaria (C-14, C-15)",
+                "desarrollo minero",
+                "agropecuario",
+                "turístico",
+                "Corredor Bioceánico"
+            ],
+            "postura_politica": "Defensor activo de las inversiones nacionales en infraestructura estratégica para el desarrollo del Norte Grande, buscando consolidar el Corredor Bioceánico y mejorar la competitividad de su producción.",
+            "frase_fuerte": "Ambos ramales son clave para el desarrollo minero, agropecuario y turístico, la competitividad de Salta y la consolidación del Corredor Bioceánico. Merecemos estar en el mapa de futuras inversiones."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Producción petrolera",
+                "empleo",
+                "inversiones",
+                "Ley 90/10",
+                "desarrollo provincial"
+            ],
+            "postura_politica": "Enfocado en la reactivación económica y productiva de Santa Cruz, promoviendo la inversión en el sector petrolero y la generación de empleo local bajo la Ley 90/10, buscando un rumbo propio para la provincia.",
+            "frase_fuerte": "No nos olvidamos de la gente. Somos parte de ella y vamos a defender cada oportunidad de trabajo para Santa Cruz."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Vivienda",
+                "escrituras",
+                "seguridad jurídica",
+                "familias"
+            ],
+            "postura_politica": "Destaca la importancia de la seguridad jurídica y el acceso a la vivienda como un derecho fundamental y un logro de gestión, generando tranquilidad y oportunidades para las familias de Santa Fe.",
+            "frase_fuerte": "Tener los papeles de su casa es la tranquilidad de saber que lo que construyeron con esfuerzo es suyo, y que se lo van a poder dejar a sus hijos."
+        }
+    ]
+}
