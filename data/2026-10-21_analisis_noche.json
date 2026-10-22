@@ -1,0 +1,260 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores enfocaron la jornada en la defensa de intereses provinciales y la promoción de desarrollo local, a menudo en contraste con o en demanda de apoyo nacional. Axel Kicillof (Buenos Aires) criticó el ajuste nacional en educación técnica. Sergio Ziliotto (La Pampa) reafirmó la lucha por el río Atuel y cuestionó reformas a la Ley de Glaciares. Gustavo Sáenz (Salta) solicitó al gobierno nacional inversiones ferroviarias y la revisión de normativas fronterizas. En paralelo, Ignacio Torres (Chubut) y Claudio Vidal (Santa Cruz) destacaron inversiones petroleras y desarrollo productivo. Alfredo Cornejo (Mendoza) impulsó minería de cobre y Jorge Macri (Ciudad Autónoma de Buenos Aires) celebró avances en seguridad. La 'Región Centro' (Córdoba y Santa Fe) abogó por un plan federal de infraestructura y por la industrialización de los recursos energéticos. La agenda predominó en gestión, inversión, y la afirmación de autonomía frente a desafíos macroeconómicos y disputas federales.",
+    "analisis_profundo": "La agenda federal de los gobernadores en la última jornada revela una fuerte polarización entre la gestión autónoma provincial y la interacción (a menudo tensa) con el Gobierno nacional. Axel Kicillof (Buenos Aires) se posicionó firmemente en defensa de la educación técnica, criticando el 'modelo de país' del Ejecutivo nacional que, según él, desatiende la producción. Esta postura refuerza la narrativa de contención provincial ante un ajuste federal. En la misma línea de defensa de la autonomía, Sergio Ziliotto (La Pampa) capitalizó el 'Día de la Reafirmación de los Derechos Pampeanos sobre el Río Atuel' para denunciar el incumplimiento mendocino del caudal mínimo y cuestionar intentos nacionales de quitar regalías y reformar la Ley de Glaciares, mostrando una postura confrontativa clara en la preservación de recursos naturales y soberanía provincial. Gustavo Sáenz (Salta) también mantuvo un perfil combativo, exigiendo al Gobierno nacional inversiones garantizadas en los ramales C-14 y C-15 del Belgrano Cargas, vitales para el desarrollo regional minero y agropecuario, y logrando la postergación de cambios aduaneros fronterizos. Estas acciones colectivas (como el respaldo de cámaras empresarias) evidencian una articulación regional para presionar por intereses económicos clave.\nPor otro lado, la inversión y el desarrollo productivo fueron ejes centrales. Ignacio Torres (Chubut) celebró el avance de la Zona Franca y nuevas inversiones que proyectan empleo en Trelew, mientras que Claudio Vidal (Santa Cruz) destacó la reactivación petrolera con nuevos pozos y empleos bajo la Ley 90/10, buscando atraer más capital privado y generar valor local. Raúl Jalil (Catamarca) impulsó la minería de cobre y litio con reuniones con inversores internacionales, proyectando a la provincia como un motor de desarrollo. Rolando Figueroa (Neuquén) afianzó la importancia de Vaca Muerta, anunciando beneficios fiscales para empresas que contraten mano de obra local y promoviendo la diversificación productiva con proyectos agrícolas. Alfredo Cornejo (Mendoza) destacó la aprobación de un proyecto minero de óxido de cobre, ligando la minería a la producción agrícola y la diversificación económica, además de continuar con la entrega de viviendas.\nEn el plano de la gestión interna, Claudio Poggi (San Luis) priorizó la seguridad jurídica de la vivienda a través de escrituraciones masivas y el fomento de organizaciones sociales y el deporte juvenil. Leandro Zdero (Chaco) centró sus publicaciones en la educación rural y estrategias de alfabetización, con foco en el desarrollo de capacidades locales. Martín Llaryora (Córdoba) resaltó la inversión en prevención hídrica ante 'El Niño' y el reconocimiento institucional de comunidades religiosas, mostrando una gestión enfocada en infraestructuras resilientes y diversidad. Carlos Sadir (Jujuy) defendió el comercio fronterizo, subrayando su impacto en las economías locales.\nLa jornada también mostró un fuerte énfasis en la economía del conocimiento y la conectividad. Elías Suárez (Santiago del Estero) y Ricardo Quintela (La Rioja) se enfocaron en estas áreas como motores para el empleo juvenil y la innovación. Maximiliano Pullaro (Santa Fe), junto a Llaryora (Córdoba) en el marco de la Región Centro, planteó la necesidad de usar las divisas de energía y minería para infraestructura y energía más barata, buscando una Argentina más federal y productiva. En síntesis, la jornada subraya una dinámica federal activa donde las provincias buscan autonomía y desarrollo propio, mientras que algunas mantienen una firme postura de reclamo y defensa de sus intereses ante un gobierno central percibido como restrictivo o con políticas que afectan el desarrollo regional.",
+    "temas_calientes": [
+        {
+            "tema": "Defensa de la Autonomía Provincial y Recursos Naturales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@GustavoSaenzOK",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Impulso a la Inversión Productiva y Generación de Empleo (Minería, Energía, Zonas Francas)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Desarrollo de Infraestructura y Conectividad",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Políticas Educativas y Desarrollo del Capital Humano",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Gestión Social y Seguridad Ciudadana",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@alfredocornejo",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "NUESTROS DERECHOS NO SE NEGOCIAN\n\n21 de octubre | Día de la Reafirmación de los Derechos Pampeanos sobre el Río Atuel\n\nGeneraciones de pampeanos han sostenido esta lucha. Una lucha por el agua, por nuestra tierra y por las oportunidades de desarrollo que le fueron arrebatadas al oeste provincial.\n\nLa Justicia nos dio la razón. Reconoció nuestros derechos sobre el río robado y estableció un caudal mínimo que Mendoza sigue sin cumplir.\n\nEste año también logramos frenar en la Justicia el intento del Gobierno nacional de quitarnos unilateralmente las regalías de Los Nihuiles.\n\nCon la misma convicción pedimos a la Corte Suprema de Justicia que suspenda la reforma a la Ley de Glaciares e impulsamos una Ley Provincial de Tierras para proteger nuestros recursos naturales y nuestro patrimonio.\n\nPor eso defender el Atuel es defender nuestra historia, nuestra identidad y el futuro de las próximas generaciones.\n\n¡DEFENDER EL ATUEL ES DEFENDER LA PAMPA!",
+        "por_que_es_clave": "El gobernador Sergio Ziliotto (La Pampa) capitaliza una fecha emblemática para reafirmar la postura provincial en la histórica disputa por el río Atuel, extendiendo la confrontación a la Ley de Glaciares y las regalías de Los Nihuiles, posicionándose en una firme defensa de la autonomía y los recursos naturales de su provincia frente a decisiones nacionales y mendocinas.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura",
+                "Crítica al gobierno nacional"
+            ],
+            "postura_politica": "Se posiciona como defensor de la educación pública y la producción provincial frente a políticas de ajuste nacional. Destaca la inversión en formación técnica y energías renovables, contrastando con la visión del gobierno central.",
+            "frase_fuerte": "El Gobierno nacional ajusta a las escuelas técnicas porque en su modelo de país no hay lugar para la producción y el desarrollo."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad",
+                "Propiedad privada",
+                "Gestión urbana"
+            ],
+            "postura_politica": "Reafirma un enfoque de 'mano dura' y defensa de la propiedad privada, celebrando desalojos y asociándose con figuras nacionales del PRO en la aplicación de 'Ley y orden'.",
+            "frase_fuerte": "En la Ciudad no vamos a parar hasta que no quede ni una sola propiedad usurpada."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería (cobre)",
+                "Inversión extranjera",
+                "Empleo"
+            ],
+            "postura_politica": "Promueve activamente la provincia como destino de inversión minera, particularmente en cobre, buscando socios estratégicos internacionales para generar desarrollo y empleo local.",
+            "frase_fuerte": "El cobre puede ser uno de los grandes motores de nuestro desarrollo en los próximos años. Tenemos que aprovechar esta oportunidad para atraer inversiones, generar empleo y darle más protagonismo a Catamarca en la economía argentina."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Educación rural",
+                "Alfabetización",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Prioriza la educación en zonas rurales, impulsando programas de equipamiento y estrategias de alfabetización en colaboración con organizaciones y países vecinos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Inversión",
+                "Empleo",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Enfatiza la concreción de obras 'imposibles' y la atracción de inversiones a la Zona Franca para generar empleo y recuperar el protagonismo de Trelew, contrastando con el pasado.",
+            "frase_fuerte": "Pero mientras algunos se resignaban, nosotros elegimos trabajar unidos, espalda con espalda, para demostrar que las cosas se pueden hacer y se pueden hacer bien."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Prevención hídrica ('El Niño')",
+                "Infraestructura",
+                "Libertad religiosa",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Demuestra proactividad en la gestión de riesgos climáticos y la inversión en obras hídricas. Promueve la diversidad y el reconocimiento institucional de comunidades de fe, vinculándolo con un modelo de crecimiento sostenible.",
+            "frase_fuerte": "Creemos en una provincia que respeta la libertad religiosa, reconoce a cada comunidad y promueve la convivencia desde la diversidad."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Comercio fronterizo",
+                "Economía local"
+            ],
+            "postura_politica": "Manifiesta preocupación por el impacto de políticas en el comercio fronterizo, destacando su importancia para las familias y el sustento de la provincia.",
+            "frase_fuerte": "Detrás de cada comercio fronterizo hay familias que viven de su trabajo y necesitan esos ingresos para sostener sus hogares."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Derechos provinciales (río Atuel)",
+                "Recursos naturales",
+                "Conectividad",
+                "Crítica al gobierno nacional"
+            ],
+            "postura_politica": "Exhibe una defensa enérgica de la soberanía hídrica y territorial de La Pampa, enfrentándose judicialmente a Mendoza y al gobierno nacional por la Ley de Glaciares y las regalías. A su vez, impulsa la expansión de la infraestructura digital.",
+            "frase_fuerte": "Generaciones de pampeanos han sostenido esta lucha. Una lucha por el agua, por nuestra tierra y por las oportunidades de desarrollo que le fueron arrebatadas al oeste provincial."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Educación",
+                "Juventud",
+                "Desarrollo energético",
+                "Innovación"
+            ],
+            "postura_politica": "Fomenta la creatividad y el compromiso de los jóvenes en proyectos innovadores relacionados con el desarrollo energético, viendo en la educación una herramienta clave para el futuro productivo.",
+            "frase_fuerte": "Porque el desarrollo energético y productivo de La Rioja necesita inversiones e infraestructura, pero también necesita lo más importante, el ingenio, la formación y las ganas de crecer de nuestra juventud."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Seguridad",
+                "Minería",
+                "Vivienda",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Combina la celebración de la labor policial con la promoción de la minería de cobre como motor económico y la atención a la demanda de viviendas, buscando diversificar la matriz productiva y dar respuestas sociales.",
+            "frase_fuerte": "Mendoza podrá producir un insumo clave para la agricultura, reducir costos y mejorar la competitividad de nuestros productores."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Discapacidad",
+                "Conectividad aérea",
+                "Salud",
+                "Prevención climática"
+            ],
+            "postura_politica": "Articula la gestión de políticas inclusivas para personas con discapacidad, el fomento del turismo mediante la ampliación de rutas aéreas, la mejora de la infraestructura de salud y la prevención ante fenómenos climáticos.",
+            "frase_fuerte": "Mi aporte en el Congreso de la Nación para fortalecer las políticas públicas en discapacidad tiene un objetivo claro: dar respuestas permanentes y mayor previsibilidad a las personas con discapacidad, sus familias y quienes les brindan atención."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "Empleo local",
+                "Desarrollo económico",
+                "Educación",
+                "Agua"
+            ],
+            "postura_politica": "Concentra su agenda en potenciar Vaca Muerta con beneficios para empresas locales y diversificar la economía hacia lo agrícola. Enfatiza la educación y la gestión transparente de licitaciones.",
+            "frase_fuerte": "Cuando pedimos que contraten empresas neuquinas lo hacemos por una razón de fondo: estuvieron en las malas, y eso es fundamental."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Energía",
+                "Inversión",
+                "Empleo",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Proyecta a Río Negro como un polo industrial energético, destacando los desafíos de la Zona Franca, la petroquímica y los puertos, buscando estabilidad política y seguridad jurídica para atraer grandes inversiones.",
+            "frase_fuerte": "RÍO NEGRO SE PREPARA PARA UNA NUEVA ETAPA DE DESARROLLO INDUSTRIAL"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Infraestructura ferroviaria",
+                "Comercio fronterizo",
+                "Políticas de cuidado",
+                "Diálogo nacional"
+            ],
+            "postura_politica": "Mantiene un firme reclamo al gobierno nacional por inversiones en ferrocarriles esenciales y logra la postergación de cambios aduaneros, defendiendo el comercio fronterizo. Resalta la planificación de políticas de cuidado demográfico.",
+            "frase_fuerte": "Positiva reunión con el jefe de Gabinete @diegosantilliok. Nación garantizó inversiones para el C-14 y C-15, ramales de importancia estratégica para Salta y la región."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Fortalecimiento institucional (ONGs)",
+                "Deporte",
+                "Educación",
+                "Vivienda",
+                "Infraestructura urbana"
+            ],
+            "postura_politica": "Prioriza la participación ciudadana a través de ONGs, la promoción del deporte juvenil y la educación en valores, además de garantizar la seguridad jurídica en la vivienda y mejorar la infraestructura urbana.",
+            "frase_fuerte": "Promovemos desde el primer día el fortalecimiento institucional de las ONGs !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Producción petrolera",
+                "Empleo",
+                "Apoyo a pequeños productores"
+            ],
+            "postura_politica": "Impulsa la reactivación económica a través de la inversión petrolera y la aplicación de leyes que priorizan el empleo local, buscando cambiar una lógica de 'estado acostumbrado a mirar para otro lado'.",
+            "frase_fuerte": "SANTA CRUZ VUELVE A PRODUCIR: TRES NUEVOS POZOS Y 90 PUESTOS DE TRABAJO."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura vial",
+                "Integración regional (Región Centro)",
+                "Energía",
+                "Minería"
+            ],
+            "postura_politica": "Consolida la gestión en vivienda y obras viales, y en el ámbito regional, aboga por que los recursos de la energía y minería se destinen al desarrollo federal y a la competitividad de la Región Centro.",
+            "frase_fuerte": "'Hoy podemos decir que es de nosotros'. Vivimos una jornada hermosa en #SanJusto junto a las 92 familias que recibieron su escritura."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Economía del conocimiento",
+                "Empleo",
+                "Desarrollo productivo",
+                "CFI"
+            ],
+            "postura_politica": "Fomenta la vinculación entre sectores productivos, tecnológicos y académicos para impulsar la economía del conocimiento y generar empleo, con apoyo del CFI.",
+            "frase_fuerte": "CONECTAR PARA INNOVAR 🚀"
+        }
+    ]
+}
