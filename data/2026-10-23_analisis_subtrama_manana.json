@@ -1,0 +1,160 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada combina un fuerte embate de Kicillof contra el programa económico de Milei con una dispersa agenda de gestión local. Gobernadores de provincias centrales y periféricas muestran obras, inversiones y atención de emergencias, evitando en su mayoría confrontar con Nación. El silencio de varios pesos pesados sugiere repliegue táctico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El día se define por el discurso de Axel Kicillof en el Congreso Productivo del MDF en CABA. Su ataque directo a Milei ('El problema es Milei y todo su programa económico') no es solo oposición ideológica; es una jugada para capitalizar el descontento social y posicionarse como líder de la alternativa peronista de cara a 2027. Al emplazar la discusión en la Ciudad de Buenos Aires, bordea la disputa con Jorge Macri y tensa la relación con la Casa Rosada. El resto de los gobernadores evita la trinchera, lo que aísla a Kicillof pero también lo expone como el principal vocero opositor del día.\n\nActo 2 — Los Alineamientos: La mayoría opta por el refugio en la gestión. Raúl Jalil y Rolando Figueroa promocionan el RIGI y las inversiones en minería y energía, alineándose con el discurso nacional de atracción de capitales. Martín Llaryora y Maximiliano Pullaro se enfocan en obra pública provincial (salas cuna, jardines, rutas), marcando autonomía sin enfrentar. Claudio VidalSer es el único que combina gestión local con un reclamo sectorial (petroleros), aunque sin mención explícita a Nación. Carlos Sadir y Gustavo Melella se limitan a anuncios de conectividad y deportes, de peso bajo.\n\nActo 3 — La Micro-política: La gestión de emergencias de Hugo Passalacqua en Misiones por las tormentas es un clásico del peronismo federal: el Estado presente ante la catástrofe, omite la falta de apoyo nacional. Claudio Poggi y Elias Suárez entregan financiamiento a ONGs y reciben a colegios profesionales, gestos de administración sin carga ideológica. Leandro Zdero celebra exportaciones caprinas a Dubai, mostrando gestión comercial periférica. Son movimientos de supervivencia política en provincias sin peso fiscal determinante, que evitan el debate nacional.\n\nActo 4 — Saldo Presidencial: Para Milei, el saldo es agridulce. Si bien ningún gobernador de su espacio lo defiende explícitamente, tampoco se suma una crítica generalizada. El ataque de Kicillof es aislado pero resonante. El silencio de Jorge Macri (CABA), Alfredo Cornejo (Mendoza) y los radicales resulta llamativo: no replican ni respaldan. La Casa Rosada gana que la agenda no se centralice en un conflicto fiscal, pero pierde la oportunidad de exhibir una coalición gobernante unida. La sensación es de una calma tensa, con el núcleo duro opositor replegado y el peronismo buscando su voz.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica directa al programa económico de Milei",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Promoción de inversiones con RIGI y minería",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Obra pública y gestión provincial sin conflicto",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Emergencia climática y respuesta estatal",
+            "gobernadores_involucrados": [
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Agenda deportiva y social local",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@claudiojpoggi",
+                "@gustavomelella"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La ciudad de Buenos Aires es la capital de todos los argentinos y debe pensarse de forma estratégica, como parte de un país federal que tiene recursos naturales y una gran capacidad industrial, científica y tecnológica. Lo que hace falta es una alternativa que entienda que el Estado debe acompañar ese desarrollo. No podemos permitir que otra vez nos digan que el plan era correcto pero se aplicó mal. El problema es Milei y todo su programa económico, eso es lo que hay que cambiar para mejorarle la vida a las pymes, los empresarios, los trabajadores, los estudiantes y los jubilados. Muchas gracias a todos los participantes del Congreso Productivo de la Ciudad organizado por el MDF en CABA para seguir construyendo una alternativa que le mejore la vida a nuestra gente.",
+        "por_que_es_clave": "Kicillof utiliza un evento en CABA para lanzar una crítica frontal a Milei, evitando mención al jefe de Gobierno porteño pero dejando implícito que su gestión es parte del problema. Es un intento de capturar el descontento social y posicionarse como el líder opositor que articula una alternativa, en un momento en que el peronismo busca reordenarse.",
+        "pregunta_openarg": "¿Puede Kicillof capitalizar el malestar económico para construir una alternativa presidencial sin el respaldo explícito de otros gobernadores peronistas?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "crítica a Milei",
+                "modelo productivo",
+                "federalismo"
+            ],
+            "postura_politica": "Oposición directa. Acusa al modelo nacional de ser el problema y se posiciona como constructor de una alternativa. El mensaje en CABA busca tender puentes con electores fuera de la provincia.",
+            "frase_fuerte": "El problema es Milei y todo su programa económico"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "inversiones",
+                "RIGI",
+                "minería"
+            ],
+            "postura_politica": "Alineado con la narrativa nacional de atracción de inversiones. Resalta el RIGI como herramienta, mostrando colaboración con Nación. Sin críticas, pragmatismo económico.",
+            "frase_fuerte": "herramientas como el RIGI nos permiten atraer inversiones, transformar nuestra matriz productiva y aportar al desarrollo de una Argentina más competitiva y federal"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "exportación",
+                "producción caprina"
+            ],
+            "postura_politica": "Gestión local sin impacto federal. Anuncia una exportación a Dubai, mostrando gestión comercial pero sin referencia a Nación. Bajo peso político.",
+            "frase_fuerte": "Del Impenetrable al mundo! Nueva exportación caprina a Dubai."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "políticas de infancia",
+                "salas cuna"
+            ],
+            "postura_politica": "Gestión provincial autonomista. Celebra 10 años de una política local, sin mencionar a Nación. Refuerza su imagen de gestión eficiente dentro de la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "conectividad aérea",
+                "turismo"
+            ],
+            "postura_politica": "Anuncio genérico de conectividad. No hay posicionamiento político claro. Peso bajo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "emergencia climática",
+                "asistencia"
+            ],
+            "postura_politica": "Respuesta a crisis local. El Estado provincial aparece como único actor, sin mención a coordinación nacional. Silencio sobre eventual ayuda federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "obras públicas",
+                "rendición de cuentas"
+            ],
+            "postura_politica": "Gestión provincial con fuerte énfasis en resultados. Lista de obras concretas, sin confrontación con Nación. Discurso de eficiencia gubernamental.",
+            "frase_fuerte": "1075 obras en simultáneo en toda la provincia, algo que nunca antes pasó."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "ONGs",
+                "financiamiento social"
+            ],
+            "postura_politica": "Agenda local de fortalecimiento institucional. Sin contenido federal. Peso bajo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "deportes",
+                "inversiones petroleras"
+            ],
+            "postura_politica": "Dos mensajes: uno juvenil/deportivo y otro de gestión económica (acuerdo petrolero). Ambos evitan a Nación. El segundo reclama inversiones pero sin enfrentamiento.",
+            "frase_fuerte": "NO VOY A BAJAR LOS BRAZOS MIENTRAS HAYA UN PETROLERO ESPERANDO VOLVER A TRABAJAR"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "obra pública",
+                "educación"
+            ],
+            "postura_politica": "Cumplimiento de promesas: inaugura jardín de infantes. Gestión local sin conflicto. Refuerza la imagen de eficiencia administrativa.",
+            "frase_fuerte": "lo que prometimos, lo cumplimos"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "salud",
+                "diálogo institucional"
+            ],
+            "postura_politica": "Reunión con federación farmacéutica. Gestión sectorial sin peso político nacional. Bajo perfil.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "deportes",
+                "juegos binacionales"
+            ],
+            "postura_politica": "Despide delegación deportiva. Sin contenido político federal. Peso bajo.",
+            "frase_fuerte": null
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores despliegan una agenda multifacética, marcada por la crítica frontal de Kicillof (Buenos Aires) al plan económico nacional y el enfoque en la gestión territorial. Destacan el impulso a la producción local y la atracción de inversiones en minería y energía en provincias como Catamarca, Neuquén, Santa Cruz y Jujuy. Se prioriza la ejecución de obras de infraestructura, vivienda y programas sociales en San Luis, Neuquén y Santa Fe, así como la respuesta a emergencias climáticas en Chaco y Misiones. La jornada evidencia una firme defensa de los intereses provinciales y la búsqueda de desarrollo autónomo, consolidando un clima político TENSO ante las diferencias con el gobierno central.",
+    "analisis_profundo": "El panorama político federal de hoy se caracteriza por la dualidad entre la confrontación abierta y la gestión pragmática. La Provincia de Buenos Aires, a través de Kicillof, articula una fuerte oposición al gobierno nacional, señalando directamente el 'problema' en el programa económico de Milei y abogando por un rol estatal más activo en el desarrollo. Esta postura subraya una clara línea divisoria en la política nacional, reafirmando las tensiones preexistentes entre el peronismo provincial y la administración central.\n\nEn paralelo, otras provincias demuestran un fuerte compromiso con el desarrollo regional y la autonomía en la búsqueda de soluciones. El fomento a la inversión productiva es un eje central, con gobernadores como Jalil (Catamarca) promocionando la minería y el RIGI, y Vidal (Santa Cruz) buscando activamente inversiones petroleras para generar empleo. Figueroa (Neuquén) detalla un robusto plan de infraestructura en el norte de su provincia, buscando el arraigo y la calidad de vida, mientras que Sadir (Jujuy) se concentra en la conectividad para impulsar el turismo y el empleo, todos señalando la necesidad de crecimiento local.\n\nLa gestión de las necesidades básicas y las emergencias es otro pilar. Zdero (Chaco) y Passalacqua (Misiones) están inmersos en la asistencia por fenómenos climáticos, desplegando recursos provinciales para proteger a sus comunidades. La política habitacional y los programas sociales también se destacan, con Poggi (San Luis) entregando viviendas y apoyando a organizaciones civiles, y Llaryora (Córdoba) consolidando políticas de primera infancia. Pullaro (Santa Fe) enfatiza el cumplimiento de obras educativas como símbolo de gestión.\n\nLa jornada también refleja la importancia de la articulación y el diálogo para asegurar recursos. La garantía de inversiones nacionales para los ramales ferroviarios C-14 y C-15 que logra Saenz (Salta) es un ejemplo de cómo las provincias buscan soluciones a nivel federal para impulsar su desarrollo, aunque persista una percepción de desigualdad histórica. En síntesis, los gobernadores están activamente definiendo sus propias agendas de crecimiento y bienestar, ya sea confrontando las políticas nacionales o adaptándose a ellas con gestión y búsqueda de oportunidades endógenas.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a Políticas Nacionales y Búsqueda de Alternativa",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones (Minería/Energía)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@ClaudioVidalSer",
+                "@carlossadirjuy",
+                "@GustavoSaenzOK",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Gestión de Obras Públicas y Vivienda",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Respuestas a Emergencias Climáticas y Gestión Social",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento Institucional y Conectividad",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK",
+                "@carlossadirjuy",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La ciudad de Buenos Aires es la capital de todos los argentinos y debe pensarse de forma estratégica, como parte de un país federal que tiene recursos naturales y una gran capacidad industrial, científica y tecnológica. Lo que hace falta es una alternativa que entienda que el Estado debe acompañar ese desarrollo. No podemos permitir que otra vez nos digan que el plan era correcto pero se aplicó mal. El problema es Milei y todo su programa económico, eso es lo que hay que cambiar para mejorarle la vida a las pymes, los empresarios, los trabajadores, los estudiantes y los jubilados. Muchas gracias a todos los participantes del Congreso Productivo de la Ciudad organizado por el MDF en CABA para seguir construyendo una alternativa que le mejore la vida a nuestra gente.",
+        "por_que_es_clave": "El gobernador Kicillof (Buenos Aires) presenta una crítica directa y explícita al programa económico del presidente Milei, posicionándose como una voz opositora y proponiendo una 'alternativa' que revaloriza el rol del Estado en el desarrollo federal, industrial y social. Esta declaración marca una clara tensión entre la provincia de Buenos Aires y el gobierno nacional.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Crítica al gobierno nacional",
+                "Desarrollo federal",
+                "Rol del Estado",
+                "Apoyo a pymes y trabajadores"
+            ],
+            "postura_politica": "Fuerte oposición al programa económico de Milei, abogando por un Estado activo que promueva el desarrollo productivo y la inclusión social. Busca consolidar una alternativa política desde una perspectiva federal.",
+            "frase_fuerte": "El problema es Milei y todo su programa económico, eso es lo que hay que cambiar para mejorarle la vida a las pymes, los empresarios, los trabajadores, los estudiantes y los jubilados."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Promoción de inversiones",
+                "Minería",
+                "Desarrollo industrial y turístico",
+                "Federalismo",
+                "RIGI"
+            ],
+            "postura_politica": "Proactiva en la atracción de inversiones, especialmente en minería, para impulsar el desarrollo provincial y contribuir a una Argentina más competitiva y federal.",
+            "frase_fuerte": "Por eso mostramos cómo herramientas como el RIGI nos permiten atraer inversiones, transformar nuestra matriz productiva y aportar al desarrollo de una Argentina más competitiva y federal."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Producción para exportación",
+                "Asistencia en emergencias climáticas",
+                "Gestión de catástrofes"
+            ],
+            "postura_politica": "Enfocado en la promoción de la producción local con proyección internacional y en la respuesta rápida y coordinada ante situaciones de emergencia que afectan a su provincia.",
+            "frase_fuerte": "Del Impenetrable al mundo! 🌍 Nueva exportación caprina a Dubai."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Primera infancia",
+                "Educación",
+                "Salud"
+            ],
+            "postura_politica": "Prioriza políticas de Estado de largo plazo, como el programa Salas Cuna, que abordan el desarrollo integral de la infancia y fortalecen los servicios educativos y sanitarios.",
+            "frase_fuerte": "En #Cordoba tenemos una política de Estado que se llama #SalasCuna y que permite no solo cuidar a los niños, sino también desarrollar una política educativa y sanitaria que impulsa a nuestra querida provincia hacia adelante."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Emergencias climáticas",
+                "Asistencia a la población",
+                "Desinformación",
+                "Responsabilidad informativa"
+            ],
+            "postura_politica": "Lidera la respuesta provincial ante fenómenos climáticos, coordinando la asistencia. También muestra preocupación por el impacto de la desinformación en la sociedad.",
+            "frase_fuerte": "Estamos asistiendo a las familias afectadas por el temporal, con tareas de relevamiento, contención y atención de los daños."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obras de infraestructura",
+                "Desarrollo regional",
+                "Calidad de vida",
+                "Arraigo",
+                "Oportunidades para futuras generaciones"
+            ],
+            "postura_politica": "Impulsa un plan de obras ambicioso para el norte neuquino, centrado en mejorar la conectividad, educación y salud, buscando generar arraigo y oportunidades de desarrollo local.",
+            "frase_fuerte": "No es solo asfalto y cemento: es calidad de vida, es arraigo, y es la certeza de que el norte también puede crecer en su propia tierra, con oportunidades para las próximas generaciones."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Autoconstrucción",
+                "Apoyo a ONGs",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Fuerte énfasis en la política habitacional, facilitando el acceso a la vivienda y promoviendo el fortalecimiento de organizaciones no gubernamentales para el desarrollo de proyectos sociales en el interior provincial.",
+            "frase_fuerte": "Cuatro familias de la Localidad de Bagual accedieron a su VIVIENDA propia. Les entregamos las llaves de su casa. Hoy mismo se mudan !! Bien 👏👏"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Deporte",
+                "Desarrollo petrolero",
+                "Recuperación de actividad económica",
+                "Empleo"
+            ],
+            "postura_politica": "Activo en la promoción del deporte juvenil y en la gestión de inversiones para reactivar la industria petrolera, con un fuerte compromiso con la generación de empleo local en un contexto desafiante.",
+            "frase_fuerte": "NO VOY A BAJAR LOS BRAZOS MIENTRAS HAYA UN PETROLERO ESPERANDO VOLVER A TRABAJAR"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Infraestructura educativa",
+                "Cumplimiento de promesas"
+            ],
+            "postura_politica": "Enfocado en la concreción de obras educativas, demostrando la capacidad de la provincia para cumplir con los compromisos de gestión y mejorar la infraestructura escolar.",
+            "frase_fuerte": "En marzo recorrimos la obra y dijimos que acá iban a venir 80 chicos a la mañana y 80 a la tarde. Hoy inauguramos el nuevo jardín de #VillaConstitución: lo que prometimos, lo cumplimos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Sector farmacéutico",
+                "Salud",
+                "Colaboración público-privada"
+            ],
+            "postura_politica": "Promueve el diálogo y la articulación con entidades profesionales como la Federación Farmacéutica Argentina para asegurar el acceso a servicios de salud y fortalecer el sector en la provincia.",
+            "frase_fuerte": "Coincidimos en la importancia de fortalecer el trabajo articulado entre el Estado y las entidades farmacéuticas, promoviendo el diálogo y la cooperación para acompañar al sector y contribuir a garantizar el acceso a sus servicios y una atención adecuada para todos los santiagueños."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Deporte juvenil",
+                "Competición binacional"
+            ],
+            "postura_politica": "Apoya y promueve la participación de jóvenes deportistas en competencias internacionales, destacando el orgullo provincial y la generación de oportunidades a través del deporte.",
+            "frase_fuerte": "Hoy partió rumbo a Chile nuestra delegación fueguina, con más de 200 representantes que van a competir en los Juegos de la Araucanía. Quiero desearles un buen viaje y muchos éxitos en cada disciplina. Después de mucho entrenamiento, llegó el momento de competir y representar a Tierra del Fuego."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Conectividad aérea",
+                "Turismo",
+                "Empleo"
+            ],
+            "postura_politica": "Prioriza el fortalecimiento de la conectividad aérea para impulsar el turismo y la generación de empleo, buscando integrar mejor la provincia con el resto del país.",
+            "frase_fuerte": "¡MÁS CONECTIVIDAD PARA JUJUY! ✈️"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Infraestructura ferroviaria",
+                "Desarrollo minero",
+                "Agropecuario y turístico",
+                "Corredor Bioceánico",
+                "Inversiones nacionales"
+            ],
+            "postura_politica": "Defensor activo de las obras de infraestructura federales estratégicas para el desarrollo de Salta y el Norte Grande, logrando compromisos de inversión nacional.",
+            "frase_fuerte": "Nación garantizó inversiones para el C-14 y C-15, ramales de importancia estratégica para Salta y la región."
+        }
+    ]
+}
