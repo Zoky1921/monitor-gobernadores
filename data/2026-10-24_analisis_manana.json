@@ -1,0 +1,137 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal se caracteriza por una fuerte oposición del gobernador Kicillof (Buenos Aires) al modelo económico nacional, advirtiendo sobre exclusión y hambre. En contraste, otros gobernadores centran su agenda en la gestión local y el desarrollo productivo. Se destacan iniciativas como la 'Tarifa Neuquina' en Neuquén para aliviar el costo de la energía, inversiones en infraestructura industrial en Córdoba, políticas de seguridad con tecnología en Chubut, y programas de vivienda y salud en San Luis y Santa Fe. La Rioja busca inversiones externas y Santiago del Estero apoya programas sociales, mostrando un fuerte énfasis en la autonomía y la respuesta provincial a las necesidades de su gente frente a un contexto nacional complejo.",
+    "analisis_profundo": "La agenda de los gobernadores hoy refleja una polarización marcada entre una crítica frontal al rumbo económico nacional y un pragmatismo enfocado en la gestión provincial. Axel Kicillof (Buenos Aires) lidera la oposición, al descalificar el modelo económico actual como generador de 'exclusión y hambre', y sugiriendo la necesidad de un 'otro camino, otro país posible'. Esta postura refuerza la tensión Nación-Provincias, posicionándose como un referente opositor clave. Mientras tanto, otros mandatarios se concentran en acciones concretas que buscan blindar a sus provincias de las dificultades macroeconómicas o impulsar el desarrollo con recursos propios y locales. Rolo Figueroa (Neuquén) ejemplifica esta autonomía al anunciar una 'Tarifa Neuquina' con descuentos significativos en la luz, subrayando que 'lo que es de Neuquén queda en Neuquén' y que el crecimiento provincial debe reflejarse directamente en el bolsillo de sus habitantes. Martín Llaryora (Córdoba) promueve la inversión industrial con la celebración de una nueva ampliación productiva y enfatiza la mejora de infraestructura urbana. Ignacio Torres (Chubut) invierte en tecnología de monitoreo avanzado para combatir el delito, priorizando la seguridad. Ricardo Quintela (La Rioja) busca activamente inversiones extranjeras en el sector hortícola, mientras que Claudio Poggi (San Luis) y Maximiliano Pullaro (Santa Fe) se enfocan en la entrega de viviendas y la inauguración de centros de salud, respectivamente. Leandro Zdero (Chaco) y Gerardo Zamora (Santiago del Estero) apuestan por políticas sociales y comunitarias, demostrando un compromiso con el bienestar local. En conjunto, se observa un patrón donde, más allá de la retórica nacional, las provincias buscan soluciones endógenas y fortalecen su tejido productivo y social.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al Rumbo Económico Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Autonomía y Beneficios Provinciales en Energía",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Infraestructura, Vivienda y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y Políticas Sociales con Enfoque Local",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@LeandroZdero",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Lo que hay que cambiar no son los nombres propios, es este rumbo económico. No caigamos en la trampa de lavarle la cara a un modelo que solo genera exclusión y hambre, sin importar quién lo lleve adelante. Hay otro camino, otro país posible, aunque nos quieran convencer de lo contrario.",
+        "por_que_es_clave": "El tweet del gobernador de Buenos Aires es clave por su crítica directa y categórica al 'rumbo económico' nacional, desligando la responsabilidad de los nombres propios y señalando sus consecuencias en la 'exclusión y hambre'. Propone la existencia de 'otro camino, otro país posible', lo que lo posiciona como un referente de la oposición a la política federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica económica nacional",
+                "Modelo de país"
+            ],
+            "postura_politica": "Adopta una postura de oposición frontal al modelo económico nacional, argumentando que este genera exclusión y hambre. Reafirma la necesidad de un cambio de rumbo y la existencia de una alternativa para el país.",
+            "frase_fuerte": "Lo que hay que cambiar no son los nombres propios, es este rumbo económico. No caigamos en la trampa de lavarle la cara a un modelo que solo genera exclusión y hambre, sin importar quién lo lleve adelante."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Bienestar animal",
+                "Recuperación de espacios"
+            ],
+            "postura_politica": "Enfocado en la gestión social a nivel local, el gobernador de Chaco destaca acciones concretas para asistir a la comunidad, incluyendo la provisión de espacios y soporte a fundaciones de bienestar animal. Subraya la importancia de la cercanía y el apoyo a iniciativas que surgen en la provincia.",
+            "frase_fuerte": "Garantizamos un nuevo espacio para la Fundación “Hogar 4 Patitas.”"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Tecnología"
+            ],
+            "postura_politica": "Prioriza la seguridad pública mediante la inversión en tecnología de última generación para combatir el delito. Enfatiza que la seguridad se logra con 'inversiones, tecnología y herramientas concretas', no solo con promesas.",
+            "frase_fuerte": "Porque la seguridad no se garantiza con promesas, sino con inversiones, tecnología de última generación y herramientas concretas para prevenir el delito y cuidar a los chubutenses."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Promoción industrial",
+                "Inversión privada",
+                "Infraestructura urbana"
+            ],
+            "postura_politica": "Impulsa el desarrollo productivo local y la inversión privada, destacando la ampliación de empresas centenarias. Paralelamente, se enfoca en la mejora de la infraestructura urbana, como asfaltado y luminarias, para mejorar la calidad de vida de los vecinos. Su gestión se basa en generar condiciones y reglas claras para el sector privado.",
+            "frase_fuerte": "Palmar modernizó su planta, incorporó tecnología europea, seis brazos robotizados, un nuevo horno y más de 7.000 metros cuadrados cubiertos. Esta apuesta por la innovación permitirá aumentar un 30% su producción y seguir fortaleciendo una cadena de valor fundamental para la construcción, que hoy sostiene 200 empleos directos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Autonomía energética",
+                "Tarifas provinciales",
+                "Obras públicas"
+            ],
+            "postura_politica": "Adopta una postura fuerte en defensa de los recursos y beneficios provinciales, concretando una reducción tarifaria en la energía eléctrica para los residentes. También resalta la realización de obras públicas que 'jamás prometió', enfocándose en acciones tangibles y el desarrollo del interior provincial.",
+            "frase_fuerte": "TARIFA NEUQUINA: NEUQUÉN CRECE, TU FACTURA DE LUZ BAJA"
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Inversiones extranjeras",
+                "Desarrollo productivo",
+                "Economía regional"
+            ],
+            "postura_politica": "Demuestra un compromiso activo con la atracción de inversiones externas, especialmente en el sector hortícola, para generar empleo y fortalecer la economía provincial. Su enfoque está en 'abrir oportunidades' y capitalizar el 'potencial productivo'.",
+            "frase_fuerte": "Seguimos abriendo oportunidades para que La Rioja atraiga inversiones que generen trabajo y fortalezcan nuestra economía."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Política habitacional"
+            ],
+            "postura_politica": "Se enfoca en la entrega de viviendas propias a las familias, destacando el impacto emocional y la concreción de un derecho fundamental. Su mensaje resalta la importancia de la 'vivienda propia' como un pilar para el futuro de los ciudadanos.",
+            "frase_fuerte": "34 FAMILIAS de La Punta accedieron a la VIVIENDA propia. Navidad del 2026 en casa !! Muy emotivo !!"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Salud pública",
+                "Infraestructura sanitaria"
+            ],
+            "postura_politica": "Prioriza el fortalecimiento de la salud pública mediante la inauguración de nueva infraestructura, como el SAMCo. Destaca la importancia de la cercanía de los servicios de salud y el cumplimiento de las promesas de gestión.",
+            "frase_fuerte": "Inauguramos el nuevo SAMCo de #JBMolina, un lugar tan esperado por toda la comunidad."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Comunidad",
+                "Recuperación de adicciones"
+            ],
+            "postura_politica": "Apoya programas comunitarios y organizaciones sociales para brindar oportunidades y asistencia en la recuperación de personas en situación de vulnerabilidad. Destaca el compromiso del gobierno provincial con el fortalecimiento de la esperanza y la construcción de 'nuevos caminos' a nivel comunitario.",
+            "frase_fuerte": "Acompañamos la inauguración de la ampliación del Segundo Umbral “Virgen de Itatí”, de la Familia Grande Hogar de Cristo, en La Banda."
+        }
+    ]
+}
