@@ -1,0 +1,209 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de múltiples frentes de conflicto provincial contra Nación. Kicillof escaló su retórica anti-Milei en el Congreso Productivo, mientras Llaryora y Jalil usaron la Región Centro y el Coloquio Industrial para marcan agenda propia. Figueroa pateó el tablero neuquino con la Tarifa Neuquina, desafiando la lógica de subsidios. Sadir y Valdés sumaron reclamos concretos por comercio fronterizo y obra hidrovía, respectivamente. La Casa Rosada enfrenta un coro de demandas sin un líder unificado de la oposición.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal y política entre Nación y provincias se materializó en al menos cuatro flancos. Kicillof, desde el Congreso Productivo del MDF en CABA, no solo criticó el programa económico de Milei sino que propuso un modelo alternativo con el Estado como actor central. Llaryora, en el Coloquio Industrial de Córdoba, introdujo el reclamo de un RIGI para pymes, una demanda que apunta directamente a la macroeconomía del ajuste. Figueroa, en Neuquén, fue más directo al anunciar la Tarifa Neuquina: un descuento del 30% en la boleta de luz financiado con recursos provinciales, bajo el lema 'lo que nos corresponde', una frase que resuena como un acta de independencia energética fiscal. Valdés, desde el Parlamento del Norte Grande, reclamó asistencia por El Niño y solución a los límites de Isla Apipé, temas que el Congreso nacional tiene congelados.\n\nActo 2 — Los Alineamientos: Se dibujan tres bloques. El primero, de confrontación directa con Nación, lo encabeza Kicillof, secundado por Llaryora en lo discursivo aunque con matices: Córdoba no rompe sino que propone reglas (RIGI pymes, prórroga Ley de Autopartes). El segundo bloque es el de los gobernadores que usan organismos regionales para canalizar reclamos: Jalil (Catamarca) y Valdés (Corrientes) activaron el Norte Grande, mientras Llaryora y Pullaro aparecieron juntos en la Región Centro. El tercero, más ambivalente, lo representa Figueroa: su anuncio es un gesto de autonomía pero no de ruptura, ya que simultáneamente recibe al presidente Milei en la Expo Oil & Gas.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas se refugiaron en la agenda local. Zdero (Chaco) mostró gestión de inundaciones y exportación caprina a Dubai. Passalacqua (Misiones) se enfocó en la emergencia climática. Poggi (San Luis) inauguró obras menores y entregó viviendas. Vidal Ser (Santa Cruz) celebró un acuerdo petrolero con Alianza Petrolera, un gesto de reactivación productiva sin mención a Nación. Suárez (Santiago del Estero) y Melella (Tierra del Fuego) también se mantuvieron en lo protocolar. La ausencia de mención a la macroeconomía en estas cuentas revela una estrategia de supervivencia: mostrar gestión para compensar la falta de asistencia nacional.\n\nActo 4 — Saldo Presidencial: El balance para Milei es agridulce. Por un lado, la fragmentación de los reclamos impide la formación de un frente opositor sólido. Por otro, la proliferación de iniciativas provinciales autónomas (tarifa neuquina, RIGI cordobés, parla-mento norteño) socava la narrativa de un ajuste ordenado y revela que los gobernadores están dispuestos a tomar el control de sus herramientas fiscales. La ausencia de un líder unificado es la única ventaja de la Casa Rosada en esta partida.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al programa económico de Milei y propuesta de alternativa productiva",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Reclamo por recursos energéticos y la Tarifa Neuquina como acto de autonomía fiscal",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Demandas al Gobierno nacional por comercio fronterizo, obra hidrovía y asistencia por El Niño",
+            "gobernadores_involucrados": [
+                "@carlossadirjuy",
+                "@gustavovaldesok"
+            ]
+        },
+        {
+            "tema": "Región Centro y Norte Grande como plataformas de coordinación provincial para reclamar federalismo",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@RaulJalil_ok",
+                "@gustavovaldesok"
+            ]
+        },
+        {
+            "tema": "Gestión de emergencias climáticas y obras locales sin mención a Nación",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La ciudad de Buenos Aires es la capital de todos los argentinos y debe pensarse de forma estratégica, como parte de un país federal que tiene recursos naturales y una gran capacidad industrial, científica y tecnológica. Lo que hace falta es una alternativa que entienda que el Estado debe acompañar ese desarrollo. \n\nNo podemos permitir que otra vez nos digan que el plan era correcto pero se aplicó mal. El problema es Milei y todo su programa económico, eso es lo que hay que cambiar para mejorarle la vida a las pymes, los empresarios, los trabajadores, los estudiantes y los jubilados.",
+        "por_que_es_clave": "Kicillof no solo critica a Milei, sino que propone una alternativa política desde el peronismo, usando un foro en CABA para marcar territorio. Es un acto de posicionamiento electoral a 2027, desafiando la narrativa de que no hay modelo alternativo.",
+        "pregunta_openarg": "¿Puede el peronismo de Kicillof construir una alternativa federal que articule a los gobernadores del interior, o su discurso queda atrapado en el conurbano bonaerense?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "crítica a Milei",
+                "alternativa productiva",
+                "microcréditos",
+                "Congreso Productivo MDF"
+            ],
+            "postura_politica": "Oposición frontal y construcción de una alternativa electoral. Usa cada aparición para contrastar gestión provincial con ajuste nacional. El silencio sobre la coparticipación revela que prefiere la confrontación ideológica antes que pedir fondos.",
+            "frase_fuerte": "El problema es Milei y todo su programa económico, eso es lo que hay que cambiar."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Coloquio Industrial de Córdoba",
+                "RIGI",
+                "minería"
+            ],
+            "postura_politica": "Aliado táctico de Llaryora. Promociona el RIGI como herramienta para atraer inversiones mineras, alineado con el discurso nacional de seguridad jurídica. Evita criticar a Milei directamente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "exportación caprina a Dubai",
+                "inundaciones",
+                "gestión de emergencia"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Muestra gestión en dos frentes: desarrollo productivo (exportación) y respuesta a catástrofe. Omite cualquier referencia a Nación, lo que sugiere autosuficiencia forzada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "narcotráfico",
+                "operativo policial",
+                "energía eólica"
+            ],
+            "postura_politica": "Prioriza seguridad y energía. El golpe al narcotráfico le da capital político local. La inauguración del parque eólico más grande del país es un guiño a la inversión privada, sin mencionar a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "RIGI para pymes",
+                "Región Centro",
+                "obras públicas",
+                "memoria"
+            ],
+            "postura_politica": "Construye poder territorial mediante alianzas (Región Centro) y reclamos técnicos al modelo nacional. Pide un RIGI para pymes como contrapeso al ajuste, pero sin romper con Milei. Muestra que Córdoba puede ser locomotora sin enfrentarse.",
+            "frase_fuerte": "Necesitamos un RIGI para las pymes, un proyecto que les permita sobrevivir y seguir siendo parte de la gran industria argentina."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Parlamento del Norte Grande",
+                "Isla Apipé",
+                "asistencia por El Niño",
+                "hidrovía"
+            ],
+            "postura_politica": "Canaliza reclamos federales a través del Norte Grande. La mención a límites de Isla Apipé y asistencia por El Niño son demandas concretas a Nación, pero sin confrontación directa. Busca unidad regional para presionar.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "restricciones de ARCA",
+                "comercio fronterizo"
+            ],
+            "postura_politica": "Defiende a comerciantes locales afectados por medidas de ARCA. Se posiciona como defensor de la economía popular frente a la burocracia nacional. Un reclamo concreto que puede capitalizar políticamente en la frontera.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "inversión española",
+                "producción de ajo"
+            ],
+            "postura_politica": "Captación de inversiones extranjeras con perfil bajo. Sin referencias a Nación. Muestra gestión en desarrollo productivo local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Bootcamp Empresarial",
+                "Mercado Libre",
+                "empleo privado"
+            ],
+            "postura_politica": "Promoción de inversión privada y confianza empresarial. No hay mención a Nación ni conflicto. Refuerza su perfil pro-mercado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "temporal",
+                "inundaciones",
+                "asistencia"
+            ],
+            "postura_politica": "Gestión de emergencia sin carga política. Se limita a informar sobre el operativo de asistencia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Tarifa Neuquina",
+                "Vaca Muerta",
+                "GNL",
+                "empresas neuquinas"
+            ],
+            "postura_politica": "Jugada maestra: anuncia un beneficio directo a los neuquinos financiado con recursos provinciales, bajo el argumento de que 'es lo que nos corresponde'. Recibe a Milei en la Expo Oil & Gas, manteniendo la relación institucional, pero al mismo tiempo marca autonomía fiscal. Es un equilibrio entre confrontación y cooperación.",
+            "frase_fuerte": "No es un subsidio ni una ayuda: es lo que nos corresponde por vivir en la provincia que genera la energía del país."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "obras en Navia",
+                "viviendas",
+                "escrituras"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en gestión de obras y servicios. Sin referencias a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "acuerdo petrolero",
+                "recuperación de pozos",
+                "Ley 90/10"
+            ],
+            "postura_politica": "Reactiva la producción petrolera con unacuerdo con Alianza Petrolera. Defiende la Ley 90/10 para priorizar mano de obra local. Crítica implícita a la inacción de gestiones anteriores, pero sin mencionar a Nación.",
+            "frase_fuerte": "No voy a bajar los brazos mientras haya un petrolero esperando volver a trabajar."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "jardín de infantes",
+                "obra pública"
+            ],
+            "postura_politica": "Cumplimiento de promesas de campaña. Muestra gestión local. Sin referencia a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Hogar de Cristo",
+                "inclusión social"
+            ],
+            "postura_politica": "Agenda social con la Iglesia. Sin contenido político federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Juegos de la Araucanía",
+                "deporte"
+            ],
+            "postura_politica": "Agenda protocolar aislada. Sin impacto federal.",
+            "frase_fuerte": null
+        }
+    ]
+}

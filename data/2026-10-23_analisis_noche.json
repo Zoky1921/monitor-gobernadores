@@ -1,0 +1,262 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "Los gobernadores demostraron una agenda federal diversa y activa, combinando una intensa gestión local con demandas y posturas frente al Gobierno nacional. La inversión en infraestructura, vivienda y programas sociales dominó la actividad de gobernadores como Claudio Poggi (San Luis), Martín Llaryora (Córdoba) y Leandro Zdero (Chaco), quienes priorizaron obras y asistencias directas a sus comunidades. Paralelamente, surgieron reclamos federales significativos, con Axel Kicillof (Buenos Aires) endureciendo su crítica al modelo económico nacional y Martín Llaryora (Córdoba) defendiendo incentivos para PyMEs y el sector minero. La seguridad, el comercio fronterizo y la prevención ante el fenómeno El Niño también ocuparon un lugar central en la agenda, reflejando una gestión provincial robusta y atenta a las realidades locales y regionales, aunque con algunas tensiones con Nación.",
+    "analisis_profundo": "La jornada federal se caracterizó por una doble velocidad de la agenda. Por un lado, una notable concentración en la gestión provincial y local, con un énfasis recurrente en obras de infraestructura social (viviendas, polideportivos, centros de salud) y programas de asistencia directa a las comunidades. Gobernadores como Claudio Poggi (San Luis) y Martín Llaryora (Córdoba) exhibieron una profusa actividad en este ámbito, inaugurando y visitando proyectos que impactan directamente en la calidad de vida de sus ciudadanos. Leandro Zdero (Chaco) y Oscar Herrera Ahuad (Misiones) pusieron el foco en la respuesta a emergencias climáticas y asistencia por inundaciones, destacando la necesidad de preparación y coordinación interinstitucional.\n\nPor otro lado, se manifestó una clara tensión en la esfera federal. Axel Kicillof (Buenos Aires) lanzó una crítica directa y explícita al programa económico del Presidente Milei, enmarcando su postura en la defensa de un país federal y el rol del Estado en el desarrollo productivo. Martín Llaryora (Córdoba) se unió a la discusión macroeconómica, abogando por un Régimen de Incentivo a las Grandes Inversiones (RIGI) adaptado a las PyMEs y la protección de la industria automotriz. En el ámbito regional, Gustavo Valdés (Corrientes) y Carlos Sadir (Jujuy) canalizaron demandas colectivas del Norte Grande, desde el conflicto limítrofe de Isla Apipé hasta las tarifas energéticas diferenciales y las restricciones al comercio fronterizo, respectivamente. Ignacio Torres (Chubut) destacó un operativo de seguridad interprovincial, mientras Ricardo Quintela (La Rioja) y Alfredo Cornejo (Mendoza) subrayaron la importancia de atraer inversiones y fomentar el emprendedorismo como motores de desarrollo regional. Este dinamismo subraya un clima político donde la gestión pragmática se entrelaza con la formulación de visiones de país alternativas y la defensa de los intereses provinciales frente al poder central.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo y Crítica al Modelo Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@gustavovaldesok"
+            ]
+        },
+        {
+            "tema": "Inversión y Desarrollo Productivo Regional",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@RaulJalil_ok",
+                "@ClaudioVidalSer",
+                "@LeandroZdero",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Seguridad y Lucha contra el Narcotráfico",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Asistencia Social Local",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@MartinLlaryora",
+                "@LeandroZdero",
+                "@passalacquaok",
+                "@maxipullaro",
+                "@Rolo_Figueroa",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Desafíos Regionales y Ambientales",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok",
+                "@carlossadirjuy",
+                "@passalacquaok",
+                "@LeandroZdero"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "La ciudad de Buenos Aires es la capital de todos los argentinos y debe pensarse de forma estratégica, como parte de un país federal que tiene recursos naturales y una gran capacidad industrial, científica y tecnológica. Lo que hace falta es una alternativa que entienda que el Estado debe acompañar ese desarrollo. No podemos permitir que otra vez nos digan que el plan era correcto pero se aplicó mal. El problema es Milei y todo su programa económico, eso es lo que hay que cambiar para mejorarle la vida a las pymes, los empresarios, los trabajadores, los estudiantes y los jubilados.",
+        "por_que_es_clave": "Este tweet de Axel Kicillof (Buenos Aires) se destaca por su contundente crítica al programa económico nacional, nombrando directamente al Presidente. Enmarca la discusión en una visión federal del país, contraponiendo su modelo a las políticas de la administración central, lo que lo convierte en una declaración de alto peso político y una clara marcación de agenda de oposición.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Federalismo",
+                "Crítica económica nacional",
+                "Justicia social",
+                "Microcréditos"
+            ],
+            "postura_politica": "Líder de la oposición al gobierno central, defiende un modelo de Estado intervencionista y federalista, critica duramente el plan económico actual por su impacto en trabajadores y PyMEs. Enfatiza la importancia del desarrollo productivo con inclusión social.",
+            "frase_fuerte": "El problema es Milei y todo su programa económico, eso es lo que hay que cambiar para mejorarle la vida a las pymes, los empresarios, los trabajadores, los estudiantes y los jubilados."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería",
+                "Industria",
+                "Turismo",
+                "Inversiones",
+                "RIGI",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Promotor activo de la inversión productiva, especialmente en minería, buscando socios y herramientas como el RIGI para potenciar la economía provincial. Destaca el potencial de Catamarca en la matriz productiva federal.",
+            "frase_fuerte": "Por eso mostramos cómo herramientas como el RIGI nos permiten atraer inversiones, transformar nuestra matriz productiva y aportar al desarrollo de una Argentina más competitiva y federal."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Asistencia por inundaciones",
+                "Producción",
+                "Exportación",
+                "Programas sociales",
+                "Bienestar animal",
+                "Infraestructura"
+            ],
+            "postura_politica": "Enfocado en la gestión de emergencias climáticas y la asistencia a afectados, mientras impulsa la diversificación económica a través de exportaciones y programas sociales innovadores, como el apoyo a refugios animales. Prioriza la producción local con alcance internacional.",
+            "frase_fuerte": "Del Impenetrable al mundo! 🌍 Nueva exportación caprina a Dubai."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Narcotráfico",
+                "Justicia",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Prioriza la seguridad y la lucha frontal contra el narcotráfico, destacando la importancia de la investigación interprovincial y la exigencia de condenas firmes para los criminales.",
+            "frase_fuerte": "Ahora es fundamental que todo el esfuerzo de nuestra policía, y el trabajo articulado con otras fuerzas, se traduzca en condenas firmes, para que los responsables se pudran en la cárcel, que es donde tienen que estar."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Salud",
+                "Memoria y Justicia",
+                "Políticas de infancia",
+                "Desarrollo PyMEs",
+                "Promoción industrial"
+            ],
+            "postura_politica": "Impulsa una intensa agenda de gestión local en infraestructura y salud. Resalta la importancia de la memoria histórica y la defensa de la democracia. Aboga por políticas económicas nacionales que contemplen a las PyMEs y la industria, sugiriendo un 'RIGI para las PyMEs' como política federal.",
+            "frase_fuerte": "NECESITAMOS UN RIGI PARA LAS PYMES"
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Federalismo",
+                "Parlamento Norte Grande",
+                "Límites provinciales",
+                "Fenómeno El Niño",
+                "Tarifas energéticas",
+                "Infraestructura logística"
+            ],
+            "postura_politica": "Aboga por un federalismo más equitativo y la articulación regional. Demanda al Gobierno nacional soluciones a problemas fronterizos y climáticos, así como tarifas energéticas diferenciales y mejora de la infraestructura de transporte.",
+            "frase_fuerte": "Seguimos trabajando por un país más federal, que genere más oportunidades para las provincias del norte argentino."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Empleo juvenil",
+                "Formación laboral",
+                "Vinculación público-privada"
+            ],
+            "postura_politica": "Centrado en la creación de oportunidades laborales para jóvenes a través de programas de formación y pasantías. Promueve la colaboración entre el sector público y privado para impulsar el empleo y el crecimiento en la provincia.",
+            "frase_fuerte": "De esto también se trata generar las condiciones para que haya más empleo: trabajar junto al sector privado, formar para los puestos que nuestras empresas necesitan y abrir oportunidades para que más jóvenes puedan trabajar y crecer en Entre Ríos."
+        },
+        {
+            "gobernador": "@carlossadirjuy",
+            "temas_mencionados": [
+                "Comercio fronterizo",
+                "Restricciones aduaneras",
+                "Conectividad",
+                "Turismo",
+                "Empleo"
+            ],
+            "postura_politica": "Expresa preocupación por las políticas nacionales que afectan el comercio fronterizo y sus repercusiones en las familias locales. Impulsa la conectividad aérea como motor del turismo y el empleo provincial.",
+            "frase_fuerte": "Detrás de cada comercio fronterizo hay familias que viven de su trabajo y necesitan esos ingresos para sostener sus hogares."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Inversiones",
+                "Desarrollo económico",
+                "Producción hortícola",
+                "Empleo"
+            ],
+            "postura_politica": "Activamente busca atraer inversiones extranjeras, particularmente en el sector hortícola, para generar empleo y diversificar la matriz económica de La Rioja, apostando por el potencial productivo de la tierra.",
+            "frase_fuerte": "Seguimos abriendo oportunidades para que La Rioja atraiga inversiones que generen trabajo y fortalezcan nuestra economía."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Inversión privada",
+                "Empleo",
+                "Emprendedorismo",
+                "Desarrollo económico",
+                "Logística"
+            ],
+            "postura_politica": "Fomenta un ambiente propicio para la inversión privada y el emprendedorismo, destacando la generación de empleo a través de grandes proyectos logísticos como el de Mercado Libre. Impulsa la capacitación y el intercambio de experiencias para el crecimiento empresarial.",
+            "frase_fuerte": "Es fundamental que la inversión privada encuentre en Mendoza las condiciones para crecer."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Emergencias climáticas",
+                "Asistencia social",
+                "Desinformación",
+                "Derechos sociales"
+            ],
+            "postura_politica": "Lidera la respuesta a emergencias por temporales, coordinando asistencia y protección civil. También promueve la reflexión sobre el rol de los medios y la responsabilidad social frente a la desinformación, en línea con la defensa de los derechos sociales.",
+            "frase_fuerte": "Estamos asistiendo a las familias afectadas por el temporal, con tareas de relevamiento, contención y atención de los daños."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Energía",
+                "Tarifa eléctrica",
+                "Infraestructura",
+                "Desarrollo local",
+                "Gestión de obras"
+            ],
+            "postura_politica": "Enfatiza la autonomía provincial en el manejo de recursos energéticos, traduciéndola en beneficios directos para los ciudadanos, como la 'Tarifa Neuquina'. Destaca la ejecución de obras históricas y el compromiso con el desarrollo de las comunidades del interior.",
+            "frase_fuerte": "No es un subsidio ni una ayuda: es lo que nos corresponde por vivir en la provincia que genera la energía del país."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura local",
+                "Educación",
+                "Seguridad",
+                "Programas sociales",
+                "Desarrollo ONG"
+            ],
+            "postura_politica": "Exhibe una intensa agenda de gestión local, enfocada en la entrega de viviendas, mejora de infraestructuras comunitarias (polideportivos, SUM, subcomisarías, escuelas) y apoyo a organizaciones sociales. Subraya la proximidad con los vecinos y la atención a las necesidades básicas.",
+            "frase_fuerte": "terminamos el primer barrio de cuatro VIVIENDAS en el pueblo, cuatro familias que pasarán la Navidad de este año 2026 en la casa propia !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Empleo petrolero",
+                "Inversión",
+                "Desarrollo productivo",
+                "Juventud",
+                "Deporte"
+            ],
+            "postura_politica": "Aboga por la reactivación de la industria petrolera mediante la atracción de inversiones y la defensa del empleo local. También se compromete con el desarrollo juvenil a través del deporte y la educación, buscando cumplir demandas históricas.",
+            "frase_fuerte": "NO VOY A BAJAR LOS BRAZOS MIENTRAS HAYA UN PETROLERO ESPERANDO VOLVER A TRABAJAR"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura educativa",
+                "Agroindustria",
+                "Horticultura"
+            ],
+            "postura_politica": "Se enfoca en el cumplimiento de promesas de infraestructura educativa y en el acompañamiento al sector agroindustrial, destacando la potencia productiva de la provincia y la importancia del trabajo.",
+            "frase_fuerte": "Hoy inauguramos el nuevo jardín de #VillaConstitución: lo que prometimos, lo cumplimos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Programas sociales",
+                "Recuperación de adicciones",
+                "Salud",
+                "Diálogo interinstitucional"
+            ],
+            "postura_politica": "Apoya iniciativas sociales y de recuperación de adicciones, trabajando con organizaciones comunitarias. Fomenta el diálogo con el sector farmacéutico para garantizar el acceso a la salud y fortalecer la articulación público-privada.",
+            "frase_fuerte": "Desde el Gobierno provincial vamos a seguir apoyando esta tarea, que fortalece la esperanza y ayuda a construir nuevos caminos junto a las familias y la comunidad."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Deporte juvenil",
+                "Desarrollo de talentos"
+            ],
+            "postura_politica": "Impulsa el desarrollo deportivo juvenil, motivando a los deportistas a representar a la provincia y destacando el rol del deporte en la felicidad y el crecimiento de los jóvenes.",
+            "frase_fuerte": "QUEREMOS QUE SEAN FELICES, Y EL DEPORTE ES UNO DE LOS CAMINOS"
+        }
+    ]
+}
