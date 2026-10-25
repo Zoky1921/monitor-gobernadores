@@ -1,0 +1,106 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "Kicillof (Buenos Aires) abre fuego directo contra Milei declarando agotado su modelo, mientras Elias Suarez (Santiago del Estero) se suma al RT de un duro cuestionamiento presidencial. El resto de los gobernadores con actividad se repliega en agenda local o de emergencia, evidenciando una grieta entre la oposición combativa y el silencio calculado.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada queda marcada por el doble golpe opositor de Kicillof y Elias Suarez. Kicillof, desde la provincia más poblada, dictamina el fin del ciclo mileísta y convoca a construir una alternativa federal, mientras que Elias Suarez amplifica una denuncia contra la 'hoguera' presidencial a periodistas. Ambos mensajes configuran una línea de ataque directo a la Casa Rosada, en una fecha sin gestos de conciliación desde el oficialismo provincial.\n\nActo 2 — Los Alineamientos: El bando opositor se reduce a dos gobernadores con peso dispar. Kicillof encabeza la ofensiva con su estilo de peronismo doctrinario, y Elias Suarez se suma tras el paraguas de una RT. En el otro extremo, Claudio Vidal (Santa Cruz) y Rolo Figueroa (Neuquén) optan por mostrar gestión sectorial (inversiones en Vaca Muerta y emergencia hídrica) sin rozar a Nación. Son los 'neutrales productivos'. El resto de los que tuitean —Passalacqua, Zdero, Weretilneck, Torres, Poggi— se refugian en la agenda de cabotaje: deportes, inundaciones, reconocimientos. Su silencio nacional es una forma de supervivencia.\n\nActo 3 — La Micro-política: En Chaco, Zdero muestra asistencia a inundados sin mencionar a Nación, lo que insinúa una orfandad federal. En Río Negro, Weretilneck retuitea eventos deportivos sin connotación política. San Luis y Misiones apuestan al gesto protocolar. Estos gobernadores periféricos parecen evitar cualquier roce con el poder central, concentrados en la gestión local como escudo. Claudio Vidal, en cambio, utiliza la inversión petrolera para marcar un rumbo propio, despegándose del pasado kirchnerista y posicionándose como gestor eficiente.\n\nActo 4 — Saldo Presidencial: Milei no recibe apoyo explícito de ningún gobernador en esta muestra. La ofensiva de Kicillof y Elias Suarez, aunque limitada a dos voces, no encuentra réplica ni adhesión entre los mandatarios provinciales. El silencio de la mayoría —incluyendo a aliados potenciales como Macri (CABA) o Jalil (Catamarca)— puede leerse como desgaste del vínculo o como cálculo de no desgastarse en una pulseada que no les suma. La Casa Rosada enfrenta un frente opositor acotado pero vocal, y una base de gobernadores que prefiere no mojarse.",
+    "temas_calientes": [
+        {
+            "tema": "Ofensiva opositora contra Milei: Kicillof declara el modelo agotado y Elias Suarez se suma a críticas por ataques a periodistas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Después de tres años de gobierno, el modelo de Milei está agotado. Su plan económico fracasó y la responsabilidad que tenemos es convertir esa frustración de nuestro pueblo en una alternativa federal, inclusiva, soberana y democrática para terminar con el desastre de la ultraderecha en nuestro país.",
+        "por_que_es_clave": "Kicillof no se limita a criticar; propone una alternativa política explícita, marcando el terreno para la oposición peronista de cara a 2027. Es un acto de posicionamiento presidencial encubierto.",
+        "pregunta_openarg": "¿Tiene Kicillof suficiente capital político para capitalizar el descontento y proyectarse como candidato presidencial, o su mensaje queda atrapado en la burbuja bonaerense?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "crítica al modelo económico de Milei",
+                "alternativa federal",
+                "banca pública"
+            ],
+            "postura_politica": "Líder de la oposición dura. Dice que el esfuerzo individual no alcanza sin Estado; en el fondo, acusa al gobierno nacional de abandonar a los trabajadores y propone una salida peronista federal. El tweet de las 20:55 es un misil contra la Casa Rosada.",
+            "frase_fuerte": "Después de tres años de gobierno, el modelo de Milei está agotado."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "inundaciones",
+                "asistencia emergencia"
+            ],
+            "postura_politica": "Gestión local sin mención a Nación. Muestra capacidad operativa provincial en crisis, lo que sugiere que no cuenta con apoyo federal o prefiere no reclamarlo. Silencio calculado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "fundación social",
+                "inclusión"
+            ],
+            "postura_politica": "Agenda protocolar sin impacto federal. Celebra obra social local; no hay posicionamiento sobre Nación. Refugio en la gestión de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "deporte",
+                "reconocimiento cultural"
+            ],
+            "postura_politica": "Efeméride deportiva de peso bajo. Sin roce con la macroeconomía. Señal de apatía federal o de priorizar la agenda local no conflictiva.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "mutual policial",
+                "reconocimiento interno"
+            ],
+            "postura_politica": "Gestión interna de seguridad social. No toca temas nacionales ni energéticos en este tweet. Baja intensidad política.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "deporte juvenil",
+                "cultura",
+                "reconocimiento a talentos"
+            ],
+            "postura_politica": "Dos retuits sobre eventos deportivos y culturales. Agenda completamente local. Sin señales hacia Nación. Estrategia de bajo perfil.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "saludo dominical"
+            ],
+            "postura_politica": "Saludo genérico sin contenido político. Peso mínimo. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "inversión petrolera",
+                "pozos de agua para chacras",
+                "recuperación productiva"
+            ],
+            "postura_politica": "Dos tweets que muestran gestión proactiva en hidrocarburos y desarrollo rural. Crítica implícita a gestiones anteriores (kirchnerismo) al decir 'lo que faltaba era decisión política'. Se posiciona como gestor eficiente sin mencionar a Nación actual, pero marcando autonomía.",
+            "frase_fuerte": "La tierra siempre estuvo. Las ganas de trabajar también. Lo que faltaba era la decisión política de gestionar todos los recursos."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "crítica a Milei",
+                "libertad de expresión",
+                "ataques a periodistas"
+            ],
+            "postura_politica": "Retuitea un texto de @GZamoraSDE que condena los insultos presidenciales a periodistas y denuncia un intento de golpe de Estado. Se alinea con la oposición más dura. Es un posicionamiento de riesgo, pero usando un RT como escudo.",
+            "frase_fuerte": "frente a los insultos realizados por el presidente de la nación... atacando a 5 periodistas con nombre y apellido, y pidiendo la hoguera para ellos"
+        }
+    ]
+}
