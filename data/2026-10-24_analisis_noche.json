@@ -1,0 +1,182 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal evidenció una polarización acentuada hacia el gobierno nacional, con críticas explícitas de gobernadores como Kicillof (Buenos Aires) y Suárez (Santiago del Estero) al modelo económico y al estilo presidencial. Simultáneamente, la mayoría de los líderes provinciales se enfocaron en una agenda de gestión local y desarrollo regional. Ignacio Torres (Chubut) priorizó la seguridad con tecnología, Martín Llaryora (Córdoba) destacó obras hídricas e inversiones industriales, y Rolando Figueroa (Neuquén) implementó descuentos en tarifas eléctricas. Otros, como Leandro Zdero (Chaco), Maximiliano Pullaro (Santa Fe), Claudio Poggi (San Luis) y Claudio Vidal (Santa Cruz), informaron sobre asistencia por emergencias, mejoras en salud y vivienda, e impulso a la inversión productiva. La dicotomía entre la confrontación y la gestión local marcó la pauta del día.",
+    "analisis_profundo": "La dinámica federal de hoy, 24 de octubre de 2026, estuvo marcadamente definida por la tensión y la crítica abierta de ciertos gobiernos provinciales hacia la administración nacional. Axel Kicillof (Buenos Aires) lideró esta ofensiva, declarando el modelo de Milei 'agotado' y 'fracasado', e instando a construir una 'alternativa federal, inclusiva, soberana y democrática'. En una muestra de la profunda grieta política, Elías Suárez (Santiago del Estero), a través de un retuit del gobernador Gerardo Zamora (Santiago del Estero), repudió con dureza los 'insultos' presidenciales a periodistas y las 'denuncias con liviandad' de un golpe de estado, alertando sobre el deterioro de la imagen del país y la paz social. Estas declaraciones, que se erigen como las más fuertes del día, no solo señalan el malestar, sino que también sugieren una potencial articulación de fuerzas opositoras en el ámbito subnacional. \n\nEn contraste, la mayoría de los gobernadores se concentraron en una intensa agenda de gestión y desarrollo local, muchos de ellos capitalizando recursos y capacidades propias ante un contexto nacional incierto. Ignacio Torres (Chubut) resaltó la puesta en marcha de un 'Módulo Espejo de Monitoreo' en Trelew, enfatizando la inversión en tecnología para la seguridad. Martín Llaryora (Córdoba) comunicó el avance en 'obras hídricas para anticiparnos y proteger a Córdoba frente al fenómeno “El Niño”', y celebró una importante inversión industrial. Rolando Figueroa (Neuquén) acentuó la autonomía provincial al anunciar la 'Tarifa Neuquina', un descuento del 30% en la luz financiado con regalías hidroeléctricas, reafirmando que 'lo que es de Neuquén queda en Neuquén'. Claudio Vidal (Santa Cruz) se enfocó en el desarrollo económico, anunciando una inversión de 'USD 39,4 MILLONES' para la actividad petrolera y la generación de empleo. Claudio Poggi (San Luis) siguió con la entrega de escrituras y viviendas, mientras que Leandro Zdero (Chaco) detalló la asistencia a familias afectadas por inundaciones y Maximiliano Pullaro (Santa Fe) inauguró un nuevo centro de salud. Gustavo Valdés (Corrientes) se centró en la organización interna de su partido y Alfredo Cornejo (Mendoza) promovió eventos empresariales. Hugo Passalacqua (Misiones) destacó reconocimientos a mujeres misioneras. Esta bifurcación entre la confrontación explícita y la gestión puramente provincial subraya la resiliencia subnacional frente a la inestabilidad central, pero también la profundidad de las diferencias políticas e ideológicas en el país.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la política económica y estilo del Gobierno Nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@EliasSuarezSDE",
+                "@GZamoraSDE"
+            ]
+        },
+        {
+            "tema": "Gestión de emergencias y obras hídricas para prevención climática",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Desarrollo económico regional y soberanía energética provincial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Inversión en seguridad y tecnología para prevención del delito",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Vivienda, salud y obras de infraestructura local",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Después de tres años de gobierno, el modelo de Milei está agotado. Su plan económico fracasó y la responsabilidad que tenemos es convertir esa frustración de nuestro pueblo en una alternativa federal, inclusiva, soberana y democrática para terminar con el desastre de la ultraderecha en nuestro país.",
+        "por_que_es_clave": "Este tweet es la declaración más fuerte de la jornada, no solo criticando directamente el modelo económico nacional sino también articulando una visión de futuro a través de una 'alternativa federal'. Marca una postura clara de oposición y una propuesta de construcción política.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al gobierno nacional",
+                "Modelo económico",
+                "Alternativa federal"
+            ],
+            "postura_politica": "Abiertamente opositor al gobierno de Milei, lo acusa de fracaso económico y propone la construcción de una alternativa política basada en principios federales e inclusivos. Su postura es de confrontación y articulación de un proyecto político.",
+            "frase_fuerte": "Después de tres años de gobierno, el modelo de Milei está agotado. Su plan económico fracasó y la responsabilidad que tenemos es convertir esa frustración de nuestro pueblo en una alternativa federal, inclusiva, soberana y democrática para terminar con el desastre de la ultraderecha en nuestro país."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Asistencia por inundaciones",
+                "Bienestar animal",
+                "Gestión social"
+            ],
+            "postura_politica": "Enfocado en la gestión de emergencias y la provisión de servicios sociales directos. Demuestra una presencia activa del Estado provincial en la respuesta a desastres naturales y el apoyo a iniciativas comunitarias.",
+            "frase_fuerte": "Seguimos asistiendo a las familias afectadas por las inundaciones."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Seguridad",
+                "Tecnología",
+                "Inclusión social"
+            ],
+            "postura_politica": "Prioriza la seguridad pública mediante la inversión en tecnología avanzada. También muestra compromiso con la inclusión de personas con discapacidad, destacando el rol de las organizaciones sociales.",
+            "frase_fuerte": "La seguridad no se garantiza con promesas, sino con inversiones, tecnología de última generación y herramientas concretas para prevenir el delito y cuidar a los chubutenses."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Obras hídricas",
+                "Prevención de fenómenos climáticos",
+                "Industria",
+                "Empleo"
+            ],
+            "postura_politica": "Resalta la planificación y la inversión provincial en infraestructura hídrica para mitigar el impacto del fenómeno 'El Niño'. Impulsa el desarrollo industrial y la creación de empleo genuino a través del apoyo al sector privado y la promoción industrial.",
+            "frase_fuerte": "Gobernar es anticiparse. Por eso planificamos, invertimos y hacemos las obras de infraestructura para estar mejor preparados ante los períodos de mayores precipitaciones."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Organización partidaria (UCR)",
+                "Transparencia interna"
+            ],
+            "postura_politica": "Su actividad se centra en aspectos internos del partido radical, promoviendo la participación y transparencia dentro de la UCR. No presenta tweets de gestión pública de gran impacto o de conflicto federal en este período.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Energía",
+                "Economía local",
+                "Tarifas eléctricas",
+                "Infraestructura",
+                "Deportes"
+            ],
+            "postura_politica": "Enfatiza la autonomía provincial en la distribución de recursos (regalías hidroeléctricas) para beneficiar directamente a los ciudadanos con descuentos en tarifas. Destaca también la inversión en infraestructura y el fomento del deporte provincial.",
+            "frase_fuerte": "Lo que es de Neuquén queda en Neuquén. Después de rutas, escuelas y hospitales, ahora el crecimiento llega directo al bolsillo, todos los meses, en la boleta de luz."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Deportes",
+                "Representación provincial"
+            ],
+            "postura_politica": "Se enfoca en el apoyo y el reconocimiento a los jóvenes deportistas que representan a la provincia en competencias binacionales, buscando fomentar el orgullo y la identidad rionegrina a través del deporte.",
+            "frase_fuerte": "Vamos a defender el título de campeones por sexta vez consecutiva. ¡Todo nuestro aliento y orgullo para esta delegación, vamos Río Negro!"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Seguridad jurídica",
+                "Deportes"
+            ],
+            "postura_politica": "Centrado en la gestión social, especialmente en la entrega de escrituras y viviendas, lo que aporta seguridad jurídica a las familias. También promueve el deporte amateur como herramienta de inclusión y salud.",
+            "frase_fuerte": "21 FAMILIAS de LA PUNTA accedieron este sábado a la mañana a las 'ESCRITURAS' de su Vivienda. Seguridad jurídica y tranquilidad familiar !!."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Crítica al gobierno nacional",
+                "Libertad de expresión",
+                "Paz social",
+                "Apoyo comunitario"
+            ],
+            "postura_politica": "A través de un retuit de Gerardo Zamora (Santiago del Estero), repudia enérgicamente los ataques del presidente a la prensa y sus denuncias de 'golpe de estado', solicitando responsabilidad gubernamental. También apoya iniciativas sociales para la recuperación de jóvenes.",
+            "frase_fuerte": "Argentina necesita de su gobierno responsabilidad y respeto, fundamentalmente desde la máxima autoridad, trabajando con la capacidad de un estadista al servicio del bien común…en cambio esta conducta solo deteriora la imagen del país, la posibilidad de inversiones, la paz social y el ámbito de convivencia necesario siempre, por encima de cualquier diferencia subalterna."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Salud pública",
+                "Infraestructura sanitaria"
+            ],
+            "postura_politica": "Enfatiza la inauguración de obras de salud en el interior provincial, reiterando su compromiso con la mejora de la atención pública y la presencia estatal en cada localidad.",
+            "frase_fuerte": "Caminar cada pueblo y conocer de cerca lo que necesita es lo que nos permite llevar las obras adonde hacen falta."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Inversión energética",
+                "Empleo",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Promueve activamente la inversión en el sector petrolero para generar empleo y reactivar la economía provincial. Mantiene una postura exigente con las operadoras para que cumplan los compromisos asumidos.",
+            "frase_fuerte": "Queremos inversiones que se vean en movimiento, equipos perforando, áreas produciendo y más trabajo para nuestras familias santacruceñas. Ese es el rumbo y vamos a exigir que se cumpla."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Reconocimiento social",
+                "Igualdad de género",
+                "Cultura"
+            ],
+            "postura_politica": "Destaca el rol de las mujeres misioneras en diversos campos, promoviendo el reconocimiento a su trayectoria y compromiso en la comunidad. Su enfoque es social y cultural.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Desarrollo empresarial",
+                "Emprendedurismo"
+            ],
+            "postura_politica": "Apoya y fomenta el crecimiento del sector empresarial y emprendedor a través de eventos que buscan capacitar y conectar a los actores económicos de la provincia.",
+            "frase_fuerte": null
+        }
+    ]
+}
