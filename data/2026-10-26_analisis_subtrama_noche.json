@@ -1,0 +1,344 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada de definiciones. El peronismo federal saluda a Lula y desafía al oficialismo libertario; Jefes de Gobierno y aliados celebran la visita papal en clave de unidad. Tensión fiscal latente, pero la subrama del día es el pulso ideológico entre quienes reivindican la democracia brasileña y quienes apuestan a la foto con el Papa. La gestión provincial queda en segundo plano, salvo en provincias periféricas que evitan posicionarse.",
+    "analisis_profundo": "Acto 1 - El Conflicto Central: La reelección de Lula divide aguas. Kicillof, Ziliotto, Quintela y otros mandatarios peronistas lanzan un mensaje explícito: el modelo Milei está agotado y el camino es la justicia social. La felicitación a Lula no es solo un gesto diplomático; es una declaración de guerra simbólica contra la Casa Rosada. En paralelo, Macri y Llaryora celebran la visita papal, intentando capitalizar un evento de unidad que el peronismo no puede ignorar. La tensión entre estos dos polos define la jornada.\n\nActo 2 - Los Alineamientos: Los gobernadores se alinean en dos bloques: los que saludan a Lula (Kicillof, Ziliotto, Quintela, Passalacqua, Jalil) y los que se enfocan en la agenda papal (Macri, Llaryora). Jalil y Sáenz mantienen una posición ambivalente: saludan a Lula pero también destacan inversiones mineras con el RIGI, mostrando que la gestión económica puede primar sobre la ideología. Cornejo y Frigerio se mantienen en la gestión productiva, evitando el debate nacional. Los gobernadores de provincias periféricas (Zdero, Torres, Figueroa) se refugian en la gestión local, sin tomar partido.\n\nActo 3 - La Micro-política: En Chaco, Zdero gestiona inundaciones y obras, sin mencionar a Nación. En Chubut, Torres inaugura tecnología de seguridad y eventos masivos, mostrando capacidad de gestión propia. En Santa Cruz, Vidal insiste en la producción petrolera y la recuperación de obras, apelando al arraigo. Estas provincias evitan el conflicto nacional, pero su silencio revela un cálculo de supervivencia: no necesitan confrontar si la gestión local da resultados.\n\nActo 4 - Saldo Presidencial: Milei no tuitea, pero sus aliados (Macri) y los gobernadores dialoguistas (Llaryora, Jalil) marcan la cancha. El peronismo se siente fortalecido por el triunfo de Lula, pero la visita papal puede reunificar al oficialismo en torno a una agenda común. La Casa Rosada pierde el control del relato: la oposición marca la agenda con su apoyo a Lula, mientras que el Gobierno celebra un evento religioso que no es propio. El saldo es mixto, pero la iniciativa está en manos de los gobernadores.",
+    "temas_calientes": [
+        {
+            "tema": "Reelección de Lula: el peronismo federal celebra y desafía al oficialismo",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@RaulJalil_ok",
+                "@MartinLlaryora",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Visita papal: unidad de los mandatarios en torno a la figura del Papa León XIV",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Gestión provincial y emergencia climática: respuesta local sin mención a Nación",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Minería y RIGI: inversiones y desarrollo en provincias del norte y Cuyo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@GustavoSaenzOK",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Seguridad y tecnología: iniciativas provinciales con perfil duro",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@NachoTorresCH",
+                "@frigeriorogelio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "UNA NOCHE HISTÓRICA, UN FUTURO MEJOR 🇧🇷❤️\n\nLula ganó las elecciones, dejando una lección: nunca hay que rendirse. \n\nNo hay injerencia extranjera ni campaña de odio que puedan derrotar a un pueblo que defiende su soberanía y su dignidad.\n\nFelicitaciones Lula. Gracias, Brasil.\n¡HAY OTRO CAMINO!",
+        "por_que_es_clave": "Kicillof no solo felicita a Lula, sino que convierte su victoria en una plataforma para criticar al gobierno de Milei, sugiriendo que su modelo está derrotado. Es un acto de desobediencia simbólica y una señal de que el peronismo bonaerense se siente fuerte para marcar agenda.",
+        "pregunta_openarg": "¿La celebración peronista de la reelección de Lula refleja un verdadero apoyo a su modelo o es simplemente un golpe de efecto contra el oficialismo libertario?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "reelección de Lula",
+                "crítica al modelo Milei",
+                "gestión provincial",
+                "microcréditos",
+                "empleo verde",
+                "viviendas"
+            ],
+            "postura_politica": "Kicillof se posiciona como la oposición frontal a Milei, usando la victoria de Lula como bandera. Su agenda de gestión (microcréditos, empleo verde) refuerza su relato: el Estado presente vs. el ajuste. El silencio sobre la coparticipación es calculado: no necesita reclamar, muestra que gestiona solo.",
+            "frase_fuerte": "Después de tres años de gobierno, el modelo de Milei está agotado."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "visita papal",
+                "seguridad",
+                "propiedad privada",
+                "gestión de subtes",
+                "cárcel de Devoto"
+            ],
+            "postura_politica": "Macri se alinea con el oficialismo nacional y busca capitalizar la visita papal. Su perfil duro en seguridad y su pelea con los 'okupas' refuerzan su identidad de derecha. La ausencia de menciones a Lula es un guiño a la Casa Rosada.",
+            "frase_fuerte": "Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "reelección de Lula",
+                "minería",
+                "RIGI",
+                "inversiones",
+                "turismo",
+                "conectividad aérea"
+            ],
+            "postura_politica": "Jalil equilibra su saludo a Lula con una intensa agenda de promoción minera y turística. Muestra que Catamarca está abierta a inversiones (RIGI), pero sin romper con el peronismo federal. Su postura es de ambigüedad calculada: no confronta con Nación, pero tampoco la defiende.",
+            "frase_fuerte": "Catamarca tiene recursos con un enorme potencial y estamos buscando socios estratégicos."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "inundaciones",
+                "asistencia",
+                "obras",
+                "cultura",
+                "exportaciones"
+            ],
+            "postura_politica": "Zdero se enfoca exclusivamente en la emergencia climática y la gestión local. Sin menciones a Nación, su estrategia es mostrar capacidad de respuesta propia, probablemente para evitar críticas por la falta de apoyo nacional. Agenda local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "seguridad",
+                "narcotráfico",
+                "energía eólica",
+                "deporte",
+                "viviendas",
+                "turismo"
+            ],
+            "postura_politica": "Torres muestra gestión en seguridad y energía, con anuncios importantes (parque eólico, módulo de monitoreo). Evita cualquier referencia a la política nacional, presentando a Chubut como un polo de desarrollo autónomo. Su perfil es de gestión pura.",
+            "frase_fuerte": "La seguridad no se garantiza con promesas, sino con inversiones, tecnología de última generación y herramientas concretas."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "visita papal",
+                "reelección de Lula",
+                "gestión provincial",
+                "industria",
+                "salud",
+                "educación"
+            ],
+            "postura_politica": "Llaryora combina la bienvenida al Papa con un saludo a Lula, mostrando un perfil dialoguista y de centro. Su agenda de gestión es intensa y variada, intentando no quedar atrapado en la polarización. Busca ser un puente entre el peronismo y el oficialismo.",
+            "frase_fuerte": "La macroeconomía tiene que ser el punto de partida para impulsar el desarrollo y generar empleo."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Parlamento del Norte Grande",
+                "El Niño",
+                "Ley de Cabotaje",
+                "gestión partidaria UCR"
+            ],
+            "postura_politica": "Valdés se enfoca en la gestión regional y partidaria, sin posicionarse sobre temas nacionales. Su agenda es de bajo perfil, propia de un gobernador radical que busca mantener el equilibrio sin confrontar. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "empleo joven",
+                "presupuesto",
+                "puertos",
+                "hidrovía",
+                "creciente del río Uruguay"
+            ],
+            "postura_politica": "Frigerio mantiene una agenda de gestión ordenada, con foco en la infraestructura y el empleo. Su perfil es moderado y productivista, sin menciones a la política nacional. Envía una señal de estabilidad y previsibilidad.",
+            "frase_fuerte": "El equilibrio fiscal no se negocia porque es la base para sostener este rumbo."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "minería",
+                "litio",
+                "conectividad",
+                "comercio fronterizo",
+                "gestión"
+            ],
+            "postura_politica": "Sadir se enfoca en la promoción minera y la conectividad, evitando cualquier referencia a Lula o a la política nacional. Su postura es pragmática: busca inversiones sin alinearse ideológicamente. El silencio sobre Lula es notable.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "reelección de Lula",
+                "derechos sobre el Atuel",
+                "Ley de Glaciares",
+                "energías renovables",
+                "transparencia"
+            ],
+            "postura_politica": "Ziliotto celebra a Lula y defiende los derechos pampeanos sobre el Atuel, mostrando un perfil peronista de confrontación con Mendoza y con Nación. Su agenda es de alta carga simbólica y territorial.",
+            "frase_fuerte": "¡DEFENDER EL ATUEL ES DEFENDER LA PAMPA!"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "reelección de Lula",
+                "juventud",
+                "inversiones",
+                "gestión",
+                "Patria Grande"
+            ],
+            "postura_politica": "Quintela se suma a la ola de felicitaciones a Lula, pero con un tono más militante y latinoamericanista. Su agenda de gestión es secundaria; el foco está en el posicionamiento ideológico.",
+            "frase_fuerte": "¡La Patria Grande abraza este camino de dignidad y desarrollo para la región!"
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "minería",
+                "cobre",
+                "Vaca Muerta",
+                "inversiones",
+                "BootCamp Empresarial",
+                "Policía"
+            ],
+            "postura_politica": "Cornejo se mantiene en el perfil productivista y de gestión, anunciando inversiones en minería y energía. Sin menciones a Lula ni a la política nacional, refuerza la idea de Mendoza como polo de desarrollo autónomo. Su postura es de derecha moderada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "reelección de Lula",
+                "gestión provincial",
+                "salarios",
+                "infraestructura",
+                "conectividad aérea"
+            ],
+            "postura_politica": "Passalacqua saluda a Lula y muestra gestión, pero con un tono menos confrontativo que Kicillof. Su agenda incluye aumentos salariales y obras, buscando un equilibrio entre la militancia peronista y la necesidad de gestión.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "GNL",
+                "inversiones",
+                "tarifa eléctrica",
+                "salud",
+                "educación",
+                "deporte"
+            ],
+            "postura_politica": "Figueroa despliega una agenda muy activa de gestión, con anuncios concretos (Tarifa Neuquina, recategorización de salud, licitaciones). Sin menciones nacionales, su postura es de un gobernador que gestiona los recursos de Vaca Muerta con autonomía y eficacia.",
+            "frase_fuerte": "Lo que es de Neuquén queda en Neuquén."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "turismo",
+                "deporte",
+                "seguridad",
+                "ganadería",
+                "aniversarios",
+                "gestión"
+            ],
+            "postura_politica": "Weretilneck mantiene una agenda de gestión dispersa, con retweets y menciones a eventos. Su perfil es de bajo conflicto, evitando cualquier tema que pueda generar fricción. No hay posicionamiento sobre Lula ni sobre la política nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "minería",
+                "litio",
+                "inversiones",
+                "infraestructura",
+                "ferrocarril",
+                "comercio fronterizo"
+            ],
+            "postura_politica": "Sáenz equilibra el saludo a Lula con una intensa agenda de gestión minera y de reclamo por infraestructura. Su perfil es de un peronista que negocia con Nación (pidiendo inversiones para el ferrocarril) pero que también marca perfil propio. La postura es pragmática.",
+            "frase_fuerte": "El federalismo es progreso."
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "minería",
+                "cobre",
+                "inversiones",
+                "gestión",
+                "deporte",
+                "cultura"
+            ],
+            "postura_politica": "Orrego mantiene una agenda de gestión enfocada en minería y deporte, sin menciones a temas nacionales. Su perfil es de un gobernador de derecha moderada que prioriza la atracción de inversiones. Agenda local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "salud",
+                "viviendas",
+                "deporte",
+                "gestión local"
+            ],
+            "postura_politica": "Poggi se enfoca en la gestión local y la atención primaria de la salud, sin ninguna mención a la política nacional. Su postura es de un gobernador que evita el conflicto y muestra gestión en el territorio. Agenda local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "petróleo",
+                "inversiones",
+                "deporte",
+                "gestión",
+                "viviendas"
+            ],
+            "postura_politica": "Vidal se enfoca en la recuperación de la actividad petrolera y la gestión local, con un tono crítico hacia el kirchnerismo anterior. No menciona a Lula ni a Nación, mostrando una postura de autonomía y gestión propia. Su perfil es de centro-derecha.",
+            "frase_fuerte": "Estamos cambiando esa lógica, poniendo los recursos al servicio de la producción, el trabajo y de quienes eligieron construir su vida acá."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Región Centro",
+                "obras",
+                "deporte",
+                "salud",
+                "educación"
+            ],
+            "postura_politica": "Pullaro mantiene una agenda de gestión intensa, con foco en la Región Centro y obras. Evita cualquier referencia a la política nacional o a Lula. Su postura es de un radical que gestiona con eficiencia, sin conflictos.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "reelección de Lula",
+                "gestión",
+                "deporte",
+                "viviendas",
+                "economía del conocimiento"
+            ],
+            "postura_politica": "Suárez saluda a Lula y muestra gestión, pero con un perfil bajo. Su postura es de un peronista que no busca confrontación. La agenda incluye viviendas y deporte, sin grandes anuncios.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "reelección de Lula",
+                "gestión",
+                "deporte",
+                "adultos mayores",
+                "salud"
+            ],
+            "postura_politica": "Melella saluda a Lula con un énfasis en la soberanía de Malvinas, alineándose con el peronismo. Su agenda de gestión es variada pero de bajo perfil. Busca mantener el equilibrio entre la militancia y la gestión.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "gestión",
+                "viviendas",
+                "seguridad",
+                "educación",
+                "deporte",
+                "industria"
+            ],
+            "postura_politica": "Jaldo mantiene una agenda de gestión muy activa, con anuncios de viviendas, seguridad y obras. No menciona a Lula ni a la política nacional. Su postura es de un peronista que prioriza la gestión y evita el conflicto.",
+            "frase_fuerte": null
+        }
+    ]
+}
