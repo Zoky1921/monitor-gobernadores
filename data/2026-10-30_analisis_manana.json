@@ -1,0 +1,171 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de hoy se polarizó entre una fuerte crítica al Gobierno nacional y la consolidación de estrategias de gestión provincial autónoma. Gobernadores como Axel Kicillof (Buenos Aires) y Ricardo Quintela (La Rioja) acusaron al gobierno central de 'centralista', 'desinteresado' y de generar 'crisis económica', impulsando alianzas interprovinciales. En contraste, otros mandatarios (CABA, Chaco, Córdoba, Misiones, Neuquén, Salta) se enfocaron en obras de infraestructura, transparencia, educación y desarrollo productivo, destacando la resiliencia y capacidad de respuesta local. La minería sigue siendo un eje de debate y oportunidad, con visiones divergentes sobre la intervención nacional. El tono general evidencia una jornada de confrontación y reafirmación de autonomías subnacionales.",
+    "analisis_profundo": "La jornada del 30 de octubre de 2026 y la última noche revelan un escenario político federal caracterizado por una doble velocidad: la confrontación directa con el Gobierno nacional y una intensa actividad de gestión subnacional. Gobernadores clave como Axel Kicillof (Buenos Aires) y Ricardo Quintela (La Rioja) vocalizaron duras críticas hacia la administración de Javier Milei. Kicillof (Buenos Aires) lo señaló por 'centralista y desinteresado' y por la 'crisis económica y social', proponiendo convenios interprovinciales (con Jujuy) en áreas estratégicas como seguridad y minería como respuesta solidaria. Quintela (La Rioja) amplificó esta crítica, atribuyendo al gobierno central el abandono de economías regionales y la paralización de la obra pública, mientras busca construir una alternativa peronista que 'vuelva a poner al pueblo en el centro de las decisiones'. Sergio Ziliotto (La Pampa) se unió a este coro, reafirmando el compromiso con el federalismo y la soberanía frente a un 'modelo nacional que debilita el empleo'. Claudio Vidal (Santa Cruz), por su parte, aunque enfocado en la inversión petrolera, también hizo una crítica velada al pasado ('30 años de destrucción') en un contexto de búsqueda de autonomía energética. \n\nEn paralelo a estas tensiones, gran parte de la energía de los gobernadores se volcó a la gestión y desarrollo local. Jorge Macri (CABA) destacó mejoras en infraestructura vial. Leandro Zdero (Chaco) presentó una medida simbólica al poner a detenidos a fabricar camas para evacuados por El Niño, subrayando un 'cambio de paradigma' de orden. Martín Llaryora (Córdoba) enfatizó la educación como 'prioridad de Estado' y el impulso al turismo con nueva infraestructura. Hugo Passalacqua (Misiones) avanzó en una ley de transparencia para el control de empresas estatales. Rolando Figueroa (Neuquén) puso el acento en el cumplimiento de la palabra y la equidad a través de obras. Gustavo Sáenz (Salta) reafirmó el apoyo a PyMEs y la importancia del diálogo público-privado para un 'federalismo real'. La minería sigue siendo un eje de desarrollo central para provincias como La Rioja y Santa Cruz, aunque con matices sobre su articulación con la Nación. Este panorama refleja una clara estrategia de los líderes provinciales para consolidar sus gestiones y agendas propias, tanto para diferenciarse del gobierno central como para ofrecer respuestas concretas a sus electorados en un clima de alta conflictividad y polarización nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al Gobierno Nacional y Reafirmación Federal",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Desarrollo Local",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Minería como Motor Económico Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educación como Política de Estado",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Transparencia y Buen Gobierno",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@LeandroZdero"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (Buenos Aires)",
+        "texto": "Llegamos a Jujuy para fortalecer a través de importantes convenios con el gobernador @carlossadirjuy un trabajo que venimos haciendo en áreas estratégicas para nuestras provincias.\n\nEstos acuerdos fortalecen la articulación en seguridad, minería, trabajo, desarrollo agrario, deportes y Gobierno digital entre dos provincias que tienen un enorme potencial y sufren hoy el mismo impacto por la crisis económica y social generada por Milei.\n\nNo podemos sustituir la ausencia de un Gobierno nacional centralista y desinteresado de lo que sucede en el resto del país, que piensa en el federalismo como una carga y no como la integración entre provincias que tienen su realidad y sus particularidades.\n\nLo que sí podemos hacer es encontrar formas de trabajar de manera solidaria como lo estamos haciendo hoy con un Gobernador con quien, a pesar de las diferencias políticas, podemos ponernos de acuerdo en temas fundamentales para nuestros pueblos.",
+        "por_que_es_clave": "Este tweet es la declaración política más contundente de la jornada. Articula una crítica directa y explícita al Gobierno nacional (@JMilei) por su 'centralismo y desinterés' y por la 'crisis económica y social', al mismo tiempo que propone una agenda de acción federal y solidaria entre provincias con diferencias políticas. Demuestra la búsqueda de autonomía y cooperación interprovincial como respuesta a la percibida ausencia o ataque del gobierno central.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Relación Nación-Provincias",
+                "Gestión provincial",
+                "Minería",
+                "Seguridad",
+                "Crisis económica",
+                "Cambio climático"
+            ],
+            "postura_politica": "Fuerte crítica al Gobierno nacional por su centralismo y el impacto de sus políticas. Propone y ejerce la articulación interprovincial (con Jujuy) como mecanismo de defensa y desarrollo frente a la ausencia del Estado central. Subraya la necesidad de abordar el cambio climático de forma conjunta.",
+            "frase_fuerte": "No podemos sustituir la ausencia de un Gobierno nacional centralista y desinteresado de lo que sucede en el resto del país, que piensa en el federalismo como una carga y no como la integración entre provincias que tienen su realidad y sus particularidades."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Gestión local"
+            ],
+            "postura_politica": "Centrado en la gestión local y la mejora de la infraestructura en la Ciudad Autónoma de Buenos Aires, enfocándose en la eficiencia y soluciones para el tránsito.",
+            "frase_fuerte": "Paseo del Bajo habilitado para autos de lunes a viernes en horario nocturno desde el lunes 2 de noviembre."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Emergencias climáticas",
+                "Seguridad",
+                "Orden",
+                "Gestión penitenciaria"
+            ],
+            "postura_politica": "Destaca un 'cambio de paradigma' en la gestión, donde los detenidos contribuyen a la sociedad en situaciones de emergencia. Subraya el fin del 'Estado ausente' y del 'confort para los que delinquen', enfatizando el orden y la justicia.",
+            "frase_fuerte": "Esto es un cambio de paradigma. Se terminó el Estado ausente y el confort para los que delinquen; pusimos orden, donde antes reinaba el caos, la desidia y la injusticia."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Turismo",
+                "Desarrollo regional",
+                "Infraestructura",
+                "Educación",
+                "Políticas de Estado"
+            ],
+            "postura_politica": "Impulsa el desarrollo provincial a través de la infraestructura turística y la inversión en educación, resaltando la autonomía de Córdoba y el compromiso con políticas de Estado para el progreso local.",
+            "frase_fuerte": "Nuestro país va a progresar con más #educación, nunca con menos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Democracia",
+                "Federalismo",
+                "Soberanía",
+                "Derechos laborales",
+                "Modelo de desarrollo"
+            ],
+            "postura_politica": "Reafirma los valores democráticos y federales de La Pampa, criticando un modelo nacional que debilita el empleo. Defiende el salario y la distribución de la riqueza como pilares del desarrollo provincial.",
+            "frase_fuerte": "A 43 años, reafirmamos nuestro compromiso con una democracia que respete la voluntad popular, fortalezca el federalismo y defienda nuestra soberanía."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Minería",
+                "Desarrollo productivo",
+                "PyMEs",
+                "Relación Nación-Provincias",
+                "Peronismo",
+                "Crisis económica"
+            ],
+            "postura_politica": "Crítica enérgica al Gobierno nacional por el abandono a las economías regionales y la paralización de obra pública. Propone un modelo minero con valor agregado local y llama a la unidad peronista para construir una alternativa política.",
+            "frase_fuerte": "Frente a un modelo que concentra la riqueza, entrega nuestra soberanía y excluye a las mayorías, el peronismo tiene la responsabilidad de construir una alternativa que vuelva a poner al pueblo en el centro de las decisiones."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Transparencia",
+                "Control estatal",
+                "Gestión pública"
+            ],
+            "postura_politica": "Demuestra un compromiso con la transparencia y el control externo sobre las empresas del Estado, buscando mejorar la rendición de cuentas y la fiscalización del dinero público.",
+            "frase_fuerte": "Esto representa un paso fundamental hacia una mayor TRANSPARENCIA y APERTURA en el manejo del dinero del pueblo misionero, cuya auditoría ahora estará en manos de un órgano de control externo, autónomo e independiente."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Gestión local",
+                "Empleo",
+                "Equidad"
+            ],
+            "postura_politica": "Enfatiza el cumplimiento de las promesas de gestión y la inversión en infraestructura urbana como motor de empleo y equidad en la provincia, mostrando una Neuquén que crece con sus propios esfuerzos.",
+            "frase_fuerte": "Acompañamos a Aluminé en sus 111 años con un mensaje claro: en este gobierno no prometemos lo que no vamos a cumplir. Cuando se empeña la palabra, se honra; así nos enseñaron en nuestros hogares."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Comercio",
+                "PyMEs",
+                "Federalismo",
+                "Diálogo público-privado"
+            ],
+            "postura_politica": "Reafirma el apoyo al sector comercial y PyME como motor económico, destacando la importancia del diálogo público-privado y un 'federalismo real' que fortalezca las economías regionales.",
+            "frase_fuerte": "Creo en el diálogo, en el trabajo conjunto entre el sector público y privado y en un federalismo real que fortalezca a nuestras economías regionales."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Inversión",
+                "Empleo",
+                "Desarrollo petrolero",
+                "Crítica al pasado"
+            ],
+            "postura_politica": "Enfocado en la recuperación de la actividad petrolera a través de la inversión y la reducción de regalías, con una crítica al pasado ('30 años de destrucción') y el compromiso de generar empleo para los santacruceños.",
+            "frase_fuerte": "La reducción de regalías fue una condición clara para que las empresas pusieran más equipos a trabajar. Porque el esfuerzo que hace la Provincia tiene que traducirse en más trabajo para las PyMEs santacruceñas y más oportunidades para nuestra gente."
+        }
+    ]
+}
