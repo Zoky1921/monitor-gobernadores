@@ -1,0 +1,188 @@
+{
+    "clima_general": "CAUTELOSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una dualidad en el discurso de los gobernadores. Mientras Axel Kicillof (Buenos Aires) y Claudio Vidal (Santa Cruz) mantuvieron un tono confrontativo, criticando el modelo económico nacional y la corrupción pasada, respectivamente, la mayoría se concentró en reafirmar sus agendas de gestión provincial. Figuras como Leandro Zdero (Chaco), Ignacio Torres (Chubut), Sergio Ziliotto (La Pampa) y Ricardo Quintela (La Rioja) destacaron obras de infraestructura, desarrollo social y productivo con recursos propios. La Patagonia, con Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro), exhibió un fuerte eje en energía, federalismo y cooperación interprovincial. La actividad refleja un federalismo activo, con prioridades diversas pero una clara tendencia a fortalecer la capacidad de respuesta desde lo local.",
+    "analisis_profundo": "La agenda federal del día se configura como un mosaico de gestiones provinciales autónomas y pronunciamientos políticos con distintos grados de confrontación. Sobresale la persistente crítica de Axel Kicillof (Buenos Aires) al modelo económico nacional, al que atribuye el 'hundimiento de las provincias' y el 'castigo a los trabajadores', utilizando la situación de Jujuy como un caso testigo de las falencias del esquema federal actual. Su retórica busca polarizar y posicionar la provincia de Buenos Aires (Axel Kicillof) como un bastión de resistencia popular. En una línea similar, Claudio Vidal (Santa Cruz) adopta un discurso de ruptura con el pasado, denunciando la 'corrupción' de gestiones anteriores y prometiendo una 'Santa Cruz' donde el trabajo y la producción reemplacen los 'negocios para unos pocos', con un fuerte énfasis en la reactivación petrolera y el empleo local.\n\nEsta postura confrontativa contrasta con una mayoría de gobernadores que optaron por centrarse en la exhibición de sus logros de gestión y la implementación de políticas públicas con recursos propios. Leandro Zdero (Chaco) detalló avances en infraestructura rural, vial y acuerdos universitarios para el empleo, consolidando una agenda de desarrollo local. Ignacio Torres (Chubut) puso en relieve el 'Plan Galina' para la Ruta Nacional 40, asumiendo obras 'postergadas durante décadas' con fondos provinciales, lo que implica una sutil, pero clara, crítica a la inacción previa o federal. Sergio Ziliotto (La Pampa) continuó con su fuerte apuesta a la vivienda social, conectando la entrega de hogares con la 'dignidad' y la defensa de un 'modelo de desarrollo' pampeano. Ricardo Quintela (La Rioja) delineó proyectos de desarrollo turístico y recreativo en Olta, buscando potenciar el entorno natural de la provincia.\n\nLa Patagonia emerge con una dinámica de cooperación regional, ejemplificada por los tweets de Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro). Figueroa destacó una 'energía más justa' para los hogares neuquinos mediante la eficiencia del EPEN y la reducción de tarifas, y el 'Plan Comunidad en Obra' para infraestructura y empleo local. Weretilneck, a través de múltiples retweets, subrayó la importancia del Gasoducto Cordillerano en conjunto con Neuquén (Rolando Figueroa) y Chubut (Ignacio Torres), el financiamiento para la industrialización local, y la visión de Río Negro (Alberto Weretilneck) como 'puerta de salida de la energía argentina al mundo', demostrando un federalismo productivo y colaborativo. Finalmente, Maximiliano Pullaro (Santa Fe) inauguró un Polo de la Niñez en Rosario, enfatizando la protección de derechos y la gestión social. Claudio Poggi (San Luis) y Osvaldo Jaldo (Tucumán) se dedicaron a la gestión institucional, salud pública y apoyo a sus equipos, con el tucumano poniendo foco en la concientización del 'Octubre Rosa'. En conjunto, la jornada revela un fuerte énfasis en la autonomía y capacidad de gestión provincial, con algunas provincias elevando el tono de la crítica al modelo nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al modelo económico nacional y defensa de la autonomía provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Inversión en infraestructura y desarrollo productivo con recursos provinciales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Políticas de vivienda social y acceso a servicios básicos",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Desarrollo energético y federalismo productivo",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@WeretilneckOK",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Salud Pública y Protección Social",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@OsvaldoJaldo",
+                "@claudiojpoggi",
+                "@LeandroZdero"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Cuando nos quieran convencer de que no hay salida a este modelo que hunde a las provincias y castiga a los trabajadores, hay que escuchar al pueblo. En Jujuy y en toda la Argentina hay un mismo deseo y es devolverle a nuestro país un futuro de dignidad.",
+        "por_que_es_clave": "Este tweet es clave porque encapsula una crítica central y directa al modelo económico nacional desde una perspectiva provincial y popular, posicionando al gobernador de Buenos Aires (Axel Kicillof) como un defensor de las economías regionales y los trabajadores. Su mención de Jujuy (Carlos Sadir) amplifica el alcance federal de su argumento.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Crítica al modelo económico nacional",
+                "Desarrollo local y regional",
+                "Protección del empleo",
+                "Infraestructura"
+            ],
+            "postura_politica": "Mantiene una postura confrontativa con el gobierno nacional, criticando duramente el impacto de sus políticas económicas en las provincias y los trabajadores. Reafirma la importancia de la gestión provincial en la reducción de desigualdades y el impulso de sectores estratégicos.",
+            "frase_fuerte": "Cuando nos quieran convencer de que no hay salida a este modelo que hunde a las provincias y castiga a los trabajadores, hay que escuchar al pueblo."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Desarrollo rural",
+                "Infraestructura vial",
+                "Educación y empleo",
+                "Salud pública"
+            ],
+            "postura_politica": "Enfocado en la gestión de obras y programas de desarrollo productivo y social en el ámbito local. Destaca la cercanía con las instituciones y la inversión en infraestructuras clave, así como la articulación con la universidad para generar empleo.",
+            "frase_fuerte": "Seguimos cerca de las instituciones rurales, sembrando el desarrollo y el futuro de la provincia."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Inversión provincial",
+                "Desarrollo productivo y turístico"
+            ],
+            "postura_politica": "Proactivo en la gestión de infraestructura vial con recursos provinciales, asumiendo obras postergadas. Busca mejorar la conectividad y potenciar el desarrollo regional, contrastando su gestión con la inacción pasada.",
+            "frase_fuerte": "Porque las obras que durante años fueron promesas, hoy son una realidad que empieza a verse en cada kilómetro de ruta recuperado."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Eventos religiosos y culturales",
+                "Identidad provincial"
+            ],
+            "postura_politica": "Se posiciona como anfitrión de eventos de trascendencia nacional e internacional, como la visita papal. Subraya la capacidad de la provincia para organizar grandes encuentros y los valores de fe y esperanza que estos representan.",
+            "frase_fuerte": "Nos sentimos honrados por la visita histórica del Papa León XIV a #Córdoba, tierra de encuentro."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Créditos para vivienda",
+                "Dignidad"
+            ],
+            "postura_politica": "Reafirma su compromiso con las políticas de vivienda social como un pilar fundamental para la dignidad de las familias. Destaca la inversión provincial en construcción de viviendas y el programa 'Llegar a Casa' como parte de un modelo provincial de desarrollo.",
+            "frase_fuerte": "CONSTRUIR VIVIENDAS ES EDIFICAR DIGNIDAD"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Desarrollo turístico",
+                "Infraestructura recreativa",
+                "Medio ambiente"
+            ],
+            "postura_politica": "Centrado en la planificación y ejecución de proyectos de infraestructura para el desarrollo turístico y recreativo local. Busca potenciar el valor natural de la provincia y fortalecer la identidad regional.",
+            "frase_fuerte": "Olta proyecta un nuevo espacio para el encuentro, la recreación y el desarrollo turístico."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Política energética",
+                "Tarifas eléctricas",
+                "Infraestructura urbana",
+                "Empleo local"
+            ],
+            "postura_politica": "Se enfoca en mejorar la eficiencia de los servicios públicos de energía para reducir costos a los ciudadanos, destacando un modelo de federalismo productivo y la inversión en obras. Promueve el empleo y la capacitación local a través de la infraestructura.",
+            "frase_fuerte": "Nuestro compromiso es que todos los neuquinos, vivan donde vivan, paguen un 30% menos de electricidad."
+        },
+        {
+            "gobernador": "@WeretilneckOK (Río Negro)",
+            "temas_mencionados": [
+                "Infraestructura energética",
+                "Desarrollo productivo",
+                "Financiamiento local",
+                "Obras públicas",
+                "Federalismo"
+            ],
+            "postura_politica": "Exhibe una intensa agenda de gestión en obras de infraestructura, especialmente en energía y gas, muchas en cooperación interprovincial. Promueve la industrialización y el uso de regalías petroleras para el desarrollo, buscando posicionar la provincia como un motor energético nacional.",
+            "frase_fuerte": "EL GAS QUE PRODUCE NUESTRA PATAGONIA TIENE QUE LLEGAR A NUESTRAS FAMILIAS"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Institucionalidad",
+                "Salud pública",
+                "Cooperación internacional",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Prioriza la institucionalidad y la gestión pública, destacando el rol de las fuerzas de seguridad y el reconocimiento a comunidades. Busca fortalecer la salud pública a través de la cooperación y la cercanía con los empleados públicos y municipios.",
+            "frase_fuerte": "Junto a la Ministra de Salud Teresita Nigra , recibí en audiencia a profesionales Referentes de la Organización Panamericana de la Salud (OPS). Suscribiremos en los próximos días un Convenio de Cooperación con dicha Entidad. Bien."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Lucha contra la corrupción",
+                "Inversión privada",
+                "Generación de empleo",
+                "Infraestructura urbana",
+                "Reactivación petrolera"
+            ],
+            "postura_politica": "Adopta un discurso de cambio radical, contrastando con una gestión anterior a la que acusa de corrupción. Impulsa la reactivación de la economía a través de la inversión privada y la generación de empleo, enfocándose en obras públicas y servicios básicos.",
+            "frase_fuerte": "DONDE ANTES SE HACÍAN NEGOCIOS PARA UNOS POCOS, HOY SE GENERA TRABAJO."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Protección de la niñez",
+                "Servicios sociales"
+            ],
+            "postura_politica": "Enfatiza la inversión en políticas de protección social y salud, con un foco particular en la niñez y adolescencia. Destaca el compromiso profesional y la mejora de servicios para garantizar derechos fundamentales.",
+            "frase_fuerte": "Abrimos las puertas del nuevo Polo de la Niñez en #Rosario. Un espacio con guardia las 24 hs y 190 profesionales comprometidos en proteger los derechos de nuestras infancias y adolescencias."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Concientización",
+                "Género",
+                "Gestión municipal"
+            ],
+            "postura_politica": "Promueve la salud preventiva y la concientización, especialmente en temas de género como el cáncer de mama. Destaca el rol del Estado en facilitar el acceso a la atención y el acompañamiento a las mujeres, reforzando la gestión junto a los municipios.",
+            "frase_fuerte": "Cerramos octubre, pero el cuidado de la salud debe estar presente los 365 días del año."
+        }
+    ]
+}
