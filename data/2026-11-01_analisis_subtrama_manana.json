@@ -1,0 +1,108 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de bajo voltaje político. Los gobernadores con actividad en redes se refugiaron en agendas locales, culturales y deportivas, evitando cualquier mención a la macroeconomía o al conflicto con Nación. Un apagón coordinado que sugiere repliegue táctico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada del 1 de noviembre no registra tensión fiscal ni institucional entre Nación y provincias. El silencio es el dato político dominante. Los gobernadores que tuiteron optaron por una agenda de cabotaje: escrituras, museos, educación, deportes y saludos protocolares. No hay reclamos por coparticipación, deuda ni recursos estratégicos. La ausencia de posicionamiento sobre la macroeconomía es, en sí misma, una señal: los mandatarios eligen no confrontar ni adherir al relato oficial, refugiándose en la gestión local como escudo.\n\nActo 2 — Los Alineamientos: No se observan alineamientos explícitos. Los pocos gobernadores activos pertenecen a distintos signos políticos: Kicillof (peronismo), Llaryora (peronismo cordobés), Quintela (peronismo riojano), Claudio Poggi (oposición provincial), Claudio Vidal (peronismo disidente), Pullaro (UCR), Suárez (frente cívico santiagueño) y Torres (PRO/aliado). La heterogeneidad refuerza la idea de que no hay una línea común, sino una decisión individual de evitar el debate nacional.\n\nActo 3 — La Micro-política: Los gestos de supervivencia se limitan a mostrar gestión. Kicillof entrega escrituras en Varela, Torres promete conectividad para un museo rural, Llaryora inaugura un campus educativo, Quintela celebra un ballet, Poggi felicita a ganadores de premios, Vidal despide a jóvenes para los Juegos Evita, Pullaro recorre pueblos del interior y Suárez saluda a intendentes. Son acciones de bajo peso federal, pero que en conjunto dibujan una estrategia de 'hacerse los distraídos' frente a la crisis nacional.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, esta jornada de silencio es ambivalente. Por un lado, no hay críticas ni demandas que desgasten al Gobierno. Por otro, la falta de respaldo explícito a las políticas nacionales revela un distanciamiento calculado. Los gobernadores no quieren pagar costos políticos ni quedar pegados al ajuste. El saldo es una tregua tácita, pero frágil.",
+    "temas_calientes": [
+        {
+            "tema": "Agenda local y cultural sin referencia nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro",
+        "texto": "Hoy sábado recorrí #Ataliva, #Virginia y #ColoniaMaua. Cerca de los pueblos del interior de nuestra provincia, que durante años sufrieron el olvido y el abandono. Con obras y todo el acompañamiento del gobierno provincial seguimos desarrollando las localidades. En Santa Fe estamos viviendo un gran cambio 💪",
+        "por_que_es_clave": "Pullaro elige mostrar gestión territorial en un sábado, sin mencionar a Nación. Es un mensaje de autonomía y eficacia provincial, en contraste con el abandono que denuncia. La omisión de la macroeconomía es deliberada.",
+        "pregunta_openarg": "¿El silencio de los gobernadores sobre la coyuntura nacional es una tregua táctica o un síntoma de desinterés por la agenda de la Casa Rosada?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "escrituras",
+                "vivienda",
+                "gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Retuitea una entrega de escrituras en Florencio Varela, mostrando gestión provincial en un tema de regularización dominial. No hay crítica ni apoyo a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "cultura",
+                "identidad",
+                "conectividad"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Promueve un museo rural y se compromete a llevar conectividad satelital y paneles solares. Es un gesto de cercanía con el interior, sin referencias nacionales.",
+            "frase_fuerte": "NUESTRA IDENTIDAD TAMBIÉN SE CONSERVA EN LOS PUEBLOS MÁS CHICOS DE CHUBUT"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "educación",
+                "innovación",
+                "campus"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Anuncia la inauguración de un campus de innovación educativa. Refuerza su perfil de gestión en educación, sin mencionar a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "cultura",
+                "arte",
+                "ballet"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Celebra el estreno de un ballet municipal. Es un posteo protocolar y cultural, sin contenido político.",
+            "frase_fuerte": "¡Qué orgullo sentimos por nuestros artistas!"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "saludo",
+                "premios",
+                "Martín Fierro"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Desea un feliz domingo y felicita a ganadores de premios Martín Fierro Federal. Sin relevancia política.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "deporte",
+                "jóvenes",
+                "Juegos Evita"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Despide a la delegación que participará en los Juegos Evita. Muestra inversión en deporte, sin referencias nacionales.",
+            "frase_fuerte": "LA IGUALDAD DE OPORTUNIDADES SE CONSTRUYE CON HECHOS."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "recorrida",
+                "interior",
+                "obras"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Recorre pueblos del interior destacando obras provinciales. Es un mensaje de gestión y cercanía, sin mención a Nación.",
+            "frase_fuerte": "En Santa Fe estamos viviendo un gran cambio 💪"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "intendentes",
+                "gestión",
+                "saludo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Saluda a intendentes que asumen nuevas gestiones. Es un gesto institucional interno, sin proyección nacional.",
+            "frase_fuerte": null
+        }
+    ]
+}
