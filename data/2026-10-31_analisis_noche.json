@@ -1,0 +1,217 @@
+{
+    "clima_general": "CAUTELOSO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por la defensa provincial ante un contexto económico desafiante. Gobernadores como Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba) articularon críticas al modelo nacional, priorizando el gasto social 'con la gente adentro'. Sergio Ziliotto (La Pampa) escaló a la Corte Suprema un reclamo clave sobre la Ley de Glaciares, intensificando la agenda ambiental-judicial. Predominaron los anuncios de obras públicas de infraestructura vial, hídrica y de servicios (Chubut, Río Negro, Santa Cruz, Santa Fe, San Luis, La Rioja, Chaco, Misiones, Tucumán), muchas financiadas con recursos propios y enfocadas en el desarrollo local y productivo. Se observa un fuerte énfasis en la gestión autónoma, el fomento del empleo regional y el fortalecimiento de la salud y la cultura.",
+    "analisis_profundo": "La agenda federal de este 31 de octubre de 2026 revela un panorama político marcadamente centrado en la reafirmación de las autonomías provinciales y una creciente tensión con las políticas del gobierno central. Gobernadores clave como Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba) utilizaron sus plataformas para articular críticas directas al modelo económico nacional, con Kicillof lamentando un esquema que 'hunde a las provincias y castiga a los trabajadores' y Llaryora rechazando la 'cultura del descarte y la insensibilidad' en favor de una gestión que equilibre las cuentas 'con la gente adentro'. Esta postura conjunta indica una estrategia de diferenciación y defensa de un rol estatal provincial activo frente a una percepción de ajuste y abandono por parte de la Nación.\n\nEn un frente legal-ambiental significativo, Sergio Ziliotto (La Pampa) anunció la elevación a la Corte Suprema de Justicia de un Recurso Extraordinario Federal por la Ley de Glaciares. Este movimiento no solo resalta la prioridad pampeana por la protección de sus recursos naturales, sino que también establece un precedente de litigio federal de alto impacto, que podría redefinir los límites entre la jurisdicción nacional y provincial en materia ambiental y minera.\n\nParalelamente, una constante transversal entre la mayoría de los gobernadores que se pronunciaron fue el fuerte impulso a la obra pública y el desarrollo de infraestructura con recursos propios o mediante alianzas estratégicas. Ignacio Torres (Chubut) destacó la financiación provincial de la Ruta Nacional 40 bajo el 'Plan Galina', mientras que Alberto Weretilneck (Río Negro) detalló una miríada de obras – desde gasoductos interprovinciales (con mención a @Rolo_Figueroa de Neuquén y @NachoTorresCH de Chubut) hasta financiamiento del CFI para productores – subrayando que los fondos del petróleo se traducen en beneficios concretos para los rionegrinos. Claudio Vidal (Santa Cruz), por su parte, utilizó una retórica contundente para contrastar su gestión con el 'negocio para unos pocos' del pasado, focalizando en la recuperación de espacios para la producción y la inversión local.\n\nEl fomento productivo y el bienestar social también ocuparon un lugar central. Leandro Zdero (Chaco) apoyó el sector ganadero, Ricardo Quintela (La Rioja) proyectó un parque recreativo y ambiental, y Hugo Passalacqua (Misiones) invirtió en salud. Maximiliano Pullaro (Santa Fe) inauguró un 'Polo de la Niñez' y Osvaldo Jaldo (Tucumán) concluyó actividades de 'Octubre Rosa,' demostrando un compromiso con políticas de cuidado y atención social. Finalmente, Alfredo Cornejo (Mendoza) destacó la inauguración de un espacio cultural dedicado a Quino, buscando fortalecer la identidad y el turismo cultural. Este conjunto de acciones subraya una gestión provincial enfocada en la cercanía, la respuesta a demandas locales y la búsqueda de desarrollo endógeno, a menudo en un contexto de recursos limitados y bajo la sombra de un gobierno central percibido como distante.",
+    "temas_calientes": [
+        {
+            "tema": "Defensa de la Autonomía Provincial y Crítica a Políticas Centralistas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@ClaudioVidalSer",
+                "@WeretilneckOK"
+            ]
+        },
+        {
+            "tema": "Impulso a la Obra Pública y Desarrollo de Infraestructura Local",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@WeretilneckOK",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Fomento Productivo y Atracción de Inversiones Regionales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@QuintelaRicardo",
+                "@WeretilneckOK",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Políticas Sociales y Fortalecimiento de la Salud y Educación",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Valorización Cultural y Patrimonio Local",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@alfredocornejo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "REFORMA A LA LEY DE GLACIARES. Un paso más para frenar el desamparo de nuestros recursos naturales. La Sala II de la Cámara Federal de Apelaciones de Bahía Blanca reconoció nuestro derecho a reclamar garantías constitucionales de protección ambiental. Por ello concedió el Recurso Extraordinario Federal que presentamos junto con la Universidad Nacional de La Pampa, la Fundación Chadileuvú y la Asociación Civil Asamblea por los Ríos Pampeanos y elevó las actuaciones a la Corte Suprema de Justicia de la Nación.",
+        "por_que_es_clave": "Este anuncio representa un hito en la defensa ambiental provincial, elevando una disputa legal fundamental sobre recursos naturales a la máxima instancia judicial del país. Implica una confrontación sobre la interpretación y aplicación de una ley federal, con potenciales repercusiones para la autonomía provincial y la política minera.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica al modelo económico nacional",
+                "Desarrollo productivo",
+                "Empleo",
+                "Infraestructura",
+                "Reducción de desigualdades"
+            ],
+            "postura_politica": "Muy crítico del gobierno nacional, al que acusa de hundir las provincias y castigar a los trabajadores. Proclama la necesidad de un modelo que impulse sectores estratégicos, proteja el empleo y las economías regionales. Se alinea con la defensa del pueblo frente a políticas que considera perjudiciales.",
+            "frase_fuerte": "Cuando nos quieran convencer de que no hay salida a este modelo que hunde a las provincias y castiga a los trabajadores, hay que escuchar al pueblo."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Desarrollo rural",
+                "Ganadería",
+                "Infraestructura",
+                "Apoyo a instituciones locales"
+            ],
+            "postura_politica": "Centrado en la gestión local, el fomento de la producción agropecuaria (ganadería) y el fortalecimiento de la infraestructura y las instituciones rurales como pilares del desarrollo provincial. Destaca la cercanía con los productores.",
+            "frase_fuerte": "Acompañamos a los productores en la 5.ª Expo Brangus y la 2.ª Expo Brahman Primavera en la Sociedad Rural El Zapallar, impulsando el potencial de la ganadería en espacios de encuentro que fortalecen a quienes invierten y hacen crecer el campo chaqueño."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura vial",
+                "Seguridad vial",
+                "Desarrollo productivo y turístico",
+                "Federalismo"
+            ],
+            "postura_politica": "Enfatiza la gestión provincial proactiva para ejecutar obras de infraestructura vial clave (Ruta Nacional 40) con fondos propios, supliendo la inacción o postergación a nivel nacional. Destaca la mejora de la conectividad y el impulso al desarrollo regional.",
+            "frase_fuerte": "Decidimos hacernos cargo de obras que estuvieron postergadas durante décadas, transformando reclamos históricos en soluciones concretas que mejoran la vida de los chubutenses."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Salud",
+                "Educación",
+                "Ajuste económico",
+                "Rol del Estado"
+            ],
+            "postura_politica": "Se distancia de políticas de ajuste 'con motosierra', defendiendo un modelo de gestión que prioriza el acompañamiento social, el acceso a servicios esenciales y la solidaridad. Subraya la necesidad de un equilibrio fiscal que 'cierre con la gente adentro'.",
+            "frase_fuerte": "Frente a quienes creen que la salida es ajustar y dejar a cada uno librado a su suerte, nosotros elegimos otro camino: cambiamos la motosierra por más amor, solidaridad y compromiso."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Protección ambiental",
+                "Recursos naturales",
+                "Vivienda",
+                "Federalismo"
+            ],
+            "postura_politica": "Firme en la defensa de los recursos naturales y la soberanía provincial, llevando un reclamo por la Ley de Glaciares a la Corte Suprema. Paralelamente, refuerza el compromiso con políticas sociales de vivienda.",
+            "frase_fuerte": "Un paso más para frenar el desamparo de nuestros recursos naturales."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Cultura",
+                "Deporte",
+                "Turismo",
+                "Desarrollo local",
+                "Infraestructura"
+            ],
+            "postura_politica": "Enfoque en el fomento de la cultura, el deporte y el turismo como motores de desarrollo local. Destaca el apoyo a instituciones y la creación de nuevos espacios públicos y recreativos.",
+            "frase_fuerte": "Olta proyecta un nuevo espacio para el encuentro, la recreación y el desarrollo turístico."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Cultura",
+                "Identidad provincial",
+                "Arte"
+            ],
+            "postura_politica": "Se dedica a la valoración y difusión del patrimonio cultural de la provincia, destacando la inauguración de un espacio dedicado a Quino, buscando fortalecer la identidad mendocina y atraer turismo cultural.",
+            "frase_fuerte": "Un orgullo que Mendoza tenga un lugar para mantener viva la obra, el talento y la mirada de Quino."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Salud pública",
+                "Infraestructura sanitaria"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura y equipamiento de salud, enfatizando la mejora de la calidad de atención y comodidad para los pacientes. Destaca el crecimiento de la medicina local.",
+            "frase_fuerte": "Recorrí el nuevo piso de internación del Sanatorio Boratti, que suma siete habitaciones individuales, equipadas para brindar mayor comodidad y mejores condiciones de atención a los pacientes y sus acompañantes."
+        },
+        {
+            "gobernador": "@WeretilneckOK",
+            "temas_mencionados": [
+                "Desarrollo energético",
+                "Gas natural",
+                "Obras públicas",
+                "Financiamiento productivo",
+                "Transparencia en gestión",
+                "Federalismo"
+            ],
+            "postura_politica": "Aboga por un federalismo pragmático y de resultados, destacando la colaboración interprovincial para obras de gas, el uso de regalías petroleras para infraestructura, el fomento de la industrialización local y la transparencia en la gestión de obras.",
+            "frase_fuerte": "Este es el federalismo que defendemos: provincias que trabajan juntas, recursos que vuelven a nuestra gente y soluciones concretas."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Emprendedorismo",
+                "Seguridad",
+                "Salud",
+                "Gestión municipal",
+                "Conectividad"
+            ],
+            "postura_politica": "Impulsa programas de capacitación para emprendedores, conmemora instituciones clave como la policía y fomenta la cooperación en salud pública. Resalta la cercanía con empleados públicos y la importancia de las giras institucionales para la implementación de políticas.",
+            "frase_fuerte": "La Gira Institucional de este viernes la compartí, una vez más, con EMPLEADOS PÚBLICOS. Su tarea diaria en la administración pública permite que se concreten las políticas públicas."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Combate a la corrupción",
+                "Desarrollo económico",
+                "Empleo",
+                "Inversión",
+                "Infraestructura urbana"
+            ],
+            "postura_politica": "Se enfoca en una retórica fuerte contra la corrupción pasada, prometiendo transformar espacios 'símbolo de corrupción' en polos de producción y empleo. Reorienta los recursos provinciales hacia obras y servicios para la gente, promoviendo la inversión y el trabajo local.",
+            "frase_fuerte": "DONDE ANTES SE HACÍAN NEGOCIOS PARA UNOS POCOS, HOY SE GENERA TRABAJO."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Obras públicas en el interior",
+                "Desarrollo local",
+                "Protección de la infancia"
+            ],
+            "postura_politica": "Prioriza la atención y el desarrollo del interior provincial a través de obras y acompañamiento. Demuestra compromiso con la protección de los derechos de la infancia y adolescencia, invirtiendo en infraestructura específica.",
+            "frase_fuerte": "Cerca de los pueblos del interior de nuestra provincia, que durante años sufrieron el olvido y el abandono."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Salud",
+                "Prevención de enfermedades",
+                "Gestión municipal",
+                "Apoyo a la mujer"
+            ],
+            "postura_politica": "Foco en la salud pública y la prevención (cáncer de mama), enfatizando el rol del Estado en el acceso a la atención y el apoyo a las mujeres. Respalda la gestión municipal en salud y obras.",
+            "frase_fuerte": "Cerramos octubre, pero el cuidado de la salud debe estar presente los 365 días del año."
+        }
+    ]
+}
