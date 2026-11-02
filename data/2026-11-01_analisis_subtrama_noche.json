@@ -1,0 +1,122 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Martín Llaryora (Córdoba) lanzó una dura crítica al Gobierno nacional por aumentar los subsidios al transporte solo para el AMBA, calificándolo de populismo y discriminación. El resto de los gobernadores con actividad en redes se limitó a gestiones locales, deportes y protocolo, sin respaldar ni confrontar el reclamo cordobés.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada estuvo dominada por la denuncia de Llaryora contra la política de subsidios al transporte del Gobierno nacional. Con una serie de tuits y retuits, el cordobés puso en el centro la desigualdad entre el AMBA y el interior, acusando al oficialismo de repetir prácticas kirchneristas. La omisión de otros gobernadores frente a este reclamo sugiere un cálculo de conveniencia o una estrategia de no confrontación directa.\n\nActo 2 — Los Alineamientos: Llaryora se posiciona como el único voz cantante del interior en esta materia. Los gobernadores de provincias centrales como Kicillof (Buenos Aires) y Macri (CABA) optaron por una agenda local y protocolar, evitando sumarse al debate. El silencio de los demás mandatarios, especialmente de aquellos que también podrían beneficiarse de un reclamo similar, revela una fragmentación en la defensa de los intereses federales.\n\nActo 3 — La Micro-política: En provincias periféricas, los gobernadores se refugiaron en la gestión de cabotaje. Poggi (San Luis) desplegó una intensa agenda de inauguraciones y reconocimientos, mientras que Passalacqua (Misiones) y Vidal (Santa Cruz) se enfocaron en emergencias y deportes. Estos gestos buscan mostrar eficiencia local en un contexto de ajuste nacional, pero sin desafiar abiertamente a la Casa Rosada.\n\nActo 4 — Saldo Presidencial: Para el Gobierno nacional, el día deja una alerta desde Córdoba, pero sin una escalada coordinada. La ausencia de una reacción en cadena entre los gobernadores permite a la administración de Milei absorber la crítica sin un costo político inmediato. Sin embargo, la persistencia de estos reclamos podría erosionar la base de apoyo en el interior si no se atienden las asimetrías.",
+    "temas_calientes": [
+        {
+            "tema": "Desigualdad en subsidios al transporte AMBA vs interior",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Preparativos para la visita del Papa León XIV",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "Una vez más, el Gobierno nacional aumenta los subsidios al transporte del AMBA y le da la espalda a #Córdoba y al interior. Los cordobeses también aportamos los recursos que financian esas decisiones. Sin embargo, mientras la Nación absorbe los mayores costos del #transporte en el AMBA, en nuestras provincias ese esfuerzo recae sobre los pasajeros y los gobiernos locales.",
+        "por_que_es_clave": "Llaryora rompe el silencio de los gobernadores del interior y coloca en la agenda pública la discriminación en la distribución de subsidios, desafiando al Gobierno nacional en un tema sensible para el bolsillo de las provincias.",
+        "pregunta_openarg": "¿Por qué los gobernadores del interior no acompañan el reclamo de Llaryora contra la discriminación en los subsidios al transporte?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Gestión local de vivienda y hábitat",
+                "Escrituras"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Evita posicionarse sobre la disputa de subsidios.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Obras públicas"
+            ],
+            "postura_politica": "Protocolo con el Gobierno nacional. Se muestra alineado en la organización del evento papal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Identidad cultural",
+                "Museo rural"
+            ],
+            "postura_politica": "Agenda local de bajo perfil. Sin menciones a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Subsidios al transporte",
+                "Desigualdad federal",
+                "Educación",
+                "Visita del Papa"
+            ],
+            "postura_politica": "Crítica directa al Gobierno nacional por discriminación al interior. Se posiciona como defensor del federalismo fiscal.",
+            "frase_fuerte": "Una vez más, el Gobierno nacional aumenta los subsidios al transporte del AMBA y le da la espalda a #Córdoba y al interior."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Cultura",
+                "Ballet"
+            ],
+            "postura_politica": "Agenda local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Emergencia climática",
+                "Deportes",
+                "Juegos Evita"
+            ],
+            "postura_politica": "Gestión local de crisis y fomento deportivo. Sin confrontación con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Deportes",
+                "Infraestructura local",
+                "Reconocimientos",
+                "Salud"
+            ],
+            "postura_politica": "Intensa agenda de gestión local. Evita cualquier tema federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Deportes",
+                "Juegos Evita"
+            ],
+            "postura_politica": "Agenda local de fomento deportivo. Sin posicionamiento federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Recorrida por localidades",
+                "Obras"
+            ],
+            "postura_politica": "Gestión local en el interior provincial. Sin menciones a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Felicitar intendentes",
+                "Gestión local"
+            ],
+            "postura_politica": "Agenda protocolar local. Sin impacto federal.",
+            "frase_fuerte": null
+        }
+    ]
+}
