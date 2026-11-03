@@ -1,0 +1,94 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada no registró confrontación frontal, pero los gobernadores de provincias centrales y estratégicas usaron la gestión, la obra pública y los recursos energéticos para marcar autonomía. Kicillof eligió justicia; Pullaro, obra; Quintela, renovables; Llaryora, ciencia. Ninguno mencionó a Nación. El silencio sugiere un cálculo de supervivencia fiscal: mostrar gestión propia mientras el desfinanciamiento nacional habla por sí solo. En provincias periféricas, Poggi, Vidal y Torres se refugiaron en la agenda local. La tensión no explotó, pero se acumuló.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no ofreció una refriega frontal entre gobernadores y Casa Rosada. El conflicto central fue, otra vez, la asfixia fiscal que no se nombra. Kicillof habló de justicia; Pullaro de obra; Quintela de renovables; Llaryora de ciencia. Ninguno citó a Nación. El silencio sugiere que la confrontación directa se reserva para cuando haya caja o daño político que exhibir. La omisión revela un cálculo: hablar de gestión propia mientras se deja que el desfinanciamiento nacional hable por sí solo. ¿Qué pierde un gobernador si nombra a Nación? Pierde la posibilidad de mostrarse como solución local. ¿Qué gana si calla? Gana margen para negociar sin quedar atado a una queja que no controla.\n\nActo 2 — Los Alineamientos: Pullaro se muestra como socio estratégico de la producción y la obra, pero sin romper con Nación. Quintela se posiciona en energías renovables y recursos estratégicos, territorio de disputa con la Rosada por RIGI y regalías. Llaryora cultiva el perfil de Córdoba como capital científica, un activo simbólico frente al interior. Kicillof, desde la provincia central, elige la institucionalidad judicial, gesto de moderación que no le regala a Nación un enemigo nuevo. Los parias no aparecen; los ambivalentes tampoco. Es un tablero de perfil bajo, donde cada uno cuida su flanco fiscal.\n\nActo 3 — La Micro-política: Poggi en San Luis muestra capacitación emprendedora; Vidal en Santa Cruz despide deportistas; Torres en Chubut celebra una fundación. Son gestos de supervivencia, gestión de cabotaje que no escalan a la agenda federal. El cálculo detrás es simple: en provincias periféricas o de peso bajo, la política se hace con obras pequeñas y afectos locales, no con desafíos a la Rosada. La ausencia de Nación en esos tuits no es olvido: es una forma de no pagar costos. La agenda local sin impacto federal es, también, una estrategia de repliegue territorial.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no recibió un ataque directo, pero tampoco una adhesión entusiasta. El oficialismo provincial no se alineó explícitamente; los gobernadores dejaron que la obra y la energía hablaran. Para el capital político de Milei, la jornada es de desgaste silencioso: las provincias muestran gestión mientras la Nación queda como ausente. La tensión no explotó, pero se acumuló. El federalismo de obra y recursos sigue siendo el terreno donde se libra la próxima pulseada.",
+    "temas_calientes": [
+        {
+            "tema": "Obra pública y autonomía provincial",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Energías renovables y recursos estratégicos",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Ciencia y educación como marca de provincia central",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Justicia e institucionalidad provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Agenda social, deportiva y de cabotaje",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@NachoTorresCH",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@maxipullaro (RT de @GobSantaFe)",
+        "texto": "¡Avanzamos con obras estratégicas en toda la provincia!\n\nEn #Rosario, la transformación de la Av. Jorge Newbery ya es una realidad: multiplicamos los carriles, construimos un nuevo puente sobre el arroyo Ludueña y sumamos iluminación, ciclovías y una rotonda de acceso al Aeropuerto.\n\nSanta Fe, imparable.",
+        "por_que_es_clave": "Pullaro no menciona a Nación, pero muestra obra pública en una provincia central. El mensaje es que Santa Fe puede gestionar y avanzar sin depender del auxilio federal. Es una jugada de autonomía fiscal y política, sin confrontación abierta. El silencio sobre la Rosada sugiere que prefiere el desgaste silencioso antes que la queja pública.",
+        "pregunta_openarg": "¿Puede Santa Fe sostener la obra pública con recursos propios mientras la Nación ajusta, o el 'imparable' es solo relato de gestión?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Justicia provincial",
+                "Colaboración institucional"
+            ],
+            "postura_politica": "Kicillof elige un gesto de institucionalidad judicial en lugar de confrontar por la coparticipación. La omisión de Nación sugiere que busca preservar un perfil de gestión y no regalarle a la Rosada un enemigo nuevo en una jornada sin caja. El cálculo detrás es sobrevivir a la asfixia fiscal sin abrir un frente que no puede financiar.",
+            "frase_fuerte": "Nos reunimos con las autoridades del Colegio de Magistrados y Funcionarios del Poder Judicial de la Provincia para conversar sobre el funcionamiento del sistema de justicia."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Fundación Crecer",
+                "Discapacidad",
+                "Comunidad"
+            ],
+            "postura_politica": "Torres se refugia en la agenda social y comunitaria. No hay mención a Nación ni a recursos estratégicos. El silencio sugiere que en Chubut la prioridad es mostrar cercanía y no abrir un conflicto federal por hidrocarburos o coparticipación. La omisión revela un cálculo de bajo costo político.",
+            "frase_fuerte": "HAY CAUSAS QUE NOS UNEN A TODOS"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Ciencia",
+                "Educación",
+                "Premios Einstein"
+            ],
+            "postura_politica": "Llaryora convierte a Córdoba en sede sudamericana de los Premios Einstein. Es un gesto de posicionamiento simbólico: Córdoba no pide, exhibe. No menciona a Nación, pero la omisión revela que la provincia central prefiere marcar autonomía cultural y científica antes que confrontar por transporte o coparticipación en esta jornada.",
+            "frase_fuerte": "Es un honor participar de la ceremonia de los #PremiosEinstein, que por primera vez se realizan en Sudamérica con #Córdoba como sede."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Energías renovables",
+                "Recursos naturales"
+            ],
+            "postura_politica": "Quintela pone a La Rioja en la carrera de las renovables. Es un mensaje de autonomía sobre recursos estratégicos, pero sin nombrar a Nación ni al RIGI. El silencio sugiere que prefiere mostrar potencial antes que denunciar desfinanciamiento. El cálculo detrás es atraer inversión y no quedar como provincia puramente demandante.",
+            "frase_fuerte": "La Rioja cuenta con todos los recursos naturales, la infraestructura y el capital humano para estar entre las primeras en implementación de energías renovables, y estamos en camino hacia eso."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Emprendedores",
+                "Capacitación"
+            ],
+            "postura_politica": "Poggi se mueve en la micro-política de la capacitación emprendedora. No hay Nación ni conflicto fiscal. La omisión revela un cálculo de supervivencia: en San Luis, mostrar gestión local y cercanía con emprendedores rinde más que una disputa federal que no controla.",
+            "frase_fuerte": "VILLA MERCEDES - Con un anfiteatro colmado, comenzamos con la primera clase de CAPACITACIÓN a los EMPRENDEDORES inscriptos en el Programa Integral de Acompañamiento 'MI PRÓXIMO PASO y MI PRIMER EMPRENDIMIENTO'."
+        }
+    ]
+}
