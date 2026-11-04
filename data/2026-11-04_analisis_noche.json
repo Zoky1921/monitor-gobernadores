@@ -1,0 +1,179 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La agenda federal de los gobernadores se centró hoy en la gestión interna y el desarrollo provincial, con énfasis en obras públicas, salud y vivienda. Sobresale la coordinación de la visita papal en Buenos Aires y Mendoza, así como un fuerte impulso a la infraestructura y la conectividad en Neuquén y San Luis. Desde el plano económico, Mendoza propone una reforma fiscal integral, mientras Santa Fe y Catamarca abogan por el cuidado industrial y el aprovechamiento de los recursos naturales. La Ciudad de Buenos Aires mantiene una postura firme en seguridad ante incidentes recientes. Predomina un enfoque proactivo en las provincias, aunque persisten discusiones sobre la distribución federal de recursos en el ámbito industrial.",
+    "analisis_profundo": "La jornada política estuvo marcada por una intensa actividad provincial, con los gobernadores enfocados en consolidar la gestión y el desarrollo local. Un tema transversal fue la infraestructura y los servicios públicos. @Rolo_Figueroa (Neuquén) detalló un abanico de obras, desde la pavimentación de la ruta a Chapelco hasta la entrega de viviendas y créditos hipotecarios, culminando con la extensión del gas de Vaca Muerta al sur de la provincia. Esta visión integral de desarrollo territorial es compartida por @passalacquaok (Misiones) con obras hídricas vitales y @claudiojpoggi (San Luis) con la repavimentación de avenidas y la expansión de la conectividad en escuelas rurales. Estas acciones subrayan la autonomía y capacidad de inversión provincial frente a posibles retracciones nacionales.\n\nEn el ámbito social, @NachoTorresCH (Chubut) mostró su compromiso con la reconstrucción de viviendas tras incendios, mientras @MartinLlaryora (Córdoba) destacó logros en salud pública y el avance en la construcción de hospitales, posicionando a su provincia en la vanguardia médica. @OsvaldoJaldo (Tucumán) hizo hincapié en el apoyo a fundaciones infantiles y la coordinación con municipios, incluyendo la ampliación de subsidios eléctricos para zonas cálidas. Paralelamente, la visita del Papa León XIV movilizó a @Kicillofok (Buenos Aires) y @alfredocornejo (Mendoza) en amplios operativos de coordinación, demostrando la capacidad organizativa de las provincias ante eventos de gran envergadura.\n\nLa dimensión económica federal mantuvo su relevancia. @alfredocornejo (Mendoza) expuso sobre la eficiencia estatal y la necesidad imperante de una reforma fiscal integral y coparticipación federal, un mensaje dirigido a un debate nacional más amplio. Asimismo, presentó un foro para atraer inversiones, reafirmando el rol de las provincias en la dinamización económica. @maxipullaro (Santa Fe), desde la Conferencia Industrial de la UIA, defendió la protección de las industrias y la integración de las cadenas de valor, destacando la vocación productiva de Santa Fe. Estas declaraciones, si bien no son directamente confrontativas, marcan una clara agenda provincial en la discusión económica nacional.\n\nFinalmente, la seguridad mantuvo su espacio en la agenda, con @jorgemacri (Ciudad de Buenos Aires) respondiendo con contundencia a ataques en Palermo, prometiendo la aplicación de 'todo el peso de la ley'. Aunque el clima general de la jornada es de gestión provincial, la diversidad de temas, desde la infraestructura y la salud hasta la economía y la seguridad, refleja la complejidad de la dinámica federal, donde las provincias asumen un rol protagónico y estratégico en la construcción de su propio futuro y en la interacción con el gobierno central.",
+    "temas_calientes": [
+        {
+            "tema": "Fortalecimiento de la Gestión Local y Obras Públicas",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Económico Regional y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Federalismo Fiscal y Eficiencia Estatal",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Grandes Eventos y Seguridad Ciudadana",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@alfredocornejo",
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Educación y Conectividad Rural",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@alfredocornejo",
+        "texto": "En las XV Jornadas Iberoamericanas de Financiación Local, organizadas por la UCEMA, pude exponer sobre la experiencia de Mendoza en eficiencia del Estado y la necesidad de avanzar en una reforma fiscal integral. En la última década logramos reducir un 20% el gasto público real, mejorando al mismo tiempo los servicios. Esa experiencia demuestra que es posible tener un Estado más eficiente. La Argentina necesita una reforma que contemple cambios en la estructura tributaria y la coparticipación federal, con un plan claro y acuerdos políticos que garanticen previsibilidad y permitan impulsar las inversiones y el desarrollo.",
+        "por_que_es_clave": "Destaca el liderazgo de Mendoza en una propuesta de reforma fiscal integral y coparticipación federal, un tema crítico en la relación Nación-provincias. Su mención de la eficiencia estatal y la necesidad de acuerdos políticos para la previsibilidad lo posiciona como un actor clave en el debate económico nacional, proponiendo soluciones desde la experiencia provincial.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Grandes Eventos",
+                "Gestión Pública",
+                "Seguridad"
+            ],
+            "postura_politica": "Se enfoca en la capacidad de gestión provincial para eventos de gran escala, destacando la movilización de recursos y personal. Proactividad en coordinación.",
+            "frase_fuerte": "Nos estamos preparando para recibir al Papa León XIV con un gran operativo que movilizará a más de 30 mil voluntarios y agentes del Gobierno provincial."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Recuperación de desastres",
+                "Gestión Social"
+            ],
+            "postura_politica": "Muestra un compromiso directo con la reconstrucción y el apoyo a familias afectadas por desastres naturales, priorizando la recuperación social y la vivienda.",
+            "frase_fuerte": "Sabemos que hay recuerdos y años de esfuerzo que no se pueden devolver. Pero también entendemos lo importante que es recuperar la tranquilidad de tener un lugar propio, donde empezar a construir una nueva historia."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Infraestructura Sanitaria",
+                "Innovación Médica"
+            ],
+            "postura_politica": "Destaca la excelencia y la inversión en el sistema de salud provincial, tanto en infraestructura como en capital humano e innovación médica, proyectando a Córdoba como referente.",
+            "frase_fuerte": "Estos logros nos llenan de orgullo a los cordobeses y demuestran el enorme valor de nuestra #SaludPública, de sus equipos médicos y de la inversión sostenida en tecnología, equipamiento y formación que estamos haciendo."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Educación",
+                "Juventud",
+                "Desarrollo Profesional"
+            ],
+            "postura_politica": "Fomenta la educación práctica y la vinculación de los jóvenes con el mundo laboral desde temprano, apoyando el desarrollo de habilidades para su futuro profesional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Federalismo Fiscal",
+                "Inversiones",
+                "Eficiencia del Estado",
+                "Grandes Eventos"
+            ],
+            "postura_politica": "Se posiciona como líder en la promoción de una reforma fiscal federal y la eficiencia estatal, mientras impulsa la atracción de inversiones y coordina eventos de relevancia nacional.",
+            "frase_fuerte": "La Argentina necesita una reforma que contemple cambios en la estructura tributaria y la coparticipación federal, con un plan claro y acuerdos políticos que garanticen previsibilidad y permitan impulsar las inversiones y el desarrollo."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Infraestructura Hídrica",
+                "Servicios Básicos"
+            ],
+            "postura_politica": "Resalta la importancia de la inversión en infraestructura esencial para la calidad de vida de los ciudadanos, enfatizando el acceso al agua como un derecho fundamental.",
+            "frase_fuerte": "No hay nada más sagrado que el agua. El agua es salud, el agua es vida."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Vivienda",
+                "Salud",
+                "Educación",
+                "Energía",
+                "Desarrollo Territorial"
+            ],
+            "postura_politica": "Muestra una gestión integral y proactiva, enfocada en resolver demandas históricas de infraestructura y servicios esenciales para el desarrollo equitativo de todo el territorio provincial, utilizando recursos propios y estratégicos como Vaca Muerta.",
+            "frase_fuerte": "VAMOS A LLEGAR CON GAS DE VACA MUERTA A TODO EL SUR DE LA PROVINCIA Estamos impulsando una obra estratégica para abastecer a la cordillera con gas de Vaca Muerta."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Conectividad Digital",
+                "Educación Rural"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura vial y la mejora de la conectividad digital para las escuelas rurales, buscando modernizar y facilitar el acceso a servicios en el interior provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Cultura",
+                "Identidad Provincial"
+            ],
+            "postura_politica": "Demuestra apoyo a las tradiciones y eventos culturales que fortalecen la identidad provincial, reconociendo el valor de las agrupaciones y fiestas populares.",
+            "frase_fuerte": "Defender nuestras tradiciones es mantener viva nuestra identidad"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Gestión Social",
+                "Gobierno Local",
+                "Obras Públicas",
+                "Subsidios Eléctricos"
+            ],
+            "postura_politica": "Enfatiza una gestión cercana a los municipios y a las necesidades sociales, con un enfoque en la planificación, el diálogo y el sostenimiento de programas de asistencia y obras públicas.",
+            "frase_fuerte": "Conducir una provincia requiere planificación, diálogo y una gestión presente en cada municipio."
+        },
+        {
+            "gobernador": "@jorgemacri (Ciudad de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad Ciudadana",
+                "Lucha contra el Delito"
+            ],
+            "postura_politica": "Demuestra firmeza y celeridad en la respuesta ante hechos delictivos, reafirmando el compromiso con la seguridad y la aplicación estricta de la ley.",
+            "frase_fuerte": "Los ataques ocurridos en Palermo son de suma gravedad y no vamos a permitir que estos delitos queden impunes."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Desarrollo Industrial",
+                "Economía Regional",
+                "Protección del Sector Productivo"
+            ],
+            "postura_politica": "Defiende activamente el sector industrial y productivo de la provincia, enfatizando la necesidad de protección y apoyo a las empresas regionales en el contexto de debates económicos nacionales.",
+            "frase_fuerte": "En la 32° Conferencia Industrial de la UIA fuimos claros: tenemos que cuidar a cada una de las ramas de la industria y no dejar caer a ninguna."
+        }
+    ]
+}
