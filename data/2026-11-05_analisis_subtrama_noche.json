@@ -1,0 +1,134 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada registra un único pero significativo posicionamiento federalista del gobernador cordobés Martín Llaryora, quien denuncia la concentración de recursos en el AMBA. El resto de los mandatarios se repliega en la gestión local, evitando confrontar con Nación. La visita papal emerge como tema común pero despolitizado.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día es la denuncia de Llaryora sobre la inequidad en la distribución de recursos, un clásico reclamo del interior que resuena en un contexto de ajuste nacional. Su tweet de anoche, con la frase 'No podemos aceptar que los recursos y las oportunidades se concentren siempre en el mismo lugar', es un dardo directo a la Casa Rosada y al AMBA. Sin embargo, ningún otro gobernador secundó el planteo, lo que sugiere una estrategia de silencio calculado o una falta de coordinación opositora.\n\nActo 2 — Los Alineamientos: Llaryora se posiciona como el único abanderado del federalismo fiscal en la jornada. En la vereda opuesta, gobernadores como Rolo Figueroa (Neuquén) y Claudio Vidal (Santa Cruz) optan por mostrar eficiencia provincial: Figueroa destaca la mejora crediticia y el alivio fiscal, mientras Vidal anuncia la reactivación de represas. Son gestos de autonomía que, sin criticar explícitamente a Nación, construyen un relato de gestión propia exitosa. El resto, como Leandro Zdero (Chaco) o Nacho Torres (Chubut), se refugian en la agenda de cabotaje.\n\nActo 3 — La Micro-política: Las provincias periféricas despliegan una gestión de supervivencia. Zdero entrega herramientas educativas, Torres tarjetas para jubilados, Quintela promociona energías renovables y Poggi inaugura viviendas. Son actos que buscan mostrar presencia estatal en un contexto de retracción nacional. La visita del Papa León XIV es aprovechada por Llaryora y Kicillof (Buenos Aires) para organizar eventos, pero sin carga política.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable en términos de control de daños. La ausencia de una ofensiva coordinada de gobernadores permite que el único reclamo federalista quede aislado. Sin embargo, la persistencia de estos planteos, aunque individuales, mantiene viva la discusión sobre el modelo de país. El capital político de Milei no sufre un desgaste inmediato, pero la semilla del descontento federal sigue latente.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo fiscal y distribución de recursos",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "Defender a #Córdoba es defender a sus trabajadores, sus industrias, sus estudiantes y a cada familia cordobesa.\n\nNo podemos aceptar que los recursos y las oportunidades se concentren siempre en el mismo lugar. Necesitamos un país verdaderamente federal, donde todas las provincias tengan los mismos derechos y posibilidades.\n\nNosotros vamos a seguir defendiendo los intereses de Córdoba.\n\n#HacerParaCrecer",
+        "por_que_es_clave": "Es la única declaración de la jornada que cuestiona abiertamente el modelo de concentración de recursos en el AMBA, posicionando a Llaryora como la voz del interior contra el centralismo porteño. Su timing (ayer a la noche) busca marcar agenda para el día siguiente.",
+        "pregunta_openarg": "¿Hasta cuándo el interior productivo aceptará subsidios diferenciales para el AMBA sin una rebelión fiscal coordinada?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Lanzamiento MDF Hábitat y Territorio"
+            ],
+            "postura_politica": "Agenda interna del peronismo bonaerense. Sin impacto federal. Kicillof se enfoca en la militancia territorial, evitando cualquier roce con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Educación",
+                "Emprendedores"
+            ],
+            "postura_politica": "Gestión local sin confrontación. Muestra acompañamiento a escuelas y emprendedores, pero sin mencionar a Nación. Es un refugio en la agenda de cabotaje.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Jubilados",
+                "Tarjetas de Cuidado Integral"
+            ],
+            "postura_politica": "Anuncia un beneficio social para jubilados, equiparando a nacionales y provinciales. Implícitamente critica la segmentación nacional, pero sin nombrarla. Es un gesto de autonomía.",
+            "frase_fuerte": "EN CHUBUT NO HAY JUBILADOS DE PRIMERA Y DE SEGUNDA"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Recursos",
+                "Visita del Papa"
+            ],
+            "postura_politica": "Es el único que planta bandera federalista. Denuncia la concentración de recursos y pide igualdad. Su tweet de anoche es un misil contra el centralismo. Hoy se enfoca en la logística papal, pero el mensaje de fondo ya quedó.",
+            "frase_fuerte": "No podemos aceptar que los recursos y las oportunidades se concentren siempre en el mismo lugar."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Deporte",
+                "Energías renovables",
+                "Digitalización"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Promociona deportistas, energías limpias y modernización del Estado. No hay crítica ni mención a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Reunión con intendente"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Recorre obras y se reúne con intendentes. Sin posicionamiento federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Educación",
+                "Alivio fiscal",
+                "Calificación crediticia"
+            ],
+            "postura_politica": "Muestra una provincia ordenada y eficiente. El alivio fiscal y la mejora crediticia son mensajes de buena gestión que contrastan con el contexto nacional, pero sin atacar directamente. Es una estrategia de diferenciación positiva.",
+            "frase_fuerte": "NEUQUÉN MEJORÓ SU CALIFICACIÓN CREDITICIA A B+"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Ruta Nacional 150",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Anuncia intervención en una ruta nacional, lo que implica que la provincia toma obras que Nación no ejecuta. Crítica implícita al abandono nacional, pero sin decirlo abiertamente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Seguridad",
+                "Salud",
+                "Educación"
+            ],
+            "postura_politica": "Agenda local intensa pero sin contenido federal. Inaugura obras y entrega viviendas. No hay mención a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Represas",
+                "Empleo"
+            ],
+            "postura_politica": "Anuncia reactivación de represas y generación de empleo. Es un mensaje de gestión propia en un sector clave, pero sin confrontar con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Seguridad"
+            ],
+            "postura_politica": "Gestión local en vivienda y seguridad. No hay posicionamiento federal. Se enfoca en mostrar resultados.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Infraestructura vial"
+            ],
+            "postura_politica": "Participa en actos de seguridad con fuerzas federales y recorre obras. Sin crítica ni reclamo. Mantiene perfil bajo.",
+            "frase_fuerte": null
+        }
+    ]
+}

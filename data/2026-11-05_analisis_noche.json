@@ -1,0 +1,174 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda de los gobernadores refleja una jornada de gestión intensa, marcada por anuncios de obras, programas sociales y apoyo a la producción local. No obstante, un clima de tensión persiste en la dinámica federal, con Martín Llaryora (Córdoba) y Ricardo Quintela (La Rioja) cuestionando abiertamente las políticas de ajuste y la distribución inequitativa de recursos del gobierno nacional. Ignacio Torres (Chubut) también alza la voz por las disparidades jubilatorias. La inminente visita papal emerge como un punto de encuentro, pero el eje central sigue siendo la capacidad de respuesta provincial frente a un contexto económico adverso y una relación 'desgastada' con la Nación.",
+    "analisis_profundo": "La jornada política federal se caracteriza por una marcada divergencia entre la gestión provincial y la confrontación con el gobierno nacional. El gobernador Martín Llaryora (Córdoba) encabeza una ofensiva retórica contundente, denunciando la inequidad en la distribución de subsidios al transporte y el impacto del impuesto a los combustibles que encarece el boleto para los cordobeses. Su crítica se extiende al recorte del Programa Remediar, advirtiendo que las provincias no pueden 'amortiguar todo el ajuste nacional'. Esta postura es replicada por Ricardo Quintela (La Rioja), quien eleva el tono al acusar a la Nación y a la Corte Suprema de Justicia de intentar invalidar un decreto provincial que protege a los usuarios de aumentos tarifarios, calificando la situación como un 'ajuste salvaje' que colisiona con los derechos constitucionales a la energía. Ignacio Torres (Chubut) también suma a la crítica al denunciar la existencia de 'jubilados de primera y segunda', señalando las disparidades generadas por políticas federales en perjuicio de los derechos provinciales.\n\nEn contraste, la mayoría de los gobernadores utilizan sus plataformas para destacar logros de gestión local y la movilización de recursos propios. Axel Kicillof (Buenos Aires) se enfoca en el lanzamiento de un programa de hábitat y la organización de la visita papal. Leandro Zdero (Chaco) subraya el apoyo a emprendedores y la mejora educativa. Marcelo Orrego (San Juan) anuncia inversiones en infraestructura vial financiadas por fondos mineros. Claudio Poggi (San Luis) se concentra en la entrega de viviendas, la digitalización municipal y la seguridad con tecnología local. Claudio Vidal (Santa Cruz) celebra la reactivación de represas y la inversión en educación, haciendo una crítica velada a gestiones pasadas y prometiendo un nuevo rumbo. Maximiliano Pullaro (Santa Fe) resalta la entrega de viviendas y la seguridad urbana, con una 'lucha contra las organizaciones criminales' sin improvisaciones. Rolando Figueroa (Neuquén) despliega una agenda diversa, desde la reactivación de obras de infraestructura –incluso federales, por traspaso–, pasando por el fomento de exportaciones y la mejora en la calificación crediticia provincial, consolidando una imagen de autonomía y planificación.\n\nLa preparación para la visita del Papa León XIV es un tema recurrente, abordado por Llaryora (Córdoba) y Kicillof (Buenos Aires), no solo como evento religioso sino como una oportunidad de reafirmar la capacidad organizativa provincial. Esta polarización entre la gestión local autónoma y la creciente fricción con el gobierno central configura una dinámica federal tensa, donde las provincias buscan soluciones endógenas mientras exigen un reparto más justo de cargas y beneficios a nivel nacional. La defensa de la autonomía, la inversión pública provincial y la resiliencia económica se consolidan como ejes discursivos frente a un contexto nacional de 'ajuste'.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo Fiscal y Disparidad de Recursos",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Gestión de Obra Pública y Vivienda con Recursos Propios",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@DrMarceloOrrego",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Atracción de Inversiones",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@DrMarceloOrrego",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Seguridad y Justicia Provincial",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Educación y Modernización del Estado",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH",
+        "texto": "No importa si nuestros jubilados son nacionales o provinciales: todos trabajaron y aportaron durante años, y merecen tener acceso a los mismos derechos y, sobre todo, la tranquilidad de vivir una vejez digna. Por eso, entregamos en Trelew las primeras 74 tarjetas de Cuidado Integral, que garantizan un aporte de $100 mil mensuales para comprar medicamentos e insumos de salud a jubilados en situación de vulnerabilidad. Y vamos a continuar con las entregas hasta llegar a las 500 en esta primera etapa, para después llevar el programa a toda la provincia.",
+        "por_que_es_clave": "El gobernador de Chubut aborda directamente la problemática de la desigualdad en los derechos jubilatorios, atribuyéndola implícitamente a políticas nacionales. Su anuncio de un programa provincial de asistencia a jubilados es una clara toma de postura y acción local frente a una percibida inacción o disparidad federal, resonando con el sentimiento de 'argentinos de primera y segunda'.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Gestión de hábitat",
+                "Visita papal"
+            ],
+            "postura_politica": "Centrado en la gestión provincial y la ejecución de programas sociales y de infraestructura, así como en la coordinación de eventos de gran magnitud, proyectando la capacidad de acción de Buenos Aires.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Apoyo a la educación",
+                "Emprendedores locales"
+            ],
+            "postura_politica": "Enfoque en el desarrollo económico local, el fortalecimiento educativo y el apoyo a la base productiva del Chaco, destacando el esfuerzo diario de su gente.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Disparidad en derechos jubilatorios",
+                "Asistencia social a jubilados"
+            ],
+            "postura_politica": "Crítica directa a las políticas nacionales que generan desigualdad entre jubilados, reafirmando el compromiso provincial con el bienestar social de los adultos mayores de Chubut.",
+            "frase_fuerte": "No importa si nuestros jubilados son nacionales o provinciales: todos trabajaron y aportaron durante años, y merecen tener acceso a los mismos derechos y, sobre todo, la tranquilidad de vivir una vejez digna."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Federalismo fiscal",
+                "Subsidios al transporte",
+                "Recorte programa Remediar",
+                "Visita papal"
+            ],
+            "postura_politica": "En fuerte confrontación con el gobierno nacional por la concentración de recursos y el ajuste. Al mismo tiempo, muestra la capacidad de organización de Córdoba para eventos importantes como la visita papal.",
+            "frase_fuerte": "Defender a #Córdoba es defender a sus trabajadores, sus industrias, sus estudiantes y a cada familia cordobesa."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Energías renovables",
+                "Digitalización municipal",
+                "Conflicto tarifario con Nación y Corte Suprema",
+                "Deporte"
+            ],
+            "postura_politica": "Afirma la autonomía provincial en el desarrollo energético y tecnológico, y confronta directamente al gobierno nacional y la Corte Suprema por políticas que afectan los servicios básicos y la constitucionalidad de sus decisiones en La Rioja.",
+            "frase_fuerte": "El ajuste salvaje al pueblo tiene un limite en La Rioja, y ese limite esta fijado por la Constitución Provincial, el derecho al agua, a la energía y a la conectividad son superiores a cualquier política de crueldad y ajuste definido por el gobierno nacional"
+        },
+        {
+            "gobernador": "@DrMarceloOrrego",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Financiamiento minero"
+            ],
+            "postura_politica": "Destaca el uso de recursos de la actividad minera para financiar obras de infraestructura esenciales en San Juan, mostrando un modelo de desarrollo provincial con impacto directo en las comunidades.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad ciudadana",
+                "Educación",
+                "Atención primaria de la salud",
+                "Apoyo a emprendedores"
+            ],
+            "postura_politica": "Foco en la gestión de programas sociales de vivienda, seguridad con tecnología y mejoras en servicios públicos esenciales. Énfasis en el apoyo a la iniciativa local y la modernización del Estado en San Luis.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Reactivación de represas",
+                "Generación de empleo",
+                "Educación"
+            ],
+            "postura_politica": "Anuncia la reactivación de obras de gran envergadura y la generación de empleo en Santa Cruz, contrastando con el abandono de gestiones anteriores, lo que implica una crítica al pasado y un nuevo rumbo para la provincia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad pública"
+            ],
+            "postura_politica": "Enfatiza la continuidad de la gestión en seguridad para contener el delito y la violencia en Santa Fe, utilizando tecnología y estrategia. También destaca el compromiso con la política habitacional.",
+            "frase_fuerte": "La seguridad de los santafesinos no se improvisa."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Obra pública",
+                "Vivienda",
+                "Exportaciones",
+                "Alivio fiscal",
+                "Calificación crediticia"
+            ],
+            "postura_politica": "Demuestra una gestión proactiva y autónoma en Neuquén, asumiendo obras de infraestructura (incluso federales), impulsando el desarrollo productivo y exportador, y mejorando la situación financiera de la provincia con beneficios fiscales.",
+            "frase_fuerte": "Esto significa más autonomía financiera para defender los recursos de los neuquinos y neutralizar la volatilidad externa."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Seguridad",
+                "Cooperación con fuerzas federales",
+                "Infraestructura policial"
+            ],
+            "postura_politica": "Subraya el compromiso con la seguridad ciudadana a través de la coordinación con las fuerzas federales y la inversión en infraestructura policial en Tucumán, demostrando un enfoque integral en la lucha contra el delito.",
+            "frase_fuerte": null
+        }
+    ]
+}
