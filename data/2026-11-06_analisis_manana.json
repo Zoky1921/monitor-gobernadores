@@ -1,0 +1,102 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La jornada federal exhibe una agenda dual: por un lado, varios gobernadores se concentran en la gestión y el desarrollo local, enfocándose en infraestructura, educación y eventos culturales. Destacan Martín Llaryora (Córdoba) con los preparativos para la visita papal, Ricardo Quintela (La Rioja) promoviendo la juventud, Rolando Figueroa (Neuquén) con obras viales, Claudio Poggi (San Luis) en capacitación tecnológica y Maximiliano Pullaro (Santa Fe) en infraestructura educativa. Por otro lado, Axel Kicillof (Buenos Aires) introduce una fuerte crítica al Gobierno nacional, responsabilizándolo por la crisis habitacional y la desregulación, marcando una clara tensión en la dinámica Nación-provincias.",
+    "analisis_profundo": "El inicio de este día de trabajo en el ámbito federal revela una marcada dualidad en la agenda de los gobernadores. Por un lado, se observa un fuerte anclaje en la gestión territorial y la promoción de iniciativas provinciales, lo cual puede interpretarse como una estrategia para blindar las agendas locales frente a la coyuntura nacional o, en otros casos, como un reflejo genuino de prioridades propias. Martín Llaryora (Córdoba) ejemplifica esta tendencia con su activa promoción de los preparativos para la visita del Papa León XIV, utilizando el evento para resaltar la identidad y la capacidad organizativa de su provincia. De manera similar, Ricardo Quintela (La Rioja) subraya la inversión en programas juveniles, y Rolando Figueroa (Neuquén) enfoca sus mensajes en obras de infraestructura vital para el desarrollo local, como el pavimento en Villa La Angostura. Claudio Poggi (San Luis) destaca la capacitación docente en inteligencia artificial y Maximiliano Pullaro (Santa Fe) celebra obras educativas, mostrando un enfoque claro en el fortalecimiento institucional interno. Este sector de la agenda sugiere una consolidación de la autonomía provincial y la búsqueda de soluciones endógenas a los desafíos territoriales, posiblemente para amortiguar el impacto de políticas nacionales que perciben como distantes o insuficientes. La ausencia de pronunciamientos similares de otros gobernadores sobre temas nacionales podría indicar una estrategia de cautela o una diferenciación de agendas en un contexto de alta sensibilidad política y económica. La atención se dirige a la capacidad de las administraciones locales para generar valor y oportunidades sin una dependencia exclusiva de la órbita central.",
+    "temas_calientes": [
+        {
+            "tema": "Críticas a la Política Nacional de Vivienda y Desregulación",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Preparativos para la Visita del Papa León XIV",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Promoción de la Educación y Capacitación Tecnológica",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura Local y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "En nuestro país, el techo propio solía ser el anhelo de jóvenes, parejas y trabajadores. Hoy, la desregulación y la desidia del Gobierno nacional hacen que familias enteras ni siquiera puedan pagar un alquiler. Nos vuelven a decir que la vivienda y el crédito no son cuestiones del Estado, que todo lo tiene que regular el mercado, y los resultados están a la vista.",
+        "por_que_es_clave": "El gobernador de Buenos Aires emite una crítica directa y contundente al Gobierno nacional sobre la política de vivienda, acusando 'desregulación y desidia'. Esta declaración marca un punto de alta tensión política y económica, posicionando al gobierno central como responsable de la crisis habitacional y defendiendo la intervención estatal en derechos fundamentales.",
+        "pregunta_openarg": "¿Cómo abordará el Gobierno nacional las crecientes críticas provinciales sobre el impacto de la desregulación en derechos fundamentales como el acceso a la vivienda, en un contexto de polarización política?",
+        "verificacion_openarg": "Estos datos no permiten establecer causas ni evaluar a personas, gestiones o políticas.\n\nLa pregunta pide una predicción sobre decisiones futuras del Gobierno nacional, algo que ningún dato público pu..."
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Vivienda",
+                "Desregulación",
+                "Críticas al Gobierno Nacional"
+            ],
+            "postura_politica": "Crítico de las políticas nacionales que afectan el acceso a la vivienda, posicionando al Estado provincial como actor clave frente a la 'desidia' del gobierno central. Subraya el impacto social negativo de la desregulación económica.",
+            "frase_fuerte": "Hoy, la desregulación y la desidia del Gobierno nacional hacen que familias enteras ni siquiera puedan pagar un alquiler."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Visita papal",
+                "Cultura",
+                "Infraestructura cultural"
+            ],
+            "postura_politica": "Focalizado en la gestión de eventos de gran magnitud y relevancia cultural, como la visita del Papa, proyectando una imagen de Córdoba como provincia con capacidad organizativa y valor cultural.",
+            "frase_fuerte": "Está quedando hermoso, el mural nos recordará el acontecimiento histórico que vamos a vivir en #Córdoba."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Juventud",
+                "Educación",
+                "Políticas públicas"
+            ],
+            "postura_politica": "Prioriza la inversión en el capital humano joven de la provincia a través de programas que fomentan la expresión y el desarrollo de oportunidades, incluso en contextos económicos desafiantes.",
+            "frase_fuerte": "El talento de nuestra juventud es una de las mayores riquezas que tiene La Rioja."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Desarrollo local",
+                "Servicios públicos"
+            ],
+            "postura_politica": "Abocado a la ejecución de obras de infraestructura que mejoran la calidad de vida y la conectividad en localidades clave, demostrando un compromiso con el desarrollo territorial y la 'neuquinidad'.",
+            "frase_fuerte": "Sabemos lo que significa para una familia llegar a su casa sin barro, tener servicios y ver que su barrio crece."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación",
+                "Tecnología",
+                "Capacitación docente"
+            ],
+            "postura_politica": "Enfocado en la modernización educativa y la capacitación docente en tecnologías emergentes, como la inteligencia artificial, para fortalecer el sistema educativo provincial.",
+            "frase_fuerte": "Felicitaciones a los 370 DIRECTIVOS y DOCENTES del sistema educativo de la Pcia de San Luis que hoy a la tarde, en el Salon Malvinas Argentinas de la Casa de Gobierno, recibieron el diploma de la Universidad Austral por el cursado y aprobación de la DIPLOMATURA EN INTELIGENCIA ARTIFICIAL Y EDUCACION. Muy bien !!"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Educación",
+                "Infraestructura escolar",
+                "Calidad educativa"
+            ],
+            "postura_politica": "Celebra la inversión en infraestructura educativa como pilar para mejorar la calidad de la enseñanza, destacando el compromiso con escuelas dignas para alumnos y docentes.",
+            "frase_fuerte": "Pero cada paso que damos en tener escuelas dignas y en las condiciones que correspondan es mejor calidad para alumnos y docentes."
+        }
+    ]
+}

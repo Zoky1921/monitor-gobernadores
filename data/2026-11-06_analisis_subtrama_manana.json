@@ -1,0 +1,95 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "El gobernador de Buenos Aires, Axel Kicillof, acusó al Gobierno nacional de desregulación y desidia en materia de vivienda, marcando el único posicionamiento federal del día. El resto de los mandatarios se refugió en la agenda local: obras, educación y preparativos para la visita del Papa. La jornada refleja una oposición concentrada en el principal distrito, mientras las provincias periféricas evitan el conflicto directo.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: Kicillof dispara contra la Casa Rosada con un diagnóstico punzante: la desregulación y la desidia nacional han convertido el sueño de la vivienda propia en una quimera. No es un lamento; es una acusación directa al modelo económico de Milei, al que responsabiliza de la crisis habitacional. El gobernador bonaerense se erige como defensor del Estado de bienestar y busca capitalizar el malestar social, en una jugada que lo posiciona como el principal antagonista del oficialismo en el plano federal.\n\nActo 2 — Los Alineamientos: Frente a la ofensiva de Kicillof, el resto de los gobernadores opta por un silencio calculado. Llaryora muestra los preparativos para la visita papal en Córdoba, Quintela celebra una política de juventud en La Rioja, Figueroa pavimenta calles en Neuquén, Poggi diploma docentes en San Luis, Pullaro inaugura una escuela en Santa Fe y Jaldo reactiva una estación de bombeo en Tucumán. Ninguno recoge el guante ni se suma a la crítica. Es una estrategia de repliegue: evitan el desgaste de confrontar con Nación y se concentran en la gestión local, como si la macroeconomía no existiera.\n\nActo 3 — La Micro-política: Las provincias periféricas y las de peso medio refuerzan su narrativa de autonomía y eficiencia propia. Sin mencionar al Gobierno nacional, cada anuncio de obra o programa es una declaración implícita de que la gestión provincial es posible incluso en un contexto adverso. Es la política del 'mientras tanto': mientras la Nación se desentiende, ellos siguen dando respuestas. La omisión de la macroeconomía en estos tuits no es casual; es una forma de supervivencia política y de construcción de una imagen de gestión independiente.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es de relativa calma en el frente federal, con la excepción del ruido constante desde Buenos Aires. La falta de una reacción en cadena de otros gobernadores sugiere que el oficialismo aún conserva espacios de no confrontación, pero la persistencia de Kicillof como ariete opositor mantiene viva la tensión. El día deja un tablero donde el principal desafío para el Gobierno nacional sigue siendo contener al principal distrito electoral del país.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la política de vivienda del Gobierno nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Preparativos para la visita del Papa León XIV",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "En nuestro país, el techo propio solía ser el anhelo de jóvenes, parejas y trabajadores. Hoy, la desregulación y la desidia del Gobierno nacional hacen que familias enteras ni siquiera puedan pagar un alquiler. Nos vuelven a decir que la vivienda y el crédito no son cuestiones del Estado, que todo lo tiene que regular el mercado, y los resultados están a la vista.",
+        "por_que_es_clave": "Kicillof utiliza la problemática de la vivienda para cuestionar el modelo económico del Gobierno nacional, posicionándose como defensor del rol estatal y marcando distancia con la administración de Milei. Es un dardo directo en medio de una jornada donde la mayoría de los gobernadores evitan el conflicto.",
+        "pregunta_openarg": "¿Puede el mercado de vivienda funcionar sin intervención estatal en un contexto de crisis de acceso, o la desregulación profundiza la desigualdad?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Crítica al Gobierno nacional"
+            ],
+            "postura_politica": "Denuncia la desregulación y desidia nacional en vivienda, posicionándose como garante del Estado de bienestar frente al ajuste. Busca capitalizar el malestar social y marcar perfil opositor.",
+            "frase_fuerte": "la desregulación y la desidia del Gobierno nacional hacen que familias enteras ni siquiera puedan pagar un alquiler"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Cultura",
+                "Mural"
+            ],
+            "postura_politica": "Agenda local protocolar: muestra a Córdoba preparándose para recibir al Papa, sin mencionar a Nación. Refuerza su gestión y la identidad cordobesa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Juventud",
+                "Políticas públicas",
+                "Septiembre Joven"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Celebra una política pública de juventud, destacando la continuidad a pesar del contexto difícil, sin referencia a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Pavimento",
+                "Villa La Angostura"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Anuncia obras de infraestructura local, destacando la gestión provincial y municipal, sin mencionar a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Inteligencia Artificial",
+                "Docentes"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Reconoce a docentes por capacitación en IA, mostrando inversión en educación provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Educación",
+                "Inauguración de obra escolar"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Inaugura una escuela, destacando el esfuerzo provincial, sin referencia a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obra de saneamiento",
+                "Cloacas",
+                "Infraestructura"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Pone en funcionamiento una estación de bombeo cloacal, destacando la inversión provincial y el trabajo conjunto con el municipio, sin mención nacional.",
+            "frase_fuerte": null
+        }
+    ]
+}
