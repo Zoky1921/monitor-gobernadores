@@ -1,0 +1,183 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se tiñe de una marcada tensión, con los gobernadores articulando agendas de gestión local mientras elevan críticas directas al gobierno nacional y defienden los intereses provinciales. Se observa un fuerte énfasis en la educación pública, la soberanía hídrica y el desarrollo productivo como pilares frente a un contexto económico adverso. La provincia de Buenos Aires y La Pampa lideran los discursos de confrontación, mientras otras se concentran en infraestructura y programas sociales, buscando autonomía y progreso local en un entramado federal complejo y con crecientes fricciones.",
+    "analisis_profundo": "El tablero federal muestra una jornada polarizada, donde la gestión provincial se contrapone con una clara línea opositora al gobierno nacional. El gobernador Axel Kicillof (Buenos Aires) encabeza esta postura, vinculando directamente las inauguraciones locales de centros universitarios con una crítica explícita al 'desfinanciamiento' y 'motosierra' federal, elevando el debate educativo a un campo de disputa ideológica y de recursos. Esta narrativa es un claro intento de diferenciar la gestión provincial progresista de las políticas de ajuste central. \n\nEn un flanco judicial de gran relevancia federal, Sergio Ziliotto (La Pampa) celebra la reactivación de la causa del Río Atuel en la Corte Suprema de Justicia, un hito que subraya la defensa acérrima de los recursos naturales provinciales y evidencia la persistencia de conflictos interprovinciales por el agua, a menudo sin una mediación nacional efectiva. Esta acción judicial refuerza la autonomía pampeana frente a injerencias externas y pone de manifiesto la capacidad de las provincias para movilizar el aparato judicial en defensa de sus prerrogativas históricas.\n\nPor otro lado, figuras como Jorge Macri (CABA) se centran en la proyección internacional de sus jurisdicciones a través de grandes eventos e infraestructura, como el retorno de la Fórmula 1, priorizando la agenda metropolitana. Martín Llaryora (Córdoba), a su vez, enfatiza el rol de su provincia como motor productivo y exportador, buscando posicionar la capacidad de 'Córdoba' en el escenario global, un mensaje que indirectamente refuerza la autonomía económica provincial. Esta misma línea de desarrollo productivo y promoción de la identidad se ve en Oscar Herrera Ahuad (Misiones), quien impulsa la industria local y la educación con valores. \n\nLa gestión social y de servicios básicos también ocupa un lugar central. Ignacio Torres (Chubut) destaca la llegada de gas a comunidades como un acto de justicia social, mientras Claudio Poggi (San Luis) pone foco en la entrega de viviendas y la capacitación en inteligencia artificial para docentes. Claudio Vidal (Santa Cruz) hace una fuerte reivindicación de la igualdad de derechos para los trabajadores municipales. Maximiliano Pullaro (Santa Fe) se enfoca en infraestructura educativa y la lucha contra el crimen. Finalmente, Ricardo Quintela (La Rioja) y Gerardo Zamora (Santiago del Estero) impulsan obras de infraestructura y programas para la juventud, mostrando un compromiso con el desarrollo local en sus respectivas provincias. Estas acciones buscan demostrar la capacidad de respuesta del estado provincial frente a las necesidades cotidianas de su ciudadanía, muchas veces contrastando con las ausencias o limitaciones del apoyo federal.",
+    "temas_calientes": [
+        {
+            "tema": "Confrontacion Federal y Educacion Publica",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Federalismo Hidrico y Disputas Judiciales",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Apertura Internacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@passalacquaok",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Gestion Local y Reivindicacion de Derechos Laborales",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Conectividad Estrategica",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@QuintelaRicardo",
+                "@Rolo_Figueroa",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Inauguramos el nuevo Centro Universitario de Puentes de Arrecifes, algo que tiene mucho valor en un contexto en el que Milei quiere abandonar las universidades y cortar con la motosierra los sueños de los pibes y pibas que quieren estudiar.",
+        "por_que_es_clave": "Este tweet es clave por su critica directa al Presidente de la Nacion, Javier Milei, en un tema sensible como la educacion publica y su financiamiento. Kicillof (Buenos Aires) posiciona la gestion provincial como contrapunto a las politicas nacionales, marcando una clara linea de tension federal.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Educacion Publica",
+                "Critica al Gobierno Nacional",
+                "Vivienda Social"
+            ],
+            "postura_politica": "Postura fuertemente opositora y confrontativa con el gobierno nacional. Defiende el rol del estado en la educación y la vivienda como derechos, posicionando la gestión provincial como un dique ante las políticas de ajuste federal.",
+            "frase_fuerte": "Inauguramos el nuevo Centro Universitario de Puentes de Arrecifes, algo que tiene mucho valor en un contexto en el que Milei quiere abandonar las universidades y cortar con la motosierra los sueños de los pibes y pibas que quieren estudiar."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Promocion de la Ciudad",
+                "Infraestructura Vial",
+                "Formula 1"
+            ],
+            "postura_politica": "Enfocado en la proyección internacional y el desarrollo de infraestructura de alto perfil para la Ciudad. Su gestion es autonoma y busca potenciar la Ciudad de Buenos Aires como centro de eventos de magnitud.",
+            "frase_fuerte": "Un paso mas para que el sueño de la Formula 1 en la Ciudad sea una realidad."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Servicios Basicos",
+                "Gasoducto",
+                "Calidad de Vida"
+            ],
+            "postura_politica": "Su gestion se centra en politicas sociales y de servicios, resaltando el impacto directo en la calidad de vida de los ciudadanos. Enfatiza el cumplimiento de las promesas de obras publicas basicas.",
+            "frase_fuerte": "Maria Luisa y Yolanda esperaron toda su vida para tener gas en sus casas. Hoy, despues de tantos años, por fin pueden disfrutar de algo que para muchos es normal, pero que para ellas parecia imposible."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Cordoba)",
+            "temas_mencionados": [
+                "Desarrollo Economico",
+                "Exportaciones",
+                "Visita Papal"
+            ],
+            "postura_politica": "Fuerte enfasis en la capacidad productiva y exportadora de la provincia, buscando posicionar a Cordoba como motor economico. Gestiona la promocion de eventos religiosos de gran magnitud como la visita papal, aprovechando su impacto cultural y turistico.",
+            "frase_fuerte": "CORDOBA PRODUCE, INNOVA Y SALE AL MUNDO"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Federalismo Hidrico",
+                "Defensa Judicial de Recursos Naturales",
+                "Rio Atuel"
+            ],
+            "postura_politica": "Defensa firme de la soberania provincial sobre los recursos hidricos, utilizando la via judicial como herramienta de reclamo ante disputas interprovinciales. Su discurso es de persistencia y no abandono de las convicciones.",
+            "frase_fuerte": "La Corte Suprema de Justicia reactivo la causa del Rio Atuel. La defensa de lo que nos corresponde no se abandona ni se detiene. El Atuel tambien es pampeano!"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Nombramientos de Gabinete",
+                "Infraestructura Vial",
+                "Programas para Jovenes"
+            ],
+            "postura_politica": "Enfoque en la renovacion de equipos de gobierno y la continuidad de obras estrategicas de infraestructura. Promueve politicas de juventud como un espacio de expresion y crecimiento, invirtiendo en el capital humano provincial.",
+            "frase_fuerte": "El talento de nuestra juventud es una de las mayores riquezas que tiene La Rioja."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Educacion",
+                "Memoria y Valores",
+                "Industria Forestal"
+            ],
+            "postura_politica": "Impulso a la educacion con un enfoque en la memoria, el respeto y los valores, a traves de acuerdos culturales. Apoya la produccion local, como la industria maderera, como pilar de la identidad y el desarrollo economico de la provincia.",
+            "frase_fuerte": "Educar tambien es transmitir memoria, respeto y valores, es ayudar a nuestros jovenes a construir una sociedad mejor."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquen)",
+            "temas_mencionados": [
+                "Infraestructura Urbana",
+                "Conectividad Vial",
+                "Vivienda Social"
+            ],
+            "postura_politica": "Proactivo en el desarrollo de obras publicas y soluciones habitacionales. Busca mejorar la calidad de vida urbana y la conectividad vial, enfatizando el crecimiento y la planificacion a largo plazo para la provincia.",
+            "frase_fuerte": "LA CIUDAD QUE MAS CRECE"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Turismo",
+                "Educacion e Inteligencia Artificial"
+            ],
+            "postura_politica": "Enfoque en politicas sociales como vivienda y educacion, con un fuerte enfasis en la innovacion tecnologica aplicada a la educacion. Demuestra una gestion cercana a los municipios y una promocion activa del turismo como generador de empleo.",
+            "frase_fuerte": "Que enorme alegria compartida !!!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Derechos Laborales Municipales",
+                "Igualdad"
+            ],
+            "postura_politica": "Defensor de la equidad en los derechos laborales dentro de la provincia, enfatizando la no discriminacion de los trabajadores municipales, marcando una agenda de justicia social a nivel local.",
+            "frase_fuerte": "LOS DERECHOS DE LOS MUNICIPALES NO PUEDEN DEPENDER DEL CODIGO POSTAL. EN SANTA CRUZ NO HAY TRABAJADORES MUNICIPALES DE PRIMERA Y DE SEGUNDA"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Educacion Publica",
+                "Seguridad",
+                "Apoyo a la Industria"
+            ],
+            "postura_politica": "Enfocado en la mejora de la infraestructura educativa y la lucha contra el crimen organizado. Se presenta como un defensor del sector industrial provincial, buscando proteger y fomentar su desarrollo.",
+            "frase_fuerte": "Todavia tenemos mucho por hacer para tener la calidad educativa que nos merecemos en nuestra provincia. Pero cada paso que damos en tener escuelas dignas y en las condiciones que correspondan es mejor calidad para alumnos y docentes."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Obra Publica"
+            ],
+            "postura_politica": "Destaca la continuidad y el avance de obras viales estrategicas. Proyecta una imagen de progreso en infraestructura, con un enfasis en la coordinacion provincial para el desarrollo.",
+            "frase_fuerte": "Autovia Ruta Nacional 9: la Provincia destaca la continuidad de la obra con un importante avance de ejecucion"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucuman)",
+            "temas_mencionados": [
+                "Prevencion de Inundaciones",
+                "Deporte",
+                "Saneamiento Urbano"
+            ],
+            "postura_politica": "Activa en la gestion de obras de prevencion de desastres naturales y mejora de servicios basicos de saneamiento. Impulsa el deporte como motor de desarrollo y turismo, trabajando en conjunto con instituciones y municipios.",
+            "frase_fuerte": "Sabemos lo que vivieron las familias de La Madrid con las inundaciones. Por eso, desde la Provincia seguimos trabajando para reducir el riesgo de nuevos desbordes y proteger sus hogares."
+        }
+    ]
+}
