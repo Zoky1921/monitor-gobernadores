@@ -1,0 +1,149 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada de gestión con fuerte impronta federal. Los gobernadores evitan el enfrentamiento directo con Nación y se concentran en obras, vivienda y educación, marcando autonomía. Aparecen reclamos de equidad en subsidios (Córdoba) y defensa de recursos (La Rioja). El foco está en la visita papal como evento unificador.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal entre Nación y provincias se manifiesta de forma oblicua. Mientras Llaryora (Córdoba) reclama por la eliminación del impuesto a los combustibles y la desigual distribución de subsidios al transporte, Quintela (La Rioja) denuncia el ajuste nacional y la judicialización de sus políticas tarifarias. Ambos evitan una confrontación directa con la Casa Rosada, pero marcan posición: no aceptarán pasivamente el desfinanciamiento. La visita del Papa León XIV funciona como paraguas simbólico que permite a los gobernadores mostrar gestión y unidad sin necesidad de alinearse con el Gobierno nacional.\n\nActo 2 — Los Alineamientos: Se consolida un bloque de gobernadores que priorizan la gestión local sobre la disputa nacional. Pullaro (Santa Fe), Figueroa (Neuquén) y Cornejo (Mendoza) muestran una agenda de obras e inversiones, con énfasis en seguridad vial, vivienda y desarrollo productivo. Son socios tácitos de Nación en tanto no la critican abiertamente, pero tampoco la defienden. En la vereda opuesta, Quintela (La Rioja) y, en menor medida, Llaryora, representan la resistencia peronista al ajuste, aunque con matices: Córdoba reclama desde una posición de eficiencia fiscal, La Rioja desde la necesidad. Los gobernadores de provincias periféricas (Chaco, Misiones, San Luis, Santa Cruz) se refugian en la gestión de cabotaje, evitando cualquier pronunciamiento sobre la macroeconomía.\n\nActo 3 — La Micro-política: Zdero (Chaco) muestra gestión en salud y obra pública, pero sin mencionar a Nación, un silencio que delata la ausencia de recursos federales. Passalacqua (Misiones) apuesta a la conectividad aérea y la cultura, mientras Poggi (San Luis) se enfoca en una intensa agenda de vivienda y escrituración, un clásico de la política localista. Vidal (Santa Cruz) también se centra en vivienda y derechos laborales, con un discurso de ruptura con el pasado kirchnerista. Todos ellos compiten por captar la atención en sus distritos, sin meterse en la grieta nacional. La excepción es el reclamo de Llaryora por los subsidios al transporte, un issue que puede escalar si más gobernadores se suman.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el balance es mixto. Por un lado, la ausencia de críticas masivas y la concentración en gestión provincial le quita presión. Por otro, los reclamos puntuales de Córdoba y La Rioja siembran dudas sobre la sostenibilidad del ajuste. La visita papal, bien capitalizada por varios gobernadores, le ofrece al Gobierno nacional un respiro mediático y un marco de unidad, pero no resuelve las tensiones de fondo. El oficialismo deberá monitorear si la agenda de vivienda y obras que muestran los gobernadores es realmente autofinanciada o si esconden una crítica al recorte de transferencias.",
+    "temas_calientes": [
+        {
+            "tema": "Reclamo por subsidios al transporte y combustibles (Córdoba)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Defensa de recursos provinciales y crítica al ajuste (La Rioja)",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Gestión de vivienda y obra pública (Chaco, San Luis, Santa Cruz)",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Desarrollo productivo e infraestructura (Neuquén, Mendoza, Santa Fe)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@alfredocornejo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Visita papal como evento unificador (Córdoba, La Rioja, Misiones)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "El impuesto nacional a los combustibles deriva en una injusticia que perjudica directamente a los cordobeses. Si se quitara, podríamos tener un boleto un 35% más barato en #Córdoba. Hoy ese impuesto existe y debería volver en forma de transporte e infraestructura vial, pero no sucede. Los subsidios deben ser para todos, no solo para el AMBA, así se garantiza igualdad. Argentina necesita ser un país federal, más justo. #HacerParaCrecer",
+        "por_que_es_clave": "Llaryora pone el dedo en la llaga de la inequidad fiscal entre AMBA e interior, un reclamo histórico que resuena en otras provincias y desafía el discurso de ajuste parejo del Gobierno nacional.",
+        "pregunta_openarg": "¿Cuánto dinero dejaría de recaudar Nación si elimina el impuesto a los combustibles y cómo impactaría eso en la coparticipación?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud",
+                "Gestión de emergencias",
+                "Educación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Muestra gestión en salud y respuesta a inundaciones, pero omite cualquier mención a Nación, sugiriendo autosuficiencia o desencanto.",
+            "frase_fuerte": "Chaco pionero: el Hospital Perrando ya cuenta con el único angiógrafo instalado en un hospital público del NEA, incorporando tecnología de punta a la salud provincial."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Subsidios al transporte",
+                "Impuesto a los combustibles",
+                "Visita papal",
+                "Promoción industrial"
+            ],
+            "postura_politica": "Crítica velada a Nación por inequidad fiscal, pero sin romper el diálogo. Se posiciona como gestor eficiente y defensor de los intereses cordobeses, buscando rédito político en la agenda federal.",
+            "frase_fuerte": "Los subsidios deben ser para todos, no solo para el AMBA, así se garantiza igualdad. Argentina necesita ser un país federal, más justo."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Defensa de recursos provinciales",
+                "Crítica al ajuste",
+                "Energías renovables",
+                "Gestión municipal",
+                "Deportes"
+            ],
+            "postura_politica": "Oposición directa al Gobierno nacional, denunciando judicialización y ajuste. Se alinea con el peronismo opositor y busca construir bloque federal de resistencia.",
+            "frase_fuerte": "La alianza del ajuste nacional entre la Secretaria de Energía de la Nación y CAMMESA, cuentan ahora con un nuevo actor, la Corte Suprema de Justicia de la Nación que, a través de una demanda judicial amañada buscan poner en duda la constitucionalidad de un Decreto de la Función Ejecutiva Provincial, que decidió no trasladar los excesivos costos de los cuadros tarifarios impuestos por la nación a los usuarios de la provincia."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Obra pública",
+                "Espacios verdes",
+                "Gestión cultural"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en inauguraciones y puesta en valor del patrimonio, evitando cualquier roce con Nación. Es un perfil técnico y de gestión.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Fiestas populares",
+                "Cultura",
+                "Conectividad aérea",
+                "Educación"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Prioriza la promoción turística y cultural, con un discurso de arraigo y comunidad. No hay mención a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura deportiva",
+                "Obra vial",
+                "Alivio fiscal"
+            ],
+            "postura_politica": "Agenda de gestión con perfil técnico. Muestra resultados en vivienda y obra pública, destacando la planificación provincial. No hay crítica ni apoyo explícito a Nación; es un socio silencioso.",
+            "frase_fuerte": "Mientras en la nación vemos cómo unos y otros se pelean y destratan, en Neuquén trabajamos en equipo y eso es lo que nos permite lograr que nuevas generaciones de neuquinos tengan su casa propia."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Regularización dominial",
+                "Educación",
+                "Turismo"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Intensa actividad de entrega de viviendas y escrituras, típica de gestión de cercanía. Evita por completo la agenda nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Derechos laborales",
+                "Deportes",
+                "Educación"
+            ],
+            "postura_politica": "Agenda local con un guiño de ruptura con el pasado kirchnerista. Se enfoca en gestión y críticas a la herencia recibida, sin mencionar al Gobierno nacional actual.",
+            "frase_fuerte": "Los derechos de los trabajadores se defienden con hechos"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Seguridad",
+                "Obras viales",
+                "Deportes"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Muestra gestión en seguridad y obra pública, destacando el orden y la eficiencia. No hay mención a Nación; es un actor que se mantiene en su territorio.",
+            "frase_fuerte": null
+        }
+    ]
+}
