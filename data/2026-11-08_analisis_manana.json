@@ -1,0 +1,109 @@
+{
+    "clima_general": "MIXTO",
+    "resumen_ejecutivo": "La agenda federal de hoy, 8 de noviembre de 2026, revela un marcado enfoque en la gestión provincial y la articulación de discursos estratégicos. Gobernadores como Axel Kicillof (Buenos Aires) y Sergio Ziliotto (La Pampa) destacan la cooperación regional en turismo, mientras que Jorge Macri (Ciudad Autónoma de Buenos Aires) se centra en la preparación de la visita papal. Acciones de impacto social y seguridad, como la entrega de viviendas por Ignacio Torres (Chubut) y la lucha contra el narcotráfico, conviven con el impulso económico de la minería en Santa Cruz, enfatizado por Claudio Vidal. El arribo del Papa León XIV es capitalizado por Sergio Ziliotto (La Pampa) para promover un mensaje de 'comunidad y justicia social', delineando así posturas ideológicas en un escenario político de gestión y posicionamiento.",
+    "analisis_profundo": "La jornada federal de hoy, 8 de noviembre de 2026, muestra una diversidad de enfoques entre los gobernadores cuyas publicaciones cumplen con el estricto filtro temporal. Predomina una agenda centrada en la gestión local y el posicionamiento estratégico frente a eventos nacionales o necesidades provinciales. Ignacio Torres (Chubut) se destaca con una fuerte impronta social al reportar la entrega de viviendas a familias damnificadas por incendios en Epuyén, lo que resalta el rol del Estado provincial en la reconstrucción y el apoyo directo a sus ciudadanos. Adicionalmente, su mención sobre un “golpe histórico al narcotráfico” en un tweet de última hora de ayer, subraya una priorización de la seguridad y la protección de la juventud chubutense. Claudio Vidal (Santa Cruz) enfoca su comunicación en el desarrollo económico, celebrando el crecimiento de la minería y asegurando que “el trabajo queda acá”, una declaración clave sobre la retención de valor y empleo dentro de la provincia, fundamental en el debate sobre federalismo productivo. En el ámbito de la cooperación, Axel Kicillof (Buenos Aires) y Sergio Ziliotto (La Pampa) firman un convenio conjunto de promoción turística, mostrando una articulación regional para potenciar sectores económicos compartidos. La visita del Papa León XIV a Argentina es un punto de convergencia. Jorge Macri (Ciudad Autónoma de Buenos Aires) se limita a informar sobre la preparación de la ciudad para el evento, adoptando un tono institucional y logístico. Por contraste, Sergio Ziliotto (La Pampa) utiliza la llegada del Santo Padre para lanzar un mensaje con una carga política y social significativa, invitando a “no naturalizar el individualismo ni la crueldad, sino a recuperar el más profundo sentido de comunidad y justicia social”. Esta retórica busca alinear su gestión con valores humanitarios y críticos del modelo imperante, en una sutil pero clara toma de posición ideológica. Finalmente, Rolando Figueroa (Neuquén) enfoca sus mensajes en la gestión municipal y la política habitacional 'Neuquén Habita', así como en la interacción con jóvenes para delinear el futuro de la provincia, enfatizando la colaboración y la participación en la construcción del 'Modelo Neuquino'. El clima político general se percibe mixto; aunque no hay confrontaciones directas con el gobierno nacional en los tweets analizados, persisten mensajes que delinean visiones contrapuestas y reafirman la autonomía provincial frente a concepciones más centralistas.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión social y reconstrucción post-desastre",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Seguridad pública y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Desarrollo económico regional y empleo local (minería)",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Cooperación interprovincial y promoción turística",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Posicionamiento político y uso de eventos nacionales (visita papal)",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@jorgemacri"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio",
+        "texto": "BIENVENIDO LEÓN XIV A LA ARGENTINA El Santo Padre llega a nuestra tierra dando continuidad al legado de Francisco, bajo un mensaje que expresa el amor y la alegría de un Pueblo que se renueva en la fe. Como hijo de San Agustín, nos invita a no naturalizar el individualismo ni la crueldad, sino a recuperar el más profundo sentido de comunidad y justicia social. Cristianos o no, mujeres y hombres de buena voluntad, humildes y despojados: todos somos necesarios y protagonistas del florecimiento de una “magnífica humanidad”. Hagamos de su mensaje un pilar de la Argentina que queremos construir y caminemos juntos hacia una Patria fraterna sin exclusiones. ¡Gracias por su visita! Vivamos con alegría estos días históricos para nuestro país.",
+        "por_que_es_clave": "El gobernador (La Pampa) capitaliza la llegada del Papa León XIV para articular un mensaje político que va más allá del protocolo. Lo utiliza para contrastar el 'individualismo' con la 'comunidad y justicia social', posicionando su gestión y visión dentro del debate federal actual con una fuerte carga ideológica y valórica.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Cooperación interprovincial",
+                "Turismo regional"
+            ],
+            "postura_politica": "Enfocado en la colaboración regional para impulsar sectores económicos clave. Su acción demuestra una gestión orientada a la búsqueda de sinergias provinciales y el beneficio mutuo a través de acuerdos de promoción turística.",
+            "frase_fuerte": "La Provincia firmó con las autoridades de Turismo de La Pampa un convenio conjunto de promoción turística, que consolida el acuerdo sellado por los gobernadores @Kicillofok y @ZiliottoSergio."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Eventos institucionales",
+                "Preparación urbana"
+            ],
+            "postura_politica": "Orientado a la gestión logística y protocolar de un evento de gran envergadura como la visita papal. Su mensaje se concentra en la capacidad organizativa de la capital federal, manteniendo un tono formal e institucional.",
+            "frase_fuerte": "La Ciudad preparada para recibir a León XIV 🇻🇦🇦🇷"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Reconstrucción post-incendios",
+                "Vivienda social",
+                "Seguridad pública",
+                "Lucha contra el narcotráfico"
+            ],
+            "postura_politica": "Prioriza la recuperación social y el fortalecimiento de la seguridad. Demuestra un Estado provincial activo en la provisión de soluciones habitacionales y la lucha contundente contra el crimen organizado, enfatizando el impacto directo en la vida de los ciudadanos.",
+            "frase_fuerte": "Porque cada kilo de droga que sacamos de la calle es droga que no llega a nuestros chicos."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Visita papal",
+                "Justicia social",
+                "Comunidad",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Aprovecha un evento de relevancia nacional para comunicar una visión política profunda, abogando por la justicia social y la comunidad frente al individualismo. Su discurso es estratégico para posicionar su modelo de gestión y valores en el debate federal, a la par que promueve la cooperación regional.",
+            "frase_fuerte": "nos invita a no naturalizar el individualismo ni la crueldad, sino a recuperar el más profundo sentido de comunidad y justicia social."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Gestión municipal",
+                "Vivienda social",
+                "Política juvenil",
+                "Federalismo"
+            ],
+            "postura_politica": "Enfatiza la importancia del trabajo coordinado con los municipios y la implementación de políticas habitacionales y de desarrollo juvenil. Su discurso se centra en la construcción de un 'Modelo Neuquino' basado en la participación, oportunidades y la defensa de lo propio.",
+            "frase_fuerte": "El Modelo Neuquino se construye entre todos, con participación, oportunidades y una provincia que defiende lo propio y mira hacia adelante."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Economía provincial",
+                "Minería",
+                "Empleo local"
+            ],
+            "postura_politica": "Defiende la importancia de la minería como motor económico de Santa Cruz. Su gestión busca garantizar que el crecimiento de esta actividad se traduzca en beneficios directos y empleo genuino para los habitantes de la provincia.",
+            "frase_fuerte": "LA MINERÍA CRECE EN SANTA CRUZ Y AHORA EL TRABAJO QUEDA ACÁ"
+        }
+    ]
+}
