@@ -1,0 +1,181 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "Jornada de gestión local y preparativos para la visita papal. Axel Kicillof refuerza vínculos comerciales con China, mientras Nacho Torres capitaliza un golpe al narcotráfico. La mayoría de los gobernadores se enfoca en obras provinciales y vivienda, evitando confrontar abiertamente con la Nación. La visita del Papa emerge como tema unificador, aunque sin coordinación explícita.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada carece de un enfrentamiento fiscal directo con la Casa Rosada. El silencio sobre la coparticipación y el ajuste sugiere una tregua tácita, o bien un repliegue táctico de los gobernadores para evitar desgaste. Kicillof, al promocionar su agenda china, marca distancia de la economía nacional: busca inversiones alternativas que no dependan del centro. Torres, con su golpe al narco, demuestra capacidad de gestión en seguridad, un área que la Nación reclama como propia.\n\nActo 2 — Los Alineamientos: Los gobernadores peronistas (Kicillof, Quintela) se posicionan en la vereda del 'Estado presente', contrastando con el discurso de ajuste de Milei. Figueroa (Neuquén) destaca por su autonomía financiera y calificación crediticia, un guiño a los mercados que la Nación busca. Los radicales (Valdés, Cornejo) se mantienen en un perfil bajo de gestión provincial, evitando roces. Llaryora y Pullaro, del peronismo federal, combinan obras locales con una retórica de 'hacer para crecer', sin atacar a Nación.\n\nActo 3 — La Micro-política: La mayoría de los gobernadores de provincias periféricas (Poggi, Zdero, Passalacqua, Suarez) se refugian en la agenda de cabotaje: viviendas, rutas, fiestas populares. Es un gesto de supervivencia política: mostrar gestión en un contexto de recursos escasos. La visita del Papa es aprovechada por Suarez para ganar visibilidad, mientras que Llaryora la capitaliza en Córdoba. No se detecta una coordinación paraguas entre provincias del Norte Grande o la Región Centro.\n\nActo 4 — Saldo Presidencial: Para Milei, la jornada es neutra. No hay embestidas directas ni críticas abiertas, salvo el silencio elocuente de Kicillof y Quintela sobre la macroeconomía. La visita papal desvía la atención del conflicto social, pero no resuelve las tensiones de fondo. El mayor riesgo para la Casa Rosada es la creciente autonomía de provincias que, como Buenos Aires y Chubut, construyen narrativas de gestión propias, erosionando el relato de ajuste nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Obras e infraestructura provincial financiadas con recursos propios",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Lucha contra el narcotráfico y seguridad",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Visita del Papa León XIV y preparativos",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Comercio internacional y atracción de inversiones externas",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Gestión de vivienda y regularización dominical",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH",
+        "texto": "UN GOLPE HISTÓRICO AL NARCOTRÁFICO\n\nCon el secuestro de más de 11 kilos de cocaína en Arroyo Verde, la Policía del Chubut ya lleva incautados 100 kilos en lo que va del año. \n\nSon más de $10.000 millones que no van a terminar en manos de las bandas narco, gracias al trabajo de nuestras fuerzas de seguridad.\n\nY vamos a seguir fortaleciendo los controles, con más tecnología, videovigilancia y un anillo digital para monitorear todos los accesos a Chubut.\n\nPorque cada kilo de droga que sacamos de la calle es droga que no llega a nuestros chicos.",
+        "por_que_es_clave": "Torres muestra resultados concretos en seguridad, un tema central de la agenda nacional, sin mencionar a Nación. Se posiciona como un gobernador eficaz en un área que Milei quiere capitalizar.",
+        "pregunta_openarg": "¿Puede la lucha contra el narcotráfico ser una bandera de autonomía provincial frente al relato nacional de 'orden'?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Comercio internacional",
+                "Inversiones chinas",
+                "Misiones comerciales"
+            ],
+            "postura_politica": "Kicillof despliega una diplomacia económica paralela a la Nación, mostrando que su provincia puede buscar inversiones por sí misma. Es un dardo contra el centralismo porteño y la parálisis económica de Milei.",
+            "frase_fuerte": "De Buenos Aires al mundo 🌎"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Tecnología hospitalaria"
+            ],
+            "postura_politica": "Agenda local de gestión: Zdero se enfoca en un logro sanitario concreto, evitando cualquier referencia a la Nación. Es un mensaje de eficiencia provincial en un contexto de ajuste.",
+            "frase_fuerte": "Chaco pionero: el Hospital Perrando ya cuenta con el único angiógrafo instalado en un hospital público del NEA"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Narcotráfico",
+                "Seguridad",
+                "Incautaciones"
+            ],
+            "postura_politica": "Torres se apunta un tanto en seguridad, un tema sensible para la opinión pública. Omite mencionar a la Nación, sugiriendo que la provincia puede lidiar sola con el narco.",
+            "frase_fuerte": "Son más de $10.000 millones que no van a terminar en manos de las bandas narco"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Deporte",
+                "Infraestructura social"
+            ],
+            "postura_politica": "Llaryora muestra gestión en territorio con un polideportivo, reforzando la idea de un Estado provincial presente. Sin alusiones nacionales, se posiciona como hacedor.",
+            "frase_fuerte": "Cuando Provincia, Municipio y vecinos trabajamos juntos, las cosas pasan."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Género",
+                "Mujeres",
+                "Participación política"
+            ],
+            "postura_politica": "Quintela utiliza un evento de mujeres para reforzar su perfil progresista y de construcción colectiva, en contraste con el discurso individualista de Milei.",
+            "frase_fuerte": "Qué importante el trabajo de las mujeres en la construcción de la Argentina que necesitamos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Aniversario parque",
+                "Obras viales",
+                "Espacio público"
+            ],
+            "postura_politica": "Cornejo celebra una obra local con un tono apolítico, evitando confrontación. Es gestión pura, sin señales de conflicto con Nación.",
+            "frase_fuerte": "Celebrar estos 130 años también es proyectar el futuro"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Fiesta de la yerba mate",
+                "Cultura",
+                "Identidad"
+            ],
+            "postura_politica": "Passalacqua se refugia en el folclore provincial, sin tocar temas fiscales. Es un gesto de apatía federal: no hay conflicto ni alianza.",
+            "frase_fuerte": "La Fiesta Nacional e Internacional de la Yerba Mate es mucho más que una celebración"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Lotes con servicios",
+                "Juventud",
+                "Alivio fiscal"
+            ],
+            "postura_politica": "Figueroa despliega una batería de anuncios que refuerzan la autonomía neuquina: vivienda, créditos, mejora crediticia. Es un mensaje de que su provincia no necesita a la Nación para crecer.",
+            "frase_fuerte": "Mientras en la nación vemos cómo unos y otros se pelean y destratan, en Neuquén trabajamos en equipo"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Escrituración",
+                "Educación",
+                "Turismo"
+            ],
+            "postura_politica": "Poggi se muestra hiperactivo en gestión local, con múltiples entregas de viviendas y regularización. Es un gobernador que trabaja en el territorio, sin conflictos con Nación.",
+            "frase_fuerte": "La vivienda volvió a la Pcia y volvió para quedarse !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Condolencias",
+                "Fallecimiento"
+            ],
+            "postura_politica": "Vidal solo emite una condolencia, lo que indica que no hay agenda política relevante hoy. Es un gesto protocolar sin peso federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Club deportivo",
+                "Escrituras",
+                "Vivienda"
+            ],
+            "postura_politica": "Pullaro se enfoca en gestión de cercanía: clubes y escrituras. Su tono es positivo y local, evitando roces con Nación.",
+            "frase_fuerte": "Después de tanto esfuerzo para pagar su casa, hoy tienen la seguridad de que es suya"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Rosario artesanal",
+                "Evento religioso"
+            ],
+            "postura_politica": "Suarez aprovecha la visita papal para ganar visibilidad nacional, regalando un rosario. Es un gesto simbólico de unidad, pero sin contenido político confrontativo.",
+            "frase_fuerte": "Santiago del Estero le regalará al Papa León XIV un rosario artesanal que honra a Mama Antula"
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Matriz productiva",
+                "Industria",
+                "Diversificación"
+            ],
+            "postura_politica": "Melella defiende la industria fueguina y la necesidad de diversificar sin abandonarla. Es un posicionamiento en defensa del empleo local, crítico implícito de las políticas de apertura.",
+            "frase_fuerte": "Ningún país se desarrolla resignando su capacidad de producir y de generar empleo."
+        }
+    ]
+}
