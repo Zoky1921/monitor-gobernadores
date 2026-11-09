@@ -1,0 +1,290 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La visita del Papa León XIV domina la agenda de los gobernadores, quienes utilizan su mensaje de unidad y economía al servicio de las personas para posicionarse frente al ajuste nacional. Mientras unos refuerzan su crítica al Gobierno, otros optan por la gestión local o la adhesión protocolar, revelando una fragmentación calculada.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La llegada del Papa León XIV a Argentina no es un mero evento religioso; es un campo de batalla simbólico. Su discurso, que pone la economía al servicio de las personas, resuena como un misil contra la narrativa de ajuste de la Casa Rosada. Los gobernadores, lejos de limitarse a dar la bienvenida, se apropian de sus palabras para legitimar sus propias gestiones y, en muchos casos, para marcar distancia con el Gobierno nacional. La tensión no es explícita, pero se filtra en cada tuit que omite mencionar a Milei o que, por el contrario, lo hace para contrastar.\n\nActo 2 — Los Alineamientos: Se dibujan tres bloques. El primero, el de la oposición explícita: Axel Kicillof (Buenos Aires) y Ricardo Quintela (La Rioja) usan al Papa para denunciar el ajuste y la 'motosierra' de Milei. Kicillof, con su visita al Cottolengo, subraya que la provincia cuida a los vulnerables mientras Nación abandona. Quintela, más crudo, vincula al Gobierno con una 'asociación ilícita internacional'. El segundo bloque, el de la ambigüedad calculada: gobernadores como Raúl Jalil (Catamarca), Martín Llaryora (Córdoba) y Alfredo Cornejo (Mendoza) se alinean con el mensaje papal de diálogo y federalismo, pero evitan confrontar directamente. Buscan capitalizar la visita sin romper con Nación. El tercer bloque, el del silencio estratégico: Ignacio Torres (Chubut) y Rolando Figueroa (Neuquén) no mencionan al Papa ni a la política nacional; se refugian en la gestión local, sugiriendo que la disputa federal no les conviene o que su prioridad es otra.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas aprovechan la visita para promocionar sus identidades. Hugo Passalacqua (Misiones) destaca la yerba mate y la biodiversidad; Claudio Poggi (San Luis) entrega viviendas y vincula la educación con la IA. Claudio Vidal (Santa Cruz) usa el mensaje papal para reforzar su narrativa de lucha contra la corrupción kirchnerista. Son gestos de supervivencia política: muestran gestión en un contexto de ajuste, mientras evitan mojarse sobre la macroeconomía.\n\nActo 4 — Saldo Presidencial: Para Javier Milei, la visita papal es un arma de doble filo. Si bien la Casa Rosada organizó la recepción, el mensaje del Papa contradice su programa económico. Los gobernadores que se apropian de ese mensaje erosionan su capital político, al presentarlo como insensible. Sin embargo, la fragmentación de los mandatarios impide una oposición unificada. El saldo es de desgaste controlado: el Gobierno no sangra, pero tampoco suma.",
+    "temas_calientes": [
+        {
+            "tema": "Visita del Papa León XIV y su mensaje de economía al servicio de las personas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@carlossadirjuy",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@gustavomelella",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Crítica al ajuste nacional y defensa de la obra pública provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@GustavoSaenzOK"
+            ]
+        },
+        {
+            "tema": "Gestión local y obras de infraestructura sin referencia nacional",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Minería y desarrollo productivo como eje de gestión",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@carlossadirjuy",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Unidad y diálogo federal como respuesta a la polarización",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@MartinLlaryora",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Es una alegría enorme recibir a León XIV en el Pequeño Cottolengo Don Orione, un lugar donde el legado de solidaridad de Francisco y el sentir de nuestra gente están más vivos que nunca. Como dijo el Papa, el progreso de una Nación también se mide por su acompañamiento a las personas con discapacidad. En nuestra provincia, la dignidad y la integración son una prioridad. Muchas gracias por traernos un mensaje de inclusión, por invitarnos a dejar de lado el egoísmo. ¡Le damos una vez más la bienvenida a nuestra provincia!",
+        "por_que_es_clave": "Kicillof utiliza la visita papal para contrastar su gestión provincial con el ajuste nacional, sugiriendo que mientras Nación abandona a los vulnerables, Buenos Aires los protege. Es un golpe político envuelto en un saludo protocolar.",
+        "pregunta_openarg": "¿Hasta qué punto la visita del Papa León XIV servirá como catalizador para una oposición coordinada de los gobernadores contra el ajuste de Milei?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Discapacidad",
+                "Crítica al ajuste nacional",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Oposición frontal al Gobierno nacional. Usa al Papa para legitimar su modelo de Estado presente y denunciar el ajuste de Milei. Cada tuit es un dardo a la Casa Rosada.",
+            "frase_fuerte": "En nuestra provincia, la dignidad y la integración son una prioridad."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Organización del evento",
+                "Unidad"
+            ],
+            "postura_politica": "Posicionamiento institucional. Se adjudica el éxito de la organización de la misa en Palermo, mostrando capacidad de gestión. Evita confrontar con Nación, pero refuerza su liderazgo local.",
+            "frase_fuerte": "Más de 2 millones de personas se congregaron hoy en la Ciudad para recibir al Papa Leon XIV, en una jornada histórica para Argentina."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Federalismo",
+                "Minería",
+                "Diálogo"
+            ],
+            "postura_politica": "Ambivalencia calculada. Se alinea con el mensaje papal de unidad y economía al servicio de las personas, pero sin atacar a Milei. Aprovecha para promocionar el potencial minero de Catamarca y su rol en el desarrollo federal.",
+            "frase_fuerte": "Construir una Argentina verdaderamente federal también significa asumir el compromiso de trabajar juntos, con solidaridad y responsabilidad."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Gestión local",
+                "Deportes",
+                "Inundaciones"
+            ],
+            "postura_politica": "Agenda local con adhesión protocolar al Papa. No hay crítica ni apoyo explícito a Nación. Se refugia en la gestión de emergencias y obras, mostrando un perfil bajo.",
+            "frase_fuerte": "La visita del papa a la Argentina renovó la fe y la esperanza. Su lema lo dice todo: 'En Aquel que es uno, somos uno'."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Deportes",
+                "Vivienda",
+                "Gasoducto",
+                "Narcotráfico"
+            ],
+            "postura_politica": "Silencio estratégico sobre la visita papal y la política nacional. Se enfoca en logros de gestión provincial, sugiriendo que su prioridad es la administración local y no las disputas federales.",
+            "frase_fuerte": "En Chubut no hay jubilados de primera y de segunda."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Organización del evento",
+                "Unidad",
+                "Fe"
+            ],
+            "postura_politica": "Posicionamiento como anfitrión de la visita papal en Córdoba. Muestra capacidad de organización y liderazgo. Se alinea con el mensaje de diálogo, sin confrontar con Nación.",
+            "frase_fuerte": "Córdoba, corazón de un encuentro histórico."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Gestión fiscal",
+                "Inversiones",
+                "Puertos"
+            ],
+            "postura_politica": "Adhesión al Papa combinada con énfasis en el orden fiscal y la atracción de inversiones. Se presenta como un gestor eficiente, en sintonía con el mensaje papal pero sin criticar a Milei.",
+            "frase_fuerte": "El equilibrio fiscal no se negocia porque es la base para sostener este rumbo."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Minería",
+                "Litio",
+                "Inversiones"
+            ],
+            "postura_politica": "Utiliza la visita papal para reforzar su agenda minera. Se alinea con el mensaje de trabajo y desarrollo, pero evita posicionarse sobre el conflicto nacional.",
+            "frase_fuerte": "Jujuy es parte central del crecimiento del litio en Argentina."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Río Atuel",
+                "Presupuesto",
+                "Cooperativismo"
+            ],
+            "postura_politica": "Adhesión al Papa con un fuerte componente de defensa de los derechos provinciales (Atuel). Se muestra como un gobernador que lucha por su provincia, en sintonía con el mensaje de justicia social.",
+            "frase_fuerte": "La defensa de lo que nos corresponde no se abandona ni se detiene."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Crítica al Gobierno nacional",
+                "Justicia social",
+                "Energía"
+            ],
+            "postura_politica": "Oposición abierta y combativa. Utiliza la visita papal para denunciar a Milei y al 'ajuste salvaje'. Su tuit sobre la 'asociación ilícita internacional' es el más duro del día.",
+            "frase_fuerte": "Exijo de manera responsable a quienes representan a nuestras provincias en la Cámara de Diputados y en el Senado que evalúen la conducta de Milei."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Eficiencia del Estado",
+                "Minería",
+                "Inversiones"
+            ],
+            "postura_politica": "Moderación y gestión. Se alinea con el mensaje papal de encuentro, pero su énfasis está en la eficiencia y la reforma fiscal. Evita la confrontación directa.",
+            "frase_fuerte": "La Argentina necesita una reforma que contemple cambios en la estructura tributaria y la coparticipación federal."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Identidad misionera",
+                "Yerba mate",
+                "Deportes"
+            ],
+            "postura_politica": "Agenda local con fuerte contenido identitario. Usa la visita papal para promocionar la cultura y el turismo de Misiones. Sin posicionamiento nacional.",
+            "frase_fuerte": "Bienvenido a la Argentina, Su Santidad el Papa León XIV. Su llegada es motivo de profunda alegría y esperanza para todos los argentinos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Infraestructura",
+                "Gasoducto",
+                "Gestión local"
+            ],
+            "postura_politica": "Silencio total sobre la visita papal y la política nacional. Se enfoca en anuncios de obras y viviendas, mostrando una gestión orientada al desarrollo provincial sin interferencias federales.",
+            "frase_fuerte": "Mientras en la nación vemos cómo unos y otros se pelean y destratan, en Neuquén trabajamos en equipo."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Subsidios al transporte",
+                "Federalismo",
+                "Minería"
+            ],
+            "postura_politica": "Crítica velada al Gobierno nacional por la desigualdad en los subsidios al transporte. Usa la visita papal para reforzar su reclamo de federalismo, pero sin romper el diálogo.",
+            "frase_fuerte": "No se puede hablar de equilibrio fiscal y federalismo cuando se beneficia a unos y se perjudica a otros."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Vivienda",
+                "Educación",
+                "Seguridad"
+            ],
+            "postura_politica": "Adhesión protocolar al Papa, combinada con una intensa agenda de gestión local (entrega de viviendas, alarmas). Se muestra como un gobernador ejecutivo, sin meterse en la grieta.",
+            "frase_fuerte": "Un claro mensaje del PAPA LEÓN XIV a las Autoridades Institucionales... la unidad nacional, cuidar a la familia, promover la educación."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Trabajo",
+                "Corrupción",
+                "Petróleo"
+            ],
+            "postura_politica": "Utiliza la visita papal para reforzar su narrativa de lucha contra la corrupción kirchnerista y promoción del trabajo. Se alinea con el mensaje de esperanza, pero con un fuerte sesgo anti-kirchnerista.",
+            "frase_fuerte": "Las palabras del Papa me emocionaron profundamente... gobernar implica escuchar, estar al lado de la gente."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Seguridad",
+                "Infraestructura",
+                "Unidad"
+            ],
+            "postura_politica": "Adhesión al mensaje papal de unidad y economía al servicio de las personas. Combina con su agenda de seguridad y obras, mostrando una gestión integral. Evita confrontar con Nación.",
+            "frase_fuerte": "Habló de unidad nacional, de pensar en los más vulnerables y de una economía al servicio de la gente."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Desarrollo productivo",
+                "Educación",
+                "Fe"
+            ],
+            "postura_politica": "Adhesión protocolar y promoción de la identidad santiagueña. Entrega un rosario al Papa. Su agenda de desarrollo se presenta como continuidad del mensaje papal, sin roces con Nación.",
+            "frase_fuerte": "El Santo Padre llegó a la patria donde el papa Francisco comenzó su historia."
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Industria",
+                "Unidad",
+                "Malvinas"
+            ],
+            "postura_politica": "Adhesión al mensaje de unidad, pero con un fuerte énfasis en la defensa de la industria fueguina y la soberanía. Crítica implícita a quienes quieren desmantelar el sector industrial.",
+            "frase_fuerte": "Diversificar nuestra matriz productiva es construir sobre esas capacidades, no renunciar a lo que nos costó décadas conseguir."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Visita del Papa",
+                "Obras públicas",
+                "Salud",
+                "Seguridad"
+            ],
+            "postura_politica": "Adhesión al Papa y a su llamado al diálogo. Su agenda está dominada por obras y gestión local, mostrando un perfil de gobernador ejecutor, sin confrontación nacional.",
+            "frase_fuerte": "Coincido con su llamado a poner la economía al servicio de las personas."
+        }
+    ]
+}
