@@ -1,0 +1,197 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de repliegue estratégico tras la visita papal. Los gobernadores evitan confrontación con Nación y se refugian en la gestión local, mostrando obras y eventos provinciales. No hay señales de disputa fiscal ni alineamientos explícitos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La visita del Papa León XIV monopolizó la agenda de los últimos días, pero hoy los gobernadores vuelven a sus rutinas de gestión sin mencionar a la Casa Rosada. El silencio sobre la macroeconomía y la coparticipación es ensordecedor: no hay reclamos ni apoyos, solo un repliegue calculado hacia la agenda de cabotaje. La ausencia de tensión fiscal sugiere que las provincias esperan el desenlace de las negociaciones presupuestarias sin exponerse.\n\nActo 2 — Los Alineamientos: No se observan alianzas explícitas. Los gobernadores peronistas (Kicillof, Jalil, Quintela) y los radicales (Cornejo, Valdés) no cruzan espadas. El único gesto colectivo son los retuits de Raúl Jalil a mensajes de otros mandatarios, mostrando una coordinación blanda. Los gobernadores de provincias centrales (Buenos Aires, Córdoba, Santa Fe) se centran en obras locales, evitando cualquier roce con Nación.\n\nActo 3 — La Micro-política: En provincias periféricas, la gestión de cabotaje es la norma. Claudio Vidal (Santa Cruz) combina anuncios de seguridad con un discurso duro contra la Justicia, buscando capital político local. Nacho Torres (Chubut) impulsa acuerdos legislativos transversales, mostrando capacidad de construcción política. Claudio Poggi (San Luis) y Leandro Zdero (Chaco) se enfocan en viviendas y hospitales, sin salir del libreto local.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable: ningún gobernador le exige recursos ni lo critica. El silencio es un respiro, pero también una advertencia: las provincias están a la espera, listas para reclamar cuando la asfixia fiscal apriete. El capital político de Milei se mantiene estable, pero frágil.",
+    "temas_calientes": [
+        {
+            "tema": "Balance de la visita papal y agradecimientos",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@QuintelaRicardo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Obra pública e infraestructura provincial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el delito",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Deportes y eventos internacionales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Vivienda y acceso a la tierra",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Gracias por el trabajo incansable y el esfuerzo de los miles de voluntarios, bomberos, fuerzas de seguridad, personal de salud y de Defensa Civil que participaron del operativo para asistir y cuidar al Papa y a todos los que asistieron a la Misa en Luján.\n\n¡La Provincia de Buenos Aires estuvo a la altura gracias a todos ustedes!",
+        "por_que_es_clave": "Kicillof aprovecha el agradecimiento para marcar que la Provincia de Buenos Aires fue capaz de organizar un evento masivo sin ayuda de Nación, reivindicando su capacidad de gestión en un contexto de ajuste federal.",
+        "pregunta_openarg": "¿Puede la Provincia de Buenos Aires sostener este nivel de autonomía operativa sin el respaldo financiero de la Casa Rosada?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Visita papal",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Agradece a los equipos provinciales, pero el subtexto es claro: la Provincia demostró capacidad propia, sin depender de Nación. Un mensaje de autonomía y eficiencia.",
+            "frase_fuerte": "¡La Provincia de Buenos Aires estuvo a la altura gracias a todos ustedes!"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Visita papal",
+                "Deportes"
+            ],
+            "postura_politica": "Se limita a retuitear a otros gobernadores, sin contenido propio. Muestra alineamiento con el discurso federal pero sin tomar la iniciativa. Es un actor pasivo en la jornada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud",
+                "Infraestructura hospitalaria"
+            ],
+            "postura_politica": "Anuncia obras de hospitales en localidades pequeñas. Es gestión pura, sin carga política. Busca mostrar presencia estatal en el interior provincial.",
+            "frase_fuerte": "Abrimos las puertas del hospital completamente renovado para las familias de Cote Lai."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Deportes",
+                "Puertos",
+                "Vivienda"
+            ],
+            "postura_politica": "Combina anuncios de infraestructura deportiva con un proyecto de ley para administraciones portuarias, destacando la construcción de acuerdos legislativos. Muestra capacidad de gestión y diálogo político.",
+            "frase_fuerte": "En un país donde muchas veces la política se pierde en discusiones y enfrentamientos, nosotros elegimos otro camino: construir acuerdos."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Rally Mundial",
+                "Salud"
+            ],
+            "postura_politica": "Anuncia el regreso del Rally Mundial a Córdoba en 2028, un logro de gestión que posiciona a la provincia como sede de eventos internacionales. También entrega ambulancias. Es un mensaje de dinamismo y autonomía.",
+            "frase_fuerte": "Córdoba volverá a ser sede del Campeonato Mundial de Rally de la FIA en 2028."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Efeméride histórica",
+                "Energía renovable"
+            ],
+            "postura_politica": "Homenajea al Chacho Peñaloza, reivindicando el federalismo y la lucha contra el centralismo. También inaugura un parque fotovoltaico. Combina ideología con gestión.",
+            "frase_fuerte": "Honrar al Chacho es mantener vivas nuestras banderas y no renunciar jamás a la defensa de La Rioja y del federalismo."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Cultura",
+                "Agua potable"
+            ],
+            "postura_politica": "Presenta el Bono Cultural Misionero y supervisa obras de agua. Es gestión local sin confrontación. Busca fortalecer la identidad cultural provincial.",
+            "frase_fuerte": "La cultura misionera mueve a miles de personas, sostiene nuestras tradiciones y es parte de lo que somos."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Educación",
+                "Gas",
+                "Deportes",
+                "Vivienda",
+                "Relaciones internacionales",
+                "Salud",
+                "Alivio fiscal"
+            ],
+            "postura_politica": "Despliega una batería de anuncios en múltiples áreas, mostrando una gestión intensa y resultados. Destaca el alivio fiscal para cumplidores y la atracción de inversiones. Es un mensaje de eficiencia y orden.",
+            "frase_fuerte": "Mientras en la nación vemos cómo unos y otros se pelean y destratan, en Neuquén trabajamos en equipo."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Salud",
+                "Infraestructura",
+                "Vivienda",
+                "Capacitación"
+            ],
+            "postura_politica": "Anuncia avances en hospitales, rutas, y programas sociales. Repite el lema 'Río Negro tiene rumbo'. Es gestión pura, sin referencias a Nación.",
+            "frase_fuerte": "Sabemos que falta, pero tenemos rumbo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Pavimento",
+                "Regularización dominial"
+            ],
+            "postura_politica": "Se enfoca en la construcción de viviendas y obras urbanas. Es gestión local sin contenido político federal. Busca mostrar reactivación de la obra pública.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia",
+                "Tradición",
+                "Minería",
+                "Educación",
+                "Deportes",
+                "Vivienda"
+            ],
+            "postura_politica": "Combina un discurso duro contra la delincuencia y la Justicia con anuncios de inversión en seguridad. También reivindica tradiciones y muestra gestión en múltiples áreas. Es un perfil de mano dura y gestión.",
+            "frase_fuerte": "A los jueces les exijo que cumplan con su responsabilidad. Y si tienen miedo de tomar las decisiones que les corresponden, que renuncien."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Educación",
+                "Salud",
+                "Seguridad",
+                "Vivienda",
+                "Industria"
+            ],
+            "postura_politica": "Inaugura un jardín de infantes, entrega ambulancias, y refuerza el discurso de seguridad. También participa en la UIA. Es gestión con perfil productivo y de orden.",
+            "frase_fuerte": "En Santa Fe logramos contener el delito y la violencia, pero las organizaciones criminales siguen vivas y activas."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Producción",
+                "Deportes",
+                "Infraestructura",
+                "Salud",
+                "Seguridad"
+            ],
+            "postura_politica": "Aborda múltiples temas: tabaco, rugby, obras de saneamiento, policía. Muestra una gestión abarcativa y cercana a los municipios. Sin confrontación con Nación.",
+            "frase_fuerte": "La unidad nacional se construye cuando asumimos la responsabilidad de trabajar juntos para dar respuestas a nuestra gente."
+        }
+    ]
+}
