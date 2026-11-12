@@ -1,0 +1,107 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La agenda federal de las últimas horas se centró en la reflexión post-visita papal y en la gestión provincial activa. Gobernadores como Axel Kicillof (Buenos Aires), Raúl Jalil (Catamarca) —quien amplificó mensajes de Sergio Ziliotto (La Pampa), Osvaldo Jaldo (Tucumán) y Gerardo Zamora (Santiago del Estero)— destacaron el mensaje de unidad y justicia social de León XIV. En paralelo, la gestión territorial cobró relevancia: Leandro Zdero (Chaco) inauguró un nuevo hospital, Maximiliano Pullaro (Santa Fe) reforzó la salud pública con ambulancias, Ignacio Torres (Chubut) avanzó en el desarrollo portuario y Rolando Figueroa (Neuquén) celebró logros deportivos, todo en un tono mayormente constructivo y de reafirmación del rol estatal.",
+    "analisis_profundo": "La actividad política de los gobernadores en las últimas horas se caracterizó por una dualidad entre la reflexión sobre el mensaje de la visita papal y la concreción de acciones de gestión provincial. El eco de las palabras de León XIV, centradas en la unidad, el diálogo y una economía al servicio de las personas, fue un eje transversal para varios mandatarios.\n\nAxel Kicillof (Buenos Aires) se enfocó en la eficiencia del operativo de seguridad y salud durante la misa en Luján, proyectando una imagen de capacidad estatal. Raúl Jalil (Catamarca), a través de retweets de sus pares Sergio Ziliotto (La Pampa), Osvaldo Jaldo (Tucumán) y Gerardo Zamora (Santiago del Estero), amplificó la importancia del mensaje papal, haciendo hincapié en la construcción de una 'Patria justa, fraterna y solidaria', con un Estado relevante para ese fin. Ziliotto (La Pampa) fue particularmente explícito en su alineamiento con estos principios, destacando la dignidad del trabajo y el rol ordenador del Estado. Osvaldo Jaldo (Tucumán), en su mensaje retuiteado, también sumó la promoción del deporte como una vía para el encuentro y el desarrollo. Este conjunto de pronunciamientos sugiere una búsqueda de consenso y una reafirmación de valores sociales frente a los desafíos económicos.\n\nEn el ámbito de la gestión, Leandro Zdero (Chaco) concretó la inauguración de un hospital, evidenciando una inversión directa en salud pública y desarrollo local. Ignacio Torres (Chubut) presentó un proyecto de ley para la creación de administraciones portuarias, promoviendo la inversión privada y la cooperación legislativa como herramientas para la competitividad. Su énfasis en 'dejar las diferencias de lado' resalta la búsqueda de consensos para el progreso provincial. Rolando Figueroa (Neuquén) celebró el triunfo en los Juegos Binacionales de la ParaAraucanía, utilizando el deporte adaptado como un símbolo de inclusión y superación. Maximiliano Pullaro (Santa Fe), a través de un retweet, comunicó la adquisición de ambulancias, subrayando el fortalecimiento de la salud pública con gestión transparente.\n\nAunque no se observan tensiones interprovinciales directas, la constante referencia al 'contexto económico difícil' en varios mensajes indica una preocupación subyacente sobre el impacto de la política nacional en las finanzas y la capacidad de gestión de las provincias. La tónica general es de un federalismo activo, donde los gobernadores se posicionan como gestores y defensores de sus intereses locales, ya sea a través de obras, acuerdos o la promoción de valores de unidad.",
+    "temas_calientes": [
+        {
+            "tema": "Reflexión Post-Visita Papal y Mensajes de Unidad",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@ZiliottoSergio",
+                "@GZamoraSDE"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Salud Pública e Infraestructura Hospitalaria",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo Regional y Logístico",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Promoción del Deporte e Inclusión",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@RaulJalil_ok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@LeandroZdero",
+        "texto": "En los 121 años de Cote Lai, junto a su gente, abrimos las puertas del nuevo hospital. 👏🏼🏥",
+        "por_que_es_clave": "Es el único tweet políticamente relevante publicado hoy (12/11/2026), marcando una acción concreta de gestión provincial en infraestructura de salud en una localidad específica, destacando el compromiso directo del gobernador con el desarrollo local.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Gestión de grandes eventos",
+                "Seguridad",
+                "Salud pública"
+            ],
+            "postura_politica": "Resalta la capacidad y eficacia de la provincia para manejar operativos complejos, consolidando la imagen de un Estado presente y eficiente en la asistencia y el cuidado de la ciudadanía.",
+            "frase_fuerte": "¡La Provincia de Buenos Aires estuvo a la altura gracias a todos ustedes!"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Mensaje papal (unidad, justicia social, rol del Estado)",
+                "Deporte",
+                "Desarrollo regional",
+                "Fe y esperanza"
+            ],
+            "postura_politica": "Se alinea con los valores de unidad, justicia social y la importancia de un Estado presente, amplificando mensajes de confraternidad y apoyo a iniciativas que dinamicen su provincia, como eventos deportivos y reflexiones espirituales.",
+            "frase_fuerte": "Su estadía en la Argentina nos deja un mensaje que trasciende lo religioso y nos interpela como sociedad: construir una Patria más justa, fraterna, solidaria y con oportunidades para todos."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Infraestructura hospitalaria",
+                "Desarrollo local"
+            ],
+            "postura_politica": "Demuestra un compromiso con la mejora de los servicios esenciales y el desarrollo de comunidades, resaltando la concreción de obras vitales como la inauguración de un nuevo hospital.",
+            "frase_fuerte": "En los 121 años de Cote Lai, junto a su gente, abrimos las puertas del nuevo hospital."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Desarrollo portuario",
+                "Inversión privada",
+                "Acuerdos legislativos",
+                "Política provincial"
+            ],
+            "postura_politica": "Impulsa una agenda de desarrollo basada en la cooperación interpartidaria y la atracción de inversiones, priorizando los intereses provinciales sobre las divisiones políticas y buscando la competitividad.",
+            "frase_fuerte": "Porque gobernar también significa tener la madurez de dejar las diferencias de lado y poner siempre los intereses de Chubut por encima de cualquier bandera política."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Deporte adaptado",
+                "Inclusión social",
+                "Orgullo provincial"
+            ],
+            "postura_politica": "Celebra los logros en el deporte inclusivo, enfatizando el esfuerzo de los atletas y el compromiso provincial con la generación de oportunidades y la erradicación de límites para la integración.",
+            "frase_fuerte": "Este logro es fruto del esfuerzo de nuestros atletas y del acompañamiento a un deporte adaptado que genera oportunidades, fortalece la inclusión y demuestra que cuando se trabaja con compromiso no hay límites."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Equipamiento sanitario",
+                "Gestión eficiente"
+            ],
+            "postura_politica": "Destaca la inversión en infraestructura de salud y la administración transparente de los recursos, reafirmando el compromiso con una atención de calidad para los santafesinos.",
+            "frase_fuerte": "¡103 nuevas ambulancias para seguir fortaleciendo la salud pública en Santa Fe!"
+        }
+    ]
+}
