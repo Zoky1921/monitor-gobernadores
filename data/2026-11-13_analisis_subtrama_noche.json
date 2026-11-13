@@ -1,0 +1,185 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada exhibe un contraste nítido: mientras Ricardo Quintela (La Rioja) dispara contra la Casa Rosada con datos de inflación que contradicen el relato oficial, el resto de los mandatarios provinciales opta por un repliegue táctico hacia la gestión local, evitando cualquier roce con Nación. La agenda federal queda huérfana de apoyos explícitos, pero también de confrontación abierta, salvo el riojano.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión dominante del día la impone Quintela al publicar el índice de inflación de octubre (2,2% mensual, 33,1% interanual) y contrastarlo con la proyección oficial del Presupuesto 2026 (10,1% anual). El gobernador riojano no solo exhibe el incumplimiento de la meta, sino que lo enmarca en una crítica a la asfixia fiscal sobre las provincias y el ajuste selectivo que golpea a jubilados y universidades. Es el único que planta bandera de batalla, y lo hace con números fríos, sin estridencias.\n\nActo 2 — Los Alineamientos: No hay alineamientos visibles. Los gobernadores de peso (Llaryora, Figueroa, Weretilneck) se refugian en la obra pública y la gestión sectorial. Llaryora apuesta a la tecnología y al rally mundial; Figueroa a la educación técnica y el gas; Weretilneck al presupuesto provincial y la minería. Nadie secunda a Quintela, pero tampoco lo contradicen. El silencio de los mandatarios peronistas y aliados es elocuente: prefieren no exponerse en una pulseada que aún no tiene ganador claro. El cálculo detrás de esta omisión es que el desgaste de la Casa Rosada por la inflación los beneficia a mediano plazo, sin necesidad de desgastarse ellos.\n\nActo 3 — La Micro-política: En las provincias periféricas, el foco está en la gestión de cabotaje. Torres (Chubut) inaugura un polideportivo y promociona viviendas; Passalacqua (Misiones) entrega agua potable y bonos culturales; Poggi (San Luis) anuncia viviendas y acuerdos municipales; Suarez (Santiago del Estero) celebra un premio internacional de ballet. Todos evitan mencionar a Nación, incluso cuando el contexto nacional es adverso. Es un refugio en la agenda local que, según la metodología, puede leerse como una estrategia de supervivencia: mostrar que la provincia funciona pese a la falta de recursos nacionales.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es ambivalente. Por un lado, la ausencia de una escalada de reclamos fiscales coordinados le da respiro. Por otro, la solitaria pero punzante crítica de Quintela, respaldada por datos del INDEC, perfora el relato de desinflación. El resto de los gobernadores no le hace el juego al oficialismo, pero tampoco se suma al coro opositor. El saldo es un empate técnico: el gobierno nacional no pierde capital político de manera catastrófica, pero tampoco logra adhesiones que fortalezcan su narrativa.",
+    "temas_calientes": [
+        {
+            "tema": "Critica economica directa al gobierno nacional por inflacion y ajuste",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Gestion provincial autonoma en obra publica y servicios",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotrafico",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo energetico y minero",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Educacion tecnica y formacion juvenil",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@OsvaldoJaldo",
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Salió el dato de octubre: 2,2%. Las consultoras esperaban 1,8% y en el Gobierno ya hablaban de perforar el 2% como si fuera un trámite. No pasó. En lo que va del año, la inflación acumula 26,3%. El Presupuesto que mandaron Milei y el ministro Caputo decía 10,1% para todo 2026. Faltan dos meses y ya lo pasamos más de dos veces y media. La interanual dio 33,1%. En octubre del año pasado era 31,3%. O sea, doce meses después no estamos mejor. ¿Qué fue lo que más subió? Luz, gas, agua y vivienda: 4,2% en un solo mes. A quien vive en zona fría le recortaron parte del subsidio, y se enteró cuando le llegó la boleta. En el Noroeste, el número del mes fue del 1,7%, medio punto por debajo del promedio nacional. Pero hay que mirar el año entero. La región, que incluye a La Rioja, ya acumula 26,7%, más que el promedio del país. Y lo que más empujó fue la comida: verduras, papa, pan y cereales. Me acuerdo de Caputo prometiendo que para mitad de este año íbamos a estar por debajo del 1% mensual. Es noviembre.",
+        "por_que_es_clave": "Quintela no solo confronta con datos duros, sino que expone la brecha entre el relato oficial y la realidad regional. Al focalizar en el impacto sobre las provincias del NOA y en tarifas, legitima su reclamo federal y coloca a la Casa Rosada en una posición defensiva. Es un misil teledirigido contra el ministro de Economía.",
+        "pregunta_openarg": "¿Cuánto capital político le queda al Gobierno nacional para sostener el ajuste cuando la inflación regional supera el promedio y la promesa de perforar el 2% se desvanece?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "obra publica",
+                "viviendas",
+                "deporte",
+                "seguridad",
+                "energia"
+            ],
+            "postura_politica": "Refuerza su perfil de gestor provincial con foco en infraestructura y desarrollo local. Sin menciones a Nación, marca autonomía y capacidad de ejecución propia.",
+            "frase_fuerte": "Sabemos lo que significa para quienes viven en el interior contar con rutas seguras y en condiciones. Por eso, decidimos hacernos cargo de obras que estuvieron postergadas durante décadas."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "obra publica",
+                "tecnologia",
+                "rally mundial",
+                "salud",
+                "aniversario"
+            ],
+            "postura_politica": "Apuesta a la agenda de modernización y eventos internacionales como motor de desarrollo. Evita cualquier roce con Nación y consolida su liderazgo local.",
+            "frase_fuerte": "Estoy convencido de que no se puede discutir con el progreso, porque el progreso es un tren que avanza."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "patrimonio historico",
+                "transparencia"
+            ],
+            "postura_politica": "Se posiciona en la recuperación de la memoria federal y la lucha contra la corrupción. No toca temas fiscales ni nacionales.",
+            "frase_fuerte": "Recuperarlo es una decisión que tomamos y que estamos llevando adelante, con la convicción de que Entre Ríos tiene que volver a estar a la altura de su historia."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "niñez",
+                "salud",
+                "mineria"
+            ],
+            "postura_politica": "Firma convenio con UNICEF y mantiene perfil de gestión social y productiva. Sin conflicto con Nación.",
+            "frase_fuerte": "Firmamos con @GobiernoJujuy su adhesión al 'Compromiso por la Niñez y la Adolescencia'."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "inflacion",
+                "critica al gobierno nacional",
+                "energia renovable",
+                "cultura"
+            ],
+            "postura_politica": "Único gobernador que confronta abiertamente con el gobierno nacional. Utiliza datos oficiales para desmentir el relato oficial y reclamar por el ajuste.",
+            "frase_fuerte": "Me acuerdo de Caputo prometiendo que para mitad de este año íbamos a estar por debajo del 1% mensual. Es noviembre."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "solidaridad",
+                "agua potable",
+                "cultura"
+            ],
+            "postura_politica": "Gestión local de bajo perfil, sin confrontación. Se enfoca en obras de infraestructura básica y cohesión comunitaria.",
+            "frase_fuerte": "Cuanto mayor sea la dificultad, más unidos tenemos que estar."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "educacion tecnica",
+                "viviendas",
+                "seguridad",
+                "energia",
+                "empleo"
+            ],
+            "postura_politica": "Despliega una intensa agenda de gestión provincial destacando logros en empleo y obras. Sin mención a Nación, refuerza la idea de un Neuquén autónomo y pujante.",
+            "frase_fuerte": "Neuquén en unos años va a ser otra. Queremos que estén ahí, siendo protagonistas."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "presupuesto provincial",
+                "mineria",
+                "seguridad",
+                "salud",
+                "obras"
+            ],
+            "postura_politica": "Presenta el presupuesto 2027 con equilibrio fiscal y sin deuda. Marca perfil de gestión ordenada y previsible, sin roces con Nación.",
+            "frase_fuerte": "Sabemos que falta, pero tenemos rumbo."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "viviendas",
+                "acuerdos municipales",
+                "reconocimientos"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en gestión municipalista y obras públicas.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "mineria",
+                "salud",
+                "seguridad",
+                "tradicion"
+            ],
+            "postura_politica": "Crítica a la Justicia por seguridad, pero sin mencionar a Nación. Defiende la reactivación minera como motor provincial.",
+            "frase_fuerte": "SE TERMINARON LOS TIEMPOS EN LOS QUE LOS DELINCUENTES HACÍAN LO QUE QUERÍAN EN SANTA CRUZ."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "cultura",
+                "educacion rural"
+            ],
+            "postura_politica": "Agenda cultural y educativa de bajo perfil. Sin confrontación ni alineamiento nacional.",
+            "frase_fuerte": "Para Santiago del Estero es un orgullo contar con artistas que llevan nuestra cultura a escenarios de todo el mundo."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "educacion tecnica",
+                "seguridad",
+                "agua",
+                "tabaco",
+                "deporte"
+            ],
+            "postura_politica": "Gestión provincial intensa en múltiples áreas. No menciona a Nación, pero sí reclama por recursos para el tabaco (Fondo Especial) de manera indirecta.",
+            "frase_fuerte": "La unidad nacional se construye cuando asumimos la responsabilidad de trabajar juntos para dar respuestas a nuestra gente."
+        }
+    ]
+}
