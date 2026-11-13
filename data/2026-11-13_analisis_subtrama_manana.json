@@ -1,0 +1,116 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "La jornada muestra un repliegue de los gobernadores hacia la gestión local, evitando posicionamientos sobre la macroeconomía o la relación con Nación. Las obras públicas, la tecnología y el deporte dominan la agenda, sin señales de conflicto fiscal o político.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La ausencia de menciones a la coparticipación, la deuda provincial o los recursos estratégicos en los tweets recientes revela una tregua tácita. Los gobernadores de provincias centrales como Buenos Aires, Córdoba y Neuquén optaron por mostrar gestión propia, sin confrontar con la Casa Rosada. El silencio sobre el ajuste nacional es, en sí mismo, un mensaje de supervivencia política: no hay capital para una pelea abierta cuando la opinión pública está saturada de la visita papal y la inflación.\n\nActo 2 — Los Alineamientos: Los pocos gobernadores que tuiteron hoy se alinean en una estrategia de 'refugio en la agenda de cabotaje'. Kicillofok (Buenos Aires) promociona la participación bonaerense en la feria de Shanghái, un gesto de autonomía comercial. Llaryora (Córdoba) apuesta a la tecnología como vector de desarrollo, sin mencionar a Nación. Figueroa (Neuquén) y Weretilneck (Río Negro) se enfocan en deporte y juventud, mientras Poggi (San Luis) y Jaldo (Tucumán) inauguran obras de infraestructura básica. No hay socios ni parias; todos juegan a la baja.\n\nActo 3 — La Micro-política: Las provincias periféricas como San Luis y Tucumán refuerzan su perfil de gestión local con anuncios de viviendas, pavimento y agua potable. Poggi, con una batería de tuits sobre obras en Villa Mercedes y San Luis, busca capitalizar la cercanía con el votante. Jaldo, con la perforación de un pozo en León Rougés, muestra presencia territorial. Son gestos de supervivencia en un contexto de recursos escasos, donde la obra pública provincial se convierte en el único termómetro de gestión.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, esta jornada de silencio es una victoria pírrica. La ausencia de críticas directas no implica adhesión, sino un cálculo de costos. Los gobernadores esperan el momento oportuno para reclamar, mientras acumulan capital político local. El presidente Milei puede respirar aliviado por un día sin fuego cruzado, pero sabe que la tregua es frágil y que el invierno fiscal aún no terminó.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión local y obras públicas como refugio político",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Tecnología e innovación como agenda de futuro provincial",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Deporte y juventud como herramientas de integración",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Internacionalización económica provincial sin respaldo nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Silencio estratégico sobre la macroeconomía y el ajuste",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @BAProvincia)",
+        "texto": "🤝 Un balance más que positivo para las empresas bonaerenses que cerraron su participación en la exposición de negocios más importante de China. Nuevos contactos, operaciones comerciales en marcha y un horizonte de posibilidades para aprovechar nuestro enorme potencial productivo y planificar una agenda de futuro. 📍 China International Import Expo (CIIE), Shanghai.",
+        "por_que_es_clave": "Kicillofok utiliza la feria de Shanghái para marcar autonomía en la política comercial provincial, mostrando que Buenos Aires puede generar vínculos internacionales sin esperar a la Nación. Es un mensaje sutil de capacidad de gestión propia en un contexto de restricciones fiscales.",
+        "pregunta_openarg": "¿Pueden las provincias sostener una agenda de internacionalización económica sin el respaldo financiero y diplomático del Gobierno nacional, o es una ilusión de autonomía en tiempos de ajuste?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Comercio internacional",
+                "Misiones comerciales",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Promociona la participación bonaerense en China como un éxito de gestión provincial, sin mencionar a Nación. Es un gesto de autonomía y capacidad de gestión en un área clave, pero evita cualquier confrontación directa.",
+            "frase_fuerte": "Un balance más que positivo para las empresas bonaerenses que cerraron su participación en la exposición de negocios más importante de China."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Tecnología",
+                "Inteligencia artificial",
+                "Innovación",
+                "Futuro del trabajo"
+            ],
+            "postura_politica": "Se posiciona como un gobernador moderno y progresista, enfocado en la economía del conocimiento. No hay referencia a Nación, lo que sugiere que Córdoba construye su propio camino de desarrollo, al margen de las disputas centrales.",
+            "frase_fuerte": "El futuro es tecnológico, pero tiene que ser humano."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Educación",
+                "Juventud",
+                "Formación laboral",
+                "Deporte"
+            ],
+            "postura_politica": "Apuesta a la formación de las nuevas generaciones como eje de gestión, evitando temas fiscales o energéticos. Es un perfil bajo que busca capitalizar el crecimiento de Vaca Muerta sin generar roces con Nación.",
+            "frase_fuerte": "Las nuevas generaciones tienen que ser mejores que nosotros."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Deporte",
+                "Juventud",
+                "Eventos provinciales"
+            ],
+            "postura_politica": "Anuncia la final provincial de los Juegos Rionegrinos, un evento de integración. Sin contenido político federal, es pura gestión local y promoción del deporte como herramienta social.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obra pública",
+                "Infraestructura",
+                "Educación",
+                "Salud"
+            ],
+            "postura_politica": "Despliega una batería de anuncios de obras y viviendas en distintas localidades, mostrando una gestión activa y cercana. No hay mención a Nación, lo que refuerza la idea de que San Luis se maneja con recursos propios y prioriza la agenda local.",
+            "frase_fuerte": "La VIVIENDA volvió a San Luis y volvió para quedarse !!"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Agua potable",
+                "Infraestructura hídrica",
+                "Obras públicas"
+            ],
+            "postura_politica": "Inaugura un pozo de agua en una localidad pequeña, destacando la mejora para miles de familias. Es un gesto de presencia estatal en el interior, sin connotaciones políticas nacionales.",
+            "frase_fuerte": "Cuando llega el verano, contar con agua potable todos los días hace una gran diferencia en la vida de las familias."
+        }
+    ]
+}

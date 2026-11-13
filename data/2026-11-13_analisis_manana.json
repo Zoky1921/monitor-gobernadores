@@ -1,0 +1,118 @@
+{
+    "clima_general": "NORMAL",
+    "resumen_ejecutivo": "Los gobernadores se centraron en la gestión provincial y local, abarcando una agenda diversa que incluye la modernización de la infraestructura de salud y servicios esenciales, el impulso al comercio exterior, la inversión en tecnología y formación educativa. Martín Llaryora (Córdoba) destacó la adaptación a la inteligencia artificial, mientras que Axel Kicillof (Buenos Aires) reportó éxitos en la exposición China International Import Expo. Claudio Poggi (San Luis) anunció acuerdos municipales, mejoras en salud y capacitación en IA. Rolando Figueroa (Neuquén) se enfocó en el desarrollo juvenil y la política energética, Alberto Weretilneck (Río Negro) en el fomento del deporte para jóvenes, y Osvaldo Jaldo (Tucumán) en la infraestructura hídrica. La jornada transcurrió sin tensiones interprovinciales o con el gobierno federal, evidenciando un enfoque proactivo en las necesidades locales.",
+    "analisis_profundo": "La agenda de los gobernadores en las últimas horas de ayer y el inicio de hoy revela una clara priorización de la gestión provincial y local. Martín Llaryora (Córdoba) asume un rol vanguardista al enfocar su discurso en la #CórdobaTechWeek 2026, donde plantea la imperativa integración de la inteligencia artificial en el ámbito productivo, estatal y educativo, subrayando la necesidad de un debate global para asegurar que la tecnología sirva a las personas. Este posicionamiento estratégico busca cimentar la competitividad de Córdoba en la economía del conocimiento. Axel Kicillof (Buenos Aires), por su parte, reporta un 'balance positivo' de la participación bonaerense en la exposición de China, reafirmando una estrategia de apertura de mercados y fomento del potencial productivo exportador. Claudio Poggi (San Luis) exhibe una intensa actividad de gestión, desde la mejora de centros de atención primaria de la salud en Villa Mercedes, el nombramiento de un nuevo Ministro de Turismo y Cultura, hasta la entrega de diplomas en Inteligencia Artificial a directivos y docentes, y la firma de acuerdos de obra pública municipal. Esta multiplicidad de acciones refleja un gobierno enfocado en la mejora integral de los servicios y la capacitación de su capital humano. Rolando Figueroa (Neuquén) enfatiza la importancia de preparar a 'las nuevas generaciones' para el futuro laboral y el desarrollo de la provincia, promoviendo herramientas y experiencias para los estudiantes. Además, destaca el avance en la provisión de gas a localidades alejadas. Alberto Weretilneck (Río Negro) promueve la integración juvenil a través de los Juegos Rionegrinos, subrayando el valor del deporte para el encuentro y la participación. Finalmente, Osvaldo Jaldo (Tucumán) aborda una necesidad básica como el agua potable, inaugurando un nuevo pozo en León Rougés para beneficiar a miles de familias. La recurrencia de temas como la inversión en infraestructura, la educación y el desarrollo económico propio, sumada a la ausencia de referencias a conflictos con el Gobierno nacional o entre provincias, sugiere una fase de consolidación interna y de adaptación a los desafíos locales sin aparente interferencia o fricción a nivel federal.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo Tecnológico e Innovación (IA)",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Infraestructura y Servicios Básicos",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Comercio Exterior y Desarrollo Productivo",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Educación y Formación para el Futuro",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Fomento del Deporte y la Juventud",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@Weretilneck"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@claudiojpoggi",
+        "texto": "Visité esta mañana el CAPs del Barrio Las Mirandas de la Ciudad de VILLA MERCEDES. Está muy deteriorado el edificio. Decidimos realizar una puesta en valor general y las ampliaciones necesarias. 👏👏para el personal del CAPs. Seguimos fortaleciendo la atención primaria de la salud.",
+        "por_que_es_clave": "Este tweet es clave porque, al ser el único publicado el día de hoy (13/11/2026), establece una prioridad en la agenda gubernamental de Claudio Poggi (San Luis): la mejora de la infraestructura de salud primaria. Refleja un compromiso directo con las necesidades básicas de la comunidad y la cercanía de la gestión con los ciudadanos, en un área sensible como la salud pública. Además, es un mensaje de acción concreta y no protocolaria.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Comercio Exterior",
+                "Desarrollo Productivo",
+                "Economía Internacional"
+            ],
+            "postura_politica": "Muestra una postura proactiva en la búsqueda de mercados internacionales para las empresas de la provincia de Buenos Aires, enfatizando los resultados positivos y el potencial de expansión productiva. Su enfoque es claro en la promoción económica externa.",
+            "frase_fuerte": "Un balance más que positivo para las empresas bonaerenses que cerraron su participación en la exposición de negocios más importante de China."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Innovación Tecnológica",
+                "Inteligencia Artificial",
+                "Educación",
+                "Desarrollo Humano",
+                "Competitividad Provincial"
+            ],
+            "postura_politica": "Adopta una visión estratégica y de liderazgo en la integración de nuevas tecnologías como la Inteligencia Artificial, posicionando a Córdoba como una provincia adaptada al futuro. Subraya la necesidad de un enfoque humano y regulatorio frente al avance tecnológico.",
+            "frase_fuerte": "El futuro es tecnológico, pero tiene que ser humano."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo Juvenil",
+                "Educación para el Trabajo",
+                "Mercado Laboral",
+                "Política Energética Local"
+            ],
+            "postura_politica": "Se enfoca en el empoderamiento y la capacitación de las nuevas generaciones de Neuquén para su inserción en el mercado laboral y para aprovechar el desarrollo provincial. También promueve soluciones energéticas locales para las comunidades.",
+            "frase_fuerte": "Las nuevas generaciones tienen que ser mejores que nosotros."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Deporte",
+                "Juventud",
+                "Integración Social",
+                "Educación"
+            ],
+            "postura_politica": "Prioriza el fomento del deporte y la creación de espacios de participación para la juventud de Río Negro, buscando la integración y el desarrollo de valores a través de estas actividades.",
+            "frase_fuerte": "Los Juegos son una oportunidad para que nuestros jóvenes compartan y se encuentren a través del deporte."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Salud Pública",
+                "Infraestructura",
+                "Gestión de Gobierno",
+                "Turismo",
+                "Cultura",
+                "Educación (IA)",
+                "Federalismo Interno"
+            ],
+            "postura_politica": "Muestra una gestión activa y con múltiples frentes, mejorando servicios públicos, fortaleciendo la articulación municipal y apostando a la capacitación en Inteligencia Artificial para el sistema educativo de San Luis. Su enfoque es el desarrollo local y la cercanía con los ciudadanos.",
+            "frase_fuerte": "Nueva Colación de 361 DIRECTIVOS y DOCENTES de nuestro sistema educativo de la DIPLOMATURA DE INTELIGENCIA ARTIFICIAL y ENSEÑANZA."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Servicios Básicos",
+                "Infraestructura Hídrica",
+                "Bienestar Social"
+            ],
+            "postura_politica": "Enfocado en la provisión de servicios esenciales, como el agua potable, para las comunidades de Tucumán. Su gestión se muestra atenta a las demandas básicas y a la mejora de la calidad de vida de la población en zonas rurales.",
+            "frase_fuerte": "Cuando llega el verano, contar con agua potable todos los días hace una gran diferencia en la vida de las familias."
+        }
+    ]
+}
