@@ -1,0 +1,95 @@
+{
+    "clima_general": "CALMO",
+    "resumen_ejecutivo": "Los gobernadores mantuvieron una agenda enfocada estrictamente en la gestión provincial y el impulso de obras locales. Leandro Zdero (Chaco) y Osvaldo Jaldo (Tucumán) resaltaron avances en infraestructura vial y pavimentación. Martín Llaryora (Córdoba) anunció una importante expansión en la oferta educativa universitaria en el interior. En la Patagonia, Rolando Figueroa (Neuquén) informó sobre la duplicación de una ruta clave y la promoción del sector energético, mientras que Alberto Weretilneck (Río Negro) definió nuevas obras para Choele Choel, incluyendo la recuperación de proyectos pendientes. La jornada reflejó un compromiso con el desarrollo territorial y la resolución de necesidades ciudadanas.",
+    "analisis_profundo": "La agenda de los gobernadores se concentró en el despliegue de políticas públicas de carácter local, priorizando el desarrollo de infraestructura y servicios esenciales para sus comunidades. Este enfoque pragmático domina la comunicación en un período donde las dinámicas nacionales parecen distantes de las preocupaciones diarias de las provincias. \n\nLeandro Zdero (Chaco) destacó la continuidad de obras viales en Fontana, Resistencia y la inauguración de pavimento en Coronel Du Graty. Su discurso enfatiza la colaboración entre niveles de gobierno subnacionales y la entrega de resultados concretos, consolidando una narrativa de cercanía y eficiencia en la gestión de obras fundamentales para la conectividad y calidad de vida. \n\nMartín Llaryora (Córdoba) se centró en la educación superior con el anuncio de una nueva sede de la Universidad Provincial en Laboulaye. Esta iniciativa busca democratizar el acceso universitario y fomentar el arraigo de los jóvenes en sus localidades, subrayando la importancia estratégica de la formación académica para el desarrollo regional. Su política de llevar la universidad 'de norte a sur y de este a oeste' muestra una clara visión de equidad territorial. \n\nEn el sur, Rolando Figueroa (Neuquén) reportó sobre la duplicación de la Ruta Provincial 67, una obra vital para la conectividad y el crecimiento del Parque Industrial. Adicionalmente, un retuit sobre una próxima entrevista lo posiciona como un actor clave en la discusión sobre las 'reglas de juego en Vaca Muerta' y la gestión del canon del agua, evidenciando su compromiso con la explotación responsable y competitiva de los recursos provinciales. \n\nAlberto Weretilneck (Río Negro) anunció un paquete de obras para Choele Choel, con énfasis en la recuperación de infraestructura vial como la avenida San Martín y una rotonda 'que Nación dejó abandonada', marcando una postura de autonomía provincial frente a las falencias federales. La planificación de un centro de salud y una ciudad judicial complementa su visión de fortalecimiento institucional y de servicios. \n\nFinalmente, Osvaldo Jaldo (Tucumán) inauguró la recuperación de la Ruta Provincial 323 en Leales, destacando el uso de 'recursos provinciales' y el 'esfuerzo del personal de Vialidad Provincial'. Su mensaje subraya la capacidad de gestión y la prioridad de la obra pública para su gobierno, reafirmando la autonomía provincial para atender las necesidades de sus habitantes en un contexto económico complejo. \n\nEn síntesis, los gobernadores comunican una agenda activa de gestión propia, invirtiendo en infraestructura y educación, y demostrando capacidad de respuesta a las demandas ciudadanas, lo que refleja un marcado provincialismo en sus prioridades actuales.",
+    "temas_calientes": [
+        {
+            "tema": "Impulso a la Obra Pública y Conectividad Vial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo y Acceso a la Educación Superior",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Gestión de Recursos Energéticos y Productivos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Autonomía Provincial y Financiamiento de Obras",
+            "gobernadores_involucrados": [
+                "@Weretilneck",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura vial",
+                "Conectividad"
+            ],
+            "postura_politica": "Enfatiza la continuidad de la gestión y el cumplimiento de compromisos mediante obras que mejoran la infraestructura y la calidad de vida. Destaca el trabajo conjunto con los municipios en el Chaco.",
+            "frase_fuerte": "¡Más obras que avanzan en Fontana y en la zona del aeropuerto de Resistencia! Seguimos recuperando espacios y mejorando la infraestructura del Chaco, con obras que ponen en valor sectores clave de las ciudades."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación superior",
+                "Desarrollo regional",
+                "Infraestructura educativa"
+            ],
+            "postura_politica": "Promueve la expansión de la educación universitaria hacia el interior de Córdoba para generar oportunidades y fomentar el arraigo de los jóvenes en sus comunidades.",
+            "frase_fuerte": "LEVANTAMOS BIEN ALTO LA BANDERA DE LA EDUCACIÓN."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Conectividad",
+                "Desarrollo energético",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Lidera la mejora de la conectividad vial de la capital neuquina y se posiciona como un promotor clave del desarrollo de Vaca Muerta, gestionando las condiciones para la explotación de recursos provinciales.",
+            "frase_fuerte": "DUPLICAMOS LA RUTA 67 PARA MEJORAR LA CONECTIVIDAD DE NEUQUÉN."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura vial",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Demuestra un fuerte compromiso con la ejecución de obras clave para Río Negro, incluso aquellas 'abandonadas' por el gobierno nacional, para fortalecer los servicios y la infraestructura provincial.",
+            "frase_fuerte": "MÁS OBRAS PARA CHOELE CHOEL Y EL VALLE MEDIO."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial",
+                "Conectividad rural"
+            ],
+            "postura_politica": "Resalta la importancia de la obra pública financiada con recursos provinciales para mejorar la calidad de vida y la conectividad, mostrando la capacidad de gestión de Tucumán en un contexto desafiante.",
+            "frase_fuerte": "La obra pública es una prioridad de nuestro Gobierno. Aun en un contexto difícil, seguimos invirtiendo con recursos provinciales para mejorar los caminos que unen a nuestras comunidades."
+        }
+    ]
+}

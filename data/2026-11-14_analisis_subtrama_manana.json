@@ -1,0 +1,68 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "La jornada post-visita papal muestra a los gobernadores mayormente replegados en la gestión local. Solo Rolando Figueroa (Neuquén) asoma con un posicionamiento sobre Vaca Muerta, mientras el resto prioriza obras provinciales sin roce federal.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La ausencia de disputas abiertas con Nación marca la tónica del día. El silencio de los mandatarios provinciales, especialmente los de peso como Kicillof o Pullaro, sugiere una tregua táctica o un repliegue estratégico tras la visita de León XIV. La única excepción es Figueroa, que mediante un retuiteo de una entrevista reintroduce el debate sobre las reglas de Vaca Muerta, recordando que la renta petrolera sigue siendo el principal campo de batalla fiscal.\n\nActo 2 — Los Alineamientos: Figueroa se posiciona como el defensor de la autonomía neuquina frente a las petroleras, en sintonía con otros gobernadores de provincias hidrocarburíferas. El resto de los gobernadores con actividad reciente (Zdero, Llaryora, Weretilneck, Jaldo) optan por una agenda de obras públicas locales, evitando cualquier declaración que pueda interpretarse como crítica o adhesión al gobierno nacional. Es un corrimiento calculado hacia la gestión de cabotaje.\n\nActo 3 — La Micro-política: Las inauguraciones de rutas, viviendas y escuelas en Chaco, Córdoba, Río Negro y Tucumán son el refugio habitual de los gobernadores en tiempos de baja tensión. Cada una de esas obras es, en sí misma, un mensaje de eficiencia provincial frente a la parálisis nacional. Sin embargo, al no mencionar a Nación, el mensaje se diluye en la rutina administrativa.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable en términos de ruido político: ningún gobernador salió a confrontar. Pero el silencio no es adhesión; es una pausa. La próxima discusión por el presupuesto o la coparticipación reavivará las tensiones. Figueroa, con su gesto, ya marca la cancha.",
+    "temas_calientes": [
+        {
+            "tema": "Vaca Muerta y regalías: Figueroa reivindica condiciones provinciales",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Rolo_Figueroa (RT de @ElFondodelPozo_)",
+        "texto": "🎥Nuevo episodio: @Rolo_Figueroa, gobernador de Neuquén.\n\n🛢️Las reglas de juego en Vaca Muerta, las condiciones que impuso la provincia a las petroleras. \n\n💧El canon del agua, ¿resta competitividad a las operadoras frente al Permian?\n\n🔔Estreno este domingo 15/11 a las 20 https://t.co/WcbQOKjaVq",
+        "por_que_es_clave": "Figueroa utiliza una entrevista para reafirmar su postura de dureza frente a las petroleras, enviando una señal a Nación y a los inversores sobre la autonomía provincial en la regulación de Vaca Muerta.",
+        "pregunta_openarg": "¿El canon del agua en Neuquén es una traba a la inversión o una herramienta legítima de las provincias para captar renta?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Pavimentación",
+                "Infraestructura hospitalaria"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se limita a mostrar gestión provincial en obras viales y de salud, sin referencias a Nación.",
+            "frase_fuerte": "¡Más obras que avanzan en Fontana y en la zona del aeropuerto de Resistencia!"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación",
+                "Universidad provincial"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Anuncia la inauguración de un edificio universitario, reforzando su perfil de gestión educativa sin confrontación federal.",
+            "frase_fuerte": "LEVANTAMOS BIEN ALTO LA BANDERA DE LA EDUCACIÓN"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "Regalías",
+                "Canon del agua"
+            ],
+            "postura_politica": "Posicionamiento estratégico. A través de un retuiteo, reivindica las condiciones impuestas por Neuquén a las petroleras, marcando autonomía y poder de fuego en la negociación de recursos.",
+            "frase_fuerte": "Las reglas de juego en Vaca Muerta, las condiciones que impuso la provincia a las petroleras."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Infraestructura municipal"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Anuncia obras en Choele Choel, sin mencionar a Nación.",
+            "frase_fuerte": "MÁS OBRAS PARA CHOELE CHOEL Y EL VALLE MEDIO"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Obras viales",
+                "Ruta provincial"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Inaugura recuperación de ruta provincial, mostrando capacidad de obra pública sin apoyo nacional.",
+            "frase_fuerte": "Hoy inauguramos la recuperación de ocho kilómetros de la Ruta Provincial 323"
+        }
+    ]
+}
