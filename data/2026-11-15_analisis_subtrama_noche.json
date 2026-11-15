@@ -1,0 +1,148 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Los gobernadores de provincias centrales y periféricas evitan confrontar a Nación y se refugian en la gestión local, obras públicas y efemérides. La jornada transcurre sin señales de disputa fiscal o posicionamiento simbólico relevante.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La ausencia de menciones a la coparticipación, la deuda provincial o los subsidios al transporte revela un repliegue estratégico. Los mandatarios, ante la falta de oxígeno fiscal, optan por no denunciar el ajuste y concentrarse en lo que pueden mostrar: obras financiadas con recursos propios. No hay hoy una disputa abierta, sino un silencio que funciona como escudo.\n\nActo 2 — Los Alineamientos: Los gobernadores de provincias centrales (Córdoba, Santa Fe, Neuquén, Río Negro) eligen la agenda de cabotaje. Martín Llaryora apuesta a la infraestructura deportiva y tecnológica; Maximiliano Pullaro reivindica la identidad santafesina; Rolo Figueroa y Alberto Weretilneck despliegan un catálogo de obras viales, cloacales y energéticas. No hay gestos de alianza con Nación ni tampoco ataques. Es una ambigüedad calculada que evita desgastes.\n\nActo 3 — La Micro-política: Las provincias periféricas (Formosa, Catamarca, San Luis) se limitan a efemérides y actos protocolares. Raúl Jalil recuerda el ARA San Juan; Gildo Insfran celebra la educación técnica. Claudio Poggi firma convenios municipales. Son gestos de supervivencia política: muestran gestión en lo único que pueden influir, su territorio. No hay aquí señal de conflicto, solo rutina administrativa.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, esta jornada es un respiro. Sin gobernadores reclamando fondos ni exponiendo contradicciones del ajuste, el aire se descomprime. El silencio de los mandatarios, sin embargo, no debe interpretarse como apoyo, sino como una tregua táctica. La pulseada fiscal sigue latente, pero hoy no se juega.",
+    "temas_calientes": [
+        {
+            "tema": "Obras de infraestructura provincial con fondos propios",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Efemérides y actos protocolares sin posicionamiento",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@gildoinsfran",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Gestión de emergencias climáticas y asistencia social",
+            "gobernadores_involucrados": [
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH",
+        "texto": "RICARDO ROJAS: 102 AÑOS DE HISTORIA Y UN FUTURO CON MÁS OPORTUNIDADES... llevar el gas por primera vez a Ricardo Rojas, con una nueva planta que permitirá a las familias calefaccionar sus casas y tener agua caliente sin tener que depender de la leña.",
+        "por_que_es_clave": "El gobernador de Chubut exhibe gestión provincial en servicios básicos donde Nación está ausente, marcando autonomía y reclamando silenciosamente el abandono central.",
+        "pregunta_openarg": "¿Hasta cuándo las provincias periféricas deben autogestionar servicios básicos sin respaldo nacional?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Homenaje ARA San Juan"
+            ],
+            "postura_politica": "Efeméride sin posicionamiento político. No hay mensaje a Nación ni disputa.",
+            "frase_fuerte": "A 9 años del hundimiento del ARA San Juan, rendimos homenaje a sus 44 tripulantes"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Gas para Ricardo Rojas",
+                "Cuartel de bomberos",
+                "Viviendas",
+                "Polideportivo",
+                "Seguridad"
+            ],
+            "postura_politica": "Fortalecimiento de la identidad provincial y autonomía. Muestra gestión donde Nación no llega, evitando confrontación directa.",
+            "frase_fuerte": "Porque en Chubut no hay pueblos de primera y pueblos de segunda"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Deporte internacional",
+                "Infraestructura vial",
+                "Turismo",
+                "Rally Mundial"
+            ],
+            "postura_politica": "Exhibición de capacidad organizativa y promoción provincial. Sin ataques ni alabanzas a Nación. Posiciona a Córdoba como polo de eventos.",
+            "frase_fuerte": "Córdoba volverá a ser sede del Campeonato Mundial de Rally de la FIA en 2028"
+        },
+        {
+            "gobernador": "@gildoinsfran (Formosa)",
+            "temas_mencionados": [
+                "Día de la Educación Técnica",
+                "Aniversario voto femenino"
+            ],
+            "postura_politica": "Agenda protocolar y efemérides sin impacto federal. Reflejo de gestión local de baja intensidad.",
+            "frase_fuerte": "En el Día de la Educación Técnica, reconocemos a quienes construyen conocimiento"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Seguridad vial"
+            ],
+            "postura_politica": "Mensaje genérico de concientización. Sin contenido político relevante.",
+            "frase_fuerte": "La seguridad vial la construimos entre todas y todos"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Expo Eldorado",
+                "Gestión cultural"
+            ],
+            "postura_politica": "Gestión local y promoción económica. Omisión de Nación.",
+            "frase_fuerte": "Detrás de cada stand hay una historia, mucho esfuerzo y ganas de salir adelante"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Obras de cloacas",
+                "Ruta 67",
+                "Educación técnica",
+                "Seguridad penitenciaria",
+                "Viviendas"
+            ],
+            "postura_politica": "Fortalecimiento de la neuquinidad y autonomía energética. Marca territorio en Vaca Muerta sin confrontar abiertamente.",
+            "frase_fuerte": "1000 días, 1000 razones, 1000 obras"
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Hospital Darwin",
+                "Maruchito",
+                "Soy Río Negro app",
+                "Vuelta al Valle",
+                "Seguridad",
+                "Obras viales"
+            ],
+            "postura_politica": "Gestión integral y presencia territorial. Evita posicionamiento nacional, muestra un Estado provincial eficiente.",
+            "frase_fuerte": "Sabemos que falta, pero tenemos rumbo"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Emergencia climática en Embarcación"
+            ],
+            "postura_politica": "Respuesta inmediata a crisis local. Sin agenda política nacional en este tuit.",
+            "frase_fuerte": "Sé que son momentos difíciles. Quiero que sepan que no están solos"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Saludo dominical",
+                "Reconocimiento a empleados",
+                "Obras municipales"
+            ],
+            "postura_politica": "Agenda local y protocolar. Bajo perfil sin implicancia federal.",
+            "frase_fuerte": "Bien día ….buen domingo para todas las FAMILIAS Sanluiseñas"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Aniversario de Cayastá",
+                "Puente Santa Fe-Santo Tomé",
+                "Viviendas"
+            ],
+            "postura_politica": "Reivindicación de la historia provincial y obras. Sin referencias a Nación, construcción de identidad propia.",
+            "frase_fuerte": "453 años de la fundación de la ciudad de Santa Fe. La Provincia Invencible"
+        }
+    ]
+}
