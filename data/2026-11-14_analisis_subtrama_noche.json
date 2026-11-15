@@ -1,0 +1,169 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada exhibe una fractura entre gobernadores que evitan todo comentario federal (Zdero, Figueroa) y quienes aprovechan la visita papal para un ajuste de cuentas con Nación. Quintela emerge como el vocero más duro de la oposición, denunciando el ajuste y el gasto VIP. La agenda local domina en provincias periféricas, mientras los centrales eligen el repliegue estratégico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: Ricardo Quintela (La Rioja) rompe el silencio pactado y dispara contra la Casa Rosada con dos municiones gruesas: la inflación de octubre (2,2%) que desmiente el relato oficial de perforar el 2%, y el escándalo de la carpa VIP montada durante la misa papal, que denuncia como una fiesta para amigos del poder mientras el pueblo espera afuera. El riojano no solo marca el fracaso del plan Caputo, sino que expone la hipocresía del ajuste: hay plata para catering de famosos, no para hospitales ni rutas. Es el planto más frontal de la jornada, y nadie lo secundó. \n\nActo 2 — Los Alineamientos: Del otro lado, los gobernadores de provincias centrales y aliados naturales del oficialismo (Llaryora, Figueroa, Pullaro) optaron por el refugio en la obra pública y la gestión local. No hay ni una mención a la macroeconomía ni a la Casa Rosada. Es un apagón político coordinado: saben que cualquier comentario sobre la inflación o el ajuste los obligaría a tomar partido. Prefieren mostrar escuelas, rutas y hospitales como prueba de autonomía. El cálculo es claro: no confrontar, pero tampoco abrazar. \n\nActo 3 — La Micro-política: En la periferia, Leandro Zdero (Chaco) e Ignacio Torres (Chubut) despliegan una batería de anuncios de gestión -viviendas, salud, seguridad- que funcionan como mensaje cifrado: 'nosotros gobernamos mientras Nación abandona'. Torres, además, marca con un golpe al narcotráfico que su provincia no depende de los recursos centrales para combatir el crimen. Es la estrategia del 'Estado provincial presente' como réplica tácita al repliegue nacional. \n\nActo 4 — Saldo Presidencial: La Casa Rosada cede capital político. El silencio de los gobernadores amigos es tan elocuente como la agresión de Quintela. Nadie salió a defender el esquema de ajuste ni a celebrar la inflación a la baja. Por el contrario, el tema de la carpa VIP tiene potencial de escalar en medios y redes: la imagen del Papa predicando contra el individualismo mientras se monta un espacio exclusivo para la elite política es una contradicción que el kirchnerismo sabe explotar. El gobierno pierde la batalla simbólica del día.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a la gestión económica nacional y escándalo de la carpa VIP",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Agenda local de obras y gestión provincial como señal de autonomía",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Deporte, turismo y eventos internacionales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Reivindicación de la visita del Papa León XIV",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo (La Rioja)",
+        "texto": "Salió el dato de octubre: 2,2%. Las consultoras esperaban 1,8% y en el Gobierno ya hablaban de perforar el 2% como si fuera un trámite. No pasó. En lo que va del año, la inflación acumula 26,3%. El Presupuesto que mandaron Milei y el ministro Caputo decía 10,1% para todo 2026. Faltan dos meses y ya lo pasamos más de dos veces y media. La interanual dio 33,1%. En octubre del año pasado era 31,3%. O sea, doce meses después no estamos mejor. ¿Qué fue lo que más subió? Luz, gas, agua y vivienda: 4,2% en un solo mes. A quien vive en zona fría le recortaron parte del subsidio, y se enteró cuando le llegó la boleta. En el Noroeste, el número del mes fue del 1,7%, medio punto por debajo del promedio nacional. Pero hay que mirar el año entero. La región, que incluye a La Rioja, ya acumula 26,7%, más que el promedio del país. Y lo que más empujó fue la comida: verduras, papa, pan y cereales. Me acuerdo de Caputo prometiendo que para mitad de este año íbamos a estar por debajo del 1% mensual. Es noviembre.",
+        "por_que_es_clave": "Es el único gobernador que desafía abiertamente el relato oficial sobre la inflación, usando datos concretos para desmentir las promesas del ministro Caputo. Además, aprovecha la visitA del Papa para denunciar el gasto en una carpa VIP, conectando el ajuste con el privilegio político.",
+        "pregunta_openarg": "¿Puede el gobierno de Milei sostener el discurso del 'orden macro' cuando la inflación interanual sigue encima del 33% y los propios gobernadores peronistas exhiben los boletos de luz como prueba del ajuste?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "gestión de inundaciones",
+                "salud",
+                "vivienda",
+                "infraestructura",
+                "deporte",
+                "seguridad"
+            ],
+            "postura_politica": "Perfil ejecutivo puro: no hay mención alguna a Nación ni a la macro. El mensaje es que su gobierno resuelve problemas concretos (inundaciones, hospitales, viviendas) sin esperar nada de la Casa Rosada. Es un repliegue estratégico en la agenda local para evitar desgaste político.",
+            "frase_fuerte": "Chaco pionero: el Hospital Perrando ya cuenta con el único angiógrafo instalado en un hospital público del NEA"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "bomberos",
+                "vivienda",
+                "infraestructura",
+                "seguridad",
+                "narcotráfico",
+                "energía"
+            ],
+            "postura_politica": "Gobierna con el Plan Galina como marca de gestión propia. Exhibe obras en pueblos chicos, lucha antidroga y conectividad. Evita todo comentario federal; su foco es demostrar que Chubut avanza solo, sin asistencia nacional. El golpe al narcotráfico (100 kilos incautados) es un mensaje de eficacia.",
+            "frase_fuerte": "Un golpe histórico al narcotráfico: con el secuestro de más de 11 kilos de cocaína en Arroyo Verde, la Policía del Chubut ya lleva incautados 100 kilos en lo que va del año."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "infraestructura vial",
+                "rally mundial",
+                "salud",
+                "educación",
+                "tecnología",
+                "Papa León XIV"
+            ],
+            "postura_politica": "Juega de local: Córdoba como polo de inversiones y eventos internacionales. La vuelta del rally mundial y la sede de la Misa papal son trofeos de gestión. No confronta con Nación pero tampoco la menciona; su relato es de autonomía provincial exitosa.",
+            "frase_fuerte": "El rally mundial vuelve a casa: Córdoba volverá a ser sede del Campeonato Mundial de Rally de la FIA en 2028."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "inflación",
+                "crítica al gobierno nacional",
+                "Papa León XIV",
+                "gestión local"
+            ],
+            "postura_politica": "Es la voz opositora más dura del día. No solo desmenuza los datos de inflación para desmentir a Caputo, sino que conecta el ajuste con el privilegio político (carpa VIP). Su postura es de denuncia directa, buscando capitalizar el descontento social.",
+            "frase_fuerte": "Para Milei el ajuste lo pagan los jubilados, las universidades, las personas con discapacidad, los trabajadores. Para los amigos hay catering."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "vivienda",
+                "educación técnica",
+                "seguridad penitenciaria",
+                "obra pública",
+                "deporte adaptado"
+            ],
+            "postura_politica": "El modelo neuquino del desarrollo: equilibrio fiscal, ordenamiento habitacional y formación de jóvenes para la industria. Su discurso mezcla gestión con un mensaje de autonomía fiscal (no pide nada a Nación). La calificación crediticia subió de b- a b+, lo que refuerza su relato de eficiencia.",
+            "frase_fuerte": "De 60.000 viviendas entregadas por el Estado, 47.000 no habían pagado ni un solo peso. Así no hay sistema habitacional que pueda sostenerse."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "tradición",
+                "gestión digital",
+                "ciclismo",
+                "salud pública",
+                "seguridad",
+                "presupuesto 2027"
+            ],
+            "postura_politica": "Agenda variopinta que busca mostrar un gobierno presente en todos los frentes: desde la fe popular del Maruchito hasta la modernización de trámites. No hay pulso con Nación; su foco es la imagen de gestión integral y cercana.",
+            "frase_fuerte": "Sabemos que falta, pero tenemos rumbo."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "puente carretero",
+                "salud ambulancias",
+                "educación jardín",
+                "seguridad",
+                "industria"
+            ],
+            "postura_politica": "Pullaro se muestra como el gestor que ordena y avanza: el nuevo puente, las ambulancias, el jardín de infantes. Su único gesto político es una defensa de la industria ante la UIA, pero sin atacar a Nación. Es la agenda del 'hacer' como blindaje electoral.",
+            "frase_fuerte": "Un puente que se prometió durante años y que hoy está cada vez más cerca de ser realidad."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "ciencia y tecnología (NASA Space Apps)",
+                "cultura (ballet)",
+                "educación rural",
+                "gestión local",
+                "Papa León XIV"
+            ],
+            "postura_politica": "Orgullo provincial: el NASA Space Apps Challenge y el ballet ganador en Corea son emblemas de una gestión que busca proyección internacional. Sin confrontación, pero con la marca de una provincia que se planta en el mapa global.",
+            "frase_fuerte": "Con 638 inscriptos, Santiago del Estero es la sede más grande de Argentina del NASA Space Apps Challenge 2026."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "infraestructura vial",
+                "deporte rugby",
+                "seguridad",
+                "educación técnica",
+                "tabaco",
+                "agua potable",
+                "Papa León XIV"
+            ],
+            "postura_politica": "Tucumán como sede de eventos deportivos y con agenda de gestión en múltiples frentes. Su postura es de cooperación con Nación (participó del encuentro con el Papa) pero sin subordinación. La reunión con tabacaleros muestra su rol de defensor del interior productivo.",
+            "frase_fuerte": "Desde Tucumán, reafirmamos nuestro compromiso con el diálogo y el trabajo entre los distintos niveles de gobierno."
+        }
+    ]
+}
