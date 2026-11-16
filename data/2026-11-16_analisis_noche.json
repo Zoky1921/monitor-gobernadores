@@ -1,0 +1,278 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal del 16 de noviembre de 2026 mostró una dinámica política mixta. El gobernador Axel Kicillof (Buenos Aires) arremetió duramente contra el presidente Javier Milei, acusándolo de 'adulterar la historia' y de buscar alterar las reglas electorales, marcando una fuerte confrontación. En contraste, la mayoría de sus pares se enfocó en la gestión local y anuncios de obras cruciales. Martín Llaryora (Córdoba) destacó una robusta baja de impuestos para 2027, vinculándola al mensaje del Papa León XIV sobre la economía al servicio de la persona. Arabela Carreras (Río Negro) impulsó el mega proyecto Argentina LNG, exigiendo empleo local y cuidado ambiental, consolidando una agenda provincial autónoma frente a las tensiones nacionales.",
+    "analisis_profundo": "El escenario político federal se caracteriza por una persistente polarización, con el gobernador Axel Kicillof (Buenos Aires) asumiendo una postura de confrontación directa con la administración nacional. Su crítica a la gestión económica del presidente Javier Milei y la acusación de intentar 'cambiar las reglas de juego de la democracia' lo posicionan como un articulador clave de la oposición, contrastando su visión de 'desarrollo soberano' con las políticas actuales. Esta narrativa de tensión nacional diverge de la agenda de la mayoría de los gobernadores, quienes priorizaron la consolidación de la autonomía y el desarrollo de sus respectivas jurisdicciones mediante anuncios de gestión e infraestructura.\n\nMartín Llaryora (Córdoba) sobresalió con la presentación del Presupuesto 2027, que incluye una de las rebajas impositivas más significativas del país. Esta medida, diseñada para aliviar la economía familiar y dinamizar la actividad productiva, fue enmarcada en una 'visión profundamente humanista' de la gestión económica, evocando el mensaje del Papa León XIV. Esta articulación de una política fiscal autónoma con principios éticos refuerza su liderazgo y ofrece un modelo provincial alternativo en un contexto económico nacional complejo. En la Patagonia, Arabela Carreras (Río Negro) mostró una gestión proactiva al liderar la audiencia pública del proyecto Argentina LNG. Su exigencia de 'desarrollo sí, pero con los rionegrinos adentro' y el énfasis en el cumplimiento de los compromisos ambientales, demuestra una firme defensa de los intereses provinciales frente a las grandes inversiones, buscando asegurar beneficios directos para la población local.\n\nJorge Macri (Ciudad Autónoma de Buenos Aires) se concentró en la seguridad ciudadana, destacando la videovigilancia y la capacidad policial, además de la promoción de eventos culturales y turísticos. Ignacio Torres (Chubut) anunció un 'tercer aguinaldo' para el sector educativo y un aumento significativo en el presupuesto, subrayando la mejora en la calidad educativa provincial. Raúl Jalil (Catamarca) enfatizó la minería como motor de un desarrollo integral, vinculándola con la industria y el turismo. Leandro Zdero (Chaco) y Gildo Insfrán (Formosa) anunciaron obras de pavimentación y destacaron el deporte como política de Estado, respectivamente. Ricardo Quintela (La Rioja) puso el foco en la seguridad vial y la prevención. Rolando Figueroa (Neuquén) delineó la ambiciosa 'Agenda 2030' para la provincia, enfatizando la 'neuquinidad' y la planificación a largo plazo, mientras Claudio Vidal (Santa Cruz) promovió un gobierno cercano al vecino. Maximiliano Pullaro (Santa Fe) celebró la llegada del gas natural, destacando su impacto en la reducción de costos energéticos. Elías Suárez (Santiago del Estero) planificó acciones coordinadas para 2027 y Claudio Poggi (San Luis) apoyó proyectos de ONGs. Finalmente, Osvaldo Jaldo (Tucumán) invirtió en la modernización y eficiencia del Estado provincial. La jornada subraya, en definitiva, una diversidad de agendas provinciales fuertes y autónomas, coexistiendo con una marcada tensión a nivel nacional.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de Infraestructura y Servicios Públicos: Amplia agenda de obras (viales, hídricas, energéticas, sanitarias) y mejora de servicios en diversas localidades, financiadas con fondos provinciales y/o organismos de crédito internacionales.",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Autonomía Fiscal y Fomento a la Economía Local: Decisiones provinciales sobre política tributaria (reducción de impuestos) y programas de apoyo a sectores productivos para dinamizar la economía local.",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Weretilneck",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Proyectos de Gran Escala e Inversiones Estratégicas: Desarrollo de iniciativas energéticas (LNG, gasoductos) y mineras, con énfasis en el impacto ambiental y la generación de empleo para la mano de obra provincial.",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa",
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Seguridad y Fortalecimiento Institucional: Anuncios y acciones para reforzar la policía, la seguridad vial y los servicios de emergencia, junto con la modernización de la administración pública.",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@MartinLlaryora",
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Confrontación con el Gobierno Nacional y Defensa del Modelo Provincial: Expresiones críticas directas a las políticas económicas y electorales del gobierno central, contrastando con modelos de gestión local y la visión de desarrollo federal.",
+            "gobernadores_involucrados": [
+                "@Kicillofok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@MartinLlaryora",
+        "texto": "PRESUPUESTO 2027: CÓRDOBA AVANZA CON UNA FUERTE BAJA DE IMPUESTOS. Como todos los años, enviamos a la @LegislaturaCba el proyecto de Presupuesto Provincial, una herramienta fundamental para planificar la gestión y definir las prioridades de gobierno para el 2027. Elaboramos un presupuesto que contempla la difícil situación económica y social que atraviesa nuestro país. Un presupuesto que nos exigió revisar prioridades, actuar con profunda sensibilidad social y concentrar nuestros esfuerzos en acompañar a las familias cordobesas, sostener la inversión social, impulsar la producción y generar más #trabajo. Por eso hemos tomado una decisión muy importante: avanzar con una de las rebajas impositivas más profundas del país. No vamos a aumentar la presión tributaria sobre las familias y los sectores productivos. Por el contrario, vamos a bajar impuestos para que los cordobeses tengan más recursos disponibles, puedan aliviar su economía familiar y contribuir así a dinamizar el consumo y la actividad económica. Entre las principales medidas, reduciremos un 30% el Impuesto Inmobiliario Urbano para el 97% de los inmuebles. Además, impulsaremos una disminución de la alícuota general de Ingresos Brutos y ampliaremos los beneficios tributarios para pequeños y medianos contribuyentes. También pondremos en marcha un programa de promoción del comercio y fortaleceremos los incentivos para atraer nuevas inversiones, favorecer la radicación de industrias y empresas y generar más puestos de trabajo. Con esta política de alivio fiscal, $1,5 billones permanecerán en manos de los cordobeses. Son recursos que quedarán en los hogares, los comercios, las #pymes y las industrias para impulsar el consumo, sostener la actividad económica y promover nuevas oportunidades de crecimiento. Queremos que #Córdoba siga siendo una de las provincias más competitivas para producir, invertir y generar #empleo. Y estamos convencidos de que, especialmente en momentos difíciles, el Estado debe tomar decisiones que acompañen a quienes trabajan, producen y se esfuerzan todos los días. Estas medidas nos permitirán mantener un equilibrio fiscal y concentrar los recursos provinciales en áreas prioritarias, con especial atención a la #salud, la #educación, la #seguridad y programas sociales. Esta reforma tributaria responde también a una visión profundamente humanista de la gestión económica. Hace apenas unos días, durante su histórica visita a nuestra tierra, el #PapaLeón XIV nos dejó una enseñanza que debe interpelar a toda la dirigencia política y económica: 'La economía debe estar al servicio de la persona, y no la persona al servicio de la economía'. En Córdoba compartimos profundamente esa mirada. Creemos que las decisiones económicas deben tener siempre como prioridad el bienestar de las personas y el #desarrollo de nuestras comunidades. Bajar impuestos, cuidar a las familias y acompañar a quienes emprenden, invierten y generan trabajo son decisiones concretas para seguir construyendo una Córdoba productiva, solidaria y con más oportunidades para todos. ¡Seguimos trabajando, levantando bien alto la bandera de nuestra Córdoba productiva! #HacerParaCrecer",
+        "por_que_es_clave": "Combina un anuncio fiscal de gran impacto provincial con una contundente referencia al mensaje social del Papa León XIV, estableciendo una postura económica humanista que resuena con debates nacionales y genera un contraste implícito con las políticas económicas centralistas.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Inversión en ciencia y tecnología",
+                "Educación",
+                "Salud mental",
+                "Crítica a políticas nacionales",
+                "Economía",
+                "Federalismo",
+                "Elecciones",
+                "Visita papal"
+            ],
+            "postura_politica": "Fuerte oposición al gobierno nacional, defensa del rol del Estado en el desarrollo productivo y social. Destaca inversiones propias en ciencia y educación como 'otro camino' frente a un contexto 'cada vez más difícil' para el sistema científico. Reitera su compromiso con un modelo de 'desarrollo soberano' y 'protección de la industria nacional', y critica la intención de cambiar reglas electorales.",
+            "frase_fuerte": "sin un Estado que invierta no hay desarrollo soberano posible."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Seguridad ciudadana",
+                "Videovigilancia",
+                "Noche de los Museos",
+                "Cultura",
+                "Turismo"
+            ],
+            "postura_politica": "Enfocado en la seguridad ciudadana con énfasis en la tecnología (videovigilancia) y la eficacia policial. También resalta la capacidad de la ciudad para organizar eventos masivos y la vitalidad cultural y turística.",
+            "frase_fuerte": "Más del 82% de la Ciudad videovigilada y la mejor Policía. No hay manera. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Desarrollo minero",
+                "Industria",
+                "Agroindustria",
+                "Turismo",
+                "Formación",
+                "Tecnología",
+                "Proveedores locales"
+            ],
+            "postura_politica": "Promueve la minería como motor de desarrollo integral para la provincia, buscando la articulación con otros sectores productivos y la generación de bienestar local a través de la formación y el uso de proveedores provinciales.",
+            "frase_fuerte": "que la minería fortalezca la industria, la agroindustria, la producción regional y el turismo, generando bienestar para los catamarqueños."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura vial",
+                "Gestión local",
+                "Margarita Belén"
+            ],
+            "postura_politica": "Prioriza la concreción de obras provinciales largamente esperadas para mejorar la calidad de vida de las familias y la conectividad en las localidades, destacando una respuesta concreta a demandas históricas.",
+            "frase_fuerte": "¡Nueva obra provincial terminada y décadas de espera que hoy se convierten en realidad para las familias de Margarita Belén!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Educación",
+                "Presupuesto educativo",
+                "Infraestructura escolar",
+                "Reconocimiento docente",
+                "Salarios"
+            ],
+            "postura_politica": "Destaca la recuperación educativa de la provincia y compromete un significativo aumento del presupuesto, un 'tercer aguinaldo' para el sector y una ley para la sostenibilidad de los recursos, enfatizando la educación como un logro provincial colectivo.",
+            "frase_fuerte": "logramos ubicarnos entre las cuatro mejores provincias del país. Para reconocer ese trabajo, vamos a garantizar un tercer aguinaldo a docentes y auxiliares y aumentar también un 64% el presupuesto educativo."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Presupuesto provincial",
+                "Política fiscal",
+                "Baja de impuestos",
+                "Apoyo a la producción y el empleo",
+                "Seguridad",
+                "Mensaje del Papa León XIV",
+                "Bienestar social"
+            ],
+            "postura_politica": "Impulsa una política fiscal de alivio para familias y sectores productivos, bajando impuestos para dinamizar la economía local. Enmarca esta decisión en una 'visión profundamente humanista' de la gestión económica, citando al Papa León XIV. Reafirma el compromiso con la seguridad.",
+            "frase_fuerte": "'La economía debe estar al servicio de la persona, y no la persona al servicio de la economía'."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Política partidaria",
+                "Elecciones internas UCR",
+                "Participación política",
+                "Transparencia"
+            ],
+            "postura_politica": "Se enfoca en la transparencia y participación dentro de su partido, la UCR, como parte del fortalecimiento institucional y la modernización de la política partidaria.",
+            "frase_fuerte": "Seguimos fortaleciendo nuestro partido con más participación y transparencia"
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Seguridad vial",
+                "Prevención",
+                "Rol del Estado",
+                "Cuidado de familias",
+                "Educación vial"
+            ],
+            "postura_politica": "Enfatiza la seguridad vial como un compromiso colectivo y estatal, priorizando la prevención, el fortalecimiento de controles e infraestructura, y la educación vial para proteger a las familias.",
+            "frase_fuerte": "Detrás de cada siniestro vial hay vidas y familias que merecen ser cuidadas. Por eso, la prevención debe ser un compromiso permanente."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo provincial",
+                "Planificación a largo plazo (Agenda 2030)",
+                "Crecimiento económico",
+                "Empleo",
+                "Vaca Muerta",
+                "Cultura",
+                "Turismo",
+                "Gestión local"
+            ],
+            "postura_politica": "Proyecta una provincia en crecimiento, con un enfoque en la planificación estratégica a mediano y largo plazo ('Neuquén Próximo') que busca el desarrollo equitativo y la generación de oportunidades para todos los neuquinos. Aborda temas clave como Vaca Muerta, empleo y la promoción cultural, defendiendo la 'neuquinidad'.",
+            "frase_fuerte": "LA DEFENSA DEL NEUQUÉN ES CON TODOS. Tenemos una provincia de pie, que eligió el camino del crecimiento y el desarrollo."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Grandes inversiones (LNG)",
+                "Infraestructura (agua, cloacas, rutas)",
+                "Presupuesto 2027",
+                "Política fiscal",
+                "Empleo local",
+                "Salud pública",
+                "Pueblos originarios",
+                "Desarrollo productivo",
+                "Medio ambiente"
+            ],
+            "postura_politica": "Lidera una agenda de desarrollo ambiciosa con grandes inversiones (Argentina LNG), enfatizando la participación y el empleo rionegrino, así como el cuidado ambiental. Destaca la solidez fiscal y un presupuesto que prioriza obras sin aumentar impuestos, junto con la recuperación de fondos para la salud pública y el respeto a las comunidades originarias.",
+            "frase_fuerte": "Con #ArgentinaLNG queremos que cada etapa de la obra abra puestos de trabajo para los rionegrinos y que nuestras pymes y proveedores tengan oportunidades concretas de participar."
+        },
+        {
+            "gobernador": "@gildoinsfran",
+            "temas_mencionados": [
+                "Deporte",
+                "Infraestructura deportiva",
+                "Formación integral",
+                "Política de Estado"
+            ],
+            "postura_politica": "Concibe el deporte como una política de Estado fundamental para la formación integral y el desarrollo de oportunidades para los jóvenes, respaldada por infraestructura y acompañamiento constante.",
+            "frase_fuerte": "En Formosa el deporte es una cuestión de Estado: con infraestructura y acompañamiento permanente, seguimos generando oportunidades para que nuestros deportistas puedan crecer y llegar cada vez más lejos."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Aniversarios locales",
+                "Identidad comunitaria",
+                "Historia provincial",
+                "Cohesión social"
+            ],
+            "postura_politica": "Celebra las identidades y el trabajo de las comunidades locales en los aniversarios, valorando el legado de sus pioneros y el esfuerzo conjunto para el progreso provincial y el fortalecimiento comunitario.",
+            "frase_fuerte": "¡Felices 107 años, Puerto Rico! Qué lindo compartir este cumpleaños con una comunidad que honra sus raíces, mantiene viva la memoria de sus pioneros y sigue mirando hacia adelante."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Gestión local",
+                "Cercanía con el vecino",
+                "Servicios públicos",
+                "Trámites",
+                "Estado presente"
+            ],
+            "postura_politica": "Promueve un modelo de gestión cercano a los ciudadanos a través de programas que llevan el Estado a los barrios, buscando facilitar trámites y dar respuestas directas a las necesidades de la gente, priorizando la presencia territorial.",
+            "frase_fuerte": "Con Viva Barrio estamos llevando el Estado a los barrios, acercando servicios, facilitando trámites y escuchando de primera mano las necesidades de nuestra gente."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Obra pública",
+                "Gas natural",
+                "Infraestructura",
+                "Desarrollo local",
+                "Costos energéticos",
+                "Calidad de vida"
+            ],
+            "postura_politica": "Impulsa la extensión de servicios esenciales como el gas natural para mejorar la calidad de vida y reducir costos operativos de comercios y empresas, destacando el impacto positivo en la economía local y la gestión eficiente.",
+            "frase_fuerte": "Llegó el gas natural a #SantaTeresa. Habilitamos 14.700 metros de gasoducto y 5.595 metros de red. Las primeras conexiones son para las escuelas, el SAMCo, el hogar de ancianos, los Bomberos y la comuna, y después llegará a los comercios y las empresas."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Planificación territorial",
+                "Obras",
+                "Agencias de desarrollo",
+                "Zonas viales",
+                "Coordinación interinstitucional"
+            ],
+            "postura_politica": "Se enfoca en la coordinación y planificación articulada entre distintas agencias y zonas viales para impulsar la ejecución de obras y el desarrollo en el interior provincial, priorizando una visión a largo plazo.",
+            "frase_fuerte": "Trabajo articulado con Agencias de desarrollo territorial y Zonas Viales de toda la provincia para coordinar acciones conjuntas y ordenar la planificación de obras anunciadas en el interior santiagueño para el 2027."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Organizaciones no gubernamentales",
+                "Proyectos sociales",
+                "Apoyo institucional",
+                "Comunidad"
+            ],
+            "postura_politica": "Destaca el apoyo provincial a las organizaciones no gubernamentales y la aprobación de sus proyectos sociales, reconociendo su rol en la comunidad y fortaleciendo el tejido social de la provincia.",
+            "frase_fuerte": "ORGANIZACIONES NO GUBERNAMENTALES de la Provincia recibieron hoy la aprobación de sus proyectos sociales."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Inversión estatal",
+                "Modernización del Estado",
+                "Equipamiento",
+                "Medio ambiente",
+                "Producción",
+                "Recursos hídricos",
+                "Eficiencia"
+            ],
+            "postura_politica": "Prioriza la inversión en las áreas estratégicas del Estado para fortalecer sus equipos y mejorar la eficiencia en la prestación de servicios, con énfasis en la modernización, la protección del medio ambiente y la gestión de recursos hídricos.",
+            "frase_fuerte": "no hay un Estado eficiente sin trabajadores con los recursos necesarios para cumplir sus funciones."
+        }
+    ]
+}
