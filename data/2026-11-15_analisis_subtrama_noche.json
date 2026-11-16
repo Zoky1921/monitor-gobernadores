@@ -1,37 +1,13 @@
 {
     "clima_general": "SILENCIO",
-    "resumen_ejecutivo": "Los gobernadores de provincias centrales y periféricas evitan confrontar a Nación y se refugian en la gestión local, obras públicas y efemérides. La jornada transcurre sin señales de disputa fiscal o posicionamiento simbólico relevante.",
-    "analisis_profundo": "Acto 1 — El Conflicto Central: La ausencia de menciones a la coparticipación, la deuda provincial o los subsidios al transporte revela un repliegue estratégico. Los mandatarios, ante la falta de oxígeno fiscal, optan por no denunciar el ajuste y concentrarse en lo que pueden mostrar: obras financiadas con recursos propios. No hay hoy una disputa abierta, sino un silencio que funciona como escudo.\n\nActo 2 — Los Alineamientos: Los gobernadores de provincias centrales (Córdoba, Santa Fe, Neuquén, Río Negro) eligen la agenda de cabotaje. Martín Llaryora apuesta a la infraestructura deportiva y tecnológica; Maximiliano Pullaro reivindica la identidad santafesina; Rolo Figueroa y Alberto Weretilneck despliegan un catálogo de obras viales, cloacales y energéticas. No hay gestos de alianza con Nación ni tampoco ataques. Es una ambigüedad calculada que evita desgastes.\n\nActo 3 — La Micro-política: Las provincias periféricas (Formosa, Catamarca, San Luis) se limitan a efemérides y actos protocolares. Raúl Jalil recuerda el ARA San Juan; Gildo Insfran celebra la educación técnica. Claudio Poggi firma convenios municipales. Son gestos de supervivencia política: muestran gestión en lo único que pueden influir, su territorio. No hay aquí señal de conflicto, solo rutina administrativa.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, esta jornada es un respiro. Sin gobernadores reclamando fondos ni exponiendo contradicciones del ajuste, el aire se descomprime. El silencio de los mandatarios, sin embargo, no debe interpretarse como apoyo, sino como una tregua táctica. La pulseada fiscal sigue latente, pero hoy no se juega.",
-    "temas_calientes": [
-        {
-            "tema": "Obras de infraestructura provincial con fondos propios",
-            "gobernadores_involucrados": [
-                "@NachoTorresCH",
-                "@MartinLlaryora",
-                "@Rolo_Figueroa",
-                "@Weretilneck"
-            ]
-        },
-        {
-            "tema": "Efemérides y actos protocolares sin posicionamiento",
-            "gobernadores_involucrados": [
-                "@RaulJalil_ok",
-                "@gildoinsfran",
-                "@claudiojpoggi"
-            ]
-        },
-        {
-            "tema": "Gestión de emergencias climáticas y asistencia social",
-            "gobernadores_involucrados": [
-                "@GustavoSaenzOK"
-            ]
-        }
-    ],
+    "resumen_ejecutivo": "Jornada de baja intensidad política. Los gobernadores se refugiaron en agendas locales y efemérides, sin posicionamientos sobre la macroeconomía o la relación con Nación. No se registraron disputas fiscales ni alineamientos estratégicos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada transcurrió sin tensiones fiscales ni institucionales entre Nación y provincias. Los gobernadores evitaron cualquier referencia a la coparticipación, la deuda o los recursos estratégicos, optando por un repliegue hacia la gestión de cabotaje. Este silencio coordinado sugiere una pausa calculada en la confrontación, posiblemente a la espera de definiciones presupuestarias o de la evolución del ajuste nacional.\n\nActo 2 — Los Alineamientos: No se observaron alineamientos explícitos. Las provincias centrales (Córdoba, Neuquén, Santa Fe) se limitaron a mostrar obra pública y eventos locales, sin articular un discurso común. Las periféricas (Catamarca, Chubut, Formosa, La Rioja, Misiones, Salta, San Luis) se mantuvieron en una agenda protocolar o de emergencia, sin desafiar al poder central.\n\nActo 3 — La Micro-política: La mayoría de los posteos corresponden a inauguraciones, aniversarios y saludos institucionales. En Córdoba, Martín Llaryora desplegó una batería de anuncios de infraestructura y tecnología, buscando posicionar a la provincia como un polo autónomo de desarrollo. En Neuquén, Rolando Figueroa enfatizó el empleo privado y las obras propias, en un intento de mostrar eficiencia provincial. Sin embargo, ninguna de estas acciones contiene un mensaje explícito de confrontación con la Casa Rosada.\n\nActo 4 — Saldo Presidencial: La ausencia de reclamos o críticas directas beneficia al Gobierno nacional, que no enfrenta un frente provincial unificado en esta jornada. Sin embargo, el silencio también puede leerse como una estrategia de desgaste: los gobernadores evitan desgastarse en debates estériles mientras acumulan gestión local para capitalizar electoralmente. El capital político de la Casa Rosada se mantiene estable, pero sin avances concretos en la relación fiscal con las provincias.",
+    "temas_calientes": [],
     "tweet_destacado": {
-        "usuario": "@NachoTorresCH",
-        "texto": "RICARDO ROJAS: 102 AÑOS DE HISTORIA Y UN FUTURO CON MÁS OPORTUNIDADES... llevar el gas por primera vez a Ricardo Rojas, con una nueva planta que permitirá a las familias calefaccionar sus casas y tener agua caliente sin tener que depender de la leña.",
-        "por_que_es_clave": "El gobernador de Chubut exhibe gestión provincial en servicios básicos donde Nación está ausente, marcando autonomía y reclamando silenciosamente el abandono central.",
-        "pregunta_openarg": "¿Hasta cuándo las provincias periféricas deben autogestionar servicios básicos sin respaldo nacional?"
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null
     },
     "analisis_por_gobernador": [
         {
@@ -39,110 +15,133 @@
             "temas_mencionados": [
                 "Homenaje ARA San Juan"
             ],
-            "postura_politica": "Efeméride sin posicionamiento político. No hay mensaje a Nación ni disputa.",
-            "frase_fuerte": "A 9 años del hundimiento del ARA San Juan, rendimos homenaje a sus 44 tripulantes"
+            "postura_politica": "Efeméride sin posicionamiento político. El silencio sobre la macroeconomía sugiere repliegue estratégico.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@NachoTorresCH (Chubut)",
             "temas_mencionados": [
-                "Gas para Ricardo Rojas",
-                "Cuartel de bomberos",
-                "Viviendas",
-                "Polideportivo",
-                "Seguridad"
+                "Aniversario local",
+                "Gas para Ricardo Rojas"
             ],
-            "postura_politica": "Fortalecimiento de la identidad provincial y autonomía. Muestra gestión donde Nación no llega, evitando confrontación directa.",
-            "frase_fuerte": "Porque en Chubut no hay pueblos de primera y pueblos de segunda"
+            "postura_politica": "Gestión local de baja intensidad. La omisión de temas nacionales indica una estrategia de supervivencia en un contexto de ajuste.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@MartinLlaryora (Córdoba)",
             "temas_mencionados": [
-                "Deporte internacional",
-                "Infraestructura vial",
-                "Turismo",
-                "Rally Mundial"
+                "Bienvenida selección Costa Rica",
+                "Visita a Ciudad de los Niños",
+                "Iluminación ruta",
+                "Rugby",
+                "Infraestructura Río Cuarto",
+                "Agua en Minas",
+                "Universidad Laboulaye",
+                "Av. Bodereau",
+                "Córdoba Tech Week",
+                "Pavimentación barrio",
+                "Rally Mundial",
+                "Ambulancias",
+                "Aniversario Río Cuarto"
             ],
-            "postura_politica": "Exhibición de capacidad organizativa y promoción provincial. Sin ataques ni alabanzas a Nación. Posiciona a Córdoba como polo de eventos.",
-            "frase_fuerte": "Córdoba volverá a ser sede del Campeonato Mundial de Rally de la FIA en 2028"
+            "postura_politica": "Despliegue de gestión provincial intenso, buscando posicionar a Córdoba como polo de desarrollo autónomo. La ausencia de referencias a Nación es una marca de autonomía frente al repliegue nacional.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@gildoinsfran (Formosa)",
             "temas_mencionados": [
-                "Día de la Educación Técnica",
-                "Aniversario voto femenino"
+                "Día de la Educación Técnica"
             ],
-            "postura_politica": "Agenda protocolar y efemérides sin impacto federal. Reflejo de gestión local de baja intensidad.",
-            "frase_fuerte": "En el Día de la Educación Técnica, reconocemos a quienes construyen conocimiento"
+            "postura_politica": "Efeméride sin contenido político. Refleja una agenda de cabotaje sin impacto federal.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@QuintelaRicardo (La Rioja)",
             "temas_mencionados": [
                 "Seguridad vial"
             ],
-            "postura_politica": "Mensaje genérico de concientización. Sin contenido político relevante.",
-            "frase_fuerte": "La seguridad vial la construimos entre todas y todos"
+            "postura_politica": "Mensaje genérico de seguridad, sin vinculación con la agenda nacional. Bajo peso político.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@passalacquaok (Misiones)",
             "temas_mencionados": [
-                "Expo Eldorado",
-                "Gestión cultural"
+                "Expo Eldorado"
             ],
-            "postura_politica": "Gestión local y promoción económica. Omisión de Nación.",
-            "frase_fuerte": "Detrás de cada stand hay una historia, mucho esfuerzo y ganas de salir adelante"
+            "postura_politica": "Promoción de feria local. Sin señales de posicionamiento federal.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@Rolo_Figueroa (Neuquén)",
             "temas_mencionados": [
-                "Obras de cloacas",
+                "Homenaje",
+                "Cloacas",
+                "Sala alimentos",
+                "Centro deportivo",
                 "Ruta 67",
-                "Educación técnica",
+                "Fórmula Lanín",
+                "EPET",
+                "Escrituras",
+                "Conectividad",
+                "Reconocimiento",
                 "Seguridad penitenciaria",
-                "Viviendas"
+                "Centro de día",
+                "Empleo privado",
+                "Próximo Paso",
+                "Gas Quili Malal",
+                "ParaAraucanía"
             ],
-            "postura_politica": "Fortalecimiento de la neuquinidad y autonomía energética. Marca territorio en Vaca Muerta sin confrontar abiertamente.",
-            "frase_fuerte": "1000 días, 1000 razones, 1000 obras"
+            "postura_politica": "Agenda de gestión intensa en infraestructura y educación. El énfasis en empleo privado y obras propias sugiere un intento de mostrar eficiencia provincial frente a la crisis nacional. Sin confrontación directa.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@Weretilneck (Río Negro)",
             "temas_mencionados": [
+                "Boda mascotas",
                 "Hospital Darwin",
                 "Maruchito",
-                "Soy Río Negro app",
+                "App Soy Río Negro",
                 "Vuelta al Valle",
-                "Seguridad",
-                "Obras viales"
+                "PROFARSE",
+                "Fogario",
+                "Obras Choele Choel",
+                "Patrulleros",
+                "Ruta 22",
+                "VMOS",
+                "Presupuesto 2027",
+                "Proveedores mineros",
+                "Capacitación",
+                "Equipamiento policial",
+                "Desagües Cipolletti",
+                "Médicos extranjeros",
+                "Desarticulación droga"
             ],
-            "postura_politica": "Gestión integral y presencia territorial. Evita posicionamiento nacional, muestra un Estado provincial eficiente.",
-            "frase_fuerte": "Sabemos que falta, pero tenemos rumbo"
+            "postura_politica": "Amplio despliegue de gestión local, abarcando salud, seguridad, obras y desarrollo productivo. La mención del Presupuesto 2027 y el control ambiental del VMOS indican una administración ordenada, pero sin roces con Nación.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@GustavoSaenzOK (Salta)",
             "temas_mencionados": [
-                "Emergencia climática en Embarcación"
+                "Temporal Embarcación"
             ],
-            "postura_politica": "Respuesta inmediata a crisis local. Sin agenda política nacional en este tuit.",
-            "frase_fuerte": "Sé que son momentos difíciles. Quiero que sepan que no están solos"
+            "postura_politica": "Respuesta a emergencia local. Sin contenido político federal.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@claudiojpoggi (San Luis)",
             "temas_mencionados": [
-                "Saludo dominical",
-                "Reconocimiento a empleados",
-                "Obras municipales"
+                "Saludo dominical"
             ],
-            "postura_politica": "Agenda local y protocolar. Bajo perfil sin implicancia federal.",
-            "frase_fuerte": "Bien día ….buen domingo para todas las FAMILIAS Sanluiseñas"
+            "postura_politica": "Mensaje protocolar sin contenido político.",
+            "frase_fuerte": null
         },
         {
             "gobernador": "@maxipullaro (Santa Fe)",
             "temas_mencionados": [
-                "Aniversario de Cayastá",
-                "Puente Santa Fe-Santo Tomé",
-                "Viviendas"
+                "Aniversario Cayastá"
             ],
-            "postura_politica": "Reivindicación de la historia provincial y obras. Sin referencias a Nación, construcción de identidad propia.",
-            "frase_fuerte": "453 años de la fundación de la ciudad de Santa Fe. La Provincia Invencible"
+            "postura_politica": "Efeméride histórica local. Sin posicionamiento federal.",
+            "frase_fuerte": null
         }
     ]
 }
