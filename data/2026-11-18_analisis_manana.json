@@ -1,0 +1,164 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal del 18 de noviembre de 2026 está marcada por una notoria activación del peronismo en varias provincias, celebrando el Día de la Militancia con miras a la elección nacional de 2027, lo que introduce un tono de confrontación ideológica. Gobernadores como Axel Kicillof (Buenos Aires), Gildo Insfrán (Formosa) y Osvaldo Jaldo (Tucumán) han lanzado mensajes de unidad y propuestas de 'alternativa de país'. En contraste, Jorge Macri (Ciudad de Buenos Aires) se centra en la baja de impuestos y el fomento a la inversión. Otros mandatarios como Raúl Jalil (Catamarca), Ignacio Torres (Chubut), Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro) priorizan la gestión local, obras de infraestructura, desarrollo productivo y asistencia social, mostrando una agenda diversa con énfasis en la autonomía provincial frente a coyunturas específicas. Rogelio Frigerio (Entre Ríos) focaliza en la gestión de emergencias por la crecida del Paraná, mientras Maximiliano Pullaro (Santa Fe) destaca la entrega de viviendas.",
+    "analisis_profundo": "La agenda federal del 18 de noviembre de 2026 revela una polarización creciente, con el peronismo provincial utilizando el Día de la Militancia como plataforma para proyectar una estrategia nacional. Axel Kicillof (Buenos Aires) articula una 'alternativa de país' con ejes en educación, desarrollo y militancia, un mensaje que resuena con la retórica de Gildo Insfrán (Formosa), quien explícitamente llama a 'volver a ser gobierno nacional' en 2027, y Osvaldo Jaldo (Tucumán) que busca una 'propuesta común' para una candidatura unificada. Esta coordinación discursiva del peronismo sugiere una preparación temprana para el ciclo electoral venidero, buscando consolidar una narrativa de unidad frente al gobierno central.\n\nEn el polo opuesto, Jorge Macri (Ciudad de Buenos Aires) consolida su perfil de gestión económica al anunciar una nueva baja de impuestos, posicionándose en la línea de fomento a la inversión privada y reducción de la carga tributaria. Esta medida contrasta con las demandas de recursos que, en momentos difíciles, suelen plantear las provincias al gobierno nacional.\n\nMientras tanto, otros gobernadores se enfocan en la gestión provincial. Raúl Jalil (Catamarca) impulsa el 'Programa Potenciar Catamarca', buscando diversificar la economía local y generar empleo en sectores clave. Alberto Weretilneck (Río Negro) no solo destaca a su provincia en el podio del desarrollo humano según la ONU, sino que también subraya grandes proyectos energéticos como Argentina LNG, enfatizando que los beneficios deben quedar en la provincia. Ignacio Torres (Chubut) y Maximiliano Pullaro (Santa Fe) se centran en políticas sociales concretas, con programas para adultos mayores y entrega de viviendas, respectivamente. Martín Llaryora (Córdoba) aprovecha eventos deportivos de trascendencia para destacar la infraestructura y capacidad logística provincial. Rogelio Frigerio (Entre Ríos) maneja una emergencia por la crecida del río Paraná, mostrando la capacidad de respuesta del Estado provincial ante crisis. La diversidad de temas abordados ilustra la tensión entre las agendas provinciales y un escenario político nacional que parece estar gestando futuras confrontaciones. La 'estabilidad política, seguridad jurídica y previsibilidad' que menciona Weretilneck (Río Negro) para atraer inversiones se convierte en un contrapunto implícito a la inestabilidad política nacional que la oposición peronista busca capitalizar.",
+    "temas_calientes": [
+        {
+            "tema": "Activismo y Estrategia Peronista con miras a 2027",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@gildoinsfran",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Fomento a la Inversión y Alivio Fiscal",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Proyectos de Gran Escala",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Infraestructura Social y de Servicios",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Weretilneck",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Respuestas a Emergencias y Coordinación Estatal",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Educación pública",
+                "Desarrollo económico",
+                "Militancia política",
+                "Alternativa de país"
+            ],
+            "postura_politica": "Crítica al modelo económico nacional y propuesta de una 'alternativa de país' con enfoque en educación de calidad, desarrollo productivo y trabajo genuino. Resalta la militancia como el instrumento más poderoso para cambiar la realidad.",
+            "frase_fuerte": "Y coincidimos en que el instrumento más poderoso para cambiar la realidad es la militancia."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Baja de impuestos",
+                "Inversiones",
+                "Desarrollo económico"
+            ],
+            "postura_politica": "Impulsa activamente la reducción de impuestos y la implementación de regímenes de incentivos para inversiones, con el objetivo de atraer empresas y generar crecimiento y empleo en la Ciudad de Buenos Aires.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Desarrollo productivo",
+                "Modernización del Estado",
+                "Empleo",
+                "Turismo",
+                "Minería",
+                "Agroindustria"
+            ],
+            "postura_politica": "Promueve el programa 'Potenciar Catamarca' con el fin de modernizar la gestión estatal y diversificar la producción local en sectores estratégicos. Busca generar más empleo y oportunidades para emprendedores y trabajadores catamarqueños.",
+            "frase_fuerte": "buscando que este crecimiento se traduzca en más empleo y mejores oportunidades para los emprendedores, proveedores y trabajadores catamarqueños."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Políticas sociales",
+                "Adultos mayores",
+                "Salud",
+                "Recreación y deporte"
+            ],
+            "postura_politica": "Enfatiza la importancia de la recreación y el deporte para la salud y el bienestar de las personas mayores. Impulsa una ley para garantizar la continuidad de estas actividades, asegurando que los adultos mayores sigan siendo protagonistas.",
+            "frase_fuerte": "Porque la recreación también es salud, y los mayores siguen siendo protagonistas en nuestra provincia."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Eventos deportivos",
+                "Infraestructura",
+                "Promoción provincial"
+            ],
+            "postura_politica": "Destaca la capacidad de Córdoba para ser anfitriona de eventos deportivos internacionales, resaltando la inversión en infraestructura y la planificación. Promueve la provincia como un centro logístico y organizativo de espectáculos.",
+            "frase_fuerte": "Este tipo de eventos no llegan solos, no se dan por casualidad, se logran con mucha inversión, planificación, #infraestructura y trabajo."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Crecida del río Paraná",
+                "Gestión de emergencias",
+                "Asistencia a familias",
+                "Coordinación interinstitucional"
+            ],
+            "postura_politica": "Lidera el operativo de asistencia a las familias afectadas por la crecida del río Paraná, destacando la preparación y el despliegue coordinado de equipos provinciales y fuerzas de seguridad para brindar apoyo y prevenir riesgos.",
+            "frase_fuerte": "Seguimos trabajando junto al municipio, atentos a la evolución del río y acompañando a cada familia afectada."
+        },
+        {
+            "gobernador": "@gildoinsfran",
+            "temas_mencionados": [
+                "Día de la Militancia Peronista",
+                "Historia del peronismo",
+                "Unidad",
+                "Elecciones nacionales 2027"
+            ],
+            "postura_politica": "Conmemora el Día de la Militancia Peronista con un discurso que evoca la historia de resistencia y lealtad, haciendo un llamado a la unidad para 'volver a ser gobierno nacional' en 2027. Subraya el amor sobre el odio como fuerza política.",
+            "frase_fuerte": "En el 2027 tenemos que volver a ser gobierno nacional."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Desarrollo humano",
+                "Educación",
+                "Salud",
+                "Empleo",
+                "Proyectos energéticos",
+                "Exportaciones",
+                "Obras públicas"
+            ],
+            "postura_politica": "Resalta el alto índice de desarrollo humano de Río Negro y su posicionamiento estratégico en el ámbito energético con el proyecto Argentina LNG. Enfatiza la necesidad de que las grandes inversiones se traduzcan en trabajo y desarrollo local, destinando recursos de la energía a obras concretas.",
+            "frase_fuerte": "Río Negro está entre las tres jurisdicciones con mayor desarrollo humano de la Argentina."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Calidad de vida",
+                "Familia"
+            ],
+            "postura_politica": "Se enfoca en la entrega de viviendas como un pilar para la tranquilidad y el futuro de las familias. Destaca el compromiso provincial con la vivienda propia, administrando recursos para que más santafesinos accedan a este derecho.",
+            "frase_fuerte": "Tener la casa propia le da a una familia tranquilidad y la posibilidad de planificar su futuro."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Día de la Militancia Peronista",
+                "Partido Justicialista",
+                "Unidad nacional",
+                "Candidatura nacional"
+            ],
+            "postura_politica": "Reconoce y valora la militancia peronista, destacando su compromiso cotidiano. Postula la necesidad de que el peronismo nacional defina una candidatura y una propuesta común para el país, ofreciendo el aporte de Tucumán a esa construcción.",
+            "frase_fuerte": "También creemos que, a nivel nacional, nuestro movimiento necesita alcanzar una propuesta común y definir una candidatura que represente al conjunto."
+        }
+    ]
+}
