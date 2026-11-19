@@ -1,0 +1,110 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada nocturna dejó dos señales fuertes: el fallo laboral que celebra Jorge Macri como un golpe a la 'industria del juicio' y la crítica de Ricardo Quintela al Gobierno nacional por el ajuste. El resto de los gobernadores se refugió en la gestión local, con obras y emergencias.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: El fallo de la Justicia porteña que desarticula la 'industria del juicio' laboral no es una noticia judicial; es un misil político lanzado desde la Ciudad contra el modelo de litigiosidad que durante años nutrió a sindicatos y estudios jurídicos. Jorge Macri lo celebra como un triunfo de la racionalidad, pero el mensaje trasciende lo laboral: es una declaración de autonomía porteña frente a un gobierno nacional que, en su agenda de desregulación, encuentra en Macri a un aliado incómodo, porque el PRO compite por el mismo electorado anti-K.\n\nActo 2 — Los Alineamientos: Ricardo Quintela, desde La Rioja, elige la queja directa: la Tarjeta PAR Social no alcanza porque Nación recorta y encarece los alimentos. Es la voz de las provincias más dependientes de la coparticipación, que ven en el ajuste de Milei una asfixia calculada. En la vereda opuesta, Frigerio y Vidal muestran obras propias como señal de eficiencia: Entre Ríos reconstruye rutas, Santa Cruz reactiva represas. Ambos evitan nombrar a Nación, pero su gestión es un reproche tácito a la parálisis federal. Llaryora, en Córdoba, se refugia en la agenda social y la inclusión, un guiño al electorado progresista que no incomoda a la Casa Rosada.\n\nActo 3 — La Micro-política: Raúl Jalil recibe al embajador francés en Catamarca: un gesto de diplomacia provincial que busca inversiones mineras y turísticas, en un contexto donde la Nación no ofrece certezas. Es la estrategia del 'sálvese quien pueda' fiscal: cada gobernador teje su red de cooperación internacional para suplir la ausencia del Estado central. Mientras tanto, Weretilneck celebra trámites y seguridad en Río Negro, un ejercicio de gestión de bajo perfil que no altera la dinámica nacional.\n\nActo 4 — Saldo Presidencial: Milei no aparece en los tuits de la noche, pero su sombra está en cada crítica y en cada omisión. El fallo laboral le juega a favor, pero la queja de Quintela expone la fragilidad del ajuste en las provincias más vulnerables. El presidente gana en el tablero de la desregulación, pero pierde en el de la cohesión federal. La noche deja un empate incómodo: Macri marca un gol para la Ciudad, mientras el interior se repliega en su propio esfuerzo.",
+    "temas_calientes": [
+        {
+            "tema": "Fallo laboral en CABA: Jorge Macri celebra fin de la industria del juicio",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Crítica de Quintela al ajuste nacional: Tarjeta PAR Social y abandono",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Reactivación de obras: represas en Santa Cruz y rutas en Entre Ríos",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Cooperación internacional: Jalil recibe a embajador francés en Catamarca",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Gestión social: Llaryora destaca inclusión de discapacidad en visita papal",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Un fallo importantísimo para devolverle racionalidad a un sistema laboral que durante demasiado tiempo fue rehén de la industria del juicio.",
+        "por_que_es_clave": "Es una jugada de doble filo: por un lado, alinea a Macri con la desregulación laboral que pregona Milei; por otro, le permite al PRO capitalizar un fallo judicial para disputarle al libertarismo el liderazgo de la agenda de reformas. Además, desnuda la fragilidad de los sindicatos en un año electoral.",
+        "pregunta_openarg": "¿El fallo contra la industria del juicio laboral es un avance hacia la previsibilidad o un riesgo de desprotección para los trabajadores?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Fallo laboral",
+                "Baja de impuestos (RIMICABA)"
+            ],
+            "postura_politica": "Se posiciona como el gestor de la racionalidad y la eficiencia, en contraposición a la 'industria del juicio' que asocia con el kirchnerismo. La baja de impuestos refuerza su perfil pro-mercado. No menciona a Nación, pero su accionar compite directamente con la narrativa de ajuste de Milei.",
+            "frase_fuerte": "Un fallo importantísimo para devolverle racionalidad a un sistema laboral que durante demasiado tiempo fue rehén de la industria del juicio."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Cooperación internacional",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Apuesta a la diplomacia provincial para atraer inversiones y formación, en un contexto de retracción del Estado nacional. Es un gesto de autonomía y búsqueda de recursos externos, sin confrontar directamente con la Casa Rosada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Inclusión de discapacidad",
+                "Visita papal"
+            ],
+            "postura_politica": "Utiliza la agenda social y la figura del Papa para marcar un perfil humanista y de gestión presente, en contraste con el ajuste nacional. Evita temas fiscales y se refugia en lo simbólico.",
+            "frase_fuerte": "Defendemos a una sociedad que incluye a la discapacidad."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Emergencia hídrica"
+            ],
+            "postura_politica": "Muestra gestión activa con inversión en maquinaria y asistencia por la crecida del Paraná. Refuerza la imagen de un Estado provincial que responde donde Nación no llega. Sin crítica explícita, pero con un mensaje de eficiencia.",
+            "frase_fuerte": "Cuando cada peso va a donde tiene que ir, los resultados se ven."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Vivienda",
+                "Tarjeta PAR Social",
+                "Crítica a Nación"
+            ],
+            "postura_politica": "Combina anuncios locales con una crítica directa al Gobierno nacional por el ajuste y la falta de recursos. Se posiciona como defensor del federalismo y de los más vulnerables, en línea con el peronismo opositor.",
+            "frase_fuerte": "La provincia no puede afrontar sola las consecuencias de un modelo que encarece los alimentos y recorta recursos."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Gestión de trámites",
+                "Seguridad con IA"
+            ],
+            "postura_politica": "Enfatiza la eficiencia de la gestión provincial con programas como Cerca RN y el centro de seguridad inteligente. Es un perfil técnico y de bajo conflicto, que busca mostrar resultados sin entrar en polémicas nacionales.",
+            "frase_fuerte": "Sabemos que falta, pero tenemos rumbo."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Reactivación de represas",
+                "Trabajo"
+            ],
+            "postura_politica": "Anuncia la vuelta de las obras paralizadas como un logro de su gestión, recuperando el empleo. Sin mencionar a Nación, el mensaje implícito es que el abandono anterior fue culpa del gobierno anterior (peronista) y que ahora se avanza.",
+            "frase_fuerte": "Las represas se reactivan y Santa Cruz recupera el trabajo."
+        }
+    ]
+}
