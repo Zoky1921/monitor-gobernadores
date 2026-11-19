@@ -1,0 +1,222 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jorge Macri (CABA) lanza una ofensiva directa contra Axel Kicillof (Buenos Aires) en materia de seguridad, mientras gobernadores periféricos como Quintela (La Rioja) y Ziliotto (La Pampa) marcan distancia fiscal del Gobierno nacional. La cumbre minera en Mendoza alinea a Cornejo, Sadir y Pullaro en una agenda de desarrollo sectorial. Predomina la gestión local con mensajes de autonomía.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión del día se concentra en el AMBA, donde Jorge Macri (CABA) rompe el protocolo de convivencia y acusa a Axel Kicillof de inacción narco, retuiteando a Cristian Ritondo. Es una jugada de posicionamiento preelectoral que divide aguas y obliga al gobernador bonaerense a dar explicaciones. Paralelamente, Ricardo Quintela (La Rioja) clava un dardo inflacionario contra Milei, denunciando que no hay plata para las provincias pero sí para catering VIP en la visita papal. \n\n Acto 2 — Los Alineamientos: Los gobernadores de la región minera (Alfredo Cornejo, Carlos Sadir, Maximiliano Pullaro) se articulan en la Cumbre de Minería Sostenible en Mendoza, consolidando un frente productivo que busca oxígeno fiscal vía inversiones. En cambio, Sergio Ziliotto (La Pampa) exhibe su modelo de equilibrio fiscal sin endeudamiento, como contrafigura del ajuste nacional. Llaryora (Córdoba) se suma con su propia rebaja de impuestos, marcando perfil propio. \n\n Acto 3 — La Micro-política: Los mandatarios de provincias medianas y periféricas se refugian en la agenda de cabotaje. Leandro Zdero (Chaco) muestra producción exportable; Rogelio Frigerio (Entre Ríos) se enfoca en la recuperación de rutas y la crecida del río; Claudio Poggi (San Luis) y Gildo Insfrán (Formosa) despliegan gestión social y educativa. Es un mensaje de supervivencia: 'mientras la Nación no mira, nosotros gobernamos'. \n\n Acto 4 — Saldo Presidencial: La Casa Rosada no recibe apoyos explícitos, pero tampoco una rebelión generalizada. La ausencia de gobernadores del peronismo kirchnerista (Kicillof, Jalil) en la conversación del día sugiere un repliegue táctico. Macri capitaliza el micrófono de la seguridad, pero Milei puede leer en el silencio de los grandes distritos una advertencia: el federalismo fiscal sigue siendo la herida abierta.",
+    "temas_calientes": [
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico en AMBA",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Cumbre de Minería Sostenible y desarrollo federal",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@carlossadirjuy",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Fiscalidad: presupuestos provinciales y equilibrio vs ajuste nacional",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@MartinLlaryora",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Gestión local e infraestructura como refugio político",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@frigeriorogelio",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Malvinas como causa de unidad nacional (Tucumán)",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri (RT de @cristianritondo)",
+        "texto": "@Jorgemacri da la pelea de un lado de la General Paz. Del otro, @Kicillofok hace 7 años que mira para otro lado mientras el narco se adueña del conurbano. Durante los 4 años de nuestra gestión en la provincia derribamos UN BÚNKER POR SEMANA. Kicillof lleva CERO en 7 años. No es falta de recursos. Es falta de coraje y decisión.",
+        "por_que_es_clave": "Macri utiliza la comparación directa con Kicillof para posicionarse como el candidato del orden en la principal disputa territorial del país, apelando a la inseguridad como eje electoral. Es un golpe bajo que obliga a la Provincia a responder.",
+        "pregunta_openarg": "¿Es realmente falta de coraje o una estrategia deliberada de Kicillof para no confrontar con el narcotráfico en el Conurbano?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "seguridad",
+                "lucha contra el narcotráfico",
+                "gestión PRO"
+            ],
+            "postura_politica": "Ofensiva contra Kicillof: se presenta como ejecutor frente a la inacción bonaerense. El mensaje es tanto local como nacional, buscando capitalizar el voto de seguridad.",
+            "frase_fuerte": "Kicillof lleva CERO en 7 años. No es falta de recursos. Es falta de coraje y decisión."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "cooperación internacional",
+                "desarrollo productivo",
+                "cabotaje"
+            ],
+            "postura_politica": "Agenda de apertura al mundo y búsqueda de inversiones. Se alinea con el federalismo productivo sin criticar a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "producción",
+                "exportación",
+                "desarrollo local"
+            ],
+            "postura_politica": "Gestión local sin impacto federal. Mensaje positivo de crecimiento, evitando cualquier roce con la Casa Rosada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "infraestructura",
+                "inclusión",
+                "baja de impuestos",
+                "industrialización"
+            ],
+            "postura_politica": "Se muestra como gestor eficiente y modernizador. La rebaja impositiva es un guiño a los sectores productivos y una competencia con el relato de ajuste nacional.",
+            "frase_fuerte": "Los cordobeses no bajamos los brazos, bajamos los impuestos."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "obras viales",
+                "emergencia hídrica",
+                "transparencia"
+            ],
+            "postura_politica": "Gobierno de reconstrucción y orden. No hay mensaje hacia Nación, sino foco en la gestión propia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gildoinsfran (Formosa)",
+            "temas_mencionados": [
+                "gestión hídrica",
+                "militancia peronista"
+            ],
+            "postura_politica": "Peronismo tradicional, pero el tweet reciente es técnico (COHIFE). Evita conflictos nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "minería",
+                "cobre",
+                "inversiones"
+            ],
+            "postura_politica": "Protagonista en la cumbre minera. Se posiciona como parte del bloque de provincias mineras que buscan desarrollo con apoyo nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "presupuesto",
+                "equilibrio fiscal",
+                "vivienda"
+            ],
+            "postura_politica": "Exhibe su modelo de gestión como antítesis del endeudamiento y la especulación. Crítica implícita a la macro nacional.",
+            "frase_fuerte": "Seguimos siendo la única garantía de continuidad de un Modelo de Provincia basado en la producción y el trabajo."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "vivienda",
+                "inflación",
+                "crítica al gobierno nacional"
+            ],
+            "postura_politica": "Crítica abierta a Milei por la inflación y por priorizar gastos suntuarios sobre la obra pública. Se presenta como defensor de los vulnerables.",
+            "frase_fuerte": "Lo que se gastó en esa carpa podría haber servido para arreglar rutas nacionales, terminar viviendas, o avanzar con obras en hospitales."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "minería",
+                "inversiones",
+                "instituciones"
+            ],
+            "postura_politica": "Anfitrión de la cumbre minera, muestra articulación con Nación y otros gobernadores. Perfil técnico y pro-mercado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "educación",
+                "juventud",
+                "salud"
+            ],
+            "postura_politica": "Agenda social y educativa. Sin conflicto con Nación, apuesta a la gestión cotidiana.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "obras públicas",
+                "empleo",
+                "infraestructura"
+            ],
+            "postura_politica": "Despliegue masivo de obras provinciales. Afirma 'Río Negro tiene rumbo', implicando autosuficiencia y eficacia.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "vialidad",
+                "deportes"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Gestión protocolar aislada.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "represas",
+                "minería",
+                "seguridad"
+            ],
+            "postura_politica": "Reactiva obras paralizadas, critica la corrupción pasada. No ataca al gobierno actual pero reclama gestión.",
+            "frase_fuerte": "Las obras son para mejorarle la vida a la gente, no para hacer negocios."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "minería",
+                "agroindustria",
+                "infraestructura"
+            ],
+            "postura_politica": "Se suma a la alianza minera y defiende el campo. Mensaje de desarrollo productivo y diálogo con el sector privado.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "educación",
+                "aeropuerto",
+                "ciencia"
+            ],
+            "postura_politica": "Gestión con foco en formación y conectividad. Sin enfrentamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Malvinas",
+                "gestión provincial",
+                "deporte"
+            ],
+            "postura_politica": "Acto de soberanía con entrega de documento histórico. Refuerza la causa Malvinas, gesto de unidad nacional pero también de protagonismo provincial.",
+            "frase_fuerte": null
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal se caracteriza por una marcada afirmación de la autonomía provincial y un contraste explícito con las políticas nacionales. Gobernadores como Ziliotto (La Pampa) y Quintela (La Rioja) defienden modelos de gestión basados en la inversión pública y el equilibrio fiscal con recursos propios, diferenciándose de un enfoque nacional de ajuste y 'especulación financiera'. Se observa un intenso impulso a obras de infraestructura vial, hídrica, vivienda y servicios de salud en diversas provincias, a menudo financiadas localmente. La minería sostenible y el desarrollo productivo regional emergen como ejes prioritarios, con Jujuy, Mendoza, Santa Fe y Río Negro buscando capitalizar su potencial. La seguridad y la mejora de la educación pública complementan una agenda provincial proactactiva frente a un escenario macroeconómico complejo.",
+    "analisis_profundo": "La dinámica federal hoy se articula en un escenario de fuerte defensa de las identidades y capacidades provinciales, a menudo en contraste con el Gobierno nacional. La narrativa de 'autonomía y gestión propia' es central, como lo demuestra Sergio Ziliotto (La Pampa) al presentar su presupuesto con equilibrio fiscal y sin endeudamiento, posicionándolo como una garantía ante un modelo nacional de 'especulación financiera'. Ricardo Quintela (La Rioja) refuerza esta postura al destacar la entrega de viviendas con fondos provinciales y criticar la paralización de la obra pública nacional y el uso de recursos para 'catering VIP' en eventos oficiales, evidenciando una profunda tensión en la distribución de responsabilidades y prioridades. Claudio Vidal (Santa Cruz), por su parte, celebra la reactivación de represas y critica el 'robo de recursos' que frenó obras históricas, reafirmando el compromiso con el trabajo santacruceño.\n\nEl desarrollo productivo regional y la minería se consolidan como pilares. Alfredo Cornejo (Mendoza), junto a Carlos Sadir (Jujuy) y Maximiliano Pullaro (Santa Fe), participaron en la Cumbre de Minería Sostenible en Mendoza, donde Cornejo (Mendoza) anunció inversiones de empresas globales, y Pullaro (Santa Fe) ofreció a su provincia como hub logístico. Alberto Weretilneck (Río Negro) también alinea su gestión con los grandes proyectos productivos, proponiendo priorizar la mano de obra rionegrina en inversiones estratégicas.\n\nLa inversión en infraestructura y la mejora de servicios públicos son constantes en la agenda provincial. Weretilneck (Río Negro) detalló más de 600 obras en marcha, incluyendo agua, hospitales y el Tren del Valle, mientras Rogelio Frigerio (Entre Ríos) resaltó la adquisición de maquinaria para recuperar rutas. Claudio Poggi (San Luis) reportó múltiples intervenciones en infraestructura vial, educación especial y atención primaria de salud. Martín Llaryora (Córdoba) destacó avances en rutas y políticas de inclusión. Gildo Insfrán (Formosa) se enfocó en la gestión hídrica, y Elías Suárez (Santiago del Estero) en la modernización educativa con concursos docentes. Jorge Macri (Ciudad de Buenos Aires) concentró su agenda en la seguridad con la demolición de un búnker narco, y en la gestión laboral, haciendo una velada crítica a la inacción en el conurbano. Este panorama refleja una gestión provincial activa y diversificada, priorizando las necesidades locales en un contexto de recursos nacionales limitados y un clima político polarizado.",
+    "temas_calientes": [
+        {
+            "tema": "Federalismo y Autonomía Provincial frente a Políticas Nacionales",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Impulso a la Minería Sostenible y Desarrollo Productivo Regional",
+            "gobernadores_involucrados": [
+                "@alfredocornejo",
+                "@carlossadirjuy",
+                "@maxipullaro",
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Servicios Públicos con Fondos Propios",
+            "gobernadores_involucrados": [
+                "@Weretilneck",
+                "@claudiojpoggi",
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@ZiliottoSergio",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Modernización de la Gestión y Fortalecimiento de la Educación y Salud Pública",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE",
+                "@claudiojpoggi",
+                "@Weretilneck",
+                "@ZiliottoSergio",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Seguridad y Combate al Narcotráfico",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Weretilneck"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ZiliottoSergio (La Pampa)",
+        "texto": "En 2027 tendremos otro Presupuesto que consolida nuestro histórico Modelo de Provincia. ✅ Con equilibrio fiscal, como hace 44 años. ✅ Sin endeudamiento. La inversión pública continúa, financiada con recursos presupuestarios. ✅ 25 % destinado a Inversión en Educación. ✅ 17 % destinado al Desarrollo de la Economía. ✅ 16 % para Inversión en Salud Pública. No resulta casual que fue aprobado en soledad por nuestra Vicegobernadora @aliciasmayoral y nuestro bloque legislativo. Seguimos siendo la única garantía de continuidad de un Modelo de Provincia basado en la producción y el trabajo como eje de crecimiento e inclusión. En las antípodas del modelo de especulación financiera y exclusión social que otros sueñan aplicar.",
+        "por_que_es_clave": "El gobernador de La Pampa (Sergio Ziliotto) define un modelo provincial autónomo y con fuerte inversión social, posicionándolo como la 'única garantía' ante un modelo nacional implícitamente de 'especulación financiera y exclusión social'. Es una declaración contundente de soberanía económica provincial y una clara marcación de cancha frente a la Casa Rosada.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (Ciudad de Buenos Aires)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Justicia Laboral",
+                "Federalismo / Cuestión AMBA"
+            ],
+            "postura_politica": "Enfatiza la 'ley y orden' con acciones directas contra el narcotráfico y promueve un marco laboral favorable a la inversión. Su retuit a Cristian Ritondo lo posiciona críticamente frente a la gestión bonaerense en seguridad, marcando una dicotomía en la seguridad del AMBA.",
+            "frase_fuerte": "Increíblemente buena la demolición del búnker narco en la villa 31. Ley y orden."
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Cooperación Internacional",
+                "Desarrollo Cultural y Productivo"
+            ],
+            "postura_politica": "Impulsa la apertura internacional y la valorización de la riqueza cultural y productiva provincial, buscando nuevas oportunidades de intercambio y desarrollo de proyectos conjuntos con países como Francia.",
+            "frase_fuerte": "Tenemos una enorme riqueza cultural, científica y productiva que merece ser conocida en el mundo, y la cooperación internacional es una oportunidad para potenciarla."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Desarrollo Productivo",
+                "Exportaciones"
+            ],
+            "postura_politica": "Celebra y promociona el crecimiento y la proyección internacional de la producción local, destacando la capacidad de la industria chaqueña para cruzar fronteras.",
+            "frase_fuerte": "¡La producción chaqueña sigue cruzando fronteras!"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Inclusión Social"
+            ],
+            "postura_politica": "Mantiene un fuerte compromiso con la inversión en infraestructura vial para la conectividad y productividad regional, y con políticas de inclusión para personas con discapacidad, destacando la visibilidad y el apoyo a estas instituciones.",
+            "frase_fuerte": "Las rutas no solo unen lugares. También acercan oportunidades, integran el territorio y permiten que nuestras economías regionales sean más competitivas."
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Gestión Pública"
+            ],
+            "postura_politica": "Enfocado en la recuperación y modernización de la infraestructura vial, destacando la eficiencia en el uso de los recursos provinciales para llegar a cada rincón de la provincia y fortalecer los caminos de la producción.",
+            "frase_fuerte": "Cuando cada peso va a donde tiene que ir, los resultados se ven. La reconstrucción está en marcha."
+        },
+        {
+            "gobernador": "@gildoinsfran (Formosa)",
+            "temas_mencionados": [
+                "Gestión Hídrica",
+                "Cooperación Federal"
+            ],
+            "postura_politica": "Demuestra participación activa en organismos federales para la gestión sostenible de recursos hídricos, enfocándose en los desafíos que plantea el actual ciclo de El Niño en la región y la necesidad de estrategias conjuntas.",
+            "frase_fuerte": "El COHIFE es responsable de coordinar acciones, sistematizar experiencias y promover estrategias conjuntas para la gestión federal y sostenible de los recursos hídricos en nuestro país."
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Minería Sostenible",
+                "Desarrollo Productivo"
+            ],
+            "postura_politica": "Posiciona a Jujuy como un actor clave en el desarrollo minero nacional, participando en cumbres y buscando la integración con la industria y logística de otras provincias, aunque sin una frase contundente en sus tweets actuales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Economía Provincial",
+                "Presupuesto",
+                "Vivienda"
+            ],
+            "postura_politica": "Defiende un modelo de provincia con equilibrio fiscal, sin endeudamiento y con fuerte inversión social en educación, salud y vivienda, contrastándolo con un modelo nacional de 'especulación financiera y exclusión social'. Muestra un Estado presente y eficiente en la generación de oportunidades.",
+            "frase_fuerte": "Seguimos siendo la única garantía de continuidad de un Modelo de Provincia basado en la producción y el trabajo como eje de crecimiento e inclusión. En las antípodas del modelo de especulación financiera y exclusión social que otros sueñan aplicar."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Política Social",
+                "Crítica al Gobierno Nacional"
+            ],
+            "postura_politica": "Demuestra compromiso con la obra pública y la asistencia social con fondos provinciales, contrastando con la parálisis de la obra pública nacional. Critica el doble rasero en el gasto público nacional, enfatizando la necesidad de que la Nación asuma sus responsabilidades.",
+            "frase_fuerte": "Desde La Rioja sostenemos herramientas como la Tarjeta PAR Social, pero la provincia no puede afrontar sola las consecuencias de un modelo que encarece los alimentos y recorta recursos. La Nación debe asumir su responsabilidad y dar respuestas."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Minería Sostenible",
+                "Justicia",
+                "Institucionalidad"
+            ],
+            "postura_politica": "Posiciona a Mendoza como un centro minero internacional, atrayendo inversiones y profundizando esta 'nueva matriz productiva'. Además, refuerza el compromiso con una Defensa Pública sólida e independiente, al servicio de los ciudadanos.",
+            "frase_fuerte": "Este interés no es casualidad. Es el resultado de una decisión política que sostenemos y vamos a seguir profundizando."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Educación",
+                "Formación Política",
+                "Juventud"
+            ],
+            "postura_politica": "Promueve activamente la participación juvenil en la política y la inversión en educación superior, destacando la importancia de la formación y la construcción de proyectos comunitarios para el futuro de la provincia.",
+            "frase_fuerte": "¡Sigan haciendo política, porque el futuro también se construye con ustedes!"
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Empleo",
+                "Salud Pública",
+                "Seguridad",
+                "Conectividad"
+            ],
+            "postura_politica": "Muestra una gestión activa y multifacética, con un claro enfoque en obras que mejoran la calidad de vida, la generación de empleo local en grandes proyectos estratégicos, el fortalecimiento de los servicios públicos y la seguridad con tecnología.",
+            "frase_fuerte": "RÍO NEGRO ESTÁ EN MARCHA: MÁS DE 600 OBRAS Y 15.000 PUESTOS DE TRABAJO. Gobernar es transformar la vida de la gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Salud",
+                "Educación Especial",
+                "Cercanía con la gente"
+            ],
+            "postura_politica": "Destaca la continuidad de obras en municipios y la capital, el fortalecimiento de la atención primaria de salud y la entrega de herramientas inclusivas en escuelas, enfatizando una gestión basada en la 'cercanía' con los vecinos para transformar sus vidas.",
+            "frase_fuerte": "La 'cercanía' es la manera de gobernar que elegimos desde el primer día."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Obra Pública",
+                "Empleo",
+                "Lucha contra la Corrupción"
+            ],
+            "postura_politica": "Celebra la reactivación de obras clave como las represas, paralizadas durante años, enfatizando la lucha contra la corrupción para que los recursos provinciales se traduzcan en trabajo y desarrollo, y no en beneficios para unos pocos.",
+            "frase_fuerte": "Recuperar esta obra costó mucho esfuerzo. Ahora tenemos la responsabilidad de no volver a perder esta oportunidad."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Minería",
+                "Desarrollo Productivo",
+                "Logística"
+            ],
+            "postura_politica": "Ofrece a Santa Fe como un socio estratégico para el desarrollo minero nacional, destacando su capacidad industrial y logística para la exportación de producción al mundo.",
+            "frase_fuerte": "Somos el hub logístico más importante del país y queremos ser los socios que la minería necesita para crecer y salir al mundo por Santa Fe 💪🏽"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Educación",
+                "Formación Docente"
+            ],
+            "postura_politica": "Impulsa la calidad educativa a través de concursos de títulos, antecedentes y oposición para cargos directivos, buscando fortalecer el sistema educativo provincial y reconocer el esfuerzo de los docentes.",
+            "frase_fuerte": "Es un momento histórico para el sistema educativo santiagueño, que es fruto de un gran trabajo en conjunto."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Soberanía Nacional",
+                "Historia",
+                "Gestión Federal"
+            ],
+            "postura_politica": "Refuerza el compromiso de Tucumán con la causa Malvinas a través de un aporte documental histórico a la Cancillería Argentina, mostrando colaboración con el gobierno nacional en temas de Estado y soberanía.",
+            "frase_fuerte": "Este documento histórico permite demostrar que desde el punto de vista administrativo, jurídico e histórico, las Malvinas siempre fueron argentinas."
+        }
+    ]
+}
