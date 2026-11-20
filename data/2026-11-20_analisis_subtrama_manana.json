@@ -1,0 +1,149 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de gestión local sin confrontación con Nación. Gobernadores de distintos signos políticos se enfocan en anuncios de obras, viviendas y seguridad, evitando posicionamientos sobre la macroeconomía o la relación con la Casa Rosada. El silencio sobre temas fiscales sugiere un repliegue estratégico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada transcurre sin tensiones visibles entre Nación y provincias. Los gobernadores optan por una agenda de cabotaje, priorizando anuncios de gestión que no incomoden al oficialismo nacional. La ausencia de reclamos por coparticipación o recursos marca un compás de espera.\n\nActo 2 — Los Alineamientos: No se registran alineamientos explícitos. Cada gobernador opera en su propio territorio, sin coordinar mensajes. El peronismo federal (Jalil, Insfran, Suarez) y los radicales (Valdes, Cornejo ausente) se mantienen en sus respectivas burbujas provinciales.\n\nActo 3 — La Micro-política: Las provincias periféricas (Catamarca, Chaco, Chubut, Santa Cruz) muestran capacidad de gestión autónoma. Nacho Torres (Chubut) destaca por su crítica implícita al abandono de obras previas, un dardo sin destinatario explícito pero que resuena en el relato de ajuste nacional.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es favorable: ningún gobernador salió a confrontar. El silencio puede leerse como una tregua o como una acumulación de tensiones que buscarán canalizarse por otras vías. El tablero federal permanece en calma, pero la calma no es paz.",
+    "temas_calientes": [
+        {
+            "tema": "Inversiones en seguridad provincial",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Entrega de viviendas y obras públicas",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Inversiones productivas y empleo",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Asistencia por inundaciones",
+            "gobernadores_involucrados": [
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Efemérides y agenda protocolar",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@gildoinsfran"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@NachoTorresCH",
+        "texto": "DONDE HABÍA UNA OBRA ABANDONADA, HOY HAY 68 FAMILIAS CON SU CASA PROPIA\n\nDespués de años de abandono, nos hicimos cargo del https://t.co/ClSafzbmCt. de Trelew, lo terminamos con recursos propios y entregamos las primeras 68 viviendas a familias de nuestra Policía, que todos los días trabajan para cuidar a los chubutenses.\n\nHoy, son 68 las familias que recibieron las llaves de su hogar. Pero nuestro compromiso es mucho más grande: vamos a construir más de 790 viviendas para policías, docentes y trabajadores esenciales de toda la provincia.\n\nPorque en Chubut la palabra vale y las obras que se empiezan, se terminan.",
+        "por_que_es_clave": "El tuit de Torres es una declaración de eficiencia provincial frente al abandono previo, que puede leerse como una crítica al gobierno nacional que recortó obra pública. Al destacar 'recursos propios', marca autonomía y capacidad de gestión, un mensaje que resuena en el contexto de ajuste.",
+        "pregunta_openarg": "¿Hasta qué punto la finalización de obras abandonadas por Nación fortalece el capital político de los gobernadores y debilita el relato de ajuste del oficialismo?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Aniversario de La Plata",
+                "Evento cultural"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. El tuit es puramente protocolar, evitando cualquier mención a la gestión nacional o a conflictos provinciales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Inversión provincial"
+            ],
+            "postura_politica": "Marca gestión autónoma en seguridad, sin mencionar a Nación. La inversión histórica sugiere que la provincia asume costos que antes podían ser nacionales.",
+            "frase_fuerte": "Tomamos la decisión de realizar una inversión histórica para fortalecer la seguridad en toda Catamarca."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Inundaciones",
+                "Asistencia social"
+            ],
+            "postura_politica": "Gestión de crisis sin confrontación. El tuit muestra continuidad en la asistencia, pero no reclama ayuda nacional ni critica demoras.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Obra pública",
+                "Autonomía provincial"
+            ],
+            "postura_politica": "Crítica implícita al abandono de obras previas. Al destacar 'recursos propios', se posiciona como gestor eficiente frente a la inacción de otros niveles del Estado.",
+            "frase_fuerte": "Después de años de abandono, nos hicimos cargo... lo terminamos con recursos propios"
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [
+                "Inversión industrial",
+                "Empleo",
+                "Política"
+            ],
+            "postura_politica": "Promoción económica y diálogo político. La reunión con Lacunza sugiere construcción de redes, pero sin posicionamiento público contra Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gildoinsfran (Formosa)",
+            "temas_mencionados": [
+                "Efeméride",
+                "Soberanía nacional"
+            ],
+            "postura_politica": "Agenda protocolar aislada. El tuit reivindica la soberanía, pero sin vinculación con conflictos actuales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Deporte",
+                "Inversión social"
+            ],
+            "postura_politica": "Gestión local sin impacto federal. El tuit refuerza el perfil de gestión cercana, pero no aborda temas de la agenda nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Promoción provincial",
+                "Cultura"
+            ],
+            "postura_politica": "Agenda de promoción turística y productiva. Sin señales políticas relevantes.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Minería",
+                "Empleo"
+            ],
+            "postura_politica": "Destaca la reactivación minera y el empleo local. Sin mención a Nación, pero el contexto de recuperación de actividad sugiere un logro provincial.",
+            "frase_fuerte": "CERRO NEGRO SIGUE CRECIENDO: 380 SANTACRUCEÑOS TRABAJANDO"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Programa social",
+                "Juventud"
+            ],
+            "postura_politica": "Gestión social sin confrontación. El tuit muestra continuidad de políticas, pero no aborda temas fiscales ni de seguridad.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Viviendas",
+                "Política habitacional"
+            ],
+            "postura_politica": "Entrega masiva de viviendas como muestra de gestión. Sin mención a Nación, pero el volumen sugiere capacidad provincial.",
+            "frase_fuerte": "510 familias santiagueñas abrieron la puerta de su casa por primera vez."
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La agenda provincial de las últimas horas se centró en la gestión local, con un fuerte énfasis en la inversión pública y el desarrollo productivo. Gobernadores como Valdés (Corrientes) y Vidal (Santa Cruz) destacaron el impulso a la industria y la minería, generando empleo. En el ámbito social, Suárez (Santiago del Estero) y Torres (Chubut) anunciaron masivas entregas de viviendas financiadas con recursos propios, mientras Zdero (Chaco) atendió la emergencia por inundaciones. Figueroa (Neuquén) y Pullaro (Santa Fe) enfocaron en el desarrollo juvenil y deportivo. Weretilneck (Río Negro) mostró una postura proactiva asumiendo obras abandonadas por Nación. Insfrán (Formosa) aprovechó el Día de la Soberanía para un mensaje de federalismo, marcando el pulso político del día.",
+    "analisis_profundo": "Durante la franja horaria analizada, la comunicación de los gobernadores reveló un marcado pragmatismo enfocado en la gestión y el desarrollo provincial, con una clara tendencia a resaltar la autonomía y capacidad de respuesta de cada jurisdicción. El eje de la inversión productiva fue notable, como lo demuestran los anuncios de Gustavo Valdés (Corrientes) sobre una significativa inversión industrial y sus proyecciones de exportación, así como Claudio Vidal (Santa Cruz) al destacar el crecimiento del sector minero y la creación de empleo. Estos mensajes buscan posicionar a sus provincias como polos de desarrollo y socios atractivos para el capital privado, al margen de posibles vaivenes económicos nacionales. En el plano social, la provisión de viviendas y la atención a la juventud fueron temas centrales. Elías Suárez (Santiago del Estero) informó sobre la entrega masiva de hogares y la puesta en marcha de nuevas construcciones con fondos provinciales, lo que también genera empleo en el sector. Ignacio Torres (Chubut) no solo entregó viviendas a fuerzas de seguridad, sino que enfatizó la finalización de 'obras abandonadas' con recursos propios, una señal de compromiso y, sutilmente, de diferenciación respecto a la gestión federal. Axel Kicillof (Buenos Aires), aunque con un mensaje más ceremonial sobre el aniversario de La Plata, mantuvo un perfil de gestión. Leandro Zdero (Chaco) centró su comunicación en la asistencia a familias afectadas por inundaciones, mostrando una administración activa en la respuesta a emergencias. En cuanto a la infraestructura y los servicios, Raúl Jalil (Catamarca) anunció una importante inversión en seguridad, adquiriendo vehículos y equipamiento para las fuerzas policiales. Rolando Figueroa (Neuquén) apostó por el deporte como herramienta de desarrollo social para la juventud. Alberto Weretilneck (Río Negro) adoptó una postura más confrontativa al mencionar que su provincia se hizo cargo de la red eléctrica de un campus universitario 'cuando Nación abandonó la obra', reforzando la narrativa de la capacidad y responsabilidad provincial ante la inacción federal. Maximiliano Pullaro (Santa Fe) se enfocó en el cierre de un programa de oportunidades para jóvenes, destacando la importancia de la formación. Finalmente, Gildo Insfrán (Formosa) capitalizó el Día de la Soberanía Nacional para un mensaje cargado de contenido político, reafirmando el compromiso con una 'Patria federal, libre, justa y soberana', un eco de los debates sobre la relación centro-periferia y la distribución de poder en Argentina.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo Económico Provincial y Generación de Empleo",
+            "gobernadores_involucrados": [
+                "@gustavovaldesok",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Inversión en Vivienda Social con Fondos Provinciales",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Seguridad Pública e Infraestructura",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Autonomía Provincial y Reclamos Federales (o Subsidios Cruzados)",
+            "gobernadores_involucrados": [
+                "@Weretilneck",
+                "@gildoinsfran"
+            ]
+        },
+        {
+            "tema": "Programas Sociales y Desarrollo Juvenil",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@Rolo_Figueroa",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@gildoinsfran",
+        "texto": "DÍA DE LA SOBERANÍA NACIONAL Hoy recordamos el heroísmo de las fuerzas patrias encabezadas por el Gral. Lucio Mansilla, bajo el mando del Gral. Juan Manuel de Rosas, en defensa de nuestra independencia y soberanía. Reivindicamos el valor de la soberanía nacional, y honramos ese legado reafirmando nuestro compromiso con una Patria federal, libre, justa y soberana. #TodosUnidos #Formosa",
+        "por_que_es_clave": "Es el único posteo del día (20/11/2026) dentro del horario establecido y su contenido es una declaración política fundamental que vincula una efeméride histórica con la visión actual de una 'Patria federal, libre, justa y soberana', un concepto central en la retórica opositora a políticas centralistas.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Inversión en equipamiento policial"
+            ],
+            "postura_politica": "Foco en la gestión provincial para mejorar la seguridad con recursos propios, mostrando una administración proactiva en un área clave para la ciudadanía.",
+            "frase_fuerte": "Es una de las entregas más importantes que hemos realizado a nuestras fuerzas de seguridad y representa una decisión clara de nuestro Gobierno: dotar a quienes nos cuidan de mejores herramientas y garantizar una mayor presencia policial para que los catamarqueños vivan más seguros."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Gestión de emergencias",
+                "Asistencia social",
+                "Inundaciones"
+            ],
+            "postura_politica": "Muestra un gobierno presente en la gestión de crisis y cercano a las necesidades de las familias afectadas, destacando la continuidad de la asistencia.",
+            "frase_fuerte": "Más de 40 días de asistencia y acompañamiento a las familias afectadas por las inundaciones."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Obras públicas",
+                "Recursos provinciales",
+                "Finalización de obras abandonadas"
+            ],
+            "postura_politica": "Resalta la finalización de obras abandonadas y la entrega de viviendas a trabajadores esenciales, subrayando el compromiso provincial con la palabra y el uso de fondos propios, en una sutil contraposición a la gestión federal.",
+            "frase_fuerte": "Porque en Chubut la palabra vale y las obras que se empiezan, se terminan."
+        },
+        {
+            "gobernador": "@gustavovaldesok",
+            "temas_mencionados": [
+                "Inversión privada",
+                "Desarrollo industrial",
+                "Creación de empleo",
+                "Exportaciones"
+            ],
+            "postura_politica": "Promotor activo de la inversión extranjera y la industrialización, vinculando la infraestructura y la seguridad jurídica con el crecimiento económico y la capacidad exportadora provincial.",
+            "frase_fuerte": "Zozzoli S.A. inauguró, en #SantoTomé, el complejo industrial Don Daniel, una inversión de U$D20 millones que, en máxima capacidad, generará 200 puestos de trabajo directos."
+        },
+        {
+            "gobernador": "@gildoinsfran",
+            "temas_mencionados": [
+                "Soberanía nacional",
+                "Federalismo",
+                "Identidad",
+                "Conmemoraciones históricas"
+            ],
+            "postura_politica": "Conmemoración que se transforma en una reafirmación política de los valores de soberanía y federalismo, proyectando una visión de país y de defensa de la autonomía regional.",
+            "frase_fuerte": "Reivindicamos el valor de la soberanía nacional, y honramos ese legado reafirmando nuestro compromiso con una Patria federal, libre, justa y soberana."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Deporte",
+                "Desarrollo juvenil",
+                "Infraestructura social"
+            ],
+            "postura_politica": "Enfatiza la inversión en el deporte como una herramienta de transformación social y contención para los jóvenes, alineado con la 'neuquinidad' como valor provincial.",
+            "frase_fuerte": "Es mejor que un chico esté en un club, con una pelota y amigos, y por eso es nuestra responsabilidad hacer clubes más fuertes. Esa es la neuquinidad que queremos defender."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Educación pública",
+                "Inversión provincial",
+                "Abandono de obras nacionales",
+                "Promoción provincial"
+            ],
+            "postura_politica": "Crítico con la Nación por el abandono de obras universitarias, destacando la autonomía y capacidad provincial para asumir responsabilidades y promover sus recursos y talentos. Refuerza un perfil de gestión activa ante la inacción federal.",
+            "frase_fuerte": "Cuando Nación abandonó la obra, que estaba casi terminada, en Río Negro tomamos la decisión de hacernos cargo de los servicios necesarios para ponerla en funcionamiento."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Desarrollo minero",
+                "Generación de empleo",
+                "Actividad económica"
+            ],
+            "postura_politica": "Resalta el crecimiento de la actividad minera y la creación de puestos de trabajo, presentando al sector como un motor de desarrollo para la provincia.",
+            "frase_fuerte": "CERRO NEGRO SIGUE CRECIENDO: 380 SANTACRUCEÑOS TRABAJANDO"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Programas sociales",
+                "Juventud",
+                "Formación"
+            ],
+            "postura_politica": "Enfocado en el impacto de los programas sociales en la juventud, buscando que los jóvenes encuentren formación y herramientas para el futuro.",
+            "frase_fuerte": "De eso se trata Nueva Oportunidad: que cada joven encuentre su lugar, se forme y tenga más herramientas para salir adelante."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Vivienda social",
+                "Obras públicas",
+                "Empleo en construcción",
+                "Fondos provinciales"
+            ],
+            "postura_politica": "Destaca una masiva entrega de viviendas financiadas con fondos provinciales, enfatizando el compromiso con el 'techo y trabajo' y la continuidad de una gestión ordenada que genera empleo en la construcción.",
+            "frase_fuerte": "Techo y trabajo son el compromiso que asumimos, y lo cumplimos cada día, porque no pueden esperar."
+        }
+    ]
+}
