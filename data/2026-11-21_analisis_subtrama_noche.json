@@ -1,0 +1,172 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por anunios energéticos de gran escala desde Neuquén y Rí Negro, que redefinen la relacón fiscal con Nación. Gobenadores del peronismo se refugiaron en agendas locales o efemérides, mientas que los del PRO/UCR mostraron gestón y alineamiento con el RIGI. El silencio de a mayría de los mandatarios periféricos sugere una espeara estratégica.",
+    "analisis_profundo": "— Acto 1: El conflicto central de la jornada es la disputa por los recuros energéticos y la coparicipación. Los anunios de Weretilneck y Figueroa sobre inversiones multimillonarias en Vacua Muerta y GNL consolidan a las provincias patagónicas como actores centrales, pero también aumentan la dependencia de Nación para las regalías. El silencio de Kicillof y de la mayría de los peronistas sobe el RIGI revela una ambigüedad calculada: no pueden ignorar el desarollo, pero evitan legitimar el modelo de Milei. \n\n — Acto 2: Los alineamientos se dibujan con claridad: Weretilneck y Figueroa se alinean tácitamente con Milei al agradecerle, mientras que Jalil impulsa la Ley de Cabotaje como herramienta federal, sin mencionar a Nación. Los gobernadores del norte (Insfran, Passalacqua, Quintela) se refugian en efemérides y militancia peronista, en un repliegue identitario. Pullaro y Llaryora, desde el centro, muestran gestión en infraestructura y seguridad, pero evitan pronunciarse sobre la macro. \n\n — Acto 3: La micro-política es el refugio de los mandatarios periféricos: Zdero invierte en salud y seguridad en el Chaco; Poggi entrega viviendas y gas en San Luis; Vidal avanza en obras hídricas en Santa Cruz. Son gestos de supervivencia, pero también una forma de decir: 'aquí gestionamos, mientras Nación discute el futuro energético'. La ausencia de tweets de gobernadores como Cornejo, Saenz o Orrego es signifcativa: optan por el silencio en un día clave. \n\n — Acto 4: El saldo presidencial es posivo para Milei: las inversiones de Rí Negro y Neuquén dan fuerza a su relato de confianza y RIGI. Sin embargo, la mayoría de los gobenadores no se posiciona, lo que indica que el capital polítco aún no se traduce en adhesión explícita. La jornada deja una fralidad: los que tienen recuros energéticos avanzan; los que no, esperan. El federalismo sigue siendo una promesa más que una realidad.",
+    "temas_calientes": [
+        {
+            "tema": "Inversión energética récord en Rí Negro y Neuquén: anuncio de Argentina LNG y cental hidroeléctrica",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Ley de Cabotaje y federalismo fiscal: proyeco apobado en Senado",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Gestión provincial en seguridad y obra pública: entrega de equipamiento y hospitales",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Refugio en agenda peronista: Día de la Milicancia y efemérides",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@gildoinsfran",
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Silencio estratégico de gobernadores de provincias centrales ante el RIGI",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@jorgemacri",
+                "@alfredocornejo",
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Weretilneck",
+        "texto": "EL RIGI APRÓ LA MAYOR INVERSIÓN DE LA HITORIA ARGENTINA. Y ES RONEGRINA. Más de 50 mil millones de dólares. Gas de Vacua Muerta que va a salir al mundo desde nuestra costa. Gracias al presidente @JMilei y al ministro @LuisCaputoAR por generar las condiciones para que inversiones de este nivel lleguen a la Argentina.",
+        "por_que_es_clave": "El tweet posiciona a Weretilneck como el gobenzador más alineado con Milei en la jornada, capitalizando el mayor anuncio de inversión en la historia del país. Agradece explícitamente al presidente, lo que refuerza su perfil de gestión eficiente y su capacidad para atraer capitales, en contraste con el silencio de otros gobenadores peronistas.",
+        "pregunta_openarg": "¿El RIGI y las inversiones en Vaca Muerta son un triunfo del federalismo o una nueva concentración de poder en las provincias patagónicas que profundiza las asimetrías con el resto del país?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "energía renovable",
+                "vivienda"
+            ],
+            "postura_politica": "Agenda local de gestión protocolar. No menciona a Nación, lo que sugiere un repliegue estratégico para no legitimar los anuncios energéticos del día. El parque solar es una marca de autonomía provincial frente al desfinanciamiento nacional.",
+            "frase_fuerte": "¡Un viernes a pura inauguración y derechos garantizados en Punta Indio!"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "cabotaje",
+                "minería",
+                "cooperación internacional",
+                "cultura"
+            ],
+            "postura_politica": "Apoya la Ley de Cabotaje como herramienta federal, pero evita críticas directas a Nación. Su agenda de cooperación con Francia refuerza una imagen de gestión internacionalista. La minería es presentada como desarrollo local, no como conflicto.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "salud",
+                "seguridad"
+            ],
+            "postura_politica": "Gestión local sin impacto federal. Entrega de equipamientoo hospitalario y policial en un contexto de inundaciones. Muestra presencia estatal, pero sin referencia a la macroeconomía ni a Nación.",
+            "frase_fuerte": "Más tecnología y mejores herramientas en el sistema público para agilizar los controles."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "religión",
+                "seguridad",
+                "policía"
+            ],
+            "postura_politica": "Combina agenda institucional (visita del Papa) con anuncios de seguridad. El boleto policial es un gesto de cuidado a la fuerza, en un contexto de crisis. No hay mención a la Nación, lo que refuerza su perfil de gestión provincialista.",
+            "frase_fuerte": "Cuidar a quienes nos cuidan es una decisión y un compromiso que sostenemos con hechos."
+        },
+        {
+            "gobernador": "@gildoinsfran (Formosa)",
+            "temas_mencionados": [
+                "aniversario local",
+                "trabajadores bancarios"
+            ],
+            "postura_politica": "Agenda protocolar aislada. Sin referencia a temas nacionales. Reafirma su identidad peronista con el Día de la Milicancia, pero sin posicionamiento sobre la covuntura.",
+            "frase_fuerte": "Cena con trabajadores bancarios para festejar su día."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "militancia peronista"
+            ],
+            "postura_politica": "Fuerte identidad peronista en el Día de la Militancia. Sin mención a la gestión provincial ni a Nación. Es un refugio simbólico en un día de grandes anuncios energéticos que lo dejan afuera.",
+            "frase_fuerte": "La militancia es el motor que nos impulsa, el compromiso que nos une y la fuerza para seguir transformando la realidad."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "presentación de libro",
+                "salud auditiva"
+            ],
+            "postura_politica": "Agenda local de bajo peso político. Sin impacto federal. Se refugia en actividad cultural y de gestión social.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "energía hidroeléctrica",
+                "gas",
+                "fiesta cultural",
+                "inversión Vaca Muerta",
+                "rutas",
+                "deporte"
+            ],
+            "postura_politica": "Fuerte perfil de gestión energética y desarrollo. Anuncia la mayor inversión de la historia en Neuquén y agradece a Milei, posicionándose como aliado del RIGI. Su agenda muestra una provincia en expansión, con obras en todo el territorio.",
+            "frase_fuerte": "El proyect de inversión más importane de la historia del país tiene su epicentro en Neuquén."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "inversión energética",
+                "infraestructura",
+                "educación",
+                "seguridad",
+                "agua potable",
+                "puertos"
+            ],
+            "postura_política": "Aliado estratógico de Milei. Anunca la mayor inversión del país y agradece al presidente. Su agenda muestra una provinci que crece graias al RIGI y la seguridad jurídica. Refuera el 'rumbo' de la provinci y su capaciad de atrer capitales.",
+            "frase_fuerte": "El RIGI aprobó la mayor inversión de la historia argenina. Y es rionegrina."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "clubes",
+                "jubilados",
+                "viviendas"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Entrega de equipamiento y visitas a centros de jubilados. No hay referencia a la macroeconomía.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "agua potable",
+                "gas"
+            ],
+            "postura_politica": "Gestión provincial en infraestructura básica. Sin mención a Nación. En un contexto de grandes inversiones en el sur, su tweet es modesto y localista.",
+            "frase_fuerte": "Hay familias que llevan 14 años esperando una respuesta."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "obra públca",
+                "viviendas"
+            ],
+            "postura_politica": "Gestión local en obras de infraestructura. Sin referencia a la Nación. Muestra una provinci que invierte en conectividad, pero sin posicionamiento sobre el debate energético del día.",
+            "frase_fuerte": "Inauguramos las obras de la avenida Jorge Newbery. Otra gran transformación que llevamos adelante en la ciudad con más futuro del país."
+        }
+    ]
+}

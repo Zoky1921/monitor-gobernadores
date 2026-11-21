@@ -1,0 +1,175 @@
+{
+    "clima_general": "GESTIÓN",
+    "resumen_ejecutivo": "Los gobernadores priorizaron la gestión local y el desarrollo productivo, con un fuerte énfasis en la infraestructura energética y la mejora de servicios públicos. Se destacaron inauguraciones de plantas hidroeléctricas en Neuquén, parques solares en Buenos Aires, y grandes inversiones industriales en Río Negro. Las agendas provinciales mostraron un impulso autónomo para resolver necesidades básicas como vivienda, agua y seguridad, con un discurso centrado en la eficiencia y la honestidad en el uso de recursos. No se observaron confrontaciones directas con el gobierno nacional, pero sí una marcada defensa de los intereses y la capacidad de desarrollo regional.",
+    "analisis_profundo": "La jornada del 21 de noviembre de 2026 refleja una intensa actividad de gestión por parte de los gobernadores, quienes se enfocaron en comunicar avances y logros en sus respectivas provincias. La infraestructura, especialmente en el ámbito energético, constituyó un eje central de la agenda subnacional. \n\nEl gobernador de Neuquén (Rolo Figueroa) lideró este frente con la inauguración de la Central Hidroeléctrica Nahueve, subrayando la capacidad provincial para transformar recursos naturales en oportunidades energéticas y de provisión de agua, así como la expansión del gas por redes. Su mensaje 'LO QUE PASA EN NEUQUÉN NO PASA EN OTRO LUGAR DEL PAÍS' denota un fuerte sentido de autonomía y orgullo regional. En una línea similar, el gobernador de Río Negro (Alberto Weretilneck) anunció la aprobación de una inversión histórica bajo el RIGI para un complejo industrial de gas en Punta Colorada, destacando la estabilidad política y la seguridad jurídica provincial para atraer capitales y generar empleo local. \n\nOtros mandatarios también mostraron un dinámico ritmo de gestión. El gobernador de Buenos Aires (Axel Kicillof) resaltó la inauguración de un parque solar y la entrega de viviendas, enfocándose en la ampliación de derechos y la mejora de la calidad de vida. El gobernador de Santa Cruz (Claudio Vidal) adoptó un tono más crítico hacia gestiones anteriores, prometiendo terminar con los 'negocios' en torno a los servicios básicos y priorizar las necesidades de los vecinos. En Santa Fe, el gobernador (Maximiliano Pullaro) inauguró obras viales en Rosario, vinculando el avance con la honestidad y eficiencia en el uso de los fondos públicos. \n\nDesde Chaco, el gobernador (Leandro Zdero) informó sobre la incorporación de equipamiento de última generación para hospitales y fuerzas de seguridad. El gobernador de Córdoba (Martín Llaryora) celebró la visita del Papa y anunció medidas de apoyo a la policía provincial. En Formosa, el gobernador (Gildo Insfrán) se centró en conmemoraciones locales y el apoyo a los trabajadores. El gobernador de Catamarca (Raúl Jalil) promovió un desarrollo que combina minería sostenible con la valoración del patrimonio cultural y beneficios logísticos. Por su parte, el gobernador de San Luis (Claudio Poggi) se dedicó al apoyo a clubes y centros de jubilados, además de avanzar en la extensión de redes de gas natural. Finalmente, el gobernador de Misiones (Hugo Passalacqua) participó en la presentación de un libro sobre la gestión de salud durante la pandemia. \n\nEn conjunto, la jornada refleja un panorama de provincias activas, con un marcado énfasis en la inversión pública, la mejora de servicios y la búsqueda de desarrollo económico a nivel regional, mostrando una capacidad de gestión propia en un contexto nacional complejo.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo Energético e Infraestructura Productiva",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@Kicillofok",
+                "@RaulJalil_ok",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Inversión en Servicios Públicos y Obras Sociales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@Weretilneck",
+                "@ClaudioVidalSer",
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Seguridad y Fortalecimiento Policial",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Promoción Cultural y Turismo Local",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@gildoinsfran",
+                "@Rolo_Figueroa",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Federalismo y Autonomía Provincial",
+            "gobernadores_involucrados": [
+                "@Weretilneck",
+                "@Rolo_Figueroa",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Weretilneck",
+        "texto": "EL RIGI APROBÓ LA MAYOR INVERSIÓN DE LA HISTORIA ARGENTINA. Y ES RIONEGRINA Más de 50 mil millones de dólares. Gas de Vaca Muerta que va a salir al mundo desde nuestra costa. Trabajo, crecimiento y desarrollo para nuestra gente y para nuestra provincia. Eso es Argentina LNG.",
+        "por_que_es_clave": "Este tweet destaca una inversión masiva (más de 50 mil millones de dólares) vinculada a una política nacional clave como el RIGI, posicionando a la provincia de Río Negro como protagonista central del desarrollo energético argentino. Articula la agenda provincial con decisiones de alto impacto federal y económico.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Desarrollo energético",
+                "Vivienda social",
+                "Obra pública"
+            ],
+            "postura_politica": "El gobernador de Buenos Aires (Kicillof) mantiene una agenda centrada en la expansión de infraestructura y la mejora de servicios, reafirmando el compromiso con los derechos y la calidad de vida de los bonaerenses a través de la inversión pública.",
+            "frase_fuerte": "Urbanizar un barrio no es solamente reemplazar casas precarias por casas dignas. También es darles a los vecinos y vecinas la perspectiva de una realidad mejor."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Minería sostenible",
+                "Desarrollo local",
+                "Cultura y patrimonio",
+                "Infraestructura de transporte"
+            ],
+            "postura_politica": "El gobernador de Catamarca (Jalil) promueve un desarrollo económico diversificado que integra la minería responsable con la valoración del patrimonio cultural y las tradiciones locales, buscando beneficios para los productores a través de mejoras logísticas.",
+            "frase_fuerte": "El proyecto de Cabotaje mejora los ingresos 7% para productores en Chaco, equivalente a una baja de retenciones 4%."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Salud pública",
+                "Seguridad",
+                "Equipamiento estatal"
+            ],
+            "postura_politica": "El gobernador del Chaco (Zdero) se enfoca en la modernización y el fortalecimiento de los servicios esenciales, invirtiendo en equipamiento de última generación para hospitales y fuerzas de seguridad.",
+            "frase_fuerte": "Más tecnología y mejores herramientas en el sistema público para agilizar los controles y lograr diagnósticos tempranos."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Políticas sociales",
+                "Eventos institucionales"
+            ],
+            "postura_politica": "El gobernador de Córdoba (Llaryora) refuerza el reconocimiento y apoyo a las fuerzas de seguridad con beneficios concretos, y destaca la capacidad provincial para organizar eventos de relevancia con amplia participación.",
+            "frase_fuerte": "Cuidar a quienes nos cuidan es una decisión y un compromiso que sostenemos con hechos."
+        },
+        {
+            "gobernador": "@gildoinsfran",
+            "temas_mencionados": [
+                "Conmemoraciones locales",
+                "Apoyo a trabajadores",
+                "Infraestructura deportiva"
+            ],
+            "postura_politica": "El gobernador de Formosa (Insfrán) celebra hitos locales y refuerza la unidad de los trabajadores, promoviendo una visión de desarrollo provincial y fortalecimiento de la comunidad.",
+            "frase_fuerte": "Celebramos estos eventos que refuerzan la unidad de los trabajadores, tan importante en momentos como los que estamos viviendo en la Argentina."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Salud pública",
+                "Gestión de gobierno",
+                "Cultura"
+            ],
+            "postura_politica": "El gobernador de Misiones (Passalacqua) se involucra en la difusión de la historia de la gestión pública, valorando la memoria institucional y la experiencia en temas de salud.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Desarrollo energético",
+                "Infraestructura de gas",
+                "Producción local",
+                "Turismo y cultura"
+            ],
+            "postura_politica": "El gobernador de Neuquén (Figueroa) impulsa grandes obras energéticas y de infraestructura de gas, enfatizando la autonomía provincial y el aprovechamiento de recursos locales para el desarrollo. Proyecta una identidad fuerte y diferenciada para Neuquén.",
+            "frase_fuerte": "LO QUE PASA EN NEUQUÉN NO PASA EN OTRO LUGAR DEL PAÍS."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Inversiones energéticas",
+                "Desarrollo industrial",
+                "Infraestructura vial y de transporte",
+                "Educación y empleo"
+            ],
+            "postura_politica": "El gobernador de Río Negro (Weretilneck) posiciona a la provincia como un polo de inversiones energéticas y desarrollo industrial a nivel nacional, destacando la capacidad de la provincia para atraer capitales a través de estabilidad y seguridad jurídica, con un fuerte enfoque en la generación de empleo local y la autonomía.",
+            "frase_fuerte": "EL RIGI APROBÓ LA MAYOR INVERSIÓN DE LA HISTORIA ARGENTINA. Y ES RIONEGRINA."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Servicios básicos",
+                "Lucha contra la corrupción",
+                "Vivienda"
+            ],
+            "postura_politica": "El gobernador de Santa Cruz (Vidal) adopta un tono de ruptura con el pasado, prometiendo acabar con prácticas irregulares en la provisión de servicios básicos y enfocar la gestión en resolver las necesidades históricas de la población con obras concretas.",
+            "frase_fuerte": "EN CALETA OLIVIA SE TERMINA EL NEGOCIO CON EL AGUA DE LOS VECINOS."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura urbana",
+                "Transparencia en gestión",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "El gobernador de Santa Fe (Pullaro) resalta la importancia de la obra pública como motor de desarrollo, enfatizando la honestidad y eficiencia en la administración de los recursos para mejorar la calidad de vida de los santafesinos.",
+            "frase_fuerte": "Esta obra es un ejemplo de que cuando se trabaja honestamente y no se roba, la plata alcanza para hacer obras que le cambian la vida a los vecinos y vecinas de Santa Fe."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Deporte social",
+                "Adultos mayores",
+                "Desarrollo comunitario"
+            ],
+            "postura_politica": "El gobernador de San Luis (Poggi) se centra en el fortalecimiento de la comunidad a través del apoyo a instituciones deportivas y de la tercera edad, priorizando la inclusión y la cercanía con los ciudadanos.",
+            "frase_fuerte": "Un chico que se suma a un Club, es un chico menos en la calle."
+        }
+    ]
+}
