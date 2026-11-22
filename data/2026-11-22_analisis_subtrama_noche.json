@@ -1,0 +1,131 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada exhibió un predominio de gestión local y obras provinciales, con destellos de alineamiento energético (Weretilneck, Figueroa) y posicionamiento ideológico federal (Pullaro, Ziliotto). La ausencia de confrontación directa con Nación sugiere una tregua táctica mientras las provincias construyen capital político propio.",
+    "analisis_profundo": "**Acto 1 — El Conflicto Central:** La jornada careció de un choque frontal con la Casa Rosada. Los gobernadores optaron por mostrar eficacia en la gestión cotidiana, evitando disputas fiscales o reclamos abiertos. Sin embargo, el trasfondo es la tensión latente por la coparticipación y el ajuste: mientras unos celebran inversiones energéticas, otros recuerdan la defensa de lo público.\n\n**Acto 2 — Los Alineamientos:** Weretilneck (Río Negro) y Figueroa (Neuquén) se consolidan como socios estratégicos del modelo de inversiones, capitalizando la narrativa del RIGI y la infraestructura energética. Ziliotto (La Pampa) emerge como voz de la resistencia peronista, vinculando la universidad pública a la justicia social. Pullaro (Santa Fe) reivindica el federalismo histórico, recordando que el interior productivo espera respuestas.\n\n**Acto 3 — La Micro-política:** En provincias periféricas, Passalacqua (Misiones), Poggi (San Luis), Vidal (Santa Cruz) y Zdero (Chaco) se refugian en la agenda de cabotaje: viviendas, salud, tradiciones. Sin señales de roces nacionales, pero también sin posicionamiento que trascienda lo local. Jalil (Catamarca) apuesta a la cooperación internacional y la ciencia como herramienta de desarrollo.\n\n**Acto 4 — Saldo Presidencial:** Para la Casa Rosada, la jornada deja un saldo positivo en las provincias energéticas, que validan el rumbo inversor. Sin embargo, las alusiones a la defensa de la educación pública y el federalismo desde La Pampa y Santa Fe funcionan como advertencia de que el consenso no es unánime. El oficialismo capitaliza sin estridencias, pero la calma es frágil.",
+    "temas_calientes": [
+        {
+            "tema": "Inversiones energéticas y liderazgo provincial",
+            "gobernadores_involucrados": [
+                "@Weretilneck",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Federalismo y reivindicación histórica",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Obra pública y vivienda provincial",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Cooperación internacional y ciencia",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Weretilneck",
+        "texto": "RÍO NEGRO YA ES PROTAGONISTA DEL FUTURO ENERGÉTICO ARGENTINO\n\nNos propusimos construir una provincia con reglas claras, previsibilidad y confianza para atraer grandes inversiones. Y los resultados están a la vista.\n\nEl gasoducto que conectará Neuquén con el Golfo San Matías ya genera trabajo para cientos de rionegrinos y oportunidades para nuestras empresas.\n\nLas inversiones se están transformando en empleo y desarrollo para nuestra gente. Ese es el Río Negro que estamos construyendo.\n\nRío Negro tiene rumbo y más futuro que nunca.",
+        "por_que_es_clave": "Weretilneck capitaliza la narrativa del RIGI y las inversiones energéticas, posicionando a Río Negro como epicentro del desarrollo. Su mensaje refuerza la alianza con Nación sin mencionarla explícitamente, proyectando una imagen de gestión autónoma y exitosa.",
+        "pregunta_openarg": "¿Es la nueva ley de grandes inversiones el verdadero federalismo o una concesión a las provincias productoras?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "cooperación internacional",
+                "ciencia",
+                "arqueología"
+            ],
+            "postura_politica": "Agenda local con proyección internacional, sin confrontación con Nación. Promueve la ciencia y la cooperación franco-argentina como herramienta de desarrollo, sin mencionar disputas fiscales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "producción local",
+                "expo búfalo"
+            ],
+            "postura_politica": "Gestión local sin impacto federal. Difunde la calidad genética y el trabajo local, evitando posicionarse sobre temas nacionales.",
+            "frase_fuerte": "Calidad genética y trabajo local en la #ExpoBúfalo del Chaco."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "educación pública",
+                "peronismo",
+                "universidad"
+            ],
+            "postura_politica": "Defensa ideológica de la universidad pública y el peronismo. Crítica implícita al ajuste nacional al reivindicar la gratuidad universitaria y la justicia social, en un contexto de recortes.",
+            "frase_fuerte": "𝗟𝗮 𝗲𝗱𝘂𝗰𝗮𝗰𝗶𝗼́𝗻 𝗽𝘂́𝗯𝗹𝗶𝗰𝗮 𝗳𝘂𝗲, 𝗲𝘀 𝘆 𝘀𝗲𝗿𝗮́ 𝘂𝗻𝗮 𝗯𝗮𝗻𝗱𝗲𝗿𝗮 𝗶𝗿𝗿𝗲𝗻𝘂𝗻𝗰𝗶𝗮𝗯𝗹𝗲 𝗱𝗲𝗹 𝗽𝗲𝗿𝗼𝗻𝗶𝘀𝗺𝗼!"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "religión",
+                "previsión social",
+                "vivienda"
+            ],
+            "postura_politica": "Gestión local y cumplimiento legal. Sin posicionamiento federal. Se enfoca en la fe, la actualización de haberes y la entrega de viviendas, evitando roces con Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "infraestructura vial",
+                "deporte"
+            ],
+            "postura_politica": "Obra pública provincial y promoción turística. Sin mención a Nación. Resalta el cumplimiento de compromisos y la llegada de eventos internacionales como señal de gestión.",
+            "frase_fuerte": "Cumplimos los Pactos de Gobernanza con hechos."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "energía",
+                "infraestructura",
+                "salud",
+                "educación",
+                "gestión territorial"
+            ],
+            "postura_politica": "Fuerte promoción de Río Negro como polo energético en línea con el plan nacional. Gestión eficiente y cercana, destacando inversiones y servicios. Alineado con la narrativa oficial de desarrollo.",
+            "frase_fuerte": "Río Negro tiene rumbo y más futuro que nunca."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "saludo dominical"
+            ],
+            "postura_politica": "Agenda protocolar sin contenido político ni federal. Un saludo genérico que no aporta señales de posicionamiento.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "tradiciones",
+                "gestión territorial"
+            ],
+            "postura_politica": "Apoyo a la cultura local y presencia territorial. Sin confrontación. Busca reforzar la identidad provincial y la cercanía con los vecinos.",
+            "frase_fuerte": "Nuestros jinetes llevan bien alto el nombre de Santa Cruz"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "federalismo",
+                "historia",
+                "reivindicación provincial"
+            ],
+            "postura_politica": "Posicionamiento ideológico federalista, reclamando atención al interior productivo. Crítica al centralismo a través de la figura de Estanislao López, con un mensaje de defensa de la producción y el trabajo santafesino.",
+            "frase_fuerte": "defender el federalismo, el trabajo, la producción y lo que nuestra provincia aporta al país."
+        }
+    ]
+}
