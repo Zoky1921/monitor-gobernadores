@@ -1,0 +1,46 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada sin conflicto fiscal ni posicionamiento federal. Solo dos gobernadores activos: Quintela (La Rioja) con un mensaje de militancia peronista y Pullaro (Santa Fe) inaugurando obras con un guiño anticorrupción. La mayoría de los mandatarios optó por el silencio o la agenda local, evitando confrontar con Nación.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registra tensión fiscal ni simbólica entre Nación y provincias. Los gobernadores activos evitan la macroeconomía y el debate sobre coparticipación, deuda o recursos estratégicos. Quintela se repliega en la mística militante; Pullaro, en la gestión de obra pública con un guiño anticorrupción que no apunta al gobierno nacional. El silencio del resto sugiere una pausa calculada o un repliegue estratégico.\n\nActo 2 — Los Alineamientos: Solo dos voceros. Quintela (peronismo clásico) refuerza la identidad partidaria sin atacar a Milei; Pullaro (radicalismo) muestra eficiencia local sin mencionar a Nación. No se observan socios explícitos de la Casa Rosada ni parias declarados. La ambigüedad domina: ni confrontación ni adhesión.\n\nActo 3 — La Micro-política: Ambos gobernadores se refugian en la agenda de cabotaje. Quintela convoca a la militancia como herramienta de construcción futura, sin mencionar crisis. Pullaro inaugura una avenida en Rosario y lanza una frase con carga simbólica: 'cuando se trabaja honestamente y no se roba, la plata alcanza'. Es una crítica al pasado, no al presente nacional, pero deja un poso de desconfianza hacia la gestión de recursos.\n\nActo 4 — Saldo Presidencial: Para el gobierno de Milei, la jornada es neutra. No hay ataques ni apoyos explícitos. La ausencia de reclamos fiscales o de respaldo sugiere que los gobernadores están en modo supervivencia local, sin capital político para sumarse o enfrentarse. El silencio mayoritario es una victoria pírrica: no hay ruido, pero tampoco entusiasmo.",
+    "temas_calientes": [
+        {
+            "tema": "Militancia peronista como refugio identitario",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Obra pública local con guiño anticorrupción",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "La militancia es el motor que nos impulsa, el compromiso que nos une y la fuerza para seguir transformando la realidad.\n\n¡Gracias por este hermoso encuentro, por la alegría, el compañerismo y las ganas de seguir construyendo juntos!\n\nSigamos trabajando con entusiasmo, compromiso y esperanza por una país que crezca y nos incluya a todos.",
+        "por_que_es_clave": "Quintela utiliza el Día de la Militancia para reforzar la identidad peronista sin mencionar la crisis económica ni al gobierno nacional. Es un intento de mantener cohesionada su base mientras evita el conflicto con Nación.",
+        "pregunta_openarg": "¿Puede el peronismo reconstruir su identidad militante sin confrontar abiertamente con el gobierno de Milei, o ese silencio lo vuelve irrelevante?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "militancia peronista",
+                "unidad partidaria"
+            ],
+            "postura_politica": "Refuerza el activismo de su espacio sin atacar a Nación. Es un mensaje de resistencia interna, no de confrontación federal. Busca mantener la moral de su tropa en un contexto adverso.",
+            "frase_fuerte": "La militancia es el motor que nos impulsa"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "obra pública",
+                "infraestructura vial",
+                "eficiencia estatal"
+            ],
+            "postura_politica": "Inaugura una avenida en Rosario y aprovecha para lanzar una crítica implícita a la corrupción del pasado, pero sin vincularla al gobierno actual. Se muestra como gestor eficiente y honesto, buscando capital político local.",
+            "frase_fuerte": "cuando se trabaja honestamente y no se roba, la plata alcanza para hacer obras que le cambian la vida a los vecinos"
+        }
+    ]
+}

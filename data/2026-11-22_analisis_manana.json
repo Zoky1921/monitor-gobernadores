@@ -1,0 +1,85 @@
+{
+    "clima_general": "COLABORATIVO",
+    "resumen_ejecutivo": "La agenda federal reciente revela un fuerte enfoque provincial en el desarrollo económico y la infraestructura. Los gobernadores Alberto Weretilneck (Río Negro) y Rolando Figueroa (Neuquén) destacaron la consolidación de grandes proyectos energéticos vinculados a Vaca Muerta, subrayando el rol de las inversiones y la colaboración nacional. Weretilneck (Río Negro) agradeció explícitamente al Gobierno nacional por el RIGI y la atracción de capitales. Por su parte, Claudio Vidal (Santa Cruz) focalizó su mensaje en la gestión de servicios básicos y obras de infraestructura, criticando vehementemente la corrupción y el abandono de anteriores administraciones provinciales en su jurisdicción.",
+    "analisis_profundo": "La jornada política muestra una clara orientación hacia el fortalecimiento de las economías provinciales, con un énfasis particular en el sector energético y la inversión. Rolando Figueroa (Neuquén) articuló la visión de su provincia como epicentro de la mayor inversión energética del país, proyectando a Neuquén como un actor clave en la exportación global de energía. Este enfoque resalta la capacidad provincial para agregar valor en origen a sus recursos y la convicción de que este camino es fundamental para el desarrollo nacional.\n\nEn una línea similar, Alberto Weretilneck (Río Negro) celebró la aprobación del Régimen de Incentivo a Grandes Inversiones (RIGI) para un megaproyecto de 50 mil millones de dólares, el cual facilitará la exportación de gas de Vaca Muerta desde su costa. El agradecimiento explícito del gobernador a las autoridades nacionales, como el presidente @JMilei y el ministro Caputo (@LuisCaputoAR), subraya una dinámica de colaboración y reconocimiento mutuo entre la Nación y las provincias patagónicas. Este hito, considerado el 'tercer hito fundacional' de Río Negro, se sustenta en la estabilidad política, la seguridad jurídica y los acuerdos sociales, complementado por una ley provincial que garantiza el 80% de empleo local.\n\nEn contraste, Claudio Vidal (Santa Cruz) dirigió su discurso a la gestión interna, denunciando 'el negocio con el agua de los vecinos' en Caleta Olivia y criticando duramente a las administraciones anteriores por 32 años de abandono. Su compromiso con las obras de servicios básicos, como la red de cloacas, y la búsqueda de financiamiento provincial, revela una batalla por la transparencia y la eficiencia en la provisión de derechos fundamentales. Este posicionamiento, aunque no apunta directamente al gobierno federal, refleja una tensión intraprovincial significativa y la determinación de romper con prácticas pasadas.\n\nEn conjunto, los tweets reflejan una agenda federal que equilibra la captación de inversiones estratégicas a nivel nacional-provincial con la imperiosa necesidad de resolver demandas ciudadanas básicas y erradicar la corrupción a nivel local. El clima general se percibe como colaborativo en la búsqueda de grandes inversiones, mientras las provincias consolidan sus proyectos y defienden sus intereses y recursos.",
+    "temas_calientes": [
+        {
+            "tema": "Inversión y Desarrollo Energético (Vaca Muerta)",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Rol del RIGI en Inversiones Federales",
+            "gobernadores_involucrados": [
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Colaboración Nación-Provincias en Proyectos Estratégicos",
+            "gobernadores_involucrados": [
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Gestión y Transparencia en Obras y Servicios Públicos",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Empleo y Desarrollo Productivo Provincial",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Inversión",
+                "Vaca Muerta",
+                "Energía",
+                "Desarrollo Económico",
+                "Exportación"
+            ],
+            "postura_politica": "El gobernador Rolando Figueroa (Neuquén) resalta la importancia estratégica de su provincia como epicentro del proyecto energético nacional, buscando posicionarla como exportadora global y generar valor agregado local. Enfatiza que el trabajo y los recursos neuquinos son clave para el desarrollo del país.",
+            "frase_fuerte": "El proyecto de inversión más importante de la historia del país tiene su epicentro en Neuquén."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "RIGI",
+                "Inversión Extranjera",
+                "Vaca Muerta",
+                "Energía",
+                "Empleo Provincial",
+                "Colaboración Nacional"
+            ],
+            "postura_politica": "El gobernador Alberto Weretilneck (Río Negro) celebra una inversión histórica facilitada por el RIGI, agradeciendo al Gobierno nacional y a YPF. Destaca la estabilidad política y seguridad jurídica de Río Negro como factores clave para atraer inversiones, promoviendo la Ley de Empleo Rionegrino para beneficiar a los trabajadores locales.",
+            "frase_fuerte": "EL RIGI APROBÓ LA MAYOR INVERSIÓN DE LA HISTORIA ARGENTINA. Y ES RIONEGRINA"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obras Públicas",
+                "Servicios Básicos (agua, cloacas)",
+                "Lucha contra la Corrupción",
+                "Financiamiento Provincial"
+            ],
+            "postura_politica": "El gobernador Claudio Vidal (Santa Cruz) adopta una postura firme contra la corrupción y el 'negocio' en torno a los servicios esenciales, comprometiéndose a finalizar obras pendientes y buscar financiamiento provincial. Critica duramente a las gestiones anteriores por el abandono de los vecinos.",
+            "frase_fuerte": "EN CALETA OLIVIA SE TERMINA EL NEGOCIO CON EL AGUA DE LOS VECINOS"
+        }
+    ]
+}
