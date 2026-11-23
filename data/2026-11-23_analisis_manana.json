@@ -1,0 +1,101 @@
+{
+    "clima_general": "NEUTRAL",
+    "resumen_ejecutivo": "La agenda de los gobernadores en la jornada post-Nación se ha centrado en la reafirmación de agendas provinciales de desarrollo y orgullo local. Se destaca la mención de una inversión histórica en GNL en Río Negro, conectada a Vaca Muerta, y la promoción de grandes eventos deportivos en Neuquén. Otros mandatarios subrayaron el fortalecimiento de la educación en San Luis y la vigencia del federalismo productivo en Santa Fe a través de figuras históricas. Santiago del Estero, por su parte, mantuvo un perfil protocolar con un mensaje de unidad. La tónica general es de gestión interna y proyección a futuro, sin tensiones interprovinciales o con el gobierno nacional explícitas.",
+    "analisis_profundo": "La actividad de los gobernadores relevada en las últimas horas de ayer y el inicio de hoy, 23 de noviembre de 2026, muestra un claro enfoque en la gestión provincial y la reafirmación de identidades regionales. En un contexto nacional de baja intensidad en la comunicación federal, los mandatarios priorizan la visibilización de logros y proyectos con impacto local. \n\nMartín Weretilneck (Río Negro) se posiciona fuertemente en la esfera energética, al celebrar la aprobación de la mayor inversión en la historia de Argentina para GNL en su provincia. Este tweet, aunque es un retuit de un analista, es amplificado por el gobernador para destacar el rol de Río Negro en el desarrollo de Vaca Muerta y el potencial exportador del país, enfatizando la estabilidad y reglas claras provinciales como factores clave. Esto subraya una estrategia de atracción de inversiones a gran escala, presentando a la provincia como un actor fundamental en el mapa energético nacional.\n\nEn Neuquén, Rolando Figueroa (Neuquén) capitaliza la realización de eventos deportivos internacionales para promover la imagen provincial, conectando la sede de un Gran Fondo de Ciclismo con figuras como Lionel Scaloni. Este enfoque busca posicionar a Neuquén como un destino de eventos de magnitud, generando rédito turístico y de marca provincial.\n\nClaudio Poggi (San Luis) se enfoca en la valorización de la carrera docente a través del programa 'Mérito Docente', que envía a diez profesionales destacados a un congreso en Montevideo. Esta acción no solo visibiliza la inversión en capital humano, sino que también busca integrar a San Luis en circuitos de innovación pedagógica, destacando la importancia de la educación pública y el desarrollo profesional. El énfasis en 'recuperar aceleradamente el tiempo perdido' sugiere una crítica implícita a gestiones anteriores.\n\nPor su parte, Maximiliano Pullaro (Santa Fe) aprovecha el natalicio del Brigadier Estanislao López para reafirmar los pilares de la 'Provincia Invencible': federalismo, trabajo y producción. Su mensaje subraya que las 'luchas' históricas de López por la autonomía provincial se mantienen vigentes, aunque con 'trabajo y convicción', en un tono de autoafirmación provincial sin confrontación directa, pero marcando una agenda propia.\n\nFinalmente, Gerardo Zamora (Santiago del Estero) opta por un mensaje de corte protocolar y religioso, celebrando a la patrona provincial y apelando a la fe para guiar a la comunidad en el 'camino del trabajo y la unidad'. Aunque no es directamente político, este tipo de mensajes busca cohesionar a la población alrededor de valores compartidos y de una identidad cultural local. La ausencia de fricciones o alusiones a conflictos directos entre jurisdicciones o con el gobierno nacional en estos mensajes de cierre de jornada configura un clima de relativa calma, donde cada provincia se concentra en su propia agenda de desarrollo y autoafirmación.",
+    "temas_calientes": [
+        {
+            "tema": "Grandes Inversiones y Desarrollo Energético",
+            "gobernadores_involucrados": [
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Federalismo y Reafirmación de la Identidad Provincial",
+            "gobernadores_involucrados": [
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Inversión en Educación y Formación de Capital Humano",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Promoción Provincial a través de Eventos Masivos",
+            "gobernadores_involucrados": [
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Cohesión Social y Valores Culturales/Religiosos",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": null,
+        "texto": "Sin posteos destacados en la jornada de hoy",
+        "por_que_es_clave": null,
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Formación docente",
+                "Innovación pedagógica",
+                "Aislamiento provincial"
+            ],
+            "postura_politica": "El gobernador destaca la inversión en capital humano y la revalorización de la carrera docente a través del reconocimiento al mérito. Su enfoque es generar oportunidades y fortalecer la educación pública, buscando la integración de la provincia en redes de innovación y conocimiento. Critica indirectamente gestiones anteriores por el 'tiempo perdido' en el CFI.",
+            "frase_fuerte": "El reconocimiento al MÉRITO DOCENTE se volvió a instaurar en San Luis desde el 2024 (luego de varios años de estar suspendido)."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Deporte internacional",
+                "Turismo",
+                "Marca provincial",
+                "Celebridades"
+            ],
+            "postura_politica": "El gobernador capitaliza la organización de eventos deportivos internacionales para posicionar a la provincia en el ámbito turístico y deportivo global, vinculando la presencia de figuras nacionales con el agradecimiento y la promoción de la 'neuquinidad'. Refuerza la capacidad de la provincia para albergar grandes eventos.",
+            "frase_fuerte": "Seguimos posicionando a Neuquén como sede de grandes eventos deportivos."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Inversión energética",
+                "GNL",
+                "Vaca Muerta",
+                "Estabilidad regulatoria",
+                "Desarrollo provincial"
+            ],
+            "postura_politica": "Resalta la aprobación de una inversión histórica en GNL en su provincia, vinculándola a la estabilidad política, seguridad jurídica y previsibilidad de Río Negro. Esto busca consolidar la provincia como un eje energético nacional, proyectando 'rumbo y más futuro que nunca'. El RT de un tercero le permite destacar la magnitud del logro.",
+            "frase_fuerte": "Argentina just approved the biggest investment in its history, and it’s for LNG."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Identidad provincial",
+                "Producción y trabajo",
+                "Historia"
+            ],
+            "postura_politica": "Conmemora el natalicio de Estanislao López para reafirmar la identidad santafesina basada en el federalismo, el trabajo y la producción. Destaca que las luchas históricas por la autonomía provincial siguen vigentes, ahora a través del 'trabajo y convicción', en un mensaje de autoafirmación provincial.",
+            "frase_fuerte": "Más de 200 años después, las luchas siguen siendo las mismas: defender el federalismo, el trabajo, la producción y lo que nuestra provincia aporta al país."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Cultura y religión",
+                "Unidad",
+                "Trabajo"
+            ],
+            "postura_politica": "A través de una celebración religiosa, el gobernador emite un mensaje de unidad y compromiso con el trabajo para la provincia, buscando la protección divina para las familias santiagueñas y la guía en valores comunitarios. Aunque el tono es ceremonial, refuerza la identidad cultural y social de la gestión, con un matiz político de cohesión.",
+            "frase_fuerte": "Le pido a la Virgen que proteja a cada familia santiagueña y nos guíe en el camino del trabajo y la unidad."
+        }
+    ]
+}

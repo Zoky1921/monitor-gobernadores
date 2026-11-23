@@ -1,0 +1,71 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "El gobernador de Río Negro, Alberto Weretilneck, retuitea el anuncio de la mayor inversión en la historia del país (Argentina LNG) como señal de protagonismo energético, mientras el resto de los mandatarios provinciales se repliegan en agendas locales o efemérides. La jornada marca un contraste entre la ambición de la Patagonia hidrocarburífera y el silencio del resto del arco federal.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada se define por la aprobación del proyecto Argentina LNG, una inversión histórica que consolida a Río Negro como epicentro de la exportación energética. Weretilneck, mediante un retuit del analista Jack Prandelli, se apropia del hito sin necesidad de proclamarlo con voz propia. El silencio de los gobernadores del centro y del norte es ensordecedor: ni Kicillof, ni Llaryora, ni Pullaro (en sus tuits válidos) rozan el tema. La tensión no es explícita, pero se adivina: el modelo de desarrollo basado en Vaca Muerta y el GNL avanza mientras las provincias periféricas se refugian en sus rituales. \n\nActo 2 — Los Alineamientos: Weretilneck se erige como el socio estratégico de la Casa Rosada en la nueva frontera energética. Su retuit no es un gesto inocuo: es una declaración de lealtad a un plan que, a largo plazo, puede reconfigurar el mapa fiscal del país. En la vereda opuesta, Pullaro (Santa Fe) conmemora a Estanislao López, el patriarca del federalismo armado, en un gesto simbólico que recuerda a la Nación que las provincias no son meras espectadoras. El resto, como Poggi (San Luis) y Suarez (Santiago del Estero), se sumergen en la gestión local: becas docentes y fiestas patronales. Es el repliegue del interior ante una partida que aún no sabe jugar. \n\nActo 3 — La Micro-política: Rolo Figueroa (Neuquén) prefiere celebrar una carrera de ciclismo y agradecer a Scaloni, evitando meterse en el debate energético que involucra directamente a su provincia. Su silencio es ruidoso: Neuquén es la cuna de Vaca Muerta, pero el gobernador elige el perfil bajo. Poggi y Suarez, por su parte, demuestran que la agenda de cabotaje sigue siendo el refugio seguro cuando la macroeconomía no ofrece gestos para compartir. La gestión de lo pequeño es, en tiempos de incertidumbre, una forma de decir 'yo sigo gobernando aunque el país se desgarre'. \n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el anuncio del LNG es un triunfo comunicacional. Weretilneck le da el respaldo provincial que necesita para mostrar que el RIGI y la desregulación atraen capitales. Sin embargo, la ausencia de una ola de gobernadores celebrando el hito revela que el consenso federal sigue siendo frágil. La Nación gana la batalla del relato, pero pierde la de la integración territorial. El capital político del presidente Milei se fortalece en los mercados, pero se debilita en las provincias que aún esperan respuestas para su día a día.",
+    "temas_calientes": [
+        {
+            "tema": "Aprobación del proyecto Argentina LNG como hito de inversión y posicionamiento de Río Negro en la agenda energética",
+            "gobernadores_involucrados": [
+                "@Weretilneck"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Weretilneck (RT de @jackprandelli)",
+        "texto": "🇦🇷 Argentina just approved the biggest investment in its history, and it's for LNG.\n\nArgentina LNG will cost $ 50.75bn by 2050, $ 25bn of it between 2027 and 2030.\n\nIts 2 floating plants off Río Negro would export 12 million tonnes a year of Vaca Muerta gas, about the same capacity 🇶🇦 Qatar has offline today.\n\nYPF holds 36%, 🇮🇹 Eni 32% and 🇦🇪 XRG 32%.\n\nI think the gas was never the problem.\n\nThe tax and currency rules were and Friday's approval fixes those for 30 years.",
+        "por_que_es_clave": "Weretilneck se apropia del hito sin emitir declaración propia; el retuit le permite validar el proyecto y asociar su gestión a la confianza internacional, mientras el silencio de otros gobernadores deja a Río Negro como único vocero de la nueva era energética.",
+        "pregunta_openarg": "¿Puede la aprobación del LNG compensar la asfixia fiscal que sufren las provincias del interior o solo profundizará la brecha entre la Patagonia energética y el resto del país?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Inversión energética",
+                "Argentina LNG",
+                "Desarrollo productivo"
+            ],
+            "postura_politica": "Weretilneck utiliza un retuit para capitalizar el anuncio de la inversión más grande de la historia, presentándose como el gobernador que atrae capitales y genera confianza. Omite cualquier mención a la Nación o a otros actores, sugiriendo que el mérito es provincial. Es una jugada de posicionamiento: no pide, exhibe.",
+            "frase_fuerte": "Argentina just approved the biggest investment in its history, and it's for LNG."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Deporte internacional",
+                "Evento ciclístico",
+                "Selección Argentina"
+            ],
+            "postura_politica": "Apuesta por una agenda deportiva local, evitando cualquier comentario sobre el LNG o la energía, a pesar de que Neuquén es el corazón de Vaca Muerta. El silencio sugiere un repliegue estratégico o una decisión de no competir con Weretilneck en el mismo ring mediático.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Educación",
+                "Mérito docente",
+                "Gestión provincial"
+            ],
+            "postura_politica": "Poggi se concentra en el reconocimiento a docentes destacados, una medida de gestión blanda sin impacto federal. Refuerza su perfil de gestor local en una provincia que históricamente ha buscado diferenciarse del ruido nacional.",
+            "frase_fuerte": "El reconocimiento al MÉRITO DOCENTE se volvió a instaurar en San Luis desde el 2024."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Efeméride histórica",
+                "Federalismo",
+                "Estanislao López"
+            ],
+            "postura_politica": "Pullaro conmemora el natalicio de Estanislao López, un caudillo federal que enfrentó al centralismo porteño. En un contexto donde el Gobierno nacional concentra poder y recursos, el gesto es una reivindicación simbólica del federalismo, una crítica velada al modelo unitario de Milei.",
+            "frase_fuerte": "Hoy conmemoramos los 240 años del nacimiento de nuestro prócer y héroe nacional: Brigadier Estanislao López."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Religión",
+                "Cultura",
+                "Fe popular"
+            ],
+            "postura_politica": "Suarez se limita a una celebración religiosa local, sin contenido político. Es un gesto de unidad comunitaria que no interpela a la Nación ni a otros gobernadores. Agenda protocolar sin peso federal.",
+            "frase_fuerte": "Hoy celebramos a Nuestra Señora de la Consolación de Sumampa, patrona del Pueblo y de la Cultura Santiagueña."
+        }
+    ]
+}
