@@ -1,0 +1,199 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "Los gobernadores del arco federal intensificaron hoy la agenda de gestión y la confrontación con el modelo económico nacional. Axel Kicillof (Buenos Aires) arremetió contra el impacto negativo del Gobierno central en el turismo, mientras Ricardo Quintela (La Rioja) y Maximiliano Pullaro (Santa Fe) lideraron el debate sobre la defensa del federalismo y la obra pública. Paralelamente, Ignacio Torres (Chubut), Rolando Figueroa (Neuquén) y Alberto Weretilneck (Río Negro) subrayaron inversiones en infraestructura estratégica y desarrollo productivo, incluyendo proyectos energéticos clave. Martín Llaryora (Córdoba) destacó la unificación del régimen laboral en salud. El día transcurrió con una clara división entre la defensa de la autonomía provincial y la crítica a las políticas macroeconómicas.",
+    "analisis_profundo": "La jornada actual exhibe una polarización creciente entre la gestión provincial y la política económica del gobierno nacional, consolidando un clima de tensión en las dinámicas federales. Axel Kicillof (Buenos Aires) articuló una crítica frontal al 'modelo económico de Milei', vinculando la caída del poder adquisitivo y la consecuente recesión turística a la destrucción del mercado interno. Esta postura, respaldada con datos concretos del sector, resalta la preocupación por el impacto directo de las políticas macroeconómicas en las economías regionales.\n\nRicardo Quintela (La Rioja) y Maximiliano Pullaro (Santa Fe) se posicionaron como firmes defensores del federalismo, con Quintela participando activamente en encuentros del Norte Grande para proyectar un 'nuevo federalismo' y Pullaro reivindicando el legado de Estanislao López como símbolo de la lucha contra el centralismo. Ambos enfatizan la necesidad de obra pública y empleo con derechos, contrastando con la parálisis o el recorte a nivel nacional. Claudio Poggi (San Luis) también se sumó a esta línea al destacar la recuperación de 'ocho años perdidos' en infraestructura de gas natural, implicando una crítica a gestiones anteriores.\n\nEn la Patagonia, Ignacio Torres (Chubut) y Rolando Figueroa (Neuquén) priorizaron la concreción de obras vitales para el desarrollo productivo y la calidad de vida. Torres (Chubut) puso el acento en el apoyo a productores y la desburocratización, mientras Figueroa (Neuquén) avanzó con infraestructura vial en la zona de Vaca Muerta y destacó la inversión en educación técnica, elementos cruciales para potenciar el rol energético de sus provincias. Alberto Weretilneck (Río Negro) demostró una gestión robusta, presentando un presupuesto 2027 con 'orden y previsibilidad' en un contexto nacional difícil, y resaltando inversiones estratégicas en salud y desarrollo energético como el proyecto Argentina LNG. Esta proactividad busca blindar a la provincia de las fluctuaciones nacionales.\n\nRaúl Jalil (Catamarca) y Hugo Passalacqua (Misiones) enfocaron sus comunicaciones en la promoción turística y el desarrollo local, respectivamente. Jalil (Catamarca) utilizó la diplomacia para potenciar el patrimonio natural, y Passalacqua (Misiones) destacó iniciativas de salud pública y espacios para emprendedores, manteniendo un perfil de gestión. Leandro Zdero (Chaco) y Martín Llaryora (Córdoba) se concentraron en la entrega de viviendas y la mejora de servicios públicos, como la unificación del régimen de salud en Córdoba y la inversión en infraestructura vial. Incluso Elías Suárez (Santiago del Estero), a pesar de un post de tinte más religioso, refuerza la conexión con la identidad provincial. La ausencia de un frente común en la crítica directa, aunque sí en la defensa de sus autonomías y gestiones, subraya la complejidad de las dinámicas interprovinciales.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica al Modelo Económico Nacional y Defensa del Mercado Interno",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Federalismo y Soberanía Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura Estratégica",
+            "gobernadores_involucrados": [
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@MartinLlaryora",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Salud Pública y Derechos Laborales",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@Weretilneck",
+                "@passalacquaok"
+            ]
+        },
+        {
+            "tema": "Promoción del Desarrollo Productivo y Turismo",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@NachoTorresCH",
+                "@Weretilneck",
+                "@passalacquaok"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok (RT de @CostaAugusto9)",
+        "texto": "Cada vez menos argentinos pueden irse de vacaciones o disfrutar de unos días de descanso. El modelo económico de Milei está destruyendo el poder adquisitivo y golpeando de lleno al turismo nacional. Este fin de semana llegaron a la Provincia un 22,1% menos de turistas que en 2024. Y gastaron, en términos reales, un 22,6% menos. Son 17 mil millones de pesos que dejaron de circular en nuestras localidades. Detrás de estos números hay empresarios, comercios, hoteles, restaurantes y miles de trabajadores que ven caer sus ingresos. No hay turismo sin salarios que alcancen, sin consumo y sin políticas que impulsen la actividad. Necesitamos cambiar este modelo económico y volver a poner el trabajo, la producción y el mercado interno en el centro de las prioridades.",
+        "por_que_es_clave": "Representa una crítica directa y fundamentada al impacto del modelo económico nacional en una actividad clave como el turismo, con datos concretos y una propuesta de cambio de rumbo. Genera una fuerte tensión en la relación Nación-Provincia.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Crítica económica nacional",
+                "Turismo",
+                "Obras públicas",
+                "Educación pública",
+                "Soberanía"
+            ],
+            "postura_politica": "Muy crítico con el modelo económico nacional y sus efectos sobre el poder adquisitivo y el turismo. Defiende el rol estatal en la inversión pública, la educación y el desarrollo provincial.",
+            "frase_fuerte": "El modelo económico de Milei está destruyendo el poder adquisitivo y golpeando de lleno al turismo nacional."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Turismo",
+                "Patrimonio natural",
+                "Cooperación internacional"
+            ],
+            "postura_politica": "Impulsa activamente el turismo sostenible y la valorización del patrimonio natural y cultural de Catamarca (Catamarca), buscando la cooperación internacional para este fin.",
+            "frase_fuerte": "Un encuentro que recuerda la importancia de proteger la biodiversidad y los ecosistemas andinos. Cuidar este patrimonio natural es una responsabilidad de todos."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obras públicas",
+                "Transparencia"
+            ],
+            "postura_politica": "Se enfoca en la gestión de soluciones habitacionales y la recuperación de obras abandonadas en Chaco (Chaco), destacando la transparencia en la administración de recursos.",
+            "frase_fuerte": "En Puerto Tirol, recuperamos viviendas que llevaban más de diez años abandonadas y hoy las entregamos a las familias que esperaron tanto tiempo por su casa propia."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Infraestructura",
+                "Desarrollo productivo",
+                "Financiamiento",
+                "Compromiso de gestión"
+            ],
+            "postura_politica": "Prioriza la concreción de obras de infraestructura esenciales y el apoyo al sector productivo en Chubut (Chubut), buscando simplificar procesos y asegurar financiamiento. Destaca el cumplimiento de promesas.",
+            "frase_fuerte": "Volver a Corcovado y ver que cada compromiso asumido se transforma en obras concretas es la mejor manera de honrar la palabra dada a los vecinos."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Salud pública",
+                "Derechos laborales",
+                "Infraestructura vial",
+                "Desarrollo urbano",
+                "Concientización social"
+            ],
+            "postura_politica": "Muestra una gestión proactiva en la mejora de servicios públicos y el reconocimiento de derechos laborales, como la unificación del régimen de salud en Córdoba (Córdoba). También promueve infraestructura vial y concientización social.",
+            "frase_fuerte": "Mañana anunciaremos la unificación definitiva del régimen laboral de los equipos de salud de #Córdoba, una medida largamente reclamada por los trabajadores y sus organizaciones sindicales..."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Crítica económica nacional",
+                "Obra pública",
+                "Empleo",
+                "Educación pública",
+                "Peronismo"
+            ],
+            "postura_politica": "Activo en la articulación federal del Norte Grande, crítico del modelo nacional y defensor del federalismo, la obra pública, el empleo con derechos y la gratuidad universitaria, alineado con principios peronistas en La Rioja (La Rioja).",
+            "frase_fuerte": "El federalismo tiene que ser una perspectiva transversal al modelo de país que necesitamos y por el cual estamos trabajando."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Salud pública",
+                "Emprendimiento",
+                "Cultura",
+                "Recuperación de espacios"
+            ],
+            "postura_politica": "Impulsa la salud pública y el desarrollo creativo-emprendedor en Misiones (Misiones), reutilizando espacios para la innovación y promoviendo la cultura misionera.",
+            "frase_fuerte": "La salud pública misionera está preseleccionada a los Martín Fierro de la Salud. 👏"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Vivienda",
+                "Servicios públicos",
+                "Educación técnica",
+                "Infraestructura vial",
+                "Vaca Muerta",
+                "Turismo deportivo"
+            ],
+            "postura_politica": "Enfocado en la inversión en infraestructura clave (vial, educativa, servicios) y vivienda, con un fuerte acento en el desarrollo de Vaca Muerta y el turismo deportivo para potenciar el crecimiento provincial en Neuquén (Neuquén).",
+            "frase_fuerte": "Comenzamos a toda velocidad la pavimentación de la Ruta 8. Junto con la pavimentación de la Ruta 6, vamos a acortar la distancia a Rincón de los Sauces sin tener que pasar por Añelo."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Salud pública",
+                "Presupuesto provincial",
+                "Infraestructura",
+                "Modernización del Estado",
+                "Desarrollo económico",
+                "Inversión",
+                "Vaca Muerta",
+                "Federalismo"
+            ],
+            "postura_politica": "Prioriza la eficiencia estatal, la modernización de servicios y la inversión en salud e infraestructura en Río Negro (Río Negro). Busca la estabilidad y el crecimiento provincial a través de grandes proyectos energéticos (GNL), blindando la provincia del contexto nacional.",
+            "frase_fuerte": "PRESUPUESTO 2027: ORDEN Y PREVISIBILIDAD PARA QUE RÍO NEGRO SIGA CRECIENDO. En un contexto nacional difícil, tenemos una prioridad clara: cuidar los recursos de los rionegrinos, sostener los servicios públicos y garantizar que nuestra provincia pueda seguir creciendo."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Federalismo",
+                "Historia",
+                "Producción",
+                "Desarrollo"
+            ],
+            "postura_politica": "Reafirma el espíritu federal y productivo de Santa Fe (Santa Fe) a través de figuras históricas como el Brigadier López, para defender los intereses provinciales frente a políticas centralistas y promover el desarrollo local.",
+            "frase_fuerte": "Tenemos que continuar su legado y sus luchas que siempre fueron por un país más justo e igualitario."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Religión",
+                "Cultura",
+                "Unidad",
+                "Trabajo"
+            ],
+            "postura_politica": "Destaca la importancia de las tradiciones culturales y religiosas como pilares de la identidad provincial en Santiago del Estero (Santiago del Estero), promoviendo la unidad y el trabajo para el bienestar de la comunidad.",
+            "frase_fuerte": "Hoy celebramos a Nuestra Señora de la Consolación de Sumampa, patrona del Pueblo y de la Cultura Santiagueña."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Infraestructura (gas natural)",
+                "Deporte",
+                "Educación",
+                "Gestión",
+                "Recuperación de tiempo"
+            ],
+            "postura_politica": "Enfocado en la inversión en infraestructura y programas sociales, resaltando la reactivación de proyectos y la recuperación del tiempo perdido en la gestión provincial en San Luis (San Luis) para impulsar el desarrollo y las oportunidades.",
+            "frase_fuerte": "En mi otra gestión como Gobernador construimos el GASODUCTO DE LA COSTA... Luego de ocho años perdidos (sin ninguna obra adicional), desde el 2024 retomamos el proyecto y comenzamos a construir y habilitar el Gas Natural en los Municipios de la Costa."
+        }
+    ]
+}
