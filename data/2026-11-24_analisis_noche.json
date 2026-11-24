@@ -1,0 +1,235 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada política federal de hoy, 24 de noviembre de 2026, estuvo marcada por una profunda polarización. Gobernadores peronistas como Axel Kicillof (Buenos Aires) y Ricardo Quintela (La Rioja) intensificaron sus críticas al Gobierno nacional, responsabilizándolo de la crisis económica y el deterioro social. En contraste, una activa agenda de gestión provincial se desplegó con anuncios de obra pública, inversiones y desarrollo local, a menudo con un fuerte énfasis en la autonomía. Alberto Weretilneck (Río Negro) y Claudio Poggi (San Luis) destacaron múltiples proyectos de infraestructura y mejoras en servicios. Asimismo, se observó una creciente apuesta por la cooperación interprovincial, como el acuerdo entre La Rioja y Misiones, y la firme defensa de la soberanía provincial en temas clave como el control de puertos por parte de Gustavo Melella (Tierra del Fuego).",
+    "analisis_profundo": "El 24 de noviembre de 2026, la dinámica federal en Argentina se caracterizó por un marcado contraste entre el posicionamiento crítico de algunos gobernadores hacia la administración nacional y una robusta agenda de gestión provincial, enfocada en la autonomía y el desarrollo local. Axel Kicillof (Buenos Aires) y Ricardo Quintela (La Rioja) lideraron un discurso de confrontación, atribuyendo al Gobierno nacional la responsabilidad de una 'crisis histórica en materia laboral' y una 'recesión que aniquila a dos terceras partes de los argentinos'. Quintela (La Rioja) no escatimó en adjetivos, señalando 'inflación, desocupación, precarización laboral' y 'corrupción' como pilares del modelo actual. Estas declaraciones reflejan una clara estrategia de diferenciación y un intento de capitalizar el descontento social. \n\nEn la vereda opuesta, pero también con una mirada fuertemente provincial, una amplia mayoría de gobernadores mantuvo una agenda activa de gestión. Alberto Weretilneck (Río Negro) fue el más destacado, con múltiples anuncios en infraestructura (Tren del Valle, desagües, rutas nacionales asumidas por la provincia), salud e inversión en gas natural, consolidando el mensaje de que 'Río Negro se hizo cargo de sus rutas' ante la inacción nacional. Claudio Poggi (San Luis) también demostró una gestión proactiva con acuerdos para financiar obras públicas municipales, capacitación para sus cuerpos legales y la ampliación de la infraestructura penitenciaria, vinculando esta última a la lucha contra el narcotráfico. Sergio Ziliotto (La Pampa) defendió un 'Estado que sostiene el empleo y el salario' a través de financiamiento público para aguinaldos y aumentos salariales, contrastando su modelo con la 'especulación financiera'. \n\nLa cooperación entre provincias emergió como un mecanismo clave para eludir la dependencia del gobierno central. El convenio entre Ricardo Quintela (La Rioja) y Hugo Passalacqua (Misiones) para potenciar el turismo y las economías regionales es un claro ejemplo de este federalismo pragmático. La defensa de la soberanía y la autonomía provincial también se manifestó con vehemencia, como en el caso de Gustavo Melella (Tierra del Fuego) y su férreo reclamo por la intervención del Puerto de Ushuaia, percibido como un 'desconocimiento del federalismo'. En este escenario de tensiones ideológicas y económicas, las provincias buscan consolidar sus propias agendas, movilizando recursos propios o buscando financiamiento externo, reafirmando un papel protagónico en la definición del rumbo del país.",
+    "temas_calientes": [
+        {
+            "tema": "Crítica a las políticas económicas del Gobierno nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Desarrollo de infraestructura y obra pública provincial",
+            "gobernadores_involucrados": [
+                "@Weretilneck",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@Kicillofok"
+            ]
+        },
+        {
+            "tema": "Federalismo y autonomía provincial frente a la Nación",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@Weretilneck",
+                "@gustavomelella"
+            ]
+        },
+        {
+            "tema": "Promoción del empleo y desarrollo productivo local",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@RaulJalil_ok",
+                "@Rolo_Figueroa",
+                "@alfredocornejo"
+            ]
+        },
+        {
+            "tema": "Salud, seguridad y gestión social provincial",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo",
+                "@GustavoSaenzOK"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "La recesión es la frutilla del postre con la que el gobierno de Milei termina de aniquilar a dos terceras partes de los argentinos. Inflación, desocupación, precarización laboral, una receta que incluye la destrucción del Estado, el robo a los discapacitados y la corrupción de la estafa de Libra. Un Gobierno que, no solo no conoce a su gente, sino que la agrede como si la detestara.",
+        "por_que_es_clave": "Es una crítica frontal y sumamente dura a la gestión del Gobierno nacional, abarcando aspectos económicos, sociales, institucionales y éticos, lo que lo convierte en el posicionamiento político más contundente y transversal de la jornada.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Empleo",
+                "Políticas económicas nacionales",
+                "Obras de infraestructura educativa"
+            ],
+            "postura_politica": "Crítica frontal a las políticas económicas del Gobierno nacional, a las que responsabiliza de la crisis laboral. Defiende la inversión en obra pública y el rol del Estado provincial como protector de la producción y el trabajo.",
+            "frase_fuerte": "Sabemos que la verdadera solución es cambiar un modelo económico que solo mira a los mercados por uno que entienda la realidad que están viviendo miles de familias."
+        },
+        {
+            "gobernador": "@RaulJalil_ok",
+            "temas_mencionados": [
+                "Inversiones en minería",
+                "Desarrollo local",
+                "Empleo"
+            ],
+            "postura_politica": "Enfocado en atraer y consolidar inversiones mineras (litio), con un fuerte énfasis en la generación de empleo y oportunidades para las comunidades locales. Muestra una postura pro-desarrollo productivo con impacto regional.",
+            "frase_fuerte": "Esta nueva etapa de exploración y factibilidad tiene como prioridad contratar trabajadores, proveedores y empresas de Fiambalá y de las comunidades cercanas, transformando el potencial minero de nuestra provincia en más empleo y oportunidades para las familias del Oeste."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Institucionalidad",
+                "Sucesión municipal"
+            ],
+            "postura_politica": "Prioriza la institucionalidad y el respeto a la voluntad popular en situaciones de vacío de poder municipal, mostrando una gestión ordenada y apegada a la norma.",
+            "frase_fuerte": "En estos tiempos, hay más por hacer que por competir. Por eso, tras el fallecimiento del intendente de La Clotilde, Víctor Gasko, decidimos respetar la voluntad popular y que el mandato sea cumplido por el presidente del Concejo, priorizando la institucionalidad."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Libertad de culto",
+                "Respeto por la diversidad",
+                "Agenda religiosa"
+            ],
+            "postura_politica": "Muestra una actitud institucional y de respeto hacia las diferentes expresiones de fe, promoviendo el diálogo interreligioso. Se enfoca en el acompañamiento de eventos significativos para la comunidad religiosa.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Seguridad",
+                "Lucha contra el narcotráfico"
+            ],
+            "postura_politica": "Firme en la lucha contra el narcotráfico, destacando la coordinación con la Justicia Federal y la Policía provincial para la destrucción de estupefacientes. Reafirma una decisión política de no 'mirar para otro lado'.",
+            "frase_fuerte": "Desde el primer día tomamos una decisión: combatir al narcotráfico sin mirar para otro lado."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Crítica al Gobierno nacional",
+                "Recesión",
+                "Economías regionales",
+                "Federalismo",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Enérgica crítica a la gestión económica del Gobierno nacional, denunciando sus efectos sociales y la destrucción del Estado. Impulsa activamente el federalismo a través de la cooperación con otras provincias y la defensa de las economías regionales.",
+            "frase_fuerte": "La recesión es la frutilla del postre con la que el gobierno de Milei termina de aniquilar a dos terceras partes de los argentinos."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Promoción del vino argentino",
+                "Desarrollo regional",
+                "Empleo"
+            ],
+            "postura_politica": "Celebra el Día del Vino Argentino, resaltando su importancia cultural y económica como generador de empleo y promotor de la calidad mendocina a nivel mundial. Postura proactiva en la promoción de productos regionales.",
+            "frase_fuerte": "El vino es una de nuestras expresiones más genuinas. Detrás de cada botella hay trabajo, esfuerzo, historia y sabiduría, pero también productores, cosechadores, enólogos y toda una cadena que genera empleo y lleva la calidad de Mendoza a los mercados del mundo."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Cooperación interprovincial",
+                "Apoyo a docentes",
+                "Medidas administrativas",
+                "Homenaje"
+            ],
+            "postura_politica": "Foco en la cooperación con otras provincias para el desarrollo regional y en la implementación de medidas de apoyo a sectores clave como los docentes. Muestra una gestión cercana y con decisiones administrativas que buscan beneficiar a la comunidad.",
+            "frase_fuerte": "Junto al querido colega gobernador de La Rioja, @QuintelaRicardo, firmamos un convenio de cooperación para trabajar juntos en turismo, producción, gastronomía y desarrollo de nuestras economías regionales."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Defensa de los trabajadores de Vaca Muerta",
+                "Obra pública vial",
+                "Educación técnica"
+            ],
+            "postura_politica": "Reafirma el compromiso con los trabajadores de Vaca Muerta y el desarrollo local, vinculando el crecimiento de la actividad con oportunidades concretas para los neuquinos. Destaca la inversión en infraestructura vial y educativa como pilares de su gestión.",
+            "frase_fuerte": "Tenemos un objetivo común: que el trabajo, el crecimiento y las oportunidades lleguen primero a cada familia neuquina."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura de salud",
+                "Gas natural",
+                "Modernización del Estado",
+                "Medio ambiente"
+            ],
+            "postura_politica": "Impulsa una intensa agenda de obra pública e inversión en servicios esenciales (salud, gas, transporte), muchas veces con financiamiento externo o provincial. Asume la responsabilidad de obras 'abandonadas por gobiernos nacionales', mostrando una fuerte autonomía de gestión y un rumbo claro para la provincia.",
+            "frase_fuerte": "Durante décadas, estas rutas quedaron abandonadas por los gobiernos nacionales. Reclamamos, gestionamos y fuimos a la Justicia, y como las respuestas no llegaban, decidimos hacernos cargo."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Empleo",
+                "Salario público",
+                "Apoyo a PyMEs",
+                "Políticas económicas provinciales"
+            ],
+            "postura_politica": "Defensor de un Estado provincial activo en la promoción del empleo y el poder adquisitivo, ofreciendo financiamiento a PyMEs y garantizando aumentos salariales. Se posiciona como alternativa al modelo económico nacional, buscando un 'círculo virtuoso' de la economía local.",
+            "frase_fuerte": "La Pampa. Un Estado que sostiene el empleo y el salario."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Cooperación con Nación",
+                "Programas sociales para niños y adolescentes",
+                "Conectividad rural"
+            ],
+            "postura_politica": "Muestra una línea de colaboración con el Gobierno nacional para la implementación de programas sociales y la mejora de la conectividad en zonas rurales. Enfocado en la gestión de recursos nacionales para beneficiar directamente a la población vulnerable.",
+            "frase_fuerte": "Gracias, Sandra, y a todo tu equipo por escuchar y acompañar las necesidades de nuestro querido norte argentino."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Salud mental",
+                "Capacitación estatal",
+                "Obras públicas municipales",
+                "Seguridad penitenciaria",
+                "Lucha contra el narcotráfico"
+            ],
+            "postura_politica": "Activa agenda de gestión que abarca salud (mental), fortalecimiento del Estado a través de capacitaciones y una significativa inversión en obra pública municipal y penitenciaria. Vincula el aumento de la población carcelaria a la 'firme decisión política' de combatir el narcotráfico, mostrando un enfoque en orden y seguridad.",
+            "frase_fuerte": "Firmamos individualmente con 27 Intendentes de la Provincia un nuevo Acuerdo Pcia-Municipio 'CONSTRUYENDO CON TU PUEBLO' que permitirá financiar OBRAS PÚBLICAS MUNICIPALES (en su mayoría obras de pavimentación y repavimentación urbana) a ejecutarse durante el primer semestre del próximo año 2027 y en simultáneo, generar oportunidades de trabajo en cada Localidad."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Defensa de la gestión",
+                "Respuesta a críticas"
+            ],
+            "postura_politica": "Reafirma su compromiso con la gestión y la respuesta a los ciudadanos frente a quienes intentan 'frenar' su gobierno. Implícitamente se defiende de ataques políticos, buscando mostrar una administración activa y centrada en resolver problemas.",
+            "frase_fuerte": "MIENTRAS ALGUNOS INTENTAN FRENAR LA GESTIÓN, NOSOTROS SEGUIMOS DANDO RESPUESTAS"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Educación",
+                "Memoria",
+                "Cultura"
+            ],
+            "postura_politica": "Promueve iniciativas educativas y culturales que fomentan la reflexión y la memoria histórica, como el concurso literario 'De Ana Frank a Nuestros Días'. Enfocado en la educación como herramienta para construir futuro y fomentar la esperanza.",
+            "frase_fuerte": "La educación y la memoria como herramientas para construir el futuro."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Intervención del Puerto de Ushuaia",
+                "Autonomía provincial",
+                "Defensa laboral"
+            ],
+            "postura_politica": "Enérgica defensa de la autonomía provincial frente a la continuidad de la intervención nacional del Puerto de Ushuaia. Denuncia un 'avasallamiento' federal y defiende las fuentes de trabajo, posicionándose en clara confrontación con el Gobierno nacional sobre este tema.",
+            "frase_fuerte": "El Puerto es de Tierra del Fuego."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Consumos problemáticos",
+                "Política social",
+                "Gestión de emergencias",
+                "Reconocimiento a personal"
+            ],
+            "postura_politica": "Prioriza la lucha contra los consumos problemáticos mediante la articulación con organizaciones y la promoción de la esperanza. Destaca el reconocimiento al personal de prevención y respuesta ante emergencias, invirtiendo en equipamiento y fortaleciendo la Defensa Civil.",
+            "frase_fuerte": "Frente a los consumos problemáticos, nadie puede mirar para otro lado."
+        }
+    ]
+}

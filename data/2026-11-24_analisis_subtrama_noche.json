@@ -1,0 +1,238 @@
+{
+    "clima_general": "GUERRA",
+    "resumen_ejecutivo": "Kicillof acusa al Gobierno nacional de generar una crisis laboral histórica, mientras Quintela denuncia recesión y corrupción. Otros gobernadores se refugian en gestión local, obras y cooperación internacional. La tensión fiscal y política domina la jornada.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada está marcada por el embate directo de Axel Kicillof (Buenos Aires) contra las políticas económicas de la Casa Rosada. Su tweet sobre el portal de empleo no es una mera gestión: es una declaración de guerra. Kicillof diagnostica una 'crisis histórica en materia laboral' y la atribuye sin ambages al modelo de Milei. En paralelo, Ricardo Quintela (La Rioja) califica la recesión como 'la frutilla del postre' y acusa al Gobierno de 'aniquilar a dos tercios de los argentinos'. Ambos gobernadores peronistas utilizan el 24 de noviembre para marcar el terreno de cara a 2027, posicionándose como la voz de las provincias castigadas por el ajuste.\n\nActo 2 — Los Alineamientos: Mientras Kicillof y Quintela encabezan la oposición frontal, otros gobernadores optan por la diplomacia o la agenda propia. Raúl Jalil (Catamarca) y Carlos Sadir (Jujuy) apuestan a la cooperación internacional: Jalil recibe a empresas mineras francesas y Sadir participa en el Foro del Corredor Bioceánico. Hugo Passalacqua (Misiones) y Quintela firman un convenio de cooperación turística y productiva, un gesto de federalismo horizontal que contrasta con el enfrentamiento vertical. En el otro extremo, Jorge Macri (CABA) no tuitea en la jornada, un silencio que sugiere cálculo: evitar sumarse a la polémica mientras su gestión se enfoca en la baja de impuestos.\n\nActo 3 — La Micro-política: La mayoría de los gobernadores se repliega en la gestión de cabotaje. Alberto Weretilneck (Río Negro) despliega una catarata de anuncios de obras: gas, rutas, hospitales. Rolando Figueroa (Neuquén) inaugura una central hidroeléctrica y pavimenta rutas. Claudio Poggi (San Luis) firma acuerdos con intendentes y entrega viviendas. Claudio Vidal (Santa Cruz) defiende la reactivación de represas. Maximiliano Pullaro (Santa Fe) celebra la Semana Invencible. Todos ellos evitan mencionar a Nación, pero su mensaje es claro: 'Nosotros gestionamos, mientras otros discuten'. Es un refugio en la obra pública como escudo electoral.\n\nActo 4 — Saldo Presidencial: El saldo para la Casa Rosada es mixto. La oposición peronista se muestra combativa, pero fragmentada: Kicillof y Quintela no coordinan un discurso único. Los gobernadores de provincias centrales (Córdoba, Santa Fe, Mendoza) se mantienen en una ambigüedad calculada, sin confrontar pero sin alinearse. El silencio de Macri y la ausencia de tweets de otros mandatarios (como Cornejo o Valdés) indican que el oficialismo nacional no logra capitalizar la agenda. La jornada deja la sensación de un tablero donde las piezas se mueven con cautela, pero la tensión de fondo es innegable.",
+    "temas_calientes": [
+        {
+            "tema": "Crisis laboral y ataque al modelo nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Cooperación interprovincial y desarrollo minero",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo",
+                "@passalacquaok",
+                "@RaulJalil_ok",
+                "@carlossadirjuy"
+            ]
+        },
+        {
+            "tema": "Obras públicas e infraestructura provincial",
+            "gobernadores_involucrados": [
+                "@Weretilneck",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@NachoTorresCH",
+                "@LeandroZdero",
+                "@frigeriorogelio",
+                "@ZiliottoSergio",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@EliasSuarezSDE",
+                "@gustavomelella",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio",
+                "@LeandroZdero"
+            ]
+        },
+        {
+            "tema": "Educación y cultura",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE",
+                "@MartinLlaryora",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Con el portal Servicio Bonaerense de Empleo, la Provincia suma una gran herramienta para dar respuesta a la demanda de trabajo que día a día se incrementa por las políticas del Gobierno nacional que están generando una crisis histórica en materia laboral. La plataforma conecta empresas y emprendimientos con los trabajadores, ofrece instancias de formación y brindará información sobre los instrumentos de financiamiento de @pMicrocreditos. Sabemos que la verdadera solución es cambiar un modelo económico que solo mira a los mercados por uno que entienda la realidad que están viviendo miles de familias. Por eso, junto a los municipios vamos a seguir haciendo todo lo que esté a nuestro alcance para proteger la producción, el trabajo y la industria nacional.",
+        "por_que_es_clave": "Kicillof utiliza una herramienta provincial para denunciar la crisis laboral generada por Nación, posicionándose como alternativa y marcando territorio electoral.",
+        "pregunta_openarg": "¿Puede la Provincia de Buenos Aires sostener políticas de empleo contracíclicas sin el respaldo fiscal de la Nación?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Empleo",
+                "Crisis laboral",
+                "Crítica al Gobierno nacional"
+            ],
+            "postura_politica": "Oposición frontal. Atribuye la crisis laboral a las políticas de Milei y se presenta como gestor alternativo.",
+            "frase_fuerte": "las políticas del Gobierno nacional que están generando una crisis histórica en materia laboral"
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Minería",
+                "Inversiones",
+                "Litio"
+            ],
+            "postura_politica": "Cooperación internacional y desarrollo productivo. Evita confrontación con Nación.",
+            "frase_fuerte": "transformando el potencial minero de nuestra provincia en más empleo y oportunidades"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "Institucionalidad",
+                "Gestión local"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Prioriza la continuidad institucional tras fallecimiento de intendente.",
+            "frase_fuerte": "decidimos respetar la voluntad popular y que el mandato sea cumplido por el presidente del Concejo"
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Energía",
+                "Infraestructura"
+            ],
+            "postura_politica": "Gestión provincial activa. Muestra obras como respuesta a demandas históricas, sin mencionar a Nación.",
+            "frase_fuerte": "una obra para que Corcovado deje atrás la generación aislada"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Religión",
+                "Instituciones"
+            ],
+            "postura_politica": "Agenda protocolar. Acompaña asunción de obispo, sin contenido político partidario.",
+            "frase_fuerte": "la libertad de culto, el respeto por la diversidad y el diálogo interreligioso son pilares fundamentales"
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "Narcotráfico",
+                "Seguridad"
+            ],
+            "postura_politica": "Firmeza en seguridad. Destaca destrucción de droga y coordinación con Justicia Federal.",
+            "frase_fuerte": "En Entre Ríos no hay lugar para el narcotráfico"
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [
+                "Corredor Bioceánico",
+                "Integración regional"
+            ],
+            "postura_politica": "Cooperación internacional y desarrollo. Se posiciona como nexo entre provincias y el mundo.",
+            "frase_fuerte": "MÁS CONEXIÓN CON EL MUNDO, MÁS OPORTUNIDADES PARA JUJUY"
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "Empleo",
+                "Salario",
+                "Créditos"
+            ],
+            "postura_politica": "Defensa del Estado presente. Anuncia créditos para aguinaldos y paritarias, en contraste con el ajuste nacional.",
+            "frase_fuerte": "Sostener el empleo y propiciar el mayor poder adquisitivo de su salario para generar mayor consumo"
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Recesión",
+                "Crítica al Gobierno nacional",
+                "Cooperación interprovincial"
+            ],
+            "postura_politica": "Oposición dura. Denuncia la recesión y la corrupción, y busca alianzas con otras provincias.",
+            "frase_fuerte": "La recesión es la frutilla del postre con la que el gobierno de Milei termina de aniquilar a dos terceras partes de los argentinos"
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Vino",
+                "Cultura",
+                "Producción"
+            ],
+            "postura_politica": "Agenda local y promoción productiva. Sin confrontación con Nación.",
+            "frase_fuerte": "El vino es una de nuestras expresiones más genuinas"
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Cooperación interprovincial",
+                "Beneficios docentes",
+                "Asueto"
+            ],
+            "postura_politica": "Gestión local y alianzas. Firman convenio con La Rioja y otorgan beneficios a docentes.",
+            "frase_fuerte": "El federalismo también se construye así, con diálogo, intercambio y trabajo entre provincias"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "Obras viales",
+                "Educación técnica"
+            ],
+            "postura_politica": "Desarrollo energético y obras. Defiende el trabajo neuquino y la inversión en infraestructura.",
+            "frase_fuerte": "Vaca Muerta no es magia: detrás de su desarrollo hay miles de trabajadores que ponen el cuerpo todos los días"
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Gas",
+                "Rutas",
+                "Salud"
+            ],
+            "postura_politica": "Gestión intensiva. Anuncia múltiples obras y servicios, mostrando capacidad de gestión provincial.",
+            "frase_fuerte": "Sabemos que falta, pero Río Negro tiene rumbo"
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "Asistencia social",
+                "Convenio con Nación"
+            ],
+            "postura_politica": "Cooperación con Nación. Firman convenio para programa Centros de Familia, mostrando diálogo.",
+            "frase_fuerte": "Gracias, Sandra, y a todo tu equipo por escuchar y acompañar las necesidades de nuestro querido norte argentino"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Salud mental",
+                "Capacitación",
+                "Obras municipales",
+                "Seguridad"
+            ],
+            "postura_politica": "Gestión múltiple. Abarca salud, educación, obras y seguridad, con enfoque en resultados.",
+            "frase_fuerte": "Sana articulación presupuestaria e institucional"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Gestión",
+                "Respuestas"
+            ],
+            "postura_politica": "Defensa de la gestión propia. Responde a críticas con obras y presencia territorial.",
+            "frase_fuerte": "MIENTRAS ALGUNOS INTENTAN FRENAR LA GESTIÓN, NOSOTROS SEGUIMOS DANDO RESPUESTAS"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Cultura",
+                "Identidad provincial"
+            ],
+            "postura_politica": "Agenda cultural y conmemorativa. Celebra la Semana Invencible y el natalicio de Estanislao López.",
+            "frase_fuerte": "¡Cerramos la Semana Invencible en #SantaFe!"
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Educación",
+                "Memoria",
+                "Concurso literario"
+            ],
+            "postura_politica": "Educación y valores. Promueve concursos y formación, sin contenido político partidario.",
+            "frase_fuerte": "La educación y la memoria como herramientas para construir el futuro"
+        }
+    ]
+}
