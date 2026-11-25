@@ -1,0 +1,252 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La jornada federal se caracterizó por una fuerte impronta de gestión provincial y una notoria preocupación por el escenario económico nacional. Gobernadores como Osvaldo Jaldo (Tucumán) expresaron abiertamente su inquietud por la caída del consumo y el endeudamiento, pidiendo medidas concretas a Nación. Otros, como Axel Kicillof (Buenos Aires) y Martín Llaryora (Córdoba), destacaron inversiones estratégicas y promoción industrial con fuerte rol estatal o incentivos provinciales. La obra pública, la modernización del Estado con austeridad (Jorge Macri de CABA), y el fortalecimiento de salud y educación fueron temas recurrentes, siempre con un acento en la capacidad de gestión autónoma frente a un contexto desafiante.",
+    "analisis_profundo": "La agenda de los gobernadores en las últimas 24 horas refleja una dualidad marcada: por un lado, un intenso foco en la gestión provincial y el impulso a obras de infraestructura y desarrollo productivo; por el otro, una creciente tensión en la relación con el Gobierno nacional, principalmente en el plano económico. La preocupación más explícita provino de Osvaldo Jaldo (Tucumán), quien no solo anunció la reactivación de una obra nacional con fondos provinciales, sino que interpeló directamente a la Casa Rosada por la recesión y el impacto en las familias y comercios de su provincia, exigiendo medidas. Este planteo subraya la presión que enfrentan los distritos y su búsqueda de autonomía para paliar los efectos de la política económica nacional. \n\nEn contraste, Martín Llaryora (Córdoba) proyectó una Córdoba industrial fuerte, celebrando inversiones de Stellantis con exenciones fiscales provinciales, reafirmando un modelo de incentivo propio que busca diferenciar a la provincia en el mapa productivo. Axel Kicillof (Buenos Aires) también defendió la inversión estatal en proyectos estratégicos como el calado de Bahía Blanca para la exportación de Vaca Muerta, reiterando la visión de un Estado presente como motor de desarrollo. \n\nLa eficiencia y modernización del Estado fueron temas centrales para Jorge Macri (CABA), quien resaltó la eliminación de ministerios y cargos, alineándose con una retórica de austeridad. Claudio Vidal (Santa Cruz) dirigió su crítica a la gestión kirchnerista pasada, denunciando 'negocios' con el agua y obras 'robadas', contrastando con su actual administración que impulsa la finalización de proyectos como el interconectado eléctrico. El Plan Director de Agua y la licitación de lotes con servicios en Dina Huapi, junto a la gestión fiscal para un presupuesto equilibrado sin subir impuestos, mostraron el pragmatismo de Alberto Weretilneck (Río Negro). \n\nAsimismo, hubo un fuerte énfasis en el sector social: Sergio Ziliotto (La Pampa) se pronunció en el Día Internacional de la Eliminación de la Violencia contra la Mujer, y Gustavo Sáenz (Salta) celebró la inauguración de una Unidad de Terapia Intensiva en Embarcación, ampliando el acceso a la salud en el interior. La educación y la formación profesional también tuvieron espacio, con la apertura de sedes universitarias y programas de diplomatura en IA (Martín Llaryora de Córdoba, Elías Suárez de Santiago del Estero, Claudio Poggi de San Luis, Maxi Pullaro de Santa Fe), destacando el compromiso con el futuro de los jóvenes. En suma, los gobernadores priorizan la gestión local, articulan el desarrollo productivo y defienden la autonomía provincial, generando un clima de proactividad regional con subyacentes tensiones económico-federales.",
+    "temas_calientes": [
+        {
+            "tema": "Impulso a la Infraestructura y Desarrollo Productivo Provincial",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@alfredocornejo",
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Gestión Fiscal y Modernización del Estado",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@Weretilneck",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento del Sistema de Salud y Educación Pública",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@ZiliottoSergio",
+                "@alfredocornejo",
+                "@passalacquaok",
+                "@Weretilneck",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Desafíos Económicos Nacionales y Reclamos de Autonomía Provincial",
+            "gobernadores_involucrados": [
+                "@OsvaldoJaldo",
+                "@jorgemacri",
+                "@Weretilneck",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Compromiso Social, Seguridad y Lucha contra la Violencia de Género",
+            "gobernadores_involucrados": [
+                "@ZiliottoSergio",
+                "@passalacquaok",
+                "@Weretilneck",
+                "@GustavoSaenzOK",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@OsvaldoJaldo",
+        "texto": "Plantemos, además, nuestra preocupación por la caída del consumo, el endeudamiento de las familias y los comercios que tuvieron que bajar la persiana. Queremos que al Gobierno nacional le vaya bien y le pedimos medidas concretas para mejorar los ingresos. Las familias ya hicieron un esfuerzo enorme. Es hora de que la recuperación se sienta en el bolsillo de quienes trabajan y en los comercios que sostienen el empleo.",
+        "por_que_es_clave": "El gobernador (Tucumán) realiza una crítica directa y un llamado explícito al Gobierno nacional por la situación económica, reflejando una preocupación generalizada entre los mandatarios provinciales y la tensión federal en torno a las políticas económicas.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Inversión en infraestructura portuaria",
+                "Desarrollo productivo",
+                "Energía",
+                "Rol del Estado"
+            ],
+            "postura_politica": "Reafirma un modelo de Estado inversor y planificador en obras estratégicas (Vaca Muerta, infraestructura portuaria), clave para el desarrollo regional y el beneficio colectivo. Enfatiza que sin apoyo estatal, estas inversiones son difíciles.",
+            "frase_fuerte": "Hay inversiones centrales para nuestro futuro que si no cuentan con el apoyo del Estado es difícil que ocurran."
+        },
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Reforma del Estado",
+                "Austeridad",
+                "Reducción de gasto público",
+                "Alineamiento con propuestas libertarias"
+            ],
+            "postura_politica": "Destaca la implementación de medidas de achicamiento de la estructura estatal, como la eliminación de ministerios y cargos jerárquicos, y atribuye parte de estas iniciativas a la bancada de La Libertad Avanza, proyectando una imagen de eficiencia y baja de impuestos.",
+            "frase_fuerte": "Me gustaría aclarar, a fin de ser justo, que muchas de las propuestas de achicamiento de estructura que hemos implementado son aportes de @PilarRamirezmpr como presidenta del Bloque de LLA."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Obra pública",
+                "Infraestructura hídrica"
+            ],
+            "postura_politica": "Enfocado en la continuidad y avance de obras públicas clave como el Segundo Acueducto, mostrando una gestión activa en infraestructura básica.",
+            "frase_fuerte": "El Segundo Acueducto del Interior avanza a paso firme!"
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Identidad provincial",
+                "Historia",
+                "Unidad"
+            ],
+            "postura_politica": "Conmemora un hito histórico provincial (Gesta de Fontana), reforzando la identidad chubutense, la unidad y la construcción colectiva desde las diferencias.",
+            "frase_fuerte": "El mejor homenaje que podemos hacerles a nuestros pioneros es aprender de su capacidad de hermanarse, de construir desde las diferencias y de trabajar por un futuro compartido."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Promoción industrial",
+                "Inversión privada",
+                "Empleo",
+                "Desarrollo regional",
+                "Educación universitaria",
+                "Obras locales"
+            ],
+            "postura_politica": "Posiciona a Córdoba como un polo industrial clave a nivel nacional e internacional, atrayendo inversiones (Stellantis) mediante incentivos fiscales y colaboración público-privada. También resalta la expansión de la educación universitaria en el interior provincial y la inversión en infraestructura local.",
+            "frase_fuerte": "Reafirmamos la Córdoba industrial. Vamos a defender nuestra industria y nunca vamos a dejar de ser uno de los polos industriales más importantes de #Sudamérica."
+        },
+        {
+            "gobernador": "@ZiliottoSergio",
+            "temas_mencionados": [
+                "Lucha contra la violencia de género",
+                "Justicia social",
+                "Derechos de la mujer"
+            ],
+            "postura_politica": "Aboga por una provincia libre de violencias, enfatizando la responsabilidad del Estado y la sociedad en escuchar y acompañar a las víctimas, vinculando la libertad con la ausencia de miedo.",
+            "frase_fuerte": "Que ninguna mujer tenga miedo de volver a su casa, de caminar por la calle, de expresar lo que siente o de decidir sobre su propia vida."
+        },
+        {
+            "gobernador": "@alfredocornejo",
+            "temas_mencionados": [
+                "Salud pública de alta complejidad",
+                "Cooperación internacional",
+                "Turismo",
+                "Producción olivícola"
+            ],
+            "postura_politica": "Destaca la capacidad y excelencia del sistema de salud pública provincial al realizar procedimientos complejos como trasplantes. Impulsa la cooperación internacional para el desarrollo turístico y productivo (oleoturismo).",
+            "frase_fuerte": "Un padre que le dona un riñón a su hijo. Y un sistema de salud pública que hace posible que esa historia suceda en Mendoza."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Seguridad",
+                "Tecnología forense",
+                "Violencia de género",
+                "Asistencia social"
+            ],
+            "postura_politica": "Refuerza la capacidad de seguridad y justicia con tecnología de punta (laboratorio forense móvil) y promueve la asistencia a víctimas de violencia de género, mostrando un Estado presente en áreas sensibles.",
+            "frase_fuerte": "Pusimos en funcionamiento un nuevo laboratorio forense móvil, una unidad financiada íntegramente con recursos provinciales que nos permitirá llevar tecnología de última generación y peritos especializados a cualquier rincón de Misiones."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura energética",
+                "Infraestructura vial",
+                "Desarrollo regional"
+            ],
+            "postura_politica": "Muestra un fuerte impulso a la inversión en infraestructura clave para el desarrollo productivo y la calidad de vida, como la expansión de la capacidad eléctrica y el avance en rutas estratégicas para la conectividad y el turismo.",
+            "frase_fuerte": "Adjudicamos una obra estratégica para la región sur. En 480 días vamos a duplicar la potencia disponible y a reforzar la capacidad de respuesta del sistema eléctrico."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Obra pública",
+                "Desarrollo local",
+                "Salud",
+                "Educación",
+                "Finanzas públicas",
+                "Seguridad",
+                "Transporte"
+            ],
+            "postura_politica": "Demuestra una gestión proactiva y planificada, con múltiples obras en marcha (hospitales, viviendas, agua, cloacas, rutas), programas educativos y de formación (IPAP), mejoras en salud y seguridad, y una administración fiscal responsable que permite sostener la inversión sin aumentar impuestos.",
+            "frase_fuerte": "Sabemos que falta, pero Río Negro tiene rumbo. Río Negro está en marcha."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK",
+            "temas_mencionados": [
+                "Salud pública",
+                "Infraestructura sanitaria",
+                "Federalismo en salud"
+            ],
+            "postura_politica": "Inaugura obras de salud de alta complejidad en el interior provincial, enfatizando el compromiso de garantizar una salud pública federal e igualitaria para todos los salteños.",
+            "frase_fuerte": "Un sueño de décadas que hoy se hace realidad. Embarcación ya tiene la primera Unidad de Terapia Intensiva de su historia."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Articulación público-privada",
+                "Gestión de emergencias (climáticas)",
+                "Salud (trasplantes)",
+                "Educación (IA)",
+                "Cuidado de la familia"
+            ],
+            "postura_politica": "Subraya la colaboración con el sector privado, la preparación ante eventos climáticos, la expansión de servicios de salud (trasplantes) y la innovación educativa, manteniendo un enfoque en el bienestar de la comunidad y valores familiares.",
+            "frase_fuerte": "Promovemos la permanente articulación pública - privada. Bien !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Infraestructura energética",
+                "Obra pública",
+                "Corrupción",
+                "Gestión del agua"
+            ],
+            "postura_politica": "Critica abiertamente la gestión anterior (kirchnerismo) por obras paralizadas y 'negocios' con servicios públicos, y presenta su administración como la que reactiva proyectos y combate la corrupción, poniendo los recursos al servicio de la gente.",
+            "frase_fuerte": "El kirchnerismo se robaba las obras de los santacruceños. Nosotros las hacemos y las terminamos."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Inversión privada",
+                "Empleo",
+                "Educación"
+            ],
+            "postura_politica": "Celebra las inversiones privadas que generan empleo local y destaca la importancia de la infraestructura educativa para el desarrollo, mostrando una gestión que acompaña el crecimiento y la calidad de vida.",
+            "frase_fuerte": "En un momento difícil de la economía, que una empresa santafesina invierta y siga apostando me llena de orgullo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE",
+            "temas_mencionados": [
+                "Educación de posgrado",
+                "Desarrollo deportivo",
+                "Eventos nacionales"
+            ],
+            "postura_politica": "Promueve la provincia como centro de formación académica internacional y sede de grandes eventos deportivos, buscando potenciar el desarrollo y la visibilidad de Santiago del Estero.",
+            "frase_fuerte": "Santiago del Estero tendrá la segunda sede de FACOP en el país"
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Obra pública",
+                "Seguridad",
+                "Economía nacional",
+                "Desarrollo industrial",
+                "Federalismo"
+            ],
+            "postura_politica": "Prioriza la reactivación de obras estratégicas (acceso sur) asumiendo costos provinciales, refuerza la lucha contra el narcotráfico y, críticamente, interpela al Gobierno nacional por la crisis económica, exigiendo medidas concretas para la recuperación provincial.",
+            "frase_fuerte": "Plantemos, además, nuestra preocupación por la caída del consumo, el endeudamiento de las familias y los comercios que tuvieron que bajar la persiana. Queremos que al Gobierno nacional le vaya bien y le pedimos medidas concretas para mejorar los ingresos."
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "Jornada marcada por la exhibición de gestión provincial autónoma frente al repliegue nacional. Kicillof profundiza su perfil opositor con obras estratégicas y críticas al modelo de Milei. Macri refuerza su sintonía con la Casa Rosada mediante ajuste fiscal en CABA. Llaryora y Weretilneck apuestan a la inversión privada y obra pública como contrapeso. El federalismo resurge en Pullaro y Sáenz como bandera de reclamo.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal domina la jornada. Kicillof anuncia la profundización del calado de Bahía Blanca, una obra que posiciona a Buenos Aires como plataforma exportadora de Vaca Muerta, pero que también es un mensaje directo a Nación: 'sin apoyo estatal, estas inversiones no ocurren'. El gobernador bonaerense no solo gestiona, sino que marca el territorio de un modelo alternativo al ajuste nacional. En paralelo, Macri elimina ministerios y cargos en CABA, alineándose con la narrativa de achicamiento del Estado que impulsa Milei, pero con un costo político: quedar pegado a una gestión que recorta servicios.\n\nActo 2 — Los Alineamientos: Llaryora y Weretilneck se posicionan como los gestores eficientes del interior productivo. Córdoba inaugura una planta de motores Stellantis y baja impuestos, mientras Río Negro firma contratos para recuperar rutas nacionales abandonadas. Ambos construyen una narrativa de 'provincia que funciona' frente a una Nación ausente. En la vereda opuesta, Pullaro y Sáenz elevan el tono federalista: el santafesino reivindica a Estanislao López como símbolo de resistencia al centralismo, y el salteño denuncia la desigualdad en los subsidios al transporte. Son los parias del día, que convierten el reclamo en identidad política.\n\nActo 3 — La Micro-política: Los gobernadores de provincias periféricas se refugian en la agenda local. Poggi entrega viviendas y bicicletas, Vidal inaugura obras de infraestructura básica, y Jaldo destraba el acceso sur a Tucumán. No hay desafío a Nación, sino supervivencia: muestran gestión para disimular la asfixia fiscal. El silencio de Quintela, Insfrán y otros es elocuente: optan por no confrontar en una jornada donde el centro del tablero lo ocupan los pesos pesados.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el día deja un saldo agridulce. Por un lado, Macri valida el ajuste, pero Kicillof y Llaryora demuestran que hay vida política más allá del recorte. El federalismo como bandera de reclamo gana tracción entre gobernadores peronistas y radicales, mientras los aliados naturales de Milei (Macri, Pullaro) intentan equilibrar su apoyo con demandas de mayor autonomía. La pregunta que queda flotando: ¿puede el Gobierno nacional sostener su relato de orden fiscal cuando las provincias centrales muestran que la inversión pública es posible?",
+    "temas_calientes": [
+        {
+            "tema": "Inversión en infraestructura y obra pública provincial como respuesta al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@MartinLlaryora",
+                "@Weretilneck",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Achicamiento del Estado y baja de impuestos como sintonía con Nación",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Federalismo y reclamo de equidad en la distribución de recursos",
+            "gobernadores_involucrados": [
+                "@maxipullaro",
+                "@GustavoSaenzOK",
+                "@ZiliottoSergio"
+            ]
+        },
+        {
+            "tema": "Seguridad y lucha contra el narcotráfico",
+            "gobernadores_involucrados": [
+                "@jorgemacri",
+                "@frigeriorogelio"
+            ]
+        },
+        {
+            "tema": "Educación técnica y formación para el empleo",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@claudiojpoggi",
+                "@OsvaldoJaldo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "Anunciamos la inversión para la profundización del calado del estuario de Bahía Blanca, una obra estratégica para toda la región porque va a consolidar su posición en la exportación de petróleo de Vaca Muerta, además de fortalecer el desarrollo productivo de la provincia.\n\nHay inversiones centrales para nuestro futuro que si no cuentan con el apoyo del Estado es difícil que ocurran. Esta es una de ellas porque beneficia al sector privado, a nuestro sistema portuario y marcan un camino hacia el desarrollo con el único objetivo de beneficiar al pueblo argentino.",
+        "por_que_es_clave": "Kicillof no solo anuncia una obra, sino que la enmarca en una disputa ideológica: el Estado como motor del desarrollo vs. el ajuste nacional. La mención a Vaca Muerta y la exportación petrolera es un guiño al sector productivo, pero también una advertencia: sin inversión pública, el modelo de Milei no sostiene el crecimiento.",
+        "pregunta_openarg": "¿Puede el Estado provincial reemplazar al nacional en la inversión estratégica sin caer en un déficit insostenible, o es solo una jugada política para desgastar a la Casa Rosada?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "obra pública",
+                "Vaca Muerta",
+                "empleo",
+                "crítica al modelo nacional"
+            ],
+            "postura_politica": "Oposición frontal y construcción de un modelo alternativo. Cada anuncio es un reproche al ajuste de Milei y una demostración de que la Provincia puede gestionar sola. La omisión de la palabra 'Nación' en sus tuits es deliberada: busca invisibilizar al Gobierno nacional.",
+            "frase_fuerte": "Hay inversiones centrales para nuestro futuro que si no cuentan con el apoyo del Estado es difícil que ocurran."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "achicamiento del Estado",
+                "baja de impuestos",
+                "seguridad"
+            ],
+            "postura_politica": "Alineamiento total con la narrativa de Milei. Macri se presenta como el gestor eficiente que reduce la burocracia, pero el costo es quedar pegado a un ajuste que puede ser impopular. Su tweet sobre el búnker narco es un dardo a Kicillof: 'del otro lado de la General Paz no se hace nada'.",
+            "frase_fuerte": "Menos gasto político significa impuestos más bajos."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "inversión industrial",
+                "baja de impuestos",
+                "educación",
+                "salud"
+            ],
+            "postura_politica": "Construcción de una marca provincial de eficiencia y desarrollo. Llaryora se posiciona como el gobernador que atrae inversiones (Stellantis) mientras baja impuestos, en contraste con el ajuste nacional. Su mensaje es: 'Córdoba es el motor que el país necesita'.",
+            "frase_fuerte": "Córdoba mejora cualquier oferta y cualquier condición."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "obra pública",
+                "infraestructura",
+                "Vaca Muerta",
+                "presupuesto"
+            ],
+            "postura_politica": "Gestión pragmática con perfil federal. Weretilneck asume rutas nacionales abandonadas y firma contratos, mostrando que la Provincia puede suplir la ausencia de Nación. Su lema 'Sabemos que falta, pero tenemos rumbo' es un mensaje de esperanza controlada.",
+            "frase_fuerte": "Asumimos la responsabilidad que otros no asumieron, porque las rutas son de los rionegrinos y su cuidado también."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "federalismo",
+                "obra pública",
+                "gas natural",
+                "seguridad"
+            ],
+            "postura_politica": "Reivindicación del federalismo como identidad. Pullaro usa la figura de Estanislao López para conectar con el interior productivo y reclamar un trato más justo. Su gestión de obra pública (gasoductos, puentes) busca demostrar que Santa Fe no necesita a Nación para crecer.",
+            "frase_fuerte": "El Brigadier sabía que el país se construye con provincias fuertes, con voz propia y oportunidades para crecer."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [
+                "subsidios al transporte",
+                "federalismo",
+                "salud",
+                "inversión minera"
+            ],
+            "postura_politica": "Reclamo directo a Nación por la desigualdad en la distribución de recursos. Sáenz denuncia que el AMBA recibe subsidios mientras el interior se las arregla solo. Su tono es de hartazgo, pero sin romper: busca negociar más que confrontar.",
+            "frase_fuerte": "El discurso de 'no hay plata' se contradice con estas decisiones, donde Nación cede ante la presión de las empresas porteñas mientras sigue postergando al interior."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Vaca Muerta",
+                "obra pública",
+                "energía",
+                "educación técnica"
+            ],
+            "postura_politica": "Exhibición de poderío energético. Figueroa inaugura una central hidroeléctrica y pavimenta rutas, mostrando que Neuquén es el motor del país. Su mensaje es de orgullo provincial: 'Lo que pasa en Neuquén no pasa en otro lugar'.",
+            "frase_fuerte": "Vaca Muerta es lo que es gracias al trabajo de los neuquinos."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "vivienda",
+                "salud",
+                "educación",
+                "gestión municipal"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Poggi se enfoca en entregas de viviendas, bicicletas y capacitaciones. No hay mención a Nación ni a la macroeconomía. Es un repliegue estratégico: gobernar para su gente sin meterse en la grieta.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "obra pública",
+                "agua",
+                "energía",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Ruptura con el pasado kirchnerista. Vidal se presenta como el que termina obras abandonadas y combate la corrupción. Su discurso es de gestión eficiente, pero con un fuerte componente de ajuste de cuentas con el gobierno anterior.",
+            "frase_fuerte": "El kirchnerismo se robaba las obras de los santacruceños. Nosotros las hacemos y las terminamos."
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "obra pública",
+                "gas",
+                "vivienda",
+                "educación"
+            ],
+            "postura_politica": "Gestión territorial con perfil social. Torres se enfoca en obras de infraestructura básica (gas, viviendas) y en la educación como herramienta de arraigo. No confronta con Nación, pero su silencio es una forma de autonomía.",
+            "frase_fuerte": "Porque no hay pueblos más importantes que otros y cada chubutense merece las mismas oportunidades, viva donde viva."
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [
+                "género",
+                "universidad pública",
+                "soberanía",
+                "presupuesto"
+            ],
+            "postura_politica": "Peronismo clásico con énfasis en derechos. Ziliotto defiende la universidad pública y la soberanía, en sintonía con el discurso del peronismo. Su tweet sobre el Día de la Soberanía es un recordatorio de la lucha contra el centralismo.",
+            "frase_fuerte": "Defender la soberanía también es defender el federalismo, hacer valer los derechos de las provincias."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "cultura",
+                "educación",
+                "aeropuerto",
+                "vivienda"
+            ],
+            "postura_politica": "Gestión cultural y educativa. Suárez se enfoca en concursos literarios, homenajes y obras de infraestructura. No hay posicionamiento federal explícito, pero la apuesta por la educación y la cultura es una forma de construir identidad provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "obra pública",
+                "seguridad",
+                "educación técnica",
+                "industria azucarera"
+            ],
+            "postura_politica": "Gestión pragmática con perfil productivo. Jaldo destraba obras paralizadas y apoya al sector azucarero. Su tono es de diálogo con Nación, pero sin subordinación. La mención a la caída del consumo es un guiño a la crítica del ajuste.",
+            "frase_fuerte": "Queremos que al Gobierno nacional le vaya bien y le pedimos medidas concretas para mejorar los ingresos."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "obra pública",
+                "agua",
+                "seguridad",
+                "producción"
+            ],
+            "postura_politica": "Gestión local sin confrontación. Zdero se enfoca en acueductos, viviendas y equipamiento policial. No hay crítica a Nación, pero su silencio es una forma de autonomía en una provincia periférica.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "minería",
+                "cooperación internacional",
+                "salud",
+                "vivienda"
+            ],
+            "postura_politica": "Perfil internacional y minero. Cornejo recibe a autoridades croatas y promueve la minería del cobre. Su agenda es de desarrollo productivo, sin roces con Nación. Es un gobernador que busca posicionar a Mendoza en el mundo.",
+            "frase_fuerte": "La confianza empieza a traducirse en hechos."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "seguridad",
+                "educación",
+                "vivienda",
+                "cooperación provincial"
+            ],
+            "postura_politica": "Gestión social y cooperación. Passalacqua firma convenios con La Rioja y entrega viviendas. Su tono es de hermandad provincial, sin confrontación. Es un perfil bajo pero constructivo.",
+            "frase_fuerte": "El federalismo también se construye así, con diálogo, intercambio y trabajo entre provincias."
+        }
+    ]
+}
