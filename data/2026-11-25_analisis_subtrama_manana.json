@@ -1,0 +1,70 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada sin confrontación federal. Los gobernadores con actividad reciente se refugiaron en agenda local: condolencias, gestión educativa, obras menores y ataques al kirchnerismo pasado. Ningún posicionamiento sobre coparticipación, deuda o recursos estratégicos.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada no registra tensión fiscal ni institucional entre Nación y provincias. Los pocos gobernadores que tuiteron evitaron cualquier mención a la macroeconomía o al ajuste nacional, optando por un repliegue hacia temas de baja intensidad política. \n\nActo 2 — Los Alineamientos: Jorge Macri (CABA) dedicó un tuit a reconocer el aporte de la presidenta del bloque de LLA en la reducción de estructura estatal, un gesto de alineamiento con el oficialismo nacional que refuerza su perfil de gestión austera. Claudio Vidal (Santa Cruz) aprovechó para atacar al kirchnerismo por el 'negocio del agua', pero sin mencionar al gobierno actual, lo que sugiere una estrategia de diferenciación más que de confrontación directa. \n\nActo 3 — La Micro-política: Martín Llaryora (Córdoba) y Maximiliano Pullaro (Santa Fe) se limitaron a actos protocolares: condolencias por un policía fallecido e inauguración de una escuela, respectivamente. Claudio Poggi (San Luis) combinó un anuncio de diplomatura en IA con una reflexión sobre la visita papal, ambos de peso bajo. Alberto Weretilneck (Río Negro) promocionó un parque industrial privado, una señal de gestión local sin impacto federal. \n\nActo 4 — Saldo Presidencial: La Casa Rosada no recibió críticas ni apoyos explícitos. El silencio de los gobernadores de provincias centrales (Buenos Aires, Córdoba, Santa Fe) sobre la agenda nacional sugiere una estrategia de espera o desinterés calculado. El capital político del presidente Milei no se ve afectado por esta jornada anodina.",
+    "temas_calientes": [],
+    "tweet_destacado": {
+        "usuario": "@jorgemacri",
+        "texto": "Me gustaría aclarar, a fin de ser justo, que muchas de las propuestas de achicamiento de estructura que hemos implementado son aportes de @PilarRamirezmpr como presidenta del Bloque de LLA. En particular la eliminación del Ministerio de Espacio Público, la Secretaría de Medios y la baja de los 118 cargos jerárquicos.",
+        "por_que_es_clave": "Macri refuerza su vínculo con LLA al reconocer públicamente el rol de una legisladora oficialista en las reformas de CABA. Es un gesto de alineamiento político que busca consolidar su perfil de gestión austera y su cercanía con el espacio de Milei, en un contexto donde otros gobernadores evitan posicionarse.",
+        "pregunta_openarg": "¿Hasta qué punto la gestión de Jorge Macri en CABA depende del respaldo legislativo de La Libertad Avanza para sostener su agenda de ajuste?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "achicamiento del Estado",
+                "reconocimiento a LLA"
+            ],
+            "postura_politica": "Macri se posiciona como un aliado del oficialismo nacional al destacar el aporte de LLA en la reducción de estructura estatal. El tuit busca capitalizar la imagen de eficiencia y austeridad, y al mismo tiempo fortalecer su relación con el bloque de Milei.",
+            "frase_fuerte": "muchas de las propuestas de achicamiento de estructura que hemos implementado son aportes de @PilarRamirezmpr como presidenta del Bloque de LLA"
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "condolencias",
+                "seguridad"
+            ],
+            "postura_politica": "Llaryora opta por un mensaje institucional y apolítico tras la muerte de un policía. No hay crítica ni apoyo a Nación. Es un refugio en la agenda de gestión local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "parque industrial",
+                "desarrollo económico"
+            ],
+            "postura_politica": "Weretilneck promociona una inversión privada en Cipolletti, destacando la articulación público-privada. No menciona a Nación. Es un mensaje de gestión local que busca mostrar dinamismo económico en un contexto de ajuste.",
+            "frase_fuerte": "CIPOLLETTI TIENE SU PRIMER PARQUE INDUSTRIAL PRIVADO"
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "educación",
+                "inteligencia artificial",
+                "visita papal"
+            ],
+            "postura_politica": "Poggi combina dos tuits de bajo peso: uno sobre una diplomatura en IA y otro sobre la visita del Papa. No hay posicionamiento federal. Es agenda local y protocolar, sin señales de poder.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "lucha contra el narcotráfico",
+                "obra pública",
+                "crítica al kirchnerismo"
+            ],
+            "postura_politica": "Vidal ataca al kirchnerismo por el 'negocio del agua' y reivindica su gestión en obra pública. No menciona al gobierno nacional actual. Es una estrategia de diferenciación con el pasado peronista, buscando posicionarse como gestor eficiente.",
+            "frase_fuerte": "EN CALETA OLIVIA ESTAMOS TERMINANDO CON EL NEFASTO NEGOCIO DEL AGUA QUE EL KIRCHNERISMO PERMITIÓ DURANTE MÁS DE 10 AÑOS"
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "educación",
+                "infraestructura escolar"
+            ],
+            "postura_politica": "Pullaro inaugura una escuela nueva y destaca la inversión en infraestructura educativa. No hay referencia a Nación. Es un mensaje de gestión provincial que busca mostrar resultados concretos.",
+            "frase_fuerte": "Después de 73 años en edificios prestados, la Escuela Esteban Echeverría de #SantaFe tiene su casa propia"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda federal de los gobernadores en las últimas horas se focaliza en la gestión provincial y un marcado contraste con administraciones pasadas. Jorge Macri (Ciudad Autónoma de Buenos Aires) clarificó el origen de medidas de achicamiento estatal, alineándose con La Libertad Avanza. En Santa Cruz, Claudio Vidal lanzó una fuerte denuncia contra el 'Kirchnerismo' por 'el nefasto negocio del agua', destacando acciones contra la corrupción en servicios públicos. Otros gobernadores, como Arabela Carreras (Río Negro), Claudio Poggi (San Luis) y Maximiliano Pullaro (Santa Fe), se concentraron en inauguraciones de infraestructura clave para el desarrollo industrial, la educación, el acceso a gas y el bienestar social, enfatizando la inversión provincial y el cumplimiento de promesas. Este panorama revela un clima político tenso, con la gestión local y la crítica a legados anteriores como ejes centrales.",
+    "analisis_profundo": "La jornada política federal se caracteriza por una marcada heterogeneidad en la comunicación de los gobernadores, aunque con hilos conductores que revelan tanto enfoques de gestión local como tensiones políticas implícitas y explícitas. El clima general se percibe como tenso, impulsado por denuncias contundentes de Santa Cruz.\n\nClaudio Vidal (Santa Cruz) se posiciona como un actor central en la confrontación política. Su denuncia sobre 'el nefasto negocio del agua que el Kirchnerismo permitió' en Caleta Olivia, acompañada de la acción directa de allanamientos y anulación de conexiones clandestinas, no solo resalta una problemática local crítica sino que la enmarca en una fuerte crítica a la gestión anterior, vinculada a una fuerza política de alcance nacional. Esta retórica, junto con la afirmación de que 'la obra pública en Santa Cruz cambió' y que 'los recursos de los santacruceños vuelven a estar donde tienen que estar', busca cimentar su liderazgo en una narrativa de cambio y lucha contra la corrupción.\n\nEn la Ciudad Autónoma de Buenos Aires, Jorge Macri abordó la eficiencia del Estado al aclarar que muchas de las propuestas de achicamiento de estructura fueron aportes del bloque de La Libertad Avanza. Si bien es una aclaración, subraya una sintonía ideológica con las políticas de austeridad que emanan del gobierno nacional y que buscan replicación en las jurisdicciones.\n\nPor su parte, Arabela Carreras (Río Negro) y Claudio Poggi (San Luis) se enfocaron en la materialización de obras de infraestructura y políticas de desarrollo. Carreras inauguró el primer parque industrial privado en Cipolletti, ligando el crecimiento de Vaca Muerta a la generación de empleo rionegrino y resaltando el 'rumbo' y 'estar en marcha' de su gestión. También destacó la construcción de un polideportivo, apuntando a la igualdad de oportunidades. Poggi, en San Luis, mostró un enfoque diverso: desde la formación en inteligencia artificial para docentes, marcando una apuesta por la innovación educativa, hasta la vinculación de sus políticas de vivienda y trabajo con las 'enseñanzas' del Papa León XIV, buscando un anclaje en valores trascendentes para sus programas de gobierno.\n\nFinalmente, Maximiliano Pullaro (Santa Fe) se centró en la inversión educativa, inaugurando una escuela que después de décadas de espera finalmente tiene edificio propio. Este tipo de anuncios refuerza el compromiso con servicios esenciales y la capacidad de gestión local para resolver demandas históricas, independientemente del contexto nacional. El gobernador Martín Llaryora (Córdoba) emitió un mensaje de condolencias, una acción de protocolo que, aunque no directamente conflictiva, pone en relieve el rol de las fuerzas de seguridad.\n\nEn conjunto, la actividad de los gobernadores refleja una tensión entre la afirmación de la autonomía y la capacidad de gestión provincial frente a un contexto nacional complejo, y en algunos casos, una abierta confrontación con legados políticos previos.",
+    "temas_calientes": [
+        {
+            "tema": "Lucha contra la corrupción y mala gestión pública",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Reforma y eficiencia del Estado",
+            "gobernadores_involucrados": [
+                "@jorgemacri"
+            ]
+        },
+        {
+            "tema": "Infraestructura y desarrollo productivo/energético",
+            "gobernadores_involucrados": [
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Calidad educativa e innovación tecnológica",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Valores sociales y derechos (vivienda, familia)",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "EN CALETA OLIVIA ESTAMOS TERMINANDO CON EL NEFASTO NEGOCIO DEL AGUA QUE EL KIRCHNERISMO PERMITIÓ DURANTE MÁS DE 10 AÑOS. Mientras muchos vecinos sufrían la falta de agua potable, otros la extraían clandestinamente de la red pública para revenderla. Hoy, con el trabajo conjunto del Ministerio de Seguridad, la Policía de Santa Cruz y Servicios Públicos, realizamos cuatro allanamientos y anulamos conexiones clandestinas. El volumen de agua almacenada permitiría abastecer a más de 150 familias. Lo anunciamos durante el aniversario de Caleta Olivia y estamos cumpliendo. No vamos a permitir que se siga haciendo negocios con la necesidad de nuestros vecinos.",
+        "por_que_es_clave": "El gobernador (Santa Cruz) denuncia de forma contundente la corrupción y mala gestión de la administración anterior, vinculada explícitamente al 'Kirchnerismo', en un servicio esencial como el agua. La acción directa contra conexiones clandestinas y la retórica de 'terminar con el nefasto negocio' demuestran una postura combativa y de fuerte contraste político, señalando un cambio de modelo de gestión que impacta directamente en la calidad de vida de los ciudadanos y en la confrontación con el pasado político de la provincia.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@jorgemacri",
+            "temas_mencionados": [
+                "Reforma del Estado",
+                "Eficiencia en la gestión",
+                "Alineamiento político"
+            ],
+            "postura_politica": "El gobernador (Ciudad Autónoma de Buenos Aires) reafirma su compromiso con la reducción del gasto y la burocracia estatal, destacando la colaboración con el bloque de La Libertad Avanza en la implementación de medidas como la eliminación de ministerios y cargos jerárquicos. Su postura subraya una sintonía con la agenda de ajuste impulsada a nivel nacional.",
+            "frase_fuerte": "muchas de las propuestas de achicamiento de estructura que hemos implementado son aportes de @PilarRamirezmpr como presidenta del Bloque de LLA."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Seguridad pública",
+                "Reconocimiento institucional"
+            ],
+            "postura_politica": "El gobernador (Córdoba) expresa sus condolencias por el fallecimiento de un oficial de policía, rindiendo homenaje al compromiso de las fuerzas de seguridad. Su mensaje, aunque protocolar, busca reforzar el valor de la labor policial y el apoyo de su gestión a quienes protegen a los ciudadanos.",
+            "frase_fuerte": "Su partida nos conmueve profundamente y nos recuerda el enorme compromiso que asumen cada día los hombres y mujeres de nuestra Policía, quienes arriesgan sus vidas con valentía y vocación de servicio para proteger a los cordobeses y preservar la paz social."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Desarrollo industrial",
+                "Vaca Muerta",
+                "Inversión privada",
+                "Obra pública",
+                "Deporte"
+            ],
+            "postura_politica": "El gobernador (Río Negro) exhibe una gestión activa en desarrollo económico e infraestructura. Destaca la creación del primer parque industrial privado en Cipolletti, buscando capitalizar la energía de Vaca Muerta para el empleo local. Simultáneamente, resalta la construcción de un polideportivo como muestra de equidad territorial y acceso al deporte, proyectando un 'rumbo' claro para la provincia.",
+            "frase_fuerte": "Queremos que la energía de Vaca Muerta se convierta en empresas rionegrinas, en inversión que se quede en nuestras ciudades y en trabajo para nuestra gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Educación y tecnología",
+                "Vivienda social",
+                "Valores papales",
+                "Inclusión juvenil"
+            ],
+            "postura_politica": "El gobernador (San Luis) muestra un enfoque integral en la promoción de la educación y el bienestar social. Destaca la formación de docentes en inteligencia artificial y alinea las políticas provinciales de vivienda y empleo con las recientes enseñanzas del Papa León XIV, enfatizando la importancia del techo propio y el desarrollo juvenil.",
+            "frase_fuerte": "En SAN LUIS, trabajamos para que cada familia pueda realizarse con su techo propio, cada familia pueda acceder a un puesto de trabajo y para que nuestros chicos, con sus TuBis, como nos enseña el Papa, tengan un medio útil de desplazamiento sencillo y un estilo de vida saludable."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Lucha contra la corrupción",
+                "Servicios públicos",
+                "Crítica a gestión anterior",
+                "Obra pública"
+            ],
+            "postura_politica": "El gobernador (Santa Cruz) adopta una postura de abierta confrontación, denunciando un 'nefasto negocio del agua' atribuido al 'Kirchnerismo' y destacando acciones directas para sanear servicios públicos. Promete un cambio en la obra pública, focalizándose en la entrega de viviendas y la transparencia en el uso de los recursos provinciales, diferenciándose de las gestiones pasadas.",
+            "frase_fuerte": "EN CALETA OLIVIA ESTAMOS TERMINANDO CON EL NEFASTO NEGOCIO DEL AGUA QUE EL KIRCHNERISMO PERMITIÓ DURANTE MÁS DE 10 AÑOS."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura educativa",
+                "Calidad educativa"
+            ],
+            "postura_politica": "El gobernador (Santa Fe) celebra la inauguración de una escuela con edificio propio después de 73 años, presentando la obra como un 'salto de calidad' en la infraestructura educativa. Su enfoque es de cumplimiento de demandas históricas y mejora en las condiciones de aprendizaje.",
+            "frase_fuerte": "Después de 73 años en edificios prestados, la Escuela Esteban Echeverría de #SantaFe tiene su casa propia."
+        }
+    ]
+}
