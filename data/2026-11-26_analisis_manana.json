@@ -1,0 +1,169 @@
+{
+    "clima_general": "TENSO",
+    "resumen_ejecutivo": "La agenda de los gobernadores se centró en la gestión provincial y la ejecución de obras de infraestructura, vivienda y servicios esenciales, como respuesta a un complejo escenario económico. Se destacó la inversión en educación pública y el fomento de la producción local, reforzando el rol activo del Estado en el desarrollo regional. El discurso político mostró una clara reafirmación de la autonomía provincial y, en algunos casos, una confrontación explícita con políticas o gestiones nacionales pasadas, evidenciando tensiones subyacentes en la dinámica federal y la búsqueda de modelos propios de crecimiento.",
+    "analisis_profundo": "La jornada reflejó una marcada divergencia entre la agenda provincial y la nacional, con los gobernadores consolidando una narrativa de gestión activa y soluciones concretas frente a un 'contexto económico difícil'. La inversión en obra pública se erigió como el principal motor del desarrollo, abarcando desde la entrega de viviendas (Kicillofok de Buenos Aires, OsvaldoJaldo de Tucumán) hasta la expansión de la infraestructura educativa (MartinLlaryora de Córdoba, maxipullaro de Santa Fe) y vial (LeandroZdero de Chaco, Rolo_Figueroa de Neuquén). Esta insistencia en la capacidad de gestión provincial es una respuesta directa a la percepción de retracción del Estado nacional en ciertas áreas.\n\nEn particular, gobernadores como MartinLlaryora (Córdoba) destacaron la importancia de la educación superior en el interior para el arraigo y el desarrollo regional, mientras que NachoTorresCH (Chubut) hizo hincapié en el acceso universal a la salud de calidad. La articulación público-privada fue mencionada por QuintelaRicardo (La Rioja) como un desafío para construir una Argentina de oportunidades, una declaración que resuena con un posible llamado a reconsiderar el actual modelo económico.\n\nLa polarización política se hizo palpable en el discurso de ClaudioVidalSer (Santa Cruz), quien utilizó un lenguaje frontal para acusar a la gestión kirchnerista de corrupción en la obra pública, posicionando su administración como garante de transparencia y eficiencia. Este tipo de declaraciones genera tensión y subraya las profundas divisiones ideológicas que atraviesan las dinámicas federales.\n\nEn el ámbito productivo, LeandroZdero (Chaco) avanzó en la trazabilidad forestal y maxipullaro (Santa Fe) celebró inversiones privadas y mejoras viales para la producción, mientras que Rolo_Figueroa (Neuquén) vinculó el crecimiento provincial a la infraestructura de Vaca Muerta y destacó el buen desempeño económico de su provincia. OsvaldoJaldo (Tucumán) expresó preocupación por la caída del consumo, reclamando medidas nacionales para mejorar los ingresos.\n\nFinalmente, el fallecimiento de una figura histórica en Tierra del Fuego llevó a gustavomelella a reflexionar sobre la construcción institucional de la provincia. La tónica general de los mensajes provinciales es de autonomía, gestión directa y, en varios casos, de defensa de los intereses locales frente a un escenario nacional percibido como adverso o insuficiente.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión de Obra Pública y Servicios Esenciales",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Desarrollo Productivo y Fomento de la Inversión",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Defensa de la Autonomía Provincial y Crítica a Gestiones Pasadas",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@QuintelaRicardo",
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Educación y Formación para el Futuro",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Reconocimiento y Memoria Institucional",
+            "gobernadores_involucrados": [
+                "@gustavomelella"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Kicillofok",
+        "texto": "¡Felicitaciones a las 120 familias de Tres Arroyos que ya tienen las llaves de su casa! El futuro no está en Wall Street, está en cada uno de los barrios de la provincia de Buenos Aires y en los espacios públicos como el SUM que inauguramos en Santa Teresita, la sucursal del Banco Provincia que fue renovada y las notebooks que entregamos para escuelas del municipio.",
+        "por_que_es_clave": "Este tweet del gobernador de Buenos Aires (Buenos Aires) no solo celebra una política de vivienda y desarrollo local, sino que también contiene una declaración ideológica clave ('El futuro no está en Wall Street'), posicionando su gestión como una alternativa al modelo económico liberal y resaltando el rol del Estado en el bienestar de la ciudadanía.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok",
+            "temas_mencionados": [
+                "Obra pública",
+                "Vivienda",
+                "Desarrollo local",
+                "Educación",
+                "Crítica económica"
+            ],
+            "postura_politica": "Centrado en la gestión local con un fuerte componente social, destacando la inversión en vivienda e infraestructura educativa. Mantiene una postura crítica hacia políticas económicas 'de Wall Street', defendiendo el desarrollo con arraigo territorial.",
+            "frase_fuerte": "El futuro no está en Wall Street, está en cada uno de los barrios de la provincia de Buenos Aires y en los espacios públicos como el SUM que inauguramos en Santa Teresita, la sucursal del Banco Provincia que fue renovada y las notebooks que entregamos para escuelas del municipio."
+        },
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Gestión forestal",
+                "Educación",
+                "Equipamiento institucional"
+            ],
+            "postura_politica": "Enfocado en la gestión de recursos naturales a través de la transparencia forestal y el apoyo a instituciones educativas con equipamiento, mostrando un énfasis en la mejora de la administración provincial y el soporte a la educación.",
+            "frase_fuerte": "Abrimos las puertas de la nueva oficina de Bosques en Los Frentones, implementando un nuevo sistema de trazabilidad forestal para identificar el origen y destino de la madera y permisos obligatorios para trasladar maquinaria pesada."
+        },
+        {
+            "gobernador": "@NachoTorresCH",
+            "temas_mencionados": [
+                "Salud pública",
+                "Inversión provincial",
+                "Servicios esenciales"
+            ],
+            "postura_politica": "Prioriza la salud pública y la llegada de servicios esenciales a todo el territorio provincial, con una clara inversión en equipamiento para asegurar la calidad de atención y accesibilidad en zonas rurales.",
+            "frase_fuerte": "En una provincia tan extensa como la nuestra, garantizar una salud de calidad también significa que nuestros equipos tengan las herramientas necesarias para llegar a cada vecino, viva donde viva."
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Educación superior",
+                "Infraestructura educativa",
+                "Desarrollo regional",
+                "Gas natural",
+                "Salud"
+            ],
+            "postura_politica": "Impulsa una fuerte agenda de expansión de la educación universitaria pública en el interior, combinada con inversiones en infraestructura y servicios básicos, reafirmando el compromiso del Estado con el progreso y la igualdad de oportunidades.",
+            "frase_fuerte": "No puede ser que, en este momento, los recursos económicos de una familia sean un condicionante para que un joven pueda estudiar, progresar y construir su futuro."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Articulación público-privada",
+                "Desarrollo económico",
+                "Federalismo"
+            ],
+            "postura_politica": "Aboga por un modelo de desarrollo basado en la colaboración entre el Estado y el sector privado, buscando generar oportunidades y un 'país federal'. Su tweet es una declaración de principios sobre la visión de construcción nacional.",
+            "frase_fuerte": "El desafío es construir una Argentina donde el Estado y el sector privado puedan articularse para generar oportunidades y desarrollo."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Desarrollo Vaca Muerta",
+                "Transparencia",
+                "Gestión pública"
+            ],
+            "postura_politica": "Enfocado en la ejecución de obras estratégicas para el desarrollo de Vaca Muerta y la conectividad vial, enfatizando la transparencia y la rendición de cuentas como pilares de su gestión para el beneficio provincial.",
+            "frase_fuerte": "Obras como esta no se hacen de un día para el otro: llevan tiempo e inversión, y son posibles gracias al esfuerzo de todos los neuquinos. Lo importante es que no se frenen, porque si fuera fácil, ya estaría hecho."
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Obra pública",
+                "Crítica política",
+                "Anticorrupción",
+                "Servicios básicos"
+            ],
+            "postura_politica": "Promueve la finalización de obras públicas clave para el bienestar de los santacruceños, enarbolando un fuerte discurso anti-corrupción y crítico hacia la gestión kirchnerista anterior, prometiendo un cambio en la administración de los recursos.",
+            "frase_fuerte": "EL KIRCHNERISMO USÓ ESTAS OBRAS PARA ROBAR. NOSOTROS QUEREMOS TERMINARLAS PARA QUE BENEFICIEN A NUESTROS VECINOS."
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura vial",
+                "Desarrollo productivo",
+                "Educación",
+                "Inversión privada"
+            ],
+            "postura_politica": "Resalta la inversión en infraestructura vial para la producción y el desarrollo privado, así como el fortalecimiento de la infraestructura educativa. Destaca la resiliencia y capacidad de inversión de empresas locales en un contexto económico complejo.",
+            "frase_fuerte": "Cereal, leche, animales y los vecinos de toda la zona: todo pasa por la Ruta 6. Por eso terminamos su repavimentación entre #Gessler y la Ruta 10."
+        },
+        {
+            "gobernador": "@gustavomelella",
+            "temas_mencionados": [
+                "Política institucional",
+                "Memoria",
+                "Gobernanza"
+            ],
+            "postura_politica": "Conmemora la trayectoria de figuras políticas e institucionales clave para la provincia, reconociendo su aporte a la vida democrática y sentando bases históricas.",
+            "frase_fuerte": "Con profundo pesar recibo la noticia del fallecimiento del Dr. Luis Augsburger, protagonista de la historia política e institucional de Tierra del Fuego."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Vivienda",
+                "Obra pública",
+                "Servicios básicos",
+                "Infraestructura vial",
+                "Seguridad"
+            ],
+            "postura_politica": "Prioriza la entrega de viviendas y la continuidad de obras públicas con fondos provinciales, incluyendo servicios básicos e infraestructura vial, en un contexto económico difícil. Reconoce la labor policial y gestiona ante Nación para el desarrollo provincial.",
+            "frase_fuerte": "En un contexto económico difícil, seguimos sosteniendo la obra pública con responsabilidad y trabajando junto a los gobiernos locales para dar respuestas concretas."
+        }
+    ]
+}

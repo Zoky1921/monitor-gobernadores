@@ -1,0 +1,124 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "La noche del 25 de noviembre mostró a los gobernadores mayoritariamente enfocados en la gestión local de viviendas, obras y servicios, sin confrontar con Nación. Solo Claudio Vidal (Santa Cruz) rompió la monotonía con un duro ataque al kirchnerismo, pero sin escalar el conflicto al plano nacional. La jornada no dejó señales de tensión fiscal ni alineamientos políticos relevantes.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada post-25 de noviembre se caracterizó por una ausencia de conflicto central entre Nación y provincias. Los gobernadores optaron por un repliegue hacia la agenda de cabotaje, exhibiendo obras de infraestructura y entregas de viviendas como mecanismo de supervivencia política. La única nota discordante fue el ataque de Claudio Vidal al kirchnerismo, pero dirigido al pasado, no al presente de la Casa Rosada.\n\nActo 2 — Los Alineamientos: Los gobernadores de signo peronista como Kicillof y Jaldo priorizaron la gestión local, evitando confrontar con el gobierno nacional. Del lado opositor, Pullaro y Llaryora también se concentraron en obras provinciales. Vidal, en cambio, utilizó una obra paralizada para desmarcarse y capitalizar el descontento local contra el kirchnerismo, pero sin alinearse con el oficialismo nacional.\n\nActo 3 — La Micro-política: La entrega de viviendas y la inauguración de obras menores dominaron la agenda. Estos gestos buscan compensar la falta de recursos nacionales y mostrar gestión en un contexto de ajuste. Gobernadores de provincias periféricas como Zdero, Torres y Figueroa se refugiaron en anuncios de bajo impacto federal, evidenciando una estrategia de supervivencia sin riesgos.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada fue favorable en términos de ausencia de críticas directas. Sin embargo, el silencio de los gobernadores no implica apoyo, sino una espera calculada. La falta de posicionamiento sobre temas fiscales o de coparticipación sugiere que las provincias están priorizando su gestión local mientras evalúan el escenario político.",
+    "temas_calientes": [
+        {
+            "tema": "Gestión local de viviendas e infraestructura",
+            "gobernadores_involucrados": [
+                "@Kicillofok",
+                "@LeandroZdero",
+                "@NachoTorresCH",
+                "@MartinLlaryora",
+                "@Rolo_Figueroa",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Ataque simbólico al kirchnerismo",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "EL KIRCHNERISMO USÓ ESTAS OBRAS PARA ROBAR. NOSOTROS QUEREMOS TERMINARLAS PARA QUE BENEFICIEN A NUESTROS VECINOS.",
+        "por_que_es_clave": "Vidal utiliza una obra paralizada para marcar distancia con el kirchnerismo y posicionarse como gestor eficiente, en un contexto donde la corrupción es un tema sensible en Santa Cruz.",
+        "pregunta_openarg": "¿La acusación de corrupción kirchnerista en obras públicas es un intento de Claudio Vidal de desviar la atención de los problemas de infraestructura en su provincia?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "vivienda",
+                "crítica al modelo económico"
+            ],
+            "postura_politica": "Marca autonomía provincial al mostrar gestión de viviendas y contrasta con el modelo nacional de ajuste.",
+            "frase_fuerte": "El futuro no está en Wall Street, está en cada uno de los barrios de la provincia de Buenos Aires"
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "bosques",
+                "trazabilidad forestal"
+            ],
+            "postura_politica": "Agenda local sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "salud",
+                "ambulancia"
+            ],
+            "postura_politica": "Gestión local de salud, sin confrontación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "educación",
+                "universidad",
+                "infraestructura"
+            ],
+            "postura_politica": "Promueve la educación como motor de desarrollo local, evitando temas nacionales.",
+            "frase_fuerte": "No puede ser que los recursos económicos de una familia sean un condicionante para que un joven pueda estudiar."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "articulación público-privada",
+                "federalismo"
+            ],
+            "postura_politica": "Declaración general sin anclaje en un conflicto concreto.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "obra pública",
+                "puente"
+            ],
+            "postura_politica": "Gestión de infraestructura local.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "corrupción kirchnerista",
+                "obra pública"
+            ],
+            "postura_politica": "Ataque directo al kirchnerismo, buscando capitalizar el descontento y diferenciarse.",
+            "frase_fuerte": "EL KIRCHNERISMO USÓ ESTAS OBRAS PARA ROBAR. NOSOTROS QUEREMOS TERMINARLAS PARA QUE BENEFICIEN A NUESTROS VECINOS."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "ruta",
+                "producción"
+            ],
+            "postura_politica": "Gestión local de infraestructura productiva.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "fallecimiento",
+                "homenaje"
+            ],
+            "postura_politica": "Protocolo sin contenido político.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "vivienda",
+                "obra pública"
+            ],
+            "postura_politica": "Gestión local de viviendas, sin conflicto.",
+            "frase_fuerte": null
+        }
+    ]
+}
