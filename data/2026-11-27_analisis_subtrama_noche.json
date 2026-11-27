@@ -1,0 +1,274 @@
+{
+    "clima_general": "NEGOCIACION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por la diplomacia fiscal y la exhibición de gestión autónoma. Weretilneck inauguró la estación de bombeo de VMOS, consolidando a Río Negro como puerto exportador. Jalil anfitrionó el Consejo Federal de Relaciones Exteriores, tejiendo alianzas con Cancillería. Varios gobernadores (Llaryora, Torres, Figueroa) mostraron obras provinciales, evitando confrontar con Nación. El silencio de los pesos pesados (Kicillof, Macri) sugiere repliegue táctico.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión fiscal se disimula bajo una capa de cooperación institucional. Mientras Nación avala financiamiento internacional para provincias (FONPLATA), los gobernadores evitan el choque directo y optan por mostrar gestión propia. La ausencia de reclamos explícitos por coparticipación sugiere una tregua calculada, pero el trasfondo sigue siendo la asfixia de recursos.\n\nActo 2 — Los Alineamientos: Weretilneck y Jalil emergen como los grandes operadores del día. El primero, con el oleoducto VMOS, se posiciona como el nexo entre Vaca Muerta y el mundo, ganando centralidad. El segundo, al recibir a Cancillería, se perfila como articulador federal. En la vereda opuesta, los gobernadores peronistas (Quintela, Ziliotto) se refugian en efemérides y gestión local, sin confrontar abiertamente.\n\nActo 3 — La Micro-política: Llaryora, Torres y Figueroa despliegan una intensa agenda de obras y anuncios, buscando capitalizar la ausencia del Estado nacional. Cada escuela, hospital o ruta inaugurada es un mensaje implícito: 'Nosotros gestionamos lo que Nación abandona'. La profusión de actos en el interior cordobés y patagónico revela una estrategia de arraigo electoral.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, la jornada es neutra. No hubo críticas frontales, pero tampoco adhesiones explícitas. El silencio de los gobernadores centrales (Buenos Aires, CABA, Córdoba) es una advertencia: la tregua es frágil y depende de que los fondos prometidos lleguen. El tablero se mueve con cautela, pero las piezas ya se están reubicando.",
+    "temas_calientes": [
+        {
+            "tema": "Infraestructura energética y exportación: VMOS y el rol de las provincias",
+            "gobernadores_involucrados": [
+                "@Weretilneck",
+                "@Rolo_Figueroa"
+            ]
+        },
+        {
+            "tema": "Diplomacia federal: Consejo de Relaciones Exteriores en Catamarca",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok"
+            ]
+        },
+        {
+            "tema": "Financiamiento internacional para obras provinciales (FONPLATA)",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@LeandroZdero",
+                "@carlossadirjuy",
+                "@NachoTorresCH"
+            ]
+        },
+        {
+            "tema": "Gestión local como respuesta al ajuste nacional",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@NachoTorresCH",
+                "@Rolo_Figueroa",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@Weretilneck",
+        "texto": "VMOS AVANZA EN CHELFORÓ Y RÍO NEGRO SE PREPARA PARA EXPORTAR PETRÓLEO AL MUNDO\n\nHoy inauguramos en Chelforó la primera estación intermedia de bombeo del oleoducto Vaca Muerta Oil Sur. Esta estación recuperará la presión que el petróleo pierde en el recorrido y le permitirá seguir viaje hasta Punta Colorada. \n\nSu puesta en marcha es clave para alcanzar una capacidad de transporte de 390.000 barriles por día a mediados de 2027.\n\nTranscomahue, nuestra empresa provincial, va a operar la subestación eléctrica que alimentará las 4 bombas. La obra incluyó una nueva conexión a la línea de alta tensión entre Luis Beltrán y Villa Regina y ocho kilómetros de cable con fibra óptica para mejorar el monitoreo y la protección de la red.\n\nUn oleoducto que lleva adelante YPF, Vista Energy, Pan American Energy, Pampa Energía, Chevron, Pluspetrol, Shell, Tecpetrol y Gas y Petróleo del Neuquén; y que ya está en su etapa final. \n\nNeuquén produce. Río Negro exporta. Queremos a los rionegrinos adentro, con trabajo para nuestra gente y oportunidades para nuestras empresas.\n\nTenemos rumbo y tenemos futuro.",
+        "por_que_es_clave": "Weretilneck se apropia del discurso de la soberanía energética y la integración regional, posicionando a Río Negro como el eslabón indispensable para la exportación de Vaca Muerta. La mención de las empresas privadas y la operación estatal refuerza su perfil de gestor eficiente, en contraste con la parálisis nacional.",
+        "pregunta_openarg": "¿La inauguración de VMOS consolida a Río Negro como el nuevo centro de gravedad energética del país, desplazando a Neuquén en la puja por los beneficios de Vaca Muerta?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@Kicillofok (Buenos Aires)",
+            "temas_mencionados": [
+                "Gestión de riesgo climático",
+                "El Niño"
+            ],
+            "postura_politica": "Se muestra como el único que articula prevención y recursos frente al fenómeno climático, marcando agenda propia y omitiendo cualquier referencia a Nación. El mensaje implícito es que la Provincia suple la ausencia federal.",
+            "frase_fuerte": "La Provincia de Buenos Aires va a continuar invirtiendo, desarrollando encuentros regionales y haciendo todo lo necesario para reducir el impacto de este fenómeno climático en la vida de los bonaerenses."
+        },
+        {
+            "gobernador": "@jorgemacri (CABA)",
+            "temas_mencionados": [
+                "Reforma educativa",
+                "Seguridad"
+            ],
+            "postura_politica": "Se enfoca en la gestión local (docencia, seguridad) y evita cualquier roce con Nación. El retweet de Ritondo atacando a Kicillof es un dardo lateral, pero sin confrontación directa con el gobierno nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Consejo Federal de Relaciones Exteriores",
+                "FONPLATA",
+                "Minería",
+                "Cooperación internacional"
+            ],
+            "postura_politica": "Se posiciona como anfitrión y articulador federal, tejiendo vínculos con Cancillería y organismos multilaterales. La agenda de litio y la visita del embajador francés refuerzan su perfil de provincia abierta a la inversión extranjera.",
+            "frase_fuerte": "Desde nuestra provincia celebramos este espacio que promueve federalismo real, trabajo conjunto y oportunidades para todo el país."
+        },
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "FONPLATA",
+                "Obras de infraestructura"
+            ],
+            "postura_politica": "Sin tweets en el período de análisis (solo uno del 26/11 pero antes de las 20hs ARG). No se incluye en el análisis.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@NachoTorresCH (Chubut)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Obras de infraestructura",
+                "Plan Galina"
+            ],
+            "postura_politica": "Despliega una intensa agenda de gestión local, destacando inversiones en salud y vivienda. El mensaje es de autonomía y eficiencia, sin mencionar a Nación. La referencia al Plan Galina busca crear una marca de gestión propia.",
+            "frase_fuerte": "En una provincia tan extensa como la nuestra, garantizar una salud de calidad también significa que nuestros equipos tengan las herramientas necesarias para llegar a cada vecino, viva donde viva."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Salud pública",
+                "Educación universitaria",
+                "Industria",
+                "Obras públicas"
+            ],
+            "postura_politica": "Recorre el interior provincial inaugurando obras y anunciando inversiones, con un fuerte énfasis en la educación y la salud. La ausencia de referencias a Nación es un gesto de autonomía y de construcción de poder territorial.",
+            "frase_fuerte": "Nosotros no vamos a dejar a nadie sin atención sanitaria."
+        },
+        {
+            "gobernador": "@gustavovaldesok (Corrientes)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin tweets en el período de análisis.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin tweets en el período de análisis.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gildoinsfran (Formosa)",
+            "temas_mencionados": [
+                "Gestión administrativa",
+                "Reconocimiento a jóvenes",
+                "Aniversarios"
+            ],
+            "postura_politica": "Agenda local y protocolar, sin impacto federal. Se limita a actos de gobierno y efemérides, evitando cualquier posicionamiento nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@carlossadirjuy (Jujuy)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin tweets en el período de análisis.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ZiliottoSergio (La Pampa)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin tweets en el período de análisis.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Unidad peronista",
+                "Crítica al gobierno nacional"
+            ],
+            "postura_politica": "Se muestra como articulador del peronismo federal, con críticas veladas al modelo de Milei. La reunión con Passalacqua y el encuentro en Chaco buscan construir una alternativa de poder territorial.",
+            "frase_fuerte": "La recesión es la frutilla del postre con la que el gobierno de Milei termina de aniquilar a dos terceras partes de los argentinos."
+        },
+        {
+            "gobernador": "@alfredocornejo (Mendoza)",
+            "temas_mencionados": [
+                "Cultura",
+                "Vivienda",
+                "Minería",
+                "Salud"
+            ],
+            "postura_politica": "Combina agenda cultural (recuperación de obra de arte) con anuncios de vivienda y minería. La firma del Tratado del Cobre con San Juan y Jujuy lo posiciona como líder de la región minera, en sintonía con la política nacional de desarrollo minero.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Anuncio de candidatura",
+                "Obras aeroportuarias",
+                "Cooperación con La Rioja"
+            ],
+            "postura_politica": "Anuncia su candidatura a gobernador por un nuevo movimiento, marcando ruptura con el partido provincial. La agenda de obras y la cooperación con Quintela buscan mostrar gestión y alianzas, en un contexto de reconfiguración política local.",
+            "frase_fuerte": "La decisión más importante fue cambiar una forma de gobernar de la que yo mismo había sido parte."
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "Empleo",
+                "Obras viales",
+                "Energía",
+                "Rendición de cuentas"
+            ],
+            "postura_politica": "Enfatiza la formación laboral y la infraestructura para Vaca Muerta, con un discurso de oportunidad generacional. La rendición de cuentas y la mención al RIGI de Argentina LNG muestran alineamiento con la política energética nacional.",
+            "frase_fuerte": "El desarrollo de Neuquén es un desafío generacional que no es de una persona, de un equipo ni de un partido político: es la última gran oportunidad que tenemos."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "VMOS",
+                "Presupuesto 2027",
+                "Vivienda",
+                "Seguridad",
+                "Educación"
+            ],
+            "postura_politica": "Se consolida como el gran gestor de la infraestructura energética, con un discurso de unidad y previsibilidad. La aprobación del presupuesto con amplia mayoría refuerza su liderazgo institucional.",
+            "frase_fuerte": "Neuquén produce. Río Negro exporta. Queremos a los rionegrinos adentro, con trabajo para nuestra gente y oportunidades para nuestras empresas."
+        },
+        {
+            "gobernador": "@GustavoSaenzOK (Salta)",
+            "temas_mencionados": [],
+            "postura_politica": "Sin tweets en el período de análisis.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@DrMarceloOrrego (San Juan)",
+            "temas_mencionados": [
+                "Relaciones internacionales",
+                "Minería"
+            ],
+            "postura_politica": "Recibe a la misión de la Unión Europea y promociona a San Juan como polo de inversión minera. La agenda internacional refuerza su perfil de gobernador pro-inversión, alineado con la política de apertura al mundo.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Obras públicas",
+                "Vivienda",
+                "Salud",
+                "Educación",
+                "Emergencia climática"
+            ],
+            "postura_politica": "Despliega una intensa agenda de gestión local, con anuncios de viviendas, salud y respuesta a emergencias. La ausencia de referencias nacionales sugiere un repliegue en la gestión provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "Justicia",
+                "Producción",
+                "Obras",
+                "Crítica al kirchnerismo"
+            ],
+            "postura_politica": "Utiliza la recuperación de bienes de la corrupción y la reactivación de obras para marcar un quiebre con la gestión anterior. El discurso de 'Santa Cruz puede' busca generar un relato de cambio y eficiencia.",
+            "frase_fuerte": "Lo que la corrupción le robó a Santa Cruz vuelve a los santacruceños."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Deporte",
+                "Salud",
+                "Obras viales",
+                "Industria"
+            ],
+            "postura_politica": "Muestra una agenda variada de gestión, con énfasis en salud y obras. La participación en la Cumbre de Minería Sostenible y la promoción de Agroactiva lo posicionan como un gobernador que busca diversificar la economía provincial.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Educación",
+                "Cultura",
+                "Exportaciones",
+                "Aeropuerto"
+            ],
+            "postura_politica": "Combina agenda educativa y cultural con anuncios de infraestructura aeroportuaria. El récord exportador y la modernización del aeropuerto buscan proyectar una imagen de provincia en crecimiento, sin confrontación nacional.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@gustavomelella (Tierra del Fuego)",
+            "temas_mencionados": [
+                "Energía",
+                "Puerto",
+                "Educación",
+                "Política internacional"
+            ],
+            "postura_politica": "Defiende la autonomía provincial en el conflicto por el puerto de Ushuaia y promueve la soberanía energética. La crítica a la intervención nacional y el apoyo a Lula muestran un perfil opositor al gobierno de Milei.",
+            "frase_fuerte": "El puerto es de Tierra del Fuego. Es fuente de trabajo para muchas familias y es fundamental para el desarrollo de Tierra del Fuego y para la soberanía argentina en el Atlántico Sur."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "Seguridad",
+                "Obras públicas",
+                "Gestión financiera"
+            ],
+            "postura_politica": "Se enfoca en la gestión de la seguridad y la obra pública, con un discurso de responsabilidad fiscal. La reunión con el vicegobernador para analizar la caída de la coparticipación revela preocupación, pero sin confrontación abierta.",
+            "frase_fuerte": null
+        }
+    ]
+}
