@@ -1,0 +1,140 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La jornada federal estuvo marcada por una intensa actividad de gestión provincial, con foco en el desarrollo económico, la infraestructura y la educación. Gobernadores como Raúl Jalil (Catamarca), Martín Llaryora (Córdoba), Arabela Carreras (Río Negro), Claudio Poggi (San Luis), Maximiliano Pullaro (Santa Fe) y Elías Suárez (Santiago del Estero) destacaron inversiones locales y programas de estímulo. Ricardo Quintela (La Rioja) adoptó una postura crítica hacia el modelo económico nacional, abogando por un desarrollo federal con defensa de la industria, aunque también se observó un impulso a la cooperación interprovincial. La agenda se centró en la resiliencia y la autonomía regional.",
+    "analisis_profundo": "La actividad de los gobernadores en la última jornada subraya una clara priorización de la gestión local y el fortalecimiento de la autonomía provincial. Raúl Jalil (Catamarca) se posicionó como un actor clave en la articulación federal e internacional al recibir a delegaciones y funcionarios de Cancillería para abordar temas de comercio exterior e integración, un esfuerzo por insertar a su provincia en la dinámica global y regional. En esta misma línea, Oscar Herrera Ahuad (Misiones) anunció una inversión significativa para la ampliación del aeropuerto de Posadas, buscando potenciar la conectividad aérea, el turismo y las economías regionales.\n\nMartín Llaryora (Córdoba) y Claudio Poggi (San Luis) concentraron sus mensajes en la inversión en capital humano y el desarrollo productivo. Llaryora celebró la inauguración de una nueva sede de la Universidad Provincial en Laboulaye (Córdoba), enfatizando la generación de oportunidades para los jóvenes en el interior y combatiendo el desarraigo. Poggi, por su parte, lanzó el Régimen Integral de Promoción del Desarrollo Económico y del Empleo (RIPEE), ofreciendo estímulos fiscales a pymes y apoyando activamente a cooperadoras escolares, lo que refleja un enfoque en la dinamización económica local y la participación comunitaria.\n\nEn cuanto al desarrollo productivo y la competitividad, Elías Suárez (Santiago del Estero) celebró un récord exportador, atribuyendo el éxito al esfuerzo de los productores y al acompañamiento estatal, una clara señal de la sinergia público-privada. Arabela Carreras (Río Negro) no solo promovió el turismo con el desarrollo de Comallo como nuevo destino, sino que también reforzó la seguridad con una nueva convocatoria policial, destacando la importancia de la estabilidad y las oportunidades laborales.\n\nSin embargo, la jornada no estuvo exenta de tensión. Ricardo Quintela (La Rioja) manifestó una fuerte crítica al gobierno nacional, argumentando que el modelo actual 'achica el mercado interno y posterga a todas las provincias', y reafirmó la necesidad de un 'desarrollo federal con defensa de la industria y trabajo con derechos'. A pesar de esta postura, también hizo hincapié en la importancia de fortalecer los vínculos interprovinciales para construir una Argentina más federal. Maximiliano Pullaro (Santa Fe) enfocó su mensaje en valores sociales, entregando becas al mérito deportivo y resaltando la importancia del trabajo en equipo. En suma, el panorama exhibe gobernadores enfocados en sus gestiones, buscando el crecimiento y la estabilidad local, con algunos puntos de fricción respecto a las políticas centrales y una estrategia general de fortalecer el federalismo desde la base provincial.",
+    "temas_calientes": [
+        {
+            "tema": "Desarrollo y Diversificación Económica Regional",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@QuintelaRicardo",
+                "@Weretilneck",
+                "@claudiojpoggi",
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Inversión en Infraestructura y Conectividad Provincial",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Expansión de la Educación Superior y Apoyo a la Comunidad",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora",
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento de la Seguridad Pública y Empleo Policial",
+            "gobernadores_involucrados": [
+                "@Weretilneck"
+            ]
+        },
+        {
+            "tema": "Crítica al Modelo Nacional y Defensa de la Autonomía Federal",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Unir a la política, la cultura y la producción es clave para reconstruir el rumbo de la Argentina. En Buenos Aires compartimos una gran jornada en el Encuentro por la Victoria y la Unidad, intercambiando miradas con dirigentes políticos, referentes culturales y empresarios sobre la realidad que atraviesa el país. Frente a un modelo que achica el mercado interno y posterga a todas las provincias, reafirmamos la necesidad de impulsar un desarrollo federal, con defensa de la industria, identidad propia y trabajo con derechos. Gracias por este gran encuentro.",
+        "por_que_es_clave": "Este tweet posee la mayor relevancia política al cuestionar directamente el modelo económico nacional y proponer un camino alternativo basado en el desarrollo federal y la protección de la industria y el empleo. La mención de un 'Encuentro por la Victoria y la Unidad' sugiere una articulación de fuerzas políticas opositoras o con una visión crítica del gobierno central, con miras a un proyecto de país diferente.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Relaciones Internacionales",
+                "Comercio Exterior",
+                "Integración Federal"
+            ],
+            "postura_politica": "El gobernador demuestra una postura proactiva en la diplomacia subnacional, posicionando a Catamarca como un actor relevante en el ámbito federal e internacional, enfocado en el diálogo y el trabajo conjunto para el desarrollo de la provincia.",
+            "frase_fuerte": "Celebro la concreción de estos espacios de diálogo y trabajo conjunto que ayudan a fortalecer la articulación federal."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "Educación Superior",
+                "Desarrollo Regional",
+                "Oportunidades para Jóvenes"
+            ],
+            "postura_politica": "Llaryora enfatiza su compromiso con la expansión de la educación pública al interior provincial, buscando generar oportunidades y arraigo para los jóvenes, y así potenciar el desarrollo económico y social de las comunidades locales.",
+            "frase_fuerte": "Porque cada vez que la universidad llega a una comunidad, más jóvenes pueden construir su futuro en el lugar que los vio crecer."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "Federalismo",
+                "Mercado Interno",
+                "Producción",
+                "Industria",
+                "Crítica al Gobierno Nacional",
+                "Cooperación Interprovincial"
+            ],
+            "postura_politica": "Adopta una postura crítica hacia el modelo nacional, defendiendo un desarrollo federal con énfasis en la industria y el mercado interno. Simultáneamente, busca fortalecer la unidad y el diálogo entre gobernadores para abordar desafíos comunes.",
+            "frase_fuerte": "Frente a un modelo que achica el mercado interno y posterga a todas las provincias, reafirmamos la necesidad de impulsar un desarrollo federal, con defensa de la industria, identidad propia y trabajo con derechos."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "Infraestructura Aeroportuaria",
+                "Turismo",
+                "Conectividad"
+            ],
+            "postura_politica": "El gobernador prioriza la inversión en infraestructura clave, como la modernización aeroportuaria, para potenciar el turismo y la conectividad, considerándolos pilares fundamentales para el desarrollo y el crecimiento económico de la provincia.",
+            "frase_fuerte": "¡Una obra histórica y muy esperada para Misiones! Después de mucho trabajo y gestiones para hacerla posible, hoy acompañamos la presentación del plan de obras de @AeropuertosAR para la ampliación y modernización del Aeropuerto de Posadas."
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "Turismo",
+                "Desarrollo Local",
+                "Seguridad Pública",
+                "Empleo Público"
+            ],
+            "postura_politica": "Enfocado en la diversificación económica a través del turismo aventura y la mejora de la seguridad ciudadana, con un énfasis en la generación de empleo y el fortalecimiento de las instituciones estatales para el bienestar de los rionegrinos.",
+            "frase_fuerte": "Estamos fortaleciendo nuestra fuerza policial porque queremos una provincia más segura, con más efectivos en las calles, mejor preparados y con más herramientas para cuidar a nuestra gente."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "Promoción Económica",
+                "Inversión",
+                "Empleo",
+                "Educación",
+                "Participación Comunitaria"
+            ],
+            "postura_politica": "Impulsa activamente la inversión privada y la generación de empleo mediante estímulos fiscales, al mismo tiempo que fomenta la participación de la comunidad en el ámbito educativo a través de programas de apoyo a las cooperadoras escolares.",
+            "frase_fuerte": "Comenzamos con la aplicación del 'RIPEE'/ RÉGIMEN INTEGRAL DE PROMOCIÓN DEL DESARROLLO ECONÓMICO Y DEL EMPLEO. Una fuerte política fiscal de estímulo a nuevas Inversiones y al Empleo."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "Deporte",
+                "Juventud",
+                "Valores Sociales",
+                "Mérito"
+            ],
+            "postura_politica": "Destaca el rol del deporte como una herramienta fundamental para la construcción social y la promoción de valores como el trabajo en equipo, el esfuerzo y el orgullo por la identidad provincial, apoyando a los jóvenes talentos.",
+            "frase_fuerte": "Representan lo mejor de nuestros valores: el trabajo en equipo y saber que nadie se salva solo."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "Exportaciones",
+                "Producción Agrícola",
+                "Desarrollo Económico",
+                "Alianzas Público-Privadas"
+            ],
+            "postura_politica": "Celebra un récord exportador como resultado del esfuerzo de los productores y el apoyo estatal, reafirmando el compromiso del gobierno provincial con el crecimiento económico y la apertura de nuevos mercados para la producción local.",
+            "frase_fuerte": "SANTIAGO DEL ESTERO ALCANZÓ UN NUEVO RÉCORD EXPORTADOR: USD 1.513 millones, la cifra más alta de los últimos diez años."
+        }
+    ]
+}

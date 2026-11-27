@@ -1,0 +1,112 @@
+{
+    "clima_general": "SILENCIO",
+    "resumen_ejecutivo": "Jornada de baja intensidad política. Los gobernadores priorizan anuncios de gestión local, evitando confrontar con Nación. Ricardo Quintela (La Rioja) es la excepción, con tuits de construcción de unidad opositora peronista. El resto se refugia en obras, servicios y efemérides.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La jornada transcurre sin grandes disputas fiscales ni institucionales. El silencio de los gobernadores sobre la macroeconomía sugiere un repliegue táctico: evitar dar batalla en un momento de alta exposición mediática. La ausencia de reclamos por coparticipación o deuda provincial es, en sí misma, una señal de que las provincias no encuentran rédito en la confrontación abierta.\n\nActo 2 — Los Alineamientos: Ricardo Quintela emerge como el único actor que marca territorio opositor, articulando un discurso de unidad peronista con tintes federales. Su mensaje apunta a la militancia y a los sectores productivos, pero sin mencionar directamente al Gobierno nacional. El resto de los mandatarios evita posicionamientos: ni se alían ni se enfrentan. La ambigüedad calculada reina en Córdoba, San Luis y Santiago del Estero.\n\nActo 3 — La Micro-política: Martín Llaryora, Claudio Poggi y Maximiliano Pullaro se refugian en la agenda de cabotaje: inauguraciones universitarias, programas de promoción económica y becas deportivas. Son gestos de supervivencia política que buscan mostrar gestión en un contexto de restricción fiscal. Elias Suárez, por su parte, destaca un récord exportador, un dato que refuerza la narrativa de que Santiago del Estero crece pese al contexto nacional.\n\nActo 4 — Saldo Presidencial: La Casa Rosada no es interpelada directamente. Esto puede leerse como un respiro para el Gobierno, pero también como una advertencia: los gobernadores peronistas, salvo Quintela, eligen no desgastarse en debates públicos. Prefieren conservar energía para cuando la disputa fiscal sea inevitable. El silencio de hoy es la calma antes de la tormenta electoral de 2027.",
+    "temas_calientes": [
+        {
+            "tema": "Construcción de unidad opositora peronista",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Récord exportador provincial",
+            "gobernadores_involucrados": [
+                "@EliasSuarezSDE"
+            ]
+        },
+        {
+            "tema": "Inauguración de infraestructura universitaria",
+            "gobernadores_involucrados": [
+                "@MartinLlaryora"
+            ]
+        },
+        {
+            "tema": "Promoción económica provincial (RIPEE)",
+            "gobernadores_involucrados": [
+                "@claudiojpoggi"
+            ]
+        },
+        {
+            "tema": "Gestión de obras y servicios municipales",
+            "gobernadores_involucrados": [
+                "@RaulJalil_ok",
+                "@passalacquaok",
+                "@maxipullaro"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@QuintelaRicardo",
+        "texto": "Unir a la política, la cultura y la producción es clave para reconstruir el rumbo de la Argentina. En Buenos Aires compartimos una gran jornada en el Encuentro por la Victoria y la Unidad, intercambiando miradas con dirigentes políticos, referentes culturales y empresarios sobre la realidad que atraviesa el país. Frente a un modelo que achica el mercado interno y posterga a todas las provincias, reafirmamos la necesidad de impulsar un desarrollo federal, con defensa de la industria, identidad propia y trabajo con derechos. Gracias por este gran encuentro.",
+        "por_que_es_clave": "Quintela utiliza un evento partidario para posicionarse como articulador de la oposición peronista, sin confrontar directamente pero marcando un discurso alternativo al Gobierno nacional. Es un gesto de construcción de poder con vistas a 2027.",
+        "pregunta_openarg": "¿Puede la unidad peronista sin un liderazgo claro capitalizar el descontento social hacia 2027?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@RaulJalil_ok (Catamarca)",
+            "temas_mencionados": [
+                "Consejo Federal de Relaciones Exteriores",
+                "diplomacia provincial"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Jalil se muestra como anfitrión de un encuentro de cancillería, un rol protocolar que busca posicionar a Catamarca en la escena internacional, pero sin contenido político relevante.",
+            "frase_fuerte": "Para nuestra provincia es importante ser anfitriona de este encuentro, donde se abordan temas vinculados a Relaciones Internacionales y Cooperación..."
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "inauguración universitaria",
+                "obra pública"
+            ],
+            "postura_politica": "Refugio en agenda de cabotaje. Llaryora evita cualquier mención a Nación y se enfoca en la gestión educativa, un tema de alto impacto local pero bajo rédito federal.",
+            "frase_fuerte": "Porque cada vez que la universidad llega a una comunidad, más jóvenes pueden construir su futuro en el lugar que los vio crecer."
+        },
+        {
+            "gobernador": "@QuintelaRicardo (La Rioja)",
+            "temas_mencionados": [
+                "unidad opositora",
+                "desarrollo federal",
+                "crítica al modelo económico"
+            ],
+            "postura_politica": "Oposición estructurada. Quintela utiliza el 'Encuentro por la Victoria y la Unidad' para tejer alianzas y marcar un discurso alternativo, sin mencionar a Milei pero dejando clara su posición.",
+            "frase_fuerte": "Frente a un modelo que achica el mercado interno y posterga a todas las provincias, reafirmamos la necesidad de impulsar un desarrollo federal..."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "modernización aeropuerto",
+                "conectividad"
+            ],
+            "postura_politica": "Gestión local sin conflicto. Passalacqua anuncia obras en el aeropuerto de Posadas, un tema de infraestructura que no genera roces con Nación.",
+            "frase_fuerte": "¡Una obra histórica y muy esperada para Misiones! Después de mucho trabajo y gestiones para hacerla posible..."
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "RIPEE",
+                "promoción económica",
+                "cooperadoras escolares"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Poggi promociona el régimen de incentivos económicos provinciales, una medida de gestión que busca mostrar actividad sin confrontar.",
+            "frase_fuerte": "Comenzamos con la aplicación del 'RIPEE'/ RÉGIMEN INTEGRAL DE PROMOCIÓN DEL DESARROLLO ECONÓMICO Y DEL EMPLEO."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "becas deportivas",
+                "mérito deportivo"
+            ],
+            "postura_politica": "Gestión protocolar aislada. Pullaro entrega becas a deportistas, un acto de bajo peso político que no genera réplicas federales.",
+            "frase_fuerte": "Entregamos las Becas al Mérito Deportivo en #SantaFe para que puedan entrenar más y mejor..."
+        },
+        {
+            "gobernador": "@EliasSuarezSDE (Santiago del Estero)",
+            "temas_mencionados": [
+                "récord exportador",
+                "economía provincial"
+            ],
+            "postura_politica": "Posicionamiento económico positivo. Suárez destaca un récord de exportaciones, un dato que refuerza la gestión provincial sin confrontar con Nación, pero que implícitamente muestra que Santiago crece pese al contexto.",
+            "frase_fuerte": "SANTIAGO DEL ESTERO ALCANZÓ UN NUEVO RÉCORD EXPORTADOR: USD 1.513 millones, la cifra más alta de los últimos diez años."
+        }
+    ]
+}
