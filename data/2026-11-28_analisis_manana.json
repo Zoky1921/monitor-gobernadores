@@ -1,0 +1,178 @@
+{
+    "clima_general": "MODERADO",
+    "resumen_ejecutivo": "La agenda federal de hoy se centró en la gestión provincial con un fuerte énfasis en el desarrollo local y la infraestructura. Gobernadores como Leandro Zdero (Chaco), Martín Llaryora (Córdoba), Rogelio Frigerio (Entre Ríos), Rolando Figueroa (Neuquén), Alberto Weretilneck (Río Negro), Claudio Poggi (San Luis), Maximiliano Pullaro (Santa Fe) y Osvaldo Jaldo (Tucumán) anunciaron y recorrieron obras clave en áreas como energía, vialidad, vivienda y servicios sociales. Ricardo Quintela (La Rioja) llamó a fortalecer el federalismo a través del diálogo interprovincial en un 'momento difícil'. La jornada también fue marcada por el contundente anuncio de Claudio Vidal (Santa Cruz) sobre la recuperación de bienes ligados a la corrupción, señalando un quiebre con el pasado provincial y un firme mensaje de transparencia.",
+    "analisis_profundo": "La actividad de los gobernadores en la jornada del 28 de noviembre de 2026 se caracterizó por una inercia de gestión enfocada en el desarrollo provincial y la mejora de servicios esenciales. La mayoría de los mensajes proyectan un fuerte compromiso con la inversión pública en infraestructura, buscando dinamizar las economías regionales y mejorar la calidad de vida de sus habitantes, sin una confrontación explícita con la órbita nacional en los tweets relevantes. \n\nLeandro Zdero (Chaco) profundizó en el apoyo a la educación rural y la producción local, vital para el arraigo. Martín Llaryora (Córdoba) destacó la inversión en infraestructura energética renovable y la colaboración público-privada como motores de progreso. Rogelio Frigerio (Entre Ríos) celebró la habilitación de un gasoducto que conecta su provincia con Vaca Muerta, anticipando nuevas inversiones y empleo. Por su parte, Rolando Figueroa (Neuquén) priorizó el fortalecimiento de la infraestructura social y deportiva para la juventud. Alberto Weretilneck (Río Negro) mostró un frente multifacético, desde el fomento cultural y turístico hasta la expansión de redes de gas natural y el refuerzo de la seguridad. Claudio Poggi (San Luis) se centró en la vivienda, el apoyo a organizaciones sociales y un nuevo régimen de promoción económica. Maximiliano Pullaro (Santa Fe) inauguró una ruta provincial largamente esperada, mientras que Osvaldo Jaldo (Tucumán) enfatizó la recuperación de accesos viales y la colaboración municipal. Hugo Passalacqua (Misiones) comunicó la modernización aeroportuaria, esencial para la conectividad y el turismo.\n\nEl gobernador Ricardo Quintela (La Rioja) mantuvo un discurso más político-institucional, enfatizando la necesidad de fortalecer el diálogo y la unidad interprovincial ante el difícil contexto nacional. La nota más disruptiva provino de Claudio Vidal (Santa Cruz), quien anunció una acción de gobierno contundente contra la corrupción de gestiones anteriores, prometiendo 'mostrar la obscena dimensión del patrimonio' oculto y la recuperación de bienes para la provincia. Este mensaje subraya una tensión política interna y un claro posicionamiento de cambio, generando un contraste con la gestión más orientada al progreso incremental de otros mandatarios. En general, los líderes provinciales buscan consolidar su autonomía y capacidad de respuesta frente a los desafíos económicos, priorizando inversiones que se traduzcan en bienestar directo para sus comunidades.",
+    "temas_calientes": [
+        {
+            "tema": "Impulso a la Infraestructura y Obra Pública",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@claudiojpoggi",
+                "@maxipullaro",
+                "@OsvaldoJaldo"
+            ]
+        },
+        {
+            "tema": "Fomento del Desarrollo Productivo y Empleo Local",
+            "gobernadores_involucrados": [
+                "@LeandroZdero",
+                "@MartinLlaryora",
+                "@frigeriorogelio",
+                "@claudiojpoggi",
+                "@ClaudioVidalSer",
+                "@maxipullaro"
+            ]
+        },
+        {
+            "tema": "Transparencia y Lucha contra la Corrupción",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Fortalecimiento del Federalismo y Diálogo Interprovincial",
+            "gobernadores_involucrados": [
+                "@QuintelaRicardo"
+            ]
+        },
+        {
+            "tema": "Modernización de Servicios y Gestión Pública",
+            "gobernadores_involucrados": [
+                "@passalacquaok",
+                "@Rolo_Figueroa",
+                "@Weretilneck",
+                "@claudiojpoggi"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "MAÑANA VAMOS A MOSTRAR LA OBSCENA DIMENSIÓN DEL PATRIMONIO QUE SE OCULTABA DETRÁS DEL RELATO POPULISTA Vamos a recorrer y mostrarles a los santacruceños apenas una parte de las cientos de propiedades vinculadas a causas de corrupción. Bienes que durante años estuvieron en manos de unos pocos, mientras miles de familias sufrían necesidades. Esta vez, la Justicia está avanzando para que esos bienes puedan ser recuperados en beneficio del pueblo. Los tiempos cambiaron. Lo que pertenece a los santacruceños tiene que volver a los santacruceños. Santa Cruz Puede.",
+        "por_que_es_clave": "Este tweet impacta por su contundente denuncia de corrupción contra administraciones anteriores en Santa Cruz y el compromiso de recuperar activos provinciales. Refleja un fuerte quiebre con el pasado político de la provincia y subraya un cambio de paradigma en la gestión, alineándose con un discurso de transparencia y justicia social, lo que lo convierte en el mensaje de mayor peso político de la jornada.",
+        "pregunta_openarg": null,
+        "verificacion_openarg": null
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero",
+            "temas_mencionados": [
+                "Educación Rural",
+                "Desarrollo Local",
+                "Producción Agrícola"
+            ],
+            "postura_politica": "Enfocado en la gestión de infraestructura educativa y el fomento del arraigo a través de la producción local. Su enfoque es pragmático y dirigido a la base productiva y social de su provincia.",
+            "frase_fuerte": "¡Seguimos cerca de la educación rural!"
+        },
+        {
+            "gobernador": "@MartinLlaryora",
+            "temas_mencionados": [
+                "Infraestructura Energética",
+                "Energías Renovables",
+                "Desarrollo Local",
+                "Inversión Provincial",
+                "Coordinación Pública-Privada"
+            ],
+            "postura_politica": "Prioriza la inversión en infraestructura energética con un énfasis en energías renovables y la articulación público-privada para el desarrollo territorial. Subraya la importancia de garantizar servicios de calidad como motor de progreso y empleo.",
+            "frase_fuerte": "Siempre digo que la #infraestructura es la madre del progreso."
+        },
+        {
+            "gobernador": "@frigeriorogelio",
+            "temas_mencionados": [
+                "Infraestructura Gasífera",
+                "Desarrollo Productivo",
+                "Inversión Energética",
+                "Vaca Muerta"
+            ],
+            "postura_politica": "Promueve el desarrollo productivo a través de la expansión de la infraestructura gasífera, conectando la provincia a la red nacional y fomentando nuevas inversiones. Su gestión busca destrabar proyectos y generar empleo en la región.",
+            "frase_fuerte": "Sin energía no hay desarrollo posible."
+        },
+        {
+            "gobernador": "@QuintelaRicardo",
+            "temas_mencionados": [
+                "Federalismo",
+                "Diálogo Interprovincial",
+                "Contexto Económico Nacional"
+            ],
+            "postura_politica": "Destaca la necesidad de fortalecer los vínculos entre provincias y construir un proyecto federal ante un contexto nacional difícil. Enfatiza la gestión local como clave para responder a las necesidades de la comunidad.",
+            "frase_fuerte": "En este momento tan difícil para nuestras provincias, necesitamos fortalecer los vínculos, compartir experiencias y construir una Argentina más federal, donde cada gobierno pueda dar respuestas a las necesidades de su comunidad."
+        },
+        {
+            "gobernador": "@passalacquaok",
+            "temas_mencionados": [
+                "Infraestructura Aeroportuaria",
+                "Conectividad Aérea",
+                "Turismo"
+            ],
+            "postura_politica": "Centrado en la modernización de la infraestructura clave para el turismo y la conectividad, como el aeropuerto de Posadas. Demuestra una gestión proactiva en áreas estratégicas para el desarrollo provincial.",
+            "frase_fuerte": "¡Una obra histórica y muy esperada para Misiones!"
+        },
+        {
+            "gobernador": "@Rolo_Figueroa",
+            "temas_mencionados": [
+                "Infraestructura Social",
+                "Deporte",
+                "Juventud",
+                "Clubes Sociales"
+            ],
+            "postura_politica": "Apuesta por el fortalecimiento de la infraestructura deportiva y social, con foco en la inclusión de jóvenes a través de clubes y federaciones. Prioriza la detección de talentos y la promoción de una vida sana.",
+            "frase_fuerte": "Queremos que cada mejora se traduzca en cuotas sociales para chicos y chicas que hoy no pueden acceder a un club."
+        },
+        {
+            "gobernador": "@Weretilneck",
+            "temas_mencionados": [
+                "Cultura y Juventud",
+                "Infraestructura de Gas",
+                "Desarrollo Turístico",
+                "Seguridad"
+            ],
+            "postura_politica": "Impulsa el desarrollo integral de la provincia, fomentando el talento joven, expandiendo servicios básicos como el gas natural, y potenciando el turismo en zonas menos desarrolladas. Mantiene un perfil activo en seguridad.",
+            "frase_fuerte": "MÁS FAMILIAS DE COMALLO TENDRÁN GAS NATURAL"
+        },
+        {
+            "gobernador": "@claudiojpoggi",
+            "temas_mencionados": [
+                "Vivienda Social",
+                "Fortalecimiento Institucional",
+                "Desarrollo Económico",
+                "Salud Pública"
+            ],
+            "postura_politica": "Se enfoca en la gestión de vivienda, el apoyo a organizaciones sociales, y la promoción económica a través de incentivos fiscales. Demuestra un compromiso con la atención de cercanía en salud y el impulso al empleo.",
+            "frase_fuerte": "Comenzamos con la aplicación del 'RIPEE'/ RÉGIMEN INTEGRAL DE PROMOCIÓN DEL DESARROLLO ECONÓMICO Y DEL EMPLEO. Una fuerte política fiscal de estímulo a nuevas Inversiones y al Empleo. Esto recién comienza. Bien !!"
+        },
+        {
+            "gobernador": "@ClaudioVidalSer",
+            "temas_mencionados": [
+                "Lucha Contra la Corrupción",
+                "Recuperación de Activos",
+                "Desarrollo Productivo",
+                "Justicia"
+            ],
+            "postura_politica": "Muestra una postura fuerte contra la corrupción pasada, anunciando la recuperación de bienes y promoviendo un modelo productivo que genere trabajo para la provincia. Su retórica es crítica hacia 'el relato populista'.",
+            "frase_fuerte": "MAÑANA VAMOS A MOSTRAR LA OBSCENA DIMENSIÓN DEL PATRIMONIO QUE SE OCULTABA DETRÁS DEL RELATO POPULISTA"
+        },
+        {
+            "gobernador": "@maxipullaro",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Desarrollo Productivo",
+                "Seguridad Vial"
+            ],
+            "postura_politica": "Enfatiza la inversión en infraestructura vial como motor de desarrollo productivo y seguridad para los ciudadanos. Destaca el cumplimiento de obras largamente esperadas y el espíritu de progreso de la provincia.",
+            "frase_fuerte": "¡Y la hicimos nomás! Después de 40 años, inauguramos la nueva Ruta Provincial 96 entre #MiguelTorres y #Chovet."
+        },
+        {
+            "gobernador": "@OsvaldoJaldo",
+            "temas_mencionados": [
+                "Infraestructura Vial",
+                "Desarrollo Municipal"
+            ],
+            "postura_politica": "Resalta la recuperación de obras viales clave para mejorar la conectividad y el acceso a las ciudades. Colabora con los municipios para el desarrollo de infraestructura local, enfatizando el impacto en la calidad de vida.",
+            "frase_fuerte": "En el 138º aniversario de su municipalización, compartimos con los vecinos una obra esperada desde hace 14 años: recuperamos el acceso principal a la ciudad desde la Ruta Nacional 38."
+        }
+    ]
+}

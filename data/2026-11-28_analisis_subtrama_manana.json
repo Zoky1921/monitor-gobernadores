@@ -1,0 +1,122 @@
+{
+    "clima_general": "TENSION",
+    "resumen_ejecutivo": "La jornada estuvo marcada por el anuncio de Claudio Vidal (Santa Cruz) de exhibir propiedades vinculadas a la corrupción kirchnerista, un golpe político directo al relato populista. En paralelo, Rogelio Frigerio (Entre Ríos) habilitó un gasoducto clave que conecta el noreste entrerriano con Vaca Muerta, reafirmando la agenda energética federal. El resto de los gobernadores se refugió en la gestión local, sin posicionamientos nacionales.",
+    "analisis_profundo": "Acto 1 — El Conflicto Central: La tensión de la jornada se concentró en Santa Cruz, donde Claudio Vidal Ser lanzó una ofensiva mediática contra el patrimonio oculto del kirchnerismo. Al anunciar que mostrará propiedades vinculadas a Lázaro Báez, Vidal no solo busca capitalizar la causa judicial, sino también marcar un quiebre simbólico con el pasado provincial. Es un movimiento que interpela directamente al peronismo nacional y a la militancia que aún defiende el legado de los gobiernos anteriores. Mientras tanto, el resto de los mandatarios optó por un perfil bajo, evitando meterse en el terreno minado de la corrupción.\n\nActo 2 — Los Alineamientos: Rogelio Frigerio (Entre Ríos) se posicionó como el socio estratégico de la agenda energética federal al habilitar un gasoducto que conecta su provincia con Vaca Muerta. Su mensaje es claro: la infraestructura energética es el camino para el desarrollo, y su gestión está alineada con las necesidades productivas del país. En contraste, los gobernadores de provincias centrales como Córdoba, Santa Fe y Neuquén se mantuvieron en la gestión local, sin pronunciarse sobre temas nacionales. Es un silencio que sugiere una espera calculada: no quieren desgastarse en debates que no les reportan beneficios inmediatos.\n\nActo 3 — La Micro-política: La mayoría de los mandatarios con actividad en la jornada se refugiaron en la agenda de cabotaje. Desde Chaco hasta Tucumán, pasando por San Luis y Río Negro, los tuits se centraron en obras de infraestructura local, educación y servicios. Es un repliegue estratégico: en un contexto de ajuste y tensiones fiscales, mostrar gestión territorial es la forma de marcar autonomía y responder a las demandas cotidianas sin entrar en conflicto con Nación. La excepción fue Claudio Vidal, que eligió la confrontación directa.\n\nActo 4 — Saldo Presidencial: Para la Casa Rosada, el balance es agridulce. Por un lado, la ofensiva de Vidal Ser debilita al peronismo opositor y refuerza el relato de lucha contra la corrupción que impulsa el Gobierno nacional. Por otro, la falta de una agenda federal coordinada entre los gobernadores aliados evidencia que la estrategia de descentralización y ajuste no logra generar una base sólida de apoyo. El silencio de los mandatarios periféricos es una advertencia: mientras no lleguen recursos, la gestión local será su única prioridad.",
+    "temas_calientes": [
+        {
+            "tema": "Ofensiva anticorrupción en Santa Cruz",
+            "gobernadores_involucrados": [
+                "@ClaudioVidalSer"
+            ]
+        },
+        {
+            "tema": "Infraestructura energética y conexión con Vaca Muerta",
+            "gobernadores_involucrados": [
+                "@frigeriorogelio"
+            ]
+        }
+    ],
+    "tweet_destacado": {
+        "usuario": "@ClaudioVidalSer",
+        "texto": "MAÑANA VAMOS A MOSTRAR LA OBSCENA DIMENSIÓN DEL PATRIMONIO QUE SE OCULTABA DETRÁS DEL RELATO POPULISTA... Vamos a recorrer y mostrarles a los santacruceños apenas una parte de las cientos de propiedades vinculadas a causas de corrupción. Bienes que durante años estuvieron en manos de unos pocos, mientras miles de familias sufrían necesidades. Esta vez, la Justicia está avanzando para que esos bienes puedan ser recuperados en beneficio del pueblo. Los tiempos cambiaron. Lo que pertenece a los santacruceños tiene que volver a los santacruceños. Santa Cruz Puede.",
+        "por_que_es_clave": "Vidal Ser utiliza la recuperación de bienes de la causa Lázaro Báez para marcar un quiebre con el pasado kirchnerista y posicionarse como el gobernador que combate la corrupción, enviando un mensaje directo a la militancia peronista y al Gobierno nacional.",
+        "pregunta_openarg": "¿La ofensiva judicial contra los bienes de Lázaro Báez en Santa Cruz es un acto de justicia o una operación política para debilitar al peronismo en el sur?"
+    },
+    "analisis_por_gobernador": [
+        {
+            "gobernador": "@LeandroZdero (Chaco)",
+            "temas_mencionados": [
+                "educación rural",
+                "equipamiento escolar"
+            ],
+            "postura_politica": "Agenda local sin impacto federal. Se enfoca en gestión educativa en el Impenetrable, sin referencias a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@MartinLlaryora (Córdoba)",
+            "temas_mencionados": [
+                "infraestructura energética",
+                "salud",
+                "educación"
+            ],
+            "postura_politica": "Gestión provincial con énfasis en obras y servicios, evitando posicionamientos nacionales.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@frigeriorogelio (Entre Ríos)",
+            "temas_mencionados": [
+                "gasoducto",
+                "Vaca Muerta",
+                "energía"
+            ],
+            "postura_politica": "Posicionamiento estratégico en la agenda energética federal, conectando la provincia con Vaca Muerta y reivindicando el desarrollo productivo.",
+            "frase_fuerte": "Sin energía no hay desarrollo posible."
+        },
+        {
+            "gobernador": "@passalacquaok (Misiones)",
+            "temas_mencionados": [
+                "turismo",
+                "navidad"
+            ],
+            "postura_politica": "Agenda local festiva, sin contenido político relevante.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Rolo_Figueroa (Neuquén)",
+            "temas_mencionados": [
+                "clubes sociales",
+                "deporte"
+            ],
+            "postura_politica": "Gestión social local, sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@Weretilneck (Río Negro)",
+            "temas_mencionados": [
+                "cultura juvenil",
+                "gas natural",
+                "viviendas"
+            ],
+            "postura_politica": "Gestión local diversa, sin posicionamiento federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@claudiojpoggi (San Luis)",
+            "temas_mencionados": [
+                "viviendas",
+                "salud",
+                "obras"
+            ],
+            "postura_politica": "Agenda local de obras y servicios, sin referencia a Nación.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@ClaudioVidalSer (Santa Cruz)",
+            "temas_mencionados": [
+                "corrupción",
+                "recuperación de bienes",
+                "justicia"
+            ],
+            "postura_politica": "Ofensiva política contra el kirchnerismo, utilizando la causa Lázaro Báez para marcar un cambio de rumbo y posicionarse como el gobernante que combate la corrupción.",
+            "frase_fuerte": "Lo que pertenece a los santacruceños tiene que volver a los santacruceños."
+        },
+        {
+            "gobernador": "@maxipullaro (Santa Fe)",
+            "temas_mencionados": [
+                "rutas",
+                "infraestructura vial"
+            ],
+            "postura_politica": "Gestión local de obras, sin impacto federal.",
+            "frase_fuerte": null
+        },
+        {
+            "gobernador": "@OsvaldoJaldo (Tucumán)",
+            "temas_mencionados": [
+                "aniversario",
+                "obras viales"
+            ],
+            "postura_politica": "Gestión local, sin posicionamiento nacional.",
+            "frase_fuerte": null
+        }
+    ]
+}
